@@ -1,0 +1,440 @@
+<IMS-DOCUMENT>0000950129-94-000063.txt : 19940207
+<IMS-HEADER>0000950129-94-000063.hdr.sgml : 19940207
+ACCESSION NUMBER:		0000950129-94-000063
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19940203
+ITEM INFORMATION:		5
+ITEM INFORMATION:		7
+FILED AS OF DATE:		19940204
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ENRON CORP
+		CENTRAL INDEX KEY:			0000072859
+		STANDARD INDUSTRIAL CLASSIFICATION:	4923
+		IRS NUMBER:				470255140
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	001-03423
+		FILM NUMBER:		94504441
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1400 SMITH ST
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+		BUSINESS PHONE:		7138536161
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 1188
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INTERNORTH INC
+		DATE OF NAME CHANGE:	19860429
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NORTHERN NATURAL GAS CO
+		DATE OF NAME CHANGE:	19800328
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>ENRON CORPORATION FORM 8-K
+<TEXT>
+<PAGE> 1
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+
+Date of Report: February 3, 1994
+
+Enron Corp. 
+(Exact name of registrant as specified in its charter)
+
+Delaware 
+(State or other jurisdiction of incorporation)
+
+1-3423 47-0255140 
+(Commission File Number) (IRS Employer Identification No.)
+
+1400 Smith Street
+Houston, Texas 77002 
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code: 713-853-6161
+
+<PAGE> 2
+Item 5. Other Events.
+
+On January 27, 1994, Enron Corp. issued a press release which
+included the following unaudited financial information for the quarter and
+year ended December 31, 1993:
+
+<PAGE> 3
+
+ENRON CORP.
+FINANCIAL REPORT
+(Unaudited: in millions except per share data)
+
+<TABLE>
+<CAPTION>
+QUARTER ENDED DECEMBER 31 1993 1992 (1)
+---------- ----------
+<S> <C> <C>
+Operating Revenues $ 2,582.4 $ 2,656.6
+========== ==========
+Net Income $ 104.1 (2) $ 99.0 (3)
+Preferred Dividends 4.0 4.8
+---------- ----------
+Income to Common $ 100.1 $ 94.2
+========== ==========
+Earnings per Share
+Primary $ 0.42 $ 0.40
+========== ==========
+Fully Diluted $ 0.39 $ 0.38
+========== ==========
+Average Number of Shares Used
+in Primary Computation 241.0 234.0
+========== ==========
+Average Number of Shares Used
+in Fully Diluted Computation 265.9 264.4
+========== ==========
+
+YEAR ENDED DECEMBER 31 1993 1992
+---------- ----------
+
+Operating Revenues $ 10,096.5 $ 9,406.7
+========== ==========
+Net Income $ 332.5 (2) $ 306.2 (3)
+Preferred Dividends 16.9 22.1
+---------- ----------
+Income to Common $ 315.6 $ 284.1
+========== ==========
+Primary Earnings per Share
+Income Before Extraordinary Item $ 1.32 $ 1.40
+Extraordinary Item -- (0.11)
+---------- ----------
+Total $ 1.32 $ 1.29
+========== ==========
+
+Fully Diluted Earnings Per Share
+Income Before Extraordinary Item $ 1.25 $ 1.30
+Extraordinary Item -- (0.09)
+---------- ----------
+Total $ 1.25 $ 1.21
+========== ==========
+Average Number of Shares Used in
+Primary Computation 239.0 220.0
+========== ==========
+Average Number of Shares Used in
+Fully Diluted Computation 265.3 254.2
+========== ==========
+</TABLE>
+
+(1) Restated to reflect the operations of EOTT Energy Corp. as continuing
+operations.
+(2) The fourth quarter includes a $41.3 million after-tax gain from the sale of
+limited partnership units in Northern Border Partners, L.P. substantially
+offset by the establishment of reserves for litigation and other
+contingencies. The fourth quarter also includes a $0.9 million after-tax
+gain from the sale of oil and gas properties and $9.6 million from EOG's
+deferred tax reduction. The third quarter of 1993 includes a $54.0 million
+charge to adjust for the increase in the corporate statutory federal income
+tax rate from 34% to 35% and a $6.0 million after-tax gain from the sale of
+oil and gas properties.
+(3) Includes after-tax gains in the fourth quarter of $10.9 million from an
+asset sale and $5.5 million from Mobil stock sales; the third quarter in-
+cludes after-tax gains of $60.0 million from the EOG stock sale offset by
+a $21.5 million extraordinary loss from the early retirement of debt and
+an after-tax write-off of $37.5 million primarily for pending litigation;
+the second quarter includes after-tax gains of $18.4 million from the sale
+of Mobil stock and $3.3 million from EOG property sales; the first quarter
+includes after-tax gains of $10.4 million from the sale of Mobil stock.
+
+<PAGE> 4
+ENRON CORP.
+SUMMARY OPERATING REVENUES
+(Unaudited: in millions)
+
+<TABLE>
+<CAPTION>
+QUARTER ENDED DECEMBER 31 1993 1992
+--------- ---------
+<S> <C> <C>
+Interstate Gas Pipeline Group
+Interstate Gas Pipelines $ 366.0 $ 328.0
+EOTT 339.9 665.6
+Gas Services 1,597.3 1,005.2
+Power 68.7 21.0
+Exploration and Production 181.4 172.2
+Liquid Fuels 361.8 611.8
+Intercompany (332.7) (147.2)
+--------- ---------
+Total $ 2,582.4 $ 2,656.6
+========= =========
+
+YEAR ENDED DECEMBER 31 1993 1992
+--------- ---------
+Interstate Gas Pipeline Group
+Interstate Gas Pipelines $ 1,299.4 $ 1,247.7
+EOTT 2,261.7 3,171.7
+Gas Services 5,664.2 2,826.2
+Power 138.1 70.4
+Exploration and Production 686.9 554.1
+Liquid Fuels 1,251.7 2,025.0
+Intercompany (1,205.5) (488.4)
+--------- ---------
+Total $10,096.5 $ 9,406.7
+========= =========
+
+EARNING SUMMARY
+(Unaudited: in millions)
+
+QUARTER ENDED DECEMBER 31 1993 1992
+-------- --------
+Interstate Gas Pipeline Group $ 114.7 $ 87.1
+Gas Services 52.0 38.5
+Power 46.1 29.5
+Exploration and Production 19.1 38.8
+Liquid Fuels 6.4 18.9
+Corporate and Other (29.4) 11.9
+-------- --------
+Income Before Interest, Minority,
+Interest and Taxes 208.9 224.7
+Interest Expense 77.6 78.7
+Dividends on preferred stock of 
+subsidiary company 2.1 --
+Minority Interest in E&P Operations 7.7 8.0
+Income Tax Expense 17.4 39.0
+-------- --------
+Net Income $ 104.1 $ 99.0
+======== ========
+
+YEAR ENDED DECEMBER 31 1993 1992
+-------- --------
+Interstate Gas Pipeline Group $ 409.9 $ 322.5
+Gas Services 167.4 122.3
+Power 103.1 88.7
+Exploration and Production 122.2 102.1
+Liquid Fuels 30.0 80.3
+Corporate and Other (34.9) 51.3
+-------- ---------
+Income Before Interest, Minority,
+Interest and Taxes 797.7 767.2
+Interest Expense 300.2 330.3
+Dividends on preferred stock of 
+subsidiary company 2.1 --
+Minority Interest in E&P Operations 27.6 17.6
+Income Tax Expense 89.3 90.5
+Income Tax Rate Adjustment 46.0 (1) --
+-------- --------
+Income before extraordinary item 332.5 328.8
+Extraordinary Item -- (22.6)
+-------- --------
+Net Income $ 332.5 $ 306.2
+======== ========
+
+</TABLE>
+
+(1) Excludes charges of approximately $8 million related to the tax rate
+adjustment primarily applicable to entities accounted for utilizing the
+equity method and included in non-tax accounts.
+
+<PAGE> 5
+Item 7. Exhibits.
+
+10 Letter Report of DeGolyer and MacNaughton dated
+January 27, 1994
+
+24 Consent of DeGolyer and MacNaughton
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+ENRON CORP.
+
+By: KURT S. HUNEKE 
+_______________________________
+Kurt S. Huneke
+Vice President, Finance and
+Treasurer
+
+Dated: February 3, 1994
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<DESCRIPTION>LETTER REPORT - DEGOYLER AND MACNAUGHTON
+<TEXT>
+<PAGE> 1
+
+Exhibit 10
+
+DeGolyer and MacNaughton
+One Energy Square
+Dallas, Texas 75206
+TELEPHONE
+(214) 368-6391
+January 27, 1994 TELEFAX
+(214) 369-4061
+
+Enron Oil & Gas Company
+1400 Smith Street
+Houston, Texas 77002
+
+Gentlemen:
+
+Pursuant to your request, we have prepared estimates, as of
+January 1, 1994, of the proved oil, condensate, natural gas liquids, and
+natural gas reserves of certain selected properties in the United States and
+Canada owned by Enron Oil & Gas Company, hereinafter referred to as "Enron."
+The properties consist of working interests located in the states of New
+Mexico, Texas, Utah, and Wyoming and in the offshore waters of Texas in the
+United States and in the province of Saskatchewan in Canada. Our estimates are
+reported in detail in our "Report as of January 1, 1994 on Proved Reserves of
+Certain Properties in the United States owned by Enron Oil & Gas Company --
+Selected Properties" and our "Report as of January 1, 1994 on Proved Reserves
+of Certain Properties in Canada owned by Enron Oil & Gas Company -- Selected
+Properties." We also have reviewed data provided to us by Enron that it
+represents to be Enron's estimates of the reserves, as of January 1, 1994, for
+the same properties as those included in our aforementioned reports.
+
+Proved reserves estimated by us and referred to herein are
+judged to be economically producible in future years from known reservoirs
+under existing economic and operating conditions and assuming continuation of
+current regulatory practices using conventional production methods and
+equipment. Proved reserves are defined as those that have been proved to a
+high degree of certainty by reason of actual completion, successful testing, or
+in certain cases by adequate core analyses and electrical-log interpretation
+when the producing characteristics of the formation are known from nearby
+fields. These reserves are defined areally by reasonable geological
+interpretation of structure and known continuity of oil- or gas-saturated
+material. This definition is in agreement with the definition of proved
+reserves prescribed by the Securities and Exchange Commission.
+<PAGE> 2
+2
+
+Enron represents that its estimates of the proved reserves, as
+of January 1, 1994, net to its leasehold interests in the properties included
+in our report are as follows:
+
+<TABLE>
+<CAPTION>
+OIL, CONDENSATE, AND
+NATURAL GAS LIQUIDS NATURAL GAS NET EQUIVALENT
+(THOUSAND BARRELS) (MILLION CUBIC FEET) MILLION CUBIC FEET
+- -------------------- -------------------- ------------------
+<S> <C> <C>
+6,737 1,216,700 1,257,122
+</TABLE>
+
+Note: Net equivalent million cubic feet is based on 1 barrel of oil,
+condensate, or natural gas liquids being equivalent to 6,000 cubic feet of gas.
+
+Enron has advised us, and we have assumed, that its estimates
+of proved oil, condensate, natural gas liquids, and natural gas reserves are in
+accordance with the rules and regulations of the Securities and Exchange
+Commission.
+
+Proved reserves estimated by us for the properties included in
+our reports, as of January 1, 1994, are as follows:
+
+<TABLE>
+<CAPTION>
+OIL, CONDENSATE, AND
+NATURAL GAS LIQUIDS NATURAL GAS NET EQUIVALENT 
+(THOUSAND BARRELS) (MILLION CUBIC FEET) MILLION CUBIC FEET
+- --------------------- -------------------- ------------------ 
+<S> <C> <C>
+6,533 1,191,431 1,230,629
+</TABLE>
+
+Note: Net equivalent million cubic feet is based on 1 barrel of oil,
+condensate, or natural gas liquids being equivalent to 6,000 cubic feet of
+gas.
+
+In making a comparison of the detailed estimates prepared by
+us and by Enron of the properties involved, we have found differences, both
+positive and negative, in reserve estimates for individual fields. These 
+differences appear to be compensating to a great extent when considering the 
+reserves of Enron in the properties included in our reports, resulting in 
+overall differences not being substantial. It is our opinion that the reserve 
+estimates prepared by Enron on the 
+
+<PAGE> 3
+
+properties reviewed by us and referred to above, when compared on a net-
+equivalent-cubic-feet-of-gas basis, do not differ materially from those 
+prepared by us.
+
+Submitted,
+
+DeGOLYER and MacNAUGHTON
+
+W. G. McGILVRAY, P.E.
+____________________________
+W. G. McGilvray, P.E.
+Senior Vice President
+DeGolyer and MacNaughton
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>3
+<DESCRIPTION>CONSENT - DEGOYLER AND MACNAUGHTON
+<TEXT>
+<PAGE> 1
+
+Exhibit 24
+
+DeGolyer and MacNaughton
+One Energy Square
+Dallas, Texas 75206
+
+TELEPHONE
+(214) 368-6391
+February 3, 1994 TELEFAX
+(214) 369-4061
+
+Enron Corp.
+1400 Smith Street
+Houston, Texas 77002
+
+Gentlemen:
+
+We hereby consent to the inclusion of our letter report, dated January
+27, 1994, addressed to Enron Oil & Gas Company (the Company) relating to our
+comparison of estimates prepared by us to those furnished to us by the Company
+of proved oil, condensate, natural gas liquids, and natural gas reserves of
+certain selected properties owned by the Company as prepared in such letter
+report for estimates as of January 1, 1994, to be included as Exhibit 10 to
+Enron Corp.'s Current Report on Form 8-K to be filed with the Securities and
+Exchange Commission on or about February 3, 1994.
+
+Very truly yours,
+
+DeGOLYER and MacNAUGHTON
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

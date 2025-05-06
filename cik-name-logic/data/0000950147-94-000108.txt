@@ -1,0 +1,178 @@
+<IMS-DOCUMENT>0000950147-94-000108.txt : 19941024
+<IMS-HEADER>0000950147-94-000108.hdr.sgml : 19941024
+ACCESSION NUMBER:		0000950147-94-000108
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19941019
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		19941021
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARIZONA PUBLIC SERVICE CO
+		CENTRAL INDEX KEY:			0000007286
+		STANDARD INDUSTRIAL CLASSIFICATION:	4931
+		IRS NUMBER:				860011170
+		STATE OF INCORPORATION:			AZ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04473
+		FILM NUMBER:		94554491
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 N FIFTH ST
+		STREET 2:		18TH FLOOR MAIL STATION 9820
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85004
+		BUSINESS PHONE:		6022501000
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) October 19, 1994
+
+ARIZONA PUBLIC SERVICE COMPANY
+(Exact name of registrant as specified in its charter)
+
+Arizona 1-4473 86-0011170
+(State or other (Commission (IRS Employer
+jurisdiction of File Number) Identification
+incorporation) Number)
+
+400 North Fifth Street, P.O. Box 53999, Phoenix, Az 85004
+(Address of principal executive offices) (Zip code)
+
+Registrant's telephone number, including area code (602)250-1000
+
+NONE
+(Former name or former address, if changed since last report)
+
+ITEM 7. Financial Statement, Pro Forma Financial Information and Exhibits
+
+(c) Exhibits
+
+The Registrant hereby files the following Exhibit to its Registration
+Statements on Form S-3 (Nos. 33-61228 and 33-55473), which were declared
+effective on April 26, 1993 and October 3, 1994, respectively.
+
+Exhibit
+No. Description
+- ------- -----------
+12.2 Computation of Ratio of Earnings to Fixed Charges.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Act of 1934, the
+
+Company has duly caused this report to be signed on its behalf by the
+
+undersigned hereunto duly authorized.
+
+ARIZONA PUBLIC SERVICE COMPANY
+(Registrant)
+
+Dated: October 21, 1994 By Nancy E. Newquist
+-----------------
+Nancy E. Newquist
+Treasurer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12.2
+<SEQUENCE>2
+<DESCRIPTION>COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+<TEXT>
+EXHIBIT 12.2
+
+- ------------------------------------------------------------------------------
+<TABLE>
+ARIZONA PUBLIC SERVICE COMPANY
+
+COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+(THOUSANDS OF DOLLARS)
+
+<CAPTION>
+
+Twelve Months Ended
+-----------------------------------------------------------------------------------------------------------
+September 30, December 31,
+----------------- ----------------------------------------------------------------------------------------
+1991
+1994 1993 1992 1991 <F1> Adjusted <F1> 1990 1989
+----------------- ------------ ------------ -------------- ---------------- ------------ ------------
+<S> <C> <C> <C> <C> <C> <C> <C>
+Earnings:
+Net Income....... $ 259,531 $ 250,386 $ 246,805 $ (222,649) $ 184,380 $ 180,012 $ 212,354
+Income taxes (1). 187,372 188,907 181,355 (94,750) 128,801 126,831 145,678
+Fixed Charges.... 214,131 220,590 246,246 281,959 281,959 292,117 276,429
+--------------- ------------ ------------ -------------- -------------- ------------ ------------
+Total........ $ 661,034 $ 659,883 $ 674,406 $ (35,440) $ 595,140 $ 598,960 $ 634,461
+=============== ============ ============ ============== ============== ============ ============
+Fixed Charges:
+Interest expense. $ 166,474 $ 171,272 $ 190,746 $ 227,624 $ 227,624 $ 239,992 $ 224,243
+Amortization of
+debt discount,
+premium and
+expense........ 9,160 9,203 8,000 5,995 5,995 5,302 5,967
+Estimated
+interest
+portion of
+annual rentals
+(2)............ 38,497 40,115 47,500 48,340 48,340 46,823 46,219
+--------------- ------------ ------------ -------------- -------------- ------------ ------------
+Total........ $ 214,131 $ 220,590 $ 246,246 $ 281,959 $ 281,959 $ 292,117 $ 276,429
+=============== ============ ============ ============== ============== ============ ============
+Ratio of Earnings
+to Fixed Charges
+(rounded down)... 3.08 2.99 2.73 -0.13 2.11 2.05 2.29
+=============== ============ ============ ============== ============== ============ ============
+
+(1) Income Taxes:
+
+Charged to
+operations..... $ 170,681 $ 168,056 $ 164,620 $ 96,273 $ 117,408 $ 106,044 $ 122,674
+Charged
+(credited) to
+other accounts. 16,691 20,851 16,735 (191,023) 11,393 20,787 23,004
+--------------- ------------ ------------ -------------- -------------- ------------ ------------
+Total........ $ 187,372 $ 188,907 $ 181,355 $ (94,750) $ 128,801 $ 126,831 $ 145,678
+=============== ============ ============ ============== ============== ============ ============
+(2) Estimated
+interest portion
+of Unit 2 lease
+payments included
+in estimated
+interest portion
+of annual rentals $ 35,692 $ 37,407 $ 43,581 $ 43,625 $ 43,625 $ 43,666 $ 43,703
+=============== ============ ============ ============== ============== ============ ============
+- ----------
+<FN>
+<F1>The write-off resulting from the Arizona Corporation Commission order
+settling the Company's rate case resulted in a negative coverage ratio and
+an earnings coverage deficiency of approximately $317 million at December
+31, 1991. Excluding the effects of the write-off, the coverage ratio would
+have been 2.11 for the same period.
+</FN>
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

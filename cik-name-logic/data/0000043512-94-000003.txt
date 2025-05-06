@@ -1,0 +1,305 @@
+<IMS-DOCUMENT>0000043512-94-000003.txt : 19940216
+<IMS-HEADER>0000043512-94-000003.hdr.sgml : 19940216
+ACCESSION NUMBER:		0000043512-94-000003
+CONFORMED SUBMISSION TYPE:	8-K/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19931203
+ITEM INFORMATION:		1
+FILED AS OF DATE:		19940215
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREAT WESTERN FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000043512
+		STANDARD INDUSTRIAL CLASSIFICATION:	6035
+		IRS NUMBER:				951913457
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K/A
+		SEC ACT:		34
+		SEC FILE NUMBER:	001-04075
+		FILM NUMBER:		94509082
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9200 OAKDALE AVENUE
+		CITY:			CHATSWORTH
+		STATE:			CA
+		ZIP:			91311
+		BUSINESS PHONE:		8187753615
+
+	MAIL ADDRESS:	
+		STREET 1:		9200 OAKDALE AVENUE
+		CITY:			CHATSWORTH
+		STATE:			CA
+		ZIP:			91311
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K/A
+<SEQUENCE>1
+<DESCRIPTION>8-KAMENDMENT
+<TEXT>
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D. C. 20549
+
+FORM 8-K/A
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) December 3, 1993
+----------------
+
+GREAT WESTERN FINANCIAL CORPORATION
+------------------------------------------------------
+(Exact name of registrant as specified in its charter)
+
+Delaware 1-4075 95-1913457
+- -------- ------ ----------
+(State or other (Commission File (IRS Employer
+jurisdiction of Number) Identification No.)
+incorporation) 
+
+9200 Oakdale Avenue, Chatsworth, California 91311
+------------------------------------------------------
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code (818) 775-3411
+--------------
+
+Not Applicable
+------------------------------------------------------------
+(Former name or former address, if changed since last report.)
+<PAGE>
+<PAGE>
+
+Item 7. Financial Statements and Exhibits
+
+(a) Historical financial statements are not included in this presentation 
+because the Registrant, through Great Western Bank, a Federal Savings
+Bank (the Bank), acquired certain assets and the customer deposits of
+HomeFed. The historical financial data would not be meaningful to
+this acquisition.
+
+(b) The accompanying pro forma statement of financial condition as of 
+September 30, 1993 and related proforma statement of operations for
+the nine months ended September 30, 1993 present the combination of
+the Registrant and HomeFed and appropriate adjustments.
+
+The following is a schedule showing the ratios of capital for the Bank
+compared with the fully phased-in benchmark as provided under the Financial
+Institution Reform, Recovery and Enforcement Act of 1989 under regulations
+issued by the Office of Thrift Supervision.
+
+<TABLE>
+<CAPTION>
+
+Pro Forma Bank
+Bank including HomeFed
+------------- ----------------- Regulatory
+September 30, 1993 Amount % Amount % Requirement
+(Dollars in millions) ------ --- ------ --- -----------
+
+<S> <C> <C> <C> <C> <c)
+Leverage/tangible capital ratio $2,015 5.67% $1,856 5.01% 3.00%
+Risk-based capital ratio 2,658 12.05% 2,514 10.80% 8.00%
+
+</TABLE>
+
+The Bank meets the fully phased-in capital requirements.
+<PAGE>
+<PAGE>
+
+The following is an analysis of customer accounts acquired from HomeFed at
+December 3, 1993:
+
+<TABLE>
+<CAPTION>
+(Dollars in thousands) Balance
+-------
+<S> <C>
+Transaction accounts
+Regular savings $ 258,193
+Money market 287,665
+Interest checking 273,675
+Non interest checking 100,471
+----------
+920,004
+----------
+
+Term accounts
+Less than six months 26,600
+Six months to 1 year 2,476,445
+1 to 2 years 249,265
+2 years and over 388,170
+----------
+3,140,480
+----------
+$4,060,484
+==========
+</table)<PAGE>
+<PAGE>
+GREAT WESTERN FINANCIAL CORPORATION AND SUBSIDIARIES
+CONSOLIDATED CONDENSED STATEMENT OF OPERATIONS
+Nine months ended September 30, 1993
+
+</TABLE>
+<TABLE>
+<CAPTION>
+
+(Dollars in thousands, except per share) GWFC HomeFed Adjustments Pro Forma
+---- ------- ----------- ---------
+<S> <C> <C> <C> <C>
+INTEREST INCOME
+Real estate loans $1,543,147 $ - $ - $1,543,147
+Mortgage-backed securities 141,881 - 19,088 160,969
+Consumer loans 295,247 1,294 - 296,541
+Securities 21,656 120,643 (89,113) 53,186
+Other 25,981 - - 25,981
+---------- -------- -------- ----------
+2,027,912 121 937 (70,025) 2,079,824
+INTEREST EXPENSE
+Customer accounts 713,783 113,099 (1,320) 825,562
+Borrowings
+Short-term 45,284 - (37,452) 7,832
+Long-term 225,602 - (31,253) 194,349
+---------- -------- -------- ----------
+984,669 113,099 (70,025) 1,027,743
+---------- -------- -------- ----------
+NET INTEREST INCOME 1,043,243 8,838 - 1,052,081
+Provision for loan losses 351,600 - - 351,600
+---------- -------- -------- ----------
+Net interest income after provision
+for loan losses 691,643 8,838 - 700,481
+Other operating income
+Real estate services
+Loan fees 28,857 - - 28,857
+Mortgage banking 
+Gain on mortgage sales 17,320 - - 17,320
+Servicing 38,592 - - 38,592
+Real estate operations (19,625) - - (19,625)
+Provision for real estate losses (54,000) - - (54,000)
+---------- -------- -------- ----------
+11,144 - - 11,144
+Retail banking 
+Banking fees 82,210 13,500 - 95,710
+Securities operations 28,306 - - 28,306
+---------- -------- -------- ----------
+110,516 13,500 - 124,016
+Net gain on securities and
+investments 23,631 - - 23,631
+Net insurance operations 21,352 - - 21,352
+Other 4,677 - - 4,677
+---------- -------- -------- ----------
+Total other operating income 171,320 13,500 - 184,820
+Operating and administrative expenses
+Salaries and related personnel 359,189 9,713 - 368,902
+Premises and occupancy 135,387 3,532 - 138,919
+FDIC insurance premium 39,105 7,000 - 46,105
+Amortization of intangibles 28,669 - 11,340 40,009
+Other 179,344 4,415 - 183,759
+--------- -------- -------- ----------
+741,694 24,660 11,340 777,694
+---------- -------- --------- ----------
+EARNINGS (LOSS) BEFORE TAXES 121,269 (2,322) (11,340) 107,607
+Taxes (benefit) on income 41,000 (975) (4,763) 35,262
+---------- -------- -------- ----------
+NET EARNINGS (LOSS) $ 80,269 $ (1,347) $ (6,577) $ 72,345
+========== ======== ======== ==========
+Earnings per share based on average
+common shares outstanding
+Primary $.47 $.41
+Fully diluted .47 .41
+
+</TABLE>
+[FN]
+Unaudited
+See Note to Consolidated Condensed Financial Statements.<PAGE>
+<PAGE>
+
+GREAT WESTERN FINANCIAL CORPORATION AND SUBSIDIARIES
+CONSOLIDATED CONDENSED STATEMENT OF FINANCIAL CONDITION
+September 30, 1993
+
+<TABLE>
+<CAPTION>
+
+(Dollars in thousands) GWFC HomeFed Adjustments Pro Forma
+---- ------- ----------- ---------
+<S> <C> <C> <C> <C>
+ASSETS
+Cash and securities
+Cash $ 701,869 $3,374,344 $(3,917,000) $ 159,213
+Certificates of deposit and
+federal funds 125 125
+Securities available for sale 615,502 544,008 908,000 2,067,510
+---------- ---------- ----------- -----------
+1,317,496 3,918,352 (3,009,000) 2,226,848
+Mortgage-backed securities available
+for sale 2,694,022 509,000 3,203,022
+
+Loans receivable, less reserve for
+estimated losses 30,192,332 13,254 30,205,586
+Loans receivable available for sale 492,594 492,594
+----------- ---------- ----------- -----------
+30,684,926 13,254 30,698,180
+Real estate available for sale or
+development, net 544,499 544,499
+Assets available for accelerated
+disposition, net 340,000 340,000
+Interest receivable 216,828 62 216,890
+Investment in Federal Home Loan Banks 307,337 307,337
+Premises and equipment, at cost,
+less accumulated depreciation 630,965 630,965
+Other assets 621,746 19,693 641,439
+Intangibles arising from acquisitions 292,617 151,200 443,817
+----------- ---------- ----------- -----------
+$37,650,436 $4,102,561 $(2,500,000) $39,252,997
+=========== ========== =========== ===========
+LIABILITIES
+Customer accounts $28,063,260 $4,060,484 $ (50,000) $32,073,744
+Short-term borrowings 2,117,960 (1,550,000) 567,960
+Other borrowings 4,184,625 (900,000) 3,284,625
+Other liabilities and accrued expenses 658,201 42,077 700,278
+Taxes on income, principally deferred 184,539 184,539
+Stockholders' equity 2,441,851 2,441,851
+----------- ---------- ----------- -----------
+$37,650,436 $4,102,561 $(2,500,000) $39,252,997
+=========== ========== =========== ===========
+
+</TABLE>
+[FN]
+Unaudited
+See Note to Consolidated Condensed Financial Statements.<PAGE>
+<PAGE>
+
+Note
+- ----
+
+(1) The Registrant assumed retail deposit liabilities of $4.1 billion and 
+acquired $3.9 billion of cash and short-term securities, which was
+used to repay borrowings not subject to prepayment penalties. Excess
+cash was invested in mortgage-backed securities and other short-term
+securities, all of which qualified for liquidity purposes.
+
+Within 90 days of acquisition, the Registrant intends to reprice
+customer term accounts down to rates similar to what the Registrant
+offers on its term accounts. It is anticipated that cash will be
+reduced from deposit outflows as a result of this repricing program.
+
+As reflected in the accompanying Pro Forma Consolidated Condensed
+Statement of Operations, the acquisition may be initially dilutive to
+earnings. As the acquired branch network is consolidated and
+integrated into the Registrant, economies of scale should be
+realized.
+
+The Registrant paid a premium to the RTC in the amount of $151.2
+million for the deposits acquired. The premium will be amortized
+over ten years, the average estimated life of the deposits assumed.
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

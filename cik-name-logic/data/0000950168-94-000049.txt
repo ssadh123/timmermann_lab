@@ -1,0 +1,2209 @@
+<IMS-DOCUMENT>0000950168-94-000049.txt : 19940221
+<IMS-HEADER>0000950168-94-000049.hdr.sgml : 19940221
+ACCESSION NUMBER:		0000950168-94-000049
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19940218
+ITEM INFORMATION:		7
+FILED AS OF DATE:		19940218
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DUKE POWER CO /NC/
+		CENTRAL INDEX KEY:			0000030371
+		STANDARD INDUSTRIAL CLASSIFICATION:	4911
+		IRS NUMBER:				560205520
+		STATE OF INCORPORATION:			NC
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	001-04928
+		FILM NUMBER:		94510674
+
+	BUSINESS ADDRESS:	
+		STREET 1:		422 S CHURCH ST
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28242
+		BUSINESS PHONE:		7045940887
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>DUKE POWER 8-K 02-18-94 89286
+<TEXT>
+<PAGE>
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+DUKE POWER COMPANY
+422 South Church Street
+Charlotte, North Carolina 28242
+704-382-8127
+
+<PAGE>
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+DATE OF REPORT (Date of earliest event reported) Not Applicable
+DUKE POWER COMPANY
+(Exact name of registrant as specified in its charter)
+<TABLE>
+<S> <C> <C>
+NORTH CAROLINA 1-4928 56-0205520
+(State or other jurisdiction (Commission (IRS Employer
+of incorporation) File Number) Identification No.)
+</TABLE>
+
+422 SOUTH CHURCH STREET, CHARLOTTE, NORTH CAROLINA 28242
+(Address of principal executive offices) (Zip Code)
+Registrant's telephone number, including area code (704) 382-8127
+No change
+(Former name or former address, if changed since last report)
+
+<PAGE>
+ITEM 7. FINANCIAL STATEMENTS AND EXHIBITS
+CONSOLIDATED STATEMENTS OF INCOME
+<TABLE>
+<CAPTION>
+Dollars in Thousands Year ended December 31, 1993 1992 1991
+<S> <C> <C> <C>
+ELECTRIC REVENUES (Notes 1 and 2).....................$4,281,876 $3,961,484 $3,816,960
+ELECTRIC EXPENSES
+Operation
+Fuel used in electric generation (Note 1)...........732,246 659,593 657,725
+Net interchange and purchased power (Note 3)........535,033 540,840 545,840
+Wages, benefits and materials......................701,994 636,729 622,121
+Maintenance of plant facilities........................375,457 403,162 354,679
+Depreciation and amortization (Note 1).................488,441 491,339 431,624
+General taxes..........................................231,680 215,493 204,688
+Income taxes (Notes 1 and 4)...........................402,960 289,633 293,460
+Total electric expenses...........................3,467,811 3,236,789 3,110,137
+Electric operating income.........................814,065 724,695 706,823
+OTHER INCOME (Notes 1, 4, 11 and 14)
+Allowance for equity funds used during construction.....17,221 15,476 50,704
+Other, net..............................................61,769 83,216 102,884
+Income taxes -- other, net.............................(24,092) (27,475) (25,472)
+Income taxes -- credit.................................16,371 13,790 22,789
+Total other income...................................71,269 85,007 150,905
+Income before interest deductions.................885,334 809,702 857,728
+INTEREST DEDUCTIONS
+Interest on long-term debt.............................256,347 265,646 274,662
+Other interest..........................................12,431 41,736 18,834
+Allowance for borrowed funds used 
+during construction (Notes 1 and 4)..................(9,859) (5,763) (19,391)
+Total interest deductions..........................258,919 301,619 274,105
+NET INCOME...............................................626,415 508,083 583,623
+Dividends on preferred and preference stock.............52,429 56,407 54,683
+EARNINGS FOR COMMON STOCK.............................$ 573,986 $ 451,676 $ 528,940
+COMMON STOCK DATA (Note 6)
+Average shares outstanding (thousands).................204,859 204,819 203,431
+Earnings per share.......................................$2.80 $2.21 $2.60
+Dividends per share..................................... $1.84 $1.76 $1.68
+</TABLE>
+
+SEE NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+1
+
+<PAGE>
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+<TABLE>
+<CAPTION>
+Dollars in Thousands Year ended December 31, 1993 1992 1991
+<S> <C> <C> <C>
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net Income..........................................$ 626,415 $ 508,083 $ 583,623
+Adjustments to reconcile net income to 
+net cash provided by operating activities:
+Non-cash items
+Depreciation and amortization (Note 1)............. 657,068 660,896 619,823
+Deferred income taxes and investment tax credit,
+net of amortization (Note 4).......................56,315 44,518 27,456
+Allowance for equity funds used during 
+construction.....................................(17,221) (15,476) (50,704)
+Purchased capacity levelization (Note 3)............(20,049) (66,511) (70,605)
+Other, net (Note 15).................................36,864 (16,258) (32,149)
+(Increase) Decrease in
+Accounts receivable.............................(36,948) 14,255 (45,412)
+Inventory........................................29,150 (9,383) 6,866
+Prepayments........................................(452) (939) 181
+Increase (Decrease) in Accounts payable............(54,275) 69,739 44,265
+Taxes accrued (Notes 1 and 4).....................26,583 4,514 11,739
+Interest accrued and other liabilities 
+(Notes 1, 9 and 13)...........................30,185 (22,825) 12,863
+Total adjustments..................................707,220 662,530 524,323
+Net cash provided by operating activities...1,333,635 1,170,613 1,107,946
+CASH FLOWS FROM INVESTING ACTIVITIES
+Construction expenditures...........................(543,563) (465,292) (572,705)
+Investment in nuclear fuel..........................(111,731) (122,565) (183,803)
+External funding for decommissioning (Note 16).......(52,524) (61,246) --
+Pre-funded pension cost (Note 12)....................(50,000) -- --
+Net change in investment securities and joint 
+ventures (Notes 1, 11 and 15).....................(12,379) (96,475) (35,807)
+Net cash used in investing activities.......(770,197) (745,578) (792,315)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Proceeds from the issuance of
+First and refunding mortgage bonds..............1,395,682 926,650 414,297
+Preferred stock.................................215,633 281,089 --
+Pollution-control bonds...........................76,265 -- --
+Short-term notes payable, net (Note 5)..........(108,000) 40,000 (99,000)
+Common stock................................... -- -- 48,014
+Payments for the redemption of First and 
+refunding mortgage bonds......................(1,399,336) (1,013,218) (279,970)
+Preferred stock...............................(224,295) (246,414) (9,650)
+Pollution-control bonds........................ (79,310) -- --
+Dividends paid.................................. (427,868) (417,443) (381,589)
+Other (Note 15).................................. (5,926) 3,313 (5,662)
+Net cash used in financing activities... (557,155) (426,023) (313,560)
+Net increase (decrease) in cash..................... 6,283 (988) 2,071
+Cash at beginning of year............................ 9,293 10,281 8,210
+Cash at end of year............................... $ 15,576 $ 9,293 $ 10,281
+</TABLE>
+
+SEE NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+
+2
+<PAGE>
+
+CONSOLIDATED BALANCE SHEETS
+ASSETS
+<TABLE>
+<CAPTION>
+Dollars in Thousands December 31, 1993 1992
+<S> <C> <C> 
+ELECTRIC PLANT (at original cost -- 
+Notes 1, 3, 9, 13, 15 and 16)
+Electric plant in service.........................$12,573,012 $12,193,888
+Less accumulated depreciation and amortization......4,431,460 4,197,505
+Electric plant in service, net....................8,141,552 7,996,383
+Nuclear fuel..........................................705,994 718,420
+Less accumulated amortization.........................405,910 425,088
+Nuclear fuel, net...................................300,084 293,332
+Construction work in progress (including nuclear 
+fuel in process:
+1993 -- $113,904; 1992 -- $148,945).................482,473 490,408
+Total electric plant, net.......................8,924,109 8,780,123
+OTHER PROPERTY AND INVESTMENTS
+Other property -- at cost (less accumulated 
+depreciation:
+1993 -- $90,191; 1992 -- $83,108) (Note 15).........311,241 295,098
+Investments in joint ventures (Notes 11 and 15).......101,612 31,268
+Other investments, at cost or less.....................90,301 127,632
+Nuclear decommissioning trust funds (Notes 10, 
+15 and 16)....................................... 118,456 61,812
+Pre-funded pension cost (Note 12)......................50,000 --
+Total other property and investments..............671,610 515,810
+CURRENT ASSETS
+Cash (Notes 5 and 10)................................. 15,576 9,293
+Short-term investments (Note 10)......................120,651 141,285
+Receivables (less allowance for losses: 
+1993 -- $6,392; 1992 -- $5,207) (Note 1)............531,592 494,644
+Inventory -- at average cost
+Coal................................................69,155 101,550
+Other..............................................199,733 196,489
+Prepayments..........................................12,062 11,610
+Total current assets.............................948,769 954,871
+DEFERRED DEBITS (Notes 1, 3, 4, 13 and 15)
+Purchased capacity costs.............................768,099 378,095
+Debt expense.........................................197,963 115,436
+Regulatory asset related to income taxes.............486,440 --
+Regulatory asset related to DOE assessment fee.......116,731 101,785
+Other.................................................79,386 104,267
+Total deferred debits......................... 1,648,619 699,583
+TOTAL ASSETS.......................................$12,193,107 $10,950,387
+
+<CAPTION>
+CAPITALIZATION AND LIABILITIES
+<S> <C> <C>
+CAPITALIZATION (See Consolidated Statements of 
+Capitalization).................................... $ 8,404,131 $ 8,218,257
+CURRENT LIABILITIES
+Accounts payable........................................337,391 394,721
+Taxes accrued (Note 1).................................. 82,824 36,885
+Interest accrued.........................................68,868 68,078
+Other (Note 13).........................................211,207 75,613
+Total................................................700,290 575,297
+Notes payable (Notes 5 and 10)...........................18,000 126,000
+Current maturities of long-term debt and preferred 
+stock (Notes 9 and 15).................................91,898 9,434
+Total current liabilities...........................810,188 710,731
+ACCUMULATED DEFERRED INCOME TAXES (Notes 1 and 4).......2,207,708 1,369,677
+DEFERRED CREDITS AND OTHER LIABILITIES
+Investment tax credit (Notes 1 and 4)...................282,505 296,165
+DOE assessment fee (Note 1).............................116,731 101,785
+Nuclear decommissioning costs externally funded 
+(Notes 15 and 16).....................................118,456 61,812
+Other...................................................253,388 191,960
+Total deferred credits and other liabilities........771,080 651,722
+COMMITMENTS AND CONTINGENCIES (Note 13)..................
+TOTAL CAPITALIZATION AND LIABILITIES..................$12,193,107 $10,950,387
+</TABLE>
+
+SEE NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+3
+
+<PAGE>
+
+CONSOLIDATED STATEMENTS OF CAPITALIZATION AND RETAINED EARNINGS
+
+<TABLE>
+<CAPTION>
+Dollars in Thousands December 31, 1993 1992
+<S> <C> <C>
+CAPITALIZATION
+<S> <C> <C>
+COMMON STOCK EQUITY (Notes 6 and 7)
+Common stock, no par, 300,000,000 shares 
+authorized; 204,859,339 shares outstanding 
+for 1993 and 1992..............................$1,926,909 $1,926,909
+Retained earnings................................2,410,825 2,223,718
+Total common stock equity...................4,337,734 4,150,627
+PREFERRED AND PREFERENCE STOCK WITHOUT SINKING 
+FUND REQUIREMENTS (Note 7)........................ 500,000 500,000
+PREFERRED STOCK WITH SINKING FUND REQUIREMENTS 
+(Notes 8 and 10).................................. 281,000 279,519
+LONG-TERM DEBT (Notes 9, 10 and 15)
+Parent company long-term debt...................3,199,032 3,202,437
+Subsidiary long-term debt..........................86,365 85,674
+Total consolidated long-term debt..........3,285,397 3,288,111
+TOTAL CAPITALIZATION.............................$8,404,131 $8,218,257
+</TABLE>
+
+<TABLE>
+<CAPTION>
+Dollars in Thousands Year ended December 31, 1993 1992 1991
+<S> <C> <C> <C>
+RETAINED EARNINGS
+<S> <C> <C> <C>
+BALANCE -- Beginning of year........................ $2,223,718 $2,141,259 $1,953,779
+ADD -- Net income.......................................626,415 508,083 583,623
+Total........................................ 2,850,133 2,649,342 2,537,402
+DEDUCT
+Dividends 
+Common stock...................................... 376,937 360,475 341,801
+Preferred and preference stock......................52,429 56,407 54,683
+Capital stock transactions, net........................9,942 8,742 (341)
+Total deductions.................................439,308 425,624 396,143
+BALANCE -- End of year...............................$2,410,825 $2,223,718 $2,141,259
+</TABLE>
+
+SEE NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+4
+<PAGE>
+
+Notes To Consolidated Financial Statements
+
+Note 1. Summary of Significant Accounting Policies
+A. Revenues
+
+Revenues are recorded as service is rendered to customers. "Receivables" 
+on the Consolidated Balance Sheets include $175,726,000 and $167,610,000 
+as of December 31, 1993 and 1992, respectively, for service that has been 
+rendered but not yet billed to customers.
+
+B. Additions to Electric Plant
+
+The Company capitalizes all construction-related direct labor and 
+materials as well as indirect construction costs. Indirect costs include 
+general engineering, taxes and the cost of money (allowance for funds used 
+during construction). The cost of renewals and betterments of units of 
+property is capitalized. The cost of repairs and replacements 
+representing less than a unit of property is charged to electric expenses. 
+The original cost of property retired, together with removal costs less 
+salvage value, is charged to accumulated depreciation.
+
+C. Allowance for Funds Used During Construction (AFUDC)
+
+AFUDC represents the estimated debt and equity costs of capital funds that 
+are necessary to finance the construction of new facilities. AFUDC, a non-
+cash item, is recognized as a cost of "Construction work in progress" 
+(CWIP), with offsetting credits to "Other income" and "Interest 
+deductions." After construction is completed, the Company is permitted to 
+recover these construction costs, including a fair return, through their 
+inclusion in rate base and in the provision for depreciation.
+The 1993 AFUDC rate of 9.29 percent reflects "Allowance for borrowed 
+funds used during construction" calculated using a pre-tax cost of debt. 
+The rates for 1992 and 1991 of 8.07 percent and 8.86 percent have been 
+calculated using a net of tax cost of debt. Rates for all periods are 
+compounded semiannually. The change in calculation from a net of income 
+tax to a pre-tax basis is a result of the adoption of Statement of 
+Financial Accounting Standards No. 109 (SFAS 109). (See Note 4.)
+
+D. Depreciation and Amortization
+
+Provisions for depreciation are recorded using the straight-line method. 
+The year-end composite weighted-average depreciation rates were 3.47 
+percent for 1993 and 3.48 percent for 1992 and 1991. Effective with the 
+implementation of new retail rates in November 1991, all coal-fired 
+generating units are depreciated at a rate of 2.57 percent and all nuclear 
+units are depreciated at a rate of 4.70 percent, of which 1.61 percent is 
+for decommissioning. (See Note 16.)
+Amortization of nuclear fuel is included in "Fuel used in electric 
+generation" in the Consolidated Statements of Income. The amortization is 
+recorded using the units-of-production method.
+Under provisions of the Nuclear Waste Policy Act of 1982, the Company 
+has entered into contracts with the Department of Energy (DOE) for the 
+disposal of spent nuclear fuel. Payments made to the DOE for disposal 
+costs are based on nuclear output and are included in "Fuel used in 
+electric generation" in the Consolidated Statements of Income.
+A provision in the Energy Policy Act of 1992 established a fund for the 
+decontamination and decommissioning of the DOE's uranium enrichment 
+plants. Licensees are subject to an annual assessment for 15 years based 
+on their pro rata share of past enrichment services. The annual assessment 
+is recorded as fuel expense. The Company paid $8,338,000 during 1993 
+related to its ownership interest in nuclear plants. The Company has 
+reflected the remaining liability and regulatory asset of $116,731,000 in 
+the Consolidated Balance Sheets. 
+
+E. Subsidiaries
+
+The Company's consolidated financial statements reflect consolidation of 
+all of its wholly-owned subsidiaries. Intercompany transactions have been 
+eliminated in consolidation. (See Note 11 and "Subsidiary Highlights," 
+page 25.) 
+
+F. Income Taxes
+
+The Company implemented SFAS 109, "Accounting for Income Taxes," effective 
+January 1, 1993. (See Note 4.)
+The Company and its subsidiaries file a consolidated federal income tax 
+return. Income taxes have been allocated to each company based on its 
+separate company taxable income or loss.
+Income taxes are allocated to non-electric operations under "Other 
+income" and to electric operating expense. The "Income taxes - credit" 
+classified under "Other income" results from tax deductions of interest 
+costs relating primarily to deferred purchased capacity costs and CWIP.
+Deferred income taxes have been provided for temporary differences 
+between book and tax income, principally resulting from accelerated tax 
+depreciation and levelization of purchased power costs. Investment tax 
+credits have been deferred and are being amortized over the estimated 
+useful lives of the related properties.
+5
+<PAGE>
+
+G. Unamortized Debt Premium, Discount and Expense
+
+Expenses incurred in connection with the issuance of presently outstanding 
+long-term debt, and premiums and discounts 
+relating to such debt, are being amortized over the terms of the 
+respective issues. Also, any expenses or call premiums associated with 
+refinancing higher-cost debt obligations are being amortized over the 
+lives of the new issues of long-term debt.
+
+H. Fuel Cost Adjustment Procedures
+
+Fuel costs are reviewed semiannually in the wholesale and South Carolina 
+retail jurisdictions, with provisions for changing such costs in base 
+rates. In the North Carolina retail jurisdiction, a review of fuel costs 
+in rates is required annually and during general rate case proceedings.
+All jurisdictions allow the Company to adjust rates for past over- or 
+under-recovery of fuel costs. Therefore, the Company reflects in revenues 
+the difference between actual fuel costs incurred and fuel costs recovered 
+through rates.
+The North Carolina legislature ratified a bill in July 1987 assuring 
+the legality of such adjustments in rates. In 1991, the statute was 
+extended through June 30, 1997.
+
+I. Consolidated Statements of Cash Flows
+
+For purposes of the Consolidated Statements of Cash Flows, 
+the Company's investments in highly liquid debt instruments, with an 
+original maturity of three months or less, are included in cash flows from 
+investing activities and thus are not considered cash equivalents.
+Total income taxes paid were $352,697,000, $215,465,000 and 
+$245,945,000 for years ended December 31, 1993, 1992 and 1991, 
+respectively.
+Interest paid, net of amount capitalized, was $244,829,000, 
+$298,455,000 and $269,330,000 for the years ended December 31, 1993, 1992 
+and 1991, respectively.
+
+Note 2. Rate Matters
+
+The North Carolina Utilities Commission (NCUC) and The Public Service 
+Commission of South Carolina (PSCSC) must approve rates for retail sales 
+within their respective states. The Federal Energy Regulatory Commission 
+(FERC) must approve the Company's rates for sales to wholesale customers. 
+Sales to the other joint owners of the Catawba Nuclear Station, which 
+represent a substantial majority of the Company's wholesale revenues, are 
+set through contractual agreements. (See Note 3.)
+During 1991, the Company filed in both the North Carolina and the South 
+Carolina retail jurisdictions its only requests for general rate increases 
+since 1986. The rate increase requested by the Company in North Carolina 
+was 9.22 percent; a 4.15 percent increase was granted resulting in $100.1 
+million in additional annual revenues. In South Carolina, a rate increase 
+of 7.29 percent was requested; a 3.0 percent increase was granted 
+resulting in $30.2 million in additional annual revenues. These increases 
+were requested primarily to recover costs associated with the Bad Creek 
+Hydroelectric Station. 
+In 1991, the Company filed a request with the FERC seeking a 7.47 
+percent rate increase for its wholesale customers, who represent 
+approximately 2 percent of the Company's total revenues. A negotiated 
+settlement between the Company and the wholesale customers was approved by 
+the FERC on March 31, 1992. The approved agreement, effective April 1, 
+1992, provided for a 3.3 percent rate increase, resulting in $2.1 million 
+in additional annual revenues.
+The North Carolina Supreme Court on April 22, 1992, remanded for the 
+second time the Company's 1986 rate order to the NCUC. In this ruling, the 
+Court held that the record from the 1986 proceedings failed to support the 
+rate of return of 13.2 percent on common equity authorized by the NCUC 
+after the initial decision of the Court remanding the 1986 rate order. The 
+NCUC issued a final order dated October 26, 1992, authorizing a 12.8 
+percent return on common equity for the period October 31, 1986, through 
+November 11, 1991, that resulted in a refund to North Carolina retail 
+customers in 1992 of approximately $95 million, including interest.
+The Company has a bulk power sales agreement with Carolina Power & 
+Light Company (CP&L) to provide CP&L 400 megawatts of capacity as well as 
+associated energy when needed for a six-year period which began July 1, 
+1993. Electric rates in all regulatory jurisdictions were reduced by 
+adjustment riders to reflect capacity revenues received from this CP&L 
+bulk power sales agreement.
+
+Note 3. Joint Ownership of Generating Facilities
+
+The Company has sold interests in both units of the Catawba Nuclear 
+Station. The other owners of portions of the Catawba Nuclear Station and 
+supplemental information regarding their ownership are as follows:
+
+<TABLE>
+<CAPTION>
+
+Ownership 
+Interest
+Owner in the Station
+<S> <C>
+North Carolina Municipal Power Agency 
+Number 1 (NCMPA) 37.5%
+
+North Carolina Electric Membership 
+Corporation (NCEMC) 28.125%
+
+Piedmont Municipal Power Agency 
+(PMPA) 12.5%
+
+Saluda River Electric Cooperative, Inc. 
+(Saluda River) 9.375%
+</TABLE>
+
+Each participant has provided its own financing for its ownership interest 
+in the plant.
+The Company retains a 12.5 percent ownership interest in the Catawba 
+Nuclear Station. As of December 31, 1993, $498,930,000 of Electric plant 
+in service and Nuclear fuel
+6
+<PAGE>
+
+represents the Company's investment in Units 1 and 2. Accumulated 
+depreciation and amortization of $152,698,000 associated with Catawba had 
+been recorded as of year-end. The Company's share of operating costs of 
+Catawba are included in the corresponding electric expenses in the 
+Consolidated Statements of Income.
+In connection with the joint ownership, the Company has entered into 
+contractual agreements with the other joint owners to purchase declining 
+percentages of the generating capacity and energy from the plant. These 
+agreements were effective beginning with the commercial operation of each 
+unit. Unit 1 and Unit 2 began commercial operation in June 1985 and in 
+August 1986, respectively. Such agreements were established for 15 years 
+for NCMPA and PMPA and 10 years for NCEMC and Saluda River.
+Energy cost payments are based on variable operating costs, a function 
+of the generation output. Capacity payments are based on the fixed costs 
+of the plant. The estimated purchased capacity obligations through 1998 
+are $392,000,000 for 1994, $293,000,000 for 1995, $55,000,000 for 1996, 
+$44,000,000 for 1997 and $32,000,000 for 1998. Payment obligations include 
+the terms of a proposed settlement agreement between the Company and two 
+of the four joint owners of the Catawba Nuclear Station which was executed 
+in January 1994 and is subject to regulatory approval. (See Note 13.)
+Effective in its November 1991 rate order, the North Carolina Utilities
+Commission (NCUC) reaffirmed the Company's recovery, on a levelized basis, 
+of the capital costs and fixed operating and maintenance costs of capacity 
+purchased from the other joint owners. The new NCUC rate order changed the 
+levelized basis to a 15-year period ending 2001 for all of the other joint 
+owners compared to the previous 15-year levelization period for NCMPA and 
+PMPA and 10-year levelization period for NCEMC and Saluda River. The 
+Public Service Commission of South Carolina (PSCSC), in its November 1991 
+rate order, reaffirmed the Company's recovery on a levelized basis of the 
+capital costs of capacity purchased from the other joint owners. The new 
+PSCSC rate order retained the levelized basis of a 7 1/2-year period for 
+PMPA and NCMPA; for NCEMC and Saluda River, the new levelized basis 
+reflects the projected purchased capacity payments for the twelve-month 
+period ended October 1992. The Federal Energy Regulatory Commission 
+granted the Company recovery on a levelized basis of the capital costs and 
+fixed operating and maintenance costs of capacity purchased from the other 
+joint owners over their contractual purchased power buyback periods. As 
+currently provided in rates in all jurisdictions, the Company recovers the 
+costs of purchased energy and a portion of purchased capacity. The portion 
+of costs not currently recovered through rates is being accumulated, and 
+the Company is recording a carrying charge on the accumulated balance. 
+The Company recovers the accumulated balance including the carrying charge 
+when the capacity payments drop below the levelized revenues. In the North 
+Carolina and
+wholesale jurisdictions, purchased capacity payments continue to exceed 
+levelized revenues. In the South Carolina jurisdiction, cumulative 
+levelized revenues have exceeded purchased capacity payments. 
+Jurisdictional levelizations are intended to recover total costs, 
+including allowed returns, and are subject to adjustments, including final 
+true-ups.
+For the years ended December 31, 1993, 1992 and 1991, the Company 
+recorded purchased capacity and energy costs from the other joint owners 
+of $547,900,000, $514,300,000 and $536,500,000, respectively. These 
+amounts, adjusted for the cost of capacity purchased not reflected in 
+current rates, are included in "Net interchange and purchased power" in 
+the Consolidated Statements of Income. As of December 31, 1993 and 1992, 
+$768,099,000 pre-tax and $378,095,000 net of income tax, respectively, 
+associated with the costs of capacity purchased but not reflected in 
+current rates had been accumulated in the Consolidated Balance Sheets as 
+"Purchased capacity costs." Accumulated deferred income taxes associated 
+with "Purchased capacity costs" were $254,789,000 as of December 31, 1993. 
+As of December 31, 1992, deferred income taxes reduced "Purchased capacity 
+costs" on the Consolidated Balance Sheet by $265,255,000. The change in 
+presentation from a net of tax to pre-tax basis is a result of the 
+adoption of SFAS 109. (See Note 4.)
+
+Note 4. Income Tax Expense
+
+The Company implemented Statement of Financial Accounting Standards No. 
+109 (SFAS 109), "Accounting for Income Taxes," effective January 1, 1993. 
+No prior periods have been restated.
+SFAS 109 requires a liability approach for financial accounting and 
+reporting of income taxes. While classification of certain items on the 
+Consolidated Balance Sheets has changed, principally because of certain 
+items previously reported net of tax now being reported on a gross basis, 
+there is no material effect on the Company's results of operations. As a 
+result of implementing SFAS 109, the December 1993 Consolidated Balance 
+Sheet reflects an increase of $778 million in both Total assets and 
+Accumulated deferred income taxes (ADIT). The increase was primarily 
+because of a change in presentation from a net of tax to pre-tax basis 
+which resulted in an increase in "Purchased capacity costs" of $255 
+million and in the creation of the "Regulatory asset related to income 
+taxes" of $486 million. Effective January 1, 1993, "Allowance for borrowed 
+funds used during construction" on the Consolidated Statement of Income 
+reflects a pre-tax cost of debt.
+Accumulated deferred income taxes after implementation of SFAS 109 
+consist primarily of the following temporary differences (dollars in 
+thousands):
+7
+<PAGE>
+
+(continued from page 7)
+
+<TABLE>
+<CAPTION>
+
+December 31, 1993
+<S> <C>
+Excess tax over book depreciation at historical tax rates $1,289,205
+Regulatory liability related to adjusting deferred taxes
+to the current statutory tax rate (124,952)*
+Net excess tax over book depreciation $1,164,253
+Regulatory asset related to restating to a pre-tax basis 611,392*
+Deferred Catawba purchased capacity costs 254,789
+Book versus tax basis difference 110,594
+Loss on bond redemptions 74,438
+Other (7,758)
+Total deferred income taxes $2,207,708
+</TABLE>
+
+* The net regulatory asset related to income taxes is $486,440,000.
+
+Total deferred income tax liability was $2,701,374,000 as of December 31, 
+1993. Total deferred income tax asset was $493,666,000 as of December 31, 
+1993.
+
+Income tax expense consisted of the following (dollars in thousands):
+
+<TABLE>
+<CAPTION>
+
+1993 1992 1991
+<S> <C> <C> <C>
+Income taxes related to electric expenses
+Current income taxes
+Federal $278,279 $215,726 $232,121
+State 60,948 47,116 54,335
+339,227 262,842 286,456
+Deferred taxes, net
+Excess tax over book depreciation 60,760 86,046 60,976
+Loss on bond redemptions 33,016 9,950 1,995
+Pre-funded pension cost 19,751 -- --
+Amortization of canceled construction 
+costs (17,890) (23,959) (23,959)
+Deferred Catawba purchased capacity costs 2,841 7,271 8,163
+Property taxes (5,806) (15,499) (11,987)
+Other (17,682) (25,756) (16,977)
+74,990 38,053 18,211
+Investment tax credit
+Deferred -- -- 2,273
+Amortization of deferrals (credit) (11,257) (11,262) (13,480)
+(11,257) (11,262) (11,207)
+Total income taxes related to electric 
+expenses 402,960 289,633 293,460
+Income taxes related to other income
+Income taxes - return on deferred Catawba 
+purchased capacity costs 20,702 18,845 20,675
+Income taxes - other, net 3,390 8,630 4,797
+Income taxes - (credit) (16,371) (13,790) (22,789)
+Total income taxes related to other income 7,721 13,685 2,683
+Total income tax expense $410,681 $303,318 $296,143
+</TABLE>
+
+Total current income taxes were $354,366,000 for 1993, $258,800,000 for 
+1992 and $268,686,000 for 1991. Of these amounts, state income taxes were 
+$61,237,000 for 1993, $44,149,000 for 1992 and $48,671,000 for 1991.
+Total deferred income taxes were $67,572,000 for 1993, $55,780,000 for 
+1992 and $38,664,000 for 1991. Of these amounts, deferred state income 
+taxes were $14,279,000 for 1993, $13,786,000 for 1992 and $10,833,000 for 
+1991.
+8
+<PAGE>
+
+Income taxes differ from amounts computed by applying the statutory tax 
+rate to pre-tax income as follows (dollars in thousands):
+
+<TABLE>
+<CAPTION>
+1993 1992 1991
+<S> <C> <C> <C>
+Income taxes on pre-tax income at the 
+statutory federal rate of 35% - 1993; 
+34% - 1992 and 1991 $362,984 $275,876 $299,120
+Increase (reduction) in tax resulting from:
+Allowance for funds used during construction 
+(AFUDC) (6,027) (7,221) (23,832)
+Amortization of electric investment tax 
+credit deferrals (11,257) (11,262) (13,480)
+AFUDC in book depreciation/amortization 25,694 25,114 25,923
+Deferred income tax flowback at rates 
+higher than statutory (9,091) (21,685) (22,561)
+State income taxes, net of federal 
+income tax benefits 49,292 37,878 39,345
+Other items, net (914) 4,618 (8,372)
+Total income tax expense (see above) $410,681 $303,318 $296,143
+</TABLE>
+
+On August 10, 1993, President Clinton signed the Omnibus Budget 
+Reconciliation Act of 1993 which includes an increase in the federal 
+corporate income tax rate from 34% to 35%, retroactive to January 1, 1993. 
+Accordingly, the Company's income tax expense reflects an increase of 
+approximately $10 million for 1993.
+
+Note 5. Short-Term Borrowings and Compensating-Balance Arrangements
+
+To support short-term obligations, the Company had credit facilities of 
+$324,980,000, $329,385,000 and $340,385,000 as of December 31, 1993, 1992 
+and 1991, with 29, 49 and 52 commercial banks, respectively. Included in 
+these facilities is a three-year, $300,000,000 revolving credit agreement 
+with the balance in separate, annually-renewable lines of credit. These 
+facilities are on a fee or compensating-balance basis. No short-term debt 
+resulting from these credit facilities was outstanding as of December 31, 
+1993, 1992 and 1991.
+Cash balances maintained at the banks on deposit were $12,988,000 and 
+$7,243,000 as of December 31, 1993 and 1992, respectively. Cash balances 
+and fees compensate banks for their services, even though the Company has 
+no formal compensating-balance arrangements. To compensate certain banks 
+for credit facilities, the Company maintained balances of $49,000 and 
+$509,000 as of December 31, 1993 and 1992, respectively. The Company 
+retains the right of withdrawal with respect to the funds used for 
+compensating-balance arrangements.
+
+A summary of short-term borrowings is as follows (dollars in thousands):
+
+<TABLE>
+<CAPTION>
+
+December 31, 1993 December 31, 1992 December 31, 1991
+<S> <C> <C> <C>
+Amount outstanding at end of period - 
+average rate of 3.27% as of December 31, 
+1993, 3.57% as of December 31, 1992 
+and 4.65% as of December 31, 1991 $ 18,000 $126,000 $ 86,000
+Maximum amount outstanding during the period $ 178,000 $219,000 $285,500
+Average amount outstanding during the period $ 35,187 $ 48,851 $ 92,090
+Weighted-average interest rate for the period - 
+computed on a daily basis 3.17% 4.02% 6.47%
+</TABLE>
+
+Note 6. Common Stock and Retained Earnings
+
+Common Stock 
+Effective April 1, 1991, the Company began issuing common stock in lieu of 
+purchasing shares on the open market for its various stock purchase plans. 
+The Company discontinued issuances of common stock, effective December 1, 
+1991, and resumed open market purchases to satisfy the requirements of the 
+various stock purchase plans. Except as discussed earlier, open market 
+purchases were used to satisfy the requirements of the Company's various 
+stock plans from 1991 through 1993.
+During 1991 and through April 6, 1992, the Company issued common stock 
+to satisfy the conversion rights of preference stock. (See Note 7.)
+As of December 31, 1993, a total of 7,004,659 shares was reserved for 
+issuance to stock plans.
+
+Retained Earnings
+As of December 31, 1993, none of the Company's retained earnings were 
+restricted as to the declaration or payment of dividends.
+
+9
+<PAGE>
+
+Note 7. Preferred and Preference Stock Without Sinking Fund Requirements
+
+The following shares of stock were authorized with or without sinking fund 
+requirements as of December 31, 1993 and 1992:
+
+<TABLE>
+<CAPTION>
+
+Par Value Shares
+<S> <C> <C>
+Preferred Stock $100 12,500,000
+Preferred Stock A 25 10,000,000
+Preference Stock 100 1,500,000
+</TABLE>
+
+On April 6, 1992, the Company redeemed all outstanding shares of the 
+Cumulative Preference Stock, 63/4% Convertible Series AA at its par value 
+of $100 per share.
+In 1992 and 1991, shares of preference stock were converted into shares 
+of common stock as follows:
+
+<TABLE>
+<CAPTION>
+
+Year Preference Shares Common Shares
+<S> <C> <C>
+1992 19,060 159,386
+1991 1,846 15,440
+</TABLE>
+
+Preferred and preference stock without sinking fund requirements as of 
+December 31, 1993 and 1992, were as follows (dollars in 
+thousands):
+
+<TABLE>
+<CAPTION>
+
+Rate/Series Year Shares 
+Issued Outstanding 1993 1992
+<S> <C> <C> <C> <C>
+4.50% C 1964 350,000 $ 35,000 $35,000
+5.72% D 1966 350,000 35,000 35,000
+6.72% E 1968 350,000 35,000 35,000
+8.20% G 1971 600,000 - 60,000
+7.80% H 1972 600,000 - 60,000
+8.28% K 1977 500,000 - 50,000
+7.85% S 1992 600,000 60,000 60,000
+7.00% W 1993 500,000 50,000 -
+7.04% Y 1993 600,000 60,000 -
+7.72% (Preferred Stock A) 1992 1,600,000 40,000 40,000
+6.375% (Preferred Stock A) 1993 2,400,000 60,000 -
+Adjustable Rate A 1986 500,000 50,000 50,000
+Auction Series A 1990 750,000 75,000 75,000
+$500,000 $500,000
+</TABLE>
+
+Note 8. Preferred Stock With Sinking Fund Requirements
+
+The following shares of stock were authorized with or without sinking fund 
+requirements as of December 31, 1993 and 1992:
+
+<TABLE>
+<CAPTION>
+Par Value Shares
+<S> <C> <C>
+Preferred Stock $100 12,500,000
+Preferred Stock A 25 10,000,000
+Preference Stock 100 1,500,000
+</TABLE>
+
+Preferred stock with sinking fund requirements as of December 31, 1993 and 
+1992, was as follows (dollars in thousands):
+
+<TABLE>
+<CAPTION>
+
+Year Shares
+Rate/Series Issued Outstanding 1993 1992
+<S> <C> <C> <C> <C>
+5.95% B (Preferred Stock A) 1992 800,000 $20,000 $20,000
+6.10% C (Preferred Stock A) 1992 800,000 20,000 20,000
+6.20% D (Preferred Stock A) 1992 800,000 20,000 20,000
+7.875% P 1986 485,000 - 48,500
+7.12% Q 1987 485,000 48,500 48,519
+7.50% R 1992 850,000 85,000 85,000
+6.20% T 1992 130,000 13,000 13,000
+6.30% U 1992 130,000 13,000 13,000
+6.40% V 1992 130,000 13,000 13,000
+6.75% X 1993 500,000 50,000 -
+
+Less: Current sinking fund 
+requirements
+7.875% P - (1,500)
+7.12% Q (1,500) -
+$281,000 $279,519
+</TABLE>
+
+The annual sinking fund requirements through 1998 are 
+$1,500,000 in 1994, 1995, 1996 and 1997 and $5,750,000 in 1998. Some 
+additional redemptions are permitted at the Company's option. The Company 
+reacquired 15,000 shares of 7.12% Series Q Preferred Stock in 1992 to 
+satisfy 1993 sinking fund requirements.
+The call provisions for the outstanding preferred stock specify various 
+redemption prices not exceeding 105 percent of par value, plus accumulated 
+dividends to the redemption date. 
+
+10
+<PAGE>
+
+Note 9. Long-Term Debt
+
+Long-term debt outstanding as of December 31, 1993 and 1992, was as 
+follows (dollars in thousands):
+
+<TABLE>
+<CAPTION>
+
+Series Year Due 1993 1992
+<S> <C> <C> <C>
+First and refunding mortgage bonds:
+6.06%-6.23% 1994 $81,700 $81,700
+6.47%-6.60% 1995 40,300 40,300
+4 1/2% 1995 40,000 40,000
+6.59% 1996 3,000 3,000
+7 7/8% 1996 - 100,000
+5 3/8% 1997 72,600 72,600
+5 5/8% 1997 100,000 100,000
+6 3/8% 1998 - 68,500
+5.17% 1998 50,000 -
+7% 1999 - 56,075
+7.5% 1999 100,000 100,000
+6 1/4% 1999 65,000 65,000
+5.76% 1999 5,000 -
+5.78% 1999 25,000 -
+5.79% 1999 30,000 -
+7% 2000 100,000 100,000
+7% B 2000 100,000 100,000
+7 1/2% 2001 - 97,900
+7 3/8% B 2001 - 38,050
+5 7/8% 2001 150,000 -
+7 3/4% 2002 - 78,100
+7 3/8% B 2002 - 67,900
+6 5/8% B 2003 100,000 -
+7 3/4% 2003 - 94,872
+5 7/8% C 2003 75,000 -
+6.125% 2003 75,000 -
+8% 2004 75,000 75,000
+6 1/4% B 2004 100,000 -
+7.37%-7.41% 2004 100,000 100,000
+7% 2005 200,000 200,000
+8 1/8% 2007 - 119,500
+6 3/8% 2008 125,000 -
+9% 2016 - 175,000
+8 1/2% 2017 - 150,000
+9 5/8% 2020 46,982 200,000
+10 1/8% B 2020 24,854 150,000
+8 3/4% 2021 150,000 150,000
+8 3/8% B 2021 150,000 150,000
+8 5/8% 2022 100,000 100,000
+7 3/8% 2023 200,000 -
+6 7/8% 2023 200,000 -
+6 3/4% 2025 150,000 -
+8.95% 2027 15,851 15,925
+7% 2033 150,000 -
+Pollution-Control bonds:
+9 1/8% 2013 - 77,000
+7.70% 2012 20,000 20,000
+7.75% B 2017 10,000 10,000
+7.50% 2017 25,000 25,000
+2.55% 2014 40,000 -
+2.60% 2014 - 40,000
+5.80% 2014 77,000 -
+Subtotal 3,172,287 3,061,422
+
+Other long-term debt:
+Capitalized leases 47,029 53,782
+Other long-term debt 130,000 130,000
+Unamortized debt discount
+and premium, net (61,128) (35,940)
+Current maturities of
+long-term debt (89,156) (6,827)
+Subtotal (a) 3,199,032 3,202,437
+Subsidiary long-term debt:
+Crescent Resources, Inc. (b) 54,149 53,207
+Nantahala Power and Light (c) 33,458 33,574
+Current maturities of long-term debt (1,242) (1,107)
+Subtotal 86,365 85,674
+Total consolidated long-term debt $3,285,397 $3,288,111
+</TABLE>
+
+(a) Substantially all the Company's electric plant was mortgaged as of 
+December 31, 1993.
+(b) Substantial amounts of Crescent Resources, Inc.'s real estate 
+development projects, land and buildings are pledged as collateral.
+(c) Nantahala Power and Light's loan agreements impose net worth 
+restrictions and limitations on disposal of assets and payment of cash 
+dividends.
+
+As of December 31, 1993 and 1992, the Company had $40,000,000 in 
+pollution-control revenue bonds backed by an unused, two-year revolving 
+credit facility of $40,000,000 and $130,000,000 in commercial paper backed 
+by an unused, three-year $130,000,000 revolving credit facility. These 
+facilities are on a fee basis. Both the $40,000,000 in pollution-control 
+bonds and the $130,000,000 in commercial paper are included in long-term 
+debt.
+As of December 31, 1993, Crescent Resources, Inc. had $52,064,000 in 
+mortgage loans which mature in 1997 and require monthly payments of 
+principal. Interest rates are variable and ranged from 4.21 percent to 
+5.08 percent as of December 31, 1993. Nantahala Power and Light had 
+$33,000,000 in senior notes maturing in 2011 and 2012 as of December 31, 
+1993. The two notes carry fixed interest rates of 9.21 percent and 7.45 
+percent and require prepayments beginning 1997 and 1998, respectively.
+The annual maturities of consolidated long-term debt, including 
+capitalized lease principal payments through 1998, are $90,398,000 in 
+1994; $89,888,000 in 1995; $13,264,000 in 1996; $223,810,000 in 1997 and 
+$54,522,000 in 1998.
+11
+<PAGE>
+
+Note 10. Fair Value of Financial Instruments
+
+Estimated fair value amounts have been determined by the Company using 
+available market information and appropriate valuation methodologies. 
+Judgment is required in interpreting market data to develop the estimates 
+of fair value. Accordingly, the estimates determined as of December 31, 
+1993, are not necessarily indicative of the amounts that the Company could 
+realize in a current market exchange.
+
+Cash, Short-term investments and Notes payable
+The carrying amount approximates fair value because of the short maturity 
+of these instruments.
+
+Long-term debt (excluding Capitalized leases) and Preferred stock with 
+sinking fund requirements
+Fair value is based on market price estimates. As a result of substantial 
+refinancing activity in 1993 and 1992, the Company's book value of 
+consolidated long-term debt and preferred stock is not materially 
+different from fair market value as of December 31, 1993.
+
+Nuclear decommissioning trust funds
+External funds have been established, as required by the Nuclear 
+Regulatory Commission, as a mechanism to fund certain costs of nuclear 
+decommissioning. (See Note 16.) These nuclear decommissioning trust funds 
+are primarily invested in intermediate-term municipal bonds. As of 
+December 31, 1993, the Company's book value of its nuclear decommissioning 
+trust funds is not materially different from fair market value.
+
+Note 11. Investment in Joint Ventures
+
+Certain investments in joint ventures are accounted for by the equity 
+method. The Company's ownership in domestic and international joint 
+ventures is 50 percent or less. Total assets of these joint ventures as of 
+December 31, 1993 and 1992, were $972 million and $433 million, 
+respectively. The Company's proportionate share of these assets was $241 
+million and $163 million, respectively. Total liabilities of these joint 
+ventures as of December 31, 1993 and 1992, were $413 million and $321 
+million, respectively. The Company's proportionate share of the 
+liabilities was $139 million and $132 million, respectively. Of the $413 
+million total liabilities outstanding at December 31, 1993, $290 million 
+represents non-recourse debt for which the Company bears no responsibility 
+in the event the joint venture defaults on the debt. The Company's portion 
+of net income from the joint ventures for the years ended December 31, 
+1993 and 1992, was $2,601,000 and ($1,179,000).
+
+Note 12. Retirement Benefits
+A. Retirement Plan
+
+The Company and its operating subsidiaries, with the exception of 
+Nantahala Power and Light Company, which maintains its own retirement 
+plans, have a non-contributory, defined benefit retirement plan covering 
+substantially all their employees. The benefit is based on years of 
+creditable service and the employee's average compensation based on the 
+highest compensation during a consecutive sixty-month period. Prior to 
+1992, benefits have been reduced by a Social Security adjustment for 
+employees age sixty-five and over and for early retirees with no 
+creditable service prior to September 1, 1980. During 1991, the Company 
+amended its plan for employees who retire after December 31, 1991. The 
+effect of this amendment was to reduce benefits by a Social Security 
+adjustment for all retirees. The plan was amended in 1992 to permit 
+participants with 30 years of creditable service to retire as early as age 
+51. The Company's policy is to fund pension costs as accrued. During 1993, 
+the Company made a one-time contribution of $50,000,000 to enhance the 
+funded position of the plan.
+
+Net periodic pension cost for the years ended December 31, 1993, 1992 and 
+1991, include the following components (dollars in 
+thousands):
+
+<TABLE>
+<CAPTION>
+
+1993 1992 1991
+<S> <C> <C> <C>
+Service cost benefit earned during the year $39,514 $35,701 $37,286
+Interest cost on projected benefit obligation 93,347 85,613 79,175
+Actual return on plan assets (117,898) (50,897) (127,978)
+Amount deferred for recognition 35,652 (32,277) 52,574
+Expected return on plan assets (82,246) (83,174) (75,404)
+Net amortization 4,137 3,812 4,347
+Net periodic pension cost $54,752 $41,952 $45,404
+</TABLE>
+12
+<PAGE>
+
+A reconciliation of the funded status of the plan to the amounts 
+recognized in the Consolidated Balance Sheets as of December 31, 1993 and 
+1992, is as follows (dollars in thousands):
+
+<TABLE>
+<CAPTION>
+
+1993 1992
+<S> <C> <C>
+Accumulated benefit obligation:
+Vested benefits $(1,087,705) $(920,228)
+Nonvested benefits (3,946) (2,915)
+Accumulated benefit obligation $(1,091,651) $(923,143)
+Fair market value of plan assets, 
+consisting primarily of short-term 
+investments and cash equivalents, 
+common stocks, real estate investments 
+and government and industrial bonds $1,137,992 $980,661
+Projected benefit obligation (1,311,921) (1,132,410)
+Unrecognized net experience loss 265,566 204,145
+Unrecognized prior service cost reduction (42,705) (45,911)
+Remaining unrecognized transitional obligation 1,068 1,202
+Prepaid pension cost $50,000 $7,687
+</TABLE>
+
+In determining the projected benefit obligation, the weighted-average 
+assumed discount rate used was 7.50 percent in 1993 and 8.25 percent in 
+1992 and 1991. The assumed increase in future compensation level for 
+determining the projected benefit obligation is based on an age-related 
+basis. The weighted-average salary increase was 4.50 percent in 1993, 5.40 
+percent in 1992 and 5.65 percent in 1991. The expected long-term rate of 
+return on plan assets used in determining pension cost was 8.40 percent in 
+1993 and 9.25 percent in 1992 and 1991.
+During 1993 the Company offered an enhanced early retirement option, 
+Limited Period Separation Opportunity (LPSO), for eligible employees. The 
+Company recorded an additional one-time expense for special termination 
+benefits associated with LPSO of approximately $7,611,000.
+
+B. Postretirement Benefits
+
+The Company and its operating subsidiaries, with the exception of 
+Nantahala Power and Light Company, which maintains its own postretirement 
+benefit plans, currently provides certain health care and life insurance 
+benefits for retired employees. Employees become eligible for these 
+benefits if they retire at age 55 or greater with 10 years of service; or 
+if they retire as early as age 51 with 30 years or more of service. 
+Employees retiring after January 1, 1992, receive a fixed Company 
+allowance, based on years of service, to be used to pay medical insurance 
+premiums. The Company reserves the right to terminate, suspend, withdraw, 
+amend or modify the plans in whole or in part at any time.
+In 1992, the Company commenced funding the maximum amount allowable 
+under section 401(h) of the Internal Revenue Code, which provides for tax 
+deductions for contributions and tax-free accumulation of investment 
+income. Such amounts partially fund the Company's medical and dental 
+postretirement benefits. The Company has also established a Retired Lives 
+Reserve, which has tax attributes similar to 401(h) funding, to partially 
+fund its postretirement life insurance obligation. The Company contributed 
+$14,648,000 into these funding mechanisms in 1993 and $19,338,000 in 1992.
+In 1992, the Company implemented a new accounting standard that 
+requires postretirement benefits to be recognized as earned by employees 
+rather than recognized as paid. Prior to 1992, the cost of retiree 
+benefits was recognized as the benefits were paid. Amounts paid by the 
+Company for 1991 amounted to $11,900,000.
+13
+<PAGE>
+
+(continued from page 13)
+
+Net periodic postretirement benefit cost for the years ended December 31, 
+1993 and 1992, include the following components (dollars in thousands):
+
+<TABLE>
+<CAPTION>
+
+1993 1992
+<S> <C> <C>
+Service cost benefit earned during the year $4,974 $4,644
+Interest cost on accumulated postretirement benefit 
+obligation 25,482 23,347
+Actual return on plan assets (4,143) (2,953)
+Amount deferred for recognition 334 1,061
+Expected return on plan assets (3,809) (1,892)
+Straight line - 20 year amortization of transition 
+obligation 13,479 13,479
+Other amortization 278 160
+Net periodic postretirement benefit cost $40,404 $39,738
+</TABLE>
+
+A reconciliation of the funded status of the plan to the amounts 
+recognized in the Consolidated Balance Sheets as of December 31, 
+1993 and 1992, is as follows (dollars in thousands):
+
+<TABLE>
+<CAPTION>
+
+1993 1992
+<S> <C> <C>
+Fair market value of plan assets, consisting primarily
+of short-term investments and cash equivalents, common stocks,
+real estate investments and government and industrial bonds $57,840 $41,634
+Actives eligible to retire (21,810) (14,954)
+Actives not eligible to retire (90,621) (74,900)
+Retirees and surviving spouses (238,522) (213,018)
+Accumulated postretirement benefit obligation (350,953) (302,872)
+Unrecognized prior service cost 1,923 2,083
+Unrecognized net experience (gain)/loss 29,127 (2,501)
+Unrecognized transitional obligation 242,629 256,108
+(Accrued) postretirement benefit cost $(19,434) $(5,548)
+</TABLE>
+
+In determining the accumulated postretirement benefit obligation (APBO), 
+the weighted-average assumed discount rate used was 7.50 percent in 1993 
+and 8.25 percent in 1992. The assumed increase in future compensation 
+level is determined on an age-related basis. The weighted-average salary 
+increase was 4.50 percent in 1993, 5.40 percent in 1992 and 5.65 percent 
+in 1991. The expected long-term rate of return on 401(h) assets used in 
+determining postretirement benefits cost was 8.40 percent in 1993 and 9.25 
+percent in 1992. For Retired Lives Reserve assets, 7.125 percent was used 
+in 1993 and 1992.
+The assumed medical inflation rate was approximately 13 percent in 
+1993. This rate decreases by 0.5 percent to 1.0 percent per year until a 
+rate of 5.5 percent is achieved in the year 2002, which remains fixed 
+thereafter.
+A 1.0 percent increase in the medical and dental trend rates produces a 
+6.25 percent ($1,903,213) increase in the aggregate service and interest 
+cost. The increase in the APBO attributable to a 1.0 percent increase in 
+the medical and dental trend rates is 6.69 percent ($23,483,182) as of 
+December 31, 1993.
+
+Note 13. Commitments and Contingencies
+A. Construction Program
+
+Projected construction and nuclear fuel costs, both including allowance 
+for funds used during construction, are $2.3 billion and $394 million, 
+respectively, for 1994 through 1996. The program is subject to periodic 
+review and revisions, and actual construction costs incurred may vary from 
+such estimates. Cost variances are due to various factors, including 
+revised load estimates, environmental matters and cost and availability of 
+capital. 
+
+B. Nuclear Insurance
+
+The Company maintains nuclear insurance coverage in three areas: liability 
+coverage, property, decontamination and decommissioning coverage, and 
+extended accidental outage coverage to cover increased generating costs 
+and/or replacement power purchases. The Company is being reimbursed by the 
+other joint owners of the Catawba Nuclear Station for certain expenses 
+associated with nuclear insurance premiums paid by the Company.
+Pursuant to the Price-Anderson Act, the Company is required to insure 
+against public liability claims resulting from nuclear incidents to the 
+full limit of liability of approximately $9.4 billion. The maximum 
+required private primary insurance of $200 million has been purchased 
+along with a like amount to cover certain worker tort claims. The 
+remaining amount, currently $9.2 billion, which will be increased by $75.5 
+million as each additional commercial nuclear reactor is 
+14
+<PAGE>
+
+licensed, has been provided through a mandatory industry-wide excess 
+secondary insurance program of risk pooling. The $9.2 billion could also 
+be reduced by $75.5 million for certain nuclear reactors that are no 
+longer operational and may be exempted from the risk pooling insurance 
+program. Under this program, licensees could be assessed retrospective 
+premiums to compensate for damages in the event of a nuclear incident at 
+any licensed facility in the nation. If such an incident occurs and public 
+liability damages exceed primary insurances, licensees may be assessed up 
+to $75.5 million for each of their licensed reactors, payable at a rate 
+not to exceed $10 million a year per licensed reactor for each incident. 
+The $75.5 million amount is subject to indexing for inflation. This amount 
+is further subject to a surcharge of 5 percent (which is included in the 
+above $9.4 billion figure) if funds are insufficient to pay claims and 
+associated costs. If retrospective premiums were to be assessed, the other 
+joint owners of the Catawba Nuclear Station are obligated to assume their 
+pro rata share of such assessment.
+The Company is a member of Nuclear Mutual Limited (NML), which provides 
+$500 million in primary property damage coverage for each of the Company's 
+nuclear facilities. If NML's losses ever exceed its reserves, the Company 
+will be liable, on a pro rata basis, for additional assessments of up to 
+$42 million. This amount represents 5 times the Company's annual premium 
+to NML.
+The Company is also a member of Nuclear Electric Insurance Limited 
+(NEIL) and purchases $1.4 billion of insurance through NEIL's excess 
+property, decontamination and decommissioning liability insurance program. 
+If losses ever exceed the accumulated funds available to NEIL for the 
+excess property, decontamination and decommissioning liability program, 
+the Company will be liable, on a pro rata basis, for additional 
+assessments of up to $46 million. This amount is limited to 7.5 times the 
+Company's annual premium to NEIL for excess property, decontamination and 
+decommissioning liability insurance. The other joint owners of Catawba 
+are obligated to assume their pro rata share of any liability for 
+retrospective premiums and other premium assessments resulting from the 
+NEIL policies applicable to Catawba. The Company has also purchased an 
+additional $400 million of excess property damage insurance for its Oconee 
+and McGuire plants and $800 million for its Catawba plant through a pool 
+of stock and mutual insurance companies.
+The Company participates in a NEIL program that provides insurance for 
+the increased cost of generation and/or purchased power resulting from an 
+accidental outage of a nuclear unit. Each unit of the Oconee, McGuire and 
+Catawba Nuclear Stations is insured for up to approximately $3.5 million 
+per week, after a 21-week deductible period, with declining amounts per 
+unit where more than one unit is involved in an accidental outage. 
+Coverages continue at 100 percent for 52 weeks, and 67 percent for the 
+next 104 weeks. If NEIL's losses for this program ever exceed its 
+reserves, the Company will be liable, on a pro rata basis, for additional 
+assessments of up to $30 million. This amount represents 5 times the 
+Company's annual premium to NEIL for insurance for the increased cost of 
+generation and/or purchased power resulting from an accidental outage of a 
+nuclear unit. The other joint owners of Catawba are obligated to assume 
+their pro rata share of any liability for retrospective premiums and other 
+premium assessments resulting from the NEIL policies applicable to the 
+joint ownership agreements.
+
+C. Other
+
+The other joint owners of the Catawba Nuclear Station and the Company are 
+involved in various proceedings related to the Catawba joint ownership 
+contractual agreements. The basic contention in each proceeding is that 
+certain calculations affecting bills under these agreements should be 
+performed differently. These items are covered by the agreements between 
+the Company and the other Catawba joint owners which have been previously 
+approved by the Company's retail regulatory commissions. (For additional 
+information, see Note 3.) The Company and two of the four joint owners 
+have entered into a proposed settlement agreement which, if approved by 
+the regulators, will resolve all issues in contention in such proceedings 
+between the Company and these owners. The Company recorded a liability as 
+an increase to Other current liabilities on its Consolidated Balance 
+Sheets of approximately $105 million in 1993 to reflect this proposed 
+settlement. In addition, future estimated obligations in connection with 
+the settlement are reflected in estimates of purchased capacity 
+obligations in Note 3. As the Company expects the costs associated with 
+this settlement will be recovered as part of the purchased capacity 
+levelization, the Company has included approximately $105 million as an 
+increase to Purchased capacity costs on its Consolidated Balance Sheets. 
+Therefore, the Company believes the ultimate resolution of these matters 
+should not have a material adverse effect on the results of operations or 
+financial position of the Company.
+Although the two other Catawba joint owners, who are not parties to the 
+above settlement, have not fully quantified the dollars associated with 
+their claims in the presently outstanding proceedings, information 
+associated with these proceedings indicates that the amount in contention 
+could be as high as $110 million through December 31, 1993. Arbitration 
+hearings were held in 1992 involving substantially all the disputed 
+amounts, and a decision interpreting the language of the agreements on 
+certain of these matters was issued on October 1, 1993. Further 
+proceedings will be required to determine the amounts associated with this 
+decision as it relates to these owners, some of which may involve refunds. 
+However, the Company expects the costs associated with this decision will 
+be included in and recovered as part of the purchased capacity 
+levelization consistent with prior orders of the retail regulatory 
+commissions. Therefore, the Company believes the ultimate resolution of 
+these matters should not have a material adverse effect on the results of 
+operations or financial position of the Company.
+The Company is also involved in legal, tax and regulatory proceedings 
+before various courts, regulatory commissions and governmental agencies 
+regarding matters arising in the ordinary course of business, some of 
+which involve substantial amounts. Management is of the opinion that the 
+final disposition of these proceedings will not have a material adverse 
+effect on the results of operations or the financial position of the 
+Company.
+15
+<PAGE>
+
+Note 14. Other Income
+
+For the years ended December 31, 1993, 1992 and 1991, the Company reported 
+carrying charges on purchased capacity levelization deferral related to 
+the joint ownership of the Catawba Nuclear Station of $32,180,000, 
+$28,820,000 and $28,765,000 (net of taxes), respectively, as components of 
+"Other, net" and "Income taxes - other, net"on the Consolidated Statements 
+of Income. (For additional information on purchased capacity levelization, 
+see Note 3.)
+Also included in "Other, net" and "Income taxes - other, net" on the 
+Consolidated Statements of Income is income provided by diversified 
+activities and the Company's subsidiaries of $21,996,000, $25,728,000 and 
+$23,587,000 (net of taxes) for years ended December 31, 1993, 1992 and 
+1991, respectively. The activities of Crescent Resources, Inc., the 
+Company's real estate development and forest management subsidiary, 
+generated the majority of subsidiary and non-electric earnings. Other 
+components include subsidiary investment income, fees for engineering 
+services, construction and operation of generation and transmission 
+facilities outside the Company's current service area, water operations 
+and merchandising.
+For the year ended December 31, 1991, the Company recorded a net of tax 
+carrying charge of $36,765,000 on costs incurred on the Bad Creek 
+Hydroelectric Station after commercial operation but prior to recovery of 
+costs through rates. This carrying charge is a component of "Other, net" 
+in the Consolidated Statements of Income.
+
+Note 15. Reclassification
+
+In the Consolidated Statements of Cash Flows, Consolidated Balance Sheets 
+and the Consolidated Statements of Capitalization, certain prior-year 
+information has been reclassified to conform with 1993 classifications.
+
+Note 16. Nuclear Decommissioning Costs
+
+Estimated site-specific nuclear decommissioning costs, including the cost 
+of decommissioning plant components not subject to radioactive 
+contamination, total approximately $955 million stated in 1990 dollars. 
+This amount includes the Company's 12.5 percent ownership in the Catawba 
+Nuclear Station. The other joint owners of the Catawba Nuclear Station are 
+liable for providing decommissioning related to their ownership interests 
+in the station. Both the NCUC and the PSCSC have granted the Company 
+recovery of the estimated site-specific decommissioning costs through 
+retail rates over the expected remaining service periods of the Company's 
+nuclear plants. Such estimates presume that units will be decommissioned 
+as soon as possible following the end of their license life. Although 
+subject to extension, the current operating licenses for the Company's 
+nuclear units expire as follows: Oconee 1 and 2 - 2013, Oconee 3 - 2014; 
+McGuire 1 - 2021, McGuire 2 - 2023; and Catawba 1 - 2024, Catawba 2 - 
+2026. 
+The Nuclear Regulatory Commission (NRC) issued a rule-making in 1988 
+which requires an external mechanism to fund the estimated cost to 
+decommission certain components of a nuclear unit subject to radioactive 
+contamination. In addition to the required external funding, the Company 
+maintains an internal reserve to provide for decommissioning costs of 
+plant components not subject to radioactive contamination. During 1993, 
+the Company expensed approximately $52.5 million which was contributed to 
+the external funds and accrued an additional $5.0 million to the internal 
+reserve. The balance of the external funds as of December 31, 1993, was 
+$118.5 million. The balance of the internal reserve as of December 31, 
+1993, was $200.0 million and is reflected in Accumulated depreciation and 
+amortization on the Consolidated Balance Sheets. Management's opinion is 
+that the estimated site-specific decommissioning costs being recovered 
+through rates, when coupled with assumed after-tax fund earnings of 4.5 
+percent to 5.5 percent, are currently sufficient to provide for the cost 
+of decommissioning based on the Company's current decommissioning 
+schedule.
+16
+<PAGE>
+
+Independent Auditors' Report
+
+Duke Power Company:
+
+We have audited the accompanying consolidated balance sheets and consolidated 
+statements of capitalization of Duke Power Company and subsidiaries (the 
+Company) as of December 31, 1993 and 1992, and the related consolidated 
+statements of income, retained earnings and cash flows for each of the three 
+years in the period ended December 31, 1993. These financial statements are 
+the responsibility of the Company's management. Our responsibility is to 
+express an opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing 
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of 
+material misstatement. An audit includes examining, on a test basis, evidence 
+supporting the amounts and disclosures in the financial statements. An audit 
+also includes assessing the accounting principles used and significant 
+estimates made by management, as well as evaluating the overall financial 
+statement presentation. We believe that our audits provide a reasonable basis 
+for our opinion.
+
+In our opinion, such consolidated financial statements 
+present fairly, in all material respects, the financial position of the Company
+at December 31, 1993 and 1992, and the results of its operations and its cash 
+flows for each of the three years in the period ended December 31, 1993 in 
+conformity with generally accepted accounting principles. As discussed in Note 
+4 to the consolidated financial statements, the Company changed its method of 
+accounting for income taxes to conform with Statement of Financial Accounting 
+Standards No. 109.
+
+Deloitte & Touche
+Deloitte & Touche
+Charlotte, North Carolina
+February 11, 1994
+
+Responsibility for Financial Statements
+
+The financial statements of Duke Power Company are prepared by management, 
+which is responsible for their integrity and objectivity. The statements are 
+prepared in conformity with generally accepted accounting principles 
+appropriate in the circumstances to reflect in all material respects the 
+substance of events and transactions which should be included. The other 
+information in the annual report is consistent with the financial statements. 
+In preparing these statements, management makes informed judgments and 
+estimates of the expected effects of events and transactions that are currently
+being reported.
+
+The Company's system of internal accounting control is designed to provide 
+reasonable assurance that assets are safeguarded and transactions 
+are executed according to management's authorization. Internal accounting 
+controls also provide reasonable assurance that transactions are recorded 
+properly, so that financial statements can be prepared according to generally 
+accepted accounting principles. In addition, the Company's accounting controls 
+provide reasonable assurance that errors or irregularities which could be 
+material to the financial statements are prevented or are detected by employees
+within a timely period as they perform their assigned functions. The Company's 
+accounting controls are continually reviewed for effectiveness. In addition, 
+written policies, standards and procedures, and a strong internal audit 
+program augment the Company's accounting controls.
+
+The Board of Directors pursues its oversight role for the financial statements 
+through the audit committee, which is composed entirely of 
+directors who are not employees of the Company. The audit committee meets with 
+management and internal auditors periodically to review the work of each 
+group and to monitor each group's discharge of its responsibilities. The audit 
+committee also meets periodically with the Company's independent auditors, 
+Deloitte & Touche. The independent auditors have free access to the audit 
+committee and the Board of Directors to discuss internal accounting control, 
+auditing and financial reporting matters without the presence of management.
+
+David L. Hauser
+David L. Hauser
+Controller
+17
+<PAGE>
+
+Management's Discussion and Analysis of Results of Operations and Financial 
+Condition
+
+Results of Operations
+Earnings and Dividends
+Earnings per share increased 27 percent from $2.21 in 1992 to $2.80 in 1993. 
+The increase was primarily due to higher kilowatt-hour sales and a one-time 
+charge taken in 1992 related to a rate refund to North Carolina retail 
+customers of $.32 per share. (For additional information on the refund, see 
+Liquidity and Resources "Rate Matters," page 19.) The increase was partially 
+offset by higher operating and maintenance expenses, additional charitable 
+contributions to the Duke Power Company Foundation and an increase in the 
+federal income tax rate caused by the Omnibus Budget Reconciliation Act of 
+1993. Higher general taxes also decreased earnings.
+
+Earnings per share increased from $2.60 in 1991 to $2.80 in 1993, indicating 
+an average annual growth rate of 4 percent. Total Company earned return on 
+average common equity was 13.6 percent in 1993 compared to 11.1 percent in 
+1992 and 13.5 percent in 1991.
+
+The Company continued its practice of increasing the common stock dividend 
+annually. Common dividends per share increased from $1.68 in 1991 to $1.84 in 
+1993, rising at an average annual rate of 5 percent. Indicated annual 
+dividends per share increased to $1.88.
+
+Revenue and Sales
+Revenues increased at an average annual rate of 6 percent from 1991 to 1993, 
+primarily because of increased overall kilowatt-hour sales and the November 
+1991 rate increases.
+
+Kilowatt-hour sales for 1993 increased 7 percent compared to 1992. Sales to 
+residential customers increased by 9 percent reflecting colder winter weather 
+and a hotter-than-normal summer. General service customer kilowatt-hour sales 
+increased by 7 percent as a result of both continued economic growth and 
+weather trends cited above. Sales to other-industrial customers and textile 
+customers increased by 6 percent and 2 percent, respectively, as a result of 
+the continued economic growth in the Company's service area.
+
+Operating Expenses 
+From 1992 to 1993, non-fuel operating and maintenance expenses rose 4 percent. 
+Administrative and general expenses increased partly because of increased 
+pension expenses to reflect more conservative investment return assumptions 
+and one-time costs associated with a voluntary separation option offered 
+during the first quarter of 1993. A winter storm during the first quarter of 
+1993 also increased non-fuel operating and maintenance expenses. These 
+increases from 1992 to 1993 were partially offset by lower nuclear and fossil 
+maintenance expenses resulting from lower outage costs.
+
+Non-fuel operating and maintenance expenses increased at an average annual 
+rate of 5 percent from 1991 to 1993. Administrative and general expenses 
+increased over this period because of the implementation of a new accounting 
+standard in January 1992 that reflects accrual basis accounting for certain 
+postretirement health care and life insurance benefits, in addition to the 
+reasons cited in the preceding paragraph. Operating and maintenance expenses 
+for fossil and hydro plants also increased from 1991 to 1993. Fossil increases 
+were caused by bringing refurbished units back on-line, and hydro increases 
+were the result of the completion of the Bad Creek Hydroelectric Station in 
+late 1991.
+
+Net interchange and purchased power decreased at an average annual rate of 1 
+percent from 1991 to 1993. A slight decline in the amount of purchased power 
+from the other Catawba joint owners as recognized on the income statement was 
+substantially offset by increased purchases from other utilities. (For 
+additional information on the Catawba purchase power agreements, see Note 3 to 
+the Consolidated Financial Statements.) 
+
+Fuel expense increased at an average annual rate of 6 percent from 1991 to 
+1993. The increase was due primarily to higher system production requirements 
+that were satisfied by increased fossil generation. A continued decline of 
+fuel prices over this period helped to offset the overall increase in fuel 
+expenses. 
+
+From 1991 to 1993, depreciation and amortization expense increased at an 
+average annual rate of 6 percent primarily because of the completion of the 
+Bad Creek Hydroelectric Station in 1991 and added investment in distribution 
+property. 
+
+Other Income and Interest Deductions
+Allowance for funds used during construction (AFUDC) represented 5 percent of 
+earnings for common stock in 1993 compared to 13 percent in 1991. The decrease 
+is primarily the result of the completion of the Bad Creek Hydroelectric 
+Station in 1991. AFUDC is expected to represent less than 10 percent of total 
+earnings during the next three years.
+
+The carrying charge, net of associated taxes, on the purchased capacity 
+levelization deferral related to the joint ownership of the Catawba Nuclear 
+Station represented 6 percent of total earnings in 1993, compared to 6 percent 
+in 1992 and 5 percent in 1991. This carrying charge and the related tax 
+benefits are included in Other, net and Income taxes---other, net, 
+respectively. The growth in this carrying charge is due to the increasing 
+cumulative impact of the Company's funding of purchased power costs which 
+current rates are expected to collect in future periods. The Company recovers 
+the accumulated balance, including the carrying charge, when the declining 
+purchased capacity payments drop below the levelized revenues. (For additional 
+information on purchased capacity levelization, see Capital Needs "Purchased 
+Capacity Levelization," page 20.)
+
+Interest on long-term debt decreased at an average annual rate of 3 percent 
+from 1991 to 1993. The decrease is due to the Company's refinancing of higher 
+cost debt beginning in late 1991 and continuing throughout 1993. From 1992 to 
+1993, Other interest decreased as a result of the one-time impact in 1992 of 
+approximately $27 million in interest paid to North Carolina retail customers 
+due to a rate refund.
+
+Income provided by diversified activities and the Company's subsidiaries was 
+$22.0 million in 1993 compared to $25.7 million in 1992 and $23.6 million in 
+1991. The activities of Crescent Resources, Inc., the Company's real estate 
+development and forest management subsidiary, generated the majority of 
+subsidiary and non-electric earnings. Other components include subsidiary 
+investment income, fees for engineering services, construction and operation 
+of generation and transmission
+18
+<PAGE>
+
+facilities outside the Company's service area, water operations and 
+merchandising.
+
+Liquidity and Resources
+Rate Matters
+During 1991, the Company filed in both the North Carolina and South Carolina 
+retail jurisdictions its only requests for general rate increases since 1986. 
+The rate increases were primarily needed to recover costs associated with the 
+construction of the Bad Creek Hydroelectric Station. In North Carolina, the 
+Company requested a 9.22 percent rate increase and was granted a 4.15 percent 
+increase, which resulted in additional annual revenues of $100.1 million. In 
+South Carolina, a 7.29 percent increase was requested and a 3.0 percent rate 
+increase was granted, resulting in additional annual revenues of $30.2 
+million. 
+
+Also in 1991, the Company filed a request for a wholesale rate increase with 
+the Federal Energy Regulatory Commission (FERC). A negotiated settlement 
+between the Company and the wholesale customers was approved by the FERC on 
+March 31, 1992. The approved agreement, effective April 1, 1992, provided for 
+a 3.3 percent rate increase, resulting in $2.1 million in additional annual 
+revenues.
+
+The North Carolina Supreme Court on April 22, 1992, remanded for the second 
+time the Company's 1986 rate order to the North Carolina Utilities Commission 
+(NCUC). In this ruling, the Court held that the record from the 1986 
+proceedings failed to support the rate of return on common equity of 13.2 
+percent authorized by the NCUC after the initial decision of the Court 
+remanding the 1986 rate order. The NCUC issued a final order dated October 26, 
+1992, authorizing a 12.8 percent return on common equity for the period 
+October 31, 1986, through November 11, 1991. This order resulted in a 1992 
+refund to North Carolina retail customers of approximately $95 million, 
+including interest.
+
+The Company has a bulk power sales agreement with Carolina Power & Light 
+Company (CP&L) to provide CP&L 400 megawatts of capacity as well as associated 
+energy when needed for a six-year period which began July 1, 1993. Electric 
+rates in all regulatory jurisdictions were reduced by adjustment riders to 
+reflect capacity revenues received from this CP&L bulk power sales agreement.
+
+The other joint owners of the Catawba Nuclear Station and the Company are 
+involved in various proceedings related to the Catawba joint ownership 
+contractual agreements. The basic contention in each proceeding is that 
+certain calculations affecting bills under these agreements should be 
+performed differently. These items are covered by the agreements between the 
+Company and the other Catawba joint owners which have been previously approved 
+by the Company's retail regulatory commissions. (For additional information on 
+Catawba joint ownership, see Note 3 to the Consolidated Financial Statements.) 
+The Company and two of the four joint owners have entered into a proposed 
+settlement agreement which, if approved by the regulators, will resolve all 
+issues in contention in such proceedings between the Company and these owners. 
+The Company recorded a liability as an increase to Other current liabilities 
+on its Consolidated Balance Sheets of approximately $105 million in 1993 to 
+reflect this proposed settlement. In addition, future estimated obligations in 
+connection with the settlement are reflected in estimates of purchased 
+capacity obligations in Note 3. As the Company expects the costs associated 
+with this settlement will be recovered as part of the purchased capacity 
+levelization, the Company has included approximately $105 million as an 
+increase to Purchased capacity costs on its Consolidated Balance Sheets. 
+Therefore, the Company believes the ultimate resolution of these matters 
+should not have a material adverse effect on the results of operations or 
+financial position of the Company.
+
+Although the two other Catawba joint owners, who are not parties to the above 
+settlement, have not fully quantified the dollars associated with their claims 
+in the presently outstanding proceedings, information associated with these 
+proceedings indicates that the amount in contention could be as high as $110 
+million, through December 31, 1993. Arbitration hearings were held in 1992 
+involving substantially all the disputed amounts, and a decision interpreting 
+the language of the agreements on certain of these matters was issued on 
+October 1, 1993. Further proceedings will be required to determine the amounts 
+associated with this decision as it relates to these owners, some of which may 
+involve refunds. However, the Company expects the costs associated with this 
+decision will be included in and recovered as part of the purchased capacity 
+levelization consistent with prior orders of the retail regulatory 
+commissions. Therefore, the Company believes the ultimate resolution of these 
+matters should not have a material adverse effect on the results of operations 
+or financial position of the Company.
+
+The Company is also involved in legal, tax and regulatory proceedings before 
+various courts, regulatory commissions and governmental agencies regarding 
+matters arising in the ordinary course of business, some of which involve 
+substantial amounts. Management is of the opinion that the final disposition 
+of these proceedings will not have a material adverse effect on the results of 
+operations or the financial position of the Company.
+
+Cash From Operations
+In 1993, net cash provided by operating activities accounted for 46 percent of 
+total cash from operating, financing and investing activities compared to 50 
+percent in 1992 and 77 percent in 1991. For 1993 and 1992, essentially all the 
+Company's capital needs, exclusive of refinancing activities, were met by cash 
+generated from operations.
+
+Financing and Investing Activities
+The Company's capital structure, including subsidiary capitalization, at year-
+end 1993 was 52 percent common equity, 39 percent long-term debt and 9 percent 
+preferred stock. This structure is consistent with the Company's target to 
+maintain an "AA" credit rating. As of December 31, 1993, the Company's bonds 
+were rated "AA" by Fitch Investors Service, "Aa2" by Moody's Investors 
+Service, and "AA-" by Standard & Poor's Ratings Group and Duff & Phelps.
+
+As a result of favorable market conditions, the Company continued refinancing 
+activities to retire higher cost debt and preferred stock. During 1993, the 
+Company obtained proceeds from the issuance of $1.5 billion in long-term debt 
+and $220 million in preferred stock, most of which were used to retire $1.4 
+billion of long-term debt and $216 million of preferred stock.
+19
+<PAGE>
+
+In 1992, the Company issued $940 million in long-term debt. Most of these 
+proceeds, combined with the proceeds from bonds issued in late 1991, were used 
+to redeem $884 million of long-term debt. During 1992, the Company also issued 
+$284 million of preferred stock, most of which was used to redeem $229 million 
+of preferred stock. 
+
+Also on April 6, 1992, the Company redeemed all outstanding shares of the 
+Cumulative Preference Stock 6 3/4 percent Convertible Series AA at its par 
+value of $100 per share.
+
+The Company's embedded cost of long-term debt for 1993 decreased to 8.01 
+percent compared to 8.39 percent in 1992 and 8.72 percent in 1991. The 
+embedded cost of preferred stock declined to 6.76 percent in 1993 from 7.05 
+percent in 1992 and 7.48 percent in 1991. These decreases are primarily the 
+result of the Company's refinancing activities. Downward trends in embedded 
+costs may level off because of fewer refinancing opportunities. 
+
+Fixed Charges Coverage
+Fixed charges coverage using the SEC method increased to 4.68 times for 1993 
+compared to 3.48 and 3.85 times, respectively, in 1992 and 1991. Fixed charges 
+coverage, excluding AFUDC and the return on purchased capacity levelization, 
+was 4.40 times in 1993 compared to 3.27 in 1992 and 3.46 in 1991 and the 
+Company goal of 3.5 times. In 1992, the coverage under both methods was lower 
+because of the impact of the rate refund. 
+
+Capital Needs
+Property Additions and Retirements
+Additions to property and nuclear fuel of $676 million and retirements of $312 
+million resulted in an increase in gross plant of $364 million in 1993.
+
+Since January 1, 1991, additions to property and nuclear fuel of $2.1 billion 
+and retirements of $780 million have resulted in an increase in gross plant of 
+$1.3 billion.
+
+Construction Expenditures
+Plant construction costs for generating facilities, including AFUDC, decreased 
+from $232 million in 1991 to $182 million in 1993. Completion of the Bad Creek 
+Hydroelectric Station in 1991 was a significant part of the decrease. 
+Construction costs for distribution plant, including AFUDC, decreased from 
+$275 million in 1991 to $240 million in 1993.
+
+Projected construction and nuclear fuel costs, both including AFUDC, are $2.3 
+billion and $394 million, respectively, for 1994 through 1996. Total projected 
+construction costs include expenditures for the construction of the Lincoln 
+Combustion Turbine Station and replacement of certain steam generators at the 
+McGuire Nuclear Station and the Catawba Nuclear Station. (For additional 
+information on steam generator replacement, see Current Issues "Stress 
+Corrosion Cracking," page 22.) For 1994 through 1996, the Company anticipates 
+funding its projected construction and nuclear fuel costs through the internal 
+generation of funds and, to a lesser extent, through the issuance of 
+securities, primarily First and Refunding Mortgage Bonds.
+
+Purchased Capacity Levelization
+The rates established in the Company's retail jurisdictions permit the Company 
+to recover its investment in both units of the Catawba Nuclear Station and the 
+costs associated with contractual purchases of capacity from the other Catawba 
+joint owners. The contracts relating to the sales of portions of the station 
+obligate the Company to purchase a declining amount of capacity from the other 
+joint owners. In the North Carolina retail jurisdiction, regulatory treatment 
+of these contracts provides revenue for recovery of the capital costs and the 
+fixed operating and maintenance costs of purchased capacity on a levelized 
+basis. In the South Carolina retail jurisdiction, revenues are provided for 
+the recovery of the capital costs of purchased capacity on a levelized basis, 
+while current rates include recovery of fixed operating and maintenance 
+expenses.
+
+These rate treatments require the Company to fund portions of the purchased 
+power payment until these costs, including carrying charges, are recovered at 
+a later date. The Company recovers the accumulated costs and carrying charges 
+when the declining purchased capacity payments drop below the levelized 
+revenues. In the North Carolina and wholesale jurisdictions, purchased 
+capacity payments continue to exceed levelized revenues. In the South Carolina 
+jurisdiction, cumulative levelized revenues have exceeded purchased capacity 
+payments. Jurisdictional levelizations are intended to recover total costs, 
+including allowed returns, and are subject to adjustments, including final 
+true-ups.
+
+Meeting Future Power Needs
+The Company's strategy for meeting customers' present and future energy needs 
+is composed of three components: supply-side resources, demand-side resources 
+and purchased power resources. To assist in determining the optimal 
+combination of these three resources, the Company uses its integrated resource 
+planning process. The goal is to provide adequate and reliable electricity in 
+an environmentally responsible manner through cost-effective power management. 
+
+The Company is building a combustion turbine facility in Lincoln County, North 
+Carolina. The Lincoln Combustion Turbine Station will consist of 16 combustion 
+turbines with a total generating capacity of 1,184 megawatts. The estimated 
+total cost of the project is approximately $500 million. Current plans are for 
+ten units to begin commercial operation by the end of 1995 and the remaining 
+six to begin commercial operation before the end of 1996. The Lincoln facility 
+will provide capacity at periods of peak demand.
+
+Demand-side management programs are a part of meeting the Company's future 
+power needs. These programs benefit the Company and its customers by providing 
+for load control through interruptible control features, shifting usage to 
+off-peak periods, increasing usage during off-peak periods, and by promoting 
+energy efficiency. In return for participation in demand-side management 
+programs, customers may be eligible to receive various incentives which help 
+to reduce their electric bills. Demand-side management programs such as 
+Industrial Interruptible Service and Residential Load Control can be used to 
+manage capacity availability problems. Energy-efficiency programs such as 
+high-efficiency chillers, high-efficiency heat pumps and high-efficiency air 
+conditioners are other examples of current demand-side management programs. 
+The November 1991 rate orders of the NCUC and The Public Service Commission of 
+South Carolina (PSCSC) provided for recovery in rates of a designated level
+20
+<PAGE>
+
+of costs for demand-side management programs and allowed the deferral for 
+later recovery of certain demand-side management costs that exceed the 
+level reflected in rates, including a return on the deferred costs. As 
+additional demand-side costs are incurred, the Company ultimately expects 
+recovery of associated costs, which are currently being deferred, through 
+rates. The annual costs deferred, including the return, were approximately 
+$26 million in 1993 and $18 million in 1992.
+
+The purchase of capacity and energy is also an integral part of meeting future 
+power needs. The Company currently has under contract 500 megawatts of 
+capacity from other generators of electricity.
+
+Current Issues
+While the Company improved its financial performance in 1993 compared to 1992, 
+the ability to maintain and improve its current level of earnings will depend 
+on several factors. Future trends in the Company's earnings will depend on the 
+continued economic growth in the Piedmont Carolinas, the Company's ability to 
+contain costs, its ability to maintain competitive prices, the outcome of 
+various legislative and regulatory actions and the success of the Company's 
+diversified activities.
+
+Resource Optimization. The Company has been engaged in a concentrated effort 
+to more efficiently and effectively use its resources through better work 
+practices. During the first quarter of 1993, the Company offered a Limited 
+Period Separation Opportunity program (LPSO) which gave employees the option 
+of leaving the Company for a lump sum severance payment and, for qualifying 
+employees, enhanced retirement benefits. Implementing programs such as LPSO 
+and other efficiency practices has resulted in a continued workforce reduction 
+and in streamlined workflows. The number of full-time employees has decreased 
+from 19,945 at year-end 1990 to 18,274 at year-end 1993. Included in these 
+amounts are 496 and 789 employees of subsidiaries and affiliates for 1990 and 
+1993, respectively.
+
+Income Tax Accounting Change. In January 1993, the Company implemented a 
+standard as required by the Financial Accounting Standards Board (FASB) that 
+requires a liability approach for financial accounting and reporting for 
+income taxes. While classification of certain items on the Consolidated 
+Balance Sheets has changed, principally because certain items previously 
+reported net of tax are now being reported on a gross basis, there is no 
+material effect on the Company's results of operations. 
+
+Nuclear Decommissioning Costs. Estimated site-specific nuclear decommissioning 
+costs, including the cost of decommissioning plant components not subject to 
+radioactive contamination, total approximately $955 million stated in 1990 
+dollars. This amount includes the Company's 12.5 percent ownership in the 
+Catawba Nuclear Station. The other joint owners of the Catawba Nuclear Station 
+are liable for providing decommissioning related to their ownership interests 
+in the station. Both the NCUC and the PSCSC have granted the Company recovery 
+of the estimated site-specific decommissioning costs through retail rates over 
+the expected remaining service periods of the Company's nuclear plants. Such 
+estimates presume that units will be decommissioned as soon as possible 
+following the end of their license life. Although subject to extension, the 
+current operating licenses for the Company's nuclear units expire as follows: 
+Oconee 1 and 2 - 2013, Oconee 3 - 2014; McGuire 1 - 2021, McGuire 2 - 2023; 
+and Catawba 1 - 2024, Catawba 2 - 2026.
+
+The Nuclear Regulatory Commission (NRC) issued a rule-making in 1988 which 
+requires an external mechanism to fund the estimated cost to decommission 
+certain components of a nuclear unit subject to radioactive contamination. In 
+addition to the required external funding, the Company maintains an internal 
+reserve to provide for decommissioning costs of plant components not subject 
+to radioactive contamination. During 1993, the Company expensed approximately 
+$52.5 million which was contributed to the external funds and accrued an 
+additional $5.0 million to the internal reserve. The balance of the external 
+funds as of December 31, 1993, was $118.5 million. The balance of the internal 
+reserve as of December 31, 1993, was $200.0 million and is reflected in 
+Accumulated depreciation and amortization on the Consolidated Balance Sheets. 
+Management's opinion is that the estimated site-specific decommissioning costs 
+being recovered through rates, when coupled with assumed after-tax fund 
+earnings of 4.5 percent to 5.5 percent, are currently sufficient to provide 
+for the cost of decommissioning based on the Company's current decommissioning 
+schedule.
+
+Environmental Update. The Company is subject to federal, state and local 
+regulations with regard to air and water quality, hazardous and solid waste 
+disposal, and other environmental matters. The Company was an operator of 
+manufactured gas plants prior to the early 1950s. The Company is entering into 
+a cooperative effort with the State of North Carolina and other owners of 
+certain former manufactured gas plant sites to investigate and, where 
+necessary, remediate these contaminated sites. The State of South Carolina has 
+expressed interest in entering into a similar arrangement. The Company is 
+considered by regulators to be a potentially responsible party and may be 
+subject to liability at two federal Superfund sites and two comparable state 
+sites. While the cost of remediation of these sites may be substantial, the 
+Company will share in any liability associated with remediation of 
+contamination at such sites with other potentially responsible parties. 
+Management is of the opinion that resolution of these matters will not have a 
+material adverse effect on the results of operations or financial position of 
+the Company.
+
+The Clean Air Act Amendments of 1990. The Clean Air Act Amendments of 1990 
+require a two-phase reduction by electric utilities in the aggregate annual 
+emissions of sulfur dioxide and nitrogen oxide by the year 2000. The Company 
+currently meets all requirements of Phase I. The Company supports the national 
+objective of clean air in the most cost-effective manner and has already 
+reduced emissions through the use of low-sulfur coal in its fossil plants, 
+through efficient operations and by using nuclear generation. The sulfur 
+dioxide provisions of the Act allow utilities to choose among various 
+alternatives for compliance. The Company is currently developing a detailed 
+21
+<PAGE>
+
+compliance plan for Phase II requirements which must be filed with the 
+Environmental Protection Agency (EPA) by 1996. A preliminary strategy, which 
+allows for varying options, indicates that one-time costs associated with 
+bringing the Company into compliance with the Act could be as high as $1 
+billion, and that approximately $75 million in additional annual operating and 
+maintenance expenses will be incurred as well. These one-time costs could be 
+less depending on favorable developments in the emissions allowance market, 
+future regulatory and legislative actions, and advances in clean air 
+technology. All options within the preliminary strategy allow for full 
+compliance of Phase II requirements by the year 2000.
+
+Stress Corrosion Cracking (SCC). Stress corrosion cracking has occurred in the 
+steam generators of Units 1 and 2 at the McGuire Nuclear Station and Unit 1 at 
+the Catawba Nuclear Station. The Company is of the opinion that the SCC is 
+caused by the defective design, workmanship and materials used by the 
+manufacturer of the steam generators. Catawba Unit 2, which has certain design 
+differences and came into service at a later date, has not yet shown the 
+degree of SCC which has occurred in McGuire Units 1 and 2 and Catawba Unit 1. 
+It is, however, too early in the life of Catawba Unit 2 to determine the 
+extent to which SCC will be a problem. Although the Company has taken steps to 
+mitigate the effects of SCC, the inherent potential for future SCC in the 
+Catawba and McGuire steam generators still exists. The Company has begun 
+planning for the replacement of steam generators and has set the following 
+schedule to begin the process: McGuire Unit 1 - 1995, Catawba Unit 1 - 1996, 
+McGuire Unit 2 - 1997. The Catawba Unit 2 steam generators have not been 
+scheduled for replacement. The order of replacement is subject to change based 
+on performance of the existing steam generators and on the overall performance 
+of the three units. The Company has signed an agreement with Babcock & Wilcox 
+International to purchase replacement steam generators. Steam generator 
+replacement at each unit is expected to take approximately four months and 
+cost approximately $170 million, excluding the cost of replacement power and 
+without consideration of reimbursement of applicable costs by the other joint 
+owners of Catawba Unit 1. Stress corrosion problems are excluded under the 
+nuclear insurance policies.
+
+The Company in connection with its McGuire and Catawba stations and on behalf 
+of the other joint owners of the Catawba Station -- North Carolina Municipal 
+Power Agency Number 1, North Carolina Electric Membership Corporation, 
+Piedmont Municipal Power Agency and Saluda River Electric Cooperative, Inc. --
+commenced a legal action on March 22, 1990. This action alleges that 
+Westinghouse Electric Corporation (Westinghouse), the supplier of the steam 
+generators, knew, or recklessly disregarded information in its possession, 
+that the steam generators supplied to McGuire and Catawba stations would be 
+susceptible to SCC and that Westinghouse deliberately concealed such 
+information from the Company. The Company is seeking a judgment against 
+Westinghouse for damages of approximately $600 million, including the cost of 
+necessary remedial measures, the cost of replacement steam generators and 
+payment for replacement power during the outages to accomplish the 
+replacement. In addition to these damages, the Company is seeking punitive or 
+treble damages and attorneys' fees. A trial date has been set for March 14, 
+1994.
+
+Competition. The Energy Policy Act of 1992 has far-reaching implications for 
+the Company by moving utilities toward a more competitive environment. The Act 
+reformed certain provisions of the Public Utility Holding Company Act of 1935 
+(PUHCA) and removed certain regulatory barriers. For example, the Act allows 
+utilities to develop independent electric generating plants in the United 
+States for sales to wholesale customers, as well as to contract for utility 
+projects internationally, without becoming subject to registration under PUHCA 
+as an electric utility holding company. The Act requires transmission of power 
+for third parties to wholesale customers, provided the reliability of service 
+to the utility's local customer base is protected and the local customer base 
+does not subsidize the third-party service. Although the Act does not require 
+transmission access to retail customers, states can authorize such 
+transmission access to and for retail electric customers.
+
+The electric utility industry is predominantly regulated on a basis designed 
+to recover the cost of providing electric power to its retail and wholesale 
+customers. If cost-based regulation were to be discontinued in the industry, 
+for any reason, including competitive pressure on the price of electricity, 
+utilities might be forced to reduce their assets to reflect their market basis 
+if such basis is less than cost. Discontinuance of cost-based regulation could 
+also require some utilities to write off their regulatory assets. Management 
+cannot predict the potential impact, if any, of these competitive forces on 
+the Company's future financial position and results of operations. However, 
+the Company is continuing to position itself to effectively meet these 
+challenges by maintaining prices that are regionally and nationally 
+competitive.
+
+Subsidiary Activities. A major part of the future growth in the electric power 
+market is anticipated to be outside the traditional regulated framework and, 
+to a large extent, outside the United States. The Company, through its 
+subsidiaries, is participating in these international opportunities and 
+continues participating in domestic opportunities to provide additional value 
+to its shareholders. Internationally, the Company is seeking opportunities to 
+provide engineering consulting services, construction, operation and 
+maintenance of generation facilities, and ownership of transmission and 
+generation facilities. Although these opportunities are concentrated in areas 
+that utilize the Company's expertise, they present different and greater risks 
+than does the Company's core business. The Company considers only 
+opportunities in which the expected returns are commensurate with the risks 
+and makes efforts to mitigate such risks. At December 31, 1993, the Company 
+had equity investments of $84.5 million in international transmission and 
+generation facilities and $17.1 million in electric assets within the United 
+States, but outside its current service area. The Company is actively pursuing 
+additional international and domestic opportunities to capitalize on the 
+future potential growth of this market.
+22
+<PAGE>
+
+SELECTED FINANCIAL DATA
+<TABLE>
+<CAPTION>
+
+1993 1992 1991 1990 1989
+<S> <C> <C> <C> <C> <C>
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME (thousands)
+Electric revenues (a)................................. $ 4,281,876 $ 3,961,484 $ 3,816,960 $ 3,705,131 $3,692,955
+Electric expenses (a)................................. 3,467,811 3,236,789 3,110,137 3,062,348 2,988,355
+Electric operating income........................... 814,065 724,695 706,823 642,783 704,600
+Other income.......................................... 71,269 85,007 150,905 146,740 101,826
+Income before interest deductions................... 885,334 809,702 857,728 789,523 806,426
+Interest deductions................................... 258,919 301,619 274,105 251,335 234,815
+Net income............................................ 626,415 508,083 583,623 538,188 571,611
+Dividends on preferred and preference stock......... 52,429 56,407 54,683 52,616 52,477
+Earnings for common stock............................. $ 573,986 $451,676 $528,940 $ 485,572 $ 519,134
+COMMON STOCK DATA (B)
+Shares of common stock -- year-end (thousands)........ 204,859 204,859 204,699 202,584 202,563
+-- average (thousands)......... 204,859 204,819 203,431 202,570 202,554
+Per share of common stock
+Earnings.............................................. $ 2.80 $ 2.21 $ 2.60 $ 2.40 $ 2.56
+Dividends............................................. $ 1.84 $ 1.76 $ 1.68 $ 1.60 $ 1.52
+Book value -- year-end................................ $ 21.17 $20.26 $19.86 $18.84 $ 18.05
+
+Market price -- high-low............................. $44 7/8-35 3/8 $37 1/2-31 3/8 $35-26 3/4 $32 3/8-25 1/2 $28 1/4-21 3/8
+-- year-end.................................. $42 3/8 $36 1/8 $35 $ 30 5/8 $28 1/16
+BALANCE SHEET DATA (thousands)
+Total assets.................................. $12,193,107 $10,950,387 $10,470,615 $10,083,507 $9,542,398
+Long-term debt................................ $ 3,285,397 $ 3,288,111 $ 3,159,575 $ 3,102,746 $2,822,442
+Preferred stock with sinking fund 
+requirements............................ $ 281,000 $ 279,519 $ 228,650 $ 239,800 $ 247,825
+ELECTRIC AND OTHER STATISTICS
+Kilowatt-hour sales (millions)
+Residential................................. 19,465 17,789 17,918 17,221 16,895
+General service............................. 16,904 15,818 15,586 15,032 14,206
+Industrial.................................. 28,198 27,041 26,270 25,894 25,934
+Other energy and wholesale (a)(c)........... 11,337 10,360 10,132 10,468 11,969
+Total kilowatt-hour sales billed.......... 75,904 71,008 69,906 68,615 69,004
+Unbilled kilowatt-hour sales................ 154 34 (19) (540) 370
+Total kilowatt-hour sales................. 76,058 71,042 69,887 68,075 69,374
+Residential customer data.....................
+Average annual KWH use...................... 13,372 12,427 12,710 12,444 12,459
+Average revenue billed per KWH.............. 7.32(cents) 7.38(cents) 7.10(cents) 7.07(cents) 7.09(cents)
+Sources of energy (millions of KWH) (d)
+Generated -- Coal........................... 34,097 28,999 26,455 27,262 26,175
+-- Nuclear (e).............................. 48,211 48,238 49,328 44,649 47,773
+-- Hydro (f)................................ 1,582 1,834 1,545 1,879 1,520
+-- Oil and gas.............................. 43 5 7 53 27
+Total generation............................ 83,933 
+79,076 77,335 73,843 75,495
+Purchased power and net interchange (a)....... 1,750 1,403 587 1,531 1,158
+Total output................................ 85,683 80,479 77,922 75,374 76,653
+Less: Other Catawba joint owners' share....... 13,821 14,313 12,280 11,735 12,566
+Plus: Purchases from other Catawba 
+joint owners.............................. 8,810 9,466 8,525 8,658 9,809
+Total sources of energy................... 80,672 75,632 74,167 72,297 73,896
+Line loss and Company usage................... 4,614 4,590 4,280 4,222 4,522
+Total kilowatt-hour sales................. 76,058 71,042 69,887 68,075 69,374
+System average heat rate...................... 9,921 9,974 9,996 10,007 10,013
+System load factor............................ 60.2% 60.0% 59.4% 59.9% 61.8%
+</TABLE>
+
+(a) ELECTRIC REVENUES, ELECTRIC EXPENSES, KILOWATT-HOUR SALES AND NET
+INTERCHANGE AND PURCHASED POWER FOR THE YEARS 1989 AND 1990 INCLUDE A
+RECLASSIFICATION FOR CERTAIN POWER TRANSACTIONS PREVIOUSLY CLASSIFIED AS NET
+INTERCHANGE AND PURCHASED POWER PRIOR TO A 1990 FERC ORDER.
+(b) ALL COMMON STOCK DATA REFLECTS THE TWO-FOR-ONE SPLIT OF COMMON STOCK ON
+SEPTEMBER 28, 1990.
+(c) INCLUDES SALES TO NANTAHALA POWER AND LIGHT COMPANY.
+(d) DOES NOT INCLUDE OPERATING STATISTICS OF NANTAHALA POWER AND LIGHT COMPANY.
+(e) INCLUDES 100% OF CATAWBA GENERATION.
+(f) 1991 INCLUDES KWH OF THE BAD CREEK HYDROELECTRIC STATION PRIOR TO COMMERCIAL
+OPERATION.
+23
+<PAGE>
+
+SELECTED FINANCIAL DATA
+QUARTERLY FINANCIAL DATA
+<TABLE>
+<CAPTION>
+First Second Third Fourth
+Dollars in Thousands (except per-share data) Quarter Quarter Quarter Quarter Total
+<S> <C> <C> <C> <C> <C>
+1993 by quarter
+Electric Revenues........................................ $1,007,783 $987,218 $1,289,994 $996,881 $4,281,876
+Electric Operating Income................................ 188,522 169,111 283,411 173,021 814,065
+Net Income............................................... 141,684 122,470 241,409 120,852 626,415
+Earnings Per Share....................................... $0.63 $0.53 $1.12 $0.52 $2.80
+1992 by quarter
+Electric Revenues........................................ $981,330 $899,319 $1,139,525 $941,310 $3,961,484
+Electric Operating Income................................ 161,726 148,888 248,081 166,000 724,695
+Net Income............................................... 106,365 86,938 190,519 124,261 508,083
+Earnings Per Share....................................... $0.45 $0.36 $0.85 $0.55 $2.21
+</TABLE>
+
+Generally, quarterly earnings fluctuate with seasonal weather conditions, timing
+of rate changes and maintenance of electric generating units, especially nuclear
+units.
+24
+
+SUBSIDIARY HIGHLIGHTS
+The earnings contribution of the Company's diversified activities and
+subsidiaries was $22.0 million in 1993, $25.7 million in 1992 and $23.6 million
+in 1991. (a)(b) Highlights of selected subsidiaries are presented below.
+(dollars in thousands)
+ELECTRIC POWER SUPPLY
+Nantahala Power and Light Company provides service to a five-county area in the
+western North Carolina mountains by its operation of 11 hydroelectric stations
+and purchases of supplemental power.
+<TABLE>
+<CAPTION>
+
+1993 1992 1991
+<S> <C> <C> <C>
+Assets net of 
+liabilities................................ $ 47,679 $ 42,910 $ 39,384
+Net 
+income...... ............................. $ 4,261 $ 3,526 $ 2,721
+Number of employees 
+(c).......................................... 194 191 194
+</TABLE>
+
+FUNDS MANAGEMENT
+Church Street Capital Corp. (CSCC) manages investment of funds for the Company
+and is the parent company of several subsidiaries. CSCC has no full-time
+employees.
+<TABLE>
+<CAPTION>
+
+1993 1992 1991
+<S> <C> <C> <C>
+Short-term investments and marketable 
+securities............................... $ 155,871 $ 173,347 $ 120,303
+Investment income (after tax)............... $ 3,548 $ 5,404 $ 6,397
+</TABLE>
+
+Highlights of CSCC's subsidiaries are presented below:
+REAL ESTATE MANAGEMENT, LAND DEVELOPMENT
+Crescent Resources, Inc. is engaged in forest management, real estate
+development, and sales and leasing.
+<TABLE>
+<CAPTION>
+1993 1992 1991
+<S> <C> <C> <C>
+Asset net of 
+liabilities................................ $133,034 $ 110,949 $ 88,046
+Net income (a)............................... $ 16,327 $ 16,613 $ 9,661
+Number of employees (c)...................... 77 73 69
+</TABLE>
+
+ENGINEERING, CONSTRUCTION, TECHNICAL SERVICES AND POWER DEVELOPMENT
+Engineering, construction, technical services and power development
+opportunities are pursued nationally and internationally.
+Duke Engineering & Services, Inc. markets engineering, construction, quality
+assurance, consulting and other engineering-related services for utility
+facilities other than coal-fired plants.
+Duke/Fluor Daniel, a joint venture with Fluor Daniel, Inc., provides design,
+construction, operation and maintenance support primarily for coal-fired
+generating plants.
+Duke Energy Group, parent of Duke Energy Corp., structures, finances and
+manages investments in electric generation and transmission facilities.
+<TABLE>
+<CAPTION>
+1993 1992 1991
+<S> <C> <C> <C>
+Assets net of 
+liabilities.................................. $127,708 $ 36,687 $ 13,480
+Net 
+income....................................... $ 40 $ 33 $ 1,512
+Number of employees (c)....................... 518 495 364
+</TABLE>
+
+(a) 1991 EXCLUDES THE CUMULATIVE EFFECT OF AN ACCOUNTING CHANGE OF $6,727,000,
+AFTER TAX.
+(b) THE EARNINGS CONTRIBUTION OF THE COMPANY'S SUBSIDIARIES AND NON-ELECTRIC
+OPERATIONS INCLUDES ELIMINATION OF INTERCOMPANY PROFIT OF $509,000 AND
+$1,211,000, AFTER TAX, IN 1993 AND 1992, RESPECTIVELY.
+(c) FULL-TIME EMPLOYEES.
+25
+<PAGE>
+
+INDEPENDENT AUDITORS' CONSENT
+We consent to the incorporation by reference in Registration Statement
+Nos. 33-59926, 33-60314, 33-19274, 33-50543, 33-50715 and 33-50617 of Duke
+Power Company on Form S-3 and Registration Statement No. 2-72172 of Duke Power
+Company on Form S-8 of our report dated February 11, 1994, appearing in this 
+Form 8-K of Duke Power Company filed with the Securities and Exchange Commission
+on February 18, 1994.
+
+Deloitte & Touche
+DELOITTE & TOUCHE
+Charlotte, North Carolina
+February 18, 1994
+
+<PAGE>
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+DUKE POWER COMPANY
+(Registrant)
+By ELLEN T. RUFF
+
+ELLEN T. RUFF
+SECRETARY
+Date: February 18, 1994
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

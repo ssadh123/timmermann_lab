@@ -1,0 +1,3858 @@
+<IMS-DOCUMENT>0000892569-94-000006.txt : 19940112
+<IMS-HEADER>0000892569-94-000006.hdr.sgml : 19940112
+ACCESSION NUMBER:		0000892569-94-000006
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19931223
+ITEM INFORMATION:		2
+FILED AS OF DATE:		19940105
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WESTERN DIGITAL CORP
+		CENTRAL INDEX KEY:			0000106040
+		STANDARD INDUSTRIAL CLASSIFICATION:	3577
+		IRS NUMBER:				952647125
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	001-08703
+		FILM NUMBER:		94500438
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8105 IRVINE CENTER DR
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92718
+		BUSINESS PHONE:		7149325000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GENERAL DIGITAL CORP
+		DATE OF NAME CHANGE:			19730125
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<PAGE> 1
+
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+------------
+
+FORM 8-K
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+Date of report (Date of earliest event reported) December 23, 1993
+-----------------
+
+WESTERN DIGITAL CORPORATION 
+-------------------------------------------------
+(Exact Name of Registrant as Specified in Charter)
+
+<TABLE>
+<S> <C> <C> 
+Delaware 1-8703 95-2647125 
+- ---------------------------- ------------ -------------------
+(State or Other Jurisdiction (Commission (IRS Employer
+of Incorporation) File Number) Identification No.)
+</TABLE>
+
+<TABLE>
+<S> <C>
+8105 Irvine Center Drive, Irvine, California 92718 
+- -----------------------------------------------------------------------
+(Address of Principal Executive Offices) (Zip Code)
+</TABLE>
+
+Registrant's telephone number, including area code (714) 932-5000
+--------------
+
+N/A
+-------------------------------------------------------------
+(Former Name or Former Address, if Changed Since Last Report)
+
+<PAGE> 2
+Item 2. ACQUISITION OR DISPOSITION OF ASSETS.
+On December 23, 1993, Western Digital Corporation ("Western
+Digital") sold its Irvine, California silicon wafer fabrication
+facility and related assets to the Semiconductor Products Sector of
+Motorola, Inc. ("Motorola") for approximately $110.6 million ($103.9
+million in cash and a $6.7 million note payable over the 60-day
+period after closing), plus certain other considerations, including
+the assumption by Motorola of equipment leases associated with the
+facility. Concurrent with the sale, Western Digital entered into a
+supply contract for at least two years whereby Motorola will supply
+Western Digital with a significant portion of its silicon wafer
+requirements. The agreements with Motorola are a result of
+arms-length negotiations between the parties.
+
+ITEM 7. FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS.
+(c) Exhibits.
+
+<TABLE>
+<CAPTION>
+Exhibit Description
+- -------- -----------
+<S> <C>
+1 Asset Purchase Agreement dated December 16, 1993 by and 
+between Motorola, Inc. and Western Digital regarding the
+sale and purchase of Western Digital's wafer fabrication
+facilities and certain related assets.
+
+2 Supply Agreement dated December 16, 1993 by and between
+Motorola, Inc. and Western Digital regarding the supply
+of wafers to Western Digital.
+</TABLE>
+
+2
+
+<PAGE> 3
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+WESTERN DIGITAL CORPORATION
+
+Date: January 4, 1994 By: ROBERT L. ERICKSON
+Robert L. Erickson
+Vice President, Law and 
+Secretary
+
+3
+<PAGE> 4
+EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+
+Exhibit Sequentially 
+Number Description Numbered Page 
+--------- ------------- ---------------
+<S> <C>
+1 Asset Purchase Agreement dated December 16, 1993 by and between
+Motorola, Inc. and Western Digital regarding the sale and purchase
+of Western Digital's wafer fabrication facilities and certain
+related assets.
+
+2 Supply Agreement dated December 16, 1993 by and between Motorola,
+Inc. and Western Digital regarding the supply of wafers to Western
+Digital (confidential treatment is being sought).
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<DESCRIPTION>ASSET PURCHASE AGREEMENT
+<TEXT>
+<PAGE> 1
+Exhibit 1 to Form 8-K
+
+ASSET PURCHASE AGREEMENT
+
+This Asset Purchase Agreement is dated as of December 16, 1993 (the
+"Agreement") and is by and between Motorola, Inc., a Delaware corporation whose
+principal executive offices are at 1303 East Algonquin Road, Schaumburg, IL
+60196 ("Motorola"), and Western Digital Corporation, a Delaware corporation
+whose principal executive offices are at 8105 Irvine Center Drive, Irvine,
+California 92718 (the "Company").
+
+Subject to the terms and conditions hereinafter set forth, Motorola desires
+to purchase the Company's wafer fabrication facilities at 1 Banting in Irvine,
+California (the "Banting Site") and certain related assets in exchange for the
+consideration described in this Agreement. The Company is willing to sell, or
+cause to be sold, such facilities and assets for this consideration. In order
+to induce Motorola to acquire such facilities and assets, the Company is
+prepared to make certain representations, warranties and covenants and provide
+certain indemnities and other protections.
+
+For purposes of this Agreement, the following terms shall be defined as
+follows:
+
+"Affiliate" of any Person means any other Person directly or
+indirectly controlling (within the meaning of Rule 12b-2 under the Exchange Act
+as in effect on the Closing Date), or directly or indirectly controlled by or
+under direct or indirect common control with such Person.
+
+"Person" means any individual, corporation, partnership, joint
+venture, association, joint-stock company, trust, unincorporated organization
+or Governmental Authority.
+
+"Subsidiary" of any Person shall mean a corporation, company or other
+entity (i) 100% of whose outstanding shares of securities (representing the
+right to vote for the election of directors or other managing authority) are,
+or (ii) which does not have outstanding shares of securities (as may be the
+case in a partnership, joint venture or unincorporated association), but 100%
+of whose ownership interest representing the right to make decisions for such
+other entity is, now or hereafter owned or controlled, directly or indirectly,
+by such Person, but such corporation, company or other entity shall be deemed
+to be a Subsidiary only so long as such ownership or control exists.
+
+"Applicable Environmental Law" shall mean any statute, regulation,
+rule, order, or law that regulates or prohibits the use, sale, treatment,
+disposal, storage, of any Hazardous Material (as defined below), including but
+not limited to the following federal laws: the Comprehensive, Environmental
+Response, Compensation and Liability Act, the Resource Conservation and
+Recovery Act, the Federal Water Pollution Control Act,
+
+December 16, 1993 Page 1 
+Revision 7
+
+<PAGE> 2
+
+the Clean Air Act, the Hazardous Materials Transportation Act, the
+Clean Water Act and all applicable California laws concerning Hazardous
+Materials.
+
+"Hazardous Material" shall mean any substance that is prohibited or
+regulated by Applicable Environmental Law.
+
+"Joint Use Agreement" shall mean the Joint Use Agreement executed
+concurrently herewith pursuant to which, on and after the Closing Date, the
+Company will occupy and use certain portions of the facilities at the Banting
+Site for a limited period of time as set forth therein.
+
+"Wafer Supply Agreement" shall mean the Supply Agreement executed
+concurrently herewith (to be effective as of the Closing Date) pursuant to
+which Motorola will manufacture and sell semiconductor wafers to the
+Company in accordance with the terms thereof.
+
+Accordingly, the parties agree as follows:
+
+1. Purchase of Assets; Assumption of Liabilities.
+
+1.01 Purchase.
+
+At the Closing Date (as defined in Section 6 below), except as set
+forth in Section 1.03 below, the Company shall transfer and deliver to
+Motorola, or cause to be transferred and delivered to Motorola, by appropriate
+instruments in a form reasonably satisfactory to Motorola, and Motorola shall
+acquire and accept, for the consideration hereinafter provided, all right,
+title and interest in and to all of the assets and properties of the Company
+located at the Banting Site including but not limited to:
+
+(a) the real property at the Banting Site, as legally described in
+Schedule 1.01 (a), comprised of parcels 1 to 3, inclusive, of
+parcel map no. 89-404, in the City of Irvine, County of Orange
+California, as per map recorded in book 269, pages 19 to 21,
+inclusive, of parcel maps, in the office of the County
+Recorder of said County, including such parcels of land and
+all buildings, improvements, structures, fixtures and all
+rights, privileges and easements appurtenant to the land,
+including all development rights, air rights, water, water
+rights and water stock relating to the land and any other
+easements, rights-of-way or appurtenances used in connection
+with the beneficial use and enjoyment of such parcels of land
+(the "Real Property");
+
+(b) all tangible personal property owned by the Company located at
+the Banting Site, including without limitation furniture,
+equipment, materials,
+
+December 16, 1993 Page 2
+Revision 7
+
+<PAGE> 3
+raw material and work in process
+inventories, supplies and consumable items;
+(c) the Company s rights under all licenses, permits, warranties,
+manuals, operating instructions, software, rights and
+privileges related to the wafer fabrication operations
+currently conducted by the Company at the Banting Site (the
+"Wafer Fab Operations");
+(d) the Company's rights under all service contracts, maintenance
+contracts, equipment leases, leases of other personal
+property, purchase orders and other contracts for the
+acquisition or maintenance of tangible or intangible personal
+property related to the Wafer Fab Operations; and
+(e) all books and records, including electronic records, which are
+related to the Real Property or necessary for conducting the
+Wafer Fab Operations.
+
+The assets, properties and rights to be acquired by Motorola
+hereunder, exclusive of the Excluded Assets (as defined below), are
+collectively referred to as the "Acquisition Assets." Should it be determined
+at any time up to one year after the Closing Date that any tangible or
+intangible assets which, pursuant to this Agreement, should have been
+transferred to Motorola are still in the Company's possession, the Company
+shall deliver them (or cause them to be delivered) promptly to Motorola, upon
+reasonable notice and without additional charge.
+
+1.02 Assumption of Liabilities.
+
+On and subject to the terms and conditions of this Agreement, Motorola
+agrees to assume and become responsible for all of the Assumed Liabilities as
+of the Closing Date, but no other obligation or liability of the Company.
+"Assumed Liabilities" means only those contracts and obligations in Schedule
+1.02 attached hereto as updated by mutual agreement of the parties as of the
+Closing Date.
+
+1.03 Excluded Assets.
+
+Notwithstanding the foregoing, there shall be excluded from the
+assets, properties and rights to be conveyed to Motorola by the Company
+pursuant to this Agreement all of the following assets, properties and rights
+(the "Excluded Assets"):
+
+(a) all the assets, properties and rights described in Schedule
+1.03 attached hereto as updated by mutual agreement of the
+parties as of the Closing Date;
+
+(b) all accounts receivable of the Company; and
+
+December 16, 1993 Page 3
+Revision 7
+
+<PAGE> 4
+
+(c) all of the Company s Intellectual Property, except to the
+extent included as part of the Acquisition Assets under
+Section 1.01(c) hereof, and except to the extent licensed or
+covered under Section 7.11(a) hereof and the Wafer Supply
+Agreement. As used herein, the "Company s Intellectual
+Property" means every item of intellectual property the
+Company owns or otherwise has the right to use including every
+invention, patent application, patent, trade name, mark
+(whether a trademark, service mark or other mark),
+registration or application to register a mark, copyright,
+registration or application to register a copyright, mask
+work, registration or application to register a mask work, and
+trade secret.
+
+2. Consideration.
+
+2.01 Payment at Closing.
+
+The full consideration to be paid at the Closing by Motorola to the
+Company for the sale of the Acquisition Assets shall be as follows:
+
+(a) a cash payment of U.S. $100,905,472 by the wire transfer of
+same day funds the day before the Closing Date to the escrow
+account described in Section 6.01;
+
+(b) an executed non-interest bearing promissory note made by
+Motorola to the order of the Company (the "Buyer Note") in the
+form of Exhibit A attached hereto which note shall be in an
+aggregate principal amount equal to the agreed value of the
+Company's raw material and work-in-process inventories (except
+those, if any, included in the Excluded Assets) at the Wafer
+Fab Operations as of 4:00 p.m. on the Closing Date determined
+in a manner consistent with Schedule 2.01(b) attached hereto
+and shall provide for 2 equal principal payments 30 days and
+60 days after Closing;
+
+(c) an additional cash payment equal to the sum of (i) the cost of
+any capital assets included in the Acquisition Assets which
+were (A) ordered on or before September 25, 1993 and received
+by the Company prior to the Closing Date, but had not been
+entered on the Company's capital asset register as of
+September 25, 1993, and (B) ordered after September 25, 1993
+with Motorola's approval (which may be obtained before or
+after such order was placed) and received by the Company prior
+to 4:00 p.m. on the Closing Date plus (without duplication)
+(ii) payments actually made prior to the Closing Date by the
+Company to third-party vendors of any capital assets which
+would have met the description of either clause (A) or (B) of
+clause (i) above in this Section 2.01(C) but for the fact that
+such
+
+December 16, 1993 Page 4
+Revision 7
+
+<PAGE> 5
+items had not been physically received by the Company
+as of the Closing Date (it being understood and agreed that
+the additional cash payment called for by this Section 2.01(C)
+shall be determined as of the Closing Date in a manner
+consistent with Schedule 2.01(C) attached hereto which
+Schedule reflects an aggregate payment of $3,210,378 as of the
+date of such Schedule, to be updated as mutually agreed by the
+parties as of the Closing Date); and;
+
+(d) assumption of the Assumed Liabilities.
+
+2.02 Allocation.
+
+The consideration for the purchase of the Acquisition Assets shall be
+allocated among the assets as set forth in Schedule 2.02, which shall be
+mutually agreed to by the parties and attached prior to the Closing Date.
+Motorola and the Company will each file its federal and state income Tax
+Returns, as well as Form 8594, Asset Acquisition Statement, under Section 1060
+of the Internal Revenue Code of 1986, as amended (the "Code"), on the basis of
+this allocation.
+
+3. Pre-Closing Covenants.
+
+3.01 Conduct of the Business Prior to the Closing Date.
+
+During the period from the date of this Agreement to the Closing Date,
+the Company shall conduct its Wafer Fab Operations according to its ordinary
+and usual course of business consistent with its customs and practices
+("Ordinary Course of Business") and use its reasonable best efforts to maintain
+and preserve its business organization, prospects, and advantageous business
+relationships and retain the services of employees associated with the Wafer
+Fab Operations who are listed on Schedule 3.01 reasonably expected to transfer
+to Motorola. Schedule 3.01 contains a list of current Company employees
+involved in the Wafer Fab Operations to whom Motorola has offered employment to
+be effective January 1, 1994 (contingent on the Closing). The process of
+identifying the final list of employees to whom such employment will be offered
+by Motorola is in progress and the parties agree to update Schedule 3.01 with
+the final list as mutually agreed prior to Closing. The persons listed on such
+Schedule 3.01 (as so updated) are referred to herein as the "Listed Employees."
+
+3.02 Forbearance by the Company.
+During the period from the date of this Agreement to the Closing Date,
+the Company shall not, without the prior written consent of Motorola, which
+Motorola shall not unreasonably withhold or delay:
+
+(a) except in the Ordinary Course of Business, sell or transfer,
+mortgage,
+
+December 16, 1993 Page 5
+Revision 7
+
+<PAGE> 6
+encumber or otherwise dispose of any of its
+properties or assets related to the Wafer Fab Operations, or
+cancel, release or assign any claims held by it;
+
+(b) except in the Ordinary Course of Business, make any capital
+expenditures or investments related to the Wafer Fab 
+Operations;
+
+(c) enter into, amend or terminate any material contract or 
+agreement related to the Wafer Fab Operations, or
+make any change in any of its material leases, licenses, 
+agreements or contracts related to the Wafer Fab Operations, 
+other than any renewals without adverse changes in terms;
+
+(d) increase in any manner the compensation or fringe benefits of
+any of its employees involved in the Wafer Fab Operations,
+except for regularly scheduled increases in the Ordinary
+Course of Business, or pay any pension or retirement allowance
+not required by any existing plan or agreement to any such 
+employees, or become a party to, amend or commit itself to 
+any pension, retirement, profit-sharing or welfare benefit 
+plan or agreement or employment agreement with or for the 
+benefit of, any such employee;
+
+(e) permit any insurance policy naming it as a beneficiary, a
+named insured or a loss payee and covering any of the
+Acquisition Assets to be canceled or terminated or any of the
+coverage thereunder to lapse unless, simultaneously with such
+termination or cancellation, or replacement policy or policies
+providing substantially the same or greater coverage with
+comparable insurance carriers are in full force and effect;
+
+(f) agree to, or make any commitment to, take any of the actions
+prohibited by this Section 3.02;
+
+(g) solicit, or authorize any person to solicit, from any third
+party, any inquiries or proposals relating to the disposition
+of all or any part of the Acquisition Assets (including by
+operation of law) by any person other than Motorola, or
+provide any such person with information (other than public
+information) or assistance or negotiate with any such person
+in furtherance of such inquiries or to obtain a proposal, and
+the Company shall promptly notify Motorola orally of all of
+the relevant details relating to all inquiries and proposals
+which it may receive relating to any of such matters;
+
+(h) improperly maintain the Acquisition Assets; or
+
+December 16, 1993
+Revision 7 Page 6
+
+<PAGE> 7
+
+(i) incorrectly or inaccurately maintain its books, accounts and
+records necessary for conducting the Wafer Fab Operations or
+that are related to the Real Property.
+
+4. Additional Agreements.
+
+4.01 Access and Information.
+
+The Company shall afford (or cause to be afforded) to Motorola, and to
+Motorola s accountants, counsel and other representatives, full access during
+normal business hours, during the period prior to the Closing Date, to all of
+the Company s properties, books, contracts, commitments, permits, business
+licenses and records to the extent reasonably necessary for purposes of
+facilitating the transactions contemplated by this Agreement. During such
+period, the Company shall promptly provide to Motorola a copy of each report,
+schedule and other document filed or received pursuant to the requirements of
+law that materially effects the Acquisition Assets.
+
+4.02 Expenses.
+
+Except as otherwise provided in this Agreement, each of the parties
+shall pay its respective costs and expenses (including legal fees) in
+connection with this Agreement and the transactions contemplated by this
+Agreement.
+
+4.03 Miscellaneous Agreements and Consents.
+
+(a) Subject to the terms and conditions herein provided, each of
+the parties hereto agrees to cooperate with the other and to use all reasonable
+efforts to take, or cause to be taken, all action, and to do, or cause to be
+done, all things necessary, proper or advisable to consummate and make
+effective the transactions contemplated by this Agreement. The Company will
+use its reasonable efforts to obtain consents of all third parties and
+governmental bodies necessary or, in the opinion of Motorola, desirable for the
+consummation of the transactions contemplated by this Agreement.
+
+(b) With respect to the E-Beam writer covered by the Company's
+existing Lease #251: (i) the E-Beam writer will be included in the Excluded
+Assets and the related lease will not be included in the Assumed Liabilities;
+(ii) the Company will continue to make the lease payments and otherwise perform
+its obligations under such lease, the term of which ends in April 1995; (iii)
+within 30 days after the termination of such lease, the Company will either (A)
+purchase the equipment covered by such lease and transfer ownership of the same
+to Motorola free and clear of any lien, encumbrance or similar interest (with
+delivery at the Banting Site) or, at the Company's option, (B) pay $350,000 in
+cash to Motorola.
+
+December 16, 1993 Page 7
+Revision 7
+<PAGE> 8
+
+4.04 Filings.
+
+Motorola and the Company have filed Notification and Report Forms
+under the Hart-Scott-Rodino Antitrust Improvements Act of 1976 (the "Hart-Scott
+Rodino Act") with the Federal Trade Commission ("FTC") and the Antitrust
+Division of the Department of Justice (the "Antitrust Division") and shall use
+reasonable efforts to respond as promptly as practicable to all inquiries
+received from the FTC or the Antitrust Division for additional information or
+documentation. Motorola and the Company will each take, or cause to be taken,
+all such other reasonable actions and will file, and, if appropriate, use its
+reasonable efforts to have declared effective or approved, all such other
+documents and notifications with governmental authorities which are necessary
+or appropriate for the consummation of the transactions contemplated by this
+Agreement, and each party shall give the other information reasonably requested
+by such other party pertaining to it reasonably necessary to enable such other
+party to take such actions.
+
+4.05 Title Insurance.
+
+The Company shall obtain and provide to Motorola for Motorola's
+benefit an ALTA owner's policy and title insurance for each parcel of real
+property conveyed to Motorola pursuant to this Agreement, in an amount and in
+the form specified in the Escrow Agreement (as defined in Section 6.01).
+
+4.06 Surveys.
+
+With respect to each parcel of real property that the Company owns,
+leases, or subleases, and as to which a title insurance policy is to be
+procured, the Company will procure a current survey of the real property
+certified to Motorola and Chicago Title Company, prepared by a licensed
+surveyor and conforming to current ALTA Minimum Detail Requirements for Land
+Title Surveys, disclosing the location of all improvements, easements, party
+walls, sidewalks, roadways, utility lines, and other matters shown customarily
+on such surveys, and showing access affirmatively to public streets and roads
+(the "Survey").
+
+4.07 Employees.
+
+(a) Motorola agrees to offer employment to all Listed Employees
+(as updated pursuant to Section 3.01) to be effective January 1, 1994.
+
+(b) The Company agrees to act as an independent contractor,
+providing all services reasonably necessary to continue Wafer Fab Operations in
+the Ordinary Course of Business through its employees, for the period between
+the Closing Date and 11:59:59 P.M. on December 31, 1993; provided that the
+Closing Date is on or
+
+December 16, 1933 Page 8
+Revision 7
+
+<PAGE> 9
+before December 31, 1993 (the "Service Period"). Motorola shall within thirty
+(30) days after the Closing Date pay a service fee to the Company in an
+amount to be mutually agreed upon by the parties prior to Closing (which
+amount shall be reasonably calculated to approximate the Company's cost of
+providing such services) as full payment therefor. The Company shall 
+continue to maintain and be responsible for the cost of all benefits for
+its employees at the Wafer Fab Operations during the Service Period.
+
+(c) Motorola shall assume (as an Assumed Liability) the accrued
+unused vacation for those Listed Employees hired by Motorola corresponding to
+the amount set forth below (the "Assumed Vacation Accrual"):
+
+<TABLE>
+<S> <C>
+0 to 4 years 40 hours
+5 to 9 years 60 hours
+10 to 14 years 80 hours
+Over 15 years 100 hours
+</TABLE>
+
+Company shall offset against the consideration received from Motorola pursuant
+to Section 2.01 or shall pay to Motorola as consideration for the assumption of
+the Assumed Vacation Accrual an amount equal to the value of such Assumed
+Vacation Accrual based upon the wages of the applicable employees in effect
+immediately prior to the Closing Date (the "Vacation Accrual Value").
+
+4.08 Sales Tax.
+
+The parties agree that Motorola and Company shall each be responsible
+for one-half of any sales tax with respect to the sale of the Acquisition
+Assets hereunder.
+
+5. Conditions.
+
+5.01 Conditions to Each Party's Obligation to Close.
+
+The respective obligations of Motorola and the Company to consummate
+the purchase and sale of the Acquisition Assets and related transactions as
+contemplated hereby shall be subject to the fulfillment at or prior to the
+Closing Date of the following conditions (except as each party may have waived
+the condition(s) in writing):
+
+(a) All applicable waiting periods under the Hart-Scott-Rodino Act
+shall have expired.
+
+(b) The Wafer Supply Agreement and Joint Use Agreement have been
+concurrently executed, and will have an effective date as of the
+Closing Date.
+
+December 16, 1993 Page 9
+Revision 7
+
+<PAGE> 10
+
+(c) The Agreement among the Company, Motorola and AT&T dated as of 
+December 8, 1993 Granting Consent to Use of Licensed Technology
+remains in full force and effect.
+
+5.02 Conditions to Obligations of the Company to Close.
+
+The obligations of the Company to consummate the sale of the Acquisition
+Assets and related transactions as contemplated hereby shall be subject to the
+fulfillment at or prior to the Closing Date of the following additional
+conditions (except as the Company may have waived the condition(s) in writing):
+
+(a) Representations and Warranties. The representations and warranties
+of Motorola set forth in Section 8 hereof shall be true and
+correct in all material respects as of the Closing Date as though
+made on and as of the Closing Date, and the Company shall have
+received a signed certificate from a Vice President of Motorola to
+that effect.
+
+(b) Performance of Obligations. Motorola shall have in all
+material respects performed all obligations required to be
+performed by it under this Agreement prior to the Closing Date, 
+and the Company shall have received a signed certificate from a 
+Vice President of Motorola to that effect.
+
+(c) Permits, Authorizations, Etc. Motorola shall have obtained
+any and all material permits, authorizations, consents or approvals
+required to be obtained by Motorola under this Agreement for the
+lawful consummation of the transactions contemplated by this
+Agreements.
+
+(d) Legal Opinions. The Company shall have received a legal
+opinion, in form and substance satisfactory to the Company from 
+Dirk H. Buikema, Division Counsel of Motorola, on the issues of 
+corporate authority and due authorization.
+
+(e) Absence of Certain Litigation. On the Closing Date there shall 
+be no injunction, restraining order or order of any nature issued
+by, or being requested from, any court of competent jurisdiction 
+which directs that any transactions contemplated by this Agreement
+shall not be consummated as herein provided or compels Motorola to
+dispose of or keep separate either a portion of the business 
+conducted by Motorola or the Acquisition Assets, nor shall there
+be instituted, pending or threatened any action, suit or 
+proceeding by any governmental agency or regulatory or administra-
+tive agency or commission challenging this Agreement or any of 
+the transactions contemplated by this Agreement or, which seeks to
+
+December 16, 1993 Page 10
+Revision 7
+
+<PAGE> 11
+
+restrain or prevent such Agreement or transactions, or which 
+would affect Motorola's rights to operate, own or control any 
+part of the Acquisition Assets.
+
+(f) Additional Instruments and Satisfaction. Motorola shall have
+(i) delivered the consideration referred to in Section 2.01 
+and such additional instruments, consents and documents as 
+the Company reasonably deems necessary to carry out the 
+purposes of this Agreement, (ii) performed such acts as the 
+Company reasonably deems appropriate, and all other 
+proceedings, documents and other items contemplated by this 
+Agreement shall be satisfactory in form and substance to the 
+Company.
+
+5.03 Conditions to Obligations of Motorola to Close.
+
+The obligation of Motorola to consummate the purchase of the Acquisition
+Assets and related transactions as contemplated hereby shall be subject to the
+fulfillment at or prior to the Closing Date of the following additional
+conditions (except as Motorola may have waived the condition(s) in writing):
+
+(a) Representations and Warranties. The representations and
+warranties of the Company set forth in Section 7 hereof shall 
+be true and correct in all material respects as of the Closing
+Date as though made on and as of the Closing Date, and 
+Motorola shall have received signed certificates from the 
+President and Chief Financial Officer of the Company to that 
+effect.
+
+(b) Performance of Obligations. The Company shall have in all
+material respects performed all obligations required to be 
+performed by it under this Agreement prior to the Closing 
+Date, and Motorola shall have received signed certificates 
+from the President and Chief Financial Officer of the Company 
+to that effect.
+
+(c) Permits, Authorizations, Etc. The Company shall have obtained
+any and all consents or waivers from other parties to material
+agreements, leases, instruments or other contracts, and from
+governmental agencies or authorities needed for consummation 
+of the transactions contemplated by this Agreement and shall 
+have obtained any and all material permits, authorizations, 
+consents or approvals required for the lawful consummation of 
+the transactions contemplated by this Agreement.
+
+(d) Legal Opinion. Motorola shall have received a legal opinion,
+in form and substance satisfactory to Motorola, from Messrs. 
+Gibson, Dunn & Crutcher, counsel to the Company, to the 
+effect set forth in attached Schedule 5.03(d).
+
+December 16, 1993 Page 11
+Revision 7
+
+<PAGE> 12
+
+(e) Absence of Certain Litigation. On the Closing Date, there
+shall be no injunction, restraining order or order of any nature
+issued by, or being requested from, any court of competent
+jurisdiction which directs that any transaction contemplated by this
+Agreement shall not be consummated as herein provided or compels
+Motorola to dispose of or discontinue or keep separate a portion of
+the business conducted by Motorola or of the Acquisition Assets, nor
+shall there be instituted, pending or threatened any action or
+proceeding by any governmental agency or regulatory or administrative
+agency or commission challenging this Agreement or any of the
+transactions contemplated hereby or which seeks to restrain or prevent
+such Agreement or transactions or which would affect Motorola's rights
+to operate, own or control any part of the Acquisition Assets.
+
+(f) Books, Records. The Company shall have transferred and
+delivered (or caused to be transferred and delivered) to Motorola, by
+documents satisfactory in form and substance to Motorola, all of the
+books and records currently in its possession which are necessary for
+the conduct of the Wafer Fab Operations by Motorola on and after the
+Closing Date or are related to the Real Property.
+
+(g) Estoppel. Motorola shall have received an estoppel
+certificate substantially in the form of Schedule 5.03(g) from The
+Irvine Company.
+
+(h) Additional Instruments. The Company shall have delivered to
+Motorola the instruments described in Section 1.01 and such additional
+instruments, consents and documents contemplated by this Agreement or
+reasonably deemed appropriate by Motorola and performed such acts as
+Motorola reasonably deems necessary to carry out the purposes of this
+Agreement.
+
+(i) Reasonable Satisfaction. All other proceedings and documents
+and other items in connection with the transactions contemplated by
+this Agreement shall be satisfactory in form and substance to
+Motorola.
+
+(j) Deed and Title Policy. The Escrow Holder (as defined in
+Section 6.01) shall be prepared to record the grant deed delivered by
+Company and to issue the title policy strictly in accordance with the
+terms of Escrow Agreement (as defined in Section 6.01).
+
+(k) FIRPTA. Company shall have delivered to Motorola an affidavit
+of non-foreign status in accordance with Section 1445 of the Internal
+Revenue Code in form reasonably satisfactory to Motorola.
+
+December 16, 1993 Page 12
+Revision 7
+
+<PAGE> 13
+
+6. Closing and Escrow.
+
+6.01 Escrow. The parties have entered into or will enter into a
+separate escrow agreement with respect to the delivery and recordation of
+certain documents and the transfer of certain funds with respect to
+consummation of the purchase and sale of the Acquisition Assets contemplated
+hereby (the "Escrow Agreement"), substantially in the form attached as Schedule
+6. On or before December 21, 1993 the parties shall open an escrow ("Escrow")
+pursuant to the terms of the Escrow Agreement with Chicago Title Company, 825
+N. Broadway, Santa Ana, California 92701, Attention: Susie Jacobsen ("Escrow
+Holder") by executing and delivering the Escrow Agreement to Escrow Holder.
+Except as is set forth in Schedule 6 and this Section, the execution and
+exchange of documents for the closing of the purchase and sale of the
+Acquisition Assets and the other transactions contemplated by this Agreement
+shall take place at the offices of Gibson, Dunn & Crutcher on December 21st and
+22nd 1993, or such later date or other location as may be necessary for the
+performance of the conditions set forth herein but in no event later than March
+31, 1994. The recording of documents and disbursement of funds by the escrow
+holder as provided in the Escrow Agreement shall take place on December 23,
+1993, or such later date or other location as may be necessary for the
+performance of the conditions set forth herein but in no event later than March
+31, 1994 (the "Outside Closing Date"). The date the Grant Deed (as defined
+below) is recorded in the Official Records of Orange County, California by
+Escrow Holder in accordance with the Escrow Agreement is referred to herein as
+the "Closing Date" and the "Closing" shall be deemed to take place at the time
+of such recordation. If, however, any applicable waiting period provided for
+in Section 7A of the Hart-Scott-Rodino Act applicable to Motorola's acquisition
+shall not have expired by that date, the Closing and Closing Date shall take
+place as soon as reasonably possible following the expiration of such waiting
+period (but in no event later than March 31, 1994).
+
+6.02 Additional Escrow Instructions.
+
+The Company and Motorola agree to execute such additional and
+supplemental escrow instructions as may be appropriate to enable the Escrow
+Holder to comply with the terms of this Agreement; provided, however, that in
+the event of any conflict between the provisions of this Agreement and any
+supplementary escrow instructions, the terms of this Agreement shall control.
+
+6.03 Closing Procedures.
+
+The execution and exchange of documents and payment of consideration
+into escrow shall take place at the Closing, subject to the recording and
+delivery of documents and disbursement of funds by Escrow Holder pursuant to
+the Escrow Agreement on the Closing Date. All documents shall be deemed
+delivered on the date the grant deed delivered by the Company is recorded. In
+the event the Closing does
+
+December 16, 1993 Page 13
+Revision 7
+
+<PAGE> 14
+not occur on or before the Outside Closing Date,
+Escrow Holder shall, unless it is notified by both parties to the contrary
+within five (5) days after the Outside Closing Date, return to the depositor
+thereof any items which may have been deposited hereunder together with
+interest on any funds being returned by Escrow Holder.
+
+6.04 Deposits into Escrow by Company.
+
+At least one (1) business day prior to the Closing Date, Company shall
+make the following deliveries into Escrow to be handled by Escrow Holder in
+accordance with the terms of the Escrow Agreement:
+
+(a) A Grant Deed in the form reasonably satisfactory to Motorola
+executed and acknowledged on behalf of Company (with documentary transfer taxes
+to be shown on a separate non-recorded affidavit);
+
+(b) A Bill of Sale in the form reasonably satisfactory to
+Motorola, duly executed on behalf of Company;
+
+(c) Instructions for the disbursement of the Cash Payments (as
+defined in Section 6.05 below); and
+
+(d) Such other documents and instruments as are reasonably
+requested by Escrow Holder in order to comply with the terms and conditions of
+the Escrow Agreement.
+
+6.05 Deposits into Escrow by Motorola.
+
+At least one (1) business day prior to the Closing Date, Motorola shall
+make the following deliveries into Escrow to be handled by Escrow Holder in
+accordance with the terms of the Escrow Instructions:
+
+(a) The Cash Payments (as defined below);
+
+(b) Such other documents and instruments as are reasonably
+requested by Escrow Holder in order to comply with the terms and conditions of
+the Escrow Agreement.
+
+For purposes hereof, the "Cash Payments" shall mean (A) the sum of (1) the cash
+payments pursuant to Sections 2.01(a) and (c), (2) the prorations pursuant to
+Section 6.06 below, (3) Motorola's portion of any sales tax payment pursuant to
+Section 4.08; (B) reduced by the Vacation Accrual Value pursuant to Section
+4.07(c). In the event that any of the foregoing amounts cannot be determined
+by the time the Cash Payments are to be deposited into Escrow as provided
+above, the parties shall reasonably agree upon the estimated amount of such
+item, subject to final adjustment 
+
+December 16, 1993 Page 14
+Revision 7
+
+<PAGE> 15
+payment(s) within thirty (30) days after the Closing Date or as soon as
+the amounts can be accurately ascertained. Motorola and Company shall inform
+Escrow Holder of the agreed-upon amount of the Cash Payments to be delivered
+through the Escrow by a joint supplemental escrow instruction to be delivered
+to Escrow Holder at least one (1) business day prior to the Closing Date.
+
+6.06 Prorations and Apportionments.
+
+(a) The following items shall be prorated and apportioned as of
+4:00 p.m. on the Closing Date, so that the Company shall bear
+all expense with respect to such items for the period preceding
+such date and time and Motorola shall bear all expense with
+respect to such items thereafter:
+
+(i) All operating leases and maintenance or service contracts
+included in the Assumed Liabilities;
+
+(ii) All expenses of the Real Property (not included in Section
+6.06(a) above) including taxes (including personal property
+taxes on personal property included in the Acquisition
+Assets), real property assessments, water rates and sewer
+fees, if any, assessments and membership fees of associations
+in which Motorola will acquire a membership in connection with
+its purchase of the Real Property, gas, electricity and other
+utility charges, any unfixed meter charges, if any
+(apportioned on the basis of the last meter readings), license
+and permit fees and other expenses customarily prorated. If
+possible, in lieu of prorating, utilities and other expenses
+shall be contracted for in the name of Motorola as of the
+Closing Date. In any event, Motorola shall have all prorated
+utilities and other expenses contracted for in the name of
+Motorola as soon as reasonably practicable after the Closing
+Date.
+
+6.07 Payment of Adjustments to Cash Payment Items.
+
+Either party owing the other party a sum of money based on adjustments
+with respect to the amounts included in the Cash Payments pursuant to Section
+6.05 above after the Closing Date shall promptly pay that sum to the other
+party, together with interest thereon at the rate of ten percent (10%) per
+annum to the date of payment if payment is not made within 10 days after mutual
+agreement of the amount due.
+
+6.08 Costs and Expenses.
+
+The Company shall pay the costs of the survey of the Real Property, the
+premium and other costs and expenses for the title policy and the cost of
+documentary 
+
+December 16, 1993 Page 15
+Revision 7
+
+<PAGE> 16
+or other transfer taxes applicable to the sale. Motorola and the
+Company shall share equally all other costs and charges of the escrow for the
+purchase and sale of the Acquisition Assets.
+
+6.09 Possession.
+
+Subject to Section 4.07(b) and the Joint Use Agreement, possession of
+the Real Property and the other Acquisition Assets will be delivered to
+Motorola at 4:00 p.m. on the Closing Date.
+
+7. Representations and Warranties of the Company.
+
+The Company represents and warrants to Motorola that:
+
+7.01 Ownership of Assets.
+
+(a) As of the Closing Date the Company shall convey, and Motorola
+will receive good, exclusive and marketable title to all of the Acquisition
+Assets, free and clear of any liens, claims, debts, security interests,
+judgments, mortgages or other encumbrances of any kind, except for the rights
+of vendors, suppliers and equipment lessors associated with liabilities of the
+Company which are included in the Assumed Liabilities. The representation and
+warranty made in this Section 7.01(a) does not apply to the Real Property.
+
+(b) The Acquisition Assets shall include all those assets, rights
+and properties, tangible and intangible, owned or leased by the Company which
+are needed to conduct the Wafer Fab Operations as conducted by the Company
+(other than the items referred to in Section 4.03 hereof).
+
+7.02 Organization and Authority.
+
+The Company is duly organized, validly existing and in good standing
+under the laws of the State of Delaware, has corporate power to own all of its
+properties and assets and to carry on its business as it is now being
+conducted, and is duly qualified to do business and is in good standing in the
+State of California. The Company has all necessary Federal, state and local
+authorizations to own or lease the Acquisition Assets and to carry on its Wafer
+Fab Operations (it being understood that, to the extent previously disclosed to
+Motorola, certain of the equipment used in the Wafer Fab Operations is covered
+by a "permit to construct" which will need to be finalized).
+
+7.03 Investment.
+
+The Company (a) understands that the Buyer Note has not been, and will
+not be, 
+
+December 16, 1993 Page 16
+Revision 7
+
+<PAGE> 17
+registered under the Securities Act of 1933, as amended (the
+"Securities Act"), or under any state securities laws, and is being offered and
+sold in reliance upon federal and state exemptions, (b) is acquiring the Buyer
+Note solely for its own account for investment purposes, and not with a view to
+the distribution thereof, (c) has received certain information concerning
+Motorola and has had the opportunity to obtain additional information as
+desired in order to evaluate the merits and the risks inherent in holding the
+Buyer Note, (d) is able to bear the economic risk and lack of liquidity
+inherent in holding the Buyer Note, and (e) is an Accredited Investor (as
+defined in Regulation D under the Securities Act).
+
+7.04 Charter Documents.
+
+The Company has furnished Motorola with true, complete and correct
+copies of its Certificate of Incorporation and its By-laws, certified by its
+Secretary.
+
+7.05 Authorization.
+
+(a) The Company has the corporate power and authority to enter
+into this Agreement and to carry out its obligations hereunder. The
+execution, delivery and performance of this Agreement and the
+consummation of the transactions contemplated hereby have been duly
+authorized by the Company's Board of Directors and no other corporate
+proceedings on the part of the Company are necessary to authorize this
+Agreement and the transactions contemplated hereby. This Agreement is
+a valid and binding obligation of the Company enforceable against the
+Company in accordance with its terms, except as limited by
+bankruptcy and other laws of general application and relating to
+or affecting enforcement of creditors' rights and except as
+limited by the availability of equitable remedies.
+
+(b) Except as set forth in Schedule 7.05 (b) attached hereto, no
+notice to, filing with, or authorization, consent or approval of, any
+government or governmental agency or authority is necessary on the
+part of the Company for the consummation of the transactions
+contemplated by this Agreement.
+
+7.06 [intentionally omitted]
+
+7.07 Properties, Leases and Licenses.
+
+(a) The tangible personal property included in the Acquisition
+Assets which is of material importance to the Wafer Fab Operations
+(which expressly excludes all items expended or consumed in the
+ordinary course of manufacturing) has been maintained in accordance
+with normal industry practice, is in good operating condition and
+repair (subject to normal wear 
+
+December 16, 1993 Page 17
+Revision 7
+
+<PAGE> 18
+and tear), is suitable for the purposes
+for which it presently is used and, to the best knowledge of the
+Company, is free from material defects (patent and latent).
+
+(b) With respect to the Real Property:
+
+(i) there are no (A) pending or, to the knowledge of
+Company, threatened condemnation proceedings
+relating to such property, (B) pending or to the
+knowledge of the Company, threatened litigation or
+administrative actions against the Company or the
+Real Property relating to the Real Property, or (C)
+other matters known to the Company having a material
+adverse impact on the current use of the Real
+Property;
+
+(ii) the property is not located within any flood plain
+or subject to any similar type restriction for which
+any permits or licenses necessary to the use thereof
+have not been obtained;
+
+(iii) to the best knowledge and belief of the Company,
+except as otherwise previously disclosed to
+Motorola, all facilities have received all approvals
+of governmental authorities (including licenses and
+permits) required in connection with the ownership
+or operation thereof and have been operated and
+maintained in all material respects in accordance
+with applicable laws, rules, and regulations
+including, without limitation, all building, zoning,
+environmental, health and safety laws and
+regulations (including, but not limited to,
+earthquake, life and safety systems and handicap
+laws, including without limitation, the Americans
+with Disabilities Act all state and local disable
+person access laws applicable thereto) which affect
+the use and operation thereof, and the Company has
+not received any notice of violation of law or
+municipal ordinance, order or requirement from any
+governmental agency having jurisdiction over the
+Property, and knows of no facts which would
+constitute grounds for receiving any notice of a
+material violation of any such law, municipal order
+or requirement;
+
+(iv) there are no leases, subleases, licenses,
+concessions, or other agreements, written or oral,
+granting to any party or parties the right of use or
+occupancy of any portion of the parcel of real
+property;
+
+December 16, 1993 Page 18
+Revision 7
+
+<PAGE> 19
+
+(v) except for the "Permitted Title Exceptions" set
+forth in the Escrow Agreement, there are no
+outstanding options or rights of first refusal to
+purchase the parcel of real property, or any portion
+thereof or interest therein;
+
+(vi) there are no parties (other than the Company) in
+possession of the Real Property;
+
+(vii) all facilities located on the parcel of real
+property are supplied with utilities and other
+services necessary for the operation of such
+facilities, including gas, electricity, water,
+telephone, sanitary sewer, and storm sewer, all of
+which services are adequate in accordance with all
+applicable laws, ordinances, rules, and regulations
+and are provided via public roads or via permanent,
+irrevocable, appurtenant easements benefiting the
+parcel of real property; and
+
+(viii) except for the "Permitted Title Exceptions" set
+forth in the Escrow Agreement, to the knowledge of
+Company, there are no liens, restrictions or other
+encumbrances against the title to the Real Property
+which will be binding upon Motorola or the Real
+Property after the Closing Date and which will
+materially adversely affect the use or value of the
+Real Property.
+
+With respect to the representation and warranty set forth in Section 7.08(viii)
+above, Motorola waives any right to proceed against Company to the extent any
+nondisclosed matter is covered by the title insurance policy procured by
+Company pursuant to the Escrow Agreement.
+
+7.08 Inventories.
+
+All inventories of raw materials and work-in-process related to the
+Wafer Fab Operations to be included in the Acquisition Assets, which are
+assigned a value in Schedule 2.01(b) attached hereto, consist only of items of
+a quality and quantity usable or salable by the Company in the Ordinary Course
+of Business. All such inventory is merchantable and fit for the purpose for
+which it was procured or manufactured, and none of which is slow-moving,
+obsolete, damaged, or defective. It is understood and agreed that in the event
+that any of the wafers within the inventories covered by this Section 7.08 are
+later designated by the Company to be scrap material, the provisions of the
+Wafer Supply Agreement will govern the consequences of scrapping such material
+and, as a result, any such event will not be deemed a breach of this Section
+7.08.
+
+December 16, 1993 Page 19
+Revision 7
+
+<PAGE> 20
+
+7.09 Commitments.
+
+To the best knowledge and belief (after due inquiry and investigation)
+of the Company, except as disclosed in Schedule 7.09 attached hereto, all
+contracts and agreements included in the Assumed Liabilities are valid,
+binding, enforceable, fully assignable and in full force and effect and will
+not expire prior to January 1, 1994 (except for such contracts and agreements
+which will be renewed on substantially similar economic terms). Neither the
+Company nor, to the best knowledge of the Company, any other party to any such
+contract or agreement is in default, or will be in default upon Closing Date,
+under any such contract or agreement (including, but not limited to, any event
+which would, with the giving of notice or the passage of time or both,
+constitute an event of default). True, correct and complete copies of all such
+written contracts and agreements have been previously given to Motorola. The
+Company is not a party to any employment, consulting or similar agreement with
+or for the benefit of any of its employees involved in the Wafer Fab
+Operations. The Company does not expect that any change is reasonably likely
+to occur in the relationships of the Company with suppliers to its Wafer Fab
+Operations which change would be materially adverse to the Wafer Fab Operations
+(provided that this representation and warranty shall not include changes in
+such relationships arising due to this transaction).
+
+7.10 Absence of Certain Changes.
+
+Since September 25, 1993 there has not been:
+
+(a) any change in the nature of the Wafer Fab Operations, or
+manner of conducting the Wafer Fab Operations which has had,
+or may reasonably be expected to have, a material adverse
+effect on the Wafer Fab Operations;
+
+(b) any material damage, destruction or other casualty loss
+(whether or not covered by insurance) affecting the
+Acquisition Assets;
+
+(c) any increase in the compensation payable or to become payable
+by the Company to any Listed Employees or to agents directly
+involved in the Wafer Fab Operations over the amount paid, at
+September 25, 1993, other than normal merit increases,
+increases which are not material and increases consented to by
+Motorola in writing;
+
+(d) any sale, lease, transfer or assignment of any of the
+Acquisition Assets, tangible or intangible, other than
+nonmaterial transfers (such as transfers of finished goods)
+for a fair consideration in the Ordinary Course of Business;
+
+December 16, 1993
+Revision 7 Page 20
+
+<PAGE> 21
+
+(e) any material acceleration, termination, modification or
+cancellation of any contract, lease, sublease, license, or
+sublicense (or series of related contracts, leases, subleases,
+licenses, and sublicenses) relating to the Wafer Fab
+Operations or the Real Property to which the Company is a
+party or by which it is bound;
+
+(f) any delaying or postponing by the Company (beyond practice in
+the Ordinary Course of Business) of the payment of accounts
+payable and other liabilities related to the Wafer Fab
+Operations;
+
+(g) any loan to, or entry into any other transaction with, any of
+the Listed Employees substantially involved in the Wafer Fab
+Operations outside the Ordinary Course of Business;
+
+(h) any entry into or commitment to enter into any employment
+contract or collective bargaining agreement, written or oral,
+with Listed Employees or modification of the terms of any such
+existing contract or agreement;
+
+(i) any adoption of (A) bonus, (B) profit-sharing, (C) incentive
+compensation, (D) pension, (E) retirement, (F) medical,
+hospitalization, life, or other insurance, (G) severance, or
+(H) other plan, contract, or commitment for any Listed
+Employees, or any modification or termination of any such
+existing plan, contract or commitment; or
+
+(j) any commitment to do any of the foregoing.
+
+7.11 Intellectual Property.
+
+(a) Pursuant to law, the Company owns or has the right to use
+under license, sublicense, agreement, or permission all
+Relevant Intellectual Property. As used herein, "Relevant
+Intellectual Property" means only the copyrighted works, mask
+works, and trade secrets which are owned or used by the
+Company and which are necessary for the conduct of the Wager
+Fab Operations by Motorola on and after the Closing Date.
+Immediately after the Closing Date, each item of Relevant
+Intellectual Property is hereby licensed to Motorola by the
+Company as otherwise will be available for use by Motorola on
+identical terms and conditions to those under which each item
+of Relevant Intellectual Property is used or is available for
+use by the Company.
+
+(b) With respect to each such item of Relevant Intellectual
+Property:
+
+December 16, 1993 Page 21
+Revision 7
+
+<PAGE> 22
+(i) the license, sublicense, agreement, or permission
+covering the item is legal, valid, binding,
+enforceable, and in full force and effect;
+
+(ii) the license, sublicense, agreement, or permission
+will continue to be legal, valid, binding,
+enforceable, and in full force and effect on
+identical terms to those available to the Company;
+
+(iii) neither the Company nor to the Company's knowledge
+any other party to the license, sublicense,
+agreement, or permission is in breach or default,
+and no event has occurred which with notice or lapse
+of time would constitute a breach or default or
+permit termination, modification, or acceleration
+thereunder;
+
+(iv) neither the Company nor to the Company's knowledge
+any other party to the license, sublicense,
+agreement, or permission has repudiated any
+provision thereof;
+
+(v) with respect to each sublicense, the representations
+and warranties set forth in subsection (a) above and
+this subsection (b) are true and correct with
+respect to the underlying license;
+
+(vi) the underlying item of Relevant Intellectual
+Property is not subject to any outstanding judgment,
+order, decree, stipulation or injunction; and
+
+(vii) no complaint, action, suit, proceeding, hearing,
+investigation, claim, or demand is pending or, to
+the Company s knowledge, is threatened which
+challenges the legality, validity, or enforceability
+of the underlying item of Relevant Intellectual
+Property.
+
+7.12 Undisclosed Liabilities.
+
+To the best knowledge of the Company, except for the Assumed
+Liabilities, there are no liabilities of the Company of any kind whatsoever
+attributable to pre-Closing activities, whether or not accrued and whether or
+not contingent or absolute, in respect of which Motorola may properly be held
+liable at or after the Closing Date as a result of the consummation of the
+transactions contemplated by this Agreement. This representation and warranty
+does not apply to liabilities under Applicable Environmental Law.
+
+December 16, 1993 Page 22
+Revision 7
+
+<PAGE> 23
+
+7.13 Insurance.
+
+Schedule 7.13 sets forth the following information with respect to
+each insurance policy covering any of the Acquisition Assets (including
+policies providing property, casualty, liability, and workers' compensation
+coverage and bond and surety arrangements) to which the Company has been a
+party, a named insured, or otherwise the beneficiary of coverage at any time
+within the past four years:
+
+(a) the name, address, and telephone number of the agent;
+
+(b) the name of the insurer, the name of the policyholder, and the
+name of each covered insured;
+
+(c) the policy number and the period of coverage;
+
+(d) the scope (including an indication of whether the coverage was
+on a claims made, occurrence, or other basis) and amount
+(including a description of how deductibles and ceilings are
+calculated and operate) of coverage; and
+
+(e) a description of any retroactive premium adjustments or other
+loss-sharing arrangements.
+
+The Company has been covered during the past four years by insurance
+in scope and amount customary and reasonable for the business in which it has
+engaged during the aforementioned period. Schedule 7.13 describes any
+self-insurance arrangements affecting the Company.
+
+7.14 Litigation.
+
+The Company (i) is not subject to any unsatisfied judgment, order,
+decree, stipulation or injunction and (ii) is not a party or, to the knowledge
+of the Company, threatened to be made a party to any charge, complaint, action,
+suit, proceeding, hearing, or investigation of or in any court or
+quasi-judicial or administrative agency of any federal, state, local, or
+foreign jurisdiction or before any arbitrator which is attributable to
+pre-Closing activities by the Company and which could reasonably be expected to
+have an adverse impact on the Acquisition Assets.
+
+7.15 Taxes.
+
+(a) The Company has filed all Tax Returns (as defined below) that
+it was required to file. All such Tax Returns were correct and
+complete in all material respects. All Taxes shown as due on
+such Tax Returns have 
+
+December 16, 1993 Page 23
+Revision 7
+
+<PAGE> 24
+been paid. There are no security interests on any of the 
+assets of the Company that arose in connection with any
+failure (or alleged failure) to pay any Tax (as defined
+below). "Tax" means any federal, state, local, or foreign
+income, gross receipts, license, payroll, employment, excise,
+severance, stamp, occupation, premium, windfall profits,
+environmental (including taxes under Code Sec. 59A), customs
+duties, capital stock, franchise, profits, withholding, social
+security (or similar), unemployment, disability, real 
+property, personal property, sales, use, transfer, 
+registration, value added, alternative or add-on minimum,
+estimated, or other tax of any kind whatsoever, including any
+interest, penalty, or addition thereto, whether disputed or
+not. "Tax Return" means any return, declaration, report,
+claim for refund, or information return or statement relating
+to Taxes, including any schedule or attachment thereto, and
+including any amendment thereof.
+
+(b) The Company has withheld and paid all Taxes required to have
+been withheld and paid in connection with amounts paid
+or owing to any employee, creditor, independent contractor, or
+other third party.
+
+7.16 Employees.
+
+The Company is not a party to or bound by any collective bargaining
+agreement, nor has it experienced any strikes, grievances, claims of unfair
+labor practices, or other collective bargaining disputes. The Company has not
+committed any unfair labor practice. The Company does not have any knowledge
+of any organizational effort presently being made or threatened by or on behalf
+of any labor union with respect to employees of the Company. No work stoppage
+involving the Company is pending or, to the best of the Company's knowledge,
+threatened. Neither the Company nor, to the best of the Company's knowledge,
+any supplier of the Company, is involved in, or threatened with or affected by,
+any labor dispute, arbitration, lawsuit or administrative proceeding which
+could materially and adversely affect the Acquisition Assets. Employees of the
+Company are not represented by any labor union nor are any collective
+bargaining agreements otherwise in effect with respect to such employees.
+
+7.17 Employee Benefits.
+
+The Company Profit Sharing Plan is a qualified plan under I.R.C. Section
+401(a), as amended. The Company s Wafer Fab Operations constitute a "trade or
+business" under I.R.C. Section 401(k)(10)(A)(ii) and I.R.C. Regulation Section
+1.401(k)-1(d). The Acquisition Assets constitute substantially all the 
+assets used in that trade or business for the purposes of I.R.C. Section 
+401(k)(10)(A)(ii) and I.R.C. Regulation Section 401(k)-1(d). The Company has
+no benefit plan insured by the Pension Benefit Guaranty Corporation.
+
+December 16, 1993 Page 24
+Revision 7
+
+<PAGE> 25
+
+7.18 [intentionally omitted]
+
+7.19 Environment, Health, and Safety.
+
+Except as otherwise previously disclosed, to the best knowledge
+of the Company with respect to the Acquisition Assets:
+
+(a) The Company, its predecessors and its affiliates each has
+complied with all laws (including rules and regulations thereunder) of
+federal, state, local, and foreign governments (and all agencies
+thereof) concerning the environment, public health and safety, and
+employee health and safety, and no charge, complaint, action, suit,
+proceeding, hearing, investigation, claim, demand, or notice has been
+filed or commenced against any of them alleging any failure to comply
+with any such law or regulation.
+
+(b) The Company has no liability (and there is no basis related to
+the past or present operations, properties, or facilities of its
+respective predecessors and affiliates for any present or future
+charge, complaint, action, suit, proceeding, hearing, investigation,
+claim, or demand against giving rise to any liability) under the
+Comprehensive Environmental Response, Compensation and Liability Act
+of 1980, the Resource Conservation and Recovery Act of 1976, the
+Federal Water Pollution Control Act of 1972, the Clean Air Act of
+1970, the Safe Drinking Water Act of 1974, the Toxic Substances
+Control Act of 1976, the Refuse Act of 1899, or the Emergency Planning
+and Community Right-to-Know Act of 1986 (each as amended), or any
+other law (or rule or regulation thereunder) of any federal, state,
+local, or foreign government (or agency thereof), concerning release
+or threatened release of hazardous substances, public health and
+safety, or pollution or protection of the environment.
+
+(c) The Company has no liability (and none of the Company and its
+respective predecessors and affiliates has handled or disposed of any
+substance, arranged for the disposal of any substance, or owned or
+operated any property or facility in any manner that could form the
+basis for any present or future charge, complaint, action, suit,
+proceeding, hearing, investigation, claim, or demand (under the common
+law or pursuant to any statute) against the Company giving rise to any
+liability) for damage to any site, location, or body of water (surface
+or subsurface) or for illness or personal injury.
+
+(d) The Company has no liability (and there is no basis for any
+present or future charge, complaint, action, suit, proceeding,
+hearing, investigation, claim, or demand against the Company giving
+rise to any liability) under the Occupational Safety and Health Act,
+as amended, or any other law (or 
+
+December 16, 1993 Page 25
+Revision 7
+
+<PAGE> 26
+rule or regulation thereunder) of any
+federal, state, local, or foreign government (or agency thereof)
+concerning employee health and safety.
+
+(e) The Company has no liability (and the Company has not exposed
+any employee to any substance or condition that could form the basis
+for any present or future charge, complaint, action, suit, proceeding,
+hearing, investigation, claim, or demand (under the common law or
+pursuant to statute) against giving rise to any liability) for any
+illness of or personal injury to any employee.
+
+(f) The Company has obtained and been in compliance with all the
+terms and conditions of all permits, licenses, and other
+authorizations which are required under, and has complied with all
+other limitations, restrictions, conditions, standards, prohibitions,
+requirements, obligations, schedules, and timetables which are
+contained in, all federal, state, local, and foreign laws (including
+rules, regulations, codes, plans, judgments, orders, decrees,
+stipulations, injunctions, and charges thereunder) relating to public
+health and safety, worker health and safety, and pollution or
+protection of the environment, including laws relating to emissions,
+discharges, releases, or threatened releases of pollutants,
+contaminants, or chemical, industrial, hazardous, or toxic materials
+or wastes into ambient air, surface water, group water, or lands or
+otherwise relating to the manufacture, processing, distribution, use,
+treatment, storage, disposal, transport, or handling of pollutants,
+contaminants, or chemical, industrial, hazardous, or toxic materials
+or wastes.
+
+(g) All properties and equipment used by the Company (or any
+predecessors or affiliates) have been free of asbestos, PCB's,
+methylene chloride, trichloroethylene, 1, 2-trans-dichloroethylene,
+dioxins, dibenzofurans, and Extremely Hazardous Substances (as defined
+in Section 302 of the Emergency Planning and Community Right-to-Know
+Act of 1986, as amended).
+
+(h) All product labeling of the Company has been in conformity
+with applicable laws (including rules and regulations thereunder).
+
+(i) No pollutant, contaminant, or chemical, industrial, hazardous,
+or toxic material or waste ever has been buried, stored, spilled,
+leaked, discharged, emitted, or released on any real property that
+Company (or predecessor or affiliate) owns or ever has owned or that
+Company (or predecessor or affiliate) leases or ever has leased.
+
+December 16, 1993 Page 26
+Revision 7
+
+<PAGE> 27
+
+7.20 Legal Compliance.
+
+Except as otherwise previously disclosed, to the best knowledge of the
+Company with respect to the Acquisition Assets, the Company has complied in all
+material respects with all laws (including rules and regulations thereunder) of
+federal, state, local, and foreign governments (and all agencies thereof) which
+affect any of the Acquisition Assets.
+
+7.21 [intentionally omitted]
+
+7.22 Brokers and Finders.
+
+Neither the Company nor any officers, directors, stockholders or
+employees has employed any broker or finder or incurred any liability for any
+financial advisory fees, brokerage fees, commissions or finders' fees, and no
+broker or finder has acted directly or indirectly for the Company in connection
+with this Agreement or the transactions contemplated hereby.
+
+7.23 [intentionally omitted]
+
+7.24 Disclosure.
+
+No written representation, statement or information made or furnished by
+the Company (or any agent) to Motorola in this Agreement contains any statement
+of a material fact that was untrue when made or omits or shall omit any
+material fact necessary to make the information contained in such
+representation, statement or information not misleading.
+
+7.25 Other Agreements.
+
+Except as otherwise previously disclosed, to the best knowledge of the
+Company with respect to the Acquisition Assets, the Company is not a party to
+or bound by any agreement requiring Motorola to pay any royalty, fee or other
+payment in connection with conducting Wafer Fab Operations.
+
+8. Representations and Warranties of Motorola.
+
+Motorola represents and warrants to the Company that:
+
+8.01 Organization and Authority.
+
+Motorola is a corporation duly organized, validly existing and in good
+standing under the laws of the state of Delaware, has corporate power to own
+all of its properties 
+
+December 16, 1993 Page 27
+Revision 7
+
+<PAGE> 28
+and assets and to carry on its business as it is now
+being conducted.
+
+8.02 Authorization.
+
+Motorola has the corporate power and authority to enter into this
+Agreement and to carry out its obligations hereunder. The execution, delivery
+and performance of this Agreement and the consummation of the transactions
+contemplated hereby have been duly authorized by all corporate proceedings on
+the part of Motorola which are necessary to authorize this Agreement and the
+transactions contemplated hereby. This Agreement is a valid and binding
+obligation of Motorola enforceable against Motorola in accordance with its
+terms, except as limited by bankruptcy and other laws of general application
+relating to or affecting enforcement of creditors' rights and except as 
+limited by the availability of equitable remedies.
+
+Neither the execution, delivery and performance of this Agreement by
+Motorola, nor the consummation of the transactions contemplated hereby, nor
+compliance by Motorola with any of the provisions hereof or thereof will (i)
+violate, conflict with, or result in a breach of any provisions of, or
+constitute a default (or an event which, with notice or lapse of time or both,
+would constitute a default) under (x) the Certificate of Incorporation or
+Bylaws of Motorola or (y) any material note, bond, mortgage, indenture, deed of
+trust, license, lease, agreement or other instrument or obligation to which
+Motorola is a party or by which Motorola may be bound, or by which it is, or
+any of its properties or assets may be subject, except for such violations,
+conflicts, breaches and defaults which would not, in the aggregate, have a
+material adverse effect on the business, results of operations, prospects or
+financial condition of Motorola and its subsidiaries taken as a whole, or (ii)
+subject to compliance with the statutes and regulations referred to in the next
+paragraph, to Motorola's knowledge, violate any material judgment, ruling,
+order, writ, injunction, decree, statute, rule or regulation applicable to
+Motorola or any of its properties or assets.
+
+Other than in connection with or in compliance with the provisions of
+the Delaware General Corporation Law and the Hart-Scott-Rodino Act, to
+Motorola's knowledge, no notice to, filing with, or authorization, consent or
+approval of, any public body or authority is necessary for the consummation by
+Motorola of the transactions contemplated by this Agreement.
+
+9. Termination.
+
+9.01 Termination of Agreement.
+
+Certain of the parties may terminate this Agreement as provided below:
+
+December 16, 1993 Page 28
+Revision 7
+
+<PAGE> 29
+
+(a) Motorola and the Company may terminate this Agreement by
+mutual written consent at any time prior to the Closing Date;
+
+(b) Motorola may terminate this Agreement by giving written notice
+to the Company at any time prior to the Closing Date in the 
+event the Company is in breach, and the Company may terminate
+this Agreement by giving written notice to Motorola at any
+time prior to the Closing Date in the event Motorola is in
+breach of any material representation, warranty, or covenant
+contained in this Agreement in any material respect;
+
+(c) Motorola may terminate this Agreement by giving written notice
+to the Company at any time prior to the Closing Date if the 
+Closing Date shall not have occurred on or before March 31, 
+1994 by reason of the failure of any condition precedent
+(unless the failure results primarily from Motorola breaching 
+any representation, warranty, or covenant contained in this
+Agreement); or
+
+(d) the Company may terminate this Agreement by giving written
+notice to Motorola at any time prior to the Closing Date if the
+Closing Date shall not have occurred on or before March 31, 
+1994 by reason of the failure of any condition precedent
+(unless the failure results primarily from the Company 
+breaching any representation, warranty, or covenant contained 
+in this Agreement).
+
+9.02 Effect of Termination.
+
+In the event of termination, this Agreement shall forthwith become void
+and there shall be no liability on the part of either Motorola or the Company,
+or their respective officers or directors except in the case of a willful
+breach. Obligations with respect to confidentiality, under the agreement
+attached as Schedule 9.02, shall survive termination of this Agreement.
+
+10. Indemnification.
+
+10.01 Indemnification by the Company.
+
+Subject to the limitations contained in this Section 10, the Company
+agrees to indemnify and hold harmless Motorola and its Affiliates and its
+Subsidiaries against and in respect of any or all of the following, including
+any damage, expense, loss, claims, incidental and consequential damages, and
+any such amounts related to, arising from or caused by the following:
+
+December 16, 1993 Page 29
+Revision 7
+
+<PAGE> 30
+
+(a) all liabilities of any nature, whether accrued, absolute,
+contingent or otherwise, arising from, caused by or attributed
+to any act or omission by the Company on or prior to the
+Closing Date, including, without limitation:
+
+(i) all tax liabilities, if any, accrued in respect of
+or measured by the Company's, or any affiliated or
+predecessor company's income for any period prior to
+the Closing Date, or arising out of transactions
+entered into, or any set of facts existing, prior to
+the Closing Date;
+
+(ii) any and all losses, liabilities, damages or
+obligations resulting from or relating to any claim
+or action by any creditor, potential creditor or
+person claiming any proprietary or equity interest
+in the Acquisition Assets or the Wafer Fab
+Operations questioning the validity of or otherwise
+seeking to rescind the transfer of all right, title
+and interest in the Acquisition Assets and the Wafer
+Fab Operations to Motorola;
+
+(iii) any and all losses, liabilities, damages or
+obligations relating to any liability of the Company
+to the Pension Benefit Guaranty Corporation, or to
+any multiemployer plan, which is enforced or which
+is attempted to be enforced against either the
+Acquisition Assets or the Wafer Fab Operations;
+
+(iv) any and all losses, liabilities, damages or
+obligations resulting from or relating to any claim
+or action by any Company employee related to or
+resulting from inaccurate personnel file information
+provided to Motorola or the validity of the 
+Company's obtaining a Company employee's 
+authorization for disclosure of such information;
+
+(v) all actions, suits, proceedings, claims, demands,
+assessments (whether asserted prior to or following
+the Closing Date), judgments, costs and expenses
+incident to any of the foregoing;
+
+(vi) any Hazardous Material storage, use, manufacture,
+transportation, disposal, release, discharge or
+emission by the Company, including, but not limited
+to, the Wafer Fab Operations, on or prior to the
+Closing Date;
+
+December 16, 1993 Page 30
+Revision 7
+
+<PAGE> 31
+
+(vii) with respect to Hazardous Material other than
+trichloroethylene ("TCE"), any Hazardous Material
+which is found to be present in or on the Real
+Property, on or prior to Closing Date as a result of
+any acts or omissions of the Company on or prior to
+the Closing Date;
+
+(viii) the exposure to any Hazardous Material on or prior
+to the Closing Date, of any existing or former
+Company employee engaged in the Wafer Fab Operations
+or its related activities, or any other person
+engaged in activities on the Real Property, the
+presence of which is attributable to any act or
+omission of the Company on or prior to the Closing
+Date; and
+
+(ix) any disposal into any landfill or other disposal
+facility of a Hazardous Material by the Company or
+by any person to whom Hazardous Materials have been
+directly or indirectly delivered, by the Company
+including, but not limited to, the Wafer Fab
+Operations.
+
+(b) all damage or deficiency resulting from the inaccuracy of a
+representation or warranty made by the Company in this
+Agreement, or resulting from a misrepresentation, breach of
+warranty or nonfulfillment of an agreement, or covenant
+contained herein, upon the part of the Company under, or in a
+document delivered in connection with, this Agreement or from
+a misrepresentation in or omission from a certificate or other
+instrument furnished or to be furnished to Motorola hereunder,
+and all claims relating to a matter covered by any such
+representation or warranty, whether or not such claim is
+valid;
+
+(c) with respect to TCE Hazardous Material, any TCE which is found
+to be present in or on the Real Property (or other real
+property, on which the presence of TCE is claimed to be the
+result of the Wafer Fab Operations or related activities
+taking place on the Real Property), at any time on or prior to
+the Closing Date or after the Closing Date, other than TCE
+which is proved to be present in or on the Real Property (or
+such other real property) as a result of disposal, release,
+discharge or emission by Motorola or which is proved to be
+present in or on the Real Property (or such other property) as
+a result of disposal, release, discharge or emission by a new
+source which had not begun any of the activities which result
+in any such disposal, release, discharge or emission prior to
+the Closing Date.
+
+December 16, 1993 Page 31
+Revision 7
+
+<PAGE> 32
+
+10.02 Indemnification by Motorola.
+
+Subject to the limitations contained in this Section 10, Motorola
+agrees to indemnify and hold harmless the Company and its Affiliates and its
+Subsidiaries against and in respect of any or all of the following, including
+any damage, expense, loss, claims, incidental and consequential damages, and
+any such amounts related to, arising from or caused by the following:
+
+(a) all liabilities of any nature, whether accrued, absolute,
+contingent or otherwise, arising from, caused by or attributed
+to any act or omission by Motorola after the Closing Date,
+including without limitation:
+
+(i) any Hazardous Material storage, use, manufacture, 
+transportation, disposal, release, discharge or 
+emission by Motorola in connection with the use of 
+the Acquisition Assets after the Closing Date;
+
+(ii) any Hazardous Material which is found to be present 
+in or on the Real Property as a result of acts or 
+omissions of Motorola after the Closing Date;
+
+(iii) the exposure to any Hazardous Material after the
+Closing Date of any person engaged in activities on
+the Real Property, provided the presence of such
+Hazardous Material is not the result of any act of
+omission by the Company on or prior to the Closing
+Date; and
+
+(iv) any disposal after the Closing Date into any landfill
+or other disposal facility of a Hazardous Material by
+Motorola or by any person to whom Hazardous Materials
+have been directly or indirectly delivered in
+connection with the use by Motorola of the
+Acquisition Assets; and
+
+(b) all damage or deficiency resulting from the inaccuracy of a
+representation or warranty made by Motorola in this Agreement,
+or resulting from a misrepresentation, breach of warranty or
+nonfulfillment of an agreement, or covenant contained herein,
+upon the part of Motorola under, or in a document delivered in
+connection with, this Agreement or from a misrepresentation in
+or omission from a certificate or other instrument furnished
+or to be furnished to the Company hereunder, and all claims
+relating to a matter covered by any such representation or
+warranty, whether or not such claim is valid.
+
+December 16, 1993 Page 32
+Revision 7
+
+<PAGE> 33
+
+10.03 Matters Involving Third Parties.
+
+If any third party shall notify any party hereto (the "Indemnified
+Party") with respect to any matter which may give rise to a claim for
+indemnification against any other party (the "Indemnifying Party") under this
+Section, then the Indemnified party shall notify each Indemnifying Party
+thereof promptly; provided, however, that no delay on the part of the
+Indemnified Party in notifying any Indemnifying Party shall relieve the
+Indemnifying Party from any liability or obligation hereunder unless (and then
+solely to the extent) the Indemnifying Party thereby is damaged.
+
+In the event any Indemnifying Party notifies the Indemnified Party
+within 15 days after the Indemnified Party has given notice of the matter
+giving rise to the claim that the Indemnifying Party is assuming the defense
+thereof, (a) the Indemnifying Party will defend the Indemnified Party against
+the matter with counsel of the Indemnifying Party s choice reasonably
+satisfactory to the Indemnified Party, (b) the Indemnified Party may retain
+separate co-counsel at its sole cost and expense (except that the Indemnifying
+Party will be responsible for the fees and expenses of the separate co-counsel
+to the extent the Indemnified Party reasonably concludes that the counsel the
+Indemnifying Party has selected has a conflict of interest), (c) the
+Indemnified Party will not consent to the entry of any judgment or enter into
+any settlement with respect to the matter without the written consent of the
+Indemnifying Party, such consent not to be unreasonably withheld), and (d) the
+Indemnifying Party will not consent to the entry of any judgment with respect
+to the matter, or enter into any settlement which does not include a provision
+whereby the plaintiff or claimant in the matter releases the Indemnified Party
+from all liability with respect thereto, without the written consent of the
+Indemnified Party such consent not to be unreasonably withheld.
+
+However, in the event that the Indemnifying Party does not notify the
+Indemnified Party with 15 days after receipt of notice from the Indemnified
+Party, that the Indemnifying Party will be assuming the defense thereof, the
+Indemnified Party may defend against, or enter into any settlement with respect
+to, the matter in any manner it deems appropriate.
+
+10.04 Other Indemnification Provision.
+
+The foregoing indemnification provisions are in addition to, and not
+in derogation of, any statutory or common law remedy any party may have for
+breach of representation, warranty, or covenant.
+
+December 16, 1993 Page 33
+Revision 7
+
+<PAGE> 34
+
+10.05 Tax Indemnification Procedure.
+
+If any Tax arises out of the Wafer Fab Operations or the Acquisition
+Assets before the Closing Date is assessed or claimed on or after such date by
+a taxing authority, Motorola shall notify the Company and it will take over the
+defense of each such tax claim as well as the liability for any settlement,
+penalty, interest or tax due. Motorola will take such action as is necessary
+to cooperate in any proceedings with respect to any such tax or proposed tax.
+
+If any Sales Tax payment arising out of Motorola s purchase of the
+Acquisition Assets is challenged by a taxing authority, Motorola and the
+Company shall mutually agree on the defense of such claim and split the cost of
+such defense equally. Any additional tax, penalty or interest shall be split
+equally. Any tax refund shall likewise be split equally.
+
+11. Miscellaneous.
+
+11.01 Survival.
+
+With the exception of (i) the representations and warranties with
+respect to the condition of certain Acquisition Assets in Sections 7.07(a) and
+7.08 hereof, which shall survive the Closing Date for one (1) year, (ii) any
+representation and warranty covering Taxes which shall survive until expiration
+of applicable statute(s) of limitation and (iii) the license and other rights
+granted to Motorola pursuant to Section 7.11 hereof which shall survive the
+Closing Date forever, all of the other representations and warranties of the
+parties contained in Sections 7 and 8 of this Agreement shall survive the
+Closing Date hereunder for five (5) years. All of the covenants and
+indemnities of the parties contained in this Agreement shall survive the
+Closing Date forever.
+
+11.02 Press Releases and Announcements.
+
+No party shall issue any press release or announcement relating to the
+subject matter of this Agreement prior to the Closing Date without the prior
+written approval of the other parties; provided, however, that any party may
+make any public disclosure it believes in good faith is required by law or
+regulation (in which case the disclosing party will advise the other parties
+prior to making the disclosure).
+
+11.03 No Third Party Beneficiaries.
+
+This Agreement shall not confer any rights or remedies upon any person
+other than the parties and their respective successors and permitted assigns.
+
+December 16, 1993 Page 34
+Revision 7
+
+<PAGE> 35
+
+11.04 Entire Agreement.
+
+This Agreement (including the documents referred to herein)
+constitutes the entire agreement between the parties and supersedes any prior
+understandings, agreements, or representations by or between the parties,
+written or oral, that may have related in any way to the subject matter hereof.
+
+11.05 Succession and Assignment.
+
+This Agreement shall be binding upon and inure to the benefit of the
+parties named herein and their respective successors and permitted assigns. No
+party may assign either this Agreement or any of its rights, interests, or
+obligations hereunder without the prior written approval of the other party;
+provided, however, that Motorola may (i) assign any or all of its rights and
+interests hereunder to one or more of its Subsidiaries and (ii) designate one
+or more of its Subsidiaries to perform its obligations hereunder (in any or all
+of which Motorola nonetheless shall remain liable and responsible for the
+performance of all of its obligations hereunder).
+
+11.06 Counterparts.
+
+This Agreement may be executed in one or more counterparts, each of
+which shall be deemed an original but all of which together will constitute one
+and the same instrument.
+
+11.07 Headings.
+
+The section headings contained in this Agreement are inserted for
+convenience only and shall not affect in any way the meaning or interpretation
+of this Agreement.
+
+11.08 Notices.
+
+All notices, requests, demands, claims, and other communications
+hereunder will be in writing. Any notice, request, demand, claim, or other
+communication hereunder shall be deemed duly given if (and then two business
+days after) it is sent by registered or certified mail, return receipt
+requested, postage prepaid, and addressed to the intended recipient as set
+forth below:
+
+If to the Company:
+
+Corporate Secretary
+Western Digital Corporation
+8105 Irvine Center Drive
+Irvine, California 92713
+
+December 16, 1993 Page 35
+Revision 7
+
+<PAGE> 36
+
+If to Motorola:
+
+Corporate Secretary
+Motorola Inc.
+1303 East Algonquin Road
+Schaumburg, Illinois 60196
+
+Any party may give any notice, request, demand, claim, or other
+communication hereunder using any other means (including personal delivery,
+expedited courier, messenger service, telecopy, telex, ordinary mail, or
+electronic mail), but no such notice, request, demand, claim, or other
+communication shall be deemed to have been duly given unless and until it
+actually is received by the individual for whom it is intended. Any party may
+change the address to which notices, requests, demands, claims, and other
+communications hereunder are to be delivered by giving the other party notice
+in the manner herein set forth.
+
+11.09 Governing Law.
+
+This Agreement shall be governed by and construed in accordance with
+the internal laws (and not the law of conflicts) of the State of California.
+
+11.10 Amendments and Waivers.
+
+No amendment of any provision of this Agreement shall be valid unless
+the same shall be in writing and signed by the Company and Motorola. No waiver
+by any party of any default, misrepresentation, or breach of warranty or
+covenant hereunder, whether intentional or not, shall be deemed to extend to
+any prior or subsequent default, misrepresentation, or breach of warranty or
+covenant hereunder or affect in any way any rights arising by virtue of any
+prior or subsequent such occurrence.
+
+11.11 Severability.
+
+Any term or provision of this Agreement that is invalid or
+unenforceable in any situation in any jurisdiction shall not affect the
+validity or enforceability of the remaining terms and provisions hereof or the
+validity or enforceability of the offending term or provision in any other
+situation or in any other jurisdiction. If the final judgment of a court of
+competent jurisdiction declares that any term or provision hereof is invalid or
+unenforceable, the parties agree that the court making the determination of
+invalidity or unenforceability shall have the power to reduce the scope,
+duration, or area of the term or provision, to delete specific words or
+phrases, or to replace any invalid or 
+
+December 16, 1993 Page 36
+Revision 7
+
+<PAGE> 37
+unenforceable term or provision with a term or provision that is valid
+and enforceable and that comes closest to expressing the intention of the
+invalid or unenforceable term or provision, and this Agreement shall be
+enforceable as so modified after the expiration of the time within which the
+judgment may be appealed.
+
+11.12 Construction.
+
+The language used in this Agreement will be deemed to be the language
+chosen by the parties to express their mutual intent, and no rule of strict
+construction shall be applied against any party. Any reference to any federal,
+state, local, or foreign statute or law shall be deemed also to refer to all
+rules and regulations promulgated thereunder, unless the context requires
+otherwise. Nothing in the Schedules shall be deemed adequate to disclose an
+exception to a representation or warranty made herein unless the Schedules
+identify the exception with reasonable particularity and describes the relevant
+facts in reasonable detail. The parties intend that each representation,
+warranty, and covenant contained herein shall have independent significance.
+If any party has breached any representation, warranty, or covenant contained
+herein in any respect, the fact that there exists another representation,
+warranty, or covenant relating to the same subject matter (regardless of the
+relative levels of specificity) which the party has not breached shall not
+detract from or mitigate the fact that the party is in breach of the first
+representation, warranty, or covenant.
+
+11.13 Incorporation of Exhibits and Schedule.
+
+The Exhibits and Schedules identified in this Agreement are
+incorporated herein by reference and made a part hereof.
+
+11.14 Specific Performance.
+
+Each of the parties acknowledges and agrees that the other parties
+would be damaged irreparably in the event any of the provisions of this
+Agreement are not performed in accordance with their specific terms or
+otherwise are breached. Accordingly, each of the parties agrees that the other
+parties shall be entitled to an injunction or injunctions to prevent breaches
+of the provisions of this Agreement and to enforce specifically this Agreement
+and the terms and provisions hereof in any action instituted in any court of
+the United States or any state thereof having jurisdiction over the parties and
+the matter (subject to the provisions set forth below), in addition to any
+other remedy to which it may be entitled, at law or in equity.
+
+11.15 Alternative Dispute Resolution.
+
+The parties will attempt to settle any claim or controversy arising
+out of this Agreement through consultation and negotiation in good faith and in
+a spirit of mutual cooperation. If those attempts fail, then such dispute will
+be mediated by a mutually-
+
+December 16, 1993 Page 37
+Revision 7
+
+<PAGE> 38
+acceptable mediator to be chosen by the parties within fifteen (15)
+business days after written notice by one of the parties demanding mediation. 
+Neither the Company nor Motorola may unreasonably withhold consent to the
+selection of the mediator. By mutual agreement, however, the Company and
+Motorola may postpone mediation until the Company and Motorola have each
+completed some specified but limited discovery regarding the dispute. The
+parties may also mutually agree to replace mediation with some other form of
+alternative dispute resolution ("ADR"), such as neutral fact-finding or a
+mini-trial.
+
+Any dispute which the parties cannot resolve through negotiation,
+mediation or another form of ADR within forty-five (45) days of the date of the
+initial demand for ADR by one of the parties may be submitted to any federal or
+state court of competent jurisdiction located in the State of California for
+resolution. The Company and Motorola agree to waive any objection to personal
+jurisdiction or venue in any forum located in the State of California. The use
+of any ADR procedures will not be construed under the doctrine of laches,
+waiver or estoppel to affect adversely the rights of any party. Nothing in
+this Section 11.15 will prevent any party from resorting to judicial
+proceedings if (i) good faith efforts to resolve the dispute under these
+procedures have been unsuccessful, or (ii) interim relief from a court is
+necessary to prevent serious and irreparable injury to such party.
+
+11.16 Mutual Release.
+
+Motorola releases the Company and the Company releases Motorola from
+every claim of infringement of every patent (whether a U.S. patent or
+otherwise) for any acts carried out anywhere in the world at any time on or
+before the Closing Date.
+
+11.17 [Intentionally Omitted]
+
+11.18 [Intentionally Omitted]
+
+12. Post-Closing Activities.
+
+12.01 Further Assistance.
+
+From and after the Closing Date, upon the request of Motorola, the
+Company shall execute, acknowledge and deliver to Motorola (or cause to be
+executed, acknowledged and delivered by others) all such further bills of sale,
+assignments, transfers, conveyances, and other documents, in a form reasonably
+satisfactory to Motorola, as may be required to convey, transfer and deliver to
+Motorola, and protect Motorola's right, title and interest in the Acquisition
+Assets, and as otherwise may be 
+
+December 16, 1993 Page 38
+Revision 7
+
+<PAGE> 39
+appropriate to carry out the transactions contemplated by this Agreement.
+
+12.02 Regulatory Filings.
+
+Each of the parties hereto will furnish to the other parties hereto
+such necessary information and reasonable assistance as such other parties may
+reasonably request in connection with its preparation of necessary filings or
+submissions to any governmental agency.
+
+12.03 [intentionally omitted]
+
+12.04 Litigation and IRS Support.
+
+In the event and for so long as any party actively is contesting or
+defending against any charge, complaint, action, suit, proceeding, hearing,
+investigation, claim, or demand in connection with (i) any transaction
+contemplated under the agreement or (ii) any fact, situation, circumstance,
+status, condition, activity, practice, plan, occurrence, event, incident,
+action, failure to act, or transaction on or prior to the Closing Date
+involving the Company, each of the other parties will cooperate with the
+contesting or defending party and his or its counsel in the contest or defense,
+make available his or its personnel, and provide such testimony and access to
+his or its books and records as shall be necessary in connection with the
+contest or defense, all at the sole cost and expense of the contesting or
+defending party (unless the contesting or defending party is entitled to
+indemnification therefor).
+
+IN WITNESS WHEREOF, Motorola, and the Company have caused this
+Agreement to be signed by their respective corporate seals to be affixed
+hereto, all as of the date first written above.
+
+MOTOROLA INC., WESTERN DIGITAL CORPORATION, 
+a Delaware Corporation a Delaware Corporation
+
+By:__________________________ By:__________________________ 
+Murray A. Goldman A. Travis White 
+Senior Vice President Executive Vice President
+and Assistant General Manager Group General Manager
+Semiconductor Products Sector Microcomputer Products
+
+December 16, 1993 Page 39
+Revision 7
+
+<PAGE> 40
+WESTERN DIGITAL CORPORATION
+8105 IRVINE CENTER DRIVE
+IRVINE, CA 92718
+(714) 932-5000
+
+Dated as of
+December 23, 1993
+Motorola Inc.
+6501 William Cannon Drive West
+Austin, TX 78721
+
+Attn: Richard Timmins
+Vice President/Controller
+Microcontroller Technologies Group
+Mail Drop OE16
+
+Dear Rick:
+Reference is made to the Asset Purchase Agreement dated as of
+December 16, 1993 (the "Agreement") by and between Motorola Inc. ("Motorola")
+and Western Digital Corporation (the "Company"). As used herein, the terms
+"Closing" and "Closing Date" shall have the meanings ascribed to them in the
+Agreement. In consideration of the mutual promises contained herein, Motorola
+and the Company hereby agree as follows:
+
+1. Section 2.01(b) of the Agreement provides for calculation of
+the amount to be paid by Motorola to the Company for raw material and
+work-in-process inventories based on Schedule 2.01(b) to the Agreement, to be
+updated as of 4:00 p.m. on the Closing Date. The parties have agreed to use
+the dollar amount set forth in such Schedule 2.01(b) ($6,735,267.65) for
+purposes of the Closing and hereby agree to adjust that amount to reflect the
+final raw material and work-in-process schedule which will be prepared in a
+manner consistent with such Schedule 2.01(b) and will be available after the
+Closing. If the adjusted amount is higher than the amount used for Closing,
+Motorola will pay the additional amount to the Company in two equal
+installments at the time of payments on the Buyer Note. If the adjusted amount
+is lower, then the difference will be offset against the two installments due
+under the Buyer Note.
+
+2. Sections 3.01 and 4.07 of the Agreement, as well as other
+sections of the Agreement, refer to "Listed Employees" as reflected in Schedule
+3.01 to the Agreement. Such Schedule 3.01 has been prepared as of the most
+recent 
+
+<PAGE> 41
+Motorola Inc.
+Page 2
+
+practicable time prior to the Closing; however, the parties are
+continuing the process of determining whether certain additional Company
+employees (approximately 15 or less in number) will become "Listed Employees"
+subject to such additional employees qualifying under Motorola's employment
+policies. The persons to be added to the list of "Listed Employees" will be
+designated in writing by Motorola in its discretion prior to January 1, 1994.
+
+3. Schedule 1.03 (Excluded Assets) to the Agreement contains,
+among other things, a schedule of excluded supplies which will need to be
+updated as of 4:00 p.m. on the Closing Date. Since this update will not be
+available until after the Closing, the parties agree to complete such update in
+a manner consistent with the schedule of excluded supplies which is included in
+such Schedule 1.03 as of the Closing.
+
+4. The allocation referred to in Section 2.02 of the Agreement
+will be completed and agreed to by the parties by January 30, 1994.
+
+Very truly yours,
+Western Digital Corporation
+
+By:_____________________________
+Timothy J. Leyden
+Vice President and
+Controller, Microcomputer Products
+
+Accepted to and accepted
+as of the date first
+written above:
+
+Motorola Inc.
+
+By:______________________________
+Richard Timmins
+Vice President and Controller
+Microcontroller Technologies Group
+
+<PAGE> 42
+
+LIST IDENTIFYING CONTENTS OF OMITTED SCHEDULES 
+PURSUANT TO REGULATION S-K ITEM 601(B)(2)
+
+<TABLE>
+<S> <C>
+Schedule 1.01(a) Description of Real Property
+Schedule 1.02 Assumed Liabilities
+Schedule 1.03 Excluded Assets
+Schedule 2.01(b) Raw Material/WIP
+Schedule 2.01(c) Capital Float
+Schedule 3.01 Listed Employees
+Schedule 5.03(d) Legal Opinion by Gibson Dunn & Crutcher
+Schedule 5.03(g) Estoppel Certificate
+Schedule 6 Joint Escrow Instructions
+Schedule 7.05(b) Government Approvals and Consents
+Schedule 7.09 Excluded Contracts
+Schedule 7.13 Insurance Information
+Schedule 9.02 Confidentiality Agreement
+</TABLE>
+
+Registrant will furnish supplementally a copy of any omitted
+schedule to the Commission upon request.
+
+<PAGE> 43
+
+EXHIBIT A
+
+PROMISSORY NOTE
+
+$6,735,267.65 December 23, 1993
+
+FOR VALUE RECEIVED, Motorola, Inc., the undersigned promises to pay to the
+order of Western Digital Corporation or holder the sum of Six Million Seven
+Hundred Thirty-Five Thousand, Two Hundred Sixty-Seven and 65/100 dollars
+($6,735,267.65) payable in two (2) equal installments, thirty (30) and sixty
+(60) days from the date hereof.
+
+At the option of the holder, this note shall become immediately due and
+payable without notice or demand upon occurrence of any of the following
+events: (a) voluntary or involuntary filing of a petition in bankruptcy or for
+reorganization; (b) application for appointment or appointment of a Receiver;
+or (c) assignment for the benefit of creditors or adjudication in bankruptcy
+by or against the undersigned.
+
+The liability of the undersigned hereunder shall be absolute and
+unconditional. Maker hereby waives presentment, demand for payment, notice of
+dishonor, protest, and any and all notices and demands in connection with the
+performance, default or enforcement of this note.
+
+All amounts in arrears to bear interest at the rate of one and a half
+percent per month or the legal maximum until finally paid. If after any
+default, the holder shall place this note with an attorney for collection,
+then, if permitted by law, the undersigned agrees to pay all costs and expenses
+of such action, and a reasonable attorney's fee.
+
+Witness:
+
+_________________________ _____________________________
+Richard F. Timmins
+Vice President and Controller
+Microcontroller Technologies Group
+Motorola Inc.
+
+END OF EXHIBIT 1 TO FORM 8-K
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-2
+<SEQUENCE>3
+<DESCRIPTION>SUPPLY AGREEMENT
+<TEXT>
+<PAGE> 1
+
+EXHIBIT 2 TO FORM 8-K
+
+SUPPLY AGREEMENT
+BETWEEN
+WESTERN DIGITAL CORPORATION
+AND
+MOTOROLA INC.
+
+DECEMBER 16, 1993
+
+<PAGE> 2
+
+CONTENTS
+
+<TABLE>
+<S> <C> <C>
+I. DEFINITIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+II. AGREEMENT TERM . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+III. STATEMENT OF WORK . . . . . . . . . . . . . . . . . . . . . . . . 4
+IV. ORDERING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+A. Purchase Orders And Weekly Releases . . . . . . . . . . . . 4
+B. Capacity Planning . . . . . . . . . . . . . . . . . . . . . 5
+C. Performance Shortfalls . . . . . . . . . . . . . . . . . . . 7
+D. Change Orders. . . . . . . . . . . . . . . . . . . . . . . . 7
+E. Scrapped Wafers . . . . . . . . . . . . . . . . . . . . . . 8
+1. Wafers Scrapped at Western Digital's Request . . . 8
+2. Wafers Scrapped Due to Motorola Processing . . . . 9
+V. INVOICES AND PAYMENT TERMS . . . . . . . . . . . . . . . . . . . . 9
+VI. PRICING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+A. Wafer Price . . . . . . . . . . . . . . . . . . . . . . . . 9
+B. Wafer Device Yield . . . . . . . . . . . . . . . . . . . . . 9
+VII. SUPPORT SERVICES . . . . . . . . . . . . . . . . . . . . . . . . . 10
+A. Engineering Lots . . . . . . . . . . . . . . . . . . . . . . 10
+B. Test Changes - Process Improvement Support . . . . . . . . . 10
+C. Motorola Report Requirements . . . . . . . . . . . . . . . . 11
+D. Mask Sets . . . . . . . . . . . . . . . . . . . . . . . . . 11
+E. Probe Cards . . . . . . . . . . . . . . . . . . . . . . . . 11
+F. Prototype Device Development . . . . . . . . . . . . . . . . 11
+1. Prototype Design Information . . . . . . . . . . . 11
+2. Prototype Capacity Reservation . . . . . . . . . . 12
+3. Prototype Diagnostics - Acceptance . . . . . . . . 12
+VIII. GENERAL SALES TERMS . . . . . . . . . . . . . . . . . . . . . . . 12
+A. Packing Requirements . . . . . . . . . . . . . . . . . . . . 12
+B. Quality Assurance . . . . . . . . . . . . . . . . . . . . . 13
+C. Failure Analysis . . . . . . . . . . . . . . . . . . . . . . 13
+D. Delivery Terms . . . . . . . . . . . . . . . . . . . . . . . 13
+E. Minimum Device Per Wafer Standards . . . . . . . . . . . . . 13
+IX. ADDITIONAL COVENANTS . . . . . . . . . . . . . . . . . . . . . . . 13
+A. Drawing, Design and Specification Changes . . . . . . . . . 13
+B. Motorola Changes . . . . . . . . . . . . . . . . . . . . . . 14
+C. Material/Process Failure Analysis . . . . . . . . . . . . . 14
+D. IBM SQP Support . . . . . . . . . . . . . . . . . . . . . . 14
+E. IBM Maverick Initiative . . . . . . . . . . . . . . . . . . 14
+F. Support Customer Questionnaires, Surveys, and Audits . . . . 14
+G. Customer Audit . . . . . . . . . . . . . . . . . . . . . . . 14
+H. No Ozone Depleting Substances . . . . . . . . . . . . . . . 15
+I. Work in Process ("WIP") Processing . . . . . . . . . . . . . 15
+J. Right to process Wafers . . . . . . . . . . . . . . . . . . 15
+X. OPERATIONS AND DISPUTE RESOLUTION . . . . . . . . . . . . . . . . . 15
+
+</TABLE>
+
+i
+
+<PAGE> 3
+<TABLE>
+<S> <C> <C>
+A. Operations Managers Appointment and Duties . . . . . . . . . 15
+B. Executive Committee. . . . . . . . . . . . . . . . . . . . . 16
+C. Mediation . . . . . . . . . . . . . . . . . . . . . . . . . 16
+XI. WARRANTY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+XII. INTELLECTUAL PROPERTY AND CONFIDENTIALITY . . . . . . . . . . . . 17
+XIII. MISCELLANEOUS PROVISIONS . . . . . . . . . . . . . . . . . . . . . 19
+A. No Waiver of Default . . . . . . . . . . . . . . . . . . . . 19
+B. Entire Agreement . . . . . . . . . . . . . . . . . . . . . . 19
+C. Assignment, Transfer or Sale of Facility . . . . . . . . . . 20
+D. Compliance with Laws . . . . . . . . . . . . . . . . . . . . 20
+E. Independent Contractor . . . . . . . . . . . . . . . . . . . 20
+F. Employees . . . . . . . . . . . . . . . . . . . . . . . . . 20
+G. Similar Products . . . . . . . . . . . . . . . . . . . . . . 21
+H. Notices . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+I. Termination Provisions . . . . . . . . . . . . . . . . . . . 22
+J. Government Contract Conditions . . . . . . . . . . . . . . . 22
+K. Importation And Exportation . . . . . . . . . . . . . . . . 22
+L. Limitation of Liability . . . . . . . . . . . . . . . . . . 22
+M. Section Titles . . . . . . . . . . . . . . . . . . . . . . . 23
+N. Counterparts. . . . . . . . . . . . . . . . . . . . . . . . 23
+O. Time of the Essence . . . . . . . . . . . . . . . . . . . . 23
+P. Force Majeure . . . . . . . . . . . . . . . . . . . . . . . 23
+Q. Severability . . . . . . . . . . . . . . . . . . . . . . . . 23
+R. Governing Law. . . . . . . . . . . . . . . . . . . . . . . . 23
+S. Survival . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+</TABLE> 
+
+ii
+
+<PAGE> 4
+
+SUPPLY AGREEMENT
+BETWEEN
+WESTERN DIGITAL CORPORATION
+AND
+MOTOROLA INC.
+This Supply Agreement (this "Agreement") is made and entered into on
+December 16, 1993, by and between Motorola, Inc., a Delaware corporation,
+located at 3501 Ed Bluestein Boulevard, P.O. Box 6000, Austin, Texas 78762 and
+Western Digital Corporation, a Delaware corporation located at 8105 Irvine
+Center Drive, Irvine, California 92718 ("Western Digital"). This Agreement
+shall be effective (the "Effective Date") as of the Closing Date, as such term
+is defined in the Asset Purchase Agreement by and between the parties dated
+concurrent herewith (the "Asset Purchase Agreement"); provided, however, that
+if for any reason the Closing, as such term is defined in the Asset Purchase
+Agreement, does not occur within the time periods required pursuant to Section
+6 of the Asset Purchase Agreement then this Agreement shall be null and void
+and have no further effect.
+
+I. DEFINITIONS
+
+The definitions set forth in this Article I shall apply to the corresponding
+words and phrases set forth with initial capitalization in this Agreement,
+whether used in the singular or the plural.
+
+1.1 CONFIDENTIAL INFORMATION
+
+shall mean any Trade Secret (as defined below) (other than any Trade Secret
+covered by Section IX(J)(2) hereinbelow) one Party (the "Disclosing Party")
+discloses to the other Party (the "Receiving Party") pursuant to this Agreement
+either:
+
+A. in a document (any written, graphic, machine readable, or other
+tangible form) which is either
+
+1. marked "Confidential" or in some other manner to indicate
+its confidential nature; or 
+
+2. a tape or electronic transfer of data that is inherently
+known to have a confidential nature, such as a tape for
+reticle generation, a netlist, a database for 
+testing, etc.;
+
+B. orally, provided that the Disclosing Party:
+
+1
+
+<PAGE> 5
+
+1. at the time of disclosure, states that such orally
+disclosed Trade Secret is confidential, and 
+
+2. within a reasonable time (not to exceed thirty
+(30) days) after its oral disclosure, delivers to
+the Receiving Party a document setting forth written
+confirmation of the prior oral confidential disclosure
+and setting forth the Trade Secret so disclosed.
+
+1.2 "CYCLE TIME"
+
+shall mean the total time from starting a Wafer until shipment of the
+Finished Wafer to Western Digital as set forth in Schedule 1.2. 
+
+1.3 "DEVICE"
+
+shall mean a Die that is identified by a Western Digital manufacturing
+device code, regardless of whether or not the Die has been separated from a
+Wafer.
+
+1.4 "DEVICES PER WAFER" OR "DPW"
+
+shall mean the number of Good Devices that fit on a given Wafer.
+
+1.5 "DEVICE PER WAFER YIELD"
+
+shall mean the ratio of Good Devices to DPW for a given Wafer.
+
+1.6 "DIE"
+
+shall mean an individual integrated circuit or component which when
+completed create an integrated circuit. 
+
+1.7 "ENGINEERING LOT"
+
+shall mean a group of Wafers which are processed to experiment with
+changes in the manufacturing process. 
+
+1.8 "FINAL RELEASE ORDER"
+
+shall mean a final detailed order placed seven (7) days prior to
+starting production of a Lot of Wafers.
+
+1.9 "FINISHED WAFER"
+
+shall mean a completely processed, Background and Probed Wafer which
+meets the minimum Device Per Wafer Yield requirements set forth in Schedule 1.9
+and meets the applicable Finished Wafer thickness specification.
+
+1.10 "FINISHED WAFER DELIVERY RECEIPT"
+
+shall mean Western Digital's written verification of an order that has
+been delivered by Motorola to fulfill a Final Release Order. 
+
+2
+
+<PAGE> 6
+1.11 "FIRST BUSINESS DAY"
+
+shall mean Monday or such other day as the parties shall mutually agree
+from time to time.
+
+1.12 "GOOD DEVICE"
+
+shall mean Devices which successfully complete the unit probe program
+and are operational integrated circuit products in unpackaged form. 
+
+1.13 "HOLDS"
+
+shall have that meaning set forth in Section IV(C) hereof.
+
+1.14 "LOT"
+
+shall mean a group of Wafers (each Wafer containing a quantity of
+Devices) which are processed as a group. Each Lot will be assigned a specific
+alpha/numeric identification that distinguishes it from any other group that
+contains the same type of Die so that each Lot can be separately identified and
+tracked throughout the life of all Die produced in a Lot.
+
+1.15 "MONTH" OR "WEEK"
+
+shall mean a Motorola fiscal month or week.
+
+1.16 "PRE-RELEASE ORDER"
+
+shall mean a preliminary detailed order issued fourteen (14) days prior
+to starting production of a lot of Wafers. Pre-Release Order are for planning
+purposes and are subject to modification by a Change Order or corresponding
+Final Release Order.
+
+1.17 "PROBE"
+
+shall mean Motorola's final test of a processed wafer to determine if
+it qualifies as a Finished Wafer. 
+
+1.18 "PROTOTYPE DEVICE"
+
+shall have the meaning as defined in Section VII(F).
+
+1.19 "RISK STARTS"
+
+shall be defined as Wafers related to Die that have not been released
+to production by Western Digital but for which the fabrication process has been
+released by Western Digital.
+
+1.20 "RUSH LOT"
+
+shall mean Wafer Lots which are to be processed on an accelerated basis
+equal to sixty-five one hundredths (.65) of the then current Cycle Time.
+
+3
+<PAGE> 7
+1.21 "SCRAPPED WAFERS"
+shall have the meaning as defined in Section IV(E)(1) .
+
+1.22 "TRADE SECRET"
+shall mean any information, including a formula, pattern, compilation,
+program, device, method, technique, or process, that: derives independent
+economic value, actual or potential, from not being generally known to the
+public or to other persons who can obtain economic value from its disclosure or
+use; and is the subject of efforts that are reasonable under the circumstances
+to maintain its secrecy. Without limiting the generality of the foregoing,
+Trade Secrets include information concerning designs of Devices, layout data,
+and test programs for testing Wafers and Devices.
+
+1.23 "WAFER"
+shall mean a crystalline substrate for integrated circuit production which
+when fully processed may consist of several potential finished Devices.
+
+1.24 "FINISHED WAFER SPECIFICATIONS"
+shall mean the specifications related to the warranty of Wafers as set
+forth in Schedule XI.
+
+1.25 "WAFER STANDARD PRICE"
+shall be the price for Finished Wafers set forth in Schedule 1.25.
+
+II. AGREEMENT TERM
+
+Unless terminated earlier under Section XIII(I), the term of this Agreement
+to supply Wafers to Western Digital shall be three (3) years from the Effective
+Date (the "Term"). The last Final Release Order to be received by Motorola no
+later than seven days prior to the end of the Term.
+
+III. STATEMENT OF WORK
+
+During the Term of this Agreement, Motorola will manufacture and sell
+Finished Wafers to Western Digital at the Wafer Standard Price, in the
+quantities and to the requirements set forth herein and perform other services
+as described in this Agreement. Motorola will make sufficient wafer starts to
+meet the minimum quantity requirements according to the timetable for delivery
+of Finished Wafers and with the Cycle Times as set forth in this Agreement.
+Motorola will achieve the minimum Device Per Wafer Yield as set forth in
+Schedule 1.9.
+
+Subject to Western Digital's confidentiality obligations and such reasonable
+confidentiality restrictions as Western Digital may require, Western Digital
+will be 
+
+4
+<PAGE> 8
+responsible for supplying Motorola with Western Digital's technical
+information and reasonable assistance regarding the production of masks sets
+and Probe necessary for the manufacture of Devices as required by this
+Agreement. Western Digital will provide such technical information and
+assistance in a timely manner, so that Motorola may meet delivery timetables.
+
+In no event will Motorola sell Wafers containing Western Digital's Devices
+to any other party.
+
+IV. ORDERING
+
+A. PURCHASE ORDERS AND WEEKLY RELEASES
+
+Thirty (30) days prior to the beginning of each Western Digital fiscal
+quarter, Western Digital shall issue a blanket purchase order ("Purchase
+Order") in an amount sufficient to cover the price of the Finished Wafers
+Western Digital forecasts purchasing from Motorola during such quarter (the
+"Purchase Order Period"). Purchase Orders will list the anticipated quantity
+of Double Level Metal ("DLM") or Triple Level Metal ("TLM") Finished Wafers
+that Western Digital anticipates purchasing during such quarter.
+
+On the First Business Day of each week, two weeks prior to Western Digital's
+actual desired date for wafer start, Western Digital will issue a non-binding
+Pre-Release Order. The Pre-Release Order will list the quantity of DLM or TLM
+Finished Wafers that Western Digital forecasts for start two weeks later. Each
+Pre-Release Order will be followed by a Final Release Order, on the First
+Business Day of each week, one week prior to Western Digital s actual desired
+date for wafer start. Final Release Orders may not be modified or canceled by
+Western Digital without the consent of Motorola.
+
+Motorola will make sufficient weekly wafer starts to deliver to Western
+Digital the Finished Wafers as described on the Final Release Order within the
+Cycle Times. Western Digital will coordinate the timing of its Pre-Release
+Orders and Final Release Orders so that, Western Digital will receive Finished
+Wafers on the date it desires such Finished Wafers (provided that Motorola
+delivers the Finished Wafers within the Cycle Time). 
+
+B. CAPACITY PLANNING
+
+In order to plan for the efficient utilization of the plant manufacturing
+capacity, the parties agree to exchange such other forecasts and information as
+is reasonably requested by the other party. Each month, Western Digital will
+provide Motorola with a six (6) month forecast of its Finished Wafer
+requirements which shall be used by Motorola for planning purposes only in
+order to allocate sufficient plant capacity to fulfill Western Digital's
+forecasted Finished Wafer requirements; provided, however, that such forecasts
+
+5
+
+<PAGE> 9
+
+Western Digital shall not constitute a commitment by Western Digital to
+Motorola with respect to such forecasted requirements. Motorola and Western
+Digital shall meet as often as reasonably requested by the other party, but at
+least quarterly, to address capacity planning and capacity utilization issues.
+
+Motorola has determined that as of the Effective Date, the manufacturing
+capacity of the wafer fabrication facility located at 1 Banting Way, Irvine,
+California (the "Wafer Fab Facility") is two thousand (2000) DLM, or DLM
+Equivalent (as defined below), Finished Wafers per week ("Initial Fab
+Capacity"). The parties also agree that, for purposes of measuring the
+additional manufacturing process requirements, a TLM Finished Wafer shall be
+converted to the equivalent DLM Finished Wafer (the "DLM Equivalent") by
+reference to the following: (i) each TLM Finished Wafer shall be deemed
+equivalent to one DLM Finished Wafer if eight hundred and fifty (850) or fewer
+TLM Finished Wafers per week are ordered by Western Digital under a Final
+Release Order, (ii) each TLM Finished Wafer ordered by Western Digital on a 
+Final Release Order over and above eight hundred and fifty (850) per week but
+less that one thousand (1000) per week shall be deemed equivalent to one and 
+two tenths (1.2) of a DLM Finished Wafer, (iii) the DLM Equivalent for each 
+TLM Finished Wafer ordered by Western Digital on a Final Release Order over 
+and above one thousand (1000) per week shall be reasonably determined and 
+negotiated by the parties based upon the actual additional manufacturing 
+process requirements of such volumes of TLM Finished Wafers.
+
+During calendar years 1994 and 1995, Motorola agrees to provide to Western
+Digital the minimum number of DLM Equivalent Finished Wafers per calendar
+quarter as set forth in Schedule IV(B) (the "WD Finished Wafer Capacity");
+provided, however, that all Wafers started prior to the Effective Date hereof
+shall be processed to Finished Wafers by Motorola but shall not count against
+the WD Finished Wafer Capacity. Notwithstanding, however: (i) Motorola is
+entitled to one hundred percent (100%) of any capacity above the Initial Fab
+Capacity, and (ii) as of the beginning of the fourth calendar quarter of 1994,
+and thereafter, Motorola shall be entitled to a minimum of fifty percent (50%)
+of the Initial Fab Capacity. Motorola may reject any Purchase Order,
+Pre-Release Order, or Final Release Order which would exceed the WD Finished
+Wafer Capacity. Motorola will accept Purchase Orders, Pre-Release Orders, and
+Final Release Orders which conform to the requirements of this Agreement and
+provide sufficient Wafer starts therefor.
+
+Western Digital's utilization of the WD Finished Wafer Capacity for any
+given week shall be determined with reference to the Finished Wafers ordered by
+Western Digital in a Final Release Order and for which Western Digital issues a
+Finished Wafer Delivery 
+
+6
+<PAGE> 10
+Receipt. WD Finished Wafer Capacity which is not
+utilized by Western Digital in any given quarter due to Western Digital's
+failure to place Pre-Release Orders or Final Release Orders sufficient to
+utilize the WD Finished Wafer Capacity available in any given quarter will not
+carry over to any subsequent quarter.
+
+The parties agree that to the extent that, for any reason, Western Digital
+does not receive the total number of Finished Wafers equal to the total WD
+Finished Wafer Capacity, such production capacity will have been made available
+to Motorola for which Motorola will pay to Western Digital a contingent
+capacity fee of up to fifteen million dollars ($15,000,000) (the "Contingent
+Capacity Fee") paid as follows: (i) on or before January 15, 1995, Motorola
+will pay to Western Digital in cash a sum equal to ten million dollars
+($10,000,000) less Earned Capacity Credits (as defined below) attributable to
+Finished Wafers delivered by Motorola to Western Digital pursuant to this
+Agreement in calendar 1994; provided, however, in no event shall Motorola pay
+to Western Digital an amount less than zero; and (ii) on or before January 15,
+1996, Motorola will pay to Western Digital in cash a sum equal to fifteen
+million dollars ($15,000,000) less the aggregate Earned Capacity Credits
+attributable to Finished Wafers delivered by Motorola to Western Digital
+pursuant to this Agreement in calendar 1994 and 1995; ; provided, however, in
+no event shall Motorola pay to Western Digital an amount less than zero. As
+used herein, the dollar amount of "Earned Capacity Credits" attributable to a
+particular period shall be equal to the number of Finished Wafers delivered in
+that period multiplied by one hundred and fifty dollars ($150). The amount of
+Contingent Capacity Fee which, at any given point in time, has not been paid to
+Western Digital shall be referred to herein as the "Unpaid Contingent Capacity
+Fee." Upon termination of this Agreement for any reason prior to January 15,
+1996, Motorola shall pay to Western Digital, in addition to any other amounts
+due to Western Digital, the Unpaid Contingent Capacity Fee.
+
+Throughout the Term of this Agreement the parties shall cooperate to
+maintain records that accurately reflect Western Digital's utilization of the
+Wafer capacity. The parties shall cooperate to mutually verify these records
+for accuracy and completeness as often as either party may reasonably request
+but in no event less frequently than monthly. 
+
+C. PERFORMANCE SHORTFALLS
+
+A "Performance Shortfall" shall be defined as an amount equal to the number
+of Finished Wafers ordered by Western Digital in a Final Release Order that are
+not shipped to Western Digital within the applicable Cycle Time. On a monthly
+basis during the Term of this Agreement the parties shall cooperate to
+determine the existence and amount of any Performance Shortfall.
+
+7
+<PAGE> 11
+
+Motorola will exercise its best efforts to allocate capacity to make up any
+Performance Shortfalls in the number of Finished Wafers required to meet the WD
+Finished Wafer Capacity as soon as possible. Motorola shall allocate Wafer
+production capacity to make up any Performance Shortfalls in the number of
+Western Digital's Finished Wafers such that Western Digital is allocated as 
+much additional capacity possible in proportion to the percentage of Wafer 
+production allocated to Western Digital with reference to other entities to 
+which Motorola is contractually obligated to produce Wafers for at the Wafer 
+Fab Facility ("Customers") so that Western Digital is allocated an additional
+pro rata share of the capacity so that Western Digital's Performance Shortfall 
+make up Wafer capacity allocation is no less favorable than any other Customer 
+and all Customers have their capacity allocation reduced on a pro rata basis 
+in order to provide capacity to make up the Performance Shortfall. 
+
+D. CHANGE ORDERS.
+
+Western Digital may make changes to any Pre-Release Order (a "Change Order")
+to increase the quantity of Finished Wafers that had been ordered in a
+Pre-Release Order, and Motorola shall accept such Change Order provided that
+such increases do not exceed one hundred and twenty-five percent (125%) of the
+quantities to be purchased under the relevant quarterly Purchase Order on a
+cumulative basis for such quarter.
+
+Western Digital may issue Change Orders to any Pre-Release Order to decrease
+the quantity of Finished Wafers that had been ordered in a Pre-Release Order,
+and Motorola shall accept such Change Order provided that such decreases are
+not below seventy-five percent (75%) of the quantities to be purchased under
+the relevant quarterly Purchase Order on a cumulative basis for such quarter.
+
+Western Digital may issue a Change Order to suspend the processing of Wafers
+for a maximum of forty-five (45) days (a "Hold On-Line") or have processing of
+Wafers resumed by notifying Motorola at no additional charge; provided,
+however, that the following limits on the number of Wafers on hold shall apply:
+(i) during the first and second calendar quarters of 1994 no more than one
+thousand (1000) Wafers may be on Hold On-Line at any given time, (ii) during
+the third calendar quarter of 1994 no more than seven hundred and fifty (750)
+Wafers may be on Hold On- Line at any given time, (iii) during the fourth
+calendar quarter of 1994 and thereafter throughout the Term of this Agreement
+no more than five hundred (500) Wafers may be on Hold On-Line at any given
+time. The delivery schedules and Cycle Times for any Wafers on Hold On-Line
+shall be increased by one day for each day such Wafers are on Hold On-Line. By
+the end of the forty-five (45) day Hold On-Line period, Western Digital will
+notify Motorola of its 
+
+8
+<PAGE> 12
+decision to: (i) reactivate processing of the Hold On-Line Wafers, (ii)
+scrap the Hold On-Line Wafers in accordance with Section IV(E)(1), or (iii)
+have such Hold On-Line Wafers taken out of the production line by Motorola
+whereupon Motorola will store such Wafers within the Wafer Fab Facility until
+directed otherwise by Western Digital (a "Hold Off-Line") at no additional
+charge. A Hold Off-Line shall not exceed one year, after which Motorola may
+dispose of such Wafers. In the event Western Digital elects to place Wafers on
+Hold Off-Line it shall be billed an adjusted price for each Hold Off-Line
+Wafer based upon the point of production at which the Wafers were when Western
+Digital notified Motorola to place such Wafers on Hold Off-Line status in
+accordance with the percentages of the Wafer Standard Price set forth in
+Schedule IV(D) (the "Partially Processed Wafer Price"). Upon Western Digital's
+request Motorola shall either: (i) dispose of the Hold Off-Line Wafers or (ii)
+provided Motorola approves such request, which approval shall not be
+unreasonably withheld, Motorola will reactivate processing of the Hold Off-Line
+Wafers and process them into Finished Wafers and deliver such Finished Wafers
+in accordance with the terms and conditions set forth herein (the "Hold
+Off-Line Completion Processing"); provided, however, that Motorola may charge
+Western Digital for the Hold Off-Line Completion Processing ("Completion
+Charge") provided that the sum of the Completion Charge and the Partially
+Processed Wafer Price shall not exceed the then current Wafer Standard Price.
+Any Hold Off-Line Wafers disposed of under this Section shall count against the
+WD Finished Wafer Capacity.
+
+Western Digital may also issue a Change Order to have any given Lot be
+processed as a Rush. Western Digital may, at no additional charge, have a
+maximum of ten (10) Lots of any kind (prototype or non-prototype) on Rush
+status in Motorola's fabrication line at any one time. 
+
+E. SCRAPPED WAFERS
+
+1. WAFERS SCRAPPED AT WESTERN DIGITAL'S REQUEST
+
+Western Digital may issue Change Orders to scrap Wafers as it may
+determine necessary from time to time ("Scrapped Wafers"); provided,
+however, that: (i) Western Digital shall pay the Partially Processed
+Wafer Price for each Scrapped Wafer, (ii) each Scrapped Wafer shall
+count as a Finished Wafer against the WD Finished Wafer Capacity, and
+(iii) upon Western Digital's request, Motorola shall deliver the 
+Scrapped Wafers to Western Digital.
+
+2. WAFERS SCRAPPED DUE TO MOTOROLA PROCESSING
+
+If Wafers are scrapped due to problems in Motorola's processing of
+such Wafers, Motorola will promptly notify Western Digital and Western
+Digital shall 
+
+9
+
+<PAGE> 13
+not be charged for such Scrapped Wafers and such Scrapped Wafer shall
+not count as a Finished Wafers against the WD Finished Wafer Capacity.
+Motorola shall at Western Digital's option and upon notice from Western
+Digital: (i) restart new Wafers with the same device to replace such
+Scrapped Wafers, (ii) restart new Wafers with a different device to
+replace such Scrapped Wafers, or (iii) cancel its order for such Wafers
+without charge.
+
+V. INVOICES AND PAYMENT TERMS
+
+Motorola shall submit an invoice to Western Digital at the end of each week
+for Finished Wafers which were shipped to Western Digital during that week (the
+"Weekly Invoice"). Within thirty (30) days of Western Digital's receipt of the
+Weekly Invoice Western Digital shall remit payment to Motorola for all Finished
+Wafers for which Western Digital has issued a Finished Wafer Delivery Receipt.
+
+Western Digital shall pay all applicable sales taxes on the Finished Wafers
+delivered to Western Digital hereunder and for which Western Digital has issued
+a Finished Wafer Delivery Receipt.
+
+VI. PRICING
+
+A. WAFER PRICE
+
+The prices for all Finished Wafers delivered pursuant to this Agreement
+shall be at the Wafer Standard Price applicable on the date upon which the
+Finished Wafers are delivered to Western Digital hereunder, provided that
+Western Digital does not require a Substantially Different Process (as defined
+below) to produce such Finished Wafers. A "Substantially Different Process" is
+a process which is different from the current process in that it requires a
+significant increase in the number of steps in the process or a significant
+increase in the complexity of processing and such increased complexity results
+in increases to the cost of processing such Finished Wafers. 
+
+B. WAFER DEVICE YIELD
+
+The Device Per Wafer Yield for Western Digital Devices in production as of
+the Effective Date is set forth in Schedule 1.9. The Device Per Wafer Yield
+for Western Digital Devices which are not currently in production ("New
+Devices") and which do not require a Substantially Different Process shall be
+established pursuant to the following procedure:
+
+10
+<PAGE> 14
+
+Motorola shall process five hundred (500) Wafers for New Device mask sets
+("Baseline Wafers") whereupon the following formula shall be used to establish
+an Device Per Wafer for that Device type:
+
+The Device Per Wafer shall be calculated according to the following formula
+based upon the actual Device Per Wafer Yield realized in the production of the
+Baseline Wafers:
+
+DPW = Average Actual Die Per Wafer From The Baseline Wafers ("ADPW") 
+--------------------------------------------------------------
+([SIGMA]D (ADPW) * (Quantity of D Wafers))
+---------------------- ----------------------------
+Standard Die Per Wafer Total Western Digital Wafers
+
+[SIGMA]D = Sum of all Western Digital Devices (ED) in the
+production line.
+
+The DPW established pursuant to the foregoing section with reference to the
+Baseline Wafers (the "Initial DPW") shall remain in effect for the remainder of
+the quarter within which the final Baseline Wafers used to determine the DPW
+were processed ("Baseline Quarter"). For all quarters beyond the Baseline
+Quarter the Initial DPW shall be increased by (the "D0 Curve") percentages set
+forth on Schedule 1.9 (the "Updated DPW").
+
+Motorola shall provide Western Digital any and all information relating to
+the processing of the Baseline Wafers as Western Digital may reasonably request
+including, without limitation, information related to any conditions or
+problems encountered in processing of the Baseline Wafers that may have
+effected the actual Device Per Wafer Yield of the Baseline Wafers (the
+"Baseline Processing Data").
+
+In the event that Western Digital concludes, based upon its analysis of the
+Baseline Processing Data, that the Device Per Wafer Yield results obtained for
+certain of the Baseline Wafers do not accurately reflect the Device Per Wafer
+Yield that can be expected for such Device type Wafers ("Unrepresentative
+Wafers") then upon Western Digital's notice to Motorola of such
+Unrepresentative Wafers, Motorola shall recalculate the Initial DPW based upon
+the Device Per Wafer Yield realized from the Baseline Wafers after excluding
+the Device Per Wafer Yield related to the Unrepresentative Wafers.
+
+Provided that the Baseline Wafers meet or exceed the parametric test
+criteria provided by Western Digital Baseline Wafers shall be priced at the
+then current Wafer price for the given Wafer type (DLM or TLM).
+
+VII. SUPPORT SERVICES
+
+A. ENGINEERING LOTS
+
+Motorola shall provide Western Digital with engineering and operational
+support associated with establishing Motorola's capability to produce new
+Devices under this Agreement. Western Digital shall pay an additional ten
+percent (10%) above the Wafer 
+
+11
+
+<PAGE> 15
+Standard Price (after subtracting Probe costs) for all Wafers related to an 
+Engineering Lot. Each Engineering Lot Wafer shall count against the WD
+Finished Wafers Capacity. 
+
+B. TEST CHANGES - PROCESS IMPROVEMENT SUPPORT
+
+Motorola agrees to take reasonable steps to improve the economies of Device
+fabrication and manufacture including accommodating test changes as may be
+mutually agreed (taking into account any impact on capacity). Western Digital
+will provide at no charge to Motorola, High Pin Count Test Capacity for Western
+Digital products produced by Motorola that exceed existing test capacities.
+Priorities to be determined by Western Digital. 
+
+C. MOTOROLA REPORT REQUIREMENTS
+
+Motorola shall provide Western Digital with information requested by Western
+Digital which is reasonably related to Western Digital's administration of this
+Agreement including all reports and information identified in Schedule VII(C).
+
+D. MASK SETS
+
+Western Digital shall either furnish to or, if Western Digital requests that
+Motorola create such, reimburse Motorola for, the costs associated with the
+creation of the initial mask set for each new Device type not listed on
+Schedule VII(D) (the "Initial Mask Set"); provided that for each Initial Mask
+Set ordered during the Term of this Agreement Motorola shall charge Western
+Digital a price that the parties shall negotiate in good faith. taking into
+account the actual costs incurred by Motorola in the production of such Initial
+Mask Set. All costs and charges associated with mask sets other than the
+Initial Mask Sets which are necessary or advisable to produce the Finished
+Wafers in the volumes and within the time periods specified herein shall be
+paid by Motorola. 
+
+E. PROBE CARDS
+
+Western Digital shall reimburse Motorola for the costs associated with the
+creation of the initial production probe card for each Device type not listed
+on Schedule VII(D) ("Initial Probe Card"); provided that for each Initial Probe
+Card ordered by Western Digital during the Term of this Agreement Motorola
+shall charge Western Digital a price that the parties shall negotiate such
+price in good faith, taking into account the actual costs incurred by Motorola
+in the production of such Initial Probe Card. All costs and charges associated
+with the replacement or maintenance of the Initial Probe Cards or probe cards
+other than the Initial Probe Cards which are necessary or advisable to produce
+the Finished Wafers in the volumes and within the time periods specified herein
+shall be paid by Motorola. 
+
+12
+<PAGE> 16
+F. PROTOTYPE DEVICE DEVELOPMENT
+
+Western Digital may, at its discretion, provide to Motorola designs for new
+Devices ("New Design") or modifications of existing Devices ("Revised Design").
+Such New Designs and Revised Designs shall be processed by Motorola in
+accordance with the terms and conditions of this section (the "Prototype
+Devices"). Each Prototype Device Wafer shall count against the WD Finished
+Wafer Capacity. Any non-standard processing of Prototype Device designs must
+be approved in writing in advance by Western Digital.
+
+1. PROTOTYPE DESIGN INFORMATION
+
+Western Digital shall provide to Motorola an initial data
+base for reticle generation, or acceptable production reticles for
+the Prototype Devices to be fabricated by Motorola (the "Prototype
+Database") by electronic transmission of such data or by such
+other format as reasonable under the circumstances. Western
+Digital shall retain ownership in one set of reticles per device
+and any additional reticles required as a result of development
+work related to Prototype Device revisions. Motorola shall be
+responsible for the costs associated with any replacement reticle
+sets. All reticles and data base for a given Device shall be
+returned to Western Digital within five (5) days of Western
+Digital written request for therefor.
+
+2. PROTOTYPE CAPACITY RESERVATION
+
+Upon seven (7) days prior written notice from Western
+Digital to Motorola of Western Digital's desire to have Motorola
+fabricate a particular Prototype Device design, Motorola shall
+make available the resources and processing capacity for mask
+preparation and wafer starts for material for the Prototype Device
+design fabrication as necessary to produce the Prototype Device
+designs specified by Western Digital in such written notice.
+
+3. PROTOTYPE DIAGNOSTICS - ACCEPTANCE
+
+Each lot of Wafers based upon the Prototype Device designs
+("Prototype Lot") shall be subject to the then current diagnostic
+(i/v) tests and sample plan (accept/reject) criteria applicable to
+the type of material (DLM or TLM) used. If the Prototype Lot does
+not pass this criteria, Motorola shall provide such Prototype Lot
+to Western Digital at no cost and the Prototype Device Wafer shall
+not count against the WD Finished Wafer Capacity. In addition, at
+Western Digital's request and at no additional charge, Motorola
+shall immediately restart fabrication of that 
+
+13
+
+<PAGE> 17
+Prototype Device design as a Rush Lot; provided, however, that
+such Rush Lots shall not count against the Rush Lots which
+Western Digital is permitted to specify elsewhere in this
+Agreement. Motorola shall provide Western Digital a copy of all
+Diagnostics Data along with each Lot of Wafers based upon the
+Prototype Device designs. Motorola shall provide Western Digital
+with detailed documentation on Prototype Device array and test
+structures and any non-standard processing which the Prototype
+Device Wafers were subjected to.
+
+VIII. GENERAL SALES TERMS
+
+A. PACKING REQUIREMENTS
+
+Motorola shall properly pack, mark, and ship all Wafers or other items to be
+delivered to Western Digital under this Agreement as follows: A packing list
+shall accompany each shipping package unit; Each packing list, bill of lading
+or equivalent and an invoice which shall: identify every applicable Western
+Digital Purchase Order number, and every Device code of every Device and
+circuits on every Wafer being shipped; specify by Device code the quantity of
+both Devices and Wafers being shipped, and the location to which Wafers or
+items are being shipped; Each shipping package unit shall be properly marked
+with the applicable order number(s). All Wafers and other items to be
+delivered to Western Digital under this Agreement shall be properly packed,
+marked and shipped in accordance with Western Digital packing criteria QC000159
+attached hereto as Schedule VIII(A). 
+
+B. QUALITY ASSURANCE
+
+Motorola shall, through its quality assurance organization, inspect Wafers
+delivered to Western Digital under this Agreement according to the Quality
+Assurance Specifications requirements of Schedule VIII(B).
+
+In order to avoid undue delay in the processing of the Devices, Motorola
+shall notify Western Digital of any known or suspected failure mechanisms
+and/or defects which are or which it suspects might be present in a completed
+Device. Western Digital shall use reasonable efforts to provide Motorola the
+information it reasonably requests in connection with Motorola's efforts to
+correct such failure mechanisms and/or defects. 
+
+C. FAILURE ANALYSIS
+
+Motorola shall provide Western Digital with failure analysis reports on all
+returns by Western Digital customers, qualification unit failures, and
+reliability monitor failures describing root cause and corrective action within
+a reasonable time of Motorola's receipt of such returns. 
+
+14
+<PAGE> 18
+D. DELIVERY TERMS
+
+Title and risk of loss or damage to the products will pass to Western
+Digital FOB destination Western Digital facility in Irvine, California;
+provided, however, that title and risk of loss or damage to products delivered
+within the Wafer Fab Facility in Irvine will pass upon Western Digital's
+issuance of a Finished Wafer Delivery Receipt therefor.
+
+E. MINIMUM DEVICE PER WAFER STANDARDS
+
+Motorola shall not ship any Finished Wafer with actual Device Per Wafer
+Yield less than that set forth in the Minimum Device Per Wafer Yield Schedule
+("Substandard Wafers") without the prior written approval of Western Digital.
+In the event Western Digital approves shipment of Substandard Wafers: (i) the
+Substandard Wafers shall not be counted against Western Digital's Finished
+Wafer capacity utilization, and (ii) Western Digital shall be charged only that
+portion of the then current Wafer price based upon percentage of actual Device
+Per Wafer Yield so that if the actual Device Per Wafer Yield was forty percent
+(40%) of the DPW then Western Digital would be charged forty percent (40%) of
+the then current Wafer price.
+
+IX. ADDITIONAL COVENANTS
+
+A. DRAWING, DESIGN AND SPECIFICATION CHANGES
+
+Changes to the drawings, designs, and specifications related to the Devices,
+Wafers and technical specifications related thereto as referred to in this
+Agreement may be requested by either party. Upon request for change, Motorola
+shall submit a report to Western Digital setting forth its best judgment as to
+the probable effect, if any, of the requested change in the function,
+performance, reliability, schedule, payment, unit prices, delivery, or other
+criteria ("Change Report") within a reasonable time after a request for change
+by Western Digital and with a request for change by Motorola. The parties will
+then mutually agree as to the appropriate action. 
+
+B. MOTOROLA CHANGES
+
+Motorola shall obtain Western Digital's written approval prior to
+implementing any change to any requirement which is referenced in Western
+Digital documents RL000100 and/or QC000156 and/or QC000175, and which affects
+any product or products procured by Western Digital under this Agreement
+including, without limitation, any changes to the processes used to fabricate
+the Devices. 
+
+C. MATERIAL/PROCESS FAILURE ANALYSIS
+
+Motorola will perform material/process analysis and take action necessary to
+correct any deficiencies discovered as a result of such analysis whenever there
+is a known or 
+
+15
+<PAGE> 19
+suspected material or process problem. Motorola and Western
+Digital work together to bring about continuous process improvement. 
+
+D. IBM SQP SUPPORT
+
+Motorola shall support Western Digital in meeting the requirements of the
+IBM SQP agreement. A copy of the latest IBM SQP agreement is attached hereto
+as Exhibit A (the ("IBM Agreement"). Motorola shall support Western Digital in
+responding to and complying to any changes to the IBM SQP from and after the
+Effective Date of this Agreement including, without limitation any changes to
+the monthly KPI report as defined in the IBM Agreement. 
+
+E. IBM MAVERICK INITIATIVE
+
+Motorola is responsible for meeting the requirements of the IBM "Maverick
+initiative" (including "no rework policy") as described in the Jedec Proposal
+dated 8/4/93 a copy of which Motorola has in its possession. Motorola shall
+support Western Digital in responding to and complying with agreed to changes
+to the Maverick initiative from and after the Effective Date of this Agreement.
+
+F. SUPPORT CUSTOMER QUESTIONNAIRES, SURVEYS, AND AUDITS
+
+Motorola shall complete all reasonable questionnaires and surveys from
+Western Digital customers. These questionnaires and surveys shall be completed
+by Motorola in a timely manner. 
+
+G. CUSTOMER AUDIT
+
+Upon two weeks prior notice, Motorola shall permit Western Digital's
+customers to audit the Motorola Facility(ies) that produce Western Digital
+Devices pursuant to this Agreement and to perform source inspection of
+customers product if required by Western Digital contract with its customer.
+Western Digital's customers must agree to comply with Motorola's security,
+safety and confidentiality requirements. Motorola shall support such audits by
+Western Digital customers including, setting the date of such audit, presenting
+the Fab Quality systems, supplying guides to support the physical audit and
+taking all requested corrective action to the audit results in a timely manner.
+
+H. NO OZONE DEPLETING SUBSTANCES
+
+The United States Clean Air Act amendments of 1990 provide specific
+requirements for the usage and elimination of ozone depleting substances
+("ODS"). Motorola's Wafer Fab Facility shall either be free of ODS or Motorola
+shall have a plan, which must be provided to Western Digital, for the
+elimination of ODS within the time frames dictated by the United States Clean
+Air Act.
+
+16
+
+<PAGE> 20
+
+I. WORK IN PROCESS ("WIP") PROCESSING
+
+As of the Effective Date of this Agreement, a certain quantity of Wafers
+shall be at various stages of processing within the Wafer Fab Facility (the
+"WIP Wafers") Motorola will process the WIP Wafers and deliver same to Western
+Digital as Finished Wafers in accordance with the Cycle Times set forth herein
+(taking into account time spent processing the Wafers prior to the Effective
+Date hereof) and other requirements applicable to Finished Wafers as set forth
+herein (the "Finished WIP Wafer"). For each Finished WIP Wafer, Western
+Digital shall pay Motorola the Wafer Standard Price applicable to all Finished
+Wafers on the date upon which the Finished WIP Wafer is delivered to Western
+Digital. Finished WIP Wafers shall not count against the WD Finished Wafer
+Capacity. 
+
+J. RIGHT TO PROCESS WAFERS
+
+1 Western Digital hereby grants to Motorola the right to use any
+part of or all of Western Digital's Intellectual Property (as defined in
+Section 1.03 of the Asset Purchase Agreement as the "Company's Intellectual
+Property"), whether now existing or hereafter acquired which is necessary to
+make Finished Wafers for Western Digital hereunder.
+
+2. Western Digital hereby agrees that Western Digital shall make no
+claim under any Western Digital Intellectual Property, whether now existing or
+hereafter acquired, to prevent Motorola from using or disclosing or to require
+Motorola to pay any royalty for using or disclosing, anywhere in the world, any
+process for making CMOS wafers that is identical to or substantially the same
+as either of the specific processes of making CMOS wafers that Western Digital
+has disclosed or hereafter discloses to Motorola for Motorola to use to make
+0.9 micron, double-level metal and triple-level metal wafers for Western
+Digital hereunder. This Section IX(J)(2) shall in fact survive after
+termination of this Agreement, regardless of the basis for such termination.
+
+X. OPERATIONS AND DISPUTE RESOLUTION
+
+A. OPERATIONS MANAGERS APPOINTMENT AND DUTIES
+
+Each party shall appoint an individual with overall responsibility for
+monitoring performance and addressing any performance deficiencies under this
+Agreement (the "Managers"). Subject to and in accordance with the terms and
+requirements of this Agreement, the Managers shall meet as often as necessary
+and shall respectively serve as each party's chief coordinator to effect the
+purposes of this Agreement and to address resolution of disputes hereunder. In
+the event any issue or dispute is not resolved for 
+
+17
+
+<PAGE> 21
+whatever reason within ten (10) days from the commencement of such issue or
+dispute, either Manager may refer the issue or dispute to the Executive 
+Committee. 
+
+B. EXECUTIVE COMMITTEE.
+
+Each party shall appoint a member of its management to serve on an executive
+committee (the "Executive Committee"). The Executive Committee shall meet by
+teleconference or in person at the Wafer Fab Facility, as often as either party
+may reasonably request for the purpose of reviewing high level operational
+priorities and objectives related to this Agreement and resolving disputes that
+arise under this Agreement that have not been resolved by the Operating
+Oversight Committee. In the event that the Executive Committee is unable to
+resolve a dispute within fifteen (15) days after the initial request to resolve
+such dispute is received by the Executive Committee, then either party may
+submit the matter for resolution as provided under Section X(C) hereof.
+
+Notwithstanding anything to the contrary contained herein, and irrespective
+of the existence of any dispute between the parties, Motorola shall continue to
+provide to Western Digital all products and services upon the terms and
+conditions hereof during the pendency of any such dispute. 
+
+C. MEDIATION
+
+Motorola and Western Digital will attempt to settle any claim or controversy
+through consultation and negotiation in good faith and a spirit of mutual
+cooperation. If those attempts fail, then the dispute will be mediated by a
+mutually-acceptable mediator to be chosen by Motorola and Western Digital
+within ten (10) days after written notice by a party demanding mediation.
+Neither party may unreasonably withhold consent to the selection of a mediator,
+and Motorola and Western Digital will share the costs of the mediation equally.
+
+Any dispute which cannot be resolved through negotiation or mediation within
+thirty (30) days of the date of the initial demand by either party shall then
+be finally resolved by the courts. The use of any alternative dispute
+resolution procedure will not be construed under the doctrines of laches,
+waiver or estoppel to affect adversely the rights of either party. And nothing
+in this paragraph will prevent either party from resorting to judicial
+proceedings if: (a) good faith efforts to resolve the dispute under these 
+procedures have been unsuccessful, or (b) interim relief from a court is 
+necessary to prevent serious and irreparable injury to one party or to others.
+
+18
+<PAGE> 22
+
+XI. WARRANTY
+
+Motorola warrants that Finished Wafers sold hereunder shall at the time of
+shipment be free and clear of liens and encumbrances, be in compliance with the
+specifications set forth in Schedule XI, and be shall free from defects in
+material and workmanship. As determined by the Incoming Quality Inspection
+which shall be performed by Western Digital, subject to good faith
+verification, per Western Digital's Vendor Incoming Inspection document.
+
+THIS WARRANTY EXTENDS TO WESTERN DIGITAL ONLY AND MAY BE INVOKED BY WESTERN
+DIGITAL ONLY FOR ITS CUSTOMERS. MOTOROLA SHALL NOT ACCEPT WARRANTY RETURNS
+DIRECTLY FROM WESTERN DIGITAL'S CUSTOMERS OR USERS OF WESTERN DIGITAL'S
+PRODUCTS. MOTOROLA DOES NOT WARRANT FINISHED WAFERS REJECTED BY WESTERN
+DIGITAL AS A RESULT OF THE FOLLOWING, UNLESS, OTHERWISE PREVIOUSLY AGREED TO BY
+THE PARTIES IN WRITING: (1) CHANGES TO WESTERN DIGITAL'S RELIABILITY TESTING,
+OR (2) SUBSTANTIAL CHANGES IN WESTERN DIGITAL S PROCESSING OF THE FINISHED
+WAFERS AFTER DELIVERY TO WESTERN DIGITAL. THIS WARRANTY IS IN LIEU OF ALL
+OTHER WARRANTIES WHETHER EXPRESS, IMPLIED OR STATUTORY INCLUDING IMPLIED
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR PARTICULAR PURPOSE. THIS WARRANTY
+DOES NOT APPLY TO DEFECTS ARISING AS A RESULT OF WESTERN DIGITAL'S DESIGN OR
+FORMULA. WESTERN DIGITAL'S SOLE REMEDY FOR ANY BREACH SHALL BE LIMITED TO THE
+REMEDIES SET FORTH IN THIS AGREEMENT.
+
+Within five (5) calendar days of Western Digital's request therefor Motorola
+will provide Western Digital a return material authorization ("RMA") for all
+Wafers to be returned under warranty ("Defective Wafers").
+
+Unless Motorola and Western Digital mutually agree that Motorola will repair
+such Defective Wafers, Motorola will, at Western Digital's option, replace the
+Defective Wafers with new Finished Wafers (as Performance Shortfalls in
+accordance with Section IV(C) hereof) or refund the purchase price of such
+Finished Wafers. Defective Wafers shall not count against the WD Finished
+Wafer Capacity.
+
+19
+
+<PAGE> 23
+
+In the event repeated field failures occur with respect to a Device, or a
+significant field failure occurs which requires immediate consideration,
+Western Digital and Motorola shall discuss a solution thereof in good faith.
+
+XII. INTELLECTUAL PROPERTY AND CONFIDENTIALITY
+
+A. Except as provided on Section IX(J)(2) and except as required for
+the performance of this Agreement, each Party shall treat as confidential all
+Confidential Information of the other Party, shall not use such Confidential
+Information and shall not disclose such Confidential Information to any third
+party except as required for the performance of this Agreement, and subject to
+confidentiality obligations at least as protective as those set forth herein.
+Without limiting the foregoing, the Receiving Party shall use at least the same
+degree of care which it uses to prevent the disclosure of its own confidential
+information of like importance to prevent the disclosure of Confidential
+Information disclosed to it by the Disclosing Party.
+
+B. The Receiving Party has no obligation to refrain from making a
+disclosure of Confidential Information if such disclosure is: 
+
+1. in response to a valid order of a court or other governmental
+body of the United States or any political subdivision thereof;
+provided, however, that the Receiving Party making the disclosure
+pursuant to the order shall first have given notice to the
+Disclosing Party and made a reasonable effort to obtain a
+protective order requiring that the information and/or documents
+so disclosed be used only for the purposes for which the order was
+issued; or
+
+2. otherwise required by law, or
+
+3. necessary to establish rights under this Agreement.
+
+C. The Receiving Party has no obligation to refrain from either
+making a disclosure of, or using any information that: 
+
+1. is already in the possession of the Receiving Party without
+obligation of confidence;
+
+2. is independently developed by the Receiving Party; 
+
+3. is or becomes publicly available without breach of this Agreement; 
+
+4. is rightfully received by the Receiving Party from a third party.
+
+20
+<PAGE> 24
+
+D. The obligation to protect the Confidential Information shall
+survive for three (3) years following the expiration or termination of this
+Agreement.
+
+E. Except for patents of AT&T, if any, covering the specific
+processes for making CMOS Wafers, disclosed or to be disclosed by Western
+Digital to Motorola, Motorola agrees to defend at its expense any suits brought
+against Western Digital based upon a claim that any process performed by
+Motorola under this Agreement directly infringe any patent or copyright and to
+pay costs and damages finally awarded, in any such suit against Western
+Digital, provided that Motorola is notified promptly in writing of the suit and
+at Motorola's request and at its expense Motorola is given control of said suit
+and all requested reasonable assistance for defense thereof. If the use or
+sale of any of the Finished Wafers is enjoined as a result of such suit,
+Motorola, at its option and at no expense to Western Digital, shall either:
+(i) obtain for Western Digital the right to use and sell the Finished Wafers,
+(ii) substitute an equivalent method for performing the activity which is
+acceptable to and qualified by Western Digital and extend this indemnity
+thereto, or (iii) accept return of the Finished Wafers and refund the purchase
+price. Motorola will use its best efforts to provide a remedy under clause (i)
+or (ii) prior to refunding the purchase price under clause (iii). This
+indemnity does not extend to any suit based upon any infringement or alleged
+infringement of any patent or copyright when such infringement is made
+necessary by any article of Western Digital's design or formula. This is the
+entire liability of Motorola to Western Digital for patent or copyright
+infringement relating to Finished Wafers or Motorola's activities.
+
+F. Western Digital agrees to defend at its expense any suits brought
+against Motorola based upon a claim that any Finished Wafers, or their Die,
+furnished by Motorola to Western Digital infringes any patent or copyright when
+such infringement is necessary for Motorola's compliance with Western Digital's
+specifications or formula, and to pay costs and damages finally awarded in such
+suit against Motorola, provided that Western Digital is notified promptly in
+writing of the suit and at Western Digital's request and at its expense is
+given control of said suit and all requested reasonable assistance for defense.
+This Section XII(F) shall in fact survive after termination of this Agreement,
+regardless of the basis for such termination.
+
+G. The sale of Finished Wafers does not convey any license by
+implication, estoppel, or otherwise, under any proprietary or patent rights of
+Motorola covering combinations of Finished Wafers with other elements.
+
+H. Western Digital agrees to indemnify, defend and hold harmless
+Motorola from and against all damages, liabilities, costs and expenses
+(including reasonable attorneys' fees for 
+
+21
+<PAGE> 25
+outside counsel but not in house counsel) arising out of any claims or suits 
+filed against Motorola by AT&T alleging that the production of Wafers by
+Motorola for supply to Western Digital pursuant to this Agreement using any
+process disclosed to Motorola pursuant to this Agreement or the Asset Purchase
+Agreement infringes any patent held by AT&T as of the closing date of the Asset
+Purchase Agreement. This Section XII(H) shall in fact survive after
+termination of this Agreement, regardless of the basis for such termination.
+
+IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INCIDENTAL OR CONSEQUENTIAL
+DAMAGES ARISING FROM INFRINGEMENT OR ALLEGED INFRINGEMENT OF PATENT OR
+COPYRIGHTS.
+
+XIII. MISCELLANEOUS PROVISIONS
+
+A. NO WAIVER OF DEFAULT
+
+No course of dealing or failure of either party to strictly enforce any
+term, right, or corrective with respect to any transaction, objection or order
+hereunder shall be constructed as a waive of such item, right, or cancellation.
+The failure of either party to exercise any termination right hereunder shall
+not constitute a waiver of the rights granted herein with respect to any
+subsequent default. 
+
+B. ENTIRE AGREEMENT
+
+This Agreement and that certain Asset Purchase Agreement between the
+parties of even date herewith and the attached schedules and exhibits, which
+are incorporated herein by this reference, contain the entire agreement of the
+parties and supersedes all prior agreements, whether written or oral, with
+respect to the subject matter. Modification or amendment of this Agreement or
+any part may be made only by written instrument executed by both parties.
+
+C. ASSIGNMENT, TRANSFER OR SALE OF FACILITY
+
+Neither party shall assign, sublicense or otherwise transfer this Agreement
+or any rights or obligations arising under this Agreement without the prior
+written approval of the other party, provided, however, that no such consent
+shall be required for the assignment of any rights or obligations arising under
+this Agreement to any affiliate, subsidiary or division or in connection with a
+merger, consolidation, sale of substantially all of the assets of either party
+or an affiliate, subsidiary or division or any change of control, in which
+event, this Agreement shall apply to, inure to the benefit of and be binding
+upon the parties hereto and upon their respective successors in interest.
+Motorola 
+
+22
+
+<PAGE> 26
+shall not delegate or subcontract its performance of this Agreement to
+any third party. In addition, Motorola may not transfer the manufacture of the
+Devices to any physical location other than the Wafer Fab Facility prior to
+qualifying such other location under criteria provided by Western Digital for
+manufacture of the Devices. 
+
+D. COMPLIANCE WITH LAWS
+
+Each party shall at all times during the Term of this Agreement perform its
+duties and obligations hereunder in full compliance with all requirements of
+applicable laws, statutes, ordinances, rules, regulations, orders and decrees
+of any state federal or local governmental entities. 
+
+E. INDEPENDENT CONTRACTOR
+
+It is agreed that Motorola is an independent contractor for the performance
+of services under this Agreement, and that for accomplishment of the desired
+result Western Digital is to have no control over the methods and means of
+accomplishment, except as specifically set forth in this Agreement. Motorola
+is and shall be the sole employer and principal of any and all persons
+providing services under this Agreement, and shall be obligated to perform all
+requirements of an employer under federal, state, and local laws and ordinances
+including, without limitation, payment of compensation to such personnel
+including, without limitation, payment of all federal, state and local taxes or
+contributions imposed or required under unemployment insurance, social security
+and income tax laws with respect to such persons and for any injury to them in
+the course of their employment. Under no circumstances shall Motorola or its
+employees or agents be construed to be employees of Western Digital, nor shall
+Motorola's employees or agents be entitled to participate in the profit
+sharing, pension, or other plans established for the benefit of Western
+Digital's employees. Under no circumstances shall Western Digital or its
+employees or agents be construed to be employees of Motorola, nor shall Western
+Digital's employees or agents be entitled to participate in the profit sharing,
+pension, or other plans established for the benefit of Motorola's employees.
+
+F. EMPLOYEES
+
+Except pursuant to mutual written consent, during the term of this Agreement
+Western Digital and Motorola s Semiconductor Product Sector will not recruit,
+as an employee, consultant or in any other capacity, any personnel of the other
+party who have provided services pursuant to this Agreement. 
+
+G. SIMILAR PRODUCTS
+
+It is understood by each party that the other has substantial independent
+development relating to the subject matter of this Agreement and other
+products. This Agreement shall 
+
+23
+
+<PAGE> 27
+not limit a party's development, manufacture or marketing of other
+products with ideas, concepts, techniques, know-how, designs, formulas,
+algorithms or technology similar to the products that are the subject matter of
+this Agreement; provided that such products are developed by the developing
+party without reference to the other party's trade secrets or intellectual
+property. This Agreement shall not prohibit or restrict a party from
+undertaking similar efforts with third parties, including competitors of the
+other party, provided that such party does not breach its obligations under
+this Agreement. 
+
+H. NOTICES
+
+All notices, requests, demands and other communications required or
+permitted hereunder, other than routine operational communications under this
+Agreement, shall be in writing and shall be deemed to have been duly given,
+made and received only when personally delivered or delivered by Federal
+Express or other nationally recognized courier service, or two (2) days after
+having been deposited in the United States mail, certified mail, postage
+prepaid, return receipt requested (except when such notice is a termination
+notice, in which event any two (2) of the delivery methods described above must
+be used), addressed as set forth below:
+
+<TABLE>
+<S> <C>
+
+If to Western Digital: Western Digital Corporation
+8105 Irvine Center Drive
+Irvine, CA 92718
+Attention: A. Travis White
+Executive Vice President,
+General Manager, Microcomputer Products
+
+With a copy to: Western Digital Corporation
+8105 Irvine Center Drive
+Irvine, CA 92718
+Attention: Robert L. Erickson
+Vice President Law & Administration
+
+If to Motorola: Motorola
+3501 Ed Bluestein Boulevard
+P.O. Box 6000
+Austin, TX 78762
+Attention: N.E. Stouder
+Corporate Vice President, Manufacturing
+</TABLE>
+
+24
+
+<PAGE> 28
+<TABLE>
+<S> <C>
+With a copy to: Motorola Law Department
+3501 Ed Bluestein Boulevard
+P.O. Box 6000
+Austin, TX 78762
+Attention: Dirk Buikema, Esq.
+</TABLE>
+
+Any party may change the address to which communications or copies are to be
+sent by giving notice of such change of address in conformity with the
+provisions of this Section for the giving of notice. 
+
+I. TERMINATION PROVISIONS
+
+Either party will be considered to be in default if any of the following
+occurs: (a) it assigns this Agreement or any of its rights under this Agreement
+in violation of Section XIII(C), (b) it fails to perform any material
+obligation under this Agreement, including the obligation to pay amounts when
+due; (c) it makes an assignment for the benefit of its creditors, or a
+receiver, trustee in bankruptcy or similar officer is appointed to take charge
+of its assets; (d) it files for relief under state or federal bankruptcy laws;
+or (e) there is a substantial change in its ownership. In that event, the
+non-defaulting party may terminate this Agreement if the other has failed to
+take corrective action within 30 days after its receipt of a notice of default
+and intent to terminate. 
+
+J. GOVERNMENT CONTRACT CONDITIONS
+
+If Western Digital s purchase order is placed pursuant to a U.S. Government
+contract: (a) under no circumstances will Motorola provide an SF1411 or any
+other cost data; (b) Motorola will provide an SF1412 only in limited
+circumstances and only upon written agreement prior to order acceptance; (c)
+no Government terms and conditions shall apply to this Agreement or any order
+unless agreed to in writing by Motorola. 
+
+K. IMPORTATION AND EXPORTATION
+
+Both parties agree that they will comply with all U.S. export laws and that
+they will not directly or indirectly export, reexport, resell, ship or divert
+any product or technical data or software furnished hereunder to any country
+for which the U.S. at the time of export or reexport requires an export license
+or other governmental approval without first obtaining such license or
+approval. 
+
+L. LIMITATION OF LIABILITY
+
+UNDER NO CIRCUMSTANCES WILL EITHER PARTY BE LIABLE FOR LOSS OF DATA,
+REPROCUREMENT COSTS, LOST REVENUE OR PROFITS, OR FOR ANY OTHER SPECIAL,
+INCIDENTAL OR CONSEQUENTIAL 
+
+25
+<PAGE> 29
+DAMAGES, EVEN IF THEY WERE FORESEEABLE OR ONE PARTY
+HAS INFORMED THE OTHER OF THEIR POTENTIAL.
+
+In no event shall Motorola be liable for any breach of this agreement to the
+extent it arises from Western Digital s breach of any of the warranties and
+representations made by Western Digital in the Asset Purchase Agreement. 
+
+Motorola's total liability for breach of this Agreement will not exceed
+the sum of Fifteen Million Dollars ($15,000,000) plus the Unpaid Contingent
+Capacity Fee (the "Liability Limitation"), provided that the Liability
+Limitation shall not apply and shall have no force or effect, in the event
+that Motorola has not delivered at least seventy-five percent (75%) of
+the total number of Finished Wafers that Motorola has agreed to deliver under
+this Agreement for the period beginning three (3) months before and three (3)
+months after the events upon which Western Digital's claim is based ("Wafer
+Delivery Failure"), unless such Wafer Delivery Failure occurs as a direct
+result of a force majeure event as specified in Section XIII(P) hereof, for
+which there is no reasonable cure. 
+
+M. SECTION TITLES
+
+Section titles as to the subject matter of particular sections herein are
+for convenience only and are in no way to be construed as part of this
+Agreement or as a limitation of the scope of the particular sections to which
+they refer. 
+
+N. COUNTERPARTS.
+
+This Agreement may be executed in several counterparts, each of which shall
+be deemed to be an original, but all of which shall constitute one and the same
+instrument. 
+
+O. TIME OF THE ESSENCE
+
+Time is of the essence as to each and every provision of this Agreement.
+
+P. FORCE MAJEURE
+
+Neither party shall be in default of its obligations under this Agreement to
+the extent that its performance is delayed or prevented by causes beyond its
+reasonable control, including, without limitation, acts of God, acts of third
+party suppliers directly related to performance of work under this Agreement,
+civil disorders, acts of any civil or military authority, or judicial action.
+Motorola shall notify Western Digital at the earliest indication of any
+interruption in supplying Finished Wafers or other difficulty which may impact
+the availability of products under this Agreement. 
+
+26
+<PAGE> 30
+Q. SEVERABILITY
+
+If any provision of this Agreement shall be held to be invalid, illegal or
+unenforceable, the validity, legality and enforceability of the remaining
+provisions shall not in any way be affected or impaired. 
+
+R. GOVERNING LAW.
+
+This Agreement shall be governed by and construed in accordance with the
+internal laws (and not the law of conflicts) of the State of California. 
+
+S. SURVIVAL
+
+All obligations contemplated to be performed, whether as a whole or in part,
+after termination of this Agreement, shall in fact survive after termination of
+this Agreement regardless of the basis for such termination.
+
+IN WITNESS WHEREOF, Motorola and Western Digital have caused this Agreement
+to be signed by their respective duly authorized officers, as of the date above
+first written. 
+
+MOTOROLA INC. WESTERN DIGITAL CORPORATION
+
+By:_________________________ By:____________________________
+Murry A. Goldman A. Travis White
+Sr. Vice President Executive Vice President
+and Assistant General Manager MCP Operations
+Semiconductor Products Section Western Digital Corporation
+Motorola, Inc.
+
+27
+
+<PAGE> 31
+
+LIST IDENTIFYING CONTENTS OF OMITTED SCHEDULES 
+PURSUANT TO REGULATION S-K ITEM 601(b)(2)
+
+<TABLE>
+<S> <C>
+Schedule 1.2 Finished Wafer Cycle Time Schedule
+Schedule IV(D) Partially Processed Wafer Price Schedule
+Schedule VII(C) Motorola Report Requirements
+Schedule VII(D) Western Digital Device Types
+Schedule VIII(A) Packing Criteria
+Schedule VIII(B) Quality Assurance Specifications
+Schedule XI Finished Wafer Specifications
+Exhibit A Supplier Quality Program
+</TABLE>
+Registrant will furnish supplementally a copy of any omitted
+schedule to the Commission upon request.
+
+<PAGE> 32
+
+SCHEDULE 1.9
+MINIMUM DEVICE PER WAFER YIELD SCHEDULE
+
+<TABLE>
+<CAPTION>
+Q1 1994 Q2 1994 Q3 1994 Q4 1994 Q1 1995 Q2 1995
+Western Digital DPW DPW DPW DPW DPW DPW
+Current Device
+Codes
+<S> <C> <C> <C> <C> <C> <C>
+1028EA * * * * * *
+3396EE * * * * * *
+6112EB * * * * * *
+6125EB * * * * * *
+6140EB * * * * * *
+7613EC * * * * * *
+7855EB * * * * * *
+9127ED * * * * * *
+9133EA01 * * * * * *
+9324EC * * * * * *
+</TABLE>
+
+MINIMUM DEVICES PER WAFER CALCULATION
+
+Each month a standard deviation will be calculated from the immediately
+preceding three months for each Western Digital Device. A minimum device per
+wafer ("MDPW") will be calculated as the point * standard deviations
+from the mean. If the standard deviation of the Devices per Wafer for any
+Device type as calculated for any given month is greater than the previous
+month's standard deviation then the previous month's standard deviation will be
+used to calculate the MDPW, otherwise the current month's standard deviation
+will be used to calculate the MDPW.
+
+D0 Curve
+<TABLE>
+<CAPTION>
+Q1 1994 Q2 1994 Q3 1994 Q4 1994 Q1 1995 Q2 1995
+<S> <C> <C> <C> <C> <C> <C>
+DO CURVE * * * * * *
+</TABLE>
+
+* Confidential portion has been omitted and filed separately with the 
+Commission.
+
+<PAGE> 33
+
+SCHEDULE 1.25
+
+WAFER STANDARD PRICE SCHEDULE
+
+<TABLE>
+<CAPTION>
+1994 1995
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+<S> <C> <C> <C> <C> <C> <C> <C> <C>
+DLM PRICE * * * * * * * *
+TLM PRICE * * * * * * * *
+</TABLE>
+
+Prices are for Finished Wafers of the Wafer types indicated delivered to
+Western Digital. Quarters indicated are according to the Motorola fiscal year.
+
+* Confidential portion has been omitted and filed separately with the
+Commission.
+
+<PAGE> 34
+
+SCHEDULE IV(B)
+WESTERN DIGITAL FINISHED WAFER CAPACITY
+(Finished Wafers per Quarter)
+
+<TABLE>
+<CAPTION>
+1st Qtr 2nd Qtr 3rd Qtr 4th Qtr
+------- ------- ------- -------
+<S> <C> <C> <C> <C>
+1994 * * * *
+1995 * * * *
+1996 * * * *
+</TABLE>
+
+WIP means Wafers in process in the Wafer Fab Facility as of the Effective Date
+of this Agreement.
+
+* Confidential portion has been omitted and filed separately with the
+Commission.
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

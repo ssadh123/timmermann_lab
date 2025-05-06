@@ -1,0 +1,1942 @@
+<IMS-DOCUMENT>0000950135-94-000173.txt : 19940321
+<IMS-HEADER>0000950135-94-000173.hdr.sgml : 19940321
+ACCESSION NUMBER:		0000950135-94-000173
+CONFORMED SUBMISSION TYPE:	8-K/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19940318
+ITEM INFORMATION:		7
+FILED AS OF DATE:		19940318
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UST CORP
+		CENTRAL INDEX KEY:			0000316901
+		STANDARD INDUSTRIAL CLASSIFICATION:	6021
+		IRS NUMBER:				042436093
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K/A
+		SEC ACT:		34
+		SEC FILE NUMBER:	000-09623
+		FILM NUMBER:		94516658
+
+	BUSINESS ADDRESS:	
+		STREET 1:		40 COURT ST
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02108
+		BUSINESS PHONE:		6177267000
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K/A
+<SEQUENCE>1
+<DESCRIPTION>FORM 8-K/A
+<TEXT>
+<PAGE> 1
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+------------------------
+
+FORM 8-K/A
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(D)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+DATE OF REPORT: MARCH 18, 1994
+
+UST CORP.
+(Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S> <C> <C>
+MASSACHUSETTS 04-2436093
+(State or other jurisdiction 0-9623 (IRS Employer
+of incorporation) (Commission File Number) Identification No.)
+
+40 COURT STREET
+BOSTON, MASSACHUSETTS 02108
+(Address of principal executive offices) (Zip Code)
+</TABLE>
+
+(617) 726-7000
+(Registrant's telephone number, including area code)
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+<PAGE> 2
+
+ITEM 7. FINANCIAL STATEMENTS AND SUPPLEMENTARY MATERIAL
+
+The registrant, UST Corp. (the "Company"), is filing this Current Report on
+Form 8-K/A for purposes of future incorporation by reference into registration
+statements expected to be filed covering a variety of matters. This document
+contains certain financial information pursuant to Regulation S-X.
+
+2
+<PAGE> 3
+
+INDEX TO FINANCIAL STATEMENTS
+
+<TABLE>
+<CAPTION>
+PAGE
+----
+<S> <C>
+Report of Independent Public Accountants.............................................. 4
+Consolidated Balance Sheets -- December 31, 1993 and 1992............................. 5
+Consolidated Statements of Income for the years ended December 31, 1993, 1992 and
+1991................................................................................ 6
+Consolidated Statements of Changes in Stockholders' Investment for the years ended
+December 31, 1993, 1992 and 1991.................................................... 7
+Consolidated Statements of Cash Flows for the years ended December 31, 1993, 1992 and
+1991................................................................................ 8
+Notes to Consolidated Financial Statements............................................ 9
+</TABLE>
+
+3
+<PAGE> 4
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To the Stockholders and Board of Directors of UST Corp.:
+
+We have audited the accompanying consolidated balance sheets of UST Corp.
+(a Massachusetts corporation) and Subsidiaries as of December 31, 1993 and 1992,
+and the related consolidated statements of income, changes in stockholders'
+investment and cash flows for each of the three years in the period ended
+December 31, 1993. These consolidated financial statements are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these consolidated financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the consolidated financial statements are
+free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the consolidated financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+consolidated financial statement presentation. We believe that our audits
+provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of UST Corp.
+and Subsidiaries as of December 31, 1993 and 1992, and the results of their
+operations and cash flows for each of the three years in the period ended
+December 31, 1993, in conformity with generally accepted accounting principles.
+
+As explained in Note 1 to the consolidated financial statements, the
+Company changed its method of accounting for income taxes and investments by
+adopting Statement of Financial Accounting Standards No. 109, "Accounting for
+Income Taxes" and Statement of Financial Accounting Standards No. 115,
+"Accounting for Certain Investments in Debt and Equity Securities," effective
+January 1, 1993 and December 31, 1993, respectively.
+
+Arthur Andersen & Co.
+Boston, Massachusetts
+January 31, 1994
+
+4
+<PAGE> 5
+
+UST CORP. AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+ASSETS
+
+<TABLE>
+<CAPTION>
+DECEMBER 31,
+---------------------------
+1993 1992
+----------- -----------
+<S> <C> <C>
+($ IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+Cash, due from banks and interest-bearing deposits (Note 3).............. $ 90,198 $ 116,529
+</TABLE>
+
+<TABLE>
+<S> <C> <C>
+Excess funds sold to banks and other short-term investments.............. 96,647 1,341
+Securities (Notes 1 and 4):
+Investment portfolio (Market value: $8,163).......................... 8,122
+Securities available-for-sale:
+Mortgage-backed securities (Market value: $314,434 in 1992)..... 263,435 307,014
+U.S. Treasury, corporate notes, and other
+(Market value: $161,313 in 1992).............................. 210,474 161,629
+----------- -----------
+Total securities available-for-sale............................. 473,909 468,643
+----------- -----------
+Total securities............................................ 473,909 476,765
+Loans (Notes 5, 14, and 16):
+Loans--net of unearned discount of $7,026 in 1993 and
+$9,094 in 1992..................................................... 1,317,579 1,470,600
+Reserve for loan losses.............................................. (62,547) (50,126)
+----------- -----------
+1,255,032 1,420,474
+Premises, furniture and equipment, net (Note 6).......................... 32,661 35,055
+Goodwill................................................................. 2,192 2,315
+Other real estate owned (Note 7)......................................... 19,468 43,154
+Other assets (Notes 2, 10, and 12)....................................... 74,159 82,428
+----------- -----------
+Total Assets................................................ $2,044,266 $2,178,061
+----------- -----------
+----------- -----------
+LIABILITIES AND STOCKHOLDERS' INVESTMENT
+Deposits:
+Demand:
+Noninterest bearing............................................. $ 373,793 $ 422,056
+Interest bearing................................................ 170,642 148,639
+Savings:
+Money market.................................................... 323,979 385,305
+Other........................................................... 320,924 323,746
+Time:
+Certificates of deposit over $100,000........................... 72,911 84,822
+Other........................................................... 378,549 427,363
+----------- -----------
+Total deposits.................................................. 1,640,798 1,791,931
+Short-term borrowings (Note 8)........................................... 226,268 202,051
+Other borrowings (Note 9)................................................ 14,286 18,607
+Other liabilities........................................................ 10,095 21,592
+Commitments and contingencies (Notes 15 and 16)
+Stockholders' investment (Notes 1, 4, 9, 11, and 13):
+Preferred stock $1 par value; Authorized -- 4,000,000 shares;
+Outstanding -- None
+Common stock $.625 par value; Authorized -- 30,000,000 shares;
+Outstanding -- 17,304,795 and 14,036,842 shares in 1993 and 1992,
+respectively........................................................ 10,815 8,773
+Additional paid-in capital........................................... 69,694 47,694
+Retained earnings.................................................... 68,437 88,537
+Unrealized gain on securities available for sale, net of tax......... 3,335
+Unrealized loss on marketable equity securities...................... (17)
+Deferred compensation, net........................................... 538 (1,107)
+----------- -----------
+Total stockholders' investment....................................... 152,819 143,880
+----------- -----------
+Total Liabilities and Stockholders' Investment.............. $2,044,266 $2,178,061
+----------- -----------
+----------- -----------
+</TABLE>
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+5
+<PAGE> 6
+
+UST CORP. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF INCOME
+
+<TABLE>
+<CAPTION>
+YEAR ENDED DECEMBER 31,
+-----------------------------------------
+1993 1992 1991
+--------- --------- ---------
+<S> <C> <C> <C>
+($ IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+Interest income:
+Interest and fees on loans.................. $ 110,673 $ 122,522 $ 174,344
+Interest and dividends on securities:
+Taxable................................... 28,635 32,859 30,093
+Nontaxable................................ 265 467 665
+Dividends................................. 352 278 299
+Trading account interest.................... 192 4,870
+Other interest income....................... 703 706 11,222
+--------- --------- ---------
+Total interest income.................. 140,628 157,024 221,493
+--------- --------- ---------
+Interest expense:
+Interest on deposits........................ 40,300 59,444 114,762
+Interest on short-term borrowings........... 6,239 7,757 17,922
+Interest on other borrowings................ 1,405 1,769 1,956
+--------- --------- ---------
+Total interest expense................. 47,944 68,970 134,640
+--------- --------- ---------
+Net interest income......................... 92,684 88,054 86,853
+Provision for loan losses (Note 5)............... 64,258 41,893 53,712
+--------- --------- ---------
+28,426 46,161 33,141
+--------- --------- ---------
+Noninterest income:
+Asset management fees....................... 15,798 12,526 9,070
+Service charges on deposit accounts......... 5,356 5,852 5,725
+Credit card merchant fees................... 4,926 4,304 4,568
+Gain on sale of securities, net (Note 4).... 4,403 13,724 10,560
+Writedown of equity securities.............. (181) (44) (7,118)
+Trading account profits (losses)............ (132) 7,014
+Gain on sale of real estate (Note 6)........ 3,030
+Lease residual income....................... 1,148 753 3,354
+Corporate services income................... 3,439 3,076 2,421
+Other....................................... 1,834 2,300 5,012
+--------- --------- ---------
+Total noninterest income............... 36,723 42,359 43,636
+--------- --------- ---------
+Noninterest expense:
+Salary and employee benefits (Note 10)...... 38,451 35,370 35,221
+Net occupancy expense....................... 7,419 7,384 8,060
+Credit card processing expense.............. 3,815 3,416 3,350
+Deposit insurance assessment................ 4,931 4,320 5,065
+Foreclosed asset and workout expense (Note
+7)........................................ 23,356 20,272 14,516
+Other....................................... 19,538 25,410 23,110
+--------- --------- ---------
+Total noninterest expense.............. 97,510 96,172 89,322
+--------- --------- ---------
+Loss before income taxes......................... (32,361) (7,652) (12,545)
+Income tax benefit (Note 12)................ (11,511) (2,931) (4,598)
+--------- --------- ---------
+Net loss before change in accounting method...... (20,850) (4,721) (7,947)
+Cumulative effect of change in method of
+accounting for income taxes (Note 1)........... (750)
+--------- --------- ---------
+Net loss......................................... $ (20,100) $ (4,721) $ (7,947)
+--------- --------- ---------
+--------- --------- ---------
+Per share data:
+Net loss.................................... $ (1.31) $ (.34) $ (.58)
+Cash dividends declared..................... $ .15
+Weighted average number of common shares (Note
+11)............................................ 15,362,251 13,984,190 13,793,617
+</TABLE>
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+6
+<PAGE> 7
+
+UST CORP. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' INVESTMENT
+
+<TABLE>
+<CAPTION>
+COMMON STOCK CAPITAL IN
+---------------- EXCESS OF RETAINED
+SHARES AMOUNT PAR VALUE EARNINGS OTHER
+------ ------- ----------- --------- -------
+<S> <C> <C> <C> <C> <C>
+(IN THOUSANDS)
+Balance, December 31, 1990............... 12,908 $8,067 $40,094 $107,847 $(7,929)
+Net loss............................... (7,947 )
+Cash dividends declared -- ($.15 per
+share) (2,091 )
+Stock dividend declared -- (5%)........ 661 413 4,138 (4,551 )
+Restricted stock vesting (Note 11)..... 22 14 348
+Dividend reinvestment plan issuances... 312 195 1,546
+Change in unrealized loss on equity
+securities.......................... 7,779
+Deferred compensation ESOP (Note 9).... (1,429 )
+------ ------- ----------- --------- -------
+Balance, December 31, 1991............... 13,903 $8,689 $46,126 $ 93,258 $(1,579)
+Net loss............................... (4,721 )
+Stock option exercises and restricted
+stock
+vesting (Note 11)................... 134 84 1,568
+Change in unrealized loss on equity
+securities (Note 4)................. 133
+Changed in deferred compensation (Note
+9) 322
+------ ------- ----------- --------- -------
+Balance, December 31, 1992............... 14,037 $8,773 $47,694 $ 88,537 $(1,124)
+Net loss............................... (20,100 )
+Common stock sales (Note 13)........... 3,155 1,972 21,271
+Stock option exercises and restricted
+stock
+vesting (Note 11)................... 113 70 729
+Cumulative effect of change in method
+of
+accounting for investment
+securities,
+net of tax (Note 1)................. 3,335
+Change in unrealized loss on equity
+securities (Note 4)................. 17
+Change in deferred compensation
+(Notes 9, 10, and 11)............... 1,645
+------ ------- ----------- --------- -------
+Balance, December 31, 1993............... 17,305 $10,815 $69,694 $ 68,437 $3,873
+------ ------- ----------- --------- -------
+------ ------- ----------- --------- -------
+</TABLE>
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+7
+<PAGE> 8
+
+UST CORP. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+YEAR ENDED DECEMBER 31,
+---------------------------------------------
+1993 1992 1991
+--------- --------- ---------
+<S> <C> <C> <C>
+(IN THOUSANDS)
+Cash flows from operating activities:
+Net loss........................................................... $ (20,100) $ (4,721) $ (7,947)
+Adjustments to reconcile net loss to net cash provided by operating
+activities:
+Cumulative effect of change in accounting method............... (750)
+Provision for loan losses...................................... 64,258 41,893 53,712
+Depreciation and amortization.................................. 5,029 5,031 5,694
+Amortization of gain on sale/leaseback......................... (384) (384) (807)
+Amortization of security premiums, net......................... 1,344 1,856 961
+Trading account sales.......................................... 209,917 486,878
+Trading account purchases...................................... (173,260) (491,865)
+Gain on sale of securities, net................................ (4,403) (13,724) (10,560)
+Writedown of equity securities................................. 181 44 7,118
+Trading account (profits) losses............................... 132 (7,014)
+Loss on sale of other real estate owned, net................... 1,120 2,338 1,554
+Writedowns of other real estate owned.......................... 16,244 10,783 7,496
+Deferred income tax benefit (expense).......................... (4,494) 1,106 (9,911)
+Increase (decrease) in accruals and other, net................. (1,241) 17,367 (3,425)
+--------- --------- ---------
+Net cash provided by operating activities.............................. 56,804 98,378 31,884
+Cash flows provided by investing activities:
+Sales and maturities of investment securities...................... 5,584 4,889 491,707
+Purchase of investment securities.................................. (1,063) (334) (573,792)
+Proceeds from securities held for sale............................. 321,517 371,663
+Purchases of securities held for sale.............................. (312,866) (402,647)
+Net (increase) decrease in short-term investments.................. (95,306) 577 2,082
+Net loans paid..................................................... 87,939 117,439 156,490
+Loans put back to the RTC (Note 2)................................. 513,572
+Sale of other real estate owned.................................... 19,567 13,800 995
+Sale of building, net.............................................. 7,965
+Purchases of premises and equipment................................ (1,268) (1,257) (10,457)
+--------- --------- ---------
+Net cash provided by investing activities.............................. 24,104 104,130 588,562
+Cash flows used by financing activities:
+Net (decrease) increase in nontime deposits........................ (90,408) 3,195 27,663
+Net payments on certificates of deposit............................ (60,725) (209,726) (469,240)
+Net proceeds (payments) on short-term borrowings................... 24,217 20,528 (210,558)
+Payments of other borrowings....................................... (4,000) (4,500)
+Cash dividends..................................................... (4,131)
+Issuance of common stock for cash, net............................. 23,677 120 1,741
+--------- --------- ---------
+Net cash used by financing activities.................................. (107,239) (190,383) (654,525)
+--------- --------- ---------
+(Decrease) increase in cash and cash equivalents................... (26,331) 12,125 (34,079)
+Cash and cash equivalents at beginning of year..................... 116,529 104,404 138,483
+--------- --------- ---------
+Cash and cash equivalents at end of year........................... $ 90,198 $ 116,529 $ 104,404
+--------- --------- ---------
+--------- --------- ---------
+Supplemental disclosure of cash flow information:
+Cash paid during the year for:
+Interest....................................................... $ 48,959 $ 71,233 $ 141,980
+--------- --------- ---------
+--------- --------- ---------
+Income taxes................................................... $ 1,210 $ 2,495 $ 5,228
+--------- --------- ---------
+--------- --------- ---------
+Noncash transactions:
+Transfers from investment to trading account....................... $ 25,170
+---------
+---------
+Transfers from loans to other real estate owned.................... $ 39,128 $ 41,751 $ 48,747
+--------- --------- ---------
+--------- --------- ---------
+Transfers to securities held for sale.............................. $ 7,103 $ 436,191
+--------- ---------
+--------- ---------
+Financed OREO sales................................................ $ 25,883 $ 23,184 $ 17,715
+--------- --------- ---------
+--------- --------- ---------
+Stock issuance..................................................... $ 365 $ 1,532 $ 362
+--------- --------- ---------
+--------- --------- ---------
+</TABLE>
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+8
+<PAGE> 9
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+DECEMBER 31, 1993
+
+(1) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+The accounting and reporting policies of UST Corp. and Subsidiaries conform
+with generally accepted accounting principles and general practice in the
+banking industry. The significant policies are summarized below.
+
+PRINCIPLES OF CONSOLIDATION
+
+The consolidated financial statements include the accounts of the Company
+and its wholly-owned subsidiaries. All material intercompany balances and
+transactions have been eliminated. The parent company only financial statements
+contained in Note 17 reflect investments in Subsidiaries using the equity method
+of accounting.
+
+Certain reclassifications have been made to prior year balances to conform
+with the current year presentation. Assets owned by others held in a fiduciary
+or agency capacity are not included in the consolidated balance sheets.
+
+SECURITIES
+
+On December 31, 1993, the Company adopted Statement of Financial Accounting
+Standards No. 115 (SFAS 115), "Accounting for Certain Investments in Debt and
+Equity Securities." This statement addresses the accounting and reporting for
+investments in equity securities that have readily determinable fair values and
+for all investments in debt securities. Under this statement securities are
+classified as held-to-maturity, available-for-sale, or trading. Debt securities
+which management has the positive intent and ability to hold to maturity are
+classified as held-to-maturity, and are carried at cost adjusted for the
+amortization of premium or the accretion of discount. At December 31, 1993 the
+Company had no securities classified as held-to-maturity.
+
+Debt and equity securities with readily determinable market values that are
+bought and held principally for the purpose of selling them in the near term are
+classified as trading securities and are carried at fair value, with unrealized
+gains and losses included in current earnings. At December 31, 1993 and 1992,
+the Company had no securities classified as trading.
+
+Debt and equity securities not classified as either held-to-maturity or
+trading are classified as available-for-sale and carried at fair value, with
+unrealized after-tax gains and losses reported as a separate component of
+stockholders' investment. The cumulative effect of adopting SFAS 115 was
+$5,749,000 before reduction for the income tax effect of $2,414,000.
+
+Prior to December 31, 1993, debt securities were designated at the time
+they were purchased as either held-for-sale or held to maturity, based on
+management intent at the time. Securities which management had the ability and
+intent to hold on a long-term basis or until maturity were classified as
+investment portfolio. Securities which were to be held for indefinite periods of
+time and not intended to be held to maturity or on a long-term basis were
+classified as securities held for sale and carried at the lower of aggregate
+cost or market value.
+
+Prior to the adoption of FASB 115 trading account securities were valued at
+market.
+
+For mortgage-backed securities, the Company recalculates the effective
+yield on the investment to reflect the actual prepayment results and anticipated
+future payments. The net investment in these securities is adjusted to the
+amount that would have existed had the new estimated average life and effective
+yield been applied since the acquisition of the securities. Such adjustments are
+charged or credited to interest income in the current period.
+
+9
+<PAGE> 10
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+The Company determined the securities sold by the specific identification
+method. The amount of taxes paid on gains is dependent upon the overall results
+of operations of the subsidiary incurring the gain.
+
+PREMISES, FURNITURE AND EQUIPMENT
+
+Premises, furniture and equipment are stated at cost, less accumulated
+depreciation and amortization. The Company provides for depreciation using the
+straight-line method by charges to expense in amounts estimated to amortize the
+cost over the estimated useful lives of the respective assets as follows:
+
+<TABLE>
+<S> <C>
+Buildings and building improvements........................ 10-40 years
+Furniture and equipment.................................... 3-10 years
+</TABLE>
+
+Leasehold improvements are amortized over the life of the lease agreements.
+
+LOAN INCOME AND FEES
+
+Certain installment loans and commercial time loans are made on a
+discounted basis. The unearned discount applicable to such installment loans is
+taken into income monthly by use of the actuarial method. Interest income on
+nondiscounted loans is accrued based on the principal amount of loans
+outstanding.
+
+Loans are placed on nonaccrual, with the reversal of all accrued interest
+receivable, when there is doubt as to the collectibility of interest or
+principal or if loans are 90 days or more past due unless they are both well
+secured and in the process of collection. In every case, a loan reaching 180
+days past due is placed on nonaccrual. Interest received on nonaccrual loans is
+applied to principal if collection of principal is doubtful; otherwise, it is
+reflected in interest income on a cash basis.
+
+In May 1993, the FASB issued Statement of Financial Accounting Standards
+No. 114 (SFAS No. 114), "Accounting by Creditors for Impairment of a Loan,"
+which is to become effective for fiscal years beginning after December 15, 1994.
+SFAS No. 114 addresses the accounting by creditors for impairment of certain
+loans by requiring that the carrying value of impaired loans, as defined, be
+measured based upon the present value of expected future cash flows discounted
+at the loan's effective interest rate or the fair value of the collateral if the
+loan is collateral dependent. Management is currently evaluating the effect that
+this new standard will have on the Company's reported consolidated financial
+position and results of operations.
+
+RESERVE FOR LOAN LOSSES
+
+The reserve for loan losses is maintained at a level considered adequate by
+management to provide for possible losses from loans, leases and commitments to
+extend credit. Adequacy of the reserve is determined by management using a
+consistent methodology which analyzes the size and risk of the loan portfolio on
+a monthly basis. Factors in this analysis include past loan loss experience and
+asset quality, as reflected by trends of delinquent, nonaccrual and restructured
+loans and the Company's credit risk rating profile. Consideration is also given
+to the current and expected economic conditions and, in particular, how such
+conditions affect the types of credits in the portfolio and the market area in
+general. The reserve is based on estimates, and ultimate losses may vary from
+current estimates. These estimates are reviewed periodically and, as adjustments
+become necessary, they are reported in earnings in the current period.
+
+OTHER REAL ESTATE OWNED
+
+Other real estate owned includes both actual and in-substance
+repossessions. In December 1992 the Company adopted Statement of Position No.
+92-3 ("SOP 92-3") issued by the American Institute of Certified Public
+Accountants. This SOP states that foreclosed assets are presumed to be held for
+sale. Therefore, they should be carried at the lower of cost or fair value,
+minus estimated costs to sell. In 1992 the pretax charge to income resulting
+from implementation was $750,000.
+
+10
+<PAGE> 11
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+INCOME TAXES
+
+The Company provides for income taxes in accordance with the comprehensive
+income tax allocation method. This method recognizes the tax effects of all
+income and expense transactions in each year's statement of income regardless of
+the year in which the transactions are reported for tax purposes.
+
+The Company follows the deferral method of accounting for investment tax
+credits. Under the deferral method, the credit is reflected as a reduction of
+tax expense ratably over the period during which the asset is depreciated for
+financial reporting purposes.
+
+FASB has issued SFAS No. 109 "Accounting for Income Taxes," a modification
+of SFAS No. 96, effective January 1, 1993. While the FASB retained the existing
+requirement to record deferred taxes for transactions that are reported in
+different years for financial reporting and tax purposes, it revised the
+computation of deferred taxes so that the amount of deferred taxes on the
+balance sheet is adjusted whenever tax rates or other provisions of the income
+tax law are changed. This is known as the "liability method" of providing
+deferred income taxes. This change in accounting principle increased net income
+$750,000 in January 1993, representing the cumulative effect of the new standard
+on the balance sheet at the date of adoption.
+
+EARNINGS (LOSS) PER SHARE
+
+Earnings per share is computed using the weighted average number of shares
+of common stock and common stock equivalents outstanding. Common stock
+equivalents consist primarily of dilutive outstanding stock options computed
+under the treasury stock method. Loss per share computations do not include
+antidilutive common stock equivalents.
+
+GOODWILL
+
+Cost of purchased businesses in excess of net assets acquired includes
+amount being amortized over twenty-and forty-year periods. Amortization expense
+was $122,500 in 1993, 1992 and 1991.
+
+RETIREMENT BENEFITS
+
+The Company's policy is to fund pension costs accrued.
+
+In December 1990, the FASB issued SFAS No. 106, "Employer's Accounting for
+Post Retirement Benefits Other Than Pensions." SFAS No. 106 is effective for
+fiscal years beginning after December 15, 1992. This statement did not have any
+impact on the Company's financial position or results of operations.
+
+In November 1992, the FASB issued SFAS No. 112, "Employers' Accounting for
+Postemployment Benefits." SFAS No. 112 is effective for fiscal years beginning
+after December 15, 1993. It is not expected that this statement will have any
+impact on the Company's financial position or results of operations.
+
+STATEMENT OF CASH FLOWS
+
+For purpose of reporting cash flows, cash and cash equivalents include cash
+on hand, amounts due from banks and interest-bearing deposits.
+
+(2) HOME OWNERS PURCHASE AND ASSUMPTION
+
+On September 7, 1990, United States Trust Company ("USTC"), the Company's
+principal banking subsidiary at the time, assumed approximately $2 billion in
+deposits and acquired certain assets and branches located in the greater Boston
+area of the former Home Owners Savings Bank F.S.B. ("Home Owners") in a
+transaction with the Resolution Trust Corporation ("RTC"), an arm of the Federal
+Government. The Company paid the RTC cash of $6.1 million, approximately the
+amount allocated to core deposit intangible which is being amortized over seven
+years. As part of the approval process, the Company agreed with the Board of
+Governors of the Federal Reserve System and the Federal Deposit Insurance
+Corporation to restore
+
+11
+<PAGE> 12
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+the Company's and USTC's consolidated capital ratios to the levels at which they
+stood prior to the Home Owners transaction. Management developed a plan to
+achieve these objectives which included putting the $513.6 million loans held
+for sale back to the RTC in 1991 and continuing to reduce assets as the high
+rate Home Owners certificates of deposit rolled off. This plan is complete.
+
+(3) RESTRICTIONS ON CASH AND DUE FROM BANKS
+
+At December 31, 1993 and 1992, cash and due from banks included $42,072,000
+and $23,659,000, respectively, to satisfy the reserve requirements of the
+Federal Reserve Bank.
+
+(4) SECURITIES
+
+Data presented for 1993 includes only securities available-for-sale. Data
+presented for 1992 in this footnote includes both the investment portfolio,
+consisting primarily of securities of states and municipalities, and other
+equity securities, with an amortized cost of $8,122,000, and securities
+held-for-sale, consisting primarily of U.S. Treasuries, mortgage-backed and
+auto-backed securities, and corporate notes, with an amortized cost of
+$468,643,000.
+
+The amortized cost and fair values of the Company's securities are as
+follows:
+
+<TABLE>
+<CAPTION>
+1993
+-------------------------------------------
+GROSS GROSS
+AMORTIZED UNREALIZED UNREALIZED FAIR
+COST GAINS LOSSES VALUE
+--------- ---------- ---------- --------
+<S> <C> <C> <C> <C>
+(IN THOUSANDS)
+Mortgage-backed securities:
+FHLMC........................................... $177,600 $2,713 $ (749) $179,564
+FNMA............................................ 83,514 1,264 (907) 83,871
+-------- ------ -------- --------
+Total mortgage-backed securities.............. 261,114 3,977 (1,656) 263,435
+US Treasury and Federal agencies..................... 130,192 795 (1,284) 129,703
+States and municipalities............................ 3,712 178 (3) 3,887
+Foreign governments.................................. 451 451
+Corporate debt securities............................ 70,579 2,915 (3) 73,491
+Marketable equity securities......................... 2,112 886 (56) 2,942
+-------- ------ -------- --------
+Total securities.............................. $468,160 $8,751 $ (3,002) $473,909
+-------- ------ -------- --------
+-------- ------ -------- --------
+</TABLE>
+
+<TABLE>
+<CAPTION>
+1992
+-------------------------------------------
+GROSS GROSS
+AMORTIZED UNREALIZED UNREALIZED ESTIMATED
+COST GAINS LOSSES MARKET
+--------- ---------- ---------- --------
+<S> <C> <C> <C> <C>
+(IN THOUSANDS)
+Mortgage-backed securities:
+FHLMC........................................... $167,348 $5,176 $172,524
+FNMA............................................ 139,666 2,431 $ (187) 141,910
+-------- ------ -------- --------
+Total mortgage-backed securities.............. 307,014 7,607 (187) 314,434
+US Treasury and Federal agencies..................... 74,225 475 (335) 74,365
+States and municipalities............................ 5,181 166 (111) 5,236
+Foreign governments.................................. 501 501
+Corporate debt securities............................ 87,437 1,364 (1,834) 86,967
+Marketable equity securities, net of valuation
+allowance.......................................... 2,407 2,407
+
+-------- ------ -------- --------
+Total securities.............................. $476,765 $9,612 $ (2,467) $483,910
+-------- ------ -------- --------
+-------- ------ -------- --------
+</TABLE>
+
+The amortized cost and estimated market value of debt securities at
+December 31, 1993 and 1992, by contractual maturity, are shown in the table
+below. Actual maturities are expected to differ from contractual maturities
+because some borrowers have the right to prepay without prepayment penalty.
+Mortagage-backed
+
+12
+<PAGE> 13
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+securities are shown at their final maturity but are expected to have shorter
+average lives. Equity securities, which have no contractual maturity, are
+presented in the aggregate.
+
+<TABLE>
+<CAPTION>
+1993 1992
+--------------------- ---------------------
+ESTIMATED ESTIMATED
+AMORTIZED FAIR AMORTIZED FAIR
+COST VALUE COST VALUE
+--------- --------- --------- ---------
+<S> <C> <C> <C> <C>
+Mortgage-backed securities:
+Due after 5 years through 10 years.......... $ 42,187 $ 43,005 $ 55,489 $ 56,434
+Due after 10 years.......................... 218,927 220,430 251,525 258,000
+--------- --------- --------- ---------
+Total mortgage-backed securities....... 261,114 263,435 307,014 314,434
+All other debt securities:
+Due in 1 year or less....................... 2,255 2,253 3,113 3,141
+Due after 1 year through 5 years............ 174,623 177,579 139,629 139,253
+Due after 5 years through 10 years.......... 25,889 25,389 22,242 22,366
+Due after 10 years.......................... 2,167 2,311 2,360 2,309
+--------- --------- --------- ---------
+Total debt securities.................. 466,048 470,967 474,358 481,503
+Total marketable equity securities, net
+of valuation allowance............... 2,112 2,942 2,407 2,407
+--------- --------- --------- ---------
+Total securities............................ $468,160 $473,909 $476,765 $483,910
+--------- --------- --------- ---------
+--------- --------- --------- ---------
+</TABLE>
+
+Gross unamortized premiums and discounts on mortgage-backed securities were
+$355,000 and $973,000, respectively, at December 31, 1992.
+
+Proceeds from sales of debt securities held in the investment portfolio,
+held-for-sale and trading accounts during 1993 were $162,956,000 and
+$514,072,000 during 1992. Gross gains of $3,038,000 for 1993 and $8,315,000 for
+1992 and gross losses of $137,000 for 1993 and $939,000 for 1992 were realized
+on those sales. Gains on sales of all securities held in the investment
+portfolio, held-for-sale and trading accounts were $4,403,000, $13,724,000, and
+$10,560,000 for 1993, 1992, and 1991, respectively.
+
+At December 31, 1993, securities carried at $223,156,000 were pledged to
+secure public and trust deposits, securities sold under agreements to repurchase
+and for other purposes as required by law.
+
+(5) LOANS
+
+The composition of the loan portfolio (net of unearned discount) at
+December 31, 1993 and 1992 was as follows:
+
+<TABLE>
+<CAPTION>
+1993 1992
+--------- ---------
+(IN THOUSANDS)
+<S> <C> <C>
+Commercial:
+Commercial and financial loans....................... $ 762,758 $ 867,433
+Real estate:
+Construction loans.............................. 35,295 50,427
+Developer, investor and land.................... 315,700 359,666
+Consumer:
+Residential mortgage loans........................... 84,846 56,364
+Home equity loans.................................... 63,188 67,010
+Indirect automobile installment...................... 31,848 42,786
+Other consumer loans................................. 23,944 26,914
+---------- ----------
+$1,317,579 $1,470,600
+Reserve for loan losses.............................. (62,547) (50,126)
+---------- ----------
+$1,255,032 $1,420,474
+---------- ----------
+---------- ----------
+</TABLE>
+
+13
+<PAGE> 14
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+Nonaccrual loans were $49.3 million and $86.6 million at December 31, 1993
+and December 31, 1992, respectively. Accruing restructured loans totaled $41.5
+million and $44.9 million at December 31, 1993 and 1992, respectively. Had
+nonaccruing and accruing restructured loans been paying in accordance with their
+original terms, approximately $6,247,000 and $7,728,000 of additional interest
+income would have been recorded in 1993 and 1992, respectively.
+
+Most of the Company's business activity is with customers located within
+the states of Massachusetts and Connecticut. At year-end 1993, the Company's
+exposure to credit risk principally secured by real estate included $499 million
+of loans. See Note 16 for additional discussion of concentration of credit risk.
+
+An analysis of the reserve for loan losses for the years ended December 31,
+1993, 1992 and 1991 is as follows:
+
+<TABLE>
+<CAPTION>
+1993 1992 1991
+------- ------- -------
+(IN THOUSANDS)
+<S> <C> <C> <C>
+Balance at beginning of period.............................. $50,126 $50,100 $36,008
+Loans charged off........................................... (55,595) (43,214) (41,316)
+Recoveries on loans previously charged off.................. 3,758 1,347 1,696
+------- ------- -------
+Net chargeoffs.............................................. (51,837) (41,867) (39,620)
+Provided from operations.................................... 64,258 41,893 53,712
+------- ------- -------
+Balance at end of period.................................... $62,547 $50,126 $50,100
+------- ------- -------
+------- ------- -------
+</TABLE>
+
+In June 1993, the Company recorded a special $30 million provision for loan
+losses which is included in the above table. See footnote 19 for information
+regarding this special provision.
+
+(6) PREMISES, FURNITURE AND EQUIPMENT
+
+A summary of the accounts as of December 31, 1993 and 1992 is as follows:
+
+<TABLE>
+<CAPTION>
+1993 1992
+------- -------
+(IN THOUSANDS)
+<S> <C> <C>
+Land................................................................... $ 2,899 $ 2,899
+Buildings and leasehold improvements................................... 34,499 34,468
+Furniture and equipment................................................ 17,744 19,124
+------- -------
+55,142 56,491
+Less -- Accumulated depreciation and amortization...................... 22,481 21,436
+------- -------
+$32,661 $35,055
+------- -------
+------- -------
+</TABLE>
+
+Depreciation and amortization expenses reflected in the consolidated
+statements of income were $3,661,558, $3,665,392 and $4,776,896 in 1993, 1992
+and 1991, respectively.
+
+On January 3, 1991, the Company sold one of its buildings to a third party
+for $8.2 million. A portion of the building, which houses certain staff support
+functions of the Company, was leased back from the purchaser. This transaction
+resulted in a gain of approximately $5 million of which $3 million was
+recognized in 1991 with the difference amortized to income over the life of the
+lease.
+
+(7) OTHER REAL ESTATE OWNED
+
+Other real estate owned includes in-substance foreclosures of $8,197,000
+and $14,861,000 at December 31, 1993 and 1992, respectively. The balance is
+stated net of valuation allowances of $6,553,000 in 1993 and $750,000 in 1992.
+In 1993 provisions charged to foreclosed asset and workout expense were
+$14,514,000 and chargeoffs were $8,711,000.
+
+14
+<PAGE> 15
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+The net cost of other real estate owned included in foreclosed asset and
+workout expense in the income statement was $21,256,000, $18,276,000 and
+$12,621,000 in 1993, 1992 and 1991, respectively. These costs include reductions
+in fair value, net gain or loss on sales and cost of maintaining and operating
+the properties.
+
+(8) SHORT-TERM BORROWINGS
+
+Short-term borrowings consisted of the following at December 31, 1993 and
+1992:
+
+<TABLE>
+<CAPTION>
+1993 1992
+-------- --------
+<S> <C> <C>
+(IN THOUSANDS)
+Federal funds purchased....................................... $ 35,913 $ 48,984
+Securities sold under agreements to repurchase................ 158,618 132,167
+Treasury tax and loan note account............................ 30,751 19,998
+Other......................................................... 986 902
+-------- --------
+$226,268 $202,051
+-------- --------
+-------- --------
+</TABLE>
+
+The average outstanding short-term borrowings were $227,944,000 in 1993 and
+$247,185,000 in 1992. The approximate weighted average interest rates were 2.7%
+in 1993 and 3.1% in 1992. The maximum amount of short-term borrowings
+outstanding at any month end was $320,338,000 in 1993 and $300,489,000 in 1992.
+
+(9) OTHER BORROWINGS
+
+Other borrowings consisted of the following at December 31, 1993 and 1992:
+
+<TABLE>
+<CAPTION>
+1993 1992
+------- -------
+<S> <C> <C>
+(IN THOUSANDS)
+UST Corp.
+8.5% Senior Notes due in installments from 1992 - 1996..... $12,000 $16,000
+Guaranteed ESOP debt at 84% of the prime rate, as
+established, due in installments to 1996................. 786 1,107
+UST Capital Corp.
+11.505% note to SBA due 1995............................... 1,500 1,500
+------- -------
+$14,286 $18,607
+------- -------
+------- -------
+</TABLE>
+
+During 1986, the Company issued $20,000,000 of 8.5% subordinated notes to
+an insurance company. The debt is payable in annual installments of $4 million
+from 1992 through 1996. Under the terms of the agreement, the Company may not
+make dividend payments in excess of 60% of cumulative net earnings since
+December 31, 1985 plus $7 million.
+
+Payments required under the above obligations were $4,321,000 in 1993 and
+will amount to $4,321,000 in 1994, $5,822,000 in 1995, and the balance of
+$4,143,000 in 1996.
+
+The Company has an employee stock ownership plan which covers substantially
+all of its employees. The plan is administered by a committee designated by the
+Board of Directors and is maintained in a separate trust established for that
+purpose. The trustee obtained financing to purchase shares of UST Corp. common
+stock and UST Corp. has guaranteed this debt. The purchased shares are allocated
+to the participants on a pro-rata basis, over the period in which they are
+earned.
+
+15
+<PAGE> 16
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+(10) EMPLOYEE BENEFIT PLANS
+
+The Company has a noncontributory retirement plan covering all employees
+who meet specified age and employment requirements. The plan provides pension
+benefits that are based on the employee's compensation during the highest
+consecutive five of the last ten years before retirement. The following summary
+sets forth the plan's funded status and amounts included in the Company's
+consolidated balance sheets as of December 31, 1993 and 1992:
+
+<TABLE>
+<CAPTION>
+1993 1992
+------- -------
+<S> <C> <C>
+(IN THOUSANDS)
+Actuarial present value of benefit obligations:
+Vested benefit obligation............................................ $12,120 $ 9,115
+Nonvested benefit obligation......................................... 360 382
+------- -------
+Accumulated benefit obligation....................................... 12,480 9,497
+Effect of projected future compensation levels....................... 4,670 3,762
+------- -------
+Projected benefit obligation for service rendered to date................. 17,150 13,259
+Plan assets, primarily listed stocks and U.S. bonds....................... 17,574 16,766
+------- -------
+Projected benefit obligation less than plan assets........................ 424 3,507
+Unrecognized loss......................................................... 3,423 361
+Unrecognized prior service asset.......................................... (32) 531
+Unrecognized net asset being recognized over 15 years..................... (1,895) (2,166)
+------- -------
+Prepaid costs included in other assets.................................... $ 1,920 $ 2,233
+------- -------
+------- -------
+</TABLE>
+
+Net pension cost (income) for 1993 and 1992 included the following
+components:
+
+<TABLE>
+<CAPTION>
+1993 1992
+------- -------
+<S> <C> <C>
+(IN THOUSANDS)
+Service cost benefit earned during the period............................. $ 880 $ 866
+Interest cost on projected benefit obligation............................. 1,179 1,059
+Return on plan assets..................................................... (1,232) (939)
+Net amortization and deferral............................................. (463) (1,251)
+------- -------
+Net pension cost (income)............................................ $ 364 $ (265)
+------- -------
+------- -------
+</TABLE>
+
+The weighted-average discount rate and rate of increase of future
+compensation levels used in determining the actuarial present value of the
+projected benefit obligation was 7.0% and 5.0%, respectively, for 1993 and 8.5%
+and 6%, respectively, for 1992. The expected long-term rate of return on assets
+used was 9.5% and 12%, respectively, for 1993 and 1992.
+
+The Company has a qualified profit-sharing plan covering substantially all
+employees. Under the plan, up to six percent of net income before income taxes,
+as defined, may be contributed to the profit-sharing trust. The Company did not
+make a contribution to the profit-sharing trust in 1993, 1992 or 1991.
+
+In January 1994, the Company added an Employee's Savings feature to the
+existing Profit-Sharing Plan that qualifies as a deferred salary arrangement
+under Section 401(k) of the Internal Revenue Code. The revised plan was renamed
+the UST Corp. Employee Savings Plan. Under the Savings Plan, participating
+employees may defer a portion up to 4% of their pretax earnings not to exceed
+the Internal Revenue Service annual contribution limits. The Company matches 25%
+of each employee's contributions up to 4% of the employee's earnings. Since the
+Savings Plan started in 1994, the Company did not make a contribution in 1993.
+
+The Company also has an employee stock ownership plan for substantially all
+salaried employees. Under the plan, the Company shall contribute either a fixed
+amount or a percentage of compensation of all participants as determined by the
+Board of Directors.
+
+16
+<PAGE> 17
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+The Company has a restricted stock ownership plan for key employees under
+which 389,375 shares of common stock have been granted. The shares vest to the
+employee from the first to the seventh year after the date of grant. The
+unvested shares granted are excluded from outstanding shares and included in the
+calculation of earnings per share, if dilutive, in periods of profit.
+
+Expenses (income) relating to the plans were as follows:
+
+<TABLE>
+<CAPTION>
+YEAR ENDED EMPLOYEE RESTRICTED
+DECEMBER 31, PENSION STOCK OWNERSHIP STOCK
+------------ ------- --------------- ----------
+(IN THOUSANDS)
+<S> <C> <C> <C>
+1993............................................ $ 364 $ 319 $399
+1992............................................ (265) 425 287
+1991............................................ (628) 600 178
+</TABLE>
+
+(11) STOCK OPTIONS
+
+At December 31, 1993, 479,759 shares of the Company's common stock were
+reserved for future grants to officers and key employees. Under the Company's
+incentive stock option plan, options may be granted at prices not less than the
+fair market value of the Company's common stock at the date of grant.
+
+In May 1990, the stockholders approved a director's stock option plan under
+which each outside director would receive a grant of 5,250 shares. The total
+number of shares issuable under this plan is 63,000. All shares to current
+outside directors have been granted. Each option is exercisable to the extent of
+20% after one year from the date of grant and an additional 20% each succeeding
+year. In addition, the Company has a Director's Deferred Compensation Program
+under which up to 250,000 shares of the Company's common stock may be granted to
+Directors of the Company or its banking subsidiaries who choose to receive their
+Director's fees or stipend in shares of the Company in lieu of cash. The shares
+vest when the person ceases to be a Director.
+
+<TABLE>
+<CAPTION>
+NUMBER OF SHARES OPTION PRICE
+UNDER OPTION PER SHARE TOTAL
+---------------- ------------- ----------
+<S> <C> <C> <C> <C>
+Outstanding at December 31, 1993................ 656,859 $5.00-$9.00 $4,463,412
+1992................ 583,886 $5.00-$9.125 $3,596,327
+1991................ 593,047 $6.07 $3,600,600
+Exercisable at December 31, 1993................ 290,492 $5.00-$8.62 $1,770,462
+1992................ 221,592 $5.00-$6.07 $1,344,923
+1991................ 101,411 $6.07 $ 615,700
+Exercised during the year 1993................ 65,696 $6.07 $ 398,869
+1992................ 19,621 $6.07 119,115
+1991................ -- -- --
+</TABLE>
+
+In 1993, 24,233 restricted shares vested under the Company's restricted
+stock ownership plan.
+
+In December 1989, April 1990, and April 1991, the Board of Directors
+authorized an option substitution program permitting employees to surrender
+options with an option price of more than $14.29, $10.00, and $6.07,
+respectively, in exchange for new options. Outstanding options for 149,331,
+513,817, and 516,502, respectively, were exchanged under the program. Options
+were exchanged on a one-for-one basis at an option price of $14.29, $10.00, and
+$6.07, respectively, per share, the fair market value of the Company's common
+stock on the date of authorization. The new options vest ratably over a
+five-year period.
+
+17
+<PAGE> 18
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+(12) INCOME TAXES
+
+The income tax benefit shown on the consolidated statements of income consisted
+of the following:
+
+<TABLE>
+<CAPTION>
+YEAR ENDED DECEMBER 31,
+--------------------------------
+1993 1992 1991
+-------- -------- --------
+<S> <C> <C> <C>
+(IN THOUSANDS)
+Current tax expense (benefit):
+Federal................................................... $(8,302) $(6,513) $ 3,671
+State..................................................... 1,285 2,476 1,642
+-------- ------- -------
+(7,017) (4,037) 5,313
+-------- ------- -------
+Deferred tax expense (benefit):
+Federal................................................... (4,448) 1,550 (10,006)
+State..................................................... (46) (444) 95
+-------- ------- -------
+(4,494) 1,106 (9,911)
+-------- ------- -------
+Total....................................................... $(11,511) $(2,931) $(4,598)
+-------- ------- -------
+-------- ------- -------
+
+</TABLE>
+
+The deferred tax provisions (benefit) consisted of the following:
+
+<TABLE>
+<CAPTION>
+YEAR ENDED DECEMBER 31,
+-------------------------------
+1993 1992 1991
+-------- ------- --------
+(IN THOUSANDS)
+<S> <C> <C> <C>
+Provision for loan losses for tax purposes less than book
+provision................................................... $(5,250) $ (9) $(5,993)
+Investment tax credit......................................... (2,602) 
+Net operating losses.......................................... (1,700) 
+Tax deductions associated with leverage leases deferred for
+book........................................................ (1,316) (65) 3,359
+Alternative minimum tax credit................................ (1,284) (1,741)
+Book writedowns or OREO, not deductible for tax............... (507) (460) (1,943)
+Depreciation for books in excess of tax....................... (185) (506) (283)
+Deferred compensation benefits (expenses) not recognized for
+tax......................................................... (115) 518 (58)
+Loss on adjustment of loan basis to market value for tax...... 7,390
+Nondeductible accruals........................................ 782 (761) (270)
+Security recoveries (writedowns) recognized for book, not for
+tax......................................................... 354 2,000 (2,172)
+Gains (losses) relating to securitization program recognized
+for book not for tax........................................ 300 (364)
+Other losses (gains) deferred for book, not for tax........... 162 (716)
+Other, net.................................................... (61) (73) 270
+------- ------ -------
+$(4,494) $1,106 $(9,911)
+------- ------ -------
+------- ------ -------
+</TABLE>
+
+At December 31, 1993 and 1992, cumulative deferred income tax benefits
+amounting to $10,911,000 and $6,177,000 were included in the balance sheet as
+other assets. Additionally, at December 31, 1993 and December 31, 1992 there
+were tax refund receivables of $9,549,000 and $7,400,000, respectively, included
+in other assets.
+
+18
+<PAGE> 19
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+The components of the net deferred tax asset at December 31, 1993 were as
+follows:
+
+<TABLE>
+<S> <C>
+Book provision for loan losses in excess of tax......................... $26,253
+Alternative minimum tax credit.......................................... 6,239
+Investment tax credits.................................................. 3,809
+Book writedowns on foreclosed real estate, not deducted for tax......... 3,009
+Net operating losses.................................................... 1,700
+Deferred compensation benefits not deducted for tax..................... 1,187
+Tax deductions on leveraged leases deferred for book.................... (19,185)
+Loan mark to market adjustment for tax.................................. (7,390)
+Securities mark to market adjustment deferred for tax................... (2,832)
+Tax basis in core deposits less than book............................... (1,115)
+Pension expense deducted for tax not book............................... (1,043)
+Cumulative tax depreciation in excess of book........................... (781)
+Tax basis in partnership investment less than book...................... (597)
+Valuation allowance (state)............................................. (538)
+Other................................................................... 2,195
+-------
+Total deferred tax asset........................................... $10,911
+-------
+-------
+</TABLE>
+
+The provisions for income taxes differ from the amounts computed by
+applying the U.S. statutory Federal tax rate of 35% in 1993 and 34% in prior
+years to income (loss) before income taxes, principally due to:
+
+<TABLE>
+<CAPTION>
+YEAR ENDED DECEMBER 31,
+--------------------------------
+1993 1992 1991
+-------- -------- --------
+<S> <C> <C> <C>
+(IN THOUSANDS)
+Tax benefit at statutory rate............................... $(11,326) $(2,601) $(4,265)
+Increases (reductions) from:
+Tax-exempt income on investment securities and loans...... (832) (1,082) (1,273)
+State income taxes, net of Federal income tax benefit..... 818 1,340 1,147
+Low income housing credits................................ (862) (750) (252)
+Other, net................................................ 691 162 45
+-------- ------- -------
+Tax benefit recorded........................................ $(11,511) $(2,931) $(4,598) 
+-------- ------- -------
+-------- ------- -------
+
+</TABLE>
+
+(13) CAPITAL AND REGULATORY AGREEMENTS
+
+On June 2, 1993 the Company sold 500,000 shares of its unregistered common
+stock in a private placement for a cash price of $3,750,000. Substantially all
+of the net proceeds of that placement were used to repay principal on the
+Company's long-term debt. On August 12, 1993, the Company sold 2.87 million
+shares of its common stock in a European offering. These shares were placed with
+more than sixty institutional investors and the offering was made under
+Regulation S of the United States Securities and Exchange Commission. Net
+proceeds of this placement were approximately $21 million after expenses.
+
+The Company and its banking subsidiaries' ability to pay dividends is
+subject to certain limitations imposed by statutes of the Commonwealth of
+Massachusetts and the State of Connecticut, and limitations imposed by bank and
+bank holding company regulators. Massachusetts statutes restrict the amount of
+dividends payable by banks to be the balance of their undivided profits, net of
+any amount transferred to capital in excess of par value. In the case of
+Connecticut law, the limit is undivided profits plus reserve for loan losses. In
+any event, it is not likely that bank and bank holding company regulators would
+allow an institution to dividend any amounts which would reduce that
+institution's capital to below the minimum capital requirement in effect at that
+time.
+
+The Company and its two Massachusetts-based banking subsidiaries, United
+States Trust Company ("USTC") and USTrust, have signed written agreements with
+the FRB, FDIC and the Banking Commis-
+
+19
+<PAGE> 20
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+sioner of the Commonwealth of Massachusetts ("Massachusetts Commissioner"). In
+accordance with the agreements the Company has agreed not to pay any dividends
+to stockholders, nor take any dividends from its banking subsidiaries, without
+prior regulatory approval. Similarly, the banking subsidiaries have agreed to
+refrain from transferring funds in the form of dividends to the Company without
+prior regulatory approval. In 1993, the Company and USTC received approval from
+the appropriate regulators such that USTC was allowed to transfer $5,250,000 in
+dividends to the Company. These proceeds were then contributed as equity to
+USTrust and the Company's Connecticut banking subsidiary, UST Bank/Connecticut
+("UST/Conn"). The banks also agreed to, among other matters, maintain a Tier 1
+leverage capital ratio at or in excess of 6% beginning in February 1993. Tier 1
+leverage capital ratio is defined by the Company's Federal regulators to be
+essentially stockholders' equity, less intangible assets, divided by total
+average assets, less intangible assets. In February 1994, the FDIC and the
+Massachusetts Commissioner terminated and lifted the Consent Agreement and Order
+with USTC. Despite the termination of its Regulatory Agreement, USTC has agreed
+to continue to request regulatory consent prior to the payment of dividends.
+
+UST/Conn is under a Stipulation and Agreement with the Banking Commissioner
+of the State of Connecticut. In accordance with the agreement, the bank, among
+other matters, must maintain a Tier 1 leverage capital ratio of 6%. Based on
+average total assets, at December 31, 1993, the Tier 1 leverage capital ratio
+was 23.75% for United States Trust Company, 6.49% for USTrust, and 6.21% for UST
+Bank/Connecticut.
+
+Additionally, the Company agreed to maintain its capital at levels
+consistent with the FRB's Capital Adequacy Guidelines. At December 31, 1993,
+based on period-end assets the Company's consolidated Tier 1 leverage capital
+ratio was 6.96% compared with 6.21% at December 31, 1992. Based on average total
+assets, this ratio was 7.06% at December 31, 1993.
+
+(14) RELATED PARTY TRANSACTIONS
+
+In the ordinary course of business, the Company's banking subsidiaries have
+granted loans to certain of the Company's directors and executive officers. All
+such transactions are made on substantially the same terms as those prevailing
+at the same time for individuals not affiliated with the Company and its
+subsidiaries and do not involve more than the normal risk of collectibility. At
+December 31, 1993, none of these transactions were on nonaccrual status, nor did
+they involve delinquent or restructured loans. However, at December 31, 1993
+loans to a Director of the Company or to his affiliated companies in the amount
+of approximately $25 million were characterized as Substandard, in the Company's
+internal risk rating profile. Under the Company's definition, Substandard assets
+are characterized by the distinct possibility that some loss will be sustained
+if the credit deficiencies are not corrected. However, the Substandard
+classification does not imply ultimate loss for each individual asset so
+classified. Subsequent to December 31, 1993, $6.4 million of these loans were
+repaid. See Footnote 15 hereunder.
+
+An analysis of loans outstanding in excess of $60,000 to directors and
+officers related to the foregoing entities at december 31, 1993 is as follows:
+
+<TABLE>
+<CAPTION>
+($ IN THOUSANDS)
+<S> <C>
+Balance, December 31, 1992.............................. $ 62,284
+Additions............................................... 945
+Repayments.............................................. (12,796)
+Other reductions........................................ (5,936)
+--------
+Balance, December 31, 1993.............................. $ 44,497
+--------
+--------
+</TABLE>
+
+20
+<PAGE> 21
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+(15) COMMITMENTS AND CONTINGENCIES
+
+Lease commitments for certain premises expire at various dates through
+2012. At December 31, 1993, minimum rental commitments for noncancelable leases
+are as follows:
+
+<TABLE>
+<CAPTION>
+($ IN THOUSANDS)
+<S> <C>
+1994.................................................... $ 4,031
+1995.................................................... 3,955
+1996.................................................... 3,654
+1997.................................................... 3,520
+1998.................................................... 1,852
+thereafter.............................................. 2,976
+-------
+Total.............................................. $19,988
+-------
+-------
+</TABLE>
+
+Rent expense for the years ended December 1993, 1992 and 1991 was
+$3,932,074, $4,432,156 and $4,179,740, respectively.
+
+In the ordinary course of business, the Company and its subsidiaries become
+defendants in a variety of judicial and administrative proceedings. In the
+opinion of management there is no proceeding pending, or to the knowledge of
+management threatened, which in the event of an adverse decision, would be
+likely to result in a material adverse change in the financial condition or
+results of operations of the Company and its subsidiaries.
+
+POTENTIAL REGULATORY SANCTIONS
+
+Certain apparent and inadvertent violations of the insider lending
+provisions (and related lending limit provisions) of Regulation O of the FRB
+related to extensions of credit by USTrust to Director Francis X. Messina have
+led the FDIC to require that corrective action be taken and to advise USTrust
+orally that the FDIC may consider the imposition of civil money penalties with
+respect to such matters. No FDIC representative has suggested to USTrust or the
+Company that there was any willful or intentional misconduct on the part of
+USTrust, Director Messina or USTrust's other institution-affiliated parties in
+connection with these matters. See Note 14 to Consolidated Financial Statements.
+
+To address these issues, USTrust and Director Messina have undertaken a
+program to reduce the aggregate balance of Mr. Messina's outstanding loans from
+USTrust and to improve the collateral support for the remaining outstanding loan
+balance. The elements of this program have been communicated to and reviewed by
+the FDIC. In furtherance of the program since late 1993, the outstanding
+principal of the aggregate loans to Director Messina and his related interests
+has been reduced by more than $11 million from approximately $30 million to less
+than $19 million, and such loans are now below all applicable lending limits. To
+date, the Company has incurred no losses with respect to any of these loans,
+although they are characterized as "Substandard" in the Company's internal risk
+rating profile, and all such loans are current as to both principal and
+interest.
+
+There has been no further action taken by any bank regulatory agency to
+date. The FDIC has the authority to levy civil money penalties of various
+amounts for violations of law or regulations, orders and written conditions and
+agreements, which, depending upon the nature and severity of the violations, may
+be, in situations where conduct has been egregious, as high as $1 million per
+day for the period during which such violation continues. In connection with the
+apparent violations described above, the FDIC has the authority to impose
+penalties on any of USTrust, its Board of Directors, officers of the Bank,
+Director Messina personally, "institution-affiliated parties" of USTrust or any
+combination thereof.
+
+While it is not possible to predict with certainty the probability of
+penalties being assessed, the person or persons upon whom any penalty would be
+assessed or the amounts of any such penalties, were they to be assessed,
+management of the Company believes that it is unlikely that this matter will
+have a material adverse effect on its financial condition or results of
+operations. Consequently, no provision in respect of penalties has been made in
+the Company's Consolidated Financial Statements.
+
+21
+<PAGE> 22
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+(16) FINANCIAL INSTRUMENTS WITH ON-AND OFF-BALANCE-SHEET RISK
+
+The Company is party to financial instruments with off-balance-sheet risk
+in the normal course of business to meet the financing needs of its customers.
+These financial instruments include commitments to extent credit, standby
+letters of credit and financial guarantees. Those instruments involve, to
+varying degrees, credit risk in excess of the amount contained in the balance
+sheet. The contract or notional amounts of those instruments reflect the extent
+of involvement the Company has in particular classes of financial instruments.
+
+The Company's exposure to credit loss in the event of nonperformance by the
+other party to the financial instrument or commitments to extend credit and
+standby letters of credit and financial guarantees written is represented by the
+contractual notional amount of those instruments. The Company uses the same
+credit policies in making commitments and conditional obligations as it does for
+on-balance-sheet instruments.
+
+The Company generally requires collateral or other security to support
+financial instruments with credit risk.
+
+<TABLE>
+<CAPTION>
+CONTRACT OR NOTIONAL AMOUNT
+-------------------------------
+
+DECEMBER 31, DECEMBER 31, 
+1993 1992 
+-------------- ------------
+<S> <C> <C>
+(IN THOUSANDS)
+Financial instruments whose contract amount represents credit
+risk:
+Commitments to extend credit............................. $268,000 $258,000
+Standby letters of credit and financial guarantees
+written................................................ 63,000 71,000
+Commercial letters of credit............................. 3,000 5,000
+</TABLE>
+
+Commitments to extend credit are agreements to lend to a customer as long
+as there is no violation of any condition established in the contract during its
+term. Commitments generally have fixed expiration dates or other termination
+clauses and may require payment of a fee. Since many of the commitments are
+expected to expire without being fully drawn upon and, in fact, have a maturity
+of less than one year, the total commitment amounts do not necessarily represent
+future cash requirements. The Company evaluates each customer's credit
+worthiness on a case-by-case basis. Of the total commitments to extend credit,
+approximately $31 million and $33 million were secured by real estate at
+December 31, 1993 and 1992, respectively.
+
+The amount of collateral obtained is based on management's evaluation of
+the credit risk. Collateral held on commitments and loans varies but may include
+cash, accounts receivable, inventory, property, plant and equipment.
+
+Standby and commercial letters of credit and financial guarantees written
+are conditional commitments issued by the Company to guarantee the performance
+of, or payment by, a customer to a third party. Those guarantees are primarily
+issued to support private borrowing arrangements. The credit risk involved in
+issuing letters of credit is essentially the same as that involved in extending
+loan facilities to customers. The Company holds various collateral to support
+these commitments including (but not limited to) cash, accounts receivables,
+inventory, property plant and equipment. The extent of collateral held for those
+commitments varies from zero to one hundred percent. Of the total standby and
+commercial letters of credit, approximately $4 million and $13 million were
+secured by real estate at December 31, 1993 and 1992, respectively.
+
+The Company's primary loan market is the New England region. Most of the
+loans outstanding are from eastern Massachusetts and a substantial portion of
+these loans are various types of real estate loans; still others have real
+estate as additional collateral. Over 90% of the Company's outstanding
+commercial and real estate loans are collateralized.
+
+The Company's securities portfolio consists largely of mortgage-backed
+securities. These securities carry prepayment risk due to the fact that
+prevailing interest rates could continue to decline. Under such circumstances an
+unusually high percentage of homeowners may choose to refinance their first
+mortgages to take advantage of these lower rates with the result that, under the
+Company's accounting policy, adjustments
+
+22
+<PAGE> 23
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+reducing gross unamortized premiums would be required. See Note (1), Securities
+and Trading Account Policies.
+
+(17) PARENT COMPANY FINANCIAL INFORMATION
+
+Summarized information relative to the balance sheets at December 31, 1993
+and 1992 and statements of income and cash flows for the three years in the
+period ended December 31, 1993 of UST Corp. are presented as follows. All
+dividend income in the periods shown below are from banking subsidiaries:
+
+BALANCE SHEETS -- PARENT COMPANY ONLY
+
+<TABLE>
+<CAPTION>
+DECEMBER 31,
+-----------------------
+1993 1992
+-------- --------
+(IN THOUSANDS)
+<S> <C> <C>
+Assets:
+Investment in banking subsidiaries............................. $143,719 $159,305
+Investment in nonbanking subsidiaries.......................... 46 45
+Excess funds and other investments............................. 21,050
+Premises, furniture and equipment, net......................... 72 75
+Other assets................................................... 6,797 7,465
+-------- --------
+Total assets.............................................. $171,684 $166,890
+-------- --------
+-------- --------
+Liabilities and Stockholders' Investment:
+Borrowings..................................................... $ 12,786 $ 17,107
+Other liabilities.............................................. 6,079 5,903
+Stockholders' investment....................................... 152,819 143,880
+-------- --------
+Total liabilities and stockholders' investment............ $171,684 $166,890
+-------- --------
+-------- --------
+</TABLE>
+
+STATEMENTS OF INCOME -- PARENT COMPANY ONLY
+
+<TABLE>
+<CAPTION>
+YEAR ENDED DECEMBER 31,
+----------------------------------
+1993 1992 1991
+-------- ------- -------
+(IN THOUSANDS)
+<S> <C> <C> <C>
+Dividend income............................................ $ 5,250 $ 2,250
+Undistributed equity in net loss of subsidiaries........... (24,065) $(4,219) (9,880)
+Other income............................................... 292 902 857
+-------- ------- -------
+(18,523) (3,317) (6,773)
+Expenses................................................... 1,577 1,404 1,174
+-------- ------- -------
+Net loss......................................... $(20,100) $(4,721) $(7,947)
+-------- ------- -------
+-------- ------- -------
+</TABLE>
+
+23
+<PAGE> 24
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+STATEMENTS OF CASH FLOWS -- PARENT COMPANY ONLY
+
+<TABLE>
+<CAPTION>
+YEAR ENDED DECEMBER 31,
+--------------------------------
+1993 1992 1991
+-------- ------- -------
+(IN THOUSANDS)
+<S> <C> <C> <C>
+Cash flows from operating activities:
+Net loss................................................... $(20,100) $(4,721) $(7,947)
+Adjustments to reconcile net loss to net cash provided
+(used) by operating activities:
+Depreciation and amortization........................... 447 447 125
+Amortization of gain on sale............................ (488)
+Undistributed losses of affiliates...................... 24,065 4,219 9,880
+Gain on sale of securities.............................. (8) (581)
+(Increase) decrease in other assets..................... (338) 837 (2,309)
+Increase (decrease) in other liabilities................ 1,543 (2,122) 979
+-------- ------- -------
+Net cash provided (used) by operating activities...... 5,617 (1,348) (341)
+Cash flows provided (used) by investing activities:
+Sale of investment securities.............................. 26,700 4,791 1,349
+Purchase of investment securities.......................... (47,750) (4,700)
+Loans repaid by affiliates................................. 10,450 2,300
+Equity contributed to affiliates........................... (5,250) (6,261) (884)
+-------- ------- -------
+Net cash provided (used) by investing activities...... (26,300) 4,280 2,765
+Cash flows provided (used) by financing activities:
+Repayment of borrowings.................................... (4,000) (4,000)
+Proceeds from issuance of common stock, net................ 23,677 1,652 2,103
+Dividends paid............................................. (4,131)
+-------- ------- -------
+Net cash provided (used) by financing activities...... 19,677 (2,348) (2,028)
+Net increase (decrease) in cash and cash equivalents....... (1,006) 584 396
+Cash and cash equivalents beginning of year................ 3,275 2,691 2,295
+-------- ------- -------
+Cash and cash equivalents end of year...................... $ 2,269 $ 3,275 $ 2,691
+-------- ------- -------
+-------- ------- -------
+Supplemental disclosure of cash flow information:
+Cash paid during the year for:
+Interest................................................ $ 1,415 $ 1,753 $ 1,740
+-------- ------- -------
+-------- ------- -------
+Income taxes............................................ $ 180 $ 921
+------- -------
+------- -------
+</TABLE>
+
+Cash dividends paid to the Company in 1993 by bank subsidiaries totaled
+$5,250,000. There were no cash dividends paid to the Company in 1992. In 1991
+the amount was $2,250,000. No cash dividends were paid to the Company by other
+subsidiaries in these years.
+
+(18) FINANCIAL INSTRUMENTS
+
+In December 1991, the FASB issued SFAS No. 107, "Disclosures about Fair
+Value of Financial Instruments." SFAS No. 107 is effective for fiscal years
+ending after December 15, 1992. SFAS 107 requires disclosure of the fair market
+value of financial instruments, whether assets, liabilities or off-balance sheet
+commitments, if practicable. The following methods and assumptions were used to
+estimate the fair value of each class of financial instruments. Fair value
+estimates which were derived from discounted cash flows or broker quotes cannot
+be substantiated by comparison to independent markets and, in many cases, could
+not be realized in immediate settlement of the instrument.
+
+24
+<PAGE> 25
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+CASH AND DUE FROM BANKS, EXCESS FUNDS SOLD AND OTHER SHORT-TERM INVESTMENTS
+
+For these short-term instruments the carrying amount is a reasonable
+estimate of fair value.
+
+INVESTMENT PORTFOLIO AND SECURITIES HELD FOR SALE
+
+For marketable securities fair values are based on quoted market prices or
+dealer quotes. Nonmarketable investment securities are valued at cost.
+
+LOANS
+
+For certain homogenous categories of loans, such as residential mortgages
+and home equity loans, fair value is estimated based on broker quotes on sales
+of similar loans. The fair value of fixed rate loans was estimated by
+discounting anticipated future cash flows using current rates at which similar
+loans would be made to borrowers with similar credit ratings and for the same
+remaining maturities. The fair value of performing variable rate loans is the
+same as the book value at the reporting date because the loans reprice when the
+market changes.
+
+DEPOSIT LIABILITIES
+
+The fair value of noncertificate deposit accounts is the amount payable on
+demand at the reporting date. The fair value of fixed-maturity certificates of
+deposit is estimated by discounting the anticipated future cash payments using
+the rates currently offered for deposits of similar remaining maturities.
+
+SHORT-TERM BORROWINGS
+
+For these short-term instruments the carrying amount is a reasonable
+estimate of fair value.
+
+OTHER BORROWINGS
+
+The fair value of other borrowings were determined by discounting the
+anticipated future cash payments by using the rates currently available to the
+Company for debt with similar terms and remaining maturities.
+
+COMMITMENTS TO EXTEND CREDIT/SELL LOANS
+
+The great majority of commitments, standby letters of credit and commercial
+letters of credit are short term in nature and therefore have been valued at
+their carrying amount.
+
+VALUES NOT DETERMINED
+
+SFAS No. 107 excludes certain assets from its disclosure requirements
+including real estate included in banking premises and equipment, and the
+intangible value inherent in the Company's deposit relationships (i.e., core
+deposits). Accordingly, the aggregate fair value amounts presented below do not
+represent the underlying value of the Company.
+
+25
+<PAGE> 26
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+The carrying amount and estimated fair values of the Company's financial
+instruments at December 31, 1993 and 1992 are as follows:
+
+<TABLE>
+<CAPTION>
+1993 1992
+----------------------- -----------------------
+CARRYING FAIR CARRYING FAIR
+AMOUNT VALUE AMOUNT VALUE
+---------- ---------- ---------- ----------
+<S> <C> <C> <C> <C>
+(IN THOUSANDS)
+Financial instrument assets:
+Cash and due from banks................ $ 90,198 $ 90,198 $ 116,529 $ 116,529
+Securities............................. 473,909 473,909 476,765 483,910
+Excess funds sold to banks and other
+short-term investments............... 96,647 96,647 1,341 1,341
+Loans, net............................. 1,255,032 1,268,576 1,420,474 1,433,192
+Financial instrument liabilities:
+Deposits
+Demand............................ $ 373,793 $ 373,793 $ 422,056 $ 422,056
+Savings........................... 491,566 491,566 472,385 472,385
+Money market...................... 323,979 323,979 385,305 385,305
+Time.............................. 451,460 457,075 512,185 517,378
+Short-term borrowings............. 226,268 226,268 202,051 202,051
+Other borrowings.................. 14,286 15,362 18,607 19,359
+Unrecognized financial instruments:
+Commitments to extend credit........... $ 268,000 $ 268,000 $ 258,000 $ 258,000
+Standby letters of credit and financial
+guarantees written................... 63,000 63,000 71,000 71,000
+Commercial letters of credit........... 3,000 3,000 5,000 5,000
+</TABLE>
+
+(19) CONSOLIDATED SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+FOR YEAR ENDED DECEMBER 31, 1993 FOR YEAR ENDED DECEMBER 31, 1992
+---------------------------------------- ----------------------------------------
+FOURTH THIRD SECOND FIRST FOURTH THIRD SECOND FIRST
+QUARTER QUARTER QUARTER QUARTER QUARTER QUARTER QUARTER QUARTER
+------- ------- ------- ------- ------- ------- ------- -------
+<S> <C> <C> <C> <C> <C> <C> <C> <C>
+(IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+Interest income............ $34,013 $35,210 $35,410 $35,995 $35,836 $39,645 $41,172 $40,371
+Interest expense........... 10,862 11,725 12,229 13,128 13,887 16,051 18,568 20,464
+Net interest income........ 23,151 23,485 23,181 22,867 21,949 23,594 22,604 19,907
+Provision for loan
+losses................... 3,175 8,050 42,650 10,383 13,450 14,722 5,695 8,026
+Net interest income (loss)
+after provision for loan
+losses................... 19,976 15,435 (19,469) 12,484 8,499 8,872 16,909 11,881
+Noninterest income......... 7,247 8,078 8,857 12,541 7,894 18,076 8,334 8,055
+Noninterest expense........ 25,149 20,656 27,887 23,818 26,749 25,405 24,476 19,542
+Income tax expense 
+(benefit)................ 540 834 (13,567) (68) (4,231) 1,166 248 (114)
+Net income (loss).......... 1,534 2,023 (24,932) 1,275 (6,125) 377 519 508
+Earnings (loss) per
+share.................... $ .09 $ .12 $(1.76) $ .09 $ (.44) $ .03 $ .04 $ .04
+</TABLE>
+
+As shown above, the Company recorded high provisions for loan losses in the
+second quarter of 1993 and third and fourth quarters of 1992. Provisions for
+loan loss are recorded as necessary in order to maintain an adequate reserve for
+loan loss based upon the Company's methodology for quantifying the risk inherent
+in the loan portfolio.
+
+Toward the end of the second quarter of 1993, management changed its
+strategy regarding troubled credit situations. While the change would result in
+the handling of these situations in an expeditious manner, it was recognized
+that the up-front costs of these workouts would increase. As a result, the
+reserve for loan losses was increased by $19.8 million during the second
+quarter. To achieve the higher reserve level, the Company
+
+26
+<PAGE> 27
+
+UST CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+recorded a $42.7 million provision for loan losses in the second quarter.
+Included in that amount was a special provision of $30 million. This special
+provision was management's estimate of the additional losses to be incurred from
+the strategic change referred to above and the continued sluggish economic
+climate and losses occurring during the remainder of 1993 on these and other
+credits.
+
+An increase in nonaccruals in the third quarter of 1992 was a major factor
+in the increased provisions for the last two quarters of 1992. In the third
+quarter of 1992, the Company achieved gains on sale of securities of $10.8
+million, which was a significant factor in the results for that quarter.
+Noninterest income decreased after the first quarter of 1993 due primarily to a
+decrease in gains on sale of securities. Noninterest expense increased or
+decreased over the quarters presented due primarily to increases or decreases in
+the writedowns to fair value of foreclosed real estate properties.
+
+27
+<PAGE> 28
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+UST CORP.
+
+/S/ WILLIAM C. BROOKS
+SENIOR VICE PRESIDENT AND TREASURER
+(PRINCIPAL FINANCIAL OFFICER AND
+PRINCIPAL ACCOUNTING OFFICER)
+Date: March 18, 1994
+
+28
+<PAGE> 29
+
+CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+As independent public accountants, we hereby consent to the incorporation
+by reference in this Form 8-K/A of our report dated January 31, 1994 included in
+Registration Statement File No. 0-9623. It should be noted that we have not
+audited any financial statements of the company subsequent to December 31, 1993
+or performed any audit procedures subsequent to the date of our report.
+
+Arthur Andersen & Co.
+Boston, Massachusetts
+March 16, 1994
+
+29
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

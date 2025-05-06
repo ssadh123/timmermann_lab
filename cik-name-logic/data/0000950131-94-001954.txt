@@ -1,0 +1,283 @@
+<IMS-DOCUMENT>0000950131-94-001954.txt : 19941221
+<IMS-HEADER>0000950131-94-001954.hdr.sgml : 19941221
+ACCESSION NUMBER:		0000950131-94-001954
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19941215
+ITEM INFORMATION:		Other events
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		19941220
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREEN TREE FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000890175
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				411263905
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08916
+		FILM NUMBER:		94565464
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1100 LANDMARK TOWERS
+		STREET 2:		345 ST PETER ST
+		CITY:			SAINT PAUL
+		STATE:			MN
+		ZIP:			55102-1639
+		BUSINESS PHONE:		6122933400
+
+	MAIL ADDRESS:	
+		STREET 1:		1100 LANDMARK TOWERS
+		STREET 2:		345 ST PETER ST
+		CITY:			SAINT PAUL
+		STATE:			MN
+		ZIP:			55102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GREEN TREE ACCEPTANCE INC
+		DATE OF NAME CHANGE:	19600201
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<PAGE>
+
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+_________________________
+
+FORM 8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): DECEMBER 15, 1994
+
+GREEN TREE SECURITIZED NET INTEREST MARGIN TRUST 1994-B
+-------------------------------------------------------
+(Exact name of registrant as specified in its charter)
+
+MINNESOTA 33-53527 APPLIED FOR
+- ----------------------------------------------------------------------------
+(State or other jurisdiction (Commission (IRS employer
+of incorporation) file numbers) identification no.)
+
+1100 LANDMARK TOWERS, 345 ST. PETER STREET, SAINT PAUL, MINNESOTA 55102-1639
+- -----------------------------------------------------------------------------
+(Address of principal executive offices) (Zip code)
+
+Registrant's telephone number, including area code: (612) 293-3400
+--------------
+
+NOT APPLICABLE
+--------------------------------------------------------------------------
+(Former name or former address, if changed since last report.)
+
+1
+<PAGE>
+
+ITEM 5. OTHER EVENTS.
+------------ 
+
+Pursuant to the Pooling and Servicing Agreement between Green Tree
+Financial Corporation (the "Servicer") and First Bank National
+Association (the "Trustee"), on December 15, 1994, the Trustee
+made distributions to the holders of the certificates representing
+interests in the Trust (the "Certificateholders") and delivered to
+the Certificateholders the Monthly Report required by Section 1.01
+of the Servicing Agreement attached hereto as Exhibit 99.1.
+
+ITEM 7. FINANCIAL STATEMENTS AND EXHIBITS
+---------------------------------
+
+(c) Exhibits.
+
+The following is filed herewith. The exhibit number 
+corresponds with Item 601(b) of Regulation S-K.
+
+Exhibit No. Description
+----------- -----------
+
+99.1 Monthly Report delivered to
+Certificateholders on December 15,
+1994.
+
+2
+<PAGE>
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this Report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Dated: December 15, 1994
+
+SECURITIZED NET INTEREST MARGIN
+TRUST 1994-B
+
+By GREEN TREE FINANCIAL CORPORATION
+as Servicer with respect to the Trust
+
+By: /s/Robley D. Evans
+----------------------------------
+ROBLEY D. EVANS
+Vice President and Controller
+
+3
+<PAGE>
+
+INDEX TO EXHIBITS
+
+EXHIBIT
+NUMBER PAGE
+------ ----
+
+99.1 Monthly Report delivered to Certificateholders 5
+on December 15, 1994.
+
+4
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<DESCRIPTION>MONTHLY REPORT
+<TEXT>
+<PAGE>
+
+GREEN TREE FINANCIAL CORP.
+NET INTEREST MARGIN TRUST 1994-B
+NOVEMBER 1994
+PAYMENT DECEMBER 15, 1994
+7.85% SECURITIZED NET INTEREST MARGIN CERTIFICATES
+
+<TABLE>
+<CAPTION>
+CUSIP# 393534AB8
+Trust Account # 33-31958-0
+Distribution Date: December 15, 1994 
+
+SECURITIZED NET INTEREST MARGIN PER $1,000
+CERTIFICATES ORIGINAL
+- ------------------------------- ----------
+<S> <C> <C> 
+1. Amount Available 2,458,835.78 
+
+Interest
+
+2. Aggregate Interest 543,792.30 5.885198
+
+3. Amount Applied to:
+(a) accrued but unpaid Interest
+
+4. Remaining:
+(a) accrued but unpaid Interest
+
+5. Monthly Interest 543,792.30
+
+Principal
+
+6. Current month's principal
+distribution 1,915,043.48 20.7255788
+
+7. Remaining outstanding principal
+balance 81,212,441.16 878.922523
+Pool Factor .87892252
+
+8. Present value of the projected
+remaining aggregate cashflows of
+the Finance I Assets and the
+Residual Assets, as of the immediately
+preceding Distribution Date 115,180,467.00
+
+9. Aggregate principal balance of
+loans refinanced by Green Tree
+Financial Corp. 0.00
+
+11. Weighted average CPR 4.06%
+
+12. Weighted average CDR 0.51%
+
+13. Annualized net loss percentage 0.20%
+
+14. Delinquency 30-59 day 0.67%
+60-89 day 0.19% 
+90+ day 0.18%
+Total 30+ 1.04%
+</TABLE> 
+
+<PAGE>
+
+GREEN TREE FINANCIAL CORP.
+NET INTEREST MARGIN TRUST
+NOVEMBER 1994
+PAYMENT DECEMBER 15, 1994
+
+<TABLE>
+<CAPTION>
+Fee Assets 
+-------------------------------------------
+<S> <C> <C> 
+Guarantee Inside Fee Asset
+Fees Refi Total
+---------- ---------- ----------
+GTFC 1994-1 906,309.56 906,309.56
+GTFC 1994-3
+GTFC 1994-4 ---------- ---------- ----------
+906,309.56 .00 906,309.56
+
+Total amount of Guarantee Fees and Inside
+Refinance Payments 906,309.56
+
+Payment on Finance 1 Note 906,309.56
+
+Allocable to Interest (current) 199,417.34
+
+Allocable to accrued but unpaid Interest
+
+Accrued and unpaid Trustee Fees
+
+Allocable to Principal 706,892.22
+
+Finance 1 Note Principal Balance 29,777,287.54
+</TABLE>
+
+<PAGE>
+
+GREEN TREE FINANCIAL CORP.
+NET INTEREST MARGIN TRUST
+NOVEMBER 1994
+PAYMENT DECEMBER 15, 1994
+<TABLE>
+<CAPTION>
+
+Inside
+Residual Refi Total
+------------ ------------ ------------
+<S> <C> <C> <C>
+Interest earnings 2,836.25 2,836.25
+GTFC 1994-1 .00 .00 .00
+GTFC 1994-2 541,565.71 .00 541,565.71
+GTFC 1994-3 375,135.70 .00 375,135.70
+GTFC 1994-4 632,988.56 .0 632,988.56
+------------ ------------ ------------
+
+1,552,526.22 .00 1,552,526.22
+
+Total Residual and Insige
+Refinance Payments 1,552,526.22
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

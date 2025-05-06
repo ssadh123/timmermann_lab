@@ -1,0 +1,103 @@
+<IMS-DOCUMENT>0000097476-94-000002.txt : 19940114
+<IMS-HEADER>0000097476-94-000002.hdr.sgml : 19940114
+ACCESSION NUMBER:		0000097476-94-000002
+CONFORMED SUBMISSION TYPE:	8-K/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19931213
+ITEM INFORMATION:		5
+FILED AS OF DATE:		19940110
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TEXAS INSTRUMENTS INC
+		CENTRAL INDEX KEY:			0000097476
+		STANDARD INDUSTRIAL CLASSIFICATION:	3600
+		IRS NUMBER:				750289970
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K/A
+		SEC ACT:		34
+		SEC FILE NUMBER:	001-03761
+		FILM NUMBER:		94500824
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13500 N CENTRAL EXPWY
+		STREET 2:		P O BOX 655474
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75265
+		BUSINESS PHONE:		2149952551
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K/A
+<SEQUENCE>1
+<DESCRIPTION>TEST 8-K/A FILING 12/93
+<TEXT>
+<PAGE>
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D. C.
+
+20549
+
+------------
+
+FORM 8-K/A
+
+AMENDMENT NO. 1 TO FORM 8-K FILED ON DECEMBER 15, 1993
+------------
+
+CURRENT REPORT PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported) December 13, 1993
+- ------------------------------------------------------------------
+
+TEXAS INSTRUMENTS INCORPORATED
+-----------------------------------------------------
+(Exact name of Registrant as specified in its charter)
+
+Delaware 1-3761
+------------------------ ---------------------
+(State of Incorporation) (Commission File No.)
+
+75-0289970
+-----------------------------------
+(I.R.S. Employer Identification No.)
+
+13500 North Central Expressway
+P. O. Box 655474, Dallas, Texas 75265
+-------------------------------------------------
+(Address of principal executive offices)(Zip Code)
+
+Registrant's telephone number, including area code 214-995-2551
+---------------------------------------------------------------
+
+<PAGE>
+The purpose of this amendment is to correct the title of Richard J. 
+Agnich, the officer signing the Registrant's Form 8-K filed on 
+December 15, 1993. The correct title of Richard J. Agnich is: 
+Senior Vice President,
+Secretary and
+General Counsel.>
+
+SIGNATURES
+----------
+
+Pursuant to the requirements of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be
+signed on its behalf by the undersigned thereunto duly authorized. 
+
+TEXAS INSTRUMENTS INCORPORATED
+By RICHARD J. AGNICH
+Senior Vice President, Secretary
+and General Counsel
+
+Date: January 7, 1994
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

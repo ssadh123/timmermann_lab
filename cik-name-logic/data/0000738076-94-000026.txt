@@ -1,0 +1,3128 @@
+<IMS-DOCUMENT>0000738076-94-000026.txt : 19941108
+<IMS-HEADER>0000738076-94-000026.hdr.sgml : 19941108
+ACCESSION NUMBER:		0000738076-94-000026
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19941018
+ITEM INFORMATION:		Acquisition or disposition of assets
+FILED AS OF DATE:		19941102
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			3COM CORP
+		CENTRAL INDEX KEY:			0000738076
+		STANDARD INDUSTRIAL CLASSIFICATION:	3577
+		IRS NUMBER:				942605794
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12867
+		FILM NUMBER:		94557188
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5400 BAYFRONT PLZ
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087645000
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<TEXT>
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported): October 18, 1994
+
+3COM CORPORATION
+(Exact name of registrant as specified in its charter)
+
+California 0-12867 94-2605794
+(State or other jurisdiction of (Commission File Number) (I.R.S. Employer)
+incorporation or organization) Identification No.)
+
+5400 Bayfront Plaza 95052
+Santa Clara, California
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code: (408) 764-5000
+
+Item 2. Acquisition or Disposition of Assets
+
+(a) On October 18, 1994, pursuant to an Asset Purchase
+Agreement dated September 18, 1994 (the "Agreement") among 3Com
+Corporation (the "Company"), NiceCom, Ltd., an Israeli corporation
+("NiceCom"), Nice Systems, Ltd., an Israeli corporation and the parent
+company of NiceCom ("Nice Systems"), Nice Software, Ltd., an Israeli
+corporation affiliated with Nice Systems, and Nachman Shelef and Avinoam
+Rubinstein, as such Agreement was amended on October 17, 1994, the Company
+and 3Com Israel, Ltd., an Israeli corporation and wholly-owned subsidiary
+of the Company ("Sub"), purchased substantially all the assets and assumed
+substantially all the liabilities of NiceCom (the "Acquisition"). The
+negotiated value for the purchase of the assets and liabilities of NiceCom
+was approximately $53.0 million. Such $53.0 million amount was paid using
+funds from the Company's working capital and the issuance of 93,162 shares
+of Common Stock of the Company, with an aggregate value of approximately
+$3.5 million that was issued to Messrs. Shelef and Rubinstein. Under the
+terms of the Agreement, a portion of such cash and stock was deposited into
+an escrow account as security for the indemnification of the Company by
+NiceCom for breaches of the representations, warranties and covenants of
+NiceCom set forth in the Agreement. Except with respect to breaches of
+certain representations and warranties, such account is the sole and
+exclusive source of any claim or remedy by the Company against NiceCom or
+its stockholders in connection with the Acquisition. Subject to reduction
+based on outstanding or resolved claims, the cash and stock in such account
+will be distributed to NiceCom and Messrs. Shelef and Rubinstein in the
+future. In addition to the purchase price for the assets, 3Com assumed
+all outstanding options held by NiceCom employees with an aggregate value
+of approximately $5.5 million.
+
+Prior to the Acquisition, no material relationship existed between
+the Company and NiceCom or any of its affiliates, any director or officer
+of the Company, or any associate of any such director or officer.
+
+NiceCom is engaged in the business of developing, manufacturing,
+marketing and servicing computer networking equipment. The Company intends
+to continue developing and integrating the NiceCom product technology
+into the Company's business.
+
+Item 7. Financial Statements, Pro Forma Financial Information
+and Exhibits.
+
+(a) It is currently impracticable to provide audited
+financial statements of NiceCom for the year ended
+December 31, 1993. The Company intends to file the
+required financial statements on or before January 2,
+1995.
+
+(b) It is currently impracticable to provide any pro forma
+financial information of NiceCom that would be required
+pursuant to Article 11 of Regulation S-X. The Company
+intends to file all required pro forma financial
+information on or before January 2, 1995.
+
+(c) The following exhibits are attached hereto and filed
+herewith:
+
+7.1* Asset Purchase Agreement dated September 18, 1994
+among 3Com Corporation, NiceCom, Ltd., Nice
+Systems, Ltd., Nice Software, Ltd., and Nachman
+Shelef and Avinoam Rubinstein.
+
+7.2 First Amendment to Asset Purchase Agreement dated
+October 17, 1994 between 3Com Corporation and
+NiceCom, Ltd.
+
+* Confidential treatment has been requested as to a
+portion of this Exhibit.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the 
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+3COM CORPORATION
+
+November 1, 1994 By: \s\ Christopher B. Paisley
+_______________________________
+
+Christopher B. Paisley
+Chief Financial Officer
+
+INDEX TO EXHIBITS
+
+Exhibit Document 
+
+7.1* Asset Purchase Agreement dated
+September 18, 1994 among 3Com Corporation,
+NiceCom, Ltd., Nice Systems, Ltd., Nice Software, Ltd.,
+and Nachman Shelef and Avinoam Rubinstein
+
+7.2 First Amendment to Asset Purchase Agreement
+dated October 17, 1994 between 3Com Corporation
+and NiceCom, Ltd.
+
+* Confidential treatment has been requested as to a portion of this Exhibit.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-7
+<SEQUENCE>2
+<TEXT>
+ASSET PURCHASE AGREEMENT
+
+DATED AS OF SEPTEMBER 18, 1994
+
+BY AND AMONG 
+
+NICECOM, LTD., AS SELLER,
+
+3COM CORPORATION, AS PURCHASER,
+
+NICE SYSTEMS, LTD., NICE SOFTWARE, LTD.
+
+AND NACHMAN SHELEF AND AVINOAM RUBINSTEIN
+
+TABLE OF CONTENTS
+
+ARTICLE I - Purchase and Sale; Purchase Price, Manner of Payment and Closing
+1.1 Purchase and Sale
+1.2 Purchase Price
+1.3 Cash Consideration and Stock Consideration
+1.4 Issuance of Restricted Shares
+1.5 Manner of Payment of the Purchase Price
+1.6 Time and Place of Closing
+
+ARTICLE II - Purchase and Sale of Assets
+2.1 Agreement to Purchase and Sell
+2.2 Enumeration of the Purchased Assets
+2.3 Excluded Assets
+2.4 Sale of the Purchased Assets to Purchaser and
+Certain of its Affiliates
+
+ARTICLE III - Assumption of Liabilities
+3.1 Agreement to Assume
+3.2 Definition of Assumed Liabilities
+3.3 Excluded Liabilities
+3.4 No Expansion of Third Party Rights
+
+ARTICLE IV - Representations and Warranties
+4.1 General Statement
+4.2 Purchaser's Representations and Warranties
+4.3 Seller's Representations and Warranties
+4.4 Nice Systems' Representations and Warranties
+
+ARTICLE V - Conduct Prior to the Closing
+5.1 General
+5.2 Seller's Obligations
+5.3 Purchaser's Rights and Obligations
+5.4 Joint Obligations
+5.5 Key Shareholders' Obligations
+
+ARTICLE VI - Conditions to Closing
+6.1 Conditions to Seller's Obligations
+6.2 Conditions to Purchaser's and Sub's Obligations
+
+ARTICLE VII - Closing
+7.1 Form of Documents
+7.2 Purchaser's Deliveries
+7.3 Seller's Deliveries
+
+ARTICLE VIII - Post-Closing Agreements
+8.1 Post-Closing Agreements
+8.2 Inspection of Records
+8.3 Benefits of Nonassignable Rights
+8.4 Fibronics Agreement
+8.5 Use of Trade Secrets
+8.6 Use of Trademarks
+8.7 Payments of Accounts Receivable
+8.8 Third Party Claims
+8.9 Further Assurances
+8.10 Non-Assignment
+
+ARTICLE IX - Indemnification
+9.1 General
+9.2 Seller's Indemnification Covenants
+9.3 Escrow Fund
+9.4 Limitations on Seller's Indemnification
+Obligations
+9.5 Purchaser's Indemnification Covenants
+9.6 Limitations on Purchaser's Indemnification
+Obligations
+9.7 Third Party Claims
+
+ARTICLE X - Effect of Termination/Proceeding
+10.1 General
+10.2 Right to Terminate
+10.3 Certain Effects of Termination
+10.4 Remedies
+10.5 Right to Damages
+
+ARTICLE XI - Miscellaneous
+11.1 Investment Banking Fee
+11.2 Expenses
+11.3 Sales and Transfer Taxes
+11.4 Definition of Best Efforts and Seller's
+Knowledge
+11.5 Publicity
+11.6 Notices
+11.7 Entire Agreement
+11.8 Non-Waiver
+11.9 Counterparts
+11.10 Severability
+11.11 Applicable Law; Jurisdiction and Venue
+11.12 Binding Effect; Benefit
+11.13 Assignability
+11.14 Amendments
+11.15 Headings
+11.16 Governmental Reporting
+11.17 Waiver of Trial by Jury
+
+TABLE OF EXHIBITS
+
+Exhibit 2.2(b) -List of Excluded Equipment
+Exhibit 2.2(g)-List of Excluded Supply Agreements
+Exhibit 2.2(h)-List of Excluded License Agreements
+Exhibit 2.3(c)-List of Excluded Assets
+
+DEFINED TERMS
+
+Defined Term Section Where Defined
+
+Accounts Receivable 2.2(d)
+Acquisition Recital B
+Affiliate 2.1
+Aggregate Consideration 1.2
+Agreement Preamble
+Ancillary Agreements 4.2(b)
+Assumed Liabilities 3.1
+Assumed Options 6.1(g)
+Business Recital A
+Cash Consideration 1.3
+Closing 1.6
+Closing Date 1.6
+Confidential Information 8.11
+Confidentiality Agreement 4.2(b)
+Disclosing Party 8.11
+Disclosure Schedule 4.1
+Employee 5.3(d)
+Environmental Law 4.3(y)
+Equipment 2.2(b)
+Escrow Agreement 1.5(b)
+Escrow Fund 1.5(b)
+Excluded Assets 2.1
+Excluded Liabilities 3.1
+Expiration Date 5.4(b)
+Financial Statements 4.3(h)
+Incentive Plan 5.3(e)
+Indemnified Party 9.7(a)
+Indemnifying Party 9.7(a)
+Key Employees 6.2(i)
+Key Employee Agreement 4.2(b)
+Key Shareholders Preamble
+Material Adverse Effect 4.3(c)
+Material Consents 6.2(h)
+Nice Systems Preamble
+OCS 5.4(c)
+Option Assumption Agreement 6.1(g)
+Pension Plans 4.3(t)
+Proprietary Rights 4.3(ab)
+Purchaser Indemnities 9.2
+Purchased Assets Recital B
+Purchaser Preamble
+Purchaser Closing Price 1.3
+Receiving Party 8.11
+Restricted Shares 1.3
+Restricted Stock Agreements 6.1(h)
+Rubinstein Preamble
+SEC Documents 4.2(g)
+Seller Preamble
+Seller Components 4.3(ad)
+Seller Indemnities 9.5
+Seller Intellectual Property Rights 2.2(i)
+Seller Option 6.1(g)
+Shelef Preamble
+Software Products 2.2(n)
+Stock Consideration 1.3
+Sub 1.1
+Subsidiary 2.2(r)
+Third Party Claim 9.7(a)
+Third Party Licenses 4.3(ab)
+Third Party Technology 4.3(ab)
+Value of the Stock Consideration 1.3
+Welfare Plans 4.3(t)
+
+ASSET PURCHASE AGREEMENT
+
+This ASSET PURCHASE AGREEMENT ("Agreement") is made as of
+September 18, 1994 by and among NICECOM, LTD., a company
+organized under the laws of Israel ("Seller"), 3COM CORPORATION,
+a California corporation ("Purchaser"), and for the purposes of
+Sections 4.4, 5.4(b), 5.5 and Article IX only, Nice Systems, Ltd.
+("Nice Systems"), Nice Software, Ltd., Nachman Shelef ("Shelef")
+and Avinoam Rubinstein ("Rubinstein") (Nice Systems, Nice
+Software and Messrs. Shelef and Rubinstein are sometimes
+collectively referred to herein as the "Key Shareholders"). 
+
+RECITALS
+
+A. Seller is engaged in, among other businesses, the
+business of designing, developing, manufacturing, distributing,
+marketing and selling a variety of ATM local area networking
+(LAN) products and applications. Such business is referred to
+herein as the "Business".
+
+B. Seller desires to sell substantially all of its assets
+of the Business (as further identified in Section 2.2(c) below)
+to Purchaser or to a Purchaser Affiliate (as herein defined), and
+such other of its assets relating primarily to the Business as
+are specifically identified in this Agreement, to Purchaser or to
+a Purchaser Affiliate. The assets of Seller to be sold hereunder
+are referred to herein as the "Purchased Assets." Purchaser
+desires to purchase, and to cause certain of its Affiliates to
+purchase, the Purchased Assets from Seller, all on the terms and
+subject to the conditions contained in this Agreement. Such
+purchase and sale of the Purchased Assets is sometimes referred
+to herein as the "Acquisition."
+
+C. In consideration of Purchaser's obligations hereunder,
+the Key Shareholders have agreed to vote in favor of the
+transactions contemplated by this Agreement.
+
+AGREEMENT
+
+NOW, THEREFORE, for good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, the
+parties agree as follows: 
+
+ARTICLE I
+
+Purchase and Sale; Purchase Price, Manner of Payment and Closing
+
+1.1 Purchase and Sale. Purchaser or a subsidiary of
+Purchaser ("Sub") shall purchase the Purchased Assets and assume
+the Assumed Liabilities (both as defined below) at the Closing in
+exchange for the Aggregate Consideration (as defined below).
+
+1.2 Purchase Price. In consideration of the sale,
+conveyance, assignment, transfer and delivery of the Purchased
+Assets, Purchaser shall (a) pay, or cause Sub to pay, to Seller,
+the Aggregate Consideration (as herein defined) and (b) assume,
+or cause Sub to assume, the Assumed Liabilities. As used herein,
+"Aggregate Consideration" means Fifty Three Million Thirty-Seven
+Thousand U.S. Dollars ($53,037,312) in value comprised of the
+Cash Consideration and the Stock Consideration determined as
+follows.
+
+1.3 Cash Consideration and Stock Consideration. "Cash
+Consideration" shall mean the cash consideration to be paid to
+Seller as consideration for the Purchased Assets, which shall be
+Fifty Three Million Thirty-Seven Thousand Three Hundred and
+Twelve U.S. Dollars ($53,037,312) minus the Value of the Stock
+Consideration. "Stock Consideration" shall mean the Purchaser
+Common Stock to be issued by Purchaser and delivered to Shelef
+and Rubinstein pursuant to Section 1.4 (the "Restricted Shares"). 
+The Stock Consideration shall be allocated as follows (where the
+dollar amounts are the value of Purchaser stock subject to such
+stock rights): an aggregate of $3,519,817 in Restricted Shares to
+Shelef and Rubinstein distributed in proportion to their
+respective stock held in Seller. The "Value of the Stock
+Consideration" shall be equal to the Purchaser Closing Price
+multiplied by the number of Restricted Shares. "Purchaser
+Closing Price" shall mean the average of the closing prices of a
+share of Purchaser's common stock on the ten (10) consecutive
+trading days up to and including the second trading day prior to
+the Closing Date. Seller shall be responsible for distributing
+the Stock Consideration to Shelef and Rubinstein in proportion to
+their equity interests in Seller. 
+
+1.4 Issuance of Restricted Shares. Purchaser shall issue
+for distribution to Shelef and Rubinstein an aggregate number of
+shares of Purchaser Common Stock equal to $3,519,817 divided by
+the Purchaser Closing Price. [ ] of
+the number of shares so issued shall be delivered to Seller for
+distribution to Shelef and Rubinstein at the Closing. [ 
+] of the number of shares so issued will be
+held in the Escrow Fund pursuant to the Escrow Agreement as set
+forth in Section 1.5(c). Such Restricted Shares shall be subject
+to the following restrictions: (a) such shares shall be issued
+pursuant to the terms and conditions of Purchaser's Restricted
+Stock Plan (or terms substantially similar thereto), and (b) such
+shares shall be subject to vesting over two years in equal annual
+increments (i.e., one-half of such shares shall vest on the first
+anniversary of the Closing Date and one-half shall vest on the
+second anniversary of the Closing Date), provided that Shelef and
+Rubinstein are employed by Purchaser on such anniversaries,
+provided further, that such shares shall vest if Shelef and
+Rubinstein are terminated for Purchaser's convenience and not for
+"cause" as such term is defined in the agreement regarding the
+Restricted Shares.
+
+1.5 Manner of Payment of the Purchase Price. The Purchase
+Price shall be payable as follows: 
+
+(a) At the Closing, (i) Purchaser shall deliver to
+Seller the Cash Consideration, less [ ] of
+the Cash Consideration to be delivered into escrow pursuant to 
+Section 1.5(b), by wire transfers or immediately available funds,
+(ii) Purchaser or Sub shall assume the Assumed Liabilities, and
+(iii) Purchaser shall issue the Restricted Shares as provided in
+Section 1.4 less [ ] of the Stock
+Consideration to be delivered into escrow pursuant to Section
+1.5(c). Said wire transfers shall be made to such bank accounts
+as Seller shall specify by written notice to Purchaser delivered
+at least five (5) business days before the Closing Date. For
+purposes of paying the Cash Consideration, all amounts paid to
+Seller shall be paid in U.S. dollars.
+
+(b) Subject to the applicable provisions of Israel's
+currency control regulations, the parties shall establish an
+escrow account maintained by a mutually agreeable escrow agent
+located in the United States into which Purchaser shall deposit
+on the Closing Date [ ] of the
+Cash Consideration pursuant to Section 1.5(a) (the "Escrow
+Fund"). The escrow deposits shall be made in accordance with a
+mutually agreed escrow agreement (the "Escrow Agreement").
+
+(c) Purchaser shall deposit on the Closing Date with
+the Escrow Agent under the Escrow Agreement [ ] of
+the Stock Consideration.
+
+1.6 Time and Place of Closing. Subject to the remaining
+provisions of this Section 1.6, the transactions contemplated by
+this Agreement shall be consummated (the "Closing") at 4:00 p.m.
+Israel time, at the offices of Seller on October 17, 1994 or on
+such later date that the conditions of Closing set forth in
+Sections 6.1 and 6.2 hereof are satisfied or waived, provided
+that neither party has exercised its right to terminate this
+Agreement under Section 10.2(b), or on such other date, or at
+such other place, as shall be mutually agreed upon by Seller and
+Purchaser. The date on which the Closing shall be scheduled to
+occur in accordance with the preceding sentence is referred to in
+this Agreement as the "Closing Date". If the Closing shall
+occur, it shall be deemed to be effective at 12:01 a.m. on the
+Closing Date at each place where the Purchased Assets are
+located.
+
+ARTICLE II
+
+Purchase and Sale of Assets
+
+2.1 Agreement to Purchase and Sell. On the terms and
+subject to the conditions contained in this Agreement, Purchaser
+agrees to purchase or to cause Sub to purchase, and Seller agrees
+to sell the Purchased Assets as of the Closing Date, wherever
+situated and located. Specifically excluded from the Purchased
+Assets are the items described in Section 2.3 hereof (the
+"Excluded Assets"). The word "conduct" as used herein in the
+phrase "conduct of the Business" means active or inactive
+conduct. As used herein, an "Affiliate" is any person or entity
+which controls a party to this Agreement, which that party
+controls, or which is under common control with that party. The
+word "control" means the power, direct or indirect, to direct or
+cause the direction of the management and policies of a person or
+entity through voting securities, through contract or otherwise. 
+
+2.2 Enumeration of the Purchased Assets. The Purchased
+Assets shall include all of the assets of Seller, including, but
+not limited to, the following, if any, but excluding the Excluded
+Assets:
+
+(a) all product-related inventory, wherever located,
+held for use primarily in the conduct of the Business, including,
+without limitation, raw materials, work in process, finished
+goods, service parts and supplies (including, without limitation,
+all supplies which have been expensed), and all claims and rights
+with respect thereto, including, without limitation, all rights
+against suppliers thereof under warranties; 
+
+(b) all furniture, fixtures, equipment, machinery,
+parts, tools, dies, jigs, patterns, molds, automobiles, trucks
+and other motor vehicles (including, without limitation, that
+which has been fully depreciated), all claims and rights with
+respect thereto, including, without limitation, all rights
+against suppliers thereof under warranties, and any leaseholds
+therein, except as enumerated in Exhibit 2.2(b) - List of
+Excluded Equipment (collectively, the "Equipment");
+
+(c) all leasehold interests and leasehold improvements
+created by those leases for Seller's Tel Aviv, Israel facilities;
+
+(d) all trade accounts receivable arising from the
+sale or lease of the products of the Business (collectively the
+"Accounts Receivable");
+
+(e) all cash, cash equivalents, securities, notes
+payable or other debts owed to Seller and deposits and rights
+with respect to the Purchased Assets, and all lock-box accounts
+which are used in the conduct of the Business, located in, or
+arising under the laws of (i) Israel; or (ii) the United States,
+as enumerated in the Disclosure Schedule (as defined below);
+
+(f) all licenses, permits and operating rights which
+relate primarily to the conduct of the Business in each case to
+the extent they are legally transferable by Seller;
+
+(g) all supply agreements, contract manufacturing
+agreements, service agreements, technical service agreements and
+other contracts to which Seller is a party, and all purchase
+orders, purchase contracts, quotations and bids, relating to the
+manufacture, acquisition, supply and servicing of the products of
+the Business, or of any parts, components or materials thereof,
+to the extent they are legally transferable by Seller, except as
+enumerated in Exhibit 2.2(g) - List of Excluded Supply
+Agreements;
+
+(h) all license agreements, distribution agreements,
+sales representative agreements, service agreements, supply
+agreements, franchise agreements and technical service
+agreements, and all rights under all sales orders and sales
+contracts, relating to the distribution, marketing and sale of
+the products of the Business, in each case to the extent they are
+legally transferable by Seller, and except as enumerated in
+Exhibit 2.2(h) - List of Excluded License Agreements;
+
+(i) all intellectual property rights, whether held by
+Seller as owner or as licensee, associated with the conduct of
+the Business, including, without limitation, patents and
+applications therefor, know-how, unpatented inventions, trade
+secrets, secret formulas, business and marketing plans, mask work
+rights, industrial property rights, copyrights, copyright
+registrations and applications therefor, trademarks and
+applications therefor, service mark registrations and
+applications therefor, unregistered trademarks and service marks,
+trade names and applications therefor, and all names and slogans
+used by Seller in the conduct of the Business, (all of the
+foregoing being referred to as "Seller Intellectual Property
+Rights");
+
+(j) originals of all tangible records of intellectual
+property and registrations thereof, customer lists, customer
+records and similar information relating to the ongoing conduct
+of the Business, including, without limitation, blueprints,
+drawings and other technical papers, accounts receivable and
+payable, inventory, maintenance, and asset records;
+
+(k) copies of all books and records relating primarily
+to the prior conduct of the Business, including, without
+limitation, tax returns, payroll, employee benefit, accounts
+receivable and payable, inventory, maintenance, and asset history
+records, ledgers, and books of original entry;
+
+(l) all rights in connection with prepaid expenses
+relating to the Purchased Assets;
+
+(m) management insurance policies or such other
+policies or funds as are in place for each employee who accepts
+employment from Purchaser as to whom such policy is maintained by
+Seller;
+
+(n) all proprietary software associated with the
+Business (the "Software Products");
+
+(o) all computer software and hardware used in the
+conduct of the Business including all documentation and source
+codes with respect to such software, to the extent they are
+legally transferable by Seller;
+
+(p) all sales and promotional materials, catalogues
+and advertising literature relating to the Business;
+
+(q) all rights of indemnification, claims or causes of
+action to the extent they arise out of or relate to the conduct
+of the Business whether before or after the Closing Date,
+including, without limitation, those against any person under any
+purchase or other agreement pursuant to which Seller or any of
+its Affiliates acquired any portion of the Business or those
+arising by operation of law or equity or otherwise to the extent
+such rights are transferable; and
+
+(r) the stock or other securities of NiceCom Inc., a
+Delaware corporation ("Subsidiary"), held by Seller, and
+Subsidiary's corporate charters, minutes and stock record books
+and corporate seals (or equivalent), it being agreed that the
+amount allocated to this asset is $10,000.
+
+2.3 Excluded Assets. All assets of the Seller that are not
+specified within Section 2.2, read together with the Exhibits
+referenced therein, are referred to herein as "Excluded Assets". 
+Excluded Assets include, but are not limited to, the following:
+
+(a) Seller's corporate charters, minute and stock
+record books and corporate seals (or equivalent);
+
+(b) that certain agreement dated November 2, 1993
+between Seller and ESL; and 
+
+(c) all assets identified as excluded from purchase
+under Exhibit 2.3(c) - List of Excluded Assets.
+
+2.4 Sale of the Purchased Assets to Purchaser and Certain
+of its Affiliates. The Purchased Assets shall be sold,
+transferred, assigned and conveyed by Seller to Purchaser and
+certain of its Affiliates pursuant to a Bill of Sale and such
+other documents as may be necessary to transfer title thereto.
+
+ARTICLE III
+
+Assumption of Liabilities
+
+3.1 Agreement to Assume. At the Closing, Purchaser shall
+assume and agree to discharge and perform when due, or shall
+cause Sub to assume and agree to discharge and perform when due,
+the liabilities and obligations of Seller and the Subsidiary with
+respect to the Business which are defined in Section 3.2 hereof
+(the "Assumed Liabilities"). All claims against and liabilities
+of Seller described in Section 3.3 hereof are collectively
+referred to herein as the "Excluded Liabilities". Purchaser and
+Sub shall not assume, and Seller and its Affiliates shall remain
+liable for, the Excluded Liabilities. 
+
+3.2 Definition of Assumed Liabilities. The Assumed
+Liabilities shall consist of all of the liabilities and
+obligations of Seller with respect to the Business or the
+Purchased Assets, including, but not limited to, the liabilities
+and obligations set forth in this Section 3.2, but shall not
+include the liabilities and obligations set forth in Section 3.3:
+
+(a) all accounts payable (but only to the extent
+reflected in the Financial Statements or as otherwise disclosed
+in the Disclosure Schedule) or incurred after June 30, 1994 in
+the ordinary course of business (as such terms are defined
+herein);
+
+(b) all accrued holiday (as distinguished from
+vacation) pay, vacation pay and severance amounts which are owed
+or contingently payable to employees or other representatives of
+the Business (but, in each case, only to the extent reflected in
+the Financial Statements or as otherwise disclosed in the
+Disclosure Schedule or accrued in the ordinary course of business
+after June 30, 1994, and only with respect to those employees who
+accept employment with Purchaser at the time of the Closing);
+
+(c) those liabilities and obligations arising after
+the Closing Date, whether or not reflected on the balance sheet
+contained in the Financial Statements (as herein defined) or
+Disclosure Schedule, under any written purchase order, sales
+order, lease, agreement or commitment of any kind to which Seller
+is bound on the Closing Date and under permits, licenses,
+governmental approvals, orders, directives and agreements
+provided, in each case, such items are assigned to Purchaser or
+Sub pursuant to this Agreement under Section 2.2;
+
+(d) product warranty liabilities and obligations
+relating to the replacement or repair of products of the Business
+shipped prior to the Closing Date, which Seller represents are
+not significant and are not in excess of industry standards for
+similar products.
+
+3.3 Excluded Liabilities. The Excluded Liabilities shall
+consist solely of the liabilities and obligations of Seller with
+respect to the Business or the Purchased Assets set forth in this
+Section 3.3: 
+
+(a) that certain agreement dated November 2, 1993
+between Seller and ESL. Purchaser or Sub shall grant Nice
+Systems a nonexclusive license to manufacture the products
+subject to the contract on commercially reasonable terms,
+including a royalty payable to Purchaser or Sub of approximately
+ten percent (10%) on products manufactured by or for Nice Systems
+from and after the Closing. Purchaser shall provide on a
+contract basis at its then current rates second-line support and
+software resources for bug fixes (but not for future enhancements
+of such products); and 
+
+(b) all legal, accounting, investment banking,
+broker's and finder's fees incurred by Seller and/or its
+shareholders with respect to the negotiation, execution and
+delivery of this Agreement and the consummation of the
+transactions contemplated hereby.
+
+3.4 No Expansion of Third Party Rights. The assumption by
+Purchaser or Sub of the Assumed Liabilities, and the transfer
+thereof by Seller, shall in no way expand the rights or remedies
+of any third party against Purchaser or Sub or Seller, as the
+case may be, as compared to the rights and remedies which such
+third party would have had against Seller had Purchaser not
+assumed or caused Sub to assume such liabilities.
+
+ARTICLE IV
+
+Representations and Warranties
+
+4.1 General Statement. The parties hereto make the
+representations and warranties to each other which are set forth
+in this Article IV. All such representations and warranties
+shall survive the Closing, and none shall merge into any
+instrument of conveyance. All representations and warranties of
+the Seller are made subject to the exceptions which are noted in
+the schedule delivered by the Seller to the Purchaser
+concurrently herewith and identified as the Disclosure Schedule
+(the "Disclosure Schedule"). 
+
+4.2 Purchaser's Representations and Warranties. Purchaser
+represents and warrants to Seller that, except as set forth in
+the Disclosure Schedule: 
+
+(a) Purchaser is a corporation duly organized, validly
+existing and in good standing under the laws of California. As
+of the Closing Date, Sub will be a corporation duly existing
+under the laws of its place of incorporation. 
+
+(b) Purchaser has full corporate power and authority
+to enter into and perform this Agreement, the Escrow Agreement,
+the Bill of Sale, that certain Mutual Nondisclosure Agreement
+dated June 30, 1994 by and between Seller and Purchaser (the
+"Confidentiality Agreement") and the key employee agreements to
+be entered into pursuant to Section 6.2(i) (the "Key Employee
+Agreements" and together with the Restricted Stock Agreements
+defined in Section 6.1(h), the Escrow Agreement, the
+Confidentiality Agreement and such other agreements
+contemporaneously entered herewith, the "Ancillary Agreements")
+and all other documents, agreements, certificates and instruments
+to be delivered by it pursuant to this Agreement or the Ancillary
+Agreements. As of the Closing Date, Sub will have the full power
+and authority under applicable corporate law and its
+organizational documents to enter into and perform the Agreement,
+Ancillary Agreements to which it is a party and all documents,
+agreements, certificates and instruments to be delivered by it
+pursuant to this Agreement or the Ancillary Agreements to which
+it is a party. This Agreement has been duly executed and
+delivered by a duly authorized officer of Purchaser. On the
+Closing Date, each of the Ancillary Agreements and all documents,
+agreements, certificates and instruments to be delivered by
+Purchaser or Sub pursuant to this Agreement or the Ancillary
+Agreements will be duly executed and delivered by a duly
+authorized officer of Purchaser or Sub, as the case may be. This
+Agreement is valid, binding and enforceable against Purchaser,
+and each of the Ancillary Agreements and documents, agreements,
+certificates and instruments to be delivered by Purchaser or Sub
+pursuant to this Agreement or the Ancillary Agreements will be
+valid, binding and enforceable against Purchaser or Sub, as the
+case may be, in accordance with their terms (except to the extent
+that enforcement thereof is affected by laws pertaining to
+bankruptcy, reorganization, insolvency, and creditors' rights and
+by the availability of injunctive relief, specific performance
+and other equitable remedies).
+
+(c) No consent, authorization, order or approval of,
+or filing or registration with, any governmental authority or
+other person is required for the execution and delivery of this
+Agreement and the consummation by Purchaser and Sub of the
+transactions contemplated by this Agreement and the Ancillary
+Agreements.
+
+(d) Neither the execution and delivery of this
+Agreement by Purchaser, nor the execution and delivery of the
+Ancillary Agreements by Purchaser or Sub, nor the consummation by
+Purchaser or Sub of the transactions contemplated hereby and
+thereby, will conflict with or result in a breach of any of the
+terms, conditions or provisions of Purchaser's and Sub's
+respective Articles of Incorporation or By-laws, or similar
+organizational documents, or of any statute or administrative
+regulation, or of any order, writ, injunction, judgment or decree
+of any court or governmental authority or of any arbitration
+award.
+
+(e) Neither Purchaser nor Sub is a party to, or bound
+by, any material unexpired, undischarged or unsatisfied written
+or oral contract, agreement, indenture, mortgage, debenture, note
+other instrument under the terms of which performance by
+Purchaser and Sub according to the terms of this Agreement and
+the Ancillary Agreements will be a default or an event of
+acceleration, or whereby timely performance by Purchaser and Sub
+according to the terms of this Agreement and the Ancillary
+Agreements may be prohibited, prevented or delayed.
+
+(f) With the exception of Morgan Stanley & Co.
+Incorporated, neither Purchaser nor any of its Affiliates
+(including Sub) has dealt with any person, firm or corporation
+who is or may be entitled to a broker's commission, finder's fee,
+investment banker's fee or similar payment for arranging the
+transactions contemplated hereby or introducing the parties to
+each other.
+
+(g) Purchaser had made available to Seller true,
+accurate and complete copies of Purchaser's most recent reports
+on Forms 10-K, 10-Q and any report on Form 8-K filed since the
+most recent 10-Q (collectively, the "SEC Documents"). As of
+their respective filing dates, the SEC Documents complied in all
+material respects with the requirements of the Securities and
+Exchange Act of 1934, as amended, or the Securities Act of 1933,
+as amended, and taken together, the SEC Documents contained no
+untrue statement of a material fact and did not omit to state a
+material fact required to be stated therein or necessary to make
+the statements made therein, in light of the circumstances in
+which they were made, not misleading except to the extent
+corrected by subsequently filed SEC Documents.
+
+(h) There is no litigation or proceeding, in law or in
+equity, and there are no proceedings or governmental
+investigations before any commission or other administrative
+authority, pending, or to Purchaser's knowledge, threatened
+against Purchaser which, if decided adversely to Purchaser, would
+have a material adverse effect on the business of Purchaser and
+which is not set forth in the SEC Documents.
+
+4.3 Seller's Representations and Warranties. Seller
+represents and warrants to Purchaser that, except as set forth in
+the Disclosure Schedule: 
+
+ORGANIZATION
+
+(a) Seller is a corporation duly existing under the
+laws of its place of incorporation. Seller has all necessary
+power and authority under applicable corporate law and its
+organizational documents to conduct the Business as the Business
+is now being conducted. 
+
+(b) The authorized capital stock of Seller consists of
+20,000,000 shares of common stock, par value NIS 0.01, of which
+14,201,942 shares are issued and outstanding as of the date
+hereof and held of record by Seller's respective stockholders as
+set forth and identified in the stockholder lists provided to
+Purchaser or its representatives. All of such shares have been
+duly authorized and are validly issued, fully paid and
+nonassessable.
+
+As of the date hereof, 1,509,831 shares of Seller common
+stock are available or reserved for issuance under Seller's stock
+option plan, 1,031,834 of which are subject to duly authorized
+and outstanding options granted in January 1994, 200,000 of which
+are subject to duly authorized and outstanding options granted in
+April 1994 and 278,000 of which Seller intends to grant prior to
+the Closing Date in accordance with Section 6.2(p). Menachem
+Kenan does not hold any rights to acquire stock or other
+securities of Seller, and has no rights against the Seller.
+
+Except for a warrant to purchase 457,028 shares of Seller
+common stock, which warrant will be exercised or terminated on or
+before the Closing, and except as otherwise set forth in the
+Disclosure Schedule, Seller does not have any other shares of its
+capital stock issued or outstanding and does not have any other
+outstanding subscriptions, options, warrants rights or other
+agreements or commitments obligating Seller to issue shares of
+its capital stock or other securities.
+
+(c) The Subsidiary is the sole subsidiary of Seller
+and has qualified as a foreign corporation and is in good
+standing, under the laws of all jurisdictions where the nature of
+the Business or the nature or location of the assets which are
+used primarily in the Business by such Subsidiary requires such
+qualification and where the failure to so qualify would have a
+Material Adverse Effect (as herein defined). As used herein,
+"Material Adverse Effect" means a material adverse effect on the
+business, financial condition, operations, assets or liabilities
+of the Business, taken as a whole.
+
+(d) No consent, authorization, order or approval of,
+or filing or registration with, any governmental authority or
+other person is required for the execution and delivery of this
+Agreement and the consummation by Seller of the transactions
+contemplated by this Agreement and the Ancillary Agreements to
+which it is a party.
+
+(e) Seller has full corporate power and authority to
+enter into and perform this Agreement and all other documents,
+agreements, certificates and instruments to be delivered by it
+pursuant to this Agreement or the Ancillary Agreements to which
+it is a party. This Agreement has been duly executed and
+delivered by a duly authorized officer of Seller. On the Closing
+Date, each of the Ancillary Agreements and all documents,
+agreements, certificates and instruments to be delivered by
+Seller or the Subsidiary, pursuant to this Agreement or the
+Ancillary Agreements will be duly executed and delivered by a
+duly authorized officer of Seller or such Subsidiary, as the case
+may be. This Agreement is valid, binding and enforceable against
+Seller, and each of the Ancillary Agreements and documents,
+agreements, certificates and instruments to be delivered by
+Seller pursuant to this Agreement or the Ancillary Agreements
+will be valid, binding and enforceable against Seller or the
+Subsidiary, as the case may be, in accordance with their terms
+(except to the extent that enforcement thereof is affected by
+laws pertaining to bankruptcy, reorganization, insolvency and
+creditors' rights and by the availability of injunctive relief,
+specific performance and other equitable remedies).
+
+(f) Neither the execution and delivery of this
+Agreement by Seller, nor the execution and delivery by Seller of
+the Ancillary Agreements to which it is a party nor the
+consummation by Seller of the transactions contemplated hereby
+and thereby, will conflict with or result in a breach of any of
+the terms, conditions or provisions of Seller's Articles of
+Incorporation or By-laws, or similar organizational documents, or
+of any statute or administrative regulation, or of any order,
+writ, injunction, judgment or decree of any court or any
+governmental authority or of any arbitration award.
+
+FINANCIAL
+
+(g) The audited balance sheets of the Business as of
+December 31, 1993 and the audited consolidated statements of
+earnings of the Business for the years then ended, complete and
+accurate copies of which are attached to the Disclosure Schedule,
+present fairly the consolidated financial position of the
+Business as of the dates of said balance sheets, and the
+consolidated results of operations of the Business for the
+periods covered by said statements of earnings, in accordance
+with Israeli GAAP consistently applied.
+
+(h) The unaudited balance sheet of the Business as of
+June 30, 1994 and the unaudited statement of earnings of the
+Business for the six-month period, a complete and accurate copy
+of which is attached to the Disclosure Schedule, present fairly
+the consolidated financial position of the Business as of the
+date of said balance sheet, and the results of operations of the
+Business for the period covered by said statement of earnings, in
+accordance with Israeli GAAP applied in a manner consistent with
+the audited financial statements as of December 31, 1993, except
+for the omission of footnote disclosures required by Israeli GAAP
+and except for the omission of normal accruals generally made at
+year end. The financial statements described in paragraph (g) of
+this Section 4.3 and this paragraph (h) are referred to in this
+Agreement as the "Financial Statements". All taxes which Seller
+has been required to collect or withhold have been duly withheld
+or collected and, to the extent required, have been paid to the
+proper taxing authority. Seller is not a party to any tax-
+sharing agreement or similar arrangement with any other party. 
+Seller will not be required to include any material adjustment in
+taxable income for any tax period (or portion thereof) ending
+after the Closing Date pursuant to any provision of the tax laws
+of any jurisdiction requiring tax adjustments as a result of a
+change in method of accounting implemented by Seller prior the
+Closing Date for any tax period (or portion thereof) ending on or
+before the Closing Date or pursuant to the provisions of any
+agreement entered into by Seller prior to the Closing Date with
+any taxing authority with regard to the tax liability of Seller
+for any tax period (or portion thereof) ending on or before the
+Closing Date. The Financial Statements include adequate reserves
+appropriate under Israeli GAAP for the liabilities of Seller as
+of the respective dates thereof. There are no reserves for
+warranty or inventory. 
+
+(i) There are no liabilities of Seller except as (i)
+reflected in the Financial Statements, (ii) disclosed in the
+Disclosure Schedule, (iii) incurred after June 30, 1994 in the
+ordinary course of business or (iv) under contracts assumed
+hereunder and not required to be disclosed in the Disclosure
+Schedule.
+
+(j) Seller and the Subsidiary have good title to, and
+the corporate power and authority to sell, the Purchased Assets,
+free and clear of any liens, claims, encumbrances, mortgages,
+pledges, restrictions and security interests, except for: (i)
+liens for taxes not yet delinquent; (ii) statutory liens of
+landlords, liens of carriers, warehousemen, mechanics and
+materialmen incurred in the ordinary course of business for sums
+not yet due; (iii) liens incurred or deposits made in the
+ordinary course of business in connection with workers'
+compensation, unemployment insurance and other types of social
+security, or to secure the performance of tenders, statutory
+obligations, surety and appeal bonds, bids, leases, government
+contracts, performance and return-of-money bonds, and similar
+obligations; and (iv) minor irregularities of title which do not
+in the aggregate materially detract from the value or use of the
+Purchased Assets. No unreleased mortgage, trust deed, chattel
+mortgage, security agreement, financing statement or other
+instrument encumbering any of the Purchased Assets has been
+recorded, filed, executed or delivered. 
+
+(k) Seller has properly completed and filed all tax
+returns (including, if applicable, income, excise, payroll,
+capital stock, intangible, sales and use, value added,
+employment, property and, without limitation by specific
+enumeration of the foregoing, all other tax returns of every kind
+and nature) which have heretofore been required to have been
+filed by Seller and the Subsidiary. No extensions of time in
+which to file any such returns are in effect. All taxes of the
+type herein referred to (whether or not requiring the filing of
+returns) relating to the Business, including all deficiency
+assessments, additions to tax, penalties and interest of which
+notice has been received which shall accrue prior to the Closing
+Date, have been paid by Seller and the Subsidiary to the extent
+due or are being contested by Seller and the Subsidiary in the
+manner permitted by applicable law, and to the extent such taxes
+are not yet due, they have been properly accrued for on Seller's
+books and records as required by Israeli GAAP. There is no
+action, suit, proceeding, investigation, audit or claim now
+pending regarding any taxes relating to the income, properties or
+operations of the Business for any period prior to the Closing. 
+All taxes which Seller and the Subsidiary are respectively
+required by law to withhold and collect have been duly withheld
+and collected, and have been paid to the proper authorities to
+the extent due and payable. 
+
+CONDUCT OF BUSINESS
+
+(l) Since June 30, 1994, neither Seller nor the
+Subsidiary has, with respect to the Business:
+
+(i) leased, licensed, sold, transferred or
+encumbered any material assets, intellectual property rights or
+other property associated with the Business, except for sales of
+inventory in the usual and ordinary course of business;
+
+(ii) suffered any loss, or interruption in use, of
+any of its assets or properties, which is material to the
+Business, taken as a whole (whether or not covered by insurance),
+on account of fire, flood, riot, strike or other hazard or act of
+God;
+
+(iii) made any material change in the conduct
+or nature of the Business (neither the foregoing representation
+and warranty nor any other representation and warranty herein
+contained shall be deemed to be breached by virtue of the entry
+of Seller into this Agreement or its consummation of the
+transactions contemplated hereby);
+
+(iv) waived any material rights arising out of the
+conduct of, or with respect to, the Business;
+
+(v) paid any Affiliate or been charged by any
+Affiliate any amounts whether for goods sold or services to be
+rendered by their respective businesses in connection with the
+Business or otherwise; except for the following in the ordinary
+course and consistent with past practice: payments under the
+Services Agreement between Nice Systems and Seller, or
+adjustments in inter-company accounts relating to payments to
+third parties;
+
+(vi) made or committed to make any capital
+expenditure in an amount in excess of $50,000;
+
+(vii) without limitation by the enumeration of
+any of the foregoing, entered into any material transaction with
+respect to the Business other than in the usual and ordinary
+course of business;
+
+(viii) incurred any liabilities with respect to
+the Business, other than in the ordinary course of business; or
+
+(ix) suffered or been threatened with any change
+with respect to the business or financial condition of the
+Business which would have a Material Adverse Effect (other than
+changes affecting the Business' industry generally).
+
+CONTRACTS
+
+(m) Seller has fully performed its development
+obligations under (i) the agreement #658802 with ESL regarding
+the development of an FDDI bridge product and (ii) the Joint
+Development Agreement dated May 1, 1992 with Retix, as amended on
+May 24, 1994 and supplemented by the Cooperation and Funding
+Agreement with BIRD, and Seller has no further obligations under
+such agreements other than support, warranty or similar
+obligations, none of which are substantial.
+
+(n) Seller has no further obligations (other than
+support, warranty or similar obligations, none of which are
+substantial) under the ESL manufacturing agreement #657915 (as
+amended) unless Seller determines, in its discretion, to accept
+additional purchase orders from ESL in which event the terms of
+such agreement may be controlling.
+
+(o) Seller has no obligation to make any payment to
+BIRD Foundation pursuant to either the development agreement with
+Tekelec, Inc. or the development agreement with Retix, including,
+but not limited to, any obligation to make payments in the event
+Tekelec or Retix fail to make payment to the BIRD Foundation of
+amounts due pursuant to such contracts; provided, however, that
+if Purchaser or Sub sell products developed under such agreements
+to third parties or if Purchaser or Sub executes the agreement in
+negotiation with Tekelec for the FTM 100 and sells such product
+to Tekelec, claims may be made by BIRD Foundation that royalties
+may be due to such foundation. 
+
+(p) Neither Seller nor the Subsidiary is, in
+connection with the conduct of the Business, a party to, or bound
+by, any undischarged written or oral:
+
+(i) contract for the employment for any period of
+time whatsoever, or restricting the employment, of any employee
+of the Business;
+
+(ii) consulting agreement;
+
+(iii) collective bargaining agreement;
+
+(iv) plan or contract or arrangement (whether
+statutory or otherwise), other than the Pension Plans and Welfare
+Plans (as defined in Section 4.3(t)), providing for bonuses
+(other than an oral understanding to pay a one-time two-month
+bonus in certain cases), options, deferred compensation,
+incentive compensation, stock purchase, severance or termination
+pay, supplemental unemployment benefits, retirement payments,
+profit sharing, medical and dental insurance benefits or the
+like;
+
+(v) contract or agreement restricting in any
+manner Seller's right to compete with any other person or
+restricting Seller's right to sell to or purchase from any other
+person;
+
+(vi) agreement with any employee, director, parent
+or Affiliate of Seller for or with respect to the purchase or
+sale of goods, the performance of services or the loaning of
+money and Seller has no other obligations to Nice Systems;
+
+(vii) contract for the payment or receipt of
+license fees or royalties to or from any person, firm or
+corporation in an annual amount in excess of $10,000;
+
+(viii) contract of agency, representation,
+distribution, or franchise or consulting or services agreement
+which cannot be canceled by Seller without payment or penalty
+upon notice of sixty (60) days or less;
+
+(ix) guaranty, performance, bid or completion
+bond, or surety or indemnification agreement or guaranty of any
+obligation of any third party;
+
+(x) lease or sublease, either as lessee or
+sublessee, lessor or sublessor, of personal property or
+intangibles to be assigned to the Purchaser or Sub pursuant to
+this Agreement or the Ancillary Agreements, where the lease or
+sublease (A) provides for an annual rent in excess of $50,000 or
+(B) has a remaining term as of the Closing Date in excess of two
+(2) years; or
+
+(xi) any other contract which is to be assigned to
+the Purchaser or Sub pursuant to this Agreement or the Ancillary
+Agreements which provides for the receipt or expenditure by
+Purchaser or Sub after the Closing Date of more than $50,000,
+except sales and purchase orders accepted by the Business in the
+ordinary course of business.
+
+All contracts, leases, subleases and other instruments of the
+type referred to in this Section 4.3(p) and described in the
+Disclosure Schedule are in full force and effect, are binding
+upon Seller or a Subsidiary and, to Seller's knowledge, are
+binding on the other parties thereto. No default by Seller or a
+Subsidiary has occurred thereunder and, to Seller's knowledge, no
+default by the other contracting parties has occurred thereunder
+and Seller is not aware of any claim of any such default or of a
+valid basis for any such claim.
+
+(q) No cash or other consideration will be required to
+be paid by Purchaser in order to obtain the consent of the
+employees of Seller to the assignment of the employment
+agreements required to be entered into pursuant to Sections
+6.1(g) and 6.2(i).
+
+(r) With the exception of provisions in contracts,
+agreements, leases, licenses, approvals, permits and other
+instruments which prohibit the assignment of Seller's or a
+Subsidiary's rights thereunder without the consent of the other
+party thereto, all of which contracts are listed in the
+Disclosure Schedule, neither Seller or the Subsidiary is a party
+to, or bound by, any material unexpired, undischarged or
+unsatisfied written or oral contract, agreement, license,
+approval, indenture, mortgage, debenture, note or other
+instrument under the terms of which performance by Seller and the
+Subsidiary according to the terms of this Agreement and the
+Ancillary Agreements will be a default or an event of
+acceleration, which default or acceleration would have a Material
+Adverse Effect, or whereby timely performance by Seller and the
+Subsidiary according to the terms of this Agreement and the
+Ancillary Agreements may be prohibited, prevented or delayed.
+
+(38 The Disclosure Schedule contains a list of every
+material license, permit or governmental or other regulatory
+approval, order, directive and agreement applied for, pending,
+issued or given to Seller with respect to the Business. Seller
+possesses all licenses, permits and governmental or other
+regulatory approvals and authorizations which are required in
+order for Seller and the Subsidiary to operate the Business as
+presently conducted, where the failure to possess or be in
+compliance with such licenses, permits and approvals would have a
+Material Adverse Effect, and each of them is in compliance in all
+material respects with all such licenses, permits, approvals and
+authorizations. All fees required in connection with any of the
+foregoing items have been paid in full.
+
+EMPLOYEES
+
+(t) The Disclosure Schedule, together with the forms
+of employee contracts listed therein, describe, if applicable:
+(i) all employee pension or savings benefit plans eligible to
+receive tax preferred status under applicable laws which Seller
+or the Subsidiary maintains, administers or contributes to for
+the benefit of employees of the Business (the "Pension Plans")
+and (ii) all employee health benefit plans (including, without
+limitation, medical, dental and vision plans), disability plans
+(including, short-term disability), life insurance, dependent
+care assistance plans and educational reimbursement programs
+which Seller and the Subsidiary maintain, administer or
+contribute to for the benefit of employees of the Business (the
+"Welfare Plans"). Seller has made sufficient provision for such
+Pension Plans and Welfare Plans in accordance with Israeli GAAP
+to recognized provident funds, pension funds, severance pay funds
+and/or insurance companies under "Managers Insurance Policies".
+
+(u) The Disclosure Schedule contains a list of all
+salaried employees of Seller and the Subsidiary employed in
+connection with the Business and their annual salaries. Said
+list correctly reflects, in all material respects, their
+salaries, other compensation (other than under the Pension Plans,
+the Welfare Plans and other employee benefits), dates of
+employment, positions and birthdates. All employees of Seller
+have entered into an employment agreement in one of the three (3)
+forms provided by Seller to Purchaser and Seller shall deliver
+copies thereof prior to Closing. 
+
+LITIGATION AND CLAIMS
+
+(v) There is no litigation or proceeding, in law or in
+equity, and there are no proceedings or governmental
+investigations before any commission or other administrative
+authority, pending, or to Seller's knowledge threatened or likely
+to be asserted, against Seller or the Subsidiary which relates to
+the conduct of the Business, the consummation of the transactions
+contemplated hereby, or the use of the Purchased Assets (whether
+by Purchaser or Sub after the Closing or by Seller prior
+thereto).
+
+(w) Neither Seller nor the Subsidiary is a party to
+any decree, order or arbitration award (or agreement entered into
+in any administrative, judicial or arbitration proceeding with
+any governmental authority) with respect to the properties,
+assets, personnel or business activities of the Business.
+
+(x) Except for laws, rules and regulations relating to
+the environment (which are exclusively provided for in
+Section 4.3(y) hereof), Seller is not in material violation of,
+or delinquent in respect to, any decree, order or arbitration
+award or law, statute, or regulation of, or agreement with, or
+any license or permit from, any governmental authority to which
+the properties, assets, personnel or business activities of the
+Business are subject or to which Seller or the Subsidiary,
+itself, is subject, including, without limitation, laws, rules
+and regulations relating to occupational health and safety, equal
+employment opportunities, fair employment practices, and sex,
+race, religious and age discrimination.
+
+(y) In connection with the operation of the Business,
+Seller is not in violation of, or delinquent in respect to, any
+material decree, order or arbitration award or law, statute, or
+regulation of or agreement with, or any license or permit from,
+any Israeli governmental authority to which it or its properties,
+assets, personnel or Business are subject (or to which any of
+them is itself subject) and which relates to the environment
+(including, without limitation, laws, statutes, rules and
+regulations and the common law of Israel relating to
+environmental matters and contamination of any type whatsoever
+("Environmental Laws")). Seller has obtained all permits,
+licenses and other authorizations required under Environmental
+Laws. Environmental Laws include laws, statutes, rules and
+regulations relating to: (A) treatment, storage, disposal,
+generation and transportation of industrial, toxic or hazardous
+substances or solid or hazardous waste; (B) air, water and noise
+pollution; (C) soil or ground water contamination; (D) the
+release or threatened release into the environment of industrial,
+toxic or hazardous substances, or solid or hazardous waste,
+including, without limitation, emissions, discharges, injections,
+spills, escapes, or dumping of pollutants, contaminants or
+chemicals; (E) the protection of wildlife, marine sanctuaries and
+wetlands; (F) the protection of natural resources; (G) storage
+tanks, vessels and related equipment; (H) abandoned or discarded
+barrels, containers and other closed receptacles; (I) health and
+safety of employees and other persons; and (J) otherwise relating
+to the manufacture, processing, use, distribution, treatment,
+storage, disposal, transportation, or handling of pollutants,
+contaminants, chemicals or industrial, toxic or hazardous
+substances or solid or hazardous waste.
+
+REAL ESTATE
+
+(z) Seller does not own, and the Purchased Assets do
+not include, any fee or other comparable interests in any of the
+real estate used primarily in the conduct of the Business.
+
+(aa) The premises leased by Seller in Tel Aviv, Israel
+and the premises leased in Lexington, Massachusetts are leased to
+Seller or the Subsidiary, as the case may be, pursuant to written
+leases, true and correct copies of which are identified in the
+Disclosure Schedule. Neither Seller nor Subsidiary, as the case
+may be, is in default under any material term of such leases. To
+Seller's knowledge, there are no condemnation proceedings pending
+or threatened with respect to any portion of the premises covered
+by such leases.
+
+PROPRIETARY RIGHTS
+
+(ab) Seller owns all right, title and interest in and
+to all patents, copyrights, technology, software, software tools,
+know-how, processes, trade secrets, trademarks, service marks,
+trade names and other proprietary rights used in or necessary for
+the conduct of the Business as conducted to the date hereof or
+contemplated, free and clear of all liens, claims and
+encumbrances (including without limitation distribution rights)
+(all of which are referred to as "Proprietary Rights") and Seller
+has the right to transfer all such rights to Purchaser, except
+for rights under Third Party Licenses (as hereinafter defined)
+specified in the Disclosure Schedule. The foregoing
+representation as it relates to Third Party Technology (as
+hereinafter defined) is limited to Seller's interest pursuant to
+the Third Party Licenses, all of which are valid and enforceable
+and in full force and effect and which grant Seller such right to
+Third Party Technology as are employed in or necessary to the
+business of Seller as conducted or proposed to be conducted. The
+Disclosure Schedule contains an accurate and complete list of (i)
+all patents, trademarks (with separate listings of registered and
+unregistered trademarks), tradenames, and registered copyrights
+in or related to the Business, all applications and registration
+statements therefor, and a list of all licenses and other
+agreements relating thereto, and (ii) a list of all licenses and
+other agreements with third parties (the "Third Party Licenses")
+relating to any software, technology, know-how, or processes that
+Seller is licensed or otherwise authorized by such third parties
+to use, market, distribute or incorporate into products
+distributed by Seller (such software, technology, know-how and
+processes are collectively referred to as the "Third Party
+Technology"). All of Seller's trademark or tradename
+registrations related to the Business and all of Seller's
+copyrights are valid and in full force and effect; and
+consummation of the transactions contemplated hereby will not
+alter or impair any such rights. No claims have been asserted
+against Seller (and Seller is not aware of any claims which are
+likely to be asserted against Seller or which have been asserted
+against others) by any person challenging Seller's use or
+distribution of any patents, trademarks, tradenames, copyrights,
+trade secrets, software, technology, know-how or processes
+utilized by Seller (including, without limitation, the Third
+Party Technology) or challenging or questioning the validity or
+effectiveness of any license or agreement relating thereto
+(including, without limitation, the Third Party Licenses). To
+Seller's knowledge, the use by Seller of Third Party Technology
+is in conformance with the terms of the Third Party Licenses, and
+there is no valid basis for any claim of the type specified in
+the immediately preceding sentence which could interfere with the
+continued enhancement and exploitation by Seller of any of its
+products. To Seller's knowledge, none of its present or
+contemplated products nor the use of any patents, trademarks,
+tradenames, copyrights, software, technology, know-how or
+processes by Seller in the Business infringes on the rights of,
+constitutes misappropriation of, or in any way involves unfair
+competition with respect to, any proprietary information or
+intangible property right of any third person or entity,
+including without limitation any patent, trade secret, copyright,
+trademark or tradename.
+
+(ac) Seller has not granted any third party any right
+to manufacture, reproduce, distribute, market or exploit any of
+its products or any adaptations, translations, or derivative
+works based on any of Seller's Products or any portion thereof. 
+Except with respect to the rights of third parties to the Third
+Party Technology, no third party has any right to manufacture,
+reproduce, distribute, market or exploit any works or materials
+of which any of the Seller's products are a "derivative work" as
+that term is defined in the United States Copyright Act, Title
+17, U.S.C. Section 101.
+
+(ad) With the exception of Third Party Technology
+described in Section 4.3(ab) above, all designs, drawings,
+specifications, source code, object code, documentation, flow
+charts and diagrams incorporating, embodying or reflecting any of
+the Seller products at any stage of their development (the
+"Seller Components") were written, developed and created solely
+and exclusively by employees of Seller without the assistance of
+any third party or entity or were created by third parties who
+assigned ownership of their rights to Seller in valid and
+enforceable consultant confidentiality and invention assignment
+agreements. Seller has at all times used commercially reasonable
+efforts to treat its products and Seller Components as containing
+trade secrets and has not dealt with such items in such a manner
+as to cause the loss of such trade secrets by release into the
+public domain.
+
+(ae) To Seller's knowledge, no employee of Seller is in
+violation of any term of any employment contract, patent
+disclosure agreement or any other contract or agreement relating
+to the relationship of any such employee with Seller or, to the
+best of Seller's knowledge, any other party because of the nature
+of the business conducted by Seller or proposed to be conducted
+by Seller.
+
+(af) Each person presently or previously employed by
+Seller (including independent contractors, if any) with access to
+confidential information has executed a confidentiality and
+non-disclosure agreement pursuant to the form of agreement
+previously provided to Buyer or its representatives. Such
+confidentiality and non-disclosure agreements constitute valid
+and binding obligations of Seller and such person, enforceable in
+accordance with their respective terms. To the best of Seller's
+knowledge, neither the execution or delivery of such agreements,
+nor the carrying on of Seller's business as employees by such
+persons, nor the conduct of Seller's business as currently
+anticipated, will conflict with or result in a breach of the
+terms, conditions or provisions of or constitute a default under
+any contract, covenant or instrument under which any of such
+persons is obligated.
+
+(ag) No product liability or warranty claims which
+individually or in the aggregate could exceed $50,000 have been
+communicated to or threatened against Seller nor, to the best of
+Seller's knowledge, is there any specific situation, set of facts
+or occurrence that provides a basis for such claim. Seller has
+delivered to Purchaser its most recent list of bugs in its
+products and Seller believes that such list is substantially
+accurate.
+
+GENERAL
+
+(ah) The Purchased Assets together with the Excluded
+Assets include all assets employed in the Business as conducted
+by Seller and its Affiliates in the past.
+
+(ai) The copies of all documents furnished by Seller to
+Purchaser pursuant to the terms of this Agreement are materially
+complete and accurate. The Disclosure Schedule contains complete
+and accurate copies of all documents referred to therein.
+
+(aj) Except for Broadview Associates, neither Seller
+nor any of its Affiliates has dealt with any person, firm or
+corporation who is or may be entitled to a broker's commission,
+finder's fee, investment banker's fee or similar payment for
+arranging the transactions contemplated hereby or introducing the
+parties to each other.
+
+(ak) The Disclosure Schedule lists the names and
+locations of all banks, trusts, companies or other financial
+institutions at which accounts are maintained by or for the
+benefit of Seller or the Subsidiary and the names of persons
+authorized to draw thereon. The Disclosure Schedule lists all
+policies of fire liability or other forms of insurance maintained
+by Seller, all of which are in full force and effect.
+
+(al) No statement by Seller in this Agreement, the
+Disclosure Schedule or any Ancillary Agreement to Purchaser
+contains any untrue statement of a material fact or omits to
+state a material fact necessary in order to make the statements
+contained herein and therein, when read together, not misleading.
+
+(am) The inventory described in Section 2.2(a) is
+saleable in the ordinary course of business and the Equipment
+described in Section 2.2(b) is in good condition, normal wear and
+tear excepted. SELLER MAKES NO WARRANTY OF FITNESS FOR A
+PARTICULAR PURPOSE AS TO THE PURCHASED ASSETS.
+
+4.4 Nice Systems' Representations and Warranties. Nice
+Systems represents that it has transferred to Seller, or caused
+its Affiliates to transfer to Seller, all intellectual property
+rights related to the Business held by Nice Systems or its
+Affiliates, and that Nice Systems and such Affiliates hold no
+other assets related to the Business, other than financial,
+administrative and operations assets used jointly by Nice Systems
+and its Affiliates.
+
+ARTICLE V
+
+Conduct Prior to the Closing
+
+5.1 General. Seller and Purchaser shall have the rights
+and obligations with respect to the period between the date
+hereof and the Closing Date (or such longer period as is
+specified) which are set forth in the remainder of this
+Article V.
+
+5.2 Seller's Obligations. The following are Seller's
+obligations: 
+
+(a) Seller shall abide by and cause its Affiliates and
+other parties subject thereto to abide by the Confidentiality
+Agreement.
+
+(b) Upon receipt of reasonable prior notice from
+Purchaser, Seller shall give, and shall cause the Subsidiary to
+give, to Purchaser's officers, employees, agents, attorneys,
+consultants and accountants reasonable access during normal
+business hours to all of the properties, books, contracts,
+documents, records and personnel of Seller relating to the
+Business and shall furnish, to Purchaser such information
+relating to the Business as Purchaser may at any time and from
+time to time reasonably request.
+
+(c) Seller shall carry on the Business, in the usual
+and ordinary course of business in accordance with past
+practices.
+
+(d) Seller and Purchaser shall cooperate in seeking
+the assignment to Purchaser or Sub of the agreements set forth in
+this Section 5.2(d) to which Seller is a party. 
+
+(i) As to the following agreements, Seller agrees
+that it shall either obtain the consent to such assignment of the
+parties to such agreements (whether before or after the Closing
+Date), or during the term of such agreement obtain for Purchaser
+the benefits to Seller under such agreements. Provided that such
+benefits can be obtained, Purchaser shall perform the obligations
+of Seller under such agreements. By way of example, if an
+agreement calls for a payment to Seller of $100,000 and such
+agreement cannot be assigned to Purchaser or Sub, Seller shall
+arrange for the payment to Purchaser of such amount without
+offset or deduction. Such agreements shall consist solely of:
+
+1. That certain Agreement dated August 21,
+1990 by and between Taas-Mor Industrial Centre Ltd. and H.I.T.
+Hermes Intelligent Technologies Ltd. as assigned to Seller
+pursuant to an amendment dated February 24, 1994 (i.e., the lease
+for Seller's principal place of business).
+
+2. That certain Agreement dated August 1,
+1994 by and between Seller and Eliezer Acker (i.e., the lease for
+an apartment at 5 De-Lerina Street, Tel Aviv).
+
+3. That certain Joint Development Agreement
+dated May 1, 1992 with Retix, as amended.
+
+4. Those certain agreements with Tekelec in
+effect as of the date hereof. Seller covenants that it shall not
+execute the agreement currently under negotiation with Tekelec
+and that it shall cooperate with Purchaser in any negotiations
+with Tekelec regarding such agreement either before or after the
+Closing.
+
+(ii) As to the following agreements, Seller and
+Purchaser shall cooperate to seek the assignment of such
+agreements or, if such assignment can not be readily obtained, to
+arrange with the other party to such contracts to include the
+benefits of such agreements in agreements with Purchaser (either
+in amendments to existing agreements with Purchaser or in new
+agreements with Purchaser). In all cases the parties shall seek
+to minimize the cost to Seller in connection with such assignment
+or other arrangement. The contracts covered by this subclause
+(ii) are those contracts with Epilogue and Trillium.
+
+(e) Without the prior written consent of Purchaser,
+and without limiting the generality of any other provision of
+this Agreement, Seller shall not, with respect to the Business do
+or commit to do any of the following:
+
+(i) incur any capital expenditures in excess of
+$50,000 in the aggregate;
+
+(ii) lease, license, sell, transfer or encumber
+any asset, intellectual property right or other property
+associated with the Business (including sales or transfers to
+Affiliates), except for sales of inventory in the usual and
+ordinary course of business and except for cash applied in
+payment of Seller's liabilities in the usual and ordinary course
+of business;
+
+(iii) make any increase in the level of
+compensation to its respective officers, or increase the level of
+compensation payable to other full-time employees;
+
+(iv) borrow any money which borrowings exceed in
+the aggregate $50,000 except for borrowings between Seller and
+Subsidiary;
+
+(v) incur any liability other than in the
+ordinary and usual course of business or in connection with the
+performance or consummation of this Agreement;
+
+(vi) encumber or permit to be encumbered any of
+its assets except in the ordinary course of its business;
+
+(vii) enter into any lease or contract for the
+purchase or sale of any property, real or personal, except in the
+ordinary course of business;
+
+(viii) fail to maintain its equipment and other
+assets in good working condition and repair according to the
+standards it has maintained up to the date of this Agreement,
+subject only to ordinary wear and tear;
+
+(ix) pay any bonus, increased salary, or special
+remuneration to any officer or employee, including any amounts
+for accrued but unpaid salary or bonuses;
+
+(x) change accounting methods;
+
+(xi) declare, set aside or pay any cash or stock
+dividend or other distribution in respect of capital, or redeem
+or otherwise acquire any of its capital stock, provided that
+Subsidiary may repay a loan in the amount of $50,000 made by an
+Affiliate of Nice Systems;
+
+(xii) amend or terminate any contract,
+agreement or license to which it is a party except in the
+ordinary course of business;
+
+(xiii) loan any amount to any person or entity,
+or guaranty or act as a surety for any obligation except for
+borrowings between Seller and Subsidiary;
+
+(xiv) waive or release any right or claim,
+except in the ordinary course of business;
+
+(xv) issue or sell any shares of its capital stock
+of any class or any other of its securities, or issue or create
+any warrants, obligations, subscriptions, options, convertible
+securities, or other commitments to issue shares of capital stock
+(except for options to purchase an aggregate of 278,000 shares of
+Seller's capital stock to be granted to certain employees of
+Seller pursuant to a list provided to Purchaser);
+
+(xvi) split or combine the outstanding shares
+of its capital stock of any class or enter into any
+recapitalization affecting the number of outstanding shares of
+its capital stock of any class or affecting any other of its
+securities;
+
+(xvii) merge, consolidate or reorganize with
+any entity;
+
+(xviii) amend its charter documents; or
+
+(xix) make or change any election, change any
+annual accounting period, adopt or change any accounting method,
+file any amended tax return, enter into any closing agreement,
+settle any tax claim or assessment relating to Seller, surrender
+any right to claim refund of taxes, consent to any extension or
+waiver of the limitation period applicable to any tax claim or
+assessment relating to Seller, or take any other action or omit
+to take any action, if any such election, adoption, change,
+amendment, agreement, settlement, surrender, consent or other
+action or omission would have the effect of increasing the tax
+liability of Seller or Purchaser. 
+
+5.3 Purchaser's Rights and Obligations. The following are
+Purchaser's rights and obligations:
+
+(a) Purchaser shall abide by and cause its Affiliates
+and other parties subject thereto to abide by the Confidentiality
+Agreement.
+
+(b) In the event that any license, permit or operating
+right which is to be assigned to the Purchaser or Sub is not
+assignable, and the Purchaser or Sub need such permit in order to
+operate the portion of the Business conducted by Seller and the
+Subsidiary pursuant thereto, Purchaser shall use its best efforts
+and make every good faith attempt (and Seller shall use its best
+efforts in cooperation with Purchaser) to obtain such a permit.
+
+(c) Purchaser and its Affiliates shall use reasonable
+efforts for a period of two years after the Closing Date to
+ensure that it will not actively solicit for employment any
+employees of Nice Systems or its Affiliates. Further, if Seller
+advises Purchaser that Purchaser or any Affiliate is engaged in
+such solicitation, Purchaser shall cease, or cause its Affiliate
+to cease, such solicitation, provided such notice is received
+prior to extension of a formal offer of employment.
+
+(d) On or before the Closing Date, Purchaser shall
+offer, or cause Sub to offer, to employ as of the Closing Date
+substantially all of Seller's employees in positions, at
+compensation, with benefits and upon terms and conditions which
+are substantially identical to those offered by Seller. Each
+such person who is so employed by Purchaser or Sub is hereinafter
+referred to individually as an "Employee" and collectively as the
+"Employees". 
+
+(e) Purchaser shall establish a bonus pool plan (the
+"Incentive Plan") for Employees pursuant to which aggregate
+bonuses of up to $1,000,000 will be payable at Closing or based
+upon the timely development and introduction of certain products,
+which products are identified in the Incentive Plan. A copy of
+the Incentive Plan will be provided to Seller simultaneous with
+the execution of this Agreement. 
+
+5.4 Joint Obligations. The following shall apply with
+equal force to Seller and Purchaser:
+
+(a) Without implication that such laws apply to this
+transaction, the parties to this Agreement shall not comply with
+the provisions of any laws relating to bulk sales or transfers.
+
+(b) From the date hereof until the Closing, or such
+earlier date as Seller and Purchaser have mutually agreed to
+discontinue discussion of the Acquisition (the "Expiration
+Date"), Seller will not (and it will use its best efforts to
+assure that its officers, directors, employees, agents and
+affiliates do not on its behalf) take any action to solicit,
+initiate, seek, encourage or support any inquiry, proposal or
+offer from, furnish any information to, or participate in any
+negotiations with, any corporation, partnership, person or other
+entity or group (other than Purchaser) regarding any acquisition
+of Seller, any merger or consolidation with or involving Seller,
+or any acquisition of any material portion of the assets of
+Seller. Seller shall not enter into any agreement contemplating
+any of the foregoing. Seller agrees to indemnify Purchaser, its
+representatives and agents from and against any claims by any
+party to such negotiations based upon or arising out of the
+negotiation or consummation of the Acquisition, as contemplated
+by this Agreement based upon any pre-existing negotiations or
+arrangements with a third party. Purchaser agrees that during
+the date hereof until the Expiration Date, it shall not initiate
+or continue any discussions with any corporation, partnership,
+person or other entity or group primarily engaged in the area of
+ATM technology regarding any acquisition of, any merger or
+consolidation with or involving, or any acquisition of any
+material portion of the assets of such corporation, partnership,
+person or other entity or group.
+
+(c) Seller and Purchaser shall cooperate in planning
+and entering into discussions with the Office of Chief Scientist
+(the "OCS") and other appropriate administrative entities and use
+their best efforts in order to satisfy the condition set forth in
+Section 6.2(m).
+
+(d) Neither party to this Agreement shall
+intentionally perform any act which, if performed, or omit to
+perform any act which, if omitted to be performed, would prevent
+or excuse the performance of this Agreement by such party or by
+its Affiliates as herein provided or which would result in any
+representation or warranty herein contained of said party being
+untrue in any material respect as if originally made on and as of
+the Closing Date. 
+
+(e) In the event the Acquisition is not consummated,
+Purchaser and Seller will each use its reasonable efforts to
+ensure for eighteen (18) months after negotiations of the
+Acquisition have been terminated in writing that neither will
+actively solicit for employment any employee or employees of the
+other party who has or have been involved in the discussions or
+due diligence conducted in connection with the Acquisition, or as
+to whom one party has provided information to the other. This
+provision shall not apply to Dono Van Mierop.
+
+5.5 Key Shareholders' Obligations. 
+
+(a) The Key Shareholders agree, to the extent a vote
+is required with respect hereto, to vote in favor of the
+transactions contemplated by this Agreement, as shareholders of
+Seller and (if such Key Shareholders are or control directors of
+Seller or Nice Systems) as directors of Seller and Nice Systems,
+and to take such other steps as are reasonable on their
+respective parts to cause Seller to perform its obligations
+hereunder, including (i) promoting the transactions contemplated
+hereby to other shareholders of Seller and (ii) not taking any
+action in violation of Section 5.4(b).
+
+(b) For a period of three (3) years from the Closing
+Date, Seller and Nice Systems will not, and will each cause its
+Affiliates to not (i) compete, directly or indirectly, with
+Purchaser or Purchaser's Affiliates in the Business and (ii)
+without Purchaser's consent solicit for employment or hire any
+former employees of Seller unless such person's employment was
+terminated by Purchaser.
+
+(c) Nice Systems agrees it shall abide by and cause
+its Affiliates and other parties thereto to abide by the
+provisions of Section 8.11 (with the Confidential Information of
+Seller deemed to be Confidential Information of Purchaser after
+the Closing).
+
+ARTICLE VI
+
+Conditions to Closing
+
+6.1 Conditions to Seller's Obligations. The obligation of
+Seller to close the transactions contemplated hereby is subject
+to fulfillment of all of the following conditions precedent on or
+prior to the Closing Date: 
+
+(a) All obligations of Purchaser and Sub to be
+performed hereunder through, and including on, the Closing Date
+(including, without limitation, all obligations which Purchaser
+and Sub would be required to perform at the Closing if the
+transactions contemplated hereby were consummated) shall have
+been performed in all material respects, and Seller shall receive
+a certificate from Purchaser to such effect signed by the
+President or a Vice President of Purchaser and Sub, respectively.
+
+(b) The representations and warranties of Purchaser
+and Sub set forth in Article IV shall be true in all material
+respects on and as of the Closing with the same force and effect
+as if they had been made at the Closing, and Seller shall receive
+a certificate to such effect from the President or a Vice
+President of Purchaser and Sub, respectively.
+
+(c) No litigation or proceeding shall be threatened or
+pending against Purchaser or Sub with the probable effect of
+enjoining or preventing the consummation of any of the
+transactions contemplated by this Agreement, and Seller shall
+receive a certificate to such effect signed by the President or a
+Vice President of Purchaser and Sub, respectively.
+
+(d) Seller shall have received from Purchaser and Sub
+written evidence that the execution, delivery and performance of
+Purchaser and Sub's obligations under this Agreement have been
+duly and validly approved and authorized by the Board of
+Directors of Purchaser and Sub, respectively.
+
+(e) There shall have been obtained at or prior to the
+date of Closing such permits or authorizations, and there shall
+have been taken such other action, as may be required by any
+regulatory authority having jurisdiction over the parties and the
+subject matter and the actions herein proposed to be taken. 
+
+(f) Purchaser shall have delivered to Seller the
+written opinion of Gray Cary Ware & Freidenrich, counsel for
+Seller, in the form reasonably satisfactory to counsel for
+Seller.
+
+(g) Purchaser shall have delivered to Seller documents
+satisfactory to Seller evidencing Purchaser's assumption of the
+options to acquire Seller stock held by Seller employees who
+accept employment with Purchaser or Sub as of the Closing Date
+(the "Assumed Options"), and the issuance (or obligation to
+issue) of the Restricted Shares to Shelef and Rubinstein. In
+addition, Purchaser shall enter into an agreement with each
+Seller employee who holds an option to acquire Seller Stock (a
+"Seller Option") providing for the assumption by Purchaser of the
+obligations of Seller under such Seller Option (the "Option
+Assumption Agreement"). Each Option Assumption Agreement shall
+provide that, conditional upon the Closing occurring, the Seller
+Option assumed by Purchaser thereby will continue to be
+exercisable on the terms and conditions set forth in the option
+agreement evidencing such Seller Option, except that: (a) the
+Seller Option shall be exercisable for a number of shares of
+Purchaser Common Stock equal to the number of shares of Seller
+common stock subject to such Seller Option immediately prior to
+the Closing Date multiplied by a fraction, the denominator of
+which is 1,509,831 (i.e, the maximum number of shares subject to
+Seller Options to be outstanding as of the Closing) multiplied by
+the Purchaser Closing Price and the numerator of which is
+$5,462,688 (with the resulting number of shares of Purchaser
+Common Stock rounded down to the nearest whole number), (b) the
+per share exercise price shall be an amount equal to the
+aggregate exercise price of the Seller Option prior to the
+Closing Date, divided by the number of shares of Purchaser Common
+Stock subject to such Option rounded to the nearest whole cent,
+(c) continuous employment with Seller, Sub or Purchaser, whether
+occurring before or after the Closing Date, shall be credited to
+an optionee for purposes of determining the number of shares
+subject to exercise, vesting or repurchase after the Closing
+Date, (d) if the option is not exercised within ninety (90) days
+after termination of the optionee's employment with Purchaser,
+all rights to acquire shares shall expire, and (e) [ 
+
+]
+
+(h) Purchaser and each of Messrs. Shelef and
+Rubinstein shall have entered into a restricted stock agreement
+(the "Restricted Stock Agreements") for the issuance of the
+Restricted Shares under Purchaser's Restricted Stock Plan in
+accordance with Section 1.4.
+
+6.2 Conditions to Purchaser's and Sub's Obligations. The
+obligation of Purchaser and Sub to close the transactions
+contemplated hereby is subject to the fulfillment of all of the
+following conditions precedent on or prior to the Closing Date:
+
+(a) All obligations of Seller to be performed
+hereunder through, and including on, the Closing Date (including,
+without limitation, all obligations which Seller would be
+required to perform at the Closing if the transactions
+contemplated hereby were consummated) shall have been performed
+in all material respects, and Purchaser shall receive a
+certificate from Seller to such effect signed by the President
+and Chief Financial Officer of Seller.
+
+(b) The representations and warranties of Seller set
+forth in Article IV shall be true in all material respects on and
+as of the Closing with the same force and effect as if they had
+been made at the Closing, and Purchaser shall receive a
+certificate to such effect executed by the President and Chief
+Financial Officer of Seller.
+
+(c) No litigation or proceeding shall be threatened or
+pending against Seller for the purpose or with the probable
+effect of enjoining or preventing the consummation of any of the
+transactions contemplated by this Agreement, or which would have
+a material adverse effect on the business, liabilities, income,
+property, operations or prospects of Seller subsequent to the
+Closing, and Purchaser shall receive a certificate from Seller to
+such effect signed by the President and Chief Financial Officer
+of Seller.
+
+(d) Seller shall have delivered to Purchaser the
+written opinion of Ben-Ze'ev, Hacohen & Co. Advocates, Israeli
+counsel for Seller, in the form reasonably satisfactory to
+counsel for Purchaser.
+
+(e) All program managers and eighty-five percent (85%)
+of all other engineers of Seller shall have accepted employment
+with Purchaser or Sub and such employees will have executed
+documents evidencing consent to assignment to Purchaser or Sub of
+their employment agreements with Seller.
+
+(f) Purchaser shall have received from Seller written
+evidence that (i) the execution, delivery and performance of this
+Agreement and the Ancillary Agreements to which it or the
+Subsidiary is a party, as the case may be, have been duly and
+validly approved and authorized by the Board of Directors of Nice
+Systems, the Board of Directors of Seller and by the stockholders
+of Seller (such approval to include, if required, the approval of
+the Seller stockholders and Shelef and Rubinstein to any
+distribution of the Aggregate Consideration which is not in
+conformance with Seller's charter documents or other applicable
+agreements), and (ii) the approval of the member of Seller's
+board representing the outside investors.
+
+(g) There shall not have been any material adverse
+changes in the financial condition, results of operations, assets
+liabilities, business or prospects of Seller since the date of
+this Agreement. 
+
+(h) Purchaser shall have received all written
+consents, assignments, waivers, authorizations or other
+certificates reasonably deemed necessary by Purchaser's legal
+counsel to provide for the assignment to Purchaser of Seller's
+agreements with [ ] and the quote to Seller from [ 
+] (as to which quote a letter from [ ] stating that it
+will supply Purchaser with the products on the terms as provided
+in such quote shall be satisfactory). Such consents etc. are
+sometimes referred to herein as the "Material Consents."
+
+(i) Messrs Shelef, Rubinstein and Arik Ramon (the "Key
+Employees") shall have entered into Key Employee Agreements.
+
+(j) There shall have been obtained at or prior to the
+date of Closing such permits or authorizations and there shall
+have been taken such other action, as may be required by any
+regulatory authority having jurisdiction over the parties and the
+subject matter and the actions herein proposed to be taken,
+including, but not limited to, compliance with applicable
+securities laws.
+
+(k) The Board of Directors of Purchaser shall have
+received from Morgan Stanley & Co. Incorporated a written opinion
+dated the Closing Date, in form and substance satisfactory to
+Purchaser, stating that the terms of the Acquisition are fair to
+the shareholders of Purchaser from a financial point of view. 
+Purchaser represents that, as of the date of this Agreement and
+based upon information received from Morgan Stanley & Co.,
+Incorporated, it believes such condition will be satisfied as of
+the Closing.
+
+(l) Purchaser shall have received reasonable assurance
+from Purchaser's advisors that the entity purchasing the
+Purchased Assets and assuming the Assumed Liabilities will be
+able to obtain "approved enterprise" status under Israeli tax
+laws similar to that held by Seller after the Acquisition without
+extraordinary payment to the Israeli government if the products
+developed by Seller were manufactured in Israel and the Purchaser
+continues the Business in substantially the same manner as Seller
+before the Acquisition.
+
+(m) Purchaser shall have received reasonable assurance
+of its advisors that no laws or regulations will limit (except as
+provided in this Section 6.2(m)) Purchaser's right to manufacture
+outside of Israel products containing technology developed by
+Seller or limit in any other material way the operation by
+Purchaser of the Business from and after the Closing, including,
+but not limited to, laws or regulations of the OCS. The OCS
+shall have indicated preliminary approval to an arrangement under
+which the limitations imposed by the OCS as a result of grants
+made by the OCS to Seller will be satisfied if Purchaser is
+required, as to the ATM Chassis Switch as identified in the
+Incentive Plan, only to do final testing and assembly in Israel. 
+Purchaser represents that as of the date of this Agreement, it
+believes such condition will be satisfied, based upon information
+provided by its counsel, except as to the OCS, as to which no
+representation is made.
+
+(n) Purchaser shall be satisfied in its discretion
+that Purchaser will be able to account for the Acquisition as an
+acquisition of "in process" research and development and write-
+off at least ninety percent (90%) of the purchase price of the
+Acquisition as "in process" technology at or about the time of
+the Closing. Purchaser represents that, as of the date of this
+Agreement and based upon information provided by its outside
+auditors, it believes such condition will be satisfied as of the
+Closing. 
+
+(o) Purchaser shall have made arrangements with Nice
+Systems satisfactory to Purchaser for the interim provision of
+administrative support services for a transition period following
+the Closing. Purchaser represents that, as of the date of this
+Agreement, based on information provided by Seller, it believes
+such condition will be satisfied as of the Closing.
+
+(p) Seller shall have granted options to acquire
+138,000 shares of Seller common stock to employees and options to
+acquire 140,000 shares of Seller common stock to Messrs. Shelef
+and Rubinstein.
+
+(q) Purchaser and each of Messrs. Shelef and
+Rubinstein shall have entered into a Restricted Stock Agreement
+for the issuance of the Restricted Shares under Purchaser's
+Restricted Stock Plan in accordance with Section 1.4.
+
+(r) All rights to acquire Seller securities held by
+nonemployees of Seller shall have been exercised and the funds
+due upon exercise deposited in an account of Seller which is
+included in the Purchased Assets, or the Cash Consideration shall
+have been reduced by Six Hundred Thousand U.S. Dollars
+($600,000), or if partially exercised, in a proportionate amount.
+
+ARTICLE VII
+
+Closing
+
+7.1 Form of Documents. At the Closing, the parties shall
+deliver the documents, and shall perform the acts, which are set
+forth in this Article VII. All documents which Seller shall
+deliver or cause to be delivered shall be in form and substance
+reasonably satisfactory to Purchaser. All documents which
+Purchaser shall deliver or cause to be delivered shall be in form
+and substance reasonably satisfactory to Seller. The transfer of
+funds hereunder shall be carried out in accordance with
+applicable provisions of Israel's currency control regulations. 
+
+7.2 Purchaser's Deliveries. Subject to the fulfillment or
+waiver of the conditions set forth in Section 6.2 hereof,
+Purchaser shall execute and/or deliver to Seller, and/or shall
+cause Sub to execute and/or deliver to Seller, all of the
+following: 
+
+(a) (i) the Cash Consideration due upon Closing, of
+which an amount equal to [ ] of the Cash
+Consideration shall be delivered into escrow in accordance with
+the Escrow Agreement, and (ii) executed counterpart signature
+pages to the Restricted Stock Agreements; provided that [ 
+] of the Restricted Shares shall be delivered into
+escrow in accordance with the Escrow Agreement. 
+
+(b) an executed copy of the Escrow Agreement; 
+
+(c) incumbency and specimen signature certificates
+with respect to the officers of Purchaser and Sub executing this
+Agreement and the Ancillary Agreements, and any other document
+delivered hereunder or thereunder, on behalf of Purchaser and
+Sub; 
+
+(d) certified copies of resolutions of Purchaser's and
+Sub's respective boards of directors and, if necessary,
+stockholders, authorizing, as appropriate, the execution,
+delivery and performance of this Agreement and the Ancillary
+Agreements;
+
+(e) a closing certificate executed by the President of
+Purchaser (or any other officer of Purchaser specifically
+authorized to do so), on behalf of Purchaser, pursuant to which
+Purchaser represents and warrants to Seller that Purchaser's
+representations and warranties to Seller are true and correct in
+all material respects as of the Closing Date as if then
+originally made (or, if any such representation or warranty is
+untrue in any material respect, specifying the respect in which
+the same is untrue), that all covenants required by the terms
+hereof to be performed by Purchaser on or before the Closing have
+been so performed, and that all documents to be executed and
+delivered by Purchaser at the Closing have been executed by duly
+authorized officers or agents of Purchaser or a Purchaser
+Affiliate, as the case may be; 
+
+(f) counterpart signature pages of the Ancillary
+Agreements, executed by Purchaser and Sub, as the case may be;
+and
+
+(g) such other documents from Purchaser and Sub as may
+reasonably be required in order to effectuate the transactions
+contemplated hereby and by the Ancillary Agreements. 
+
+7.3 Seller's Deliveries. Subject to the fulfillment or
+waiver of the conditions set forth in Section 6.1 hereof, Seller
+shall deliver to Purchaser and Sub, physical possession of all
+tangible Purchased Assets, and shall execute (where applicable in
+recordable form) and/or deliver to Purchaser, and/or shall cause
+the Subsidiary to execute and/or deliver to Purchaser, all of the
+following:
+
+(a) incumbency and specimen signature certificates
+with respect to the officers of Seller and the Subsidiary
+executing this Agreement and the Ancillary Agreements, and any
+other document delivered hereunder or thereunder, on behalf of
+Seller and the Subsidiary;
+
+(b) certified copies of the resolutions of Seller's
+boards of directors and, as necessary, stockholders, authorizing,
+as appropriate, the execution, delivery and performance of this
+Agreement and the Ancillary Agreements;
+
+(c) a closing certificate duly executed by the
+President of Seller (or any other officer of Seller specifically
+authorized to do so), on behalf of Seller, pursuant to which
+Seller represents and warrants to Purchaser that Seller's
+representations and warranties to Purchaser are true and correct
+in all material respects as of the Closing Date as if then
+originally made (or if any such representation or warranty is
+untrue in any material respect, specifying the respect in which
+the same is untrue), that all covenants required by the terms
+hereof to be performed by Seller on or before the Closing Date
+have been so performed, and that all documents to be executed and
+delivered by Seller at the Closing have been executed by a duly
+authorized officer of Seller or a Subsidiary, as the case may be;
+
+(d) copies of the Material Consents; 
+
+(e) certificates of title or origin (or like
+documents) with respect to all vehicles included in the Purchased
+Assets and other equipment for which a certificate of title or
+origin is required in order for title thereto to be transferred
+to Purchaser or one of Sub; 
+
+(f) counterpart signature pages of the Ancillary
+Agreements, executed by Seller, and counterpart signature pages
+to the Restricted Stock Agreements executed by Messrs. Shelef and
+Rubinstein; 
+
+(g) assignments of Seller Intellectual Property Rights
+(in recordable form, where appropriate); and
+
+(h) such other documents as may be reasonably required
+by Purchaser in order to effectuate the transactions contemplated
+hereby and by the Ancillary Agreements. 
+
+ARTICLE VIII
+
+Post-Closing Agreements
+
+8.1 Post-Closing Agreements. From and after the Closing,
+the parties shall have the respective rights and obligations
+which are set forth in the remainder of this Article VIII. 
+
+8.2 Inspection of Records. Each party shall make the books
+and records of Seller and Subsidiary related to the period prior
+to the Closing Date available for inspection by the other party,
+or by such other party's duly accredited representatives, for
+reasonable business purposes at all reasonable times during
+normal business hours, for a seven (7) year period after the
+Closing Date, with respect to all transactions occurring prior to
+and relating to the Closing, the historical financial condition,
+results of operations and changes in financial position of the
+Business or the obligations of the Business which are assumed by
+Purchaser and Sub. Such records shall be made available at such
+disclosing party's principal offices. As used in this
+Section 8.2, the right of inspection includes the right to make
+extracts or copies. The representatives inspecting the records
+shall be reasonably satisfactory to such disclosing party, as the
+case may be. In addition, in connection with lawsuits or other
+proceedings by third parties, each party shall use reasonable
+efforts to make available at the other party's expense, personnel
+(for reasonable periods of time) of such disclosing party, as the
+case may be, for purposes of depositions and testimony. 
+Purchaser shall give reasonable assistance to Seller and the
+Subsidiary, in order for Seller to record entries relating to the
+closing of Seller's books relating to the Business. 
+
+8.3 Benefits of Nonassignable Rights. Seller and Nice
+Systems will use their best efforts to provide such assistance as
+is necessary to pass through the benefits of any warranty, right
+of indemnification, claim, cause of action, etc. which cannot be
+assigned to Purchaser as required under Section 2.2(q) herein.
+
+8.4 Fibronics Agreement. The Fibronics Agreement will
+not be assigned until Seller has renegotiated the terms thereof,
+in consultation with Purchaser. Upon completion of such
+renegotiation to the satisfaction of Purchaser, such agreement
+shall be assigned to Purchaser. If such agreement cannot be
+renegotiated within a reasonable time, Seller shall terminate
+such agreement, and Seller and Purchaser shall each pay one half
+of the termination payment as specified in the Fibronics
+Agreement. 
+
+8.5 Use of Trade Secrets. Seller shall cease, and shall
+cause its Affiliates to cease, to use any trade secret, secret
+formula or other confidential information related to the Business
+among the Purchased Assets. 
+
+8.6 Use of Trademarks. Seller shall cease, and shall cause
+its Affiliates to cease, to use any name or trademark which is
+similar or deceptively similar to any of the names or trademarks
+which are included among the Purchased Assets. The foregoing
+notwithstanding, Purchaser acknowledges the use of the word
+"Nice" as a trademark of Nice Systems and agrees to the use of
+the word "Nice" in any trademark by Seller and its Affiliates as
+long as such mark is not otherwise substantially identical to the
+existing trademarks of Seller.
+
+8.7 Payments of Accounts Receivable. Following the Closing
+Date, Purchaser and its Affiliates shall use their best efforts,
+consistent with the historical collection practices of Seller and
+the Subsidiary, to collect the Accounts Receivable. In the event
+Seller or any of its Affiliates shall receive any instrument of
+payment with respect to any of such uncollected Accounts
+Receivable, Seller shall forthwith deliver it to Purchaser, or
+cause it to be delivered to Purchaser forthwith, at the address
+of Purchaser specified in Section 11.6 hereof, endorsed where
+necessary, without recourse, in favor of Purchaser. 
+
+8.8 Third Party Claims. The parties shall cooperate with
+each other with respect to the defense of any claims or
+litigation made or commenced by third parties subsequent to the
+Closing Date which are not subject to the indemnification
+provisions contained in Article IX hereof, provided that the
+party requesting cooperation shall reimburse the other party for
+the other party's reasonable out-of-pocket costs and expenses of
+furnishing such cooperation. 
+
+8.9 Further Assurances. The parties shall execute and/or
+cause to be executed such further documents, and perform such
+further acts, as may be necessary to transfer and convey the
+Purchased Assets to Purchaser and Sub, on the terms herein
+contained, and to otherwise comply with the terms of this
+Agreement and consummate the transactions contemplated hereby. 
+
+8.10 Non-Assignment. Notwithstanding any provision to the
+contrary contained herein, Seller shall not be obligated to
+assign or cause the Subsidiary to assign to Purchaser or Sub any
+contract, purchase order, sales order, license, lease, permit,
+approval or other instrument which provides that it may not be
+assigned, or under applicable law may not be assigned, without
+the consent of the other party thereto and for which such consent
+is not obtained, but in any such event, Seller shall cooperate
+with Purchaser in any reasonable arrangement designed to provide
+the benefits thereof to Purchaser and Sub. 
+
+8.11 Confidentiality. Each party acknowledges that in the
+course of the performance of this Agreement, it may obtain the
+Confidential Information (as defined below) of the other parties. 
+The Receiving Party (as defined below) shall, at all times, both
+during the term of this Agreement and thereafter, keep in
+confidence and trust all of the Disclosing Party's (as defined
+below) Confidential Information received by it. The Receiving
+Party shall not disclose the Confidential Information of the
+Disclosing Party other than as expressly permitted under the
+terms of this Agreement or by a separate written agreement and
+shall not use any confidential information that constitutes
+Proprietary Rights. The Receiving Party shall take all
+reasonable steps to prevent unauthorized disclosure or use of the
+Disclosing Party's Confidential Information and to prevent it
+from falling into the public domain or into the possession of
+unauthorized persons. The Receiving Party shall not disclose
+Confidential Information of the Disclosing Party to any person or
+entity other than its officers or employees (or outside legal or
+accounting advisors) who need access to such Confidential
+Information in order to effect the intent of this Agreement and
+who have entered into confidentiality agreements with such
+person's employer or who are subject to ethical restrictions on
+disclosure which protects the Confidential Information of the
+Disclosing Party. The Receiving Party shall immediately give
+notice to the Disclosing Party of any unauthorized use or
+disclosure of Disclosing Party's Confidential Information. The
+Receiving Party agrees to assist the Disclosing Party to remedy
+such unauthorized use or disclosure of its Confidential
+Information. These obligations shall not apply to the extent
+that Confidential Information includes information which:
+
+(a) is already known to the Receiving Party at the
+time of disclosure, which knowledge the Receiving Party shall
+have the burden of proving;
+
+(b) is, or, through no act or failure to act of the
+Receiving Party, becomes publicly known;
+
+(c) is received by the Receiving Party from a third
+party without restriction on disclosure (although this exception
+shall not apply if such third party is itself violating a
+confidentially obligation by making such disclosure);
+
+(d) is independently developed by the Receiving Party
+without reference to the Confidential Information of the
+Disclosing Party, which independent development the Receiving
+Party will have the burden of proving;
+
+(e) is approved for release by written authorization
+of the Disclosing Party; or
+
+(f) is required to be disclosed by a government agency
+to further the objectives of this Agreement or by a proper order
+of a court of competent jurisdiction; provided, however that the
+Receiving Party will use its best efforts to minimize such
+disclosure and will consult with and assist the Disclosing Party
+in obtaining a protective order prior to such disclosure.
+
+"Confidential Information" shall mean confidential information of
+a party ("Disclosing Party") which is disclosed to another party
+("Receiving Party"). Confidential Information shall include, but
+not be limited to, trade secrets, know-how, inventions,
+techniques, processes, algorithms, software programs, schematics,
+designs, contracts, customer lists, financial information, sales
+and marketing plans and business information. For purposes of
+this Section 8.11, Confidential Information of Seller shall be
+deemed to be Confidential Information of Purchaser for purposes
+of Nice Systems' obligations hereunder after the Closing.
+
+ARTICLE IX
+
+Indemnification
+
+9.1 General. From and after the Closing, the parties shall
+indemnify each other as provided in this Article IX. 
+
+9.2 Seller's Indemnification Covenants. Subject to the
+provisions of Section 9.4 hereof, Seller and the Key Shareholders
+shall indemnify, save and keep Purchaser, its Affiliates and
+their respective successors and permitted assigns (the "Purchaser
+Indemnitees"), harmless against and from all liability, demands,
+claims, actions or causes of action, assessments, losses, fines,
+penalties, costs, damages and expenses, including reasonable
+attorneys' fees, sustained or incurred by any of the Purchaser
+Indemnitees as a result of or arising out of or by virtue of: 
+
+(a) any inaccuracy in a representation or breach of a
+warranty made by Seller to Purchaser herein or in any document
+delivered to Purchaser in connection herewith;
+
+(b) the failure of Seller or the Subsidiary to comply
+with, or the breach by Seller or the Subsidiary of, any of the
+covenants of this Agreement, or of any document delivered at the
+Closing pursuant to the provisions of this Agreement, to be
+performed by Seller or a Subsidiary;
+
+(c) the failure of Seller or the Subsidiary to
+discharge any liabilities of Seller and the Subsidiary, other
+than the Assumed Liabilities; 
+
+(d) the failure of Seller or the Subsidiary to
+discharge any liability or perform any obligation under any
+agreement or commitment referenced in Section 4.3 above and
+arising prior to the Closing Date, whether or not asserted at
+that time; 
+
+(e) any obligation to the OCS in excess of [ 
+]
+required to be paid by Purchaser or Sub in order to obtain the
+rights required by Purchaser as specified in Section 6.2(m). In
+calculating such amount, the parties shall include any amount of
+funding which has been recognized in the Financial Statements but
+which Purchaser elects not to receive from the OCS or which the
+OCS determines not to provide. Such amount shall not be subject
+to the deductible provided for below (i.e., Purchaser shall be
+entitled to be paid from the Escrow Fund on any such amount in
+excess of [ ] whether or not the deductible amount has
+been met).
+
+In addition to the foregoing, Purchaser shall be entitled to make
+claims against the Escrow Fund for any claims arising out of the
+failure of Seller or Nice Systems to perform their obligations
+pursuant to Section 6.2(h) and 5.2(d), including any amounts
+charged by the parties to any of the contracts referred to in
+Section 5.2(d) for the assignment of such contracts. Any such
+claims by Purchaser shall not be subject to the [ ]
+amount described in Section 9.4(a). In addition to the
+foregoing, to the extent that the Seller or stockholders of
+Seller have not made arrangements to pay the fees described in
+Section 3.3(b) and such fees are paid by Purchaser, and if any
+portion of the Escrow Fund is available for release on the first
+anniversary of the Closing, such portion (in an amount equal to
+such fees paid by Purchaser) shall be withheld from release from
+the Escrow Fund, and Purchaser shall be entitled to an offset
+against the Escrow with no minimum amount of claim. 
+
+9.3 Escrow Fund. Except as provided below, the Escrow Fund
+shall be the sole and exclusive source of any claim or remedy by
+Purchaser Indemnitees under Section 9.2 as a result of or arising
+out of or by virtue of any inaccuracy in a representation or
+breach of warranty made by Seller or the Key Shareholders to
+Purchaser herein. [ ] of the Escrow Fund (to the extent
+it is not subject to an indemnification claim) shall be released
+on [ 
+] to Seller and an amount equal to an additional [ 
+] of the total amount originally subject to the Escrow Fund plus
+any interest earned thereon (to the extent it is not subject to
+an indemnification claim) shall be distributed to Seller on the
+date [ 
+] The remaining amount subject to the Escrow
+Fund (to the extent it is not subject to an indemnification
+claim) shall be distributed to Seller on [ 
+
+] All such amounts shall include a proportionate
+number of the Restricted Shares held in the Escrow Fund and shall
+be distributed by Seller to the stockholders entitled to receive
+such amounts. Any claim of intentional misrepresentation or
+fraud by Seller or the Key Shareholders shall not be subject to
+the limitations in time or amount set forth above, provided,
+however, that as to any such claims attributable solely to the
+fraud of Nice Systems or of a Key Shareholder, the liability of
+Nice Systems and the Key Shareholders shall be several and not
+joint and such fraud shall not be attributable to the other
+party. After [ 
+] 
+Purchaser may not make claims against the Escrow Fund except for
+breach of the representations in [ 
+] In the event it appears there would be tax
+withholding on the payment of any amount under the Escrow
+Agreement, the parties agree to discuss in good faith alternate
+arrangements to minimize or avoid the consequences thereof. 
+
+9.4 Limitations on Seller's Indemnification Obligations. 
+Seller's obligations pursuant to the provisions of Section 9.2
+hereof are subject to the following limitations:
+
+(a) Except as provided in Section 9.2, the Purchaser
+Indemnitees shall not be entitled to recover under Section 9.2
+hereof until the total amount which Purchaser Indemnitees would
+recover under Section 9.2 hereof, but for this Section 9.4(a),
+exceeds [ ] and then only to the extent of the
+recoverable amount in excess of [ ]
+
+(b) the Purchaser Indemnitees shall not be entitled to
+recover under Section 9.2(a) hereof unless a claim has been
+asserted by written notice, specifying in reasonable detail the
+alleged misrepresentation or breach of warranty, and is delivered
+to Seller; and to be valid, any such notice must be received on
+or prior to the date one year after the Closing (except with
+respect to claims relating to those matters set forth in the next
+to last sentence of Section 9.3, as to which the notice shall be
+delivered on or prior to the date two years after the Closing).
+
+9.5 Purchaser's Indemnification Covenants. Purchaser shall
+indemnify, save and keep Seller, its Affiliates (including the
+Subsidiary) and their respective successors and permitted assigns
+(the "Seller Indemnitees"), harmless against and from all
+liability, demands, claims, actions or causes of action,
+assessments, losses, fines, penalties, costs, damages and
+expenses, including reasonable attorneys' fees, sustained or
+incurred by the Seller Indemnitees, as a result of or arising out
+of or by virtue of: 
+
+(a) any inaccuracy in a representation or breach of a
+warranty made by Purchaser to Seller herein or in any document
+delivered to Seller in connection herewith; 
+
+(b) the failure of Purchaser or any of Sub to comply
+with, or the breach by Purchaser or any of Sub of, any of the
+covenants of this Agreement, or of any documents delivered at the
+Closing pursuant to the provisions of this Agreement, to be
+performed by Purchaser or any of Sub; 
+
+(c) the operation by Purchaser and its Affiliates of
+the Business after the Closing; 
+
+(d) the failure of Purchaser and Sub to discharge any
+of the Assumed Liabilities; or
+
+(e) any employee benefit to the extent attributable to
+service with Purchaser or any of its Affiliates from and after
+the Closing Date. 
+
+9.6 Limitations on Purchaser's Indemnification Obligations. 
+Purchaser's obligations pursuant to the provisions of Section 9.5
+hereof are subject to the following limitations:
+
+(a) the Seller Indemnitees shall not be entitled to
+recover under Section 9.5(a) hereof until the total amount which
+Seller Indemnitees would recover under Section 9.5(a) hereof, but
+for this Section 9.6(a), exceeds [ ] and then only to the
+extent of the recoverable amount in excess of [ ] and
+
+(b) the Seller Indemnitees shall not be entitled to
+recover under Section 9.5(a) hereof unless a claim has been
+asserted by written notice, specifying in reasonable detail the
+alleged misrepresentation or breach of warranty.
+
+The foregoing notwithstanding, if the OCS makes a claim
+against Seller for amounts due which are the responsibility of
+Purchaser or Sub, such claims shall not be subject to any
+deductible.
+
+9.7 Third Party Claims. 
+
+(a) Forthwith following the receipt of notice of a
+claim, action or proceeding brought by a third party, including a
+governmental agency, as to which a party desires to receive
+indemnification under this Article IX (a "Third Party Claim"),
+the party receiving the notice of the Third Party Claim (a) shall
+notify the other party of its existence, setting forth with
+reasonable specificity the facts and circumstances of which such
+party has received notice and (b) if the party giving such notice
+is a person entitled to indemnification under this Article IX (an
+"Indemnified Party"), specifying the basis hereunder upon which
+the Indemnified Party's claim for indemnification is asserted. 
+The Indemnified Party may, upon reasonable notice, tender the
+defense of a Third Party Claim to the party having an obligation
+of indemnification under this Article IX (an "Indemnifying
+Party") or the Indemnifying Party may elect to accept the defense
+of a Third Party Claim. If the defense of a Third Party Claim is
+so tendered and such tender is accepted by the Indemnifying
+Party, or if the Indemnifying Party shall acknowledge in writing
+delivered to the Indemnified Party the Indemnifying Party's
+obligation to indemnify the Indemnified Party with respect to the
+Third Party Claim, then the Indemnifying Party shall have the
+exclusive right to contest, defend and litigate the Third Party
+Claim and shall have the exclusive right, in its discretion
+exercised in good faith and upon the advice of counsel, to settle
+any such matter, either before or after the initiation of
+litigation, at such time and upon such terms as it deems fair and
+reasonable, provided that at least ten (10) days prior to any
+such settlement, it shall give written notice of its intention to
+settle to the Indemnified Party. All expenses (including,
+without limitation, attorneys' fees) incurred by the Indemnifying
+Party in connection with the foregoing shall be paid by the
+Indemnifying Party. The Indemnified Party shall have the right
+to be represented by counsel at its own expense in any defense
+conducted by the Indemnifying Party. Notwithstanding the
+foregoing, in connection with any settlement negotiated by an
+Indemnifying Party, no Indemnified Party shall be required to (x)
+enter into any settlement that does not include the delivery by
+the claimant or plaintiff to the Indemnified Party of a release
+from all liability in respect of such claim or litigation or (y)
+consent to the entry of any judgment that does not include a full
+dismissal of the litigation or proceeding against the Indemnified
+Party with prejudice. 
+
+(b) In any case where an Indemnifying Party is
+handling the defense of a claim as a result of its election to do
+so, if the Indemnifying Party negotiates a settlement thereof,
+the Indemnified Party may elect not to enter into such
+settlement, provided that the Indemnified Party thereafter
+assumes the defense of such claim and if the Indemnified Party
+does so, then the maximum liability of the Indemnifying Party to
+the Indemnified Party for such Third Party Claim shall be the
+amount of such proposed settlement. No failure by an
+Indemnifying Party to acknowledge in writing its indemnification
+obligations under this Article IX shall relieve it of such
+obligations to the extent they exist. If, in accordance with the
+foregoing provisions of this Section 9.7 an Indemnified Party
+shall be entitled to indemnification against a Third Party Claim,
+and if (i) the Indemnified Party shall not tender the defense of
+the Third Party Claim, (ii) the Indemnifying Party shall fail to
+accept the defense of a Third Party Claim which has been tendered
+pursuant to this Section 9.7 or (iii) the Indemnifying Party
+shall fail to so acknowledge its obligation of indemnification,
+the Indemnified Party shall have the right, without prejudice to
+its right of indemnification hereunder, in its discretion
+exercised in good faith and upon the advice of counsel, to
+contest, defend and litigate such Third Party Claim, and may
+settle such Third Party Claim, either before or after the
+initiation of litigation, at such time and upon such terms as the
+Indemnified Party deems fair and reasonable, provided that at
+least ten (10) days prior to any such settlement, written notice
+of its intention to settle is given to the Indemnifying Party. 
+If, pursuant to this Section 9.7, the Indemnified Party so
+defends or settles a Third Party Claim for which it is entitled
+to indemnification hereunder, as hereinabove provided, the
+Indemnified Party shall be reimbursed by the Indemnifying Party
+for the reasonable attorneys' fees and other expense of defending
+the Third Party Claim which are incurred from time to time,
+forthwith following the presentation to the Indemnifying Party of
+itemized bills for said attorneys' fees and other expenses. All
+payments to counsel shall be treated as indemnity amounts
+hereunder. This Section 9.7 deals only with procedural matters
+and nothing herein shall be construed to expand either parties'
+obligations under Sections 9.1 to 9.6. All expenses incurred by
+an Indemnifying Party in defending any Third Party Claim as to
+which it has assumed the defense shall be treated for all
+purposes as indemnification payments hereunder.
+
+ARTICLE X
+
+Effect of Termination/Proceeding
+
+10.1 General. The parties shall have the rights and
+remedies with respect to the termination and/or enforcement of
+this Agreement which are set forth in this Article X. 
+
+10.2 Right to Terminate. Anything to the contrary herein
+notwithstanding, this Agreement and the transactions contemplated
+hereby may be terminated by delivery of notice as provided in
+Section 11.6 hereof: 
+
+(a) by mutual written agreement of Seller and
+Purchaser; or
+
+(b) by either Seller or Purchaser, if the Closing has
+not taken place on or prior to November 30, 1994; provided,
+however, that the right to terminate this Agreement pursuant to
+this Section 10.2(b) shall not be available to a party whose
+failure to fulfill any of its obligations under this Agreement
+has been the cause of, or resulted in, the failure of the Closing
+to occur on or prior to the aforesaid date. 
+
+10.3 Certain Effects of Termination. In the event of the
+termination of this Agreement by either Seller or Purchaser as
+provided in Section 10.2 hereof: 
+
+(a) each party, if so requested by the other party,
+will (i) return promptly every document (other than documents
+publicly available) furnished to it by the other party (or any
+subsidiary, division, associate or affiliate of such other party)
+in connection with the transactions contemplated hereby, whether
+so obtained before or after the execution of this Agreement, and
+any copies thereof which may have been made, and will cause its
+representatives and any representatives of financial institutions
+and investors and others to whom such documents were furnished
+promptly to return such documents and any copies thereof any of
+them may have made, or (ii) destroy such documents and cause its
+representatives and such other representatives to destroy such
+documents, and such party shall deliver a certificate executed by
+its president or vice president stating to such effect; and 
+
+(b) Seller and Purchaser shall continue to abide by
+the provisions of the Confidentiality Agreement. This
+Section 10.3 shall survive any termination of this Agreement. 
+
+10.4 Remedies. No party shall be limited to the termination
+right granted in Section 10.2 hereto by reason of the
+nonfulfillment of any condition to such party's closing
+obligations but may, in the alternative, elect to do one of the
+following: 
+
+(a) proceed to close despite the nonfulfillment of any
+closing condition, it being understood that consummation of the
+transactions contemplated hereby shall be deemed a waiver of any
+misrepresentation or breach of warranty or covenant and of any
+party's rights and remedies with respect thereto to the extent
+that the other party shall have actual knowledge of such
+misrepresentation or breach and the Closing shall nonetheless
+take place; or 
+
+(b) decline to close, terminate this Agreement as
+provided in Section 10.2 hereof, and thereafter seek damages to
+the extent permitted in Section 10.5 hereof. 
+
+10.5 Right to Damages. If this Agreement is terminated
+pursuant to Section 10.2 hereof, neither party hereto shall have
+any claim against the other except if the circumstances giving
+rise to such termination were caused by the other party's wilful
+failure to comply with a material covenant set forth herein, in
+which event termination shall not be deemed or construed as
+limiting or denying any legal or equitable right or remedy of
+said party, and said party shall be entitled to recover its costs
+and expenses which are incurred in pursuing its rights and
+remedies (including reasonable attorneys' fees). 
+
+ARTICLE XI
+
+Miscellaneous
+
+11.1 Investment Banking Fee. Purchaser shall be solely
+responsible for payment of, and shall pay, all fees and expenses
+due to Morgan Stanley & Co. Incorporated which arise by virtue of
+the consummation of the transactions contemplated hereby. 
+
+11.2 Expenses. Each party shall pay all of its own costs
+and expenses incurred with respect to the negotiation, execution
+and delivery of this Agreement, including all legal and
+accounting fees and expenses, whether or not the Acquisition is
+consummated, and any actions taken by either party in reliance on
+the Letter dated September 2, 1994 by and between Seller and
+Purchaser shall be at such party's sole risk and expense.
+
+11.3 Sales and Transfer Taxes. Purchaser and Sub shall pay
+all V.A.T., sales, use, transfer and conveyance taxes arising in
+connection with the sale and transfer of the Purchased Assets to
+Purchaser and Sub pursuant to this Agreement and the Ancillary
+Agreements. Such payment shall be delivered to Seller, in
+addition to the Aggregate Consideration, and Seller shall
+promptly deliver such amount to the taxation authority. 
+
+11.4 Definition of Best Efforts and Seller's Knowledge. 
+Except as otherwise specifically provided in this Agreement, for
+purposes of this Agreement, the phrases "best efforts" and "best
+efforts to cause," when used with reference to efforts to be made
+by a party hereto or any of its Affiliates: 
+
+(a) shall not require such party or any of its
+Affiliates to pay or transfer any money, property or other thing
+of value to any other party except nominal and routine charges
+for filing or recording fees, and courier and other communication
+services; 
+
+(b) shall require such party and its Affiliates to act
+with all reasonable promptness and dispatch with respect thereto;
+and 
+
+(c) shall require the other party and its Affiliates
+to act with all reasonable promptness and dispatch and to
+cooperate in all material respects with the first party's and its
+Affiliates' efforts in connection therewith. 
+
+Seller's knowledge shall mean the actual knowledge of the
+Chairman, the President and the Chief Financial Officer of Nice
+Systems and the Vice President, Hardware and the President of
+Seller, after reasonable internal inquiry.
+
+11.5 Publicity. Until the Closing, unless otherwise
+required by applicable law or stock exchange rules, press
+releases concerning the transactions contemplated hereby shall be
+made only with the prior agreement of the Seller and Purchaser,
+which agreement shall not be unreasonably withheld. 
+
+11.6 Notices. All notices required or permitted to be given
+hereunder shall be in writing and shall be deemed given when
+delivered in person or sent by confirmed facsimile, or when
+received if given by Federal Express or other internationally
+recognized overnight courier service, or five (5) business days
+after being deposited in the mail, postage prepaid, registered or
+certified airmail, addressed to the applicable party as follows: 
+
+if to Seller, addressed to Seller: 
+
+NiceCom, Ltd.
+3 Tevout Ha'aretz Street
+P.O. Box 24057
+Tel Aviv, 61240 Israel
+Fax: 972-3-494342
+
+with a copy to: 
+
+David Ben-Ze'ev
+Ben-Ze'ev, Hacohen & Co. Advocates
+Jerusalem, 18 Abrabonel St., Rehavia
+P.O.B. 7685 Zip 91076
+Fax: 972-2-634872 
+
+if to Purchaser, addressed to Purchaser: 
+
+3Com Corporation 
+5400 Bayfront Plaza
+P.O. Box 58145
+Santa Clara, CA 95052-8145
+Attention: General Counsel
+Fax: 408-764-6434
+
+with a copy to:
+
+Gray Cary Ware & Freidenrich
+400 Hamilton Avenue
+Palo Alto, California 94301
+Attn: [ ] Esq.
+Fax: 415-327-3699
+
+and/or to such other respective addresses and/or addressees as
+may be designated by notice given in accordance with the
+provisions of this Section 11.6. 
+
+11.7 Entire Agreement. This Agreement and the Ancillary
+Agreements and the other documents delivered on the date hereof
+constitute the entire agreement between the parties and their
+respective Affiliates and shall be binding upon and inure to the
+benefit of the parties hereto and their respective legal
+representatives, successors and permitted assigns. Each exhibit,
+and the Disclosure Schedule, shall be considered incorporated
+into this Agreement. Any matter which is disclosed in any
+portion of the Disclosure Schedule is deemed to have been
+disclosed for the purposes of all relevant provisions of this
+Agreement and the Ancillary Agreements. The inclusion of any
+item in the Disclosure Schedule is not evidence of the
+materiality of such item for the purposes of this Agreement and
+the Ancillary Agreements. The parties and their respective
+Affiliates make no representations or warranties to each other,
+except as contained in this Agreement and the Ancillary
+Agreements, and any and all prior representations and statements
+made by any party or its representatives, whether verbally or in
+writing, are deemed to have been merged into this Agreement and
+the Ancillary Agreements, it being intended that no such
+representations or statements shall survive the execution and
+delivery of this Agreement and the Ancillary Agreements. 
+Purchaser acknowledges that it has conducted an independent
+investigation of the financial condition, assets, liabilities,
+properties and projected operations of the Business, with the
+assistance of Israeli counsel and accountants, in making its
+determination as to the propriety of the transactions
+contemplated by this Agreement and the Ancillary Agreements, and
+in entering into this Agreement and the Ancillary Agreements has
+relied solely on the results of said investigation and on the
+representations and warranties of Seller expressly contained in
+this Agreement and in the closing documents delivered by Seller
+pursuant to the provisions of this Agreement. 
+
+11.8 Non-Waiver. The failure in any one or more instances
+of a party to insist upon performance of any of the terms,
+covenants or conditions of this Agreement or any of the Ancillary
+Agreements, to exercise any right or privilege in this Agreement
+or any of the Ancillary Agreements conferred, or the waiver by
+said party of any breach of any of the terms, covenants or
+conditions of this Agreement or any of the Ancillary Agreements,
+shall not be construed as a subsequent waiver of any such terms,
+covenants, conditions, rights or privileges, but the same shall
+continue and remain in full force and effect as if no such
+forbearance or waiver had occurred. Except as provided in
+Section 10.4(a) hereof, no waiver shall be effective unless it is
+in writing and signed by an authorized representative of the
+waiving party. 
+
+11.9 Counterparts. This Agreement and the Ancillary
+Agreements may be executed in counterparts, each of which shall
+be deemed to be an original, and all such counterparts shall
+constitute but one instrument. 
+
+11.10 Severability. The invalidity of any provision of
+this Agreement or any of the Ancillary Agreements or portion of a
+provision hereof or thereof shall not affect the validity of any
+other provision of this Agreement or any of the Ancillary
+Agreements or the remaining portion of the applicable provision. 
+
+11.11 Applicable Law; Jurisdiction and Venue. This
+Agreement and the Ancillary Agreements shall be governed and
+controlled as to validity, enforcement, interpretation,
+construction, effect and in all other respects by the internal
+laws (excluding conflicts of law rules) of the State of
+California applicable to contracts made and performed in that
+State (except with respect to the Key Employee Agreements, which
+shall be governed and controlled as to validity, enforcement,
+interpretation, construction, effect and in all other respects by
+the internal laws (excluding conflicts of law rules) of Israel). 
+Except as otherwise provided in the Key Employee Agreements, the
+Superior Court of Santa Clara County and/or the United States
+District Court for the Northern District of California shall have
+exclusive jurisdiction and venue over all controversies in
+connection herewith. Each party consents to the personal
+jurisdiction of each such court. The parties exclude in its
+entirety the application to this Agreement of the United Nations
+Convention on Contracts for the International Sale of Goods.
+
+11.12 Binding Effect; Benefit. This Agreement and the
+Ancillary Agreements shall inure to the benefit of and be binding
+upon the parties hereto and thereto, respectively, and their
+successors and permitted assigns. Nothing in this Agreement,
+express or implied, is intended to confer on any person other
+than the parties hereto and thereto, respectively, and their
+respective successors and permitted assigns, any rights,
+remedies, obligations or liabilities under or by reason of this
+Agreement or any of the Ancillary Agreements, including, without
+limitation, third party beneficiary rights. 
+
+11.13 Assignability. Neither this Agreement nor any of
+the Ancillary Agreements shall be assignable by either party
+hereto or thereto without the prior written consent of the other
+party, except that Purchaser may assign this Agreement or any of
+the Ancillary Agreements to one or more subsidiaries of
+Purchaser, but such assignment shall not relieve Purchaser of any
+of its liabilities or obligations hereunder. 
+
+11.14 Amendments. This Agreement shall not be modified,
+amended or supplemented, except pursuant to an instrument in
+writing executed and delivered on behalf of each of the parties
+hereto. 
+
+11.15 Headings. The headings contained ln this
+Agreement are for convenience of reference only and shall not
+affect the meaning or interpretation of this Agreement. 
+
+11.16 Governmental Reporting. Each party agrees to
+cooperate with the other party in the preparation and/or filing
+of forms, statements and/or reports required by law with any
+governmental authority pursuant to or in connection with the
+transactions contemplated hereby, and to furnish the other party
+with copies of all such forms, statements and reports prepared in
+draft form, within a reasonable period before the filing due
+date. Anything to the contrary in this Agreement
+notwithstanding, nothing in this Agreement shall be construed to
+mean that a party hereto or other person must make or file, or
+cooperate in the making or filing of, any form, statement or
+report to any governmental authority that such person or such
+party reasonably believes or reasonably is advised is not in
+accordance with law. 
+
+11.17 Waiver of Trial by Jury. Each of the parties
+hereto waives the right to a jury trial in connection with any
+suit, action or proceeding seeking enforcement of such party's
+rights under this Agreement.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement
+on the date first above written. 
+
+NICECOM, LTD. NICE SYSTEMS, LTD.
+
+By: \s\ David Arzi By: \s\ David Arzi 
+
+Title: Director Title: Chairman 
+
+By: \s\ Nachman Shelef By: \s\ Hanan Miron 
+
+Title: President Title: Vice President, CFO
+
+NICE SOFTWARE, LTD.
+
+By: David Arzi \s\ Nachman Shelef
+Nachman Shelef
+Title: Chairman 
+
+By: \s\ Hanan Miron \s\ Avinoam Rubinstein 
+Avinoam Rubinstein
+Title: Vice President, CFO 
+
+3COM CORPORATION
+
+By: \s\ Eric Benhamou 
+
+Title: Chairman & CEO 
+
+EXHIBIT 2.2(b) - LIST OF EXCLUDED EQUIPMENT
+
+None. 
+
+EXHIBIT 2.2(g) - LIST OF EXCLUDED SUPPLY AGREEMENTS
+
+Agreement with ESL dated November 2, 1993. 
+
+EXHIBIT 2.2(h) - LIST OF EXCLUDED LICENSE AGREEMENTS
+
+Agreement with ESL dated November 2, 1993. 
+
+EXHIBIT 2.3(c) - LIST OF EXCLUDED ASSETS
+
+Fibronics Agreement subject to the late assignment provisions of
+Section 8.4.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-7
+<SEQUENCE>3
+<TEXT>
+FIRST AMENDMENT TO ASSET PURCHASE AGREEMENT
+
+This FIRST AMENDMENT TO ASSET PURCHASE AGREEMENT
+("Amendment") is made as of October 17, 1994 by and among
+NICECOM, LTD., a company organized under the laws of Israel
+("Seller") and 3COM CORPORATION, a California corporation
+("Purchaser") each of which are parties to an ASSET PURCHASE
+AGREEMENT ("Agreement") dated September 18, 1994. 
+
+RECITALS
+
+A. Seller and Purchaser desire to amend certain provisions
+of the Agreement regarding the method of payment of the purchase
+price.
+
+B. There are certain other parties to the Agreement but
+such parties are not deemed to be parties for purposes of the
+sections to be amended, and therefore no consent of such parties
+hereto is required. 
+
+AGREEMENT
+
+NOW, THEREFORE, for good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, the
+parties agree as follows: 
+
+1. Defined Terms; No Other Amendment. Unless otherwise defined
+herein, all capitalized terms shall have the same meanings as
+provided in the Agreement. Except as specifically amended
+hereby, all other terms of the Agreement shall continue in affect
+without amendment, and this Amendment shall be deemed to be a
+part of the Agreement.
+
+2. Manner of Payment of the Purchase Price. The parties have
+determined that the Purchase Price should be reduced in an amount
+equivalent to an amount of cash or cash equivalents to be
+retained by Seller. As a result Purchaser will reduce the
+amount of the Cash Consideration to be paid by wire transfer by
+an amount equivalent to the value of such cash and cash
+equivalents, and Purchaser agrees that such cash and cash
+equivalents shall not be a part of the assets to be acquired. 
+Seller shall convert all securities held by it to cash, and shall
+retain a portion of such cash as determined below. All other
+cash shall be transferred by Seller to Sub at the Closing by
+instruction to Seller bank to transfer such amount to an account
+established by Sub. To effect this change the parties agree that
+the following sections of the Agreement shall be amended as
+follows: 
+
+a. Section 1.2 shall read in full as follows: 
+
+"Purchase Price. In consideration of the sale, conveyance,
+assignment, transfer and delivery of the Purchased Assets,
+Purchaser shall (a) pay, or cause Sub to pay, to Seller, the
+Aggregate Consideration (as herein defined) and (b) assume, or
+cause Sub to assume, the Assumed Liabilities. As used herein,
+"Aggregate Consideration" means Fifty Three Million Thirty Seven
+Thousand Three Hundred and Twelve U.S. Dollars ($53,037,312),
+less an amount of U.S. Dollars equal to (i) Four Million Seven
+Hundred Thousand (NIS4,700,000) Israeli Shekels multiplied by
+(ii) the exchange rate obtained by 3Com upon the exchange of U.S.
+dollars for Israeli Shekels on the Closing Date with respect to
+the exchange necessary to obtain Shekels to pay the portion of
+the purchase price to be paid by Sub. 
+
+b. The first sentence of Section 1.3 shall read in
+full as follows: 
+
+"Cash Consideration" shall mean the cash consideration to be paid
+to Seller as consideration for the Purchased Assets, which shall
+be an amount equal to the Aggregate Consideration in U.S. Dollars
+minus the Value of the Stock Consideration.
+
+c. Section 1.5 is amended to add a new subsection
+(a), and existing subsections (a), (b) and (c) (and all
+references in the Agreement to such subsections) are redesignated
+as (b), (c) and (d). 
+
+d. Section 1.5 is amended to add a new subsection (a)
+to read in full as follows:
+
+"(a) A portion of the Purchase Price is attributable to the
+Purchased Assets to be transferred to Sub, which shall be an
+Israeli corporation, and such portion of the Purchase Price shall
+be as set forth in the bill of sale for such Purchased Assets to
+be delivered at the Closing. The remaining portion of the
+Purchase Price shall be attributable to the Purchased Assets to
+be transferred to Purchaser. The portion of the Purchase Price
+attributable to the Purchased Assets to be transferred to Sub
+shall be paid to Seller either in U.S. dollars or in Israeli
+shekels."
+
+e. Section 1.5(b) is amended to add the following
+sentence at the end thereof: 
+
+" For purposes of paying the Cash Consideration, a portion of the
+Cash Consideration shall be payable in Israeli shekels, as
+determined in Section 1.5(a) and the remaining amount paid to
+Seller shall be paid in U.S. dollars."
+
+f. Section 2.2 (e) is amended to read in full as
+follows: "(e) all cash, cash equivalents, securities, notes
+payable or other debts owed to Seller and deposits and rights
+with respect to the Purchased Assets, and all lock-box accounts
+which are used in the conduct of the Business, located in, or
+arising under the laws of (i) Israel; or (ii) the United States,
+as enumerated in the Disclosure Schedule (as defined below),
+provided however, that an amount of cash or cash equivalents with
+a value of 4,700,000 shekels shall not be a Purchased Asset;"
+
+g. Section 2.3 is amended to include as an Excluded
+Asset a certain amount of cash and an additional contract by
+amending subsection (c) thereof to read in full as follows: "(c)
+an amount of cash or cash equivalents with a value of 4,700,000
+shekels, the Epilogue Agreement referred to in Section 5.2(d)
+(ii), and all assets identified as excluded from purchase under
+Exhibit 2.3(c) - List of Excluded Assets."
+
+h. The definition of "Purchaser Closing Price in
+Section 1.3 of the Agreement shall be revised to read in full as
+follows "Purchaser Closing Price" shall mean the average of the
+closing prices of a share of Purchaser's common stock on the ten
+(10) consecutive trading days up to and including the third
+trading day prior to the Closing Date.
+
+3. VAT Payment Date. Purchaser and Sub have been advised that
+pursuant to Section 20 of the VAT law of the Israel, the director
+of VAT has approved the payment by Sub of any VAT that is due
+directly to such director. The parties agree that VAT payments
+with respect to the transaction are not required to be paid until
+November 15, 1994, and, further, that such payments will not be
+paid by Seller, and are not due from Sub to Seller, but will be
+paid directly by Sub. Purchaser agrees to cause Sub to make such
+payment and to indemnify Seller against any claims which may be
+made against it by the director of VAT in respect of the
+transaction. 
+
+4. Calculation of Escrow Amounts. The foregoing amendments
+notwithstanding, all calculations of the amounts to be deposited
+in Escrow shall be based upon the Aggregate Consideration and the
+Cash Consideration as defined in the Agreement prior to this
+Amendment.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement
+on the date first above written. 
+
+NICECOM, LTD.
+
+By: \s\ Hanan Miron
+
+Title: Vice President, CFO
+
+By: \s\ Nachman Shelef
+
+Title: President
+
+3COM CORPORATION
+
+By: \s\ Mark D. Michael
+
+Title: VP, General Counsel
+and Secretary
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

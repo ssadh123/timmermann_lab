@@ -1,0 +1,290 @@
+<IMS-DOCUMENT>0000912057-94-002355.txt : 19940722
+<IMS-HEADER>0000912057-94-002355.hdr.sgml : 19940722
+ACCESSION NUMBER:		0000912057-94-002355
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19940721
+ITEM INFORMATION:		Other events
+FILED AS OF DATE:		19940721
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONTROL DATA SYSTEMS INC
+		CENTRAL INDEX KEY:			0000887309
+		STANDARD INDUSTRIAL CLASSIFICATION:	3571
+		IRS NUMBER:				411718075
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0101
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20252
+		FILM NUMBER:		94539452
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4201 LEXINGTON AVE NORTH
+		CITY:			ARDENHILLS
+		STATE:			MN
+		ZIP:			55126-6198
+		BUSINESS PHONE:		6124824470
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<PAGE>
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC 20549
+
+FORM 8-K
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): JULY 21, 1994
+
+CONTROL DATA SYSTEMS, INC.
+(Exact Name of Registrant as Specified in its Charter)
+
+DELAWARE
+(State or Other Jurisdiction of Incorporation)
+
+0-20252 41-1718075
+(Commission File Number) (I.R.S. Employer Identification Number)
+
+4201 LEXINGTON AVENUE NORTH
+ARDEN HILLS, MINNESOTA 55126-6198
+(Address of Principal Executive Offices) (Zip Code)
+
+(612) 482-2100
+(Registrant's Telephone Number, Including Area Code)
+
+Not Applicable
+(Former Name or Former Address, if Changed Since Last Report)
+<PAGE>
+
+ITEM 5. OTHER EVENTS.
+
+Control Data Systems, Inc. (the "Registrant" or the "Company") has
+announced results of its second quarter for fiscal 1994. The Company reported
+1994 second quarter net earnings of $0.7 million, or $0.05 per share, on
+revenues of $131.3 million. This compares to net earnings of $4.3 million, or
+$.32 per share, on revenues of $114.9 million for the second quarter of 1993.
+While revenues were 14 percent greater than the second quarter of 1993, the
+profit levels reached in the second quarter fell below the company's internal
+plan.
+
+"We are pleased that we have been able to once again report a profitable
+quarter," said Jim Ousley, president and chief executive officer of Control Data
+Systems, "but we must continue to stabilize the operating profit margins
+required for success in our systems integration business model."
+
+The company's second quarter profit levels were influenced by difficulties
+in certain European countries, the continuing deferral of application
+development and systems integration projects in Asia, and the redirection of a
+few commercial integration projects in the United States.
+
+"In light of these second quarter factors, and the projected weakness we
+customarily experience in the third quarter, our current expectations for 1994
+now appear to be below our previous expectations," said Ousley. "Gross margins,
+while slightly improved over the first quarter, will continue to be
+significantly lower than the previous year when proprietary hardware sales were
+a much more significant part of the revenue stream.
+
+"Our experience in the second quarter also suggests that additional steps
+need to be taken to sustain acceptable profitability, which is a function both
+of continued revenue growth in our new business and effective controls on
+expenses and resources," said Ousley.
+
+"When we embarked on our strategy to transition the business, we knew it
+would be difficult," said Ousley. "We are very encouraged, however, by the
+significant orders received during the second quarter from new customers in the
+Fortune 500 and major international organizations. Prospect activity remains
+extremely strong and demand for large scale network and application integration,
+particularly in the area of electronic commerce, appears promising. Although the
+realignment of our resources to support these efforts remains a major challenge,
+we are confident in the viability and size of this market opportunity as well as
+our ability to address it."
+<PAGE>
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(Dollars in thousands, except per share data)
+
+Control Data Systems, Inc.
+
+<TABLE>
+<CAPTION>
+
+Three Months Ended Six Months Ended
+July 2, July 3, July 2, July 3,
+1994 1993 1994 1993
+------- -------- -------- --------
+<S> <C> <C> <C> <C>
+Total Revenues $131,274 $114,901 $276,904 $217,646
+Total Cost of Revenues 92,115 71,095 197,729 132,697
+Gross Profit 39,159 43,806 79,175 84,949
+Operating Expenses:
+Selling, General and
+Administrative 34,745 34,394 69,916 67,940
+Technical 3,649 7,296 7,230 14,715
+Total Operating Expenses 38,394 41,690 77,146 82,655
+Earnings from Operations 765 2,116 2,029 2,294
+Other Income (Expenses):
+Interest Expense (386) (445) (663) (1,133)
+Interest Income 1,088 1,595 2,293 3,389
+Other Income (Expenses), Net (283) 2,280 (686) 3,584
+
+Total Other Income, Net 419 3,430 944 5,840
+
+Earnings Before Income Taxes 1,184 5,546 2,973 8,134
+
+Provision for Income Taxes 501 1,229 931 2,479
+
+Net Earnings $ 683 $ 4,317 $ 2,042 $ 5,655
+
+Net Earnings per
+Common Share and
+Common Share Equivalents $ 0.05 $ 0.32 $ 0.15 $ 0.43
+
+Weighted Average
+Common Shares
+Outstanding(in thousands) 13,904 13,290 13,862 13,299
+
+</TABLE>
+<PAGE>
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Dollars in thousands)
+
+Control Data Systems, Inc.
+
+<TABLE>
+<CAPTION>
+
+July 2, January 1,
+1994 1994
+------- ---------
+<S> <C> <C>
+ASSETS
+
+Current Assets:
+Cash and Short-term Investments $ 73,931 $ 81,635
+Trade and Other Receivables 126,767 125,470
+Inventories 56,832 56,222
+Prepaid Expenses and Other Current Assets 7,243 7,898
+
+Total Current Assets 264,773 271,225
+
+Property and Equipment, Net 29,357 28,058
+Leased and Data Center Equipment, Net 3,142 4,779
+Other Noncurrent Assets 56,023 48,861
+
+Total Assets $353,295 $352,923
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current Liabilities:
+Short-Term Debt $ 10,421 $ 1,891
+Restructure Reserves, Current Portion 13,469 21,722
+Other Accrued Expenses 106,439 113,744
+
+Total Current Liabilities 130,329 137,357
+
+Deferred Income Taxes 1,025 1,123
+Restructure Reserves, less Current Portion 9,501 10,554
+Pension Liabilities 29,782 27,870
+Other Noncurrent Liabilities 5,077 843
+
+Total Liabilities 175,714 177,747
+
+Stockholders' Equity 177,581 175,176
+
+Total Liabilities and Stockholders' Equity $353,295 $352,923
+
+</TABLE>
+<PAGE>
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Dollars in thousands)
+
+Control Data Systems, Inc.
+
+<TABLE>
+<CAPTION>
+
+Six Months Ended
+July 2, July 3,
+1994 1993
+------- --------
+<S> <C> <C>
+Cash Flows from Operating Activities:
+
+Net earnings $ 2,042 $ 5,655
+Adjustments to reconcile net earnings to net
+cash used in operating activities:
+Depreciation 7,686 8,223
+Amortization 2,130 595
+Restructure reserves utilized (9,786) (14,450)
+Net change in working capital items (8,303) (1,186)
+Other (757) (5,783)
+
+Net cash used in operating activities (6,988) (6,946)
+
+Cash Flows from Investing Activities:
+
+Expended for property and equipment (4,569) (6,862)
+Proceeds from sales of property and equipment 242 1,787
+Proceeds from sale of Silicon Graphics, Inc.
+common stock -- 3,244
+Acquisitions of businesses, net of cash provided (3,844) (10,687)
+Change in short-term investments 3,651 28,166
+
+Net cash (used in) provided by investing
+activities (4,520) 15,648
+
+Cash Flows from Financing Activities:
+
+Borrowings under short-term financing
+arrangements, net 6,070 5,705
+Repayment of long-term obligations -- (7,125)
+Proceeds from issuance of common stock,
+net of issuance costs 1,295 635
+Proceeds from issuance of a nonrefundable
+equity option -- 2,813
+
+Net cash provided by financing activities 7,365 2,028
+
+Effect of Exchange Rate Changes on Cash 90 (581)
+
+Net change in cash and cash equivalents (4,053) 10,149
+Cash and cash equivalents, beginning of period 19,164 5,142
+
+Cash and cash equivalents, end of period 15,111 15,291
+Short-term investments 58,820 101,115
+
+Cash and short-term investments, end of period $73,931 $116,406
+
+</TABLE>
+<PAGE>
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Date: July 21, 1994.
+
+CONTROL DATA SYSTEMS, INC.
+
+By /s/ James E. Ousley
+--------------------------------
+James E. Ousley, President and
+Chief Executive Officer
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

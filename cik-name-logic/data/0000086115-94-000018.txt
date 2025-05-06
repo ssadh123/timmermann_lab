@@ -1,0 +1,702 @@
+<IMS-DOCUMENT>0000086115-94-000018.txt : 19941227
+<IMS-HEADER>0000086115-94-000018.hdr.sgml : 19941227
+ACCESSION NUMBER:		0000086115-94-000018
+CONFORMED SUBMISSION TYPE:	8-K/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19941216
+ITEM INFORMATION:		Acquisition or disposition of assets
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		19941216
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SAFEGUARD SCIENTIFICS INC ET AL
+		CENTRAL INDEX KEY:			0000086115
+		STANDARD INDUSTRIAL CLASSIFICATION:	5045
+		IRS NUMBER:				231609753
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05620
+		FILM NUMBER:		94565161
+
+	BUSINESS ADDRESS:	
+		STREET 1:		435 DEVON PARK DR
+		STREET 2:		800 THE SAFEGUARD BLDG
+		CITY:			WAYNE
+		STATE:			PA
+		ZIP:			19087
+		BUSINESS PHONE:		6102930600
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SAFEGUARD INDUSTRIES INC
+		DATE OF NAME CHANGE:	19810525
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SAFEGUARD CORP
+		DATE OF NAME CHANGE:	19690521
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K/A
+<SEQUENCE>1
+<TEXT>
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K/A
+
+AMENDMENT TO APPLICATION OR REPORT
+Filed Pursuant to Section 12, 13 or 15 (d) of
+THE SECURITIES EXCHANGE ACT OF 1934
+
+SAFEGUARD SCIENTIFICS, INC.
+(Exact name of registrant as specified in its charter)
+
+COMMISSION FILE NO. 1-5620
+
+AMENDMENT NO. 1
+
+The undersigned registrant hereby amends the following items, financial
+statements, exhibits or other portions of its current report on Form 8-K
+dated October 17, 1994 as set forth on the pages attached hereto:
+
+(a) Item 7 - Financial Statements, Pro Forma Financial Information
+and Exhibits
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this amendment to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+SAFEGUARD SCIENTIFICS, INC.
+
+By: /s/Gerald M. Wilk
+-------------------
+Gerald M. Wilk
+Vice President - Finance
+Dated: December 16, 1994
+
+SAFEGUARD SCIENTIFICS, INC.
+COMMISSION FILE NO. 1-5620
+
+Item 7. Financial Statements, Pro Forma Financial Information and
+Exhibits
+
+(a) Financial Statements of Maximis
+
+1. Report of Ernst & Young LLP, Independent Auditors.
+
+2. Balance Sheet as of September 30, 1994 and December 31, 1993 and 1992.
+
+3. Statements of Operations for the years ended December 31, 1993,
+1992 and 1991, and for the nine months ended September 30, 1994 and
+1993 (unaudited).
+
+4. Statements of Cash Flows for the years ended December 31, 1993,
+1992 and 1991, and for the nine months ended September 30, 1994 and
+1993 (unaudited).
+
+5. Notes to Financial Statements.
+
+(b) Safeguard Scientifics, Inc. Pro Forma Financial Information (Unaudited)
+
+1. Description of Pro Forma Financial Information.
+
+2. Pro Forma Consolidated Statement of Operations for the year ended
+December 31, 1993.
+
+3. Pro Forma Consolidated Statement of Operations for the nine months
+ended September 30, 1994.
+
+4. Notes to Pro Forma Consolidated Statements of Operations.
+
+5. Pro Forma Consolidated Balance Sheet as of September 30, 1994.
+
+(c) Exhibits
+
+23.1 Consent of Independent Auditors.
+
+Report of Ernst & Young LLP, Independent Auditors
+
+The Board of Directors
+Texas Instruments Incorporated
+
+We have audited the accompanying balance sheet of MAXIMIS
+(formerly a business unit of Texas Instruments Incorporated) at
+December 31, 1993 and 1992 and September 30, 1994, and the
+related statements of operations and cash flows for each of the
+three years in the period ended December 31, 1993 and the nine
+months ended September 30, 1994. These financial statements are
+the responsibility of the management of Texas Instruments
+Incorporated. Our responsibility is to express an opinion on
+these financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted
+auditing standards. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether
+the financial statements are free of material misstatement. An
+audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An
+audit also includes assessing the accounting principles used
+and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We
+believe that our audits provide a reasonable basis for our
+opinion.
+
+As discussed in Note 1, Premier Solutions Ltd. acquired certain
+assets and assumed certain liabilities of MAXIMIS as of
+September 30, 1994. Prior to September 30, 1994, MAXIMIS was a
+part of Texas Instruments Incorporated and, as such, had no
+separate legal status or existence. Transactions with Texas
+Instruments Incorporated are described in Note 2.
+
+In our opinion, the financial statements referred to above
+present fairly, in all material respects, the financial
+position of MAXIMIS at December 31, 1993, 1992 and September
+30, 1994, and the results of its operations and cash flows for
+each of the three years in the period ended December 31, 1993
+and the nine months ended September 30, 1994, in conformity
+with generally accepted accounting principles.
+
+Ernst & Young LLP 
+
+December 2, 1994
+Dallas, Texas
+
+MAXIMIS
+Balance Sheets
+<TABLE>
+<CAPTION>
+September 30 December 31
+------------ -------------
+1994 1993 1992
+----- ----- -----
+(In Thousands)
+<S> <C> <C> <C>
+Assets
+Current assets:
+Receivables $6 $599 $3
+Prepaid commissions 29 120 112
+----- ------- ------
+
+Total current assets 35 719 115
+Equipment 505 485 384
+Less accumulated depreciation (320) (258) (169)
+----- ------- ------
+
+Equipment, net 185 227 215
+
+Capitalized software -- 11,377 8,329
+
+Goodwill less accumulated amortization
+of $629,000, $518,000 and $366,000 as
+of September 30, 1994 and December 31,
+1993 and 1992, respectively 111 222 374
+----- ------- ------
+Total assets $331 $12,545 $9,033
+===== ======= ======
+Liabilities and Divisional Account
+Current liabilities:
+Accounts payable $142 $126 $215
+Accrued employee benefits 488 387 305
+Deferred maintenance revenue 59 129 28
+Other accrued expenses -- -- 67
+----- ------- ------
+Total current liabilities 689 642 615
+
+Accrued retirement costs 487 522 300
+
+Divisional account (845) 11,381 8,118
+----- ------- ------
+Total liabilities and divisional deficit $331 $12,545 $9,033
+===== ======= ======
+
+</TABLE>
+
+See accompanying notes.
+
+Maximis
+
+Statements of Operations
+
+<TABLE>
+<CAPTION>
+For the nine months
+ended September 30 For the year ended
+1994 1993 December 31
+------------------------
+(unaudited) 1993 1992 1991
+----- ------- ------ ------ ------
+(In Thousands)
+
+<S> <C> <C> <C> <C> <C>
+Revenue:
+Sales $6 $753 $1,568 $530 $2,059
+Service 247 209 313 228 267
+------- -------- -------- -------- --------
+Total revenue 253 962 1,881 758 2,326
+
+Operating costs and
+expenses:
+Cost of revenue 5,891 4,948 6,696 7,095 4,575
+Write-off of
+capitalized software
+(Note 3) 12,149 -- -- -- --
+Selling, general, and
+administrative 1,287 1,183 1,503 1,607 736
+------- -------- -------- -------- --------
+Total operating costs
+and expenses 19,327 6,131 8,199 8,702 5,311
+------- -------- -------- -------- --------
+Net loss $(19,074) $(5,169) $(6,318) $(7,944) $(2,985)
+========== ======== ======== ======== ========
+</TABLE>
+
+See accompanying notes.
+
+Maximis
+
+Statements of Cash Flows
+
+<TABLE>
+<CAPTION>
+
+For the nine months
+ended September 30
+----------------------------
+1994 1993 For the year ended December 31
+--------------------------------
+(unaudited) 1993 1992 1991
+------------- ------------ --------- -------- --------
+(In Thousands)
+<S> <C> <C> <C> <C> <C>
+Operating Activities
+Net loss $(19,074) $(5,169) $(6,318) $(7,944) $(2,985)
+Depreciation 73 66 89 78 76
+Amortization 885 2,438 3,249 1,842 148
+Write-off of capitalized software 12,149 -- -- -- --
+(Increase) decrease in working capital:
+Accounts receivable 593 (596) (596) 1,427 (1,312)
+Prepaid commissions 91 (8) (8) (112) -
+Accounts payable and accrued expenses 47 31 27 65 358
+Accrued retirement costs (35) 222 222 300 --
+--------- -------- -------- ------- --------
+Net cash used in operating activities (5,271) (3,016) (3,335) (4,344) (3,715)
+
+Investing Activities
+Capitalization of software development costs (1,546) (4,578) (6,145) (6,436) (3,165)
+Additions to equipment (31) (72) (101) (71) (147)
+--------- -------- -------- ------- --------
+Net cash used in investing activities (1,577) (4,650) (6,246) (6,507) (3,312)
+
+Financing Activity
+Net transfers from parent 6,848 7,666 9,581 10,851 7,027
+
+Net change in cash and cash equivalents -- -- -- -- --
+Cash and cash equivalents at beginning of year -- -- -- -- --
+--------- -------- -------- ------- --------
+Cash and cash equivalents at end of year $-- $-- $-- $-- $--
+========= ======== ======== ======= ========
+</TABLE>
+
+See accompanying notes.
+
+Maximis
+
+Notes to Financial Statements
+
+September 30, 1994
+
+1. Description of Business and Subsequent Event
+
+MAXIMIS (the Business) was formerly a business unit of Texas
+Instruments Incorporated (the Parent) which marketed an
+investment management information system to leading insurance
+companies and state pension funds for a wide range of asset
+management and investment accounting applications. The Business
+is economically dependent on four primary customers which
+account for substantially all revenues earned. As of September
+30, 1994, Premier Solutions Ltd. acquired certain assets and
+assumed certain liabilities of the Business as defined in the
+purchase agreement.
+
+2. Significant Accounting Policies
+
+Allocation of Expenses
+
+The Parent provides various administrative services to the
+Business including marketing, data processing and personnel
+services. The Parent charged these expenses and all other
+central operating costs, first on the basis of direct usage
+when identifiable, with the remainder allocated among the
+Parent's division entities on the basis of their respective
+revenues, headcount, or level of effort. Rent expense was
+allocated to the Business based on square footage used. In the
+opinion of management, these methods of allocation are
+reasonable.
+
+Capitalized Software
+
+The Business capitalizes certain software development costs.
+Amounts capitalized are amortized by the straight-line method
+over three years.
+
+Equipment
+
+Equipment is stated at cost and primarily consists of personal
+computers. Depreciation is computed over the estimated useful
+life of five years using the 150 percent declining-balance
+method.
+
+Goodwill
+
+Goodwill consists of the excess of the purchase price over the
+fair value of the net assets of the business acquired and is
+amortized by the straight-line method over five years.
+
+2. Significant Accounting Policies (continued)
+
+Revenue Recognition
+
+The Business recognizes revenue from sales of software licenses
+upon delivery of the software product unless the Business has
+significant related obligations remaining. Revenue is not
+recognized until such obligations have been completed or are no
+longer significant. Service revenue is recognized upon
+performance. Revenue from maintenance contracts is deferred and
+recognized over the terms of the related contracts.
+
+Cash
+
+The Business's cash and short-term borrowing activities have
+been included in the Parent's cash management system, and the
+Business's cash receipts and disbursements were combined with
+other Parent cash transactions and balances. Accordingly, no
+cash balances or short-term borrowings are presented in the
+accompanying balance sheet. The net cash transfers between the
+Business and the Parent appear in the accompanying statement of
+cash flows as "Net transfers from parent" and are included in
+the "Divisional account" in the accompanying balance sheet.
+
+Pension and Other Postretirement Benefits
+
+The Business received an allocation from the Parent for the
+pension and postretirement benefits of Business employees. The
+Parent's actuarial valuation does not provide an allocation of
+the information relevant to the Business; thus, the related
+expense and liabilities have been determined for the Business
+based on headcount.
+
+3. Amortization of Capitalized Software Costs
+
+<TABLE>
+<CAPTION>
+Nine months ended
+September 30
+-----------------
+1994 1993 Year ended December 31
+-----------------------
+(unaudited) 1993 1992 1991
+------------------ ----- ------ -----
+(In Thousands)
+<S> <C> <C> <c <C> <C>
+
+Amortization of capitalized software costs $774 $2,323 $3,097 $1,698 $--
+
+</TABLE>
+
+In connection with the Parent's decision in 1994 to divest the Business, 
+capitalized software of $12,149 was written off
+in 1994. The write-off is reflected on the face of the Statement of Operations.
+4. Research and Development Expense
+
+<TABLE>
+<CAPTION>
+Nine months ended
+September 30
+-----------------
+1994 1993 Year ended December 31
+-----------------------
+(unaudited) 1993 1992 1991
+------------------ ----- ------ -----
+(In Thousands)
+<S> <C> <C> <C> <C> <C>
+
+Research and development expense $742 $140 $186 $393 $--
+
+</TABLE>
+
+5. Income Taxes
+
+The Business accounts for income taxes under Statement of
+Financial Accounting Standards No. 109. Although the Business
+was included in the Parent's consolidated tax return, the
+income taxes for the purposes of these financial statements
+have been prepared on a separate return basis. Accordingly, the
+net operating loss carryforwards and tax deductible items
+included below have already been utilized by the Parent. Under
+a separate return computation, there is no current provision
+for income taxes. Deferred income taxes reflect the net tax
+effects of temporary differences between the carrying amounts
+of assets and liabilities for financial reporting purposes and
+the amounts used for income tax purposes. The deferred income
+tax assets and liabilities consist of the following:
+
+<TABLE>
+<CAPTION>
+
+Nine months ended Year ended
+September 30 December 31
+----------------- -------------------------
+1994 1993 1992
+----------------- ------ ------
+(In Thousands)
+
+<S> <C> <C> <C> 
+Deferred income tax assets:
+Net operating loss carryforwards $11,981 $6,911 $5,950
+Accrued vacation 131 108 107
+Accrued retirement costs (pension and retiree
+health care) 210 210 105
+Other 21 45 33
+-------- ------- -------
+Subtotal deferred income tax assets 12,343 7,274 6,195
+Less valuation allowance (12,324) (5,681) (3,516)
+-------- ------- -------
+Total deferred income
+tax assets 19 1,593 2,679
+======== ======= =======
+
+Deferred income tax liabilities:
+Capitalized software -- (1,538) (2,622)
+Other (19) (55) (57)
+-------- ------- -------
+Total deferred income tax liabilities (19) (1,593) (2,679)
+======== ======= =======
+
+Net deferred income tax assets $-- $-- $--
+======== ======= =======
+
+</TABLE>
+
+SAFEGUARD SCIENTIFICS, INC.
+COMMISSION FILE NO. 1-5620
+
+SAFEGUARD SCIENTIFICS, INC.
+PRO FORMA FINANCIAL INFORMATION
+
+The pro forma consolidated financial statements should be read in
+conjunction with the related description of the acquisition of the Maximis
+Software Business Unit (Maximis) of Texas Instruments Incorporated by
+Premier Solutions, Ltd. (Premier) , a 94% owned subsidiary of the
+Registrant included in the Registrant's Form 8-K dated October 17, 1994.
+
+The Pro Forma Consolidated Statement of Operations for the year ended
+December 31, 1993 reflects the results of operations for the Registrant as
+if the acquisition of Maximis was consummated January 1, 1993. The Pro Forma
+Consolidated Statement of Operations for the nine months ended September
+30, 1994 reflects the results of operations for the Registrant as if the
+acquisition of Maximis was consummated January 1, 1994. The Pro Forma
+Consolidated Balance Sheet as of September 30, 1994 assumes the acquisition
+was consummated on September 30, 1994. Pro forma adjustments reflect the
+elimination of certain assets not purchased and the elimination of
+depreciation and amortization on certain of those assets, the elimination 
+of certain liabilities not assumed, the elimination of Maximis' equity 
+and the tax effect of pro forma adjustments.
+
+These pro forma results have been prepared for comparative purposes only
+and do not purport to be indicative of what would have occurred had the
+acquisition been made at January 1, 1993 or January 1, 1994, nor are they
+indicative of results which may occur in the future.
+
+<TABLE>
+<CAPTION>
+
+SAFEGUARD SCIENTIFICS, INC.
+PRO FORMA CONSOLIDATED STATEMENT OF OPERATIONS
+YEAR ENDED DECEMBER 31, 1993
+(000 omitted) except per share data
+
+Safeguard
+Scientifics, Pro Forma Consolidated
+Inc. Maximis Adjustments Pro Forma
+----------------------------------------------- ---------------
+<S> <C> <C> <C> <C>
+REVENUES
+Net sales $1,168,349 $1,881 $1,170,230
+Gains on sales of securities, net 9,574 9,574
+Other income 2,698 2,698
+----------------------------------------------- ---------------
+Total revenues 1,180,621 1,881 1,182,502
+
+Costs and Expenses
+Cost of revenues 940,900 6,696 (2,482)(a) 945,114
+Selling, general and administrative 180,500 1,262 (1,000)(b) 180,762
+Depreciation and amortization 18,422 241 ($241)(c) 18,422
+Interest 13,701 13,701
+Loss from equity investments 818 818
+Goodwill write-off 6,419 6,419
+----------------------------------------------- ---------------
+Total costs and expenses 1,160,760 8,199 (3,723) 1,165,236
+----------------------------------------------- ---------------
+
+Earnings Before Minority Interest and Taxes 19,861 (6,318) 3,723 17,266
+Minority interest (6,523) (6,523)
+----------------------------------------------- ---------------
+
+Earnings (Loss) Before Taxes on Income 13,338 (6,318) 3,723 10,743
+Provision for (benefit of) taxes on income 9,485 (882)(d) 8,603
+----------------------------------------------- ---------------
+
+Net Earnings (Loss) $3,853 ($6,318) $4,605 $2,140
+=============================================== ===============
+Earnings Per Share
+Primary $0.31 $0.14
+Fully Diluted $0.21 $0.04
+Average Common Shares Outstanding
+Primary 10,046 10,046
+Fully Diluted 10,136 10,136
+
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+SAFEGUARD SCIENTIFICS, INC.
+PRO FORMA CONSOLIDATED STATEMENT OF OPERATIONS
+NINE MONTHS ENDED SEPTEMBER 30, 1994
+(000 omitted) except per share data
+
+Safeguard
+Scientifics, Pro Forma Consolidated
+Inc. Maximis Adjustments Pro Forma
+----------------- ------- ----------- ---------------
+<S> <C> <C> <C> <c.
+REVENUES
+Net sales $1,014,210 $253 $1,014,463
+Gains on sales of securities, net 15,337 15,337
+Other income 2,898 2,898
+----------------------------------------------- ---------------
+Total revenues 1,032,445 253 1,032,698
+
+Costs and Expenses
+Cost of revenues 840,061 5,891 (803)(a) 845,149
+Selling general and administrative 142,475 1,103 (1,000)(b) 142,578
+Depreciation and amortization 12,584 184 ($184)(c) 12,584
+Interest 12,434 12,434
+(Income) Loss from equity investments (952) (952)
+Write-off of Capitalized Software 12,149 (12,149)(e) 0
+----------------------------------------------- ---------------
+Total costs and expenses 1,006,602 19,327 (14,136) 1,011,793
+----------------------------------------------- ---------------
+
+Earnings Before Minority Interest and Taxes 25,843 (19,074) 14,136 20,905
+Minority interest (4,092) (4,092)
+----------------------------------------------- ---------------
+
+Earnings (Loss) Before Taxes on Income 21,751 (19,074) 14,136 16,813
+Provision for (benefit of) taxes on income 7,091 (1,679)(d) 5,412
+----------------------------------------------- ---------------
+
+Net Earnings (Loss) $14,660 ($19,074) $15,815 $11,401
+=============================================== ===============
+Earnings Per Share
+Primary $1.45 $1.12
+Fully Diluted $1.38 $1.05
+Average Common Shares Outstanding
+Primary 9,795 9,795
+Fully Diluted 9,804 9,804
+</TABLE>
+
+SAFEGUARD SCIENTIFICS, INC.
+NOTES TO PRO FORMA CONSOLIDATED STATEMENT OF OPERATIONS
+
+(a) Eliminate amortization on capitalized software for which no value
+was assigned in applying purchase accounting, net of amortization of
+software costs capitalized during the period presented.
+
+(b) Utilization of non-recurring operating subsidy received in
+connection with the acquisition.
+
+(c) Eliminate depreciation on property, plant and equipment and
+amortization of goodwill for which no value was assigned in applying
+purchase accounting.
+
+(d) Federal tax benefit of the pro forma loss at the statutory 34% rate.
+
+(e) Eliminate capitalized software write-off as there was no value
+assigned to capitalized software in applying purchase accounting. This
+charge was made in connection with the former parent's decision to divest
+itself of the MAXIMIS business.
+
+<TABLE>
+<CAPTION>
+
+SAFEGUARD SCIENTIFICS, INC.
+PRO FORMA CONSOLIDATED BALANCE SHEET
+SEPTEMBER 30, 1994
+(000 omitted)
+
+Safeguard
+Scientifics, Pro Forma Consolidated
+Inc. Maximis Adjustments (a) Pro Forma
+-----------------------------------------------------------------
+<S> <C> <C> <C> <C>
+ASSETS
+Current assets $416,933 $35 $2,770 419,738
+Property, plant & equipment 42,019 185 (185) 42,019
+Commercial real estate 31,404 31,404
+Other assets, principally investments and 0
+excess of cost over net assets of 0
+businesses acquired 77,410 111 (111) 77,410
+-----------------------------------------------------------------
+Total assets 567,766 331 2,474 570,571
+=================================================================
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities 227,669 689 2,116 230,474
+Long-term and commercial real estate debt 197,074 197,074
+Minority interest, deferred taxes and other liabil 35,340 487 (487) 35,340
+Shareholders' equity 107,683 (845) 845 107,683
+-----------------------------------------------------------------
+$567,766 $331 $2,474 $570,571
+=================================================================
+</TABLE>
+
+(a)Pro forma adjustments reflect the application
+of purchase accounting. The adjustment to
+current assets is principally for cash
+received in connection with
+the acquisition.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>2
+<TEXT>
+EXHIBIT 23.1
+
+CONSENT OF INDEPENDENT AUDITORS
+
+We consent to the incorporation by reference in the Registration Statements
+(No. 33-41853, No. 33-31840, No. 2-79617, No. 2-63245, No. 33-48579, No. 33-
+48462, No. 2-72362, No. 33-72559 and No. 33-72560) on Form S-8 and (No. 2-
+93525) on Form S-3 of Safeguard Scientifics, Inc. of our report dated
+December 2, 1994, with respect to the balance sheet of MAXIMIS (formerly a
+business unit of Texas Instruments, Inc.) at December 31, 1993 and 1992 and
+September 30, 1994, and the related statements of operations and cash flows
+for each of the three years in the period ended December 31, 1993 and the
+nine months ended September 30, 1994, included in this Form 8-K/A.
+
+Ernst & Young LLP
+
+Dallas, Texas
+December 13, 1994
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

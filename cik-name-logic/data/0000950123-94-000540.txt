@@ -1,0 +1,2012 @@
+<IMS-DOCUMENT>0000950123-94-000540.txt : 19940321
+<IMS-HEADER>0000950123-94-000540.hdr.sgml : 19940321
+ACCESSION NUMBER:		0000950123-94-000540
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19940318
+ITEM INFORMATION:		5
+ITEM INFORMATION:		7
+FILED AS OF DATE:		19940318
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UJB FINANCIAL CORP /NJ/
+		CENTRAL INDEX KEY:			0000101320
+		STANDARD INDUSTRIAL CLASSIFICATION:	6021
+		IRS NUMBER:				221903313
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	001-06451
+		FILM NUMBER:		94516788
+
+	BUSINESS ADDRESS:	
+		STREET 1:		301 CARNEGIE CENTER
+		STREET 2:		P O BOX 2066
+		CITY:			PRINCETON
+		STATE:			NJ
+		ZIP:			08543-2066
+		BUSINESS PHONE:		6099873200
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITED JERSEY BANKS
+		DATE OF NAME CHANGE:	19890815
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 8-K   3/18/94
+<TEXT>
+<PAGE> 1
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report:
+(Date of Earliest Event Reported)
+
+March 18, 1994
+
+UJB Financial Corp. 
+- ------------------------------------------------------------------------------
+(Exact Name of Registrant as Specified in its Charter)
+
+New Jersey 1-6451 22-1903313 
+- ------------------------------------------------------------------------------
+(State or other jurisdiction of (Commission (I.R.S. Employer
+incorporation or organization) File Number) Identification No.)
+
+301 Carnegie Center, P.O. Box 2066
+Princeton, New Jersey 08543-2066 
+- ------------------------------------------------------------------------------
+(Address of Principal Executive Offices)
+(Zip Code)
+
+(609) 987-3200 
+- ------------------------------------------------------------------------------
+(Registrant's Telephone Number, including Area Code)
+<PAGE> 2
+<TABLE>
+<S> <C> 
+Item 5. Other Events.
+
+The Registrant hereby files certain financial statements and other 
+materials from Registrant's 1993 Annual Report to Shareholders.
+
+Item 7. Financial Statements and Exhibits.
+
+(c) Exhibits:
+
+(1) Selected portions of the UJB Financial Corp. 1993 Annual 
+Report to Shareholders, namely:
+
+Consolidated Balance Sheets at December 31, 1993 and
+December 31, 1992; Consolidated Statements of Income for
+the years ended December 31, 1993, December 31, 1992 and
+December 31, 1991; Consolidated Statements of Shareholders'
+Equity at December 31, 1993, December 31, 1992 and December
+31, 1991; Consolidated Statements of Cash Flows for the
+years ended December 31, 1993, December 31, 1992 and
+December 31, 1991; and Notes to Consolidated Financial
+Statements.
+
+</TABLE>
+<PAGE> 3
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, 
+the Registrant has duly caused this report to be signed on its behalf by the 
+undersigned hereunto duly authorized.
+
+<TABLE>
+<S> <C> <C>
+Dated: March 18, 1994 UJB FINANCIAL CORP.
+
+By:
+/s/ WILLIAM J. HEALY
+--------------------------
+William J. Healy
+Executive Vice President
+and Comptroller
+</TABLE>
+
+-2-
+<PAGE> 4
+
+EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+
+Exhibit No. Description
+- ----------- -----------
+<S> <C>
+(1) Selected portions of the UJB Financial Corp. 1993 Annual Report 
+to Shareholders, namely:
+
+Consolidated Balance Sheets at December 31, 1993 and
+December 31, 1992; Consolidated Statements of Income for
+the years ended December 31, 1993, December 31, 1992 and
+December 31, 1991; Consolidated Statements of Shareholders'
+Equity at December 31, 1993, December 31, 1992 and December
+31, 1991; Consolidated Statements of Cash Flows for the
+years ended December 31, 1993, December 31, 1992 and
+December 31, 1991; and Notes to Consolidated Financial
+Statements.
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<DESCRIPTION>PORTIONS OF UJB ANNUAL REPORT
+<TEXT>
+<PAGE> 1
+UJB FINANCIAL CORP. AND SUBSIDIARIES
+- ------------------------------------
+CONSOLIDATED BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+December 31 
+-----------------------------
+Dollars in thousands 1993 1992
+================================================================================================================================== 
+- ----------------------------------------------------------------------------------------------------------------------------------
+
+<S> <C> <C>
+ASSETS 
+Cash and cash equivalents: 
+Cash and due from banks (Note 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 720,404 $ 885,047
+Federal funds sold and securities purchased under agreements to resell . . . . . . . . . . . . . 99,500 234,500
+- --------------------------------------------------------------------------------------------------------------------------------
+Total cash and cash equivalents 819,904 1,119,547
+- --------------------------------------------------------------------------------------------------------------------------------
+Interest bearing deposits with banks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19,962 13,819
+Trading account securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29,735 21,961
+Investment securities available for sale (Note 4) (Market value of $1,177,585 in 1993 and 
+$886,577 in 1992) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1,162,088 881,278
+Investment securities (Note 5) (Market value of $2,495,849 in 1993 and $2,677,274 in 1992) . . . . 2,456,713 2,633,543
+Loans (Notes 6 and 7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8,607,094 8,782,409
+Less: Allowance for loan losses (Note 8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 242,104 275,296
+- --------------------------------------------------------------------------------------------------------------------------------
+Net loans 8,364,990 8,507,113
+- --------------------------------------------------------------------------------------------------------------------------------
+Premises and equipment (Note 9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167,477 173,160
+Other real estate owned, net (Note 10) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72,275 121,774
+Accrued interest receivable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71,728 79,496
+Due from customers on acceptances . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20,126 21,378
+Other assets (Notes 1 and 18) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 225,551 197,802
+- --------------------------------------------------------------------------------------------------------------------------------
+Total Assets $13,410,549 $13,770,871
+================================================================================================================================
+LIABILITIES AND SHAREHOLDERS' EQUITY 
+Deposits: 
+Non-interest bearing demand deposits. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 2,802,496 $ 2,586,997
+Interest bearing deposits: 
+Savings and time deposits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8,427,272 8,954,921
+Commercial certificates of deposit $100,000 and over . . . . . . . . . . . . . . . . . . . . . 226,586 244,743
+- --------------------------------------------------------------------------------------------------------------------------------
+Total deposits 11,456,354 11,786,661
+- --------------------------------------------------------------------------------------------------------------------------------
+Commercial paper . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33,359 62,861
+Other borrowed funds (Notes 5 and 11) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 549,449 641,004
+Long-term debt (Note 12) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 208,459 216,570
+Accrued interest payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22,786 36,704
+Bank acceptances outstanding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20,126 21,378
+Accrued expenses and other liabilities (Note 15) . . . . . . . . . . . . . . . . . . . . . . . . . 143,942 85,423
+- --------------------------------------------------------------------------------------------------------------------------------
+Total liabilities 12,434,475 12,850,601
+- --------------------------------------------------------------------------------------------------------------------------------
+Commitments and contingent liabilities (Notes 19, 20 and 21) 
+Shareholders' equity (Notes 12, 13, 15 and 16): 
+Preferred stock: Authorized 4,000,000 shares without par value: 
+Series B: Authorized 1,200,000 shares; issued and outstanding 600,166 in 1993 and 1992, 
+adjustable-rate cumulative, $50 stated value . . . . . . . . . . . . . . . . . . . . . . . . 30,008 30,008
+Common stock par value $1.20: 
+Authorized 65,000,000 shares; issued and outstanding 51,631,856 in 1993 and 
+50,864,031 in 1992 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61,958 61,037
+Surplus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 384,229 370,345
+Retained earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 499,879 458,880
+- --------------------------------------------------------------------------------------------------------------------------------
+Total shareholders' equity 976,074 920,270
+- --------------------------------------------------------------------------------------------------------------------------------
+Total Liabilities and Shareholders' Equity $13,410,549 $13,770,871
+================================================================================================================================
+</TABLE> 
+
+See accompanying notes to consolidated financial statements.
+
+38
+
+<PAGE> 2
+UJB FINANCIAL CORP. AND SUBSIDIARIES
+- ------------------------------------
+CONSOLIDATED STATEMENTS OF INCOME
+
+<TABLE>
+<CAPTION>
+Year Ended December 31 
+-----------------------------------
+Dollars in thousands, except per share data 1993 1992 1991
+==================================================================================================================================
+- ----------------------------------------------------------------------------------------------------------------------------------
+<S> <C> <C> <C>
+INTEREST INCOME 
+Interest and fees on loans (Note 7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . $659,433 $700,478 $ 816,420
+Interest on investment securities (Note 5): 
+Taxable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165,391 205,451 223,999
+Tax-exempt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25,448 30,206 37,272
+Interest on investment securities available for sale (Note 4) . . . . . . . . . . . . . . . 31,023 10,782 3,244
+Interest on Federal funds sold and securities purchased under agreements to resell . . . . 932 4,379 21,277
+Trading account interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1,297 1,367 1,219
+Interest on bank balances . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 651 668 2,237
+- ----------------------------------------------------------------------------------------------------------------------------------
+Total interest income 884,175 953,331 1,105,668
+- ----------------------------------------------------------------------------------------------------------------------------------
+INTEREST EXPENSE 
+Interest on savings and time deposits . . . . . . . . . . . . . . . . . . . . . . . . . . . 261,145 351,450 478,946
+Interest on commercial certificates of deposit $100,000 and over . . . . . . . . . . . . . 7,319 16,320 46,526
+Interest on borrowed funds (Notes 11 and 12) . . . . . . . . . . . . . . . . . . . . . . . 52,576 47,336 88,865
+- ----------------------------------------------------------------------------------------------------------------------------------
+Total interest expense 321,040 415,106 614,337
+- ----------------------------------------------------------------------------------------------------------------------------------
+Net interest income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 563,135 538,225 491,331
+Provision for loan losses (Note 8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95,500 139,000 167,350
+- ----------------------------------------------------------------------------------------------------------------------------------
+Net interest income after provision for loan losses 467,635 399,225 323,981
+- ----------------------------------------------------------------------------------------------------------------------------------
+NON-INTEREST INCOME 
+Service charges on deposit accounts . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60,126 54,031 41,972
+Service and loan fee income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34,437 32,711 29,873
+Trust income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21,852 19,837 16,875
+Investment securities gains (Notes 4 and 5) . . . . . . . . . . . . . . . . . . . . . . . . 8,877 18,195 13,874
+Trading account gains . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1,884 1,804 1,620
+Gain on securitized loan sale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . -- -- 5,601
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51,099 49,641 39,736
+- ----------------------------------------------------------------------------------------------------------------------------------
+Total non-interest income 178,275 176,219 149,551
+- ----------------------------------------------------------------------------------------------------------------------------------
+NON-INTEREST EXPENSES 
+Salaries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 182,892 176,576 169,881
+Pension and other employee benefits (Note 15) . . . . . . . . . . . . . . . . . . . . . . . 57,940 50,733 44,087
+Occupancy, net (Notes 9 and 19) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47,775 47,122 43,339
+Furniture and equipment (Notes 9 and 19) . . . . . . . . . . . . . . . . . . . . . . . . . 45,570 42,373 38,895
+Other real estate owned expenses (Note 10) . . . . . . . . . . . . . . . . . . . . . . . . 40,154 37,640 17,588
+FDIC insurance assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28,617 25,262 22,119
+Restructuring charges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21,500 -- --
+Advertising and public relations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10,241 10,282 9,712
+Other (Note 17) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112,175 113,576 102,735
+- ----------------------------------------------------------------------------------------------------------------------------------
+Total non-interest expenses 546,864 503,564 448,356
+- ----------------------------------------------------------------------------------------------------------------------------------
+Income before income taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 99,046 71,880 25,176
+Federal and state income taxes (Note 18) . . . . . . . . . . . . . . . . . . . . . . . . . 24,807 18,056 2,741
+- ----------------------------------------------------------------------------------------------------------------------------------
+Income before cumulative effect of a change in accounting principle . . . . . . . . . . . . 74,239 53,824 22,435
+Cumulative effect of a change in accounting principle . . . . . . . . . . . . . . . . . 3,816 -- --
+==================================================================================================================================
+Net Income $ 78,055 $ 53,824 $ 22,435
+==================================================================================================================================
+Net Income Per Common Share: 
+Income before cumulative effect of a change in accounting principle . . . . . . . . . . . . $ 1.42 $ 1.09 $ .45
+Cumulative effect of a change in accounting principle . . . . . . . . . . . . . . . . . .07 -- --
+==================================================================================================================================
+Net Income Per Common Share $ 1.49 $ 1.09 $ .45
+==================================================================================================================================
+Average Common Shares Outstanding (in thousands) 51,288 47,769 45,650
+==================================================================================================================================
+</TABLE>
+See accompanying notes to consolidated financial statements.
+
+39
+
+<PAGE> 3
+UJB FINANCIAL CORP. AND SUBSIDIARIES
+- -----------------------------------------------
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+
+<TABLE>
+<CAPTION>
+Total
+Preferred Common Retained Shareholders'
+Dollars in thousands Stock Stock Surplus Earnings Equity
+================================================================================================================================== 
+- ----------------------------------------------------------------------------------------------------------------------------------
+<S> <C> <C> <C> <C> <C>
+Balance, December 31, 1990 $30,008 $54,117 $284,904 $438,274 $807,303
+Net income, 1991 . . . . . . . . . . . . . . . . . . . . . . -- -- -- 22,435 22,435
+Cash dividends declared: 
+Preferred stock--Series B . . . . . . . . . . . . . . . . . -- -- -- (2,055) (2,055)
+Common stock . . . . . . . . . . . . . . . . . . . . . . . . -- -- -- (27,448) (27,448)
+Common stock issued: 
+Dividend reinvestment and other stock plans (782,568 shares) -- 940 7,262 -- 8,202
+Exercise of stock options, net (6,480 shares) . . . . . . . -- 7 79 -- 86
+Change in valuation allowance for marketable equity securities -- -- -- 3,276 3,276
+- ----------------------------------------------------------------------------------------------------------------------------------
+Balance, December 31, 1991 30,008 55,064 292,245 434,482 811,799
+- ----------------------------------------------------------------------------------------------------------------------------------
+Net income, 1992 . . . . . . . . . . . . . . . . . . . . . . -- -- -- 53,824 53,824
+Proceeds from issuance of common stock, net of related expense
+(4,000,000 shares) . . . . . . . . . . . . . . . . . . . . . -- 4,800 63,545 -- 68,345
+Cash dividends declared: 
+Preferred stock--Series B . . . . . . . . . . . . . . . . . -- -- -- (1,847) (1,847)
+Common stock . . . . . . . . . . . . . . . . . . . . . . . . -- -- -- (29,091) (29,091)
+Common stock issued: 
+Dividend reinvestment and other stock plans (779,140 shares) -- 935 12,984 -- 13,919
+Exercise of stock options, net (198,396 shares) . . . . . . -- 238 1,571 -- 1,809
+Change in valuation allowance for marketable equity securities -- -- -- 1,512 1,512
+- ----------------------------------------------------------------------------------------------------------------------------------
+Balance, December 31, 1992 30,008 61,037 370,345 458,880 920,270
+- ----------------------------------------------------------------------------------------------------------------------------------
+Net income, 1993 . . . . . . . . . . . . . . . . . . . . . . -- -- -- 78,055 78,055
+Cash dividends declared: 
+Preferred stock--Series B . . . . . . . . . . . . . . . . . -- -- -- (1,801) (1,801)
+Common stock . . . . . . . . . . . . . . . . . . . . . . . . -- -- -- (35,515) (35,515) 
+Common stock issued: 
+Dividend reinvestment and other stock plans (459,430 shares) -- 551 9,537 -- 10,088
+Exercise of stock options, net (308,395 shares) . . . . . . -- 370 4,347 -- 4,717
+Change in valuation allowance for marketable equity securities -- -- -- 260 260
+- ----------------------------------------------------------------------------------------------------------------------------------
+Balance, December 31, 1993 $30,008 $61,958 $384,229 $499,879 $976,074
+==================================================================================================================================
+</TABLE> 
+
+See accompanying notes to consolidated financial statements.
+
+40
+
+<PAGE> 4
+UJB FINANCIAL CORP. AND SUBSIDIARIES
+- ------------------------------------
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION> 
+Year Ended December 31 
+-----------------------------------
+Dollars in thousands 1993 1992 1991
+=============================================================================================================================== 
+- -------------------------------------------------------------------------------------------------------------------------------
+<S> <C> <C> <C>
+OPERATING ACTIVITIES 
+Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 78,055 $ 53,824 $ 22,435
+Adjustments to reconcile net income to net cash provided by operating activities: 
+Provisions for loan losses and other real estate owned . . . . . . . . . . . . . . . . 127,063 166,728 177,750
+Depreciation, amortization and accretion, net . . . . . . . . . . . . . . . . . . . . 27,008 22,181 18,555
+Restructuring charges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21,500 -- --
+Deferred income tax benefit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (5,782) (4,929) (14,027)
+Gains on sales of investment and trading account securities . . . . . . . . . . . . . (10,761) (19,999) (15,494)
+Gain on sale of securitized loans . . . . . . . . . . . . . . . . . . . . . . . . . . -- -- (5,601)
+Gains on sales of mortgages held for sale . . . . . . . . . . . . . . . . . . . . . . (2,922) (3,340) (1,294)
+Proceeds from sales of other real estate owned . . . . . . . . . . . . . . . . . . . 56,791 77,939 45,767
+Proceeds from sales of mortgages held for sale . . . . . . . . . . . . . . . . . . . 276,659 296,124 143,925
+Originations of mortgages held for sale . . . . . . . . . . . . . . . . . . . . . . . (224,065) (309,317) (155,159)
+Purchases of investment securities available for sale . . . . . . . . . . . . . . . . (316,303) -- --
+Proceeds from maturities of investment securities available for sale . . . . . . . . . 192,605 178,961 --
+Proceeds from sales of investment securities available for sale . . . . . . . . . . . 517,906 1,051,453 219,587
+Net (increase) decrease in trading account securities . . . . . . . . . . . . . . . . (5,890) (16,902) 5,465
+(Increase) decrease in accrued interest receivable and other assets . . . . . . . . . (26,505) 16,850 13,958
+Increase (decrease) in accrued interest payable, accrued expenses and 
+other liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30,684 (6,090) 8,301
+- ------------------------------------------------------------------------------------------------------------------------------ 
+Net cash provided by operating activities 736,043 1,503,483 464,168
+- ------------------------------------------------------------------------------------------------------------------------------ 
+INVESTING ACTIVITIES 
+Proceeds from sales of investment securities . . . . . . . . . . . . . . . . . . . . . . -- 183,819 638,224
+Proceeds from maturities of investment securities . . . . . . . . . . . . . . . . . . . . 1,215,293 895,861 773,488
+Purchases of investment securities . . . . . . . . . . . . . . . . . . . . . . . . . . . (1,712,194) (2,428,917) (2,045,036)
+Net (increase) decrease in interest bearing deposits with banks . . . . . . . . . . . . . (6,143) 12,087 23,024
+Proceeds from sale of loans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84,836 -- 50,061
+Net increase in loans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (120,992) (213,687) (373,939)
+Purchases of loans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . -- (26,905) --
+Sale of building and sale-leaseback of equipment . . . . . . . . . . . . . . . . . . . . -- 17,732 --
+Purchases of premises and equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . (14,500) (25,764) (27,495)
+- ------------------------------------------------------------------------------------------------------------------------------ 
+Net cash used in investing activities (553,700) (1,585,774) (961,673)
+- ------------------------------------------------------------------------------------------------------------------------------ 
+FINANCING ACTIVITIES 
+Net increase in demand and savings deposits . . . . . . . . . . . . . . . . . . . . . . . 358,886 1,181,149 693,166
+Demand and savings deposits acquired . . . . . . . . . . . . . . . . . . . . . . . . . . -- -- 91,437
+Net decrease in time deposits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (689,193) (708,035) (270,107)
+Time deposits acquired . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . -- -- 170,807
+Net decrease in short-term borrowings . . . . . . . . . . . . . . . . . . . . . . . . . . (121,273) (330,574) (131,361)
+Principal payments on long-term debt, net . . . . . . . . . . . . . . . . . . . . . . . . (27,895) (26,769) (6,897)
+Proceeds from issuance of debt, net of related expenses . . . . . . . . . . . . . . . . . 20,000 172,489 --
+Dividends paid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (34,059) (30,223) (29,438)
+Proceeds from issuance of common stock, net of related expense . . . . . . . . . . . . . -- 68,345 --
+Proceeds from issuance of common stock under dividend reinvestment and 
+other stock plans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14,805 15,728 8,288
+Other, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (3,257) (715) (65)
+- ------------------------------------------------------------------------------------------------------------------------------ 
+Net cash (used) provided by financing activities (481,986) 341,395 525,830
+- ------------------------------------------------------------------------------------------------------------------------------- 
+(Decrease) increase in cash and cash equivalents . . . . . . . . . . . . . . . . . . . . (299,643) 259,104 28,325
+Cash and cash equivalents at beginning of year . . . . . . . . . . . . . . . . . . . . . 1,119,547 860,443 832,118
+- ------------------------------------------------------------------------------------------------------------------------------- 
+Cash and cash equivalents at end of year $ 819,904 $1,119,547 $ 860,443
+=============================================================================================================================== 
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION 
+Cash paid: 
+Interest payments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 334,958 $ 436,715 $ 625,536
+Income tax payments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27,094 21,669 19,619
+Noncash investing activities: 
+Transfer of investments to investment securities available for sale . . . . . . . . . 666,687 1,737,999 573,601
+Transfer of loans to other real estate owned . . . . . . . . . . . . . . . . . . . . 51,092 135,062 124,360
+==============================================================================================================================
+</TABLE> 
+
+See accompanying notes to consolidated financial statements.
+
+41
+
+<PAGE> 5
+UJB FINANCIAL CORP. AND SUBSIDIARIES
+- ------------------------------------------
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1 SUMMARY OF SIGNIFICANT
+ACCOUNTING POLICIES
+
+BUSINESS:
+UJB Financial Corp. (UJB Financial) commenced operations on October 1, 1970 as
+a New Jersey Corporation and as a bank holding company registered under the
+Bank Holding Company Act of 1956. Through its subsidiaries UJB Financial
+provides a full range of banking services and certain non-bank services in a
+competitive environment to individual and corporate customers. UJB Financial is
+regulated by various state and Federal agencies and is subject to periodic
+examinations by those regulatory authorities.
+
+PRINCIPLES OF CONSOLIDATION:
+The accompanying consolidated financial statements include the accounts of UJB
+Financial and all of its subsidiaries. Significant intercompany accounts and
+transactions have been eliminated in consolidation. Certain prior period
+amounts have been reclassified to conform to the financial statement
+presentation for 1993. The reclassifications have no effect on shareholders'
+equity or net income or loss as previously reported.
+The consolidated financial statements have been prepared in conformity
+with generally accepted accounting principles. In preparing the financial
+statements, management is required to make estimates and assumptions that
+affect the reported amounts of assets and liabilities as of the date of the
+balance sheet and revenues and expenses for the period. Actual results could
+significantly differ from these estimates.
+
+CASH AND CASH EQUIVALENTS:
+For the purposes of cash flow, cash and cash equivalents include cash on hand,
+amounts due from banks, Federal funds sold, and securities purchased under
+agreements to resell. Generally, Federal funds are sold for one day periods and
+securities purchased under agreements to resell are short-term, highly liquid
+assets.
+
+SECURITIES:
+Securities are classified into one of three investment categories: trading
+account securities, investment securities available for sale and investment
+securities. Securities that are purchased and held principally with the intent
+of selling in the near future are classified as trading account securities.
+Securities which are intended to be held to maturity are classified as
+investment securities. All other securities, including equity securities, are
+classified as investment securities available for sale.
+Trading account securities are reported at market value on a specific
+identification basis, with gains and losses included in non-interest income.
+This category includes securities purchased specifically for short-term
+appreciation.
+Investment securities available for sale are reported at the lower of the
+aggregate cost or market. 
+Investments classified as available for sale may be sold in response to 
+changing market and interest rate conditions or as part of an overall 
+asset/liability management strategy. Included in investment securities 
+available for sale are marketable equity securities.
+Investment securities are held for long-term investment and are recorded
+at amortized cost. UJB Financial has both the intent and ability to hold all
+securities in this category until maturity.
+
+LOANS:
+Loans are stated at principal amounts outstanding, net of unearned discount and
+net deferred loan origination fees and costs. Interest income on loans is
+accrued and credited to interest income as earned. Loan origination fees and
+certain direct loan origination costs are deferred and recognized over the
+estimated life of the loan as an adjustment to the loan's yield. Other loan
+fees are recorded as earned and included in non-interest income.
+
+NON-PERFORMING LOANS:
+Non-performing loans consist of commercial non-accrual and renegotiated loans.
+Non-accrual loans include loans that are past due 90 days or more as to
+principal or interest, or where reasonable doubt exists as to timely
+collectibility. At the time a loan is placed on non-accrual status, previously
+accrued and uncollected interest is reversed against interest income. Interest
+collections on non-accrual loans are generally credited to interest income
+when received. However, if ultimate collectibility of principal is in doubt,
+interest collections are applied as principal reductions. After principal and
+interest payments are brought current and future collectibility is reasonably
+assured, loans are returned to accrual status.
+Renegotiated loans are loans whose contractual interest rates have been
+reduced to below market rates or other significant concessions made due to a
+borrower's financial difficulties. Interest income on renegotiated loans is
+generally credited to interest income as received.
+Consumer loans are charged off when they are 120 days past due. For home
+equity loans, accruals cease at 180 days and uncollected interest is reversed
+against interest income. Past due residential mortgage loans and home equity
+loans are monitored and charged off when deemed uncollectible.
+
+ALLOWANCE FOR LOAN LOSSES:
+The loan portfolio and other extensions of credit are regularly reviewed to
+determine the adequacy of the allowance for loan losses. The impact of
+economic conditions on the credit worthiness of the borrowers is given
+consideration, as well as loan loss experience, changes in the composition and
+volume of the loan
+
+42
+
+<PAGE> 6
+portfolio, and management's assessment of the risk inherent in the loan
+portfolio. These and other factors are used in assessing the overall adequacy
+of the allowance for loan losses and the resulting provision for loan losses.
+The allowance for loan losses is established through charges to earnings
+in the form of a provision for loan losses. Losses on loans and loans which are
+determined to be uncollectible are deducted from the allowance and subsequent
+recoveries, if any, are added back to the allowance.
+
+PREMISES AND EQUIPMENT:
+Premises, furniture and equipment are stated at cost, less accumulated
+depreciation and amortization. Depreciation and amortization charges are
+computed using the straight-line method. Premises, furniture and equipment are
+depreciated over the estimated useful life of the assets, except for leasehold
+improvements, which are amortized over the term of the lease or the estimated
+useful life of the asset, if shorter. Estimated useful lives are ten to forty
+years for premises, and three to ten years for furniture and equipment.
+Expenditures for maintenance and repairs are expensed as incurred. The
+costs of major renewals and improvements are capitalized. Premises and major
+items of furniture and equipment are removed from the property accounts upon
+disposition at their carrying amount, and gains or losses on such transactions
+are included in other non-interest income or expense.
+
+OTHER REAL ESTATE OWNED:
+Other real estate owned includes both formally foreclosed and in-substance
+foreclosed property. In-substance foreclosed property includes properties for
+which borrowers have little or no equity or prospects for building equity in
+the collateral and for which the loan repayment can only be expected from the
+operation or sale of the collateral. In-substance foreclosed properties are
+generally in the process of formal foreclosure. When a property is acquired
+through foreclosure or in-substance foreclosure, the excess of the carrying
+amount over fair value, if any, is charged to the allowance for loan losses.
+An allowance for other real estate owned has been established to maintain
+these properties at the lower of cost or fair value less estimated cost to
+sell. Other real estate owned is shown net of the allowance.
+The allowance is established through charges to other real estate owned
+expenses. Operating results of other real estate owned, including rental
+income, operating expenses, and gains and losses realized from the sales of
+properties owned, are recorded in other real estate owned expense.
+
+OFF-BALANCE-SHEET FINANCIAL INSTRUMENTS:
+Interest rate swap and cap agreements are periodically used to manage interest
+rate risk. The income or expense associated with these transactions is
+recognized over the lives of the agreements as an adjustment to interest income
+or interest expense.
+
+INCOME TAXES:
+The amount provided for income taxes is based on income reported for
+consolidated financial statement purposes after elimination of income which is
+exempt for Federal tax purposes. Such tax-exempt income is derived primarily
+from investment securities of states and political subdivisions and certain
+commercial and mortgage loans.
+Prior to January 1, 1993, deferred income taxes were provided for timing
+differences in the recognition of revenues and expenses for tax reporting and
+financial statement purposes, pursuant to Accounting Principles Board Opinion
+No. 11. Effective January 1, 1993, Statement of Financial Accounting Standards
+No. 109, "Accounting for Income Taxes" (SFAS 109), was adopted. SFAS 109
+requires a change from the deferred method to the asset and liability method of
+accounting for income taxes. Under the asset and liability method, deferred
+income taxes are recognized for the tax consequences of "temporary differences"
+by applying enacted statutory tax rates applicable to future years to
+differences between the financial statement carrying amounts and tax bases of
+existing assets and liabilities. The effect on deferred taxes of a change in
+tax rates is recognized in income in the period that includes the enactment
+date, whereas under the deferred method, deferred taxes were not adjusted for
+subsequent changes in tax rates. The cumulative effect at January 1, 1993 of
+this change in the method of accounting for income taxes has been included in
+the Consolidated Statement of Income, for the year ended December 31, 1993.
+UJB Financial and its subsidiaries file a consolidated Federal income tax
+return and the amount of income tax expense or benefit is computed and
+allocated to its subsidiaries within the consolidated group on a separate
+return basis.
+
+INTANGIBLE ASSETS:
+Excess of cost over fair value of net assets acquired (goodwill) relating to
+subsidiaries purchased is included in other assets and is amortized on a
+straight-line basis over periods ranging from ten to forty years. Goodwill
+amounted to $13,561,000 and $14,775,000 at December 31, 1993 and 1992,
+respectively.
+Other intangible assets are amortized on an accelerated basis over periods
+ranging from five to ten years. Other intangibles amounted to $15,003,000 and
+$16,781,000 at December 31, 1993 and 1992, respectively.
+
+RETIREMENT PLANS:
+UJB Financial and its subsidiaries have several formal non-contributory
+retirement plans which cover substantially all employees. Annual contributions
+are made to the plans in amounts not less than the minimum regulatory
+requirements. In 1993 UJB Financial adopted, on a prospective basis, Statement
+of Financial Accounting Standards No. 106, "Employers' Accounting for
+Postretirement Benefits Other Than Pensions" (SFAS 106). The costs associated
+with these benefits are accrued based on actuarial assumptions and included in
+non-interest expenses.
+
+43
+
+<PAGE> 7
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+- -------------------------------------------------------
+INCOME PER SHARE:
+Income per common share is calculated by dividing net income, less the dividend
+requirement on the adjustable-rate cumulative preferred stock, by the average
+daily number of common shares outstanding during the period. Common stock
+equivalents are not included in the calculation as they are not material.
+
+NOTE 2 ACQUISITIONS
+On December 16, 1993, UJB Financial announced a definitive agreement to acquire
+VSB Bancorp, Inc., headquartered in Closter, N.J. with total assets of
+approximately $379,000,000. The merger is expected to occur in the second or
+third quarter of 1994.
+
+NOTE 3 RESTRICTIONS ON CASH AND DUE FROM BANKS
+The subsidiary banks are required to maintain reserve balances with a Federal
+Reserve Bank based principally upon deposits. These reserve balances averaged
+$332,881,000 in 1993 and $262,577,000 in 1992.
+
+NOTE 4 INVESTMENT SECURITIES AVAILABLE FOR SALE
+The following is a comparative summary of investment securities available for
+sale at December 31:
+
+<TABLE>
+<CAPTION>
+Gross Gross
+Amortized Unrealized Unrealized Market
+In thousands Cost Gains Losses Value 
+====================================================================================== 
+<S> <C> <C> <C> <C>
+1993
+U.S. Government and
+Federal agencies . . . . . $ 669,841 $ 8,051 $ 174 $ 677,718
+Other securities:
+Mortgage-backed . . . . . . 474,554 3,914 816 477,652
+Other debt . . . . . . . . 3,500 -- 30 3,470
+Equities, net . . . . . . . 14,193 4,552 -- 18,745 
+- -------------------------------------------------------------------------------------- 
+Total other . . . . . . . 492,247 8,466 846 499,867 
+- -------------------------------------------------------------------------------------- 
+$1,162,088 $16,517 $1,020 $1,177,585 
+====================================================================================== 
+1992
+U.S. Government and
+Federal agencies. . . . . . $741,428 $5,567 $ 854 $746,141
+Other securities:
+Mortgage-backed . . . . . . 125,982 44 1 126,025
+Other debt . . . . . . . . 3,985 -- 17 3,968
+Equities, net . . . . . . . 9,883 1,256 696 10,443 
+- -------------------------------------------------------------------------------------- 
+Total other . . . . . . 139,850 1,300 714 140,436 
+- -------------------------------------------------------------------------------------- 
+$881,278 $6,867 $1,568 $886,577 
+====================================================================================== 
+</TABLE>
+
+The amortized cost and market value of investment securities available for
+sale at December 31, 1993 are distributed by contractual maturity. However,
+mortgage-backed securities and other securities which may have prepayment
+provisions are distributed to a maturity category based on the estimated
+average life. These principal prepayments are not scheduled over the life of
+the investment, but are reflected as adjustments to the final maturity
+distribution. The distribution follows:
+
+<TABLE>
+<CAPTION>
+Amortized Market
+In thousands Cost Value 
+====================================================================================== 
+<S> <C> <C>
+Due in one year or less . . . . . . . . . . . . . . . . $ 563 $ 566
+Due after one year through five years . . . . . . . . . . 542,237 548,560
+Due after five years through ten years . . . . . . . . . 294,487 297,081
+Due after ten years . . . . . . . . . . . . . . . . . 310,608 312,633 
+- -------------------------------------------------------------------------------------- 
+Marketable equity securities, net . . . . . . . . . . . . 14,193 18,745 
+- -------------------------------------------------------------------------------------- 
+$1,162,088 $1,177,585 
+====================================================================================== 
+</TABLE>
+
+Gains and losses were realized on sales of investment securities available
+for sale as follows:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992 1991 
+====================================================================================== 
+<S> <C> <C> <C>
+Investments in debt securities:
+Gross gains . . . . . . . . . . . . . . . . . . . . . $11,147 $14,783 $4,965
+Gross losses . . . . . . . . . . . . . . . . . . . . . (2,816) (63) (6) 
+- -------------------------------------------------------------------------------------- 
+Net gains $ 8,331 $14,720 $4,959 
+====================================================================================== 
+</TABLE>
+
+Interest income on investment securities available for sale was as follows:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992 1991 
+====================================================================================== 
+<S> <C> <C> <C>
+U.S. Government and Federal agencies . . . . . . . . . . $17,082 $10,290 $2,085
+States and political subdivisions . . . . . . . . . . . . -- -- 515
+Other securities . . . . . . . . . . . . . . . . . . . . 13,941 492 644 
+- -------------------------------------------------------------------------------------- 
+$31,023 $10,782 $3,244 
+====================================================================================== 
+</TABLE>
+
+NOTE 5 INVESTMENT SECURITIES
+The following is a comparative summary of investment securities at December 31:
+
+<TABLE>
+<CAPTION>
+Gross Gross
+Amortized Unrealized Unrealized Market
+In thousands Cost Gains Losses Value 
+====================================================================================== 
+<S> <C> <C> <C> <C>
+1993
+U.S. Government and
+Federal agencies . . . . . $1,267,613 $18,930 $7,390 $1,279,153
+States and political
+subdivisions . . . . . . . 308,004 28,274 520 335,758
+Other securities:
+Mortgage-backed . . . . . 852,133 1,751 1,866 852,018
+Other debt . . . . . . . . 28,963 2 45 28,920 
+- -------------------------------------------------------------------------------------- 
+Total other . . . . . . 881,096 1,753 1,911 880,938 
+- -------------------------------------------------------------------------------------- 
+$2,456,713 $48,957 $9,821 $2,495,849 
+====================================================================================== 
+
+1992
+U.S. Government and
+Federal agencies . . . . . $2,199,506 $32,864 $15,867 $2,216,503
+States and political
+subdivisions . . . . . . . 378,198 26,836 754 404,280
+Other securities:
+Mortgage-backed . . . . . 25,664 661 17 26,308
+Other debt . . . . . . . . 30,175 172 164 30,183 
+- -------------------------------------------------------------------------------------- 
+Total other . . . . . . 55,839 833 181 56,491
+- -------------------------------------------------------------------------------------- 
+$2,633,543 $60,533 $16,802 $2,677,274 
+====================================================================================== 
+</TABLE>
+
+44
+<PAGE> 8
+The amortized cost and the market value of investment securities at
+December 31, 1993 are distributed by contractual maturity. However,
+mortgage-backed securities and other securities which may have prepayment
+provisions are distributed to a maturity category based on the estimated
+average life. These principal prepayments are not scheduled over the life of
+the investment, but are reflected as adjustments to the final maturity
+distribution. The distribution follows:
+
+<TABLE>
+<CAPTION>
+Amortized Market
+In thousands Cost Value
+======================================================================================
+<S> <C> <C>
+Due in one year or less . . . . . . . . . . . . . . $ 111,434 $ 114,237
+Due after one year through five years . . . . . . . 893,476 909,911
+Due after five years through ten years . . . . . . 968,320 982,999
+Due after ten years . . . . . . . . . . . . . . . . 483,483 488,702
+- --------------------------------------------------------------------------------------
+$2,456,713 $2,495,849
+======================================================================================
+</TABLE>
+
+Gains and losses were realized on sales and early redemptions of
+investment securities as follows:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992 1991
+=================================================================================================
+<S> <C> <C> <C>
+Investments in debt securities:
+Gross gains . . . . . . . . . . . . . . . . . . . . . . $ 732 $3,899 $ 11,542
+Gross losses . . . . . . . . . . . . . . . . . . . . . (186) (850) (94)
+- ------------------------------------------------------------------------------------------------- 
+Net gains . . . . . . . . . . . . . . . . . . . . . . 546 3,049 11,448
+Net gains (losses) on marketable equity
+securities . . . . . . . . . . . . . . . . . . . . . -- 426 (2,533)
+- ------------------------------------------------------------------------------------------------- 
+Net securities gains $ 546 $3,475 $ 8,915
+=================================================================================================
+</TABLE>
+
+Interest income on investment securities was as follows:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992 1991
+=================================================================================================
+<S> <C> <C> <C>
+U.S. Government and Federal agencies . . . . . . . . . . $135,860 $190,795 $191,476
+States and political subdivisions . . . . . . . . . . . . 25,204 30,514 36,635
+Other securities . . . . . . . . . . . . . . . . . . . . 29,775 14,348 33,160
+- -------------------------------------------------------------------------------------------------
+$190,839 $235,657 $261,271
+=================================================================================================
+</TABLE>
+
+The carrying value of securities pledged to secure public funds,
+securities sold under agreements to repurchase, and for other purposes required
+by law was $1,091,951,000 at December 31, 1993.
+
+NOTE 6 LOANS
+The composition of the loan portfolio, net of unearned discount and net
+deferred loan origination fees and costs, at December 31, was as follows:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992
+==================================================================================
+<S> <C> <C>
+Commercial and industrial . . . . . . . . . . . . . . . . $3,368,568 $3,409,819
+Construction and development . . . . . . . . . . . . . . 867,063 1,002,859
+- ----------------------------------------------------------------------------------
+Total commercial loans . . . . . . . . . . . . . . . . 4,235,631 4,412,678
+
+Commercial mortgages . . . . . . . . . . . . . . . . . . 1,544,921 1,487,420
+Residential mortgages . . . . . . . . . . . . . . . . . . 832,519 839,943
+- ----------------------------------------------------------------------------------
+Total mortgage loans . . . . . . . . . . . . . . . . . 2,377,440 2,327,363
+
+Home equity . . . . . . . . . . . . . . . . . . . . . . . 1,373,672 1,486,681
+Auto loans . . . . . . . . . . . . . . . . . . . . . . . 422,747 335,911
+Other instalment . . . . . . . . . . . . . . . . . . . . 197,604 219,776
+- ----------------------------------------------------------------------------------
+Total instalment . . . . . . . . . . . . . . . . . . . 1,994,023 2,042,368
+- ----------------------------------------------------------------------------------
+$8,607,094 $8,782,409
+==================================================================================
+</TABLE>
+
+Most of UJB Financial's business is with customers located within New
+Jersey and eastern Pennsylvania. A portion of the total loan portfolio is
+secured by real estate. The principal areas of exposure are construction and
+development, which are primarily commercial and residential projects and
+commercial mortgage loans. Commercial mortgage loans are completed projects
+and are generally owner-occupied, creating cash flow.
+The ultimate collectibility of the loan portfolio and realization of the
+carrying value of real estate are subject to changes in the region's real
+estate market and future economic conditions.
+Residential mortgage loans held for sale amounted to $33,788,000 at
+December 31, 1993 and $44,731,000 at December 31, 1992. These loans are
+accounted for at the lower of aggregate cost or market.
+Subsidiaries of UJB Financial have granted loans to officers and
+directors of the company and its significant subsidiaries and to their
+associates. Related party loans are made on substantially the same terms,
+including interest rates and collateral, as those prevailing at the time for
+comparable transactions with unrelated persons and do not involve more than
+normal risk of collectibility. The aggregate dollar amount of these loans was
+$80,046,000 and $98,043,000 at December 31, 1993 and 1992, respectively.
+During 1993, there were $64,801,000 of new loans made and repayments totaled
+$82,798,000.
+
+NOTE 7 NON-PERFORMING LOANS
+Non-performing loans consist of commercial non-accrual and renegotiated loans.
+Non-accrual loans are those on which income under the accrual method has been
+discontinued with subsequent interest payments credited to interest income when
+received, or if ultimate collectibility of principal is in doubt, applied as
+principal reductions. Renegotiated loans are loans whose contractual interest
+rates have been reduced to below market rates, or other significant concessions
+made, due to a borrower's financial difficulties. Interest on these loans is
+either accrued or credited directly to interest income as received.
+At December 31, non-performing loans were as follows:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992
+==================================================================================
+<S> <C> <C>
+Non-accrual loans . . . . . . . . . . . . . . . . . . . . $248,144 $339,980
+Renegotiated loans . . . . . . . . . . . . . . . . . . . 3,582 21,836
+- ----------------------------------------------------------------------------------
+$251,726 $361,816
+==================================================================================
+</TABLE>
+
+The following information is presented for those loans classified as
+non-performing at December 31:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992 1991
+=================================================================================================
+<S> <C> <C> <C>
+Income that would have been recorded
+under original contract terms . . . . . . . . . . . . . $21,382 $27,538 $43,405
+Interest income received and recorded . . . . . . . . . . 3,787 3,843 8,463
+- -------------------------------------------------------------------------------------------------
+Lost income on non-performing loans
+at year end $17,595 $23,695 $34,942
+=================================================================================================
+</TABLE>
+
+45
+
+<PAGE> 9
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+- -------------------------------------------------------
+NOTE 8 ALLOWANCE FOR LOAN LOSSES
+Transactions in the allowance for loan losses were as follows:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992 1991
+=================================================================================================
+<S> <C> <C> <C>
+Balance, January 1 . . . . . . . . . . . . . . . . . . . $275,296 $288,770 $258,691
+Add provision charged to expense . . . . . . . . . . . 95,500 139,000 167,350
+- -------------------------------------------------------------------------------------------------
+370,796 427,770 426,041
+- -------------------------------------------------------------------------------------------------
+Less net charge offs:
+Loans charged off . . . . . . . . . . . . . . . . . . 142,987 165,208 149,325
+Less recoveries . . . . . . . . . . . . . . . . . . . 14,295 12,734 12,054
+- -------------------------------------------------------------------------------------------------
+Net loans charged off . . . . . . . . . . . . . . . . . 128,692 152,474 137,271
+- -------------------------------------------------------------------------------------------------
+Balance, December 31 $242,104 $275,296 $288,770
+=================================================================================================
+</TABLE>
+
+NOTE 9 PREMISES AND EQUIPMENT
+The major components of premises, furniture and equipment at December 31, were
+as follows:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992
+==================================================================================
+<S> <C> <C>
+Land . . . . . . . . . . . . . . . . . . . . . . . . . . $ 17,005 $ 17,828
+Premises and leasehold improvements . . . . . . . . . . . 185,546 179,921
+Furniture and equipment . . . . . . . . . . . . . . . . . 127,636 121,408
+- ----------------------------------------------------------------------------------
+330,187 319,157
+Less accumulated depreciation and amortization . . . . . 162,710 145,997
+- ----------------------------------------------------------------------------------
+$167,477 $173,160
+==================================================================================
+</TABLE>
+
+Amounts charged to non-interest expenses for depreciation and
+amortization amounted to $20,183,000 in 1993, $20,311,000 in 1992 and
+$18,380,000 in 1991.
+
+NOTE 10 OTHER REAL ESTATE OWNED
+At December 31, other real estate owned consisted of the following:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992
+==================================================================================
+<S> <C> <C>
+Other real estate owned . . . . . . . . . . . . . . . . . $ 69,075 $ 86,643
+In-substance foreclosures . . . . . . . . . . . . . . . . 34,093 48,258
+- ----------------------------------------------------------------------------------
+103,168 134,901
+Less allowance for other real estate owned . . . . . . . 30,893 13,127
+- ----------------------------------------------------------------------------------
+$ 72,275 $121,774
+==================================================================================
+</TABLE>
+
+Transactions in the allowance for other real estate owned were as
+follows:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992
+==================================================================================
+<S> <C> <C>
+Balance, January 1 . . . . . . . . . . . . . . . . . . . $13,127 $ 2,388
+Add provision charged to expense . . . . . . . . . . . 31,563 27,728
+- ----------------------------------------------------------------------------------
+44,690 30,116
+Less losses on sales . . . . . . . . . . . . . . . . . 13,797 16,989
+- ----------------------------------------------------------------------------------
+Balance, December 31 $30,893 $13,127
+==================================================================================
+</TABLE>
+
+NOTE 11 OTHER BORROWED FUNDS
+Other borrowed funds at December 31, consisted of the following:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992
+==================================================================================
+<S> <C> <C>
+Securities sold under agreements to repurchase . . . . . $274,255 $357,734
+Federal funds purchased . . . . . . . . . . . . . . . . . 160,554 198,275
+Treasury tax and loan deposits . . . . . . . . . . . . . 85,322 55,095
+Bank borrowings . . . . . . . . . . . . . . . . . . . . . -- 5,250
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . 29,318 24,650
+- ----------------------------------------------------------------------------------
+$549,449 $641,004
+==================================================================================
+</TABLE>
+
+Lines of credit are available to support commercial paper borrowings and
+for general corporate purposes, on which interest approximates the prime
+lending rate at the time of borrowing. Unused lines amounted to $48,000,000 at
+December 31, 1993.
+Commitment fees on the credit facilities and the lines of credit
+amounted to $161,000 in 1993, $236,000 in 1992 and $782,000 in 1991.
+
+NOTE 12 LONG-TERM DEBT
+
+Long-term debt at December 31, consisted of the following:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992
+==================================================================================
+<S> <C> <C>
+8.625% Subordinated notes due December 10, 2002 . . . . . $175,000 $175,000
+7.95% Senior notes due August 25, 2003 . . . . . . . . . 20,000 --
+7.75% Sinking fund debentures . . . . . . . . . . . . . . 10,715 11,600
+12.95% Mortgage note . . . . . . . . . . . . . . . . . . -- 18,270
+11.50% Senior notes . . . . . . . . . . . . . . . . . . . -- 3,000
+13% Subordinated debentures . . . . . . . . . . . . . . . -- 2,387
+Private placement notes . . . . . . . . . . . . . . . . . -- 2,080
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . 2,744 4,233
+- ----------------------------------------------------------------------------------
+$208,459 $216,570
+==================================================================================
+</TABLE>
+
+The 8.625% subordinated notes were issued in 1992 and are unsecured.
+Interest is payable semi-annually on June 10 and December 10 of each year. The
+notes are not subject to redemption prior to maturity. No sinking fund is
+provided for the notes.
+On August 19,1993 the Company issued $20,000,000 of 7.95% ten year
+maturity, private placement notes with interest payable quarterly on the
+twenty-fifth day of each February, May, August and November. The notes are to
+mature on August 25, 2003. The Company shall have the option, on any interest
+payment date, to prepay the notes in whole or in part, but in no event shall
+the prepayment be less than $1,000,000 subject to certain contractual
+prepayment options.
+The 7.75% sinking fund debentures are currently redeemable at the option
+of UJB Financial at 100% of the principal amount, plus accrued interest. An
+annual sinking fund of $700,000 is calculated to retire 52.5% of this issue
+prior to maturity on November 1, 1997. UJB Financial may, at its option,
+increase its sinking fund payment in any year by making an additional payment
+not in excess of the mandatory sinking fund payment. The debentures are
+redeemable, through the sinking fund, at the principal amount thereof plus
+accrued interest. 
+The 12.95% mortgage note was prepaid in whole on June 28, 1993, as
+permitted by the original agreement, at a premium of $913,500. The private
+placement notes were paid in full in 1993.
+
+46
+
+<PAGE> 10
+The 11.50% senior notes and the 13% subordinated debentures are included
+in other borrowed funds as they are expected to be paid in full in 1994.
+Certain of the above long-term debt agreements include restrictions upon
+the creation of liens by UJB Financial, the disposition of stock of
+subsidiaries, the payment of cash dividends and the creation of funded debt, as
+defined. At December 31, 1993, under the most restrictive limitations,
+consolidated retained earnings of $208,483,000 were unrestricted and available
+for dividends and the amount of additional funded debt, as defined, that could
+be created was $249,808,000.
+The principal amount of long-term debt due in the following year is
+included in other borrowed funds. Principal amounts due, including sinking fund
+payments, for the years 1994 through 1998 are $6,867,000, $1,225,000, $831,000,
+$832,000 and $833,000, respectively.
+
+NOTE 13 COMMON AND PREFERRED STOCK
+At December 31, 1993, approximately 8,241,000 common shares were reserved for
+issuance under the Dividend Reinvestment Plan, Incentive Stock and Option Plan,
+Stock Option Plans, Savings Incentive Plan, Long-Term Performance Stock Plan
+and the 1983 Equity Contracts.
+At December 31, 1993, UJB Financial had 4,000,000 shares of preferred
+stock authorized of which 600,166 shares of Series B Preferred Stock were
+outstanding. Each outstanding share of Series B $50 stated value preferred
+stock is non-convertible and has no voting rights. Dividends are cumulative and
+are payable quarterly on February 1, May 1, August 1, and November 1 of each
+year. For each quarterly period, the dividend rate will be determined in
+advance of such period, and the dividend rate will be 1.5% less than the
+highest of the Three Month Treasury Bill Rate, the Ten Year Constant Maturity
+Rate and the Thirty Year Constant Maturity Rate. The dividend rate for any
+dividend period will not be less than 6% per annum or greater than 11% per
+annum.
+The preferred stock is redeemable at the option of UJB Financial, in
+whole or in part, plus accrued and unpaid dividends. The preferred stock may be
+redeemed prior to May 1, 1995 at a redemption price of $51.50 per share and,
+thereafter, at $50 per share. Dividends in the amounts of $3.00 per share were
+declared on the Series B Preferred Stock during 1993.
+A Shareholder Rights Plan exists which is designed to ensure fair and
+equal treatment for all UJB Financial shareholders in the event of any proposal
+to acquire UJB Financial. The terms of the plan provide that, effective August
+28, 1989, each share of common stock also represents one "right." Each right
+will entitle the holder to buy one one-hundredth of a share of a new series of
+preferred stock upon the occurrence of certain events. In addition, upon the
+occurrence of certain other events, holders of the rights will be entitled to
+purchase either shares of this new preferred stock or shares in an "acquiring
+person" at half their fair market value, as determined under the plan.
+
+NOTE 14 RESTRICTIONS ON SUBSIDIARY BANK DIVIDENDS
+Certain bank regulatory limitations exist on the availability of subsidiary
+bank undistributed net assets for the payment of dividends to UJB Financial
+Parent Corporation without the prior approval of the bank regulatory
+authorities.
+The National Bank Act which affects the three nationally-chartered banks
+and the Federal Reserve Act which affects one state-member bank, restrict the
+payment of dividends in any calendar year to the net profit of the current year
+combined with retained net profits of the preceding two years. Each of the
+three state-chartered banks may declare a dividend only if, after payment
+thereof, its capital would be unimpaired and its remaining surplus would equal
+50 percent of its capital (New Jersey) or 100 percent of its capital
+(Pennsylvania). At December 31, 1993, the total undistributed net assets of the
+subsidiary banks were $858,299,000 of which $96,920,000 was available under the
+most restrictive limitations for the payment of dividends to UJB Financial
+Parent Corporation.
+
+NOTE 15 BENEFIT PLANS
+UJB Financial has several trusteed non-contributory defined benefit retirement
+plans covering substantially all of its employees. The benefits are based on
+years of service and the employees' final average compensation. The funding
+policy of UJB Financial is to contribute annually an amount that can be
+deducted for Federal income tax purposes. Contributions are intended to provide
+not only for benefits attributed to service to date, but also for those
+expected to be earned in the future.
+The following table sets forth the plans' funding status and amounts
+recognized in the consolidated financial statements of UJB Financial at
+December 31:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992 1991
+=================================================================================================
+<S> <C> <C> <C>
+Accumulated benefit obligation,
+including vested benefits of
+$107,481 in 1993, $90,202 in 1992
+and $75,301 in 1991 . . . . . . . . . . . . . . . . . . $(114,972) $ (97,108) $ (80,535)
+=================================================================================================
+Projected benefit obligation for
+service rendered to date . . . . . . . . . . . . . . . $(145,285) $ (125,198) $ (107,336)
+Plan assets at fair value . . . . . . . . . . . . . . . . 142,903 132,918 124,405
+- -------------------------------------------------------------------------------------------------
+Plan assets in excess of projected
+benefit obligation . . . . . . . . . . . . . . . . . . (2,382) 7,720 17,069
+Unrecognized net asset at January 1 . . . . . . . . . . . (10,931) (13,297) (15,663)
+Unrecognized net (gain) loss from
+past experience which is different
+from that assumed, and effect of
+changes in assumptions . . . . . . . . . . . . . . . . 6,043 2,310 (2,728)
+- --------------------------------------------------------------------------------------------------
+Accrued pension cost $ (7,270) $ (3,267) $ (1,322)
+=================================================================================================
+Net pension expense consisted
+of the following components:
+Service cost . . . . . . . . . . . . . . . . . . . . . $ 6,716 $ 5,965 $ 5,428
+Interest cost . . . . . . . . . . . . . . . . . . . . . 10,424 9,534 8,554
+Actual return on plan assets . . . . . . . . . . . . . (14,879) (11,599) (27,979)
+Net amortization and deferral . . . . . . . . . . . . . 2,057 (376) 16,723
+- -------------------------------------------------------------------------------------------------
+Net pension expense $ 4,318 $ 3,524 $ 2,726
+=================================================================================================
+</TABLE>
+
+The plans' assets were principally invested in units of mutual funds.
+The weighted average discount rate was 7.5% in 1993, 8.0% in 1992, and 8.5% in
+1991. The rate of increase in future compensation levels used in determining
+the actuarial present value of the projected benefit obligation was 5.5% in
+1993, 6.0% in 1992, and 6.5% in 1991. The expected long-term rate of return on
+plan assets was 9.0% in 1993, 1992 and 1991.
+
+47
+
+<PAGE> 11
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+- -------------------------------------------------------
+Management incentive plans have been established with the intention of
+providing added incentive to key executives to increase the profits of the
+company. The executives and the amount of the awards are subject to limits as
+set forth in the plans. Accruals for the plans amounted to $1,640,000,
+$1,420,000 and $958,000 in 1993, 1992 and 1991, respectively.
+There is a Savings Incentive Plan which covers substantially all employees
+with one or more years of service. The Plan permits eligible employees to make
+basic contributions to the Plan up to 3% of base compensation in 1993, 1992 and
+1991, and additional contributions up to 12% of base compensation. Under the
+Plan, the employer provides a matching contribution equal to 65% in 1993 and
+1992 and 55% in 1991 of the basic contributions. Matching contributions to the
+Plan amounted to $2,084,000, $1,863,000, and $1,651,000, in 1993, 1992 and
+1991, respectively.
+Certain subsidiaries have other incentive plans and profit sharing 
+agreements. Accruals under these plans amounted to $1,622,000, $1,402,000, and
+$949,000, in 1993, 1992 and 1991, respectively.
+The Incentive Stock and Option Plan and previous Long-Term Performance 
+Stock Plans provide for the grant of shares of common stock in the form of 
+Restricted Stock Awards. Shares issued as stock awards were 68,702 in 1993, 
+83,210 in 1992 and 134,160 in 1991. The shares awarded are subject to certain 
+forfeiture restrictions as set forth in the Plan.
+In addition to pension benefits, certain health care and life insurance
+benefits are made available to retired employees. In 1993 UJB Financial
+adopted, on a prospective basis, Statement of Financial Accounting Standards
+No. 106, "Employers' Accounting for Postretirement Benefits Other Than
+Pensions" (SFAS 106). Under SFAS 106 the costs of such benefits are accrued
+based on actuarial assumptions from the date of hire to the date the employee
+is fully eligible to receive the benefits. Prior to the adoption of SFAS 106,
+the costs of these benefits were expensed as paid and amounted to $1,039,000 in
+1992 and $847,000 in 1991.
+The following table sets forth the net periodic postretirement benefit
+cost and accumulated postretirement benefit obligation (APBO) at December 31,
+1993:
+
+<TABLE>
+<CAPTION>
+In thousands 
+====================================================================
+<S> <C>
+Accumulated postretiremcnt benefit obligation (APBO) . . . $(35,009)
+Fair value of assets . . . . . . . . . . . . . . . . . . --
+- --------------------------------------------------------------------
+Projected benefit obligation funded status . . . . . . . . (35,009)
+Unrecognized transition obligation . . . . . . . . . . . 26,414
+Unrecognized loss . . . . . . . . . . . . . . . . . . . . 5,731
+- --------------------------------------------------------------------
+Accrued APBO $ (2,864)
+====================================================================
+Net postretirement benefit cost consisted of the
+following components:
+Service cost . . . . . . . . . . . . . . . . . . . . . . $ 305
+Interest cost . . . . . . . . . . . . . . . . . . . . . . 2,303
+Amortization of transition obligation . . . . . . . . . . 1,390
+- --------------------------------------------------------------------
+Net postretirement benefit cost $ 3,998
+====================================================================
+</TABLE>
+
+For measurement purposes, the cost of medical benefits was projected to
+increase at a rate of 15.0% in 1993, thereafter decreasing linearly to 6.0%
+over 9 years. Increasing the assumed health care cost trend by one percent in
+each year would increase the accumulated postretirement benefit obligation as
+of January 1, 1993 by $1,464,000 and the aggregate of the service and interest
+components of net periodic postretirement benefit cost for the year ended
+December 31, 1993 by $100,000. The present value of the accumulated benefit
+obligation assumed a 7.5% discount rate. The rate of increase used in future
+compensation levels was 5.5% in 1993.
+
+NOTE 16 STOCK OPTION PLANS
+The Stock Option Plans permit UJB Financial common stock to be issued to key
+employees of the company and its subsidiaries. The options granted under the
+Plans are intended to be either Incentive Stock Options or Non-Qualified
+Options.
+Options have been granted to purchase common stock principally at the fair
+market value of the stock at the date of grant. Options are exercisable
+starting one year after the date of grant and generally expire ten years from
+the date of grant. Upon the exercise of options, proceeds received in excess of
+par value of the shares are credited to surplus.
+Changes in options outstanding during the past three years
+were as follows:
+<TABLE>
+<CAPTION>
+Price Range
+Shares Per Share
+========================================================================== 
+<S> <C> <C> 
+Outstanding, December 31, 1990
+(1,114,369 shares exercisable) . . . 1,706,527 $11.027 to $29.438
+Granted during 1991 . . . . . . . . . 956,300 7.875 to 14.688
+Exercised during 1991 . . . . . . . . 6,480 8.807 to 14.313
+Expired or cancelled during 1991 . . 64,070 7.875 to 29.438
+- --------------------------------------------------------------------------
+Outstanding, December 31, 1991 
+(1,635,977 shares exercisable) . . . 2,592,277 7.875 to 29.438
+Granted during 1992 . . . . . . . . . 539,560 16.500 to 17.000
+Exercised during 1992 . . . . . . . . 242,975 7.875 to 20.375
+Expired or cancelled during 1992 . . 30,997 7.875 to 29.438
+- --------------------------------------------------------------------------
+Outstanding, December 31, 1992
+(2,318,305 shares exercisable) . . . 2,857,865 7.875 to 29.438
+Granted during 1993 . . . . . . . . . 474,500 24.000 to 25.063
+Exercised during 1993 . . . . . . . . 348,164 7.875 to 29.438
+Expired or cancelled during 1993 . . 24,957 7.875 to 29.438
+- --------------------------------------------------------------------------
+Outstanding, December 31, 1993
+(2,484,744 shares exercisable) . . . 2,959,244 $ 7.875 to $29.438
+========================================================================== 
+</TABLE>
+
+NOTE 17 OTHER EXPENSES
+Other expenses consisted of the following:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992 1991
+=======================================================================
+<S> <C> <C> <C>
+Professional and other fees . . . . . . $ 39,799 $ 44,399 $ 32,089
+Communications (postage and
+telephone) . . . . . . . . . . . . . 18,389 17,222 16,639
+Merchant card processing fees . . . . . 14,464 12,534 11,247
+Other . . . . . . . . . . . . . . . . . 39,523 39,421 42,760
+- -----------------------------------------------------------------------
+$112,175 $113,576 $102,735
+=======================================================================
+</TABLE>
+
+NOTE 18 INCOME TAXES
+In February 1992, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 109, "Accounting for Income Taxes" (SFAS
+109). This Statement
+
+48
+
+<PAGE> 12
+changes the method of accounting for income taxes from the deferred method,
+required under Accounting Principles Board Opinion No. 11, to the asset and
+liability method. The Statement addresses temporary differences and the basis
+of certain assets and liabilities for tax and financial statement reporting
+purposes. A deferred tax liability is recognized for all taxable temporary
+differences and a deferred tax asset is recognized for all deductible temporary
+differences.
+Effective January 1, 1993, SFAS 109 was adopted on a prospective basis.
+The cumulative effect of the adoption resulted in a positive effect to earnings
+of $3.8 million or $.07 per share.
+The provision (benefit) for income taxes in the consolidated statement of
+income consists of the following:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992 1991
+=======================================================================
+<S> <C> <C> <C>
+Current
+Federal . . . . . . . . . . . . . . . $21,293 $19,156 $ 6,070
+State . . . . . . . . . . . . . . . . 9,296 3,829 10,698
+- -----------------------------------------------------------------------
+30,589 22,985 16,768
+Deferred
+Federal . . . . . . . . . . . . . . . (739) (4,929) (14,027)
+State . . . . . . . . . . . . . . . . (5,043) -- --
+- -----------------------------------------------------------------------
+(5,782) (4,929) (14,027)
+- ----------------------------------------------------------------------- 
+Total income tax provision $24,807 $18,056 $ 2,741
+=======================================================================
+</TABLE>
+
+A summary of the differences between the actual income tax provision
+(benefit) and the amounts computed by applying the statutory Federal income tax
+rate to income is as follows:
+
+<TABLE>
+<CAPTION>
+1993 1992 1991
+==============================================================================
+<S> <C> <C> <C>
+Federal tax at statutory rate . . . . . . . . . $ 34,666 $ 24,439 $ 8,560
+Increase (decrease) in taxes resulting from:
+Tax-exempt interest income . . . . . . . . . (10,492) (12,373) (14,773)
+State taxes, net of Federal tax effect . . . 2,764 2,527 7,061
+Other, net . . . . . . . . . . . . . . . . . (2,131) 3,463 1,893
+- ------------------------------------------------------------------------------
+Total income tax provision $ 24,807 $ 18,056 $ 2,741
+==============================================================================
+</TABLE>
+
+The significant temporary differences of the income tax provision which
+affected the net deferred tax asset were as follows:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992 1991
+==================================================================================
+<S> <C> <C> <C>
+Provision for loan losses and other real
+estate on tax return in excess of (less than)
+provision charged to operating expense . . . . . $ 2,875 $ 383 $(13,647)
+Loan interest income recognized on tax
+return less than (in excess of) amount
+included in operating income . . . . . . . . . . 1,829 33 (2,726)
+Depreciation expense on tax return less than
+amount charged to operating expense . . . . . . . (1,625) (584) (1,684)
+Income from loan securitization included in
+operating income, but not reflected on
+tax return . . . . . . . . . . . . . . . . . . . -- (2,532) 2,532
+Adjustment of securities to market value not
+reflected on tax return . . . . . . . . . . . . . (261) 134 1,113
+Restructuring charges . . . . . . . . . . . . . . . (8,773) -- --
+Utilization of the alternative minimum tax
+credit carryforward . . . . . . . . . . . . . . . 5,090 -- --
+Other, net . . . . . . . . . . . . . . . . . . . . (4,917) (2,363) 385
+- ----------------------------------------------------------------------------------
+$(5,782) $(4,929) $(14,027)
+==================================================================================
+</TABLE>
+
+The significant Federal and state temporary differences which comprise UJB
+Financial's deferred tax assets and liabilities are presented at December 31,
+1993 as follows:
+
+<TABLE>
+<CAPTION>
+In thousands 
+=============================================================
+<S> <C>
+Deferred tax assets:
+Provision for loan losses . . . . . . . . . . . . $ 98,295
+Provision for other real estate owned . . . . . 12,662
+Restructuring charges . . . . . . . . . . . . . . 8,773
+Alternative minimum tax credit carryforwards . . 3,055
+Other . . . . . . . . . . . . . . . . . . . . . . 12,049
+- -------------------------------------------------------------
+134,834
+Deferred tax liabilities:
+Leasing operations . . . . . . . . . . . . . . . (10,601)
+Other . . . . . . . . . . . . . . . . . . . . . . (6,458)
+- ------------------------------------------------------------- 
+(17,059)
+- ------------------------------------------------------------- 
+Net deferred tax asset $117,775
+=============================================================
+</TABLE>
+
+Included in deferred tax assets "Other" is a valuation allowance which has
+been established against certain Federal and state temporary differences. The
+valuation allowance was $7,346,000 at December 31, 1993 compared with
+$7,150,000 at January 1, 1993. At December 31, 1993, there was a deferred state
+tax asset of $3,975,000 resulting from operating loss carryforwards. This
+asset was reserved by the valuation allowance.
+UJB Financial is not aware of any factors which would generate significant
+differences between taxable income and pretax book income in future years
+except for the effects of the reversal of current or future net deductible
+temporary differences. However, there can be no assurances that there will not
+be any significant differences in the future, if circumstances change.
+Management believes, based upon current facts, that more likely than not
+there will be sufficient taxable income in future years to realize the net
+deferred tax asset. However, there can be no assurance about the level of
+future earnings.
+
+NOTE 19 LEASE COMMITMENTS
+Non-interest expenses include rentals for premises and equipment of $34,435,000
+in 1993, $31,969,000 in 1992 and $28,955,000 in 1991, after reduction for
+sublease rentals of $2,894,000, $3,164,000, and $2,873,000 in each of the
+respective years. At December 31, 1993, UJB Financial and its subsidiaries were
+obligated under a number of non-cancellable leases for premises and equipment,
+many of which provide for increased rentals based upon increases in real estate
+taxes and the cost of living index. These leases, most of which have renewal
+provisions, are principally non-financing leases. Minimum rentals under the
+terms of these leases for years 1994 through 1998 are $33,014,000, $28,382,000,
+$23,287,000, $16,167,000, and $10,275,000, respectively. Minimum rentals due
+after 1998 are $26,143,000.
+
+NOTE 20 CONTINGENT LIABILITIES
+UJB Financial and its subsidiaries may, from time to time, be defendants in
+legal proceedings relating to the conduct of their business. UJB Financial is a
+defendant in a purported class action lawsuit brought by plaintiffs alleged to
+have owned or purchased securities of UJB Financial. Violations of Federal
+securities laws and New Jersey common law are alleged. Discovery by both
+parties is in process.
+
+49
+
+<PAGE> 13
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+- -------------------------------------------------------
+The Board and management of UJB Financial believe the allegations
+contained in the lawsuit to be lacking in merit and intend to defend this
+lawsuit vigorously. Management believes the consolidated financial position of
+UJB Financial and subsidiaries will not be affected materially by the final
+outcome of any pending legal proceedings.
+
+NOTE 21 OFF-BALANCE-SHEET FINANCIAL INSTRUMENTS
+UJB Financial and its subsidiaries enter into a variety of financial
+instruments with off-balance-sheet risk in the normal course of business.
+These financial instruments include interest rate swaps, commitments to extend
+credit and standby letters of credit, each of which involve, to varying
+degrees, elements of risk in excess of the amounts recognized in the financial
+statements.
+Included in financial instruments with off-balance-sheet risk are
+derivatives which are primarily attributable to asset and liability management
+efforts. The notional amount of interest rate swaps at December 31, 1993 and
+1992 was $1,019,000,000 and $161,300,000 respectively.
+Credit risk, the risk that a counterparty of a particular financial
+instrument will fail to perform, is the contract amount of commitments to
+extend credit and standby letters of credit. The credit risk associated with
+these financial instruments is essentially the same as that involved in
+extending loans to customers. Credit risk is managed by limiting the total
+amount of arrangements outstanding and by applying normal credit policies to
+all activities with credit risk. Collateral may be obtained based on
+management's credit assessment of the customer.
+The contract amounts of off-balance-sheet financial instruments at
+December 31, 1993 and 1992 for commitments to extend credit were 
+$3,656,141,000 and $3,431,459,000, respectively, and for standby letters of 
+credit were $224,291,000 and $258,302,000, respectively.
+Many of the commitments to extend credit are expected to expire without
+being drawn upon and, therefore, the total commitment amounts do not
+necessarily represent future cash flow requirements.
+
+NOTE 22 FAIR VALUE OF FINANCIAL INSTRUMENTS
+The fair value of a financial instrument is the amount at which the asset or
+obligation could be exchanged in a current transaction between willing parties,
+other than in a forced or liquidation sale. Fair value estimates are made at a
+specific point in time based on relevant market information and information
+about the financial instrument. These estimates do not reflect any premium or
+discount that could result from offering for sale at one time the entire
+holdings of a particular financial instrument. Because no market value exists
+for a significant portion of the financial instruments, fair value estimates
+are based on judgments regarding future expected loss experience, current
+economic conditions, risk characteristics of various financial instruments,
+and other factors. These estimates are subjective in nature, involve
+uncertainties and matters of judgment and, therefore, cannot be determined with
+precision. Changes in assumptions could significantly affect the estimates.
+Fair value estimates are determined for on and off-balance-sheet financial
+instruments, without attempting to estimate the value of anticipated future
+business, and the value of assets and liabilities that are not considered
+financial instruments. Additionally, tax consequences related to the
+realization of the unrealized gains and losses can have a potential effect on
+fair value estimates and have not been considered in many of the estimates.
+The following methods and assumptions were used to estimate the fair value
+of significant financial instruments.
+
+FINANCIAL ASSETS:
+The carrying amounts of cash, short-term investments, due from customers on
+acceptances, and bank acceptances outstanding are considered to approximate
+fair value. Short-term investments include Federal funds sold, securities
+purchased under agreements to resell, and interest bearing deposits with banks.
+The fair values of investment securities, including available for sale, are
+generally based on quoted market prices. The fair value of loans are estimated
+using a combination of techniques, including discounting estimated future cash
+flows and quoted market prices of similar instruments, where available.
+
+FINANCIAL LIABILITIES:
+The carrying amounts of deposit liabilities payable on demand, commercial paper
+and other borrowed funds are considered to approximate fair value. For fixed
+maturity deposits, fair value is estimated by discounting estimated future cash
+flows using currently offered rates for deposits of similar remaining
+maturities. The fair value of long-term debt is based on rates currently
+available to UJB Financial for debt with similar terms and remaining
+maturities.
+
+OFF-BALANCE-SHEET FINANCIAL INSTRUMENTS:
+The fair value of commitments to extend credit and standby letters of credit is
+estimated using the fees currently charged to enter into similar agreements.
+The fair value of interest rate swaps and caps, entered into in order to manage
+interest rate risk, are based on dealer quotes. At December 31, 1993 the fair
+value of these instruments was ($1,233,000).
+The estimated fair value of financial instruments at December 31, is
+summarized as follows:
+
+<TABLE>
+<CAPTION>
+In thousands 1993 1992
+=============================================================================
+<S> <C> <C>
+Financial Assets:
+Cash and short-term investments . . . . . . . . . $ 839,866 $ 1,133,366
+Trading account securities . . . . . . . . . . . 29,735 21,961
+Investment securities available for sale . . . . 1,177,585 886,577
+Investment securities . . . . . . . . . . . . . . 2,495,849 2,677,274
+Loans . . . . . . . . . . . . . . . . . . . . . . 8,898,788 8,870,187
+Due from customers on acceptances . . . . . . . . 20,126 21,378
+
+Financial Liabilities:
+Deposits . . . . . . . . . . . . . . . . . . . . $11,480,996 $11,819,544
+Other borrowed funds and commercial
+paper . . . . . . . . . . . . . . . . . . . . . 582,808 703,842
+Bank acceptances outstanding . . . . . . . . . . 20,126 21,378
+Long-term debt . . . . . . . . . . . . . . . . . 225,513 224,975
+=============================================================================
+</TABLE>
+
+50
+
+<PAGE> 14
+NOTE 23 PARENT CORPORATION INFORMATION
+
+UJB Financial Parent Corporation formed UJB Financial Service Corporation, a
+bank service corporation, and transferred $28,300,000 of assets to the new
+company as of December 31, 1991. This company is wholly owned by the subsidiary
+banks. UJB Financial Service Corporation provides data processing and other
+back office services to these subsidiaries. Beginning in 1992, the Condensed
+Statements of Income include UJB Financial Parent Corporation only, and not the
+operating results of UJB Financial Service Corporation.
+UJB Financial Parent Corporation information is as follows:
+
+CONDENSED BALANCE SHEETS
+<TABLE>
+<CAPTION>
+December 31
+-----------------------
+In thousands 1993 1992
+=============================================================================
+ASSETS
+<S> <C> <C>
+Cash and cash equivalents . . . . . . . . . . . . . $ 152,024 $ 216,674
+Interest bearing deposits with banks . . . . . . . 5,000 --
+Investment securities . . . . . . . . . . . . . . . 3,738 3,380
+Investment in subsidiaries . . . . . . . . . . . . 920,228 812,501
+Due from subsidiaries . . . . . . . . . . . . . . . 149,410 173,171
+Premises and equipment . . . . . . . . . . . . . . 20,665 23,110
+Other assets . . . . . . . . . . . . . . . . . . . 24,467 13,777
+- -----------------------------------------------------------------------------
+Total Assets $1,275,532 $1,242,613
+============================================================================= 
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Commercial paper . . . . . . . . . . . . . . . . . $ 33,359 $ 62,861
+Borrowed funds . . . . . . . . . . . . . . . . . . -- 5,250
+Accrued expenses and other liabilities . . . . . . 57,927 44,230
+Long-term debt . . . . . . . . . . . . . . . . . . 208,172 210,002
+- -----------------------------------------------------------------------------
+Total liabilities . . . . . . . . . . . . . . . . 299,458 322,343
+Total shareholders' equity . . . . . . . . . . . . 976,074 920,270
+- -----------------------------------------------------------------------------
+Total Liabilities and Shareholders' Equity $1,275,532 $1,242,613
+=============================================================================
+</TABLE>
+
+CONDENSED STATEMENTS OF INCOME
+
+<TABLE>
+<CAPTION>
+Year Ended December 31
+-------------------------------
+In thousands 1993 1992 1991
+=================================================================================
+<S> <C> <C> <C>
+OPERATING INCOME
+Management and service charges to
+subsidiaries . . . . . . . . . . . . . . . . . $38,994 $40,177 $96,562
+Dividends from subsidiaries . . . . . . . . . . . 40,311 33,266 33,310
+Interest from subsidiaries . . . . . . . . . . . 16,356 10,763 23,696
+Investment securities gains (losses) . . . . . . -- 422 (2,419)
+Other interest . . . . . . . . . . . . . . . . . 120 390 896
+Other . . . . . . . . . . . . . . . . . . . . . . 12 (204) 54
+- ---------------------------------------------------------------------------------
+Total operating income 95,793 84,814 152,099
+- ---------------------------------------------------------------------------------
+OPERATING EXPENSES
+Salaries and employee benefits . . . . . . . . . 32,887 28,924 55,022
+Interest . . . . . . . . . . . . . . . . . . . . 20,044 11,247 23,402
+Occupancy and equipment . . . . . . . . . . . . . 5,768 5,776 29,681
+Other . . . . . . . . . . . . . . . . . . . . . . 11,797 14,098 22,278
+- ---------------------------------------------------------------------------------
+Total operating expenses 70,496 60,045 130,383
+- ---------------------------------------------------------------------------------
+Income before income taxes and equity
+in undistributed net income of
+subsidiaries . . . . . . . . . . . . . . . . . 25,297 24,769 21,716
+Federal and state income taxes
+(benefit) . . . . . . . . . . . . . . . . . . (701) 450 (2,079)
+- --------------------------------------------------------------------------------- 
+25,998 24,319 23,795
+Equity in undistributed net income (loss)
+of subsidiaries . . . . . . . . . . . . . . . 52,057 29,505 (1,360)
+- --------------------------------------------------------------------------------- 
+Net Income $78,055 $53,824 $22,435
+=================================================================================
+</TABLE>
+
+CONDENSED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+Year Ended December 31
+------------------------------
+In thousands 1993 1992 1991
+=================================================================================
+<S> <C> <C> <C>
+OPERATING ACTIVITIES
+Net income . . . . . . . . . . . . . . . . . . . $ 78,055 $ 53,824 $ 22,435
+Adjustments to reconcile net income to
+net cash provided by operating
+activities:
+Depreciation and amortization . . . . . . . . . 2,481 3,070 5,447
+(Gains) losses on sales of investment
+securities . . . . . . . . . . . . . . . . . -- (422) 2,419
+Loss on sale of assets . . . . . . . . . . . . -- 209 --
+(Increase) decrease in other assets . . . . . . (10,677) (478) 3,892
+Increase (decrease) in accrued
+expenses and other liabilities . . . . . . . 13,697 7,759 (982)
+Equity in undistributed net (income)
+loss of subsidiaries . . . . . . . . . . . . (52,057) (29,505) 1,360
+- ---------------------------------------------------------------------------------
+Net cash provided by operating
+activities 31,499 34,457 34,571
+- ---------------------------------------------------------------------------------
+INVESTING ACTIVITIES
+Proceeds from sales of investment
+securities . . . . . . . . . . . . . . . . . . -- 9,354 7,261
+Net (increase) decrease in short-term
+investments . . . . . . . . . . . . . . . . . . (5,000) 10 --
+Payments received on advances to
+subsidiaries . . . . . . . . . . . . . . . . . 191,761 128,300 210,265
+Advances to subsidiaries . . . . . . . . . . . . (168,000) (216,709) (119,950)
+Proceeds from sale of assets . . . . . . . . . . -- 17,732 --
+Purchases of premises and equipment,
+net . . . . . . . . . . . . . . . . . . . . . . (817) (1,242) (17,148)
+Capital contributions to subsidiaries . . . . . . (55,000) (35,000) --
+- ---------------------------------------------------------------------------------
+Net cash (used in) provided by
+investing activities (37,056) (97,555) 80,428
+- ---------------------------------------------------------------------------------
+FINANCING ACTIVITIES
+Net decrease in commercial paper . . . . . . . . (29,502) (17,950) (124,420)
+Net decrease in borrowed funds . . . . . . . . . (5,250) (74,750) (30,000)
+Proceeds from issuance of long-term
+debt, net of related expenses . . . . . . . . . 20,000 172,489 --
+Principal payments on long-term debt . . . . . . (21,830) (18,047) (4,431)
+Dividends paid . . . . . . . . . . . . . . . . . (34,059) (30,223) (29,438)
+Proceeds from issuance of common
+stock, net . . . . . . . . . . . . . . . . . . -- 68,345 --
+Proceeds from issuance of common
+stock under dividend reinvestment
+and other stock plans . . . . . . . . . . . . . 14,805 15,728 8,288
+Other, net . . . . . . . . . . . . . . . . . . . (3,257) (715) (65)
+- ----------------------------------------------------------------------------------
+Net cash provided by (used in)
+financing activities (59,093) 114,877 (180,066)
+- ----------------------------------------------------------------------------------
+(Decrease) increase in cash and cash
+equivalents . . . . . . . . . . . . . . . . . . (64,650) 51,779 (65,067)
+Cash and cash equivalents at beginning
+of year . . . . . . . . . . . . . . . . . . . . 216,674 164,895 229,962
+- ---------------------------------------------------------------------------------
+Cash and cash equivalents at end
+of year $152,024 $216,674 $164,895
+=================================================================================
+</TABLE>
+
+51
+
+<PAGE> 15
+MANAGEMENT'S REPORT
+
+The management of UJB Financial Corp. and its subsidiaries has the
+responsibility for preparing the accompanying financial statements and for
+their integrity and objectivity. The statements were prepared in conformity
+with generally accepted accounting principles appropriate in the circumstances
+and include amounts that are based on management's best estimates and
+judgments. Other financial information presented throughout this annual report
+is prepared on a basis consistent with these financial statements.
+The financial statements of UJB Financial Corp. have been audited by KPMG
+Peat Marwick, independent auditors, whose selection has been ratified by the
+shareholders. Their audit was made in accordance with generally accepted
+auditing standards and considered the internal control structure to the extent
+deemed necessary to support their independent auditors' report appearing
+herein.
+Management has the responsibility for establishing and maintaining an
+internal control structure designed to provide reasonable assurance that assets
+are safeguarded and protected and financial reporting is reliable. Judgments
+are required to assess and balance the relative cost and the expected benefits
+of these controls. To monitor compliance, UJB Financial Corp. maintains an
+internal auditing program. This program includes a review for compliance with
+written policies and procedures and a review of the adequacy and effectiveness
+of internal controls.
+The Audit Committee of the Board of Directors of UJB Financial Corp.,
+composed exclusively of outside directors, meets periodically with the
+independent auditors, management, and internal auditors to review the work of
+each and ensure that each is properly discharging its responsibilities. The
+internal auditors and independent auditors have full and free access to the
+Committee to discuss the results of their audit work and their evaluation of
+internal controls and the quality of financial reporting.
+
+INDEPENDENT AUDITORS' REPORT
+
+The Shareholders and Board of Directors
+UJB Financial Corp,:
+
+We have audited the accompanying consolidated balance sheets of UJB Financial
+Corp. and subsidiaries as of December 31, 1993 and 1992, and the related
+consolidated statements of income, shareholders' equity and cash flows for each
+of the years in the three-year period ended December 31, 1993. These
+consolidated financial statements are the responsibility of the Corporation's
+management. Our responsibility is to express an opinion on these consolidated
+financial statements based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of UJB
+Financial Corp. and subsidiaries at December 31, 1993 and 1992, and the results
+of their operations and their cash flows for each of the years in the
+three-year period ended December 31, 1993 in conformity with generally accepted
+accounting principles.
+As discussed in Note 18 to the consolidated financial statements, the
+Corporation adopted Statement of Financial Accounting Standards No. 109,
+"Accounting for Income Taxes" in 1993.
+
+/s/ KPMG Peat Marwick
+
+Short Hills, New Jersey
+January 17, 1994
+
+52
+
+<PAGE> 16
+UNAUDITED QUARTERLY FINANCIAL DATA
+
+<TABLE>
+<CAPTION>
+1993
+----------------------------------------------
+Dec. 31 Sept. 30 June 30 Mar. 31
+========================================================================================
+- ----------------------------------------------------------------------------------------
+<S> <C> <C> <C> <C> 
+SUMMARY OF OPERATIONS (IN THOUSANDS)
+Interest income . . . . . . . . . . $ 213,905 $ 221,307 $ 225,455 $ 223,508
+Interest expense . . . . . . . . . 72,296 78,722 83,138 86,884
+- ----------------------------------------------------------------------------------------
+Net interest income . . . . . . . 141,609 142,585 142,317 136,624
+Provision for loan losses . . . . . 21,500 24,000 25,000 25,000
+- ----------------------------------------------------------------------------------------
+Income from earning assets . . . 120,109 118,585 117,317 111,624
+Non-interest income . . . . . . . . 45,651 44,294 41,168 47,162
+Non-interest expense . . . . . . . 131,765 150,451 127,892 136,756
+- ----------------------------------------------------------------------------------------
+Income before income taxes . . . 33,995 12,428 30,593 22,030
+Federal and state income taxes . . 10,551 585 8,168 5,503
+- ----------------------------------------------------------------------------------------
+Income before cumulative effect 
+of a change in accounting 
+principle . . . . . . . . . . . 23,444 11,843 22,425 16,527
+Cumulative effect of a change in 
+accounting principle . . . . . . -- -- -- 3,816
+- ----------------------------------------------------------------------------------------
+Net income . . . . . . . . . . . $ 23,444 $ 11,843 $ 22,425 $ 20,343
+========================================================================================
+COMMON SHARE DATA 
+Net income . . . . . . . . . . . . $ .45 $ .22 $ .43 $ .39
+Cash dividends declared . . . . . . .21 .16 .16 .16
+Book value . . . . . . . . . . . . 18.32 18.07 18.02 17.75
+Market value . . . . . . . . . . . 24.00 30.00 24.50 27.13
+Common stock dividend payout . . . 46.31% 46.15% 39.02% 41.03%
+Number of registered common 
+shareholders . . . . . . . . . . 20,652 20,813 21,040 21,302
+Average shares outstanding 
+(in thousands) . . . . . . . . . 51,579 51,361 51,186 51,019
+Common shares outstanding 
+(in thousands) . . . . . . . . . 51,632 51,517 51,231 51,115
+========================================================================================
+BALANCE SHEET DATA (AT QUARTER END, 
+IN THOUSANDS) 
+Total assets . . . . . . . . . . . $13,410,549 $13,597,403 $13,537,672 $13,755,398
+Total deposits . . . . . . . . . . 11,456,354 11,400,504 11,465,417 11,375,376
+Total loans . . . . . . . . . . . . 8,607,094 8,705,889 8,700,460 8,748,892
+Shareholders' equity . . . . . . . 976,074 960,686 953,019 937,383
+Allowance for loan losses . . . . . 242,104 246,836 248,727 253,086
+Long-term debt . . . . . . . . . . 208,459 212,696 195,151 216,121
+========================================================================================
+OPERATING RATIOS 
+Return on average assets . . . . . .68% .34% .65% .61%
+Return on average common equity . . 9.65 4.81 9.58 8.90
+Return on average total equity . . 9.54 4.84 9.47 8.81
+========================================================================================
+LOAN QUALITY RATIOS 
+Allowance for loan losses to quarter- 
+end loans . . . . . . . . . . . . 2.81% 2.84% 2.86% 2.89%
+Net charge offs to quarterly average 
+loans . . . . . . . . . . . . . . 1.20 1.18 1.35 2.19
+Non-performing loans to quarter- 
+end loans . . . . . . . . . . . . 2.92 3.14 3.40 3.65
+========================================================================================
+CAPITAL RATIOS 
+Tier I capital to average assets 
+(leverage) . . . . . . . . . . . 7.07% 6.90% 6.80% 6.82%
+Tier I capital to risk-adjusted 
+assets . . . . . . . . . . . . . 9.37 9.14 9.07 8.88
+Total capital to risk-adjusted assets 12.43 12.20 12.14 11.94
+========================================================================================
+</TABLE>
+<TABLE>
+<CAPTION>
+1992
+----------------------------------------------
+Dec. 31 Sept. 30 June 30 Mar. 31
+========================================================================================
+- ----------------------------------------------------------------------------------------
+<S> <C> <C> <C> <C>
+SUMMARY OF OPERATIONS (IN THOUSANDS)
+Interest income . . . . . . . . . . $ 229,584 $ 238,475 $ 242,439 $ 242,833
+Interest expense . . . . . . . . . 91,332 99,670 107,666 116,438
+- ----------------------------------------------------------------------------------------
+Net interest income . . . . . . . 138,252 138,805 134,773 126,395
+Provision for loan losses . . . . . 26,000 32,000 41,000 40,000
+- ----------------------------------------------------------------------------------------
+Income from earning assets . . . 112,252 106,805 93,773 86,395
+Non-interest income . . . . . . . . 47,887 39,448 43,842 45,042
+Non-interest expense . . . . . . . 134,852 123,349 125,062 120,301
+- ----------------------------------------------------------------------------------------
+Income before income taxes . . . 25,287 22,904 12,553 11,136
+Federal and state income taxes . . 7,569 6,589 2,309 1,589
+- ----------------------------------------------------------------------------------------
+Income before cumulative effect
+of a change in accounting
+principle . . . . . . . . . . . 17,718 16,315 10,244 9,547
+Cumulative effect of a change in
+accounting principle . . . . . . -- -- -- --
+- ----------------------------------------------------------------------------------------
+Net income . . . . . . . . . . . $ 17,718 $ 16,315 $ 10,244 $ 9,547
+========================================================================================
+COMMON SHARE DATA
+Net income . . . . . . . . . . . . $ .35 $ .33 $ .21 $ .20
+Cash dividends declared . . . . . . .15 .15 .15 .15
+Book value . . . . . . . . . . . . 17.50 17.31 17.15 17.09
+Market value . . . . . . . . . . . 24.25 17.50 19.63 18.38
+Common stock dividend payout . . . 55.05% 60.81% 73.17% 75.00%
+Number of registered common 
+shareholders . . . . . . . . . . 21,595 21,677 21,704 21,836
+Average shares outstanding 
+(in thousands) . . . . . . . . . 50,717 48,017 46,246 46,060
+Common shares outstanding 
+(in thousands) . . . . . . . . . 50,864 50,503 46,292 46,164
+========================================================================================
+BALANCE SHEET DATA (AT QUARTER END,
+IN THOUSANDS)
+Total assets . . . . . . . . . . . $13,770,871 $13,516,194 $13,643,040 $13,302,473
+Total deposits . . . . . . . . . . 11,786,661 11,412,934 11,534,688 11,253,391
+Total loans . . . . . . . . . . . . 8,782,409 8,890,120 8,882,298 8,710,586
+Shareholders' equity. . . . . . . . 920,270 903,974 823,699 818,763
+Allowance for loan losses . . . . . 275,296 291,458 294,300 289,755
+Long-term debt . . . . . . . . . . 216,570 61,240 61,805 62,461
+========================================================================================
+OPERATING RATIOS
+Return on average assets . . . . . .52% .48% .31% .29%
+Return on average common equity . . 7.76 7.61 4.94 4.64
+Return on average total equity . . 7.71 7.56 4.99 4.70
+========================================================================================
+LOAN QUALITY RATIOS
+Allowance for loan losses to quarter-
+end loans . . . . . . . . . . . . 3.13% 3.28% 3.31% 3.33%
+Net charge offs to quarterly average 
+loans . . . . . . . . . . . . . . 1.90 1.56 1.67 1.80
+Non-performing loans to quarter- 
+end loans . . . . . . . . . . . . 4.12 4.34 4.55 4.83
+========================================================================================
+CAPITAL RATIOS
+Tier I capital to average assets
+(leverage) . . . . . . . . . . . 6.67% 6.58% 6.05% 6.07%
+Tier I capital to risk-adjusted 
+assets . . . . . . . . . . . . . 8.94 8.72 7.93 8.12
+Total capital to risk-adjusted assets 12.05 10.19 9.41 9.62
+========================================================================================
+</TABLE>
+
+53
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

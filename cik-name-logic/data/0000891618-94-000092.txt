@@ -1,0 +1,173 @@
+<IMS-DOCUMENT>0000891618-94-000092.txt : 19940404
+<IMS-HEADER>0000891618-94-000092.hdr.sgml : 19940404
+ACCESSION NUMBER:		0000891618-94-000092
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19940331
+ITEM INFORMATION:		2
+ITEM INFORMATION:		5
+ITEM INFORMATION:		7
+FILED AS OF DATE:		19940401
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SUN MICROSYSTEMS INC
+		CENTRAL INDEX KEY:			0000709519
+		STANDARD INDUSTRIAL CLASSIFICATION:	7373
+		IRS NUMBER:				942805249
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	000-15086
+		FILM NUMBER:		94520044
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2550 GARCIA AVE
+		CITY:			MOUNTAIN VIEW
+		STATE:			CA
+		ZIP:			94043-1100
+		BUSINESS PHONE:		4159601300
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>SUN 8-K
+<TEXT>
+<PAGE> 1
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+March 31, 1994
+------------------------------------------------------------------------------
+Date of Report (Date of earliest event reported):
+
+SUN MICROSYSTEMS, INC.
+------------------------------------------------------------------------------
+(Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S> <C> <C>
+Delaware 0-15086 94-2805249
+(State or other jurisdiction (Commission (IRS Employer
+of incorporation) File Number) Identification Number)
+
+2550 Garcia Avenue, Mountain View, California 94043
+- ----------------------------------------------------------------------------------------
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code: (415) 960-1300
+- ----------------------------------------------------------------------------------------
+
+N/A
+- ----------------------------------------------------------------------------------------
+(Former name or former address, if changed since last report)
+</TABLE>
+<PAGE> 2
+
+Item 5. Other Events
+
+On March 31, 1994 the Registrant gave public notice via a press release
+announcing that its preliminary revenue estimates for the quarter ended March
+27, 1994 range between $1.17 and $1.20 billion, compared with $1.14 billion in
+the third fiscal quarter a year ago. The press release stated that there was a
+corresponding increase in unit shipments from the prior year level of 64
+thousand. The entire text of the press release issued by the Registrant is
+attached as Exhibit 99.1 to this Current Report on Form 8-K.
+
+Item 7. Financial Statements and Exhibits
+
+(c) Exhibits
+
+<TABLE>
+<CAPTION>
+Exhibit
+-------
+<S> <C>
+99.1 Text of Press Release dated March 31, 1994.
+</TABLE>
+<PAGE> 3
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Date: March 31, 1994 SUN MICROSYSTEMS, INC.
+
+By: /s/ MICHAEL H. MORRIS
+----------------------------------------------
+Michael H. Morris
+Vice President,
+General Counsel and Secretary
+<PAGE> 4
+
+INDEX TO EXHIBITS
+
+<TABLE>
+<CAPTION>
+Exhibit
+- -------
+<S> <C>
+99.1 Text of Press Release dated March 31, 1994.
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<DESCRIPTION>SUN EXHIBIT 99
+<TEXT>
+<PAGE> 1
+
+EXHIBIT 99.1
+
+FOR IMMEDIATE RELEASE FOR MORE INFORMATION:
+
+Investor contact:
+Richard H. Van Hoesen (415)
+336-0117
+
+Press contact:
+Chuck Mulloy (415) 336-6424
+
+SUN MICROSYSTEMS REPORTS PRELIMINARY THIRD QUARTER UNIT AND
+REVENUE GROWTH ESTIMATES
+
+MOUNTAIN VIEW, California -- March 31, 1994 -- Sun Microsystems, Inc.,
+(NASDAQ:SUNW) today announced that preliminary revenue estimates for the quarter
+ended March 27, 1994, range between $1.17 and $1.20 billion, compared with $1.14
+billion in the third fiscal quarter a year ago. There was a corresponding
+increase in unit shipments from the prior level of 64 thousand.
+
+Michael E. Lehman, Vice President and Chief Financial Officer, said, "While
+our business in Japan was strong during the quarter, we believe US revenue
+growth was to some extent affected by this week's product introductions as some
+customers elected to wait for the new products. Bookings were slightly above
+revenues during the quarter."
+
+Sun will be reporting earnings for the quarter on April 12.
+
+------------------------
+
+Sun Microsystems, Inc., is an integrated portfolio of businesses that supply
+distributed computing technologies, products and services. Its innovative open
+client-server computing solutions include networked workstations and
+multi-processing servers, operating system software, silicon designs and other
+value-added technologies. Founded in 1982, Sun is a Fortune 150 company
+headquartered in Mountain View, California.
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

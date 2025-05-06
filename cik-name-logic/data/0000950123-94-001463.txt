@@ -1,0 +1,3494 @@
+<IMS-DOCUMENT>0000950123-94-001463.txt : 19940910
+<IMS-HEADER>0000950123-94-001463.hdr.sgml : 19940910
+ACCESSION NUMBER:		0000950123-94-001463
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19940823
+ITEM INFORMATION:		Other events
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		19940902
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LEHMAN BROTHERS HOLDINGS INC
+		CENTRAL INDEX KEY:			0000806085
+		STANDARD INDUSTRIAL CLASSIFICATION:	6211
+		IRS NUMBER:				133216325
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09466
+		FILM NUMBER:		94547810
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AMERICAN EXPRESS TWR
+		STREET 2:		3 WORLD FINANCIAL CNTR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10048
+		BUSINESS PHONE:		2125267000
+
+	MAIL ADDRESS:	
+		STREET 1:		AMERICAN EXPRESS TOWER 15TH FL
+		STREET 2:		2 WORLD TRADE CENTER
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10048
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SHEARSON LEHMAN HUTTON HOLDINGS INC
+		DATE OF NAME CHANGE:	19901017
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<PAGE> 1
+
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+
+Date of Report (date of earliest event reported): August 23, 1994
+
+LEHMAN BROTHERS HOLDINGS INC.
+(Exact name of registrant as specified in its charter)
+
+Delaware
+(State or other jurisdiction of incorporation)
+
+1-9466 13-3216325
+(Commission File Number) (IRS Employer Identification No.)
+
+3 World Financial Center
+New York, New York 10285
+(Address of principal (Zip Code)
+execuitve offices)
+
+Registrant's telephone number, including
+area code: (212) 596-7000
+
+-------------------------
+
+<PAGE> 2
+ITEM 5. OTHER EVENTS.
+
+Filed herewith are (i) a Warrant Agreement used in connection with the
+sale of 1,000,000 AMEX Hong Kong 30 Index Call Warrants Expiring February 26,
+1996 (the "Warrants") by Lehman Brothers Holdings Inc. and (ii) a tax opinion
+issued with respect to the issuance of the Warrants and referring to the
+prospectus supplement filed with the Securities and Exchange Commission dated
+August 23, 1994 relating to the Warrants.
+
+ITEM 7. FINANCIAL STATEMENTS AND EXHIBITS
+
+(c) Exhibits
+
+The following Exhibits are filed as a part of this Report.
+
+4 Index Warrant Agreement dated as of
+August 30, 1994
+
+8 Opinion of Simpson Thacher & Bartlett
+re tax matters
+
+The Exhibit Index to this Report is incorporated herein by reference.
+
+-2-
+
+<PAGE> 3
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Company has duly caused this Report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+LEHMAN BROTHERS HOLDINGS INC.
+
+BY: /S/ KAREN M. MULLER
+---------------------
+KAREN M. MULLER
+VICE PRESIDENT
+
+DATE: SEPTEMBER 2, 1994 
+
+-3-
+
+<PAGE> 4
+EXHIBIT INDEX
+
+EXHIBIT NO. EXHIBIT
+- - ----------- -------
+
+Exhibit 4 Index Warrant Agreement dated as of
+August 30, 1994
+Exhibit 8 Opinion of Simpson Thacher & Bartlett
+re tax matters
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4
+<SEQUENCE>2
+<DESCRIPTION>INDEX WARRANT AGREEMENT
+<TEXT>
+<PAGE> 1
+EXHIBIT 4
+================================================================================
+
+LEHMAN BROTHERS HOLDINGS INC.
+and
+CITIBANK, N.A.,
+as Index Warrant Agent
+and
+LEHMAN BROTHERS INC.,
+as Calculation Agent
+
+------------------------------
+
+INDEX WARRANT AGREEMENT
+dated as of August 30, 1994
+
+AMEX Hong Kong 30 Index Call Warrants
+Expiring February 26, 1996
+
+================================================================================
+
+<PAGE> 2
+TABLE OF CONTENTS(1)
+
+<TABLE>
+<CAPTION>
+Page
+----
+<S> <C> <C>
+ARTICLE I
+
+ISSUANCE, FORM, EXECUTION,
+DELIVERY AND REGISTRATION OF INDEX WARRANTS . . . . . . . . . . . . . 1
+
+SECTION 1.1 Issuance of Index Warrants; Conversion of
+Index Warrants to Book-Entry . . . . . . . . . . . . . . . . . . 1
+
+SECTION 1.2 Form, Execution and Delivery of Warrant Certificates . . . . . . . 3
+
+SECTION 1.3 Warrant Certificates . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+SECTION 1.4 Registration of Transfers and Exchanges . . . . . . . . . . . . . . . 4
+
+SECTION 1.5 Mutilated or Missing Warrant Certificates . . . . . . . . . . . . . . 5
+
+SECTION 1.6 Registered Holders . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+SECTION 1.7 Global Warrant Certificate . . . . . . . . . . . . . . . . . . . . . 6
+
+ARTICLE II
+
+DURATION AND EXERCISE OF INDEX WARRANTS . . . . . . . . . . . . . . . 9
+
+SECTION 2.1 Duration of Index Warrants; Minimum and Maximum
+Exercise Amounts; Notice of Exercise 9
+
+SECTION 2.2 Exercise and Delivery of Index Warrants . . . . . . . . . . . . . . . 10
+
+SECTION 2.3 Automatic Exercise of Warrants . . . . . . . . . . . . . . . . . . . 16
+
+SECTION 2.4 Limitation of Number of Exercisable Warrants . . . . . . . . . . . . 18
+
+SECTION 2.5 Discontinuance or Modification of the Index . . . . . . . . . . . . . 19
+
+SECTION 2.6 Covenant of the Company . . . . . . . . . . . . . . . . . . . . . . . 20
+
+SECTION 2.7 Return of the Global Warrant Certificate . . . . . . . . . . . . . . 20
+
+SECTION 2.8 Return of Moneys Held Unclaimed for Two Years . . . . . . . . . . . . 20
+
+SECTION 2.9 Designation of Agent for Receipt of Notice . . . . . . . . . . . . . 21
+
+SECTION 2.10 Extraordinary Events and Exercise
+</TABLE>
+
+- - --------------------
+
+(1) The Table of Contents is not a part of the Index
+Warrant Agreement
+
+- i -
+<PAGE> 3
+<TABLE>
+<CAPTION>
+Page
+----
+<S> <C> <C>
+Limitation Events . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+ARTICLE III
+
+OTHER PROVISIONS RELATING TO
+RIGHTS OF WARRANTHOLDERS . . . . . . . . . . . . . . . . . . . . 24
+
+SECTION 3.1 Holders of Index Warrants May Enforce Rights . . . . . . . . . . . . 24
+
+SECTION 3.2 Consolidation, Merger or Other Disposition . . . . . . . . . . . . . 24
+
+ARTICLE IV
+
+CANCELLATION OF INDEX WARRANTS . . . . . . . . . . . . . . . . . . . 25
+
+SECTION 4.1 Cancellation of Index Warrants . . . . . . . . . . . . . . . . . . . 25
+
+SECTION 4.2 Treatment of Warrantholders . . . . . . . . . . . . . . . . . . . . . 25
+
+SECTION 4.3 Payment of Taxes . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+ARTICLE V
+
+CONCERNING THE INDEX WARRANT AGENT . . . . . . . . . . . . . . . . 26
+
+SECTION 5.1 Index Warrant Agent . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+SECTION 5.2 Conditions of Index Warrant Agent's Obligations . . . . . . . . . . . 26
+
+SECTION 5.3 Compliance With Applicable Laws . . . . . . . . . . . . . . . . . . . 28
+
+SECTION 5.4 Resignation and Appointment of Successor . . . . . . . . . . . . . . 29
+
+ARTICLE VI
+
+MISCELLANEOUS . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+
+SECTION 6.1 Modification, Supplementation or Amendment . . . . . . . . . . . . . 30
+
+SECTION 6.2 Notices and Demands to the Company and Index Warrant Agent . . . . . 31
+
+SECTION 6.3 Addresses for Notices . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+SECTION 6.4 Notices to Warrantholders . . . . . . . . . . . . . . . . . . . . . . 32
+
+SECTION 6.5 Governing Law . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
+SECTION 6.6 Obtaining of Governmental Approvals . . . . . . . . . . . . . . . . . 32
+</TABLE>
+
+- ii -
+<PAGE> 4
+<TABLE>
+<CAPTION>
+Page
+----
+<S> <C> <C>
+
+SECTION 6.7 Persons Having Rights Under the Index Warrant Agreement . . . . . . . 32
+
+SECTION 6.8 Headings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
+SECTION 6.9 Counterparts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
+SECTION 6.10 Inspection of Agreement . . . . . . . . . . . . . . . . . . . . . . . 32
+</TABLE>
+
+- iii -
+<PAGE> 5
+EXHIBIT A - Form of Warrant Certificate
+EXHIBIT A-1 - Form of Exercise Notice from Warrantholder
+EXHIBIT B - Form of Global Warrant Certificate
+EXHIBIT B-1 - Form of Exercise Notice from Depository Participant
+EXHIBIT C-1 - Form of Confirmation of Exercise for Warrant Certificate
+EXHIBIT C-2 - Form of Confirmation of Exercise for Global Warrant
+Certificate
+EXHIBIT D-1 - Form of Notice of Rejection for Warrant Certificate
+EXHIBIT D-2 - Form of Notice of Rejection for Global Warrant Certificate
+EXHIBIT E - Form of Notice of Rejection Relating to Limit Option
+
+- iv -
+<PAGE> 6
+
+INDEX WARRANT AGREEMENT
+
+THIS AGREEMENT, dated as of August 30, 1994, among LEHMAN
+BROTHERS HOLDINGS INC., a corporation duly incorporated and existing under the
+laws of the State of Delaware (the "Company"), Citibank, N.A., a banking
+association duly incorporated and existing under the laws of the State of New
+York, as Index Warrant Agent (the "Index Warrant Agent"), and Lehman Brothers
+Inc., a corporation duly incorporated and existing under the laws of the State
+of Delaware (the "Calculation Agent"). An index of defined terms is attached
+hereto as Annex 1.
+
+W I T N E S S E T H T H A T :
+
+WHEREAS, the Company proposes to sell index warrants (the
+"Index Warrants" or, individually, an "Index Warrant") representing the right
+to receive from the Company an amount in U.S. dollars to be determined by
+reference to increases in the AMEX Hong Kong 30 Index (the "Index"); and
+
+WHEREAS, the Company wishes the Index Warrant Agent to act on
+behalf of the Company in connection with the issuance, transfer and exercise of
+the Index Warrants, and wishes to set forth herein, among other things, the
+provisions of the Index Warrants and the terms and conditions under which they
+may be issued, transferred, exercised and cancelled;
+
+NOW, THEREFORE, in consideration of the premises and of the
+mutual agreements herein contained, the parties hereto agree as follows:
+
+ARTICLE I
+ISSUANCE, FORM, EXECUTION,
+DELIVERY AND REGISTRATION OF INDEX WARRANTS
+
+SECTION 1.1 Issuance of Index Warrants; Conversion of Index
+Warrants to Book-Entry. (a) The Index Warrants will be originally issued as
+certificates in definitive form (each a "Warrant Certificate"). Each Index
+Warrant shall represent the right, subject to the provisions contained herein,
+to receive the Cash Settlement Value (as defined in Section 2.2(d)) or, under
+certain circumstances, the Alternative Settlement Amount (as defined in Section
+2.3) of such Index Warrant. Such Cash Settlement Value or Alternative
+Settlement Amount will be payable only in U.S. dollars. In no event shall any
+beneficial owner of book-entry Index Warrants or the registered owner of
+certificated Index Warrants (each a "Warrantholder") be entitled to receive any
+interest on the Cash Settlement Value or Alternative Settlement Amount, and the
+Index Warrants will not entitle the Warrantholders to any of the rights of the
+holder of any stock underlying the Index or any Successor Index (the
+"Underlying Stock") or any other securities. An Index Warrant will not require
+or entitle the holder thereof to sell, deliver, purchase
+<PAGE> 7
+2
+
+or take delivery of any currency, security or other instrument underlying such
+Index Warrant to or from the Company, nor will the Company be under any
+obligation to, nor will it, purchase or take delivery, or sell or deliver, any
+currency, security or other instrument underlying such Warrant to or from the
+Warrantholders.
+
+(b) The Index Warrants will constitute direct, unconditional
+and unsecured contractual obligations of the Company and will rank on a parity
+with the Company's other unsecured contractual obligations and with the
+Company's unsecured and unsubordinated debt.
+
+(c) Forty-five calendar days after the closing of the
+offering on October 14, 1994, each registered holder of a Warrant Certificate
+will have the option (the "Conversion Option") to convert the form in which
+such holder holds his Index Warrants from definitive form to book-entry form
+within a forty-five calendar day period (the "Conversion Option Period"). To
+utilize the Conversion Option such Warrantholder must deliver or arrange to
+deliver his Warrant Certificates to a Participant (as defined in Section
+1.7(c)) entitled to execute, clear and settle transactions through the
+Depository (as defined in Section 1.7(c)) and through which such
+Warrantholder's beneficial interest after electing the Conversion Option will
+be maintained, who will then deposit the Index Warrants with the Depository or
+its nominee. Ownership of the Index Warrants surrendered under the Conversion
+Option will be represented by a single certificate (the "Global Warrant
+Certificate"). After the last day of the Conversion Option Period, the
+Depository will not be required to accept delivery of Index Warrants
+represented by Warrant Certificates ("Certificated Warrants") for exchange for
+Index Warrants in book-entry form ("Book-Entry Warrants") but may permit
+Warrant Certificates to be so exchanged on a case-by-case basis. It is
+anticipated that after the Conversion Option Period, Warrant Certificates
+delivered to the Depository in proper form for deposit will be accepted by the
+Depository for exchange for Book-Entry Warrants, generally within three to four
+New York Business Days after delivery to the Depository. However, there can be
+no assurance that such Warrant Certificates will be accepted for exchange.
+Further, there can be no assurance, with respect to Warrant Certificates
+accepted for exchange, that exchange will occur within that time period.
+Certificated Warrants surrendered at any time for exchange for Book-Entry
+Warrants may not be exercised or delivered for settlement of transfer until
+such exchange has been effected. If the Depository is at any time unwilling or
+unable to continue as securities depository for the Index Warrants and a
+successor depository is not appointed by the Company within 90 days, the
+Company will reissue Warrant Certificates in exchange for the Global Warrant
+Certificate. In addition, the Company may at any time and in its sole
+discretion determine not to have the Index Warrants available in book-entry
+form and, in such event, will
+<PAGE> 8
+3
+
+issue Warrant Certificates in exchange for the Global Warrant Certificate. In
+any such instance, and in accordance with the provisions of this Agreement,
+each Warrantholder will be entitled to have a number of Index Warrants
+equivalent to such Warrantholder's beneficial interest in the Global Warrant
+Certificate registered in the name of the Warrantholder and will be entitled to
+physical delivery of such Index Warrants in definitive form by a Participant.
+The provisions of Section 1.7 shall apply only if and when the Conversion
+Option is utilized and a Global Warrant Certificate is issued hereunder.
+
+SECTION 1.2 Form, Execution and Delivery of Warrant
+Certificates. (a) Certificated Warrants, whenever issued, shall be
+represented by Warrant Certificates in registered form substantially in the
+form set forth in Exhibit A hereto, with such appropriate insertions,
+omissions, substitutions and other variations as are required or permitted by
+this Agreement, and may represent any number of whole Index Warrants. The
+Warrant Certificates may have imprinted or otherwise reproduced thereon such
+letters, numbers or other marks of identification or designation and such
+legends or endorsements as the officers of the Company executing the same may
+approve (execution thereof to be conclusive evidence of such approval) and
+which are not inconsistent with the provisions of this Agreement, or as may be
+required to comply with any law or with any rule or regulation made pursuant
+thereto, or with any rule or regulation of any stock exchange on which the
+Index Warrants may be listed, or of any securities depository, or to conform to
+usage. Warrant Certificates shall be signed on behalf of the Company by its
+chairman, its president or one of its vice presidents and under its corporate
+seal reproduced thereon and attested by its secretary or an assistant
+secretary. The signature of any of such officers may be either manual or
+facsimile. Typographical and other minor errors or defects in any such
+signature shall not affect the validity or enforceability of any Warrant
+Certificate that has been duly countersigned and delivered by the Index Warrant
+Agent.
+
+(b) In case any officer of the Company who shall have signed
+a Warrant Certificate, either manually or by facsimile signature, shall cease
+to be such officer before such Warrant Certificate shall have been
+countersigned and delivered by the Index Warrant Agent to the Company or
+delivered by the Company, such Warrant Certificate nevertheless may be
+countersigned and delivered as though the person who signed such Warrant
+Certificate had not ceased to be such officer of the Company; and the Warrant
+Certificate may be signed on behalf of the Company by any person who, at the
+actual date of the execution of such Warrant Certificate, shall be a proper
+officer of the Company to sign such Warrant Certificate, although at the date
+of the execution of this Agreement any such person was not such an officer.
+
+<PAGE> 9
+4
+
+SECTION 1.3 Warrant Certificates. Each Warrant Certificate,
+when signed on behalf of the Company in accordance with Section 1.2, shall be
+delivered to the Index Warrant Agent, which shall manually countersign and
+deliver the same to or upon the order of the Company. Each Warrant Certificate
+shall be dated the date of its countersignature. A Warrant Certificate shall
+not be valid for any purpose, and no Index Warrant evidenced thereby shall be
+exercisable, unless and until such Warrant Certificate has been countersigned
+by the manual signature of the Index Warrant Agent. Such countersignature by
+the Index Warrant Agent on any Warrant Certificate signed by the Company in
+accordance with Section 1.2 shall be conclusive evidence that the Warrant
+Certificate so countersigned has been duly issued hereunder.
+
+SECTION 1.4 Registration of Transfers and Exchanges. (a)
+Except as otherwise provided herein or in the Warrant Certificate, the Index
+Warrant Agent shall from time to time register ownership and transfers of any
+outstanding Warrant Certificates upon the records to be maintained by it for
+that purpose (the "Index Warrant Register") at the Index Warrant Agent's Office
+(as defined herein), subject to such reasonable regulations as the Company or
+the Index Warrant Agent may prescribe, upon surrender thereof, duly endorsed,
+or accompanied by a written instrument or instruments of transfer in form
+satisfactory to the Index Warrant Agent and the Company duly executed by the
+registered holder(s) thereof or by the duly appointed legal representative
+thereof or by its duly authorized attorney, such signature to be guaranteed by
+a bank or trust company located, or with a correspondent office, in New York
+City or by a broker or dealer which is a member of a national securities
+exchange, or in any other manner acceptable to the Index Warrant Agent. Upon
+any such registration of transfer, a new Warrant Certificate shall be issued to
+the transferee(s) and the surrendered Warrant Certificate shall be cancelled by
+the Index Warrant Agent.
+
+(b) At the option of a Warrantholder, Warrant Certificates
+may be exchanged for other Warrant Certificates, representing a like number of
+unexercised Index Warrants, upon surrender to the Index Warrant Agent of the
+Warrant Certificates to be exchanged at its offices maintained for such
+purposes (the location of which shall be provided to the Company) (the "Index
+Warrant Agent's Office"), Attention: Corporate Trust Department, or at the
+office of any successor Index Warrant Agent (as provided for in Section 5.4).
+Upon surrender of any Index Warrant Certificate for exchange, the Index Warrant
+Agent shall cancel such Warrant Certificate, and the Company shall execute, and
+the Index Warrant Agent shall countersign and deliver, in accordance with
+Sections 1.2 and 1.3, one or more new Warrant Certificates of like tenor and
+representing a like number of unexercised Index Warrants.
+<PAGE> 10
+5
+
+(c) Warrant Certificates issued upon transfer or exchange
+pursuant to Section 1.4(a) or (b) shall be valid obligations of the Company,
+evidencing the same obligations of the Company as the Warrant Certificates
+surrendered for transfer or exchange, and entitled to the same benefits under
+this Agreement as were such Warrant Certificates prior to such surrender.
+
+(d) Except as provided in Section 1.5, no service charge
+shall be made for any registration of transfer or exchange of Warrant
+Certificates, but the Company may require payment of a sum sufficient to cover
+any tax or other governmental charge that may be imposed in connection with any
+registration of transfer or exchange of Index Warrant Certificates, other than
+exchanges pursuant to this Section 1.4 not involving any transfer.
+
+(e) In the event that upon any exercise of Index Warrants
+evidenced by a Warrant Certificate the number of Index Warrants exercised shall
+be less than the total number of Index Warrants evidenced by such Warrant
+Certificate, there shall be issued to the holder thereof or such holder's
+assignee a new Warrant Certificate evidencing the number of Index Warrants not
+exercised.
+
+SECTION 1.5 Mutilated or Missing Warrant Certificates. (a)
+If any Warrant Certificate is mutilated, lost, stolen or destroyed, the Company
+may in its discretion execute, and the Index Warrant Agent may countersign and
+deliver, in exchange and substitution for and upon cancellation of the
+mutilated Warrant Certificate, or in lieu of the Warrant Certificate lost,
+stolen or destroyed, a new Warrant Certificate of like tenor and representing
+an equivalent number of Index Warrants, bearing an identification number not
+contemporaneously outstanding, but only (in case of loss, theft or destruction)
+upon receipt of evidence satisfactory to the Company and the Index Warrant
+Agent of such loss, theft or destruction of such Warrant Certificate and
+security or indemnity, if requested, also satisfactory to them. Applicants for
+such substitute Warrant Certificates shall also comply with such other
+reasonable regulations and pay such other reasonable charges as the Company or
+the Index Warrant Agent may prescribe.
+
+(b) In case such mutilated, lost, stolen or destroyed Index
+Warrant Certificate has been or is about to be exercised, or deemed to be
+exercised, the Company in its absolute discretion may, instead of issuing a new
+Warrant Certificate, direct the Index Warrant Agent to treat the same as if it
+had received irrevocable notice of exercise in proper form in respect thereof,
+as provided herein, or as being subject to automatic exercise, as the case may
+be.
+
+(c) Each new Warrant Certificate issued pursuant to this
+Section 1.5 in lieu of any lost, stolen or destroyed Warrant
+
+<PAGE> 11
+6
+
+Certificate shall be an original, additional contractual obligation of the
+Company, whether or not, in the case of any lost, stolen or destroyed Index
+Warrant Certificate, such Warrant Certificate shall at any time be enforceable
+by anyone, and shall be entitled to the same benefits under this Agreement as
+the Warrant Certificate that was lost, stolen or destroyed.
+
+(d) Upon the issuance of any new Warrant Certificate in
+accordance with this Section 1.5, the Company may require the payment of a sum
+sufficient to cover any tax or other governmental charge that may be imposed in
+relation thereto and any other expenses (including the fees and expenses of the
+Index Warrant Agent) connected therewith.
+
+(e) The provisions of this Section 1.5 are exclusive and
+shall preclude (to the extent lawful) any other rights and remedies with
+respect to the replacement or payment of mutilated, lost, stolen or destroyed
+Warrant Certificates.
+
+(f) All Warrant Certificates surrendered for exercise,
+registration of transfer or exchange shall, if surrendered to any person other
+than the Index Warrant Agent, be delivered to the Index Warrant Agent and shall
+be promptly cancelled by it. The Company may at any time deliver to the Index
+Warrant Agent for cancellation any Warrant Certificates previously
+countersigned and delivered hereunder which the Company may have acquired in
+any manner whatsoever, and all Warrant Certificates so delivered shall be
+promptly cancelled by the Index Warrant Agent. No Warrant Certificates shall
+be countersigned in lieu of or in exchange for any Warrant Certificate
+cancelled as provided in this Section 1.5, except as expressly permitted by
+this Agreement. All cancelled Warrant Certificates held by the Index Warrant
+Agent shall be destroyed unless otherwise directed by the Company.
+
+SECTION 1.6 Registered Holders. Prior to due presentment 
+for registration of transfer, the Company, the Index Warrant Agent, and any
+agent of the Company or the Index Warrant Agent, may deem and treat the person
+in whose name a Warrant Certificate shall be registered in the Index Warrant
+Register (a "Registered Holder") as the absolute owner of the Index Warrants
+evidenced thereby (notwithstanding any notation of ownership or other writing
+thereon) for any purpose whatsoever, and as the person entitled to exercise the
+rights represented by the Index Warrants evidenced thereby, and neither the
+Company nor the Index Warrant Agent, nor any agent of the Company or the Index
+Warrant Agent, shall be affected by any notice to the contrary. This Section
+1.6 shall be without prejudice to the rights of Warrantholders as described
+elsewhere herein.
+
+SECTION 1.7 Global Warrant Certificate. (a) Any Global
+Warrant Certificate issued in accordance with this Section 1.7 shall be
+substantially in the form set forth in Exhibit B
+<PAGE> 12
+7
+
+hereto, with such appropriate insertions, omissions, substitutions and other
+variations as are required or permitted by this Agreement, and may represent
+any number of whole Index Warrants. The Global Warrant Certificate may have
+imprinted or otherwise reproduced thereon such letters, numbers or other marks
+of identification or designation and such legends or endorsements as the
+officers of the Company executing the same may approve (execution thereof to be
+conclusive evidence of such approval) and which are not inconsistent with the
+provisions of this Agreement, or as may be required to comply with any law or
+with any rule or regulation made pursuant thereto, or with any rule or
+regulation of any stock exchange on which the Index Warrants may be listed or
+of any Depository referred to herein, or to conform to usage. The Global Index
+Warrant Certificate shall be signed on behalf of the Company upon the same
+conditions, in substantially the same manner and with the same effect as the
+Warrant Certificates.
+
+(b) The Index Warrant Agent is authorized, from time to time
+during the Conversion Option Period, upon receipt of a Global Warrant
+Certificate from the Company, duly executed on behalf of the Company, to
+countersign such Global Warrant Certificate. The Global Warrant Certificate
+shall be manually countersigned and dated the date of its countersignature by
+the Index Warrant Agent and shall not be valid for any purpose unless so
+countersigned. The Index Warrant Agent shall deliver the Global Index Warrant
+Certificate to or upon the order of the Company against receipt of an
+appropriate amount of Certificated Warrants (such Certificated Warrants shall
+be destroyed or otherwise disposed of in accordance with instructions provided
+by the Company). One or more Global Warrant Certificates may be executed by
+the Company and delivered to the Index Warrant Agent on or after the date of
+execution of this Agreement; provided that only one Global Warrant Certificate
+shall be outstanding at any one time.
+
+The Company reserves the right to issue, from time to time
+after the date of execution of this Agreement, additional Index Warrants, and
+in connection therewith the Global Warrant Certificate may be exchanged for a
+new Global Warrant Certificate to reflect the issuance by the Company of such
+additional Index Warrants. To effect such an exchange the Company shall
+deliver to the Index Warrant Agent a new Global Warrant Certificate duly
+executed on behalf of the Company as provided in Section 1.3. The Index
+Warrant Agent shall authenticate the new Global Warrant Certificate as provided
+in this Section and shall deliver the new Global Warrant Certificate to the
+Depository in exchange for, and upon receipt of, the Global Warrant Certificate
+then held by the Depository. The Index Warrant Agent shall cancel the Global
+Warrant Certificate delivered to it by the Depository, destroy such Global
+Warrant Certificate and provide a certificate of destruction to the Company.
+
+<PAGE> 13
+8
+
+(c) The Global Warrant Certificate will initially be
+registered in the name of a nominee of The Depository Trust Company (the
+"Depository", which term, as used herein, includes any successor securities
+depository selected by the Company). The Index Warrant holdings of the
+Participants will be recorded on the books of the Depository. The holdings of
+customers of the Participants and the identity of the Warrantholders will be
+reflected on the books and records of such Participants and will not be known
+to the Index Warrant Agent, the Company or the Depository. The Global Warrant
+Certificate will be held by the Depository or its agent.
+
+"Participants" include securities brokers and dealers, banks
+and trust companies, clearing organizations and certain other organizations
+which are participants in the Depository's book-entry system and, for purposes
+of this Agreement, shall also mean participants in the book-entry system of any
+successor Depository. Access to the Depository's system is also available to
+others such as banks, securities dealers and trust companies ("Indirect
+Participants") that clear or maintain a custodial relationship with a
+Participant, either directly or indirectly. The Global Warrant holdings of
+Warrantholders who are customers of Indirect Participants will be reflected on
+the books and records of Participants in the name of the respective Indirect
+Participants. The Global Warrant Certificate will be held by the Depository or
+its agent. Neither the Company nor the Warrant Agent will have any
+responsibility or liability for any aspect of the records relating to or
+payments made on account of beneficial ownership interests of a Global Warrant
+Certificate or for maintaining, supervising or reviewing any records relating
+to such beneficial ownership interest.
+
+The Company may from time to time select a new entity to act
+as Depository with respect to the Index Warrants and, if such selection is
+made, the Company shall promptly give the Index Warrant Agent notice to such
+effect identifying the new Depository, and the Global Warrant Certificate shall
+be delivered to the Index Warrant Agent and shall be transferred to the new
+Depository as provided below as promptly as possible. Appropriate changes may
+be made in the forms of the Global Warrant Certificate, the notice of exercise
+and the related notices to be delivered in connection with an exercise to
+reflect the selection of the new Depository.
+
+(d) Except as otherwise provided herein or in the Global
+Warrant Certificate, the Index Warrant Agent shall from time to time register
+the transfer of the Global Warrant Certificate in its records (which may be
+maintained electronically), subject to such reasonable regulations as the
+Company or the Index Warrant Agent may prescribe, only to the Depository, to
+another nominee of the Depository, to a successor Depository or to a nominee of
+a successor Depository, upon surrender of such Global Warrant Certificate to
+the Warrant
+<PAGE> 14
+9
+
+Agent's Office, or at the office of any successor Warrant Agent (as provided in
+Section 5.4), duly endorsed, or accompanied by a written instrument or
+instruments of transfer in form satisfactory to the Index Warrant Agent and the
+Company, duly executed by the registered holder thereof or by the duly
+appointed legal representative thereof, or by its duly authorized attorney,
+such signature to be guaranteed by a bank or trust company with a correspondent
+officer the New York City or by a member of a United States national securities
+exchange, or in any other manner acceptable to the Index Warrant Agent. Upon
+any such registration of transfer, a new Global Warrant Certificate of like
+tenor and representing a like number of unexercised Index Warrants shall be
+issued to the transferee and the surrendered Global Warrant Certificate shall
+be cancelled by the Index Warrant Agent.
+
+ARTICLE II
+DURATION AND EXERCISE OF INDEX WARRANTS
+
+SECTION 2.1 Duration of Index Warrants; Minimum and Maximum
+Exercise Amounts; Notice of Exercise. (a) Subject to the limitations
+described in this Article II, each Index Warrant may be irrevocably exercised
+in whole but not in part on any New York Business Day from the date of issuance
+until 3:00 P.M., New York City time on the earlier of (i) the New York Business
+Day immediately preceding February 26, 1996 (the "Expiration Date") and (ii)
+the last New York Business Day prior to the Delisting Date. There is no
+exercise price payable by any Warrantholder in connection with the exercise of
+an Index Warrant. Each Index Warrant may be exercised by (a) transfer of the
+related Index Warrants on the records of the Depository free to the Index
+Warrant Agent Participant Account (Account No. 2659), or such other account of
+the Index Warrant Agent at the Depository as the Index Warrant Agent shall
+specify (the "Index Warrant Account"), in the case of Book-Entry Warrants, or
+surrender of the Warrant Certificate or Certificates to the Index Warrant Agent
+at the Index Warrant Agent's Office, in the case of Certificated Warrants and
+(b) delivery of written notice (an "Exercise Notice") to the Index Warrant
+Agent executed by the Participant acting on behalf of the beneficial owner of
+such Index Warrant, in the case of Book-Entry Warrants, or from the Registered
+Holder of such Index Warrants, in the case of Certificated Warrants; provided,
+however, that Exercise Notices are subject to rejection by the Index Warrant
+Agent as provided herein.
+
+(b) The Exercise Notice, which shall be irrevocable, shall be
+in substantially the form set forth in Exhibit A-1 hereto in the case of
+Certificated Warrants, and in Exhibit B-1 hereto in the case of Book-Entry
+Warrants, and shall be in writing, duly completed and executed, and delivered
+to the Index Warrant Agent (which shall include facsimile transmissions,
+followed promptly by an executed original, but the date and time
+
+<PAGE> 15
+10
+
+of receipt of such transmission shall be the effective date and time of such
+notice) at its address as set forth in such Exercise Notice or at such other
+address as the Index Warrant Agent may specify from time to time. An
+irrevocable Exercise Notice may be conditioned by the Warrantholder pursuant to
+the Limit Option as set forth in Section 2.2(f), but shall otherwise be
+unconditional.
+
+(c) As used herein, "New York Business Day" means any day
+other than a Saturday or Sunday or a day on which either the New York Stock
+Exchange or the American Stock Exchange (the "AMEX") is not open for securities
+trading or commercial banks in New York City are authorized or required by law
+or executive order to remain closed.
+
+(d) Except as provided in Section 2.2(b), the Index Warrant
+Agent and the Company shall be entitled to rely conclusively on any Exercise
+Notice received by them with no duty of inquiry by either of them.
+
+SECTION 2.2 Exercise and Delivery of Index Warrants. (a)
+Except in the case of automatic exercise as provided in Section 2.3, and
+subject to the Limit Option provided in Section 2.2(f), the exercise date (the
+"Exercise Date") for an Index Warrant shall be (i) if the Index Warrant Agent
+receives delivery of such Index Warrant and an Exercise Notice in proper form
+at or prior to 3:00 P.M., New York City time on a New York Business Day, then
+such New York Business Day and (ii) otherwise the New York Business Day next
+succeeding the day on which the Index Warrant Agent receives such Index Warrant
+and such Exercise Notice. The "Valuation Date" for an Index Warrant will be
+the first Index Calculation Day following the Exercise Date, subject to
+postponement upon the occurrence of an Extraordinary Event or an Exercise
+Limitation Event pursuant to Section 2.10. "Index Calculation Day" means any
+day on which the Index or any Successor Index (as defined herein) is calculated
+and published.
+
+(b) Following receipt of the Index Warrants and the Exercise
+Notice related to such Index Warrants, the Index Warrant Agent shall:
+
+(i) promptly (1) in the case of Certificated
+Warrants, determine whether the Exercise Notice has been duly completed
+and is in proper form duly executed by the Registered Holder thereof or
+by the duly appointed legal representative thereof or by a duly
+authorized attorney and (2) in the case of Book-Entry Warrants,
+determine whether such Exercise Notice has been duly completed and is
+in proper form and if the Index Warrant Agent determines that the
+Exercise Notice has not been duly completed or is not in proper form
+or, in the case of Certificate Warrants, has not been so executed, the
+Index Warrant Agent promptly (X) shall reject such Exercise Notice and
+shall send to the entity
+<PAGE> 16
+11
+
+that delivered such Exercise Notice a notice of rejection substantially
+in the form set forth in Exhibit D-1 or Exhibit D-2 hereto, as
+applicable, and, in the case of Certificated Warrants, shall return to
+the Registered Holder that submitted such Exercise Notice, by first
+class mail, the Warrant Certificates evidencing such Index Warrants or,
+in the case of Book-Entry Warrants, shall redeliver such Index Warrants
+free through the facilities of the Depository to the account from which
+they were transferred to the Index Warrant Agent and, in either case,
+(Y) shall not take the actions required by clauses (ii)-(viii) below
+with respect to such Exercise Notice or the related Index Warrants;
+provided, however, that the Index Warrant Agent shall deliver a copy of
+the Exercise Notice relating to such Index Warrants to the Company, if
+the Company so requests, as required by Section 2.2(b)(viii) below and
+the Company may waive any defect in the form of such Exercise Notice;
+
+(ii) notify the Company by 5:00 p.m., New York City
+time, on the Exercise Date for such Index Warrants of (A) the total
+number of Index Warrants covered by such Exercise Notice, (B) the
+number of such Index Warrants subject to the Limit Option
+("Contingently Tendered Warrants") and (C) the number of such Index
+Warrants not subject to the Limit Option;
+
+(iii) obtain the Spot Index from the Calculation
+Agent no later than 5:00 p.m., New York City time, on the applicable
+Valuation Date (or, if such Valuation Date is not a New York Business
+Day, on the next succeeding New York Business Day);
+
+(iv) if any of the Index Warrants covered by such
+Exercise Notice constitute Contingently Tendered Warrants, the Index
+Warrant Agent shall, by 5:00 p.m., New York City time, on the
+applicable Valuation Date (or, if such Valuation Date is not a New York
+Business Day, on the next succeeding New York Business Day) (A) obtain
+from the Calculation Agent the Limit Option Reference Index (as defined
+in Section 2.2(f); (B) determine in accordance with Section 2.2(f)
+whether such Contingently Tendered Warrants will be subject to exercise
+after giving effect to the Limit Option and, if such Warrants will not
+be subject to exercise, send to the Registered Holder, in the case of
+Certificated Warrants, or to the Participant that submitted such
+Exercise Notice, in the case of Book-Entry Warrants, a notice of
+rejection substantially in the form set forth in Exhibit E hereto with
+respect to such Index Warrants and return to the Registered Holder that
+submitted such Exercise Notice, by first class mail, the Warrant
+Certificates evidencing such Index Warrants, or, in the case of
+Book-Entry Warrants, redeliver the Warrants free through the facilities
+of the Depository to the account from which they
+
+<PAGE> 17
+12
+
+were transferred to the Index Warrant Agent; and (C) notify the Company
+as to whether such Contingently Exercised Warrants will be subject to
+exercise;
+
+(v) by 5:00 p.m., New York City time, on the second
+New York Business Day after the applicable Exercise Date (A) determine
+the sum of (1) the number of such Index Warrants not subject to the
+Limit Option (i.e., the number of Index Warrants determined pursuant to
+clause (ii)(C) above) plus (2) the number of such Index Warrants that
+are Contingently Exercised Index Warrants that will be subject to
+exercise notwithstanding the Limit Option (i.e., the number of Index
+Warrants so identified pursuant to clause (iv)(B) above) (all of such
+Warrants, the "Exercised Warrants") and (B) notify the Company of the
+total number of Exercised Warrants so determined (if such number is
+zero, the Warrant Agent shall not take the actions required by clauses
+(vi), (vii) and (viii) with respect to such Exercise Notice or the
+related Index Warrants);
+
+(vi) obtain the Cash Settlement Value of the
+Exercised Warrants as of their Valuation Date from the Calculation
+Agent, which shall be calculated in the manner set forth in Section
+2.2(d) by no later than 5:00 p.m., New York City time, on the
+applicable Valuation Date (or, if such Valuation Date is not a New York
+Business Day, on the next succeeding New York Business Day);
+
+(vii) notify the Company by 5:00 p.m., New York
+City time, on the Valuation Date (or, if such Valuation Date is not a
+New York Business Day, on the next succeeding New York Business Day) of
+the aggregate Cash Settlement Value payable in respect of the exercise
+of such Exercised Warrants, and send notices of confirmation
+substantially in the form included in Exhibit C-1 or Exhibit C-2
+hereto, as the case may be, to the appropriate Registered Holder or
+Participant specifying therein the reference number assigned by the
+Index Warrant Agent to each accepted Exercise Notice; and
+
+(viii) promptly deliver a copy of each Exercise
+Notice to the Company upon request of the Company and advise the
+Company of such other matters relating to the Exercised Warrants as the
+Company shall reasonably request. Any notice to be given to the
+Company by the Warrant Agent pursuant to this Section 2.2 or Section
+2.3 shall be by telephone (promptly confirmed in writing) or facsimile.
+
+Except in the case of Warrants subject to automatic exercise
+and Warrants that upon exercise entitle the holder thereof to receive an
+Alternative Settlement Amount in lieu of the Cash Settlement Value, if on any
+Valuation Date the Cash Settlement Value for any Warrants then exercised would
+be zero, then, in such case, the exercise of such Warrants shall be
+<PAGE> 18
+13
+
+ignored and either (i) for Certificated Warrants, the Warrant Certificate
+evidencing such Warrants shall be promptly returned by the Warrant Agent to the
+Registered Holder by first class mail at the Calculation Agent's expense or
+(ii) for Book-Entry Warrants, the Warrants will be transferred by the Warrant
+Agent back to the account from which they were submitted to the Warrant Agent
+free on the records of the Depository and, in either case, such Warrantholder
+shall be permitted to exercise such Warrants until 3:00 p.m., New York City
+time, on the earlier of (i) the New York Business Day immediately preceding the
+Expiration Date, and (ii) the last New York Business Day prior to the Delisting
+Date.
+
+(c) Except in the case of Index Warrants subject to automatic
+exercise, provided that the Company has made adequate funds available to the
+Index Warrant Agent in a timely manner, which shall (A) in the case of Warrants
+not held through the facilities of the Depository, in no event be later than
+3:00 p.m., New York City time, on the fifth New York Business Day following a
+Valuation Date (or, if the Valuation Date is not a New York Business Day, on
+the fifth New York Business Day following the New York Business Day next
+succeeding the Valuation Date) and (B) in the case of Warrants held through the
+facilities of the Depository, in no event be later than 3:00 p.m., New York
+City time, on the sixth New York Business Day following a Valuation Date (or,
+if the Valuation Date is not a New York Business Day, on the sixth New York
+Business Day following the New York Business Day next succeeding the Valuation
+Date) (the "Settlement Date"), the Index Warrant Agent will be responsible for
+making payment available either (i) for Certificated Warrants, to each
+appropriate Registered Holder in the form of a cashier's check or an official
+bank check, or (in the case of payments of $100,000 or more) by wire transfer
+to a U.S. Dollar account maintained by such Registered Holder in the United
+States (at such Registered Holder's election as specified in the applicable
+Exercise Notice), after 3:00 p.m., New York City time, but prior to the close
+of business, on the first New York Business Day immediately succeeding such
+Settlement Date or (ii) for Book-Entry Warrants, to each appropriate
+Participant in the form of a cashier's check or an official bank check, or (in
+the case of payments of $100,000 or more) by wire transfer to a U.S. Dollar
+account maintained by such Participant in the United States (at the
+Participant's election as specified in the Exercise Notice), after 3:00 p.m.,
+New York City time, but prior to the close of business, on the first New York
+Business Day immediately succeeding such Settlement Date.
+
+(d) The "Cash Settlement Value" of an exercised Warrant will
+be calculated by the Calculation Agent on the Valuation Date and will equal an
+amount in U.S. Dollars equal to the quotient (rounded down to the nearest cent)
+of (A) the amount, if any, by which the Spot Index for the applicable Valuation
+Date exceeds the Strike Index divided by (B) 2.5,
+
+<PAGE> 19
+14
+
+divided by (C) the fixed Hong Kong dollar/U.S. dollar exchange rate of
+H.K.$7.7278 per U.S.$1.00. If the Strike Index is equal to or exceeds the Spot
+Index for such Valuation Date, the Cash Settlement Value will be zero.
+
+The "Strike Index" is 463.55.
+
+Subject to the provisions of Section 2.5, the "Spot Index" for
+any date means the closing level, on such date, of the Index as compiled and
+published by the AMEX.
+
+References in this Agreement to "U.S. Dollars" or "$" are to
+the lawful currency of the United States of America. References to "Hong Kong
+dollar" or "H.K.$" are to the lawful currency of Hong Kong.
+
+(e) In the event a Global Warrant Certificate is issued, the
+Warrant Agent shall cause its records, which may be kept electronically, to be
+marked to reflect the reduction in the number of Index Warrants represented by
+the Global Warrant Certificate by the number of Index Warrants that were
+delivered to the Index Warrant Account and for which payment has been made as
+provided in Section 2.2(c) promptly after such delivery and payment. Absent
+manifest error, the Index Warrant Agent's records shall be conclusive evidence
+of such matters.
+
+(f) Except in the case of an automatic exercise (as described
+in Section 2.3 below) or cancellation or with respect to payments of any
+Alternative Settlement Amount, the related Exercise Notice may specify that
+such exercise be subject to the condition that the Spot Index used to determine
+the Cash Settlement Value of such Index Warrants not be 5% or more lower than
+the Limit Option Reference Index for such Warrants. "Limit Option Reference
+Index", with respect to any Contingently Tendered Warrants, means the closing
+level of the Index on the New York Business Day when such Exercise Notice has
+been received (or shall be deemed to have been received) (or, if such New York
+Business Day is not an Index Calculation date, on the Index Calculation Date
+immediately preceding such New York Business Day). The option of a
+Warrantholder to condition an exercise of Index Warrants as provided in this
+Section 2.2(f) is herein referred to as the "Limit Option". If a Warrantholder
+elects the Limit Option in connection with any exercise of Index Warrants, the
+following provisions shall apply:
+
+(i) To be valid, such election must be specified in
+the related Exercise Notice. Each of the Index Warrant Agent and the
+Company shall be entitled to rely conclusively on such Exercise Notice,
+as received by the Index Warrant Agent, in determining whether such
+election has been validly made. In connection with any exercise of 500
+or more Index Warrants, a Warrantholder may elect to subject only a
+portion of such Index Warrants to the Limit Option; provided
+<PAGE> 20
+15
+
+that the number of such Index Warrants not subject to the Limit Option
+shall in each case not be less than 500. Registered Holders and
+Participants shall be required to certify that the number of Index
+Warrants exercised on behalf of any Warrantholder pursuant to the
+related Exercise Notice that are subject to the Limit Option is an
+amount that is not less than 500.
+
+(ii) The Limit Option Reference Index shall be
+obtained by the Index Warrant Agent from the Calculation Agent and the
+Calculation Agent's determination of the Limit Option Reference Index
+shall be conclusive and binding for all purposes relating to such
+exercise.
+
+(iii) In the event that the Spot Index on the
+Valuation Date for such Index Warrants is 5% or more lower than the
+Limit Option Reference Index for such Warrants, such Index Warrants (A)
+shall not be subject to exercise and shall be treated for all purposes
+of this Agreement and the Warrant Certificates and Global Warrant
+Certificate as if the related Exercise Notice had never been received
+by the Warrant Agent, and (B) shall not constitute "Exercised Warrants"
+for purposes of Section 2.2(b). If such Spot Index is not 5% or more
+lower than such Limit Option Reference Index, such Index Warrants shall
+be subject to exercise as provided in this Section 2.2 and shall be
+deemed to be "Exercised Warrants" for such purposes. The Index Warrant
+Agent's determination shall be conclusive and binding for all purposes
+relating to such Index Warrants.
+
+(iv) Once elected by a Warrantholder in connection
+with an exercise of Index Warrants, the Limit Option will continue to
+apply, on the basis of the Limit Option Reference Index as initially
+determined for such Index Warrants, even if the Valuation Date for such
+Index Warrants is postponed, except when such Valuation Date is
+postponed until the Expiration Date or the Delisting Date. Pursuant to
+the Limit Option, such Warrants will either (i) be exercised on a
+delayed basis if the applicable Spot Index is not less than the Limit
+Option Reference Index by 5% or more, or (ii) be excluded from being
+exercised if, on any applicable postponed Valuation Date, the
+applicable Spot Index is less than the Limit Option Reference Index by
+5% or more.
+
+(g) The Company has appointed Lehman Brothers Inc., and
+Lehman Brothers Inc. accepts such appointment, to be the Company's Calculation
+Agent to make certain calculations, as provided herein. The Calculation Agent
+shall act as an independent expert and not as an agent of the Company, and,
+unless otherwise provided by this Agreement, its calculations under this
+Agreement shall, absent manifest error, be final and
+
+<PAGE> 21
+16
+
+binding on the Company, the Index Warrant Agent, the Warrantholders, the
+Registered Holders and any Participant. Any such calculations will be made
+available to a Warrantholder for inspection at the Index Warrant Agent's
+Office.
+
+The Company agrees, for the benefit of the Warrantholders from
+time to time, that there shall at all times be a Calculation Agent hereunder
+until all the Index Warrants are no longer outstanding or until moneys for the
+payment of all outstanding Index Warrants, if any, shall have been paid to the
+Index Warrant Agent, whichever occurs earlier. Resignation, removal and
+appointment of the Calculation Agent shall be in accordance with the procedures
+set forth for the resignation, removal and appointment of the Index Warrant
+Agent, as provided in Section 5.4, except that a successor Calculation Agent
+need not be a banking institution with offices south of Chambers Street in the
+Borough of Manhattan, The City of New York, and may only be appointed if such
+successor has been nominated by the Company.
+
+SECTION 2.3 Automatic Exercise of Warrants. All Warrants
+for which the Warrant Agent has not received an Exercise Notice in proper form
+by 3:00 p.m., New York City time, on (i) the New York Business Day immediately
+preceding the Expiration Date, or (ii) the last New York Business Day prior to
+the Delisting Date or for which the Warrant Agent has received an Exercise
+Notice in proper form but with respect to which timely delivery of the relevant
+Index Warrants has not been made, and which have not been canceled prior to
+such time, together with any Index Warrants the Valuation Date for which has at
+such time been postponed pursuant to Section 2.10 will be deemed automatically
+exercised on the Expiration Date or Delisting Date, as the case may be, without
+any requirement of delivery of an Exercise Notice or Index Warrants to the
+Index Warrant Agent. Accordingly, the Exercise Date for such Index Warrants
+shall be the Expiration Date or the Delisting Date, as the case may be, or, if
+such date is not a New York Business Day, the next succeeding New York Business
+Day and the Valuation Date for such Index Warrants shall be the first Index
+Calculation Day following the Exercise Date for such Index Warrants.
+"Delisting Date" shall mean the effective date on which the Index Warrants are
+delisted from, or permanently suspended from trading (within the meaning of the
+Securities Exchange Act of 1934, as amended, and the rules and regulations of
+the Securities and Exchange Commission thereunder) on, the AMEX (or any
+successor Self-Regulatory Organization) and not accepted at the same time for
+listing on another Self-Regulatory Organization; provided, however, that if the
+Company first receives notice of the delisting or suspension of the Index
+Warrants on the same day on which such Index Warrants are delisted or
+suspended, such day will be deemed the Delisting Date for purposes of this
+Agreement. "Self-Regulatory Organization" means a self-regulatory organization
+on which warrants are traded and the rules of which
+<PAGE> 22
+17
+
+are filed with the Securities and Exchange Commission under the Securities
+Exchange Act of 1934.
+
+The Index Warrant Agent shall by 5:00 p.m., New York City
+time, on the Expiration Date or the Delisting Date, as the case may be, notify
+the Company of the number of Index Warrants to be automatically exercised on
+such day. The Warrant Agent shall (i) obtain from the Calculation Agent on the
+applicable Valuation Date the Cash Settlement Value or the Alternative
+Settlement Amount on such Valuation Date of the Index Warrants to be
+automatically exercised, (ii) by 3:00 p.m., New York City time, on the New York
+Business Day next succeeding such Valuation Date, notify the Company of the
+Cash Settlement Value or the Alternative Settlement Amount payable in respect
+of such exercised Index Warrants and (iii) advise the Company of such other
+matters relating to the exercised Index Warrants as the Company shall
+reasonably request.
+
+With respect to all Index Warrants, other than Book-Entry
+Warrants and Warrants subject to postponed exercise following the occurrence of
+an Extraordinary Event or an Exercise Limitation Event, subject to automatic
+exercise, the Company shall make available to the Index Warrant Agent, not
+later than 3:00 p.m., New York City time, on the fourth New York Business Day
+following the Valuation Date (or, if the Valuation Date is not a New York
+Business Day, on the fourth New York Business Day following the New York
+Business Day succeeding the Valuation Date) for automatically exercised Index
+Warrants (in any such case, the "Automatic Settlement Date"), funds in an
+amount equal to, and for the payment of, the aggregate Cash Settlement Value or
+Alternative Settlement Amount, as applicable, of such Index Warrants. Subject
+to such funds having been made available as provided in the preceding
+sentence, the Index Warrant Agent will be responsible for making its payment
+available to the appropriate Registered Holder in the form of a cashier's check
+or an official bank check, or (in the case of payments of $100,000 or more) by
+wire transfer to a U.S. Dollar account maintained by such Registered Holder in
+the United States (at such Registered Holder's election), after 3:00 p.m., New
+York City time, but prior to the close of business, on the Automatic Settlement
+Date, against receipt by the Index Warrant Agent at the Index Warrant Agent's
+Office from such Registered Holder of its Warrant Certificates.
+
+In the case of Book-Entry Warrants subject to automatic
+exercise (other than Warrants subject to postponed exercise following the
+occurrence of an Extraordinary Event or an Exercise Limitation Event), the
+Company shall make available to the Warrant Agent, not later than 3:00 p.m.,
+New York City time, on the Automatic Settlement Date, funds in an amount equal
+to, and for the payment of, the aggregate Cash Settlement Value of such Index
+Warrants. Subject to such funds having been made available as provided in the
+preceding sentence, the Index Warrant Agent
+
+<PAGE> 23
+18
+
+will be responsible for making funds available to the Depository, against
+receipt of the Global Warrant Certificate, after 3:00 p.m., New York City time,
+but prior to the close of business, on the Automatic Settlement Date.
+
+All Index Warrants shall be deemed to be cancelled on and as
+of the Automatic Settlement Date and each Warrantholder's rights under the
+Index Warrants and hereunder shall thereupon cease, except for the right to
+receive the Cash Settlement Value or the Alternative Settlement Amount, as
+applicable.
+
+Each Index Warrant will entitle the Warrantholder thereof to
+receive the Alternative Settlement Amount in lieu of the Cash Settlement Value
+thereof under the circumstances indicated in Section 2.10 or in the event that
+such Index Warrants are automatically exercised on the Delisting Date. The
+"Alternative Settlement Amount" of an Index Warrant will equal an amount in
+U.S. Dollars (rounded down to the nearest cent) which is equal to the amount
+"X" calculated using the formula set forth below:
+
+X = I + [T/2 x A/B]
+
+where
+
+I = the Cash Settlement Value of the Warrants determined
+as described above, but calculated with a Spot Index
+determined by the Calculation Agent which, in the
+reasonable opinion of the Calculation Agent, fairly
+reflects the value of the stocks which comprise the
+Index or any Successor Index on the Cancellation
+Date;
+
+T = U.S.$4.50 the initial offering price per Warrant;
+
+A = the total number of days from but excluding the
+Cancellation Date for such Warrants to and including
+the Expiration Date; and
+
+B = the total number of days from but excluding the date
+the Warrants were initially sold to and including
+the Expiration Date.
+
+Any such calculations will be made available to a
+Warrantholder for inspection at the Warrant Agent's Office. Neither the
+Company nor the Calculation Agent shall have any responsibility for good faith
+errors or omissions in calculating the Alternative Settlement Amount.
+
+The Company will advise the Index Warrant Agent as soon as
+practicable of the date of any expected delisting or permanent suspension of
+trading of the Index Warrants and will immediately inform the Index Warrant
+Agent after the Company has received
+<PAGE> 24
+19
+
+notice that such delisting or suspension has occurred, but in no event will
+notice of such delisting or suspension be given to the Warrant Agent later than
+9:30 a.m., New York City time, on the New York Business Day following the date
+that such delisting or suspension occurs.
+
+SECTION 2.4 Limitation of Number of Exercisable Warrants.
+Not fewer than 500 warrants may be exercised by a Warrantholder at any one time
+except in the case of automatic exercise or cancellation. All exercises of
+Index Warrants (other than on the Expiration Date, Delisting Date or the
+Cancellation Date) shall be subject, at the Calculation Agent's option, to the
+limitation that not more than 1,000,000 Index Warrants in total may be
+exercised on any Exercise Date and not more than 250,000 Warrants may be
+exercised by or on behalf of any person or entity, either individually or in
+concert with any other person or entity, on any Exercise Date. If any New York
+Business Day would otherwise, under the terms hereof, be the Exercise Date in
+respect of more than 1,000,000 Index Warrants, then upon the Calculation
+Agent's exercising such option (by giving notice thereof to the Warrant Agent
+not later than 3:00 p.m., New York City time, on the New York Business Day
+following such Exercise Date), 1,000,000 of such Index Warrants shall be
+deemed exercised on such Exercise Date (selected by the Index Warrant Agent on
+a pro rata basis, but if, as a result of such pro rata selection, any
+Registered Holders would be deemed to have exercised less than 500 Index
+Warrants, then the Index Warrant Agent shall first select additional Index
+Warrants of such holder so that no such holder shall be deemed to have
+exercised less than 500 Index Warrants), and the remainder of such Index
+Warrants (the "Remaining Warrants") shall be deemed exercised on the New York
+Business Day following the otherwise applicable Exercise Date (subject to
+successive applications of this Section 2.4); provided that any Remaining
+Warrant in respect of which an Exercise Notice was delivered on a given
+Exercise Date shall be deemed exercised before any other Index Warrants in
+respect of which an Exercise Notice was delivered on a later Exercise Date. If
+any individual Warrantholder attempts to exercise more than 250,000 Index
+Warrants on any Exercise Date, then at the Calculation Agent's election (as
+notified to the Index Warrant Agent by giving notice thereof to the Index
+Warrant Agent not later than 3:00 p.m., New York City time, on the New York
+Business Day following such Exercise Date) 250,000 of such Index Warrants shall
+be deemed exercised on such Exercise Date and the remainder shall be deemed
+exercised on the New York Business Day following the otherwise applicable
+Exercise Date (subject to successive applications of this Section 2.4).
+
+SECTION 2.5 Discontinuance or Modification of the Index. (a)
+In the event that the Index is not calculated and publicly announced by the
+AMEX on a Valuation Date but is calculated and publicly announced by another
+person or party not affiliated with the Company and acceptable to the
+Calculation
+
+<PAGE> 25
+20
+
+Agent (the "Third Party"), the applicable Cash Settlement Value shall
+nevertheless be calculated by reference to the value of the closing quotation
+for the Index so announced by the Third Party.
+
+In the event that prior to a Valuation Date the AMEX or the
+Third Party makes a material change in the formula for, or the method of,
+calculating the Index, the Calculation Agent shall make such calculations as
+may be required to determine the applicable Cash Settlement Value using the
+formula and method of calculating the Index as was in effect prior to such
+change or modification.
+
+If on a Valuation Date either the AMEX or any Third Party
+discontinues publication of the Index and publishes a successor or substitute
+index that the Calculation Agent determines to be comparable to the Index (any
+such index being a "Successor Index"), the Calculation Agent shall determine
+the Spot Index for any date thereafter based on the closing level of the
+Successor Index on such date. If the AMEX and/or any Third Party discontinues
+publication of the Index and/or any Successor Index, the Company will cause the
+Calculation Agent to determine the applicable Cash Settlement Value based on
+the formula and method used in calculating the Index or any Successor Index as
+in effect on the date the Index or such Successor Index was last published.
+
+(b) If calculation or publication of the Index or a Successor
+Index is changed, modified, discontinued or suspended, as provided in this
+Section 2.5, then the Calculation Agent shall promptly notify the Index Warrant
+Agent, and the Index Warrant Agent shall in turn promptly notify the
+Warrantholders, of such change, modification, discontinuance or suspension and
+of any modification or adjustment to be made with respect to calculation of the
+Cash Settlement Value or Alternative Settlement Amount, as applicable.
+
+(c) The Calculation Agent will have no responsibility for
+good faith errors or omissions in calculating or disseminating information
+regarding the Index, any Successor Index, adjustments or calculations by the
+Calculation Agent (as provided above) in order to arrive at a calculation of a
+stock index comparable to the Index or any Successor Index, or the Cash
+Settlement Value or the Alternative Settlement Amount, as applicable.
+
+SECTION 2.6 Covenant of the Company. The Company covenants, 
+for the benefit of the Warrantholders, that (i) it will cause the Index
+Warrants to be listed on the AMEX and (ii) until the Expiration Date, it will
+not seek the delisting of the Index Warrants from, or permanent suspension of
+their trading on the AMEX unless prior to such delisting or suspension the
+Index Warrants shall have been listed, and shall be accepted for
+<PAGE> 26
+21
+
+trading pursuant to the rules of another Self-Regulatory Organization.
+
+SECTION 2.7 Return of the Global Warrant Certificate. At
+such time as all of the Index Warrants have been exercised, deemed
+automatically exercised or otherwise cancelled, the Index Warrant Agent shall
+return the cancelled Global Warrant Certificate to the Company.
+
+SECTION 2.8 Return of Moneys Held Unclaimed for Two Years.
+Any moneys deposited with or paid to the Index Warrant Agent for the payment of
+the Cash Settlement Value or the Alternative Settlement Amount of any Index
+Warrants and not applied but remaining unclaimed for two years after the date
+upon which such Cash Settlement Value or the Alternative Settlement Amount
+shall have become due and payable, shall be repaid by the Index Warrant Agent
+to the Company, and the holder of such Index Warrants shall thereafter look
+only to the Company for any payment which such Warrantholder may be entitled to
+collect and all liability of the Index Warrant Agent with respect to such
+moneys shall thereupon cease; provided, however, that the Index Warrant Agent,
+before making any such repayment, may at the expense of the Company notify, in
+the case of Book-Entry Warrants, the Participants concerned, or, in the case of
+Certificated Warrants, the Warrantholders concerned, that said moneys have not
+been so applied and remain unclaimed and that after a date named therein any
+unclaimed balance of said moneys then remaining will be returned to the
+Company.
+
+SECTION 2.9 Designation of Agent for Receipt of Notice. The
+Company may from time to time designate in writing to the Index Warrant Agent a
+designee for receipt of all notices to be given by the Index Warrant Agent
+pursuant to this Article II and all such notices thereafter shall be given in
+the manner herein provided by the Index Warrant Agent to such designee.
+
+SECTION 2.10 Extraordinary Events and Exercise Limitation
+Events. (a) If the Company determines that, on a Valuation Date with respect
+to any Index Warrant, an Extraordinary Event has occurred and is continuing,
+then the Cash Settlement Value in respect of an exercise shall be calculated on
+the basis that the Valuation Date shall be the next Index Calculation Day on
+which there is no Extraordinary Event or Exercise Limitation Event; provided,
+that, if the Valuation Date has not occurred on or prior to the Expiration Date
+or the Delisting Date, the Warrantholder will receive the Alternative
+Settlement Amount in lieu of the Cash Settlement Value which shall be
+calculated as if the Index Warrant had been cancelled on the Expiration Date or
+the Delisting Date, as the case may be. The Company shall promptly give notice
+to Warrantholders, by publication in a United States newspaper with a national
+circulation (currently expected to be The Wall Street Journal), if an
+Extraordinary Event shall have occurred.
+
+<PAGE> 27
+22
+
+"Extraordinary Event" means any of the following events:
+
+(i) a suspension or absence of trading on the Honk
+Kong Stock Exchange Ltd. (the "HKSE") of all the Underlying Stocks
+which then comprise the Index or a Successor Index; or
+
+(ii) the enactment, publication, decree or other
+promulgation of any statute, regulation, rule or order of any court or
+any other U.S. or non-U.S. governmental authority which would make it
+unlawful for the Company to perform any of its obligations under this
+Agreement or the Warrants; or
+
+(iii) any outbreak or escalation of hostilities or
+other national or international calamity or crisis (including, without
+limitation, natural calamities which in the opinion of the Company may
+materially and adversely affect the economy of Hong Kong or the trading
+or securities generally on the HKSE) which has or will have a material
+adverse effect on the ability of the Company to perform its obligations
+under the Warrants or to modify the hedge of its position with respect
+to the Index.
+
+For the purposes of determining whether an Extraordinary Event
+has occurred: (1) a limitation on the hours or number of days of trading will
+not constitute an Extraordinary Event if it results from an announced change in
+the regular business hours of the HKSE, and (2) an "absence of trading", on the
+HKSE will not include any time when the HKSE itself is closed for trading under
+ordinary circumstances.
+
+If the Calculation Agent determines that an Extraordinary
+Event has occurred and is continuing, and if the Extraordinary Event is
+expected by the Calculation Agent to continue, the Company may immediately
+cancel the Index Warrants by notifying the Index Warrant Agent of such
+cancellation (the date such notice is given being the "Cancellation Date"), and
+each Warrantholder's rights under the Index Warrants and this Agreement shall
+thereupon cease; provided, that each Index Warrant shall be exercised (even if
+such Index Warrant would not otherwise be exercisable on such date because of
+the Limit Option) on the basis that the Exercise Date for such Index Warrant
+shall be the Cancellation Date and the holder of each such Index Warrant will
+receive, in lieu of the Cash Settlement Value of such Index Warrant, the
+Alternative Settlement Amount thereof.
+
+(b) If the Company determines that, on a Valuation Date with
+respect to any Index Warrant, an Exercise Limitation Event has occurred and is
+continuing, then the Cash Settlement
+<PAGE> 28
+23
+
+Value in respect of an exercise shall be calculated on the basis that the
+Valuation Date shall be the next Index Calculation Day on which there is no
+Exercise Limitation Event or Extraordinary Event; provided, that, if the
+Valuation Date has not occurred on or prior to the Expiration Date or the
+Delisting Date, the Warrantholder will receive the Alternative Settlement
+Amount in lieu of the Cash Settlement Value which shall be calculated as if the
+Index Warrants had been cancelled on the Expiration Date or the Delisting Date,
+as the case may be. The Company shall promptly give notice to Warrantholders,
+by publication in a United States newspaper with a national circulation
+(currently expected to be The Wall Street Journal), if an Exercise Limitation
+Event shall have occurred.
+
+"Exercise Limitation Event" means either of the following
+events:
+
+(i) a suspension or absence of trading on the HKSE
+of (A) 20% or more of the Underlying Stocks which then comprise the
+Index or a Successor Index and/or (B) the stocks of any three of the
+four most highly capitalized companies included in the Underlying
+Stocks which then comprise the Index or a Successor Index; or
+
+(ii) the suspension or material limitation on the
+Hong Kong Futures Exchange Ltd. (the "HK Futures Exchange") or any
+other major futures or securities market of trading in futures or
+option contracts related to the stock index of the Hang Seng Bank Ltd.,
+the Index or a Successor Index.
+
+For the purposes of determining whether an Exercise Limitation
+Event has occurred: (1) a limitation on the hours or number of days of trading
+will not constitute an Exercise Limitation Event if it results from an
+announced change in the regular business hours of the relevant exchange, (2) a
+decision to permanently discontinue trading in the relevant contract will not
+constitute an Exercise Limitation Event, (3) a suspension in trading in a
+futures or options contract on the stock index maintained by the Hang Seng Bank
+Ltd., the Index or a Successor Index by the HK Futures Exchange or other major
+futures or securities market by reason of (x) a price change violating limits
+set by the HK Futures Exchange or such futures or securities market, (y) an
+imbalance of orders relating to such contracts or (Z) a disparity in bid and
+ask quotes relating to such contracts, will constitute a suspension or material
+limitation of trading in futures or options contracts related to the stock
+index maintained by the Hang Seng Bank Ltd., the Index, or such Successor
+Index, (4) an "absence of trading" on the HK Futures Exchange or a major
+futures or securities market on which futures or options contracts related to
+the stock index maintained by the Hang Seng Bank Ltd., the Index or a Successor
+Index are traded will not include any time when the HK Futures Exchange or such
+futures or securities market, as the case may
+
+<PAGE> 29
+24
+
+be, itself is closed for trading under ordinary circumstance and (5) the
+occurrence of an Extraordinary Event described in clause (i) of the definition
+of Extraordinary Event will not constitute, and will supersede the occurrence
+of, an Exercise Limitation Event.
+
+With respect to all Warrants as to which the Valuation Date
+has been postponed or which have been canceled as described above, the Company
+shall make available to the Warrant Agent not later than 3:00 p.m., New York
+City time, on the fourth New York Business Day following the date on which the
+Cash Settlement Value or Alternative Settlement Amount, as the case may be, has
+been calculated (the "Alternative Settlement Date"), funds in an amount equal
+to, and for the payment of, the aggregate Cash Settlement Value or Alternative
+Settlement Amount, as applicable, of such Warrants. Subject to such funds
+having been made available as provided in the preceding sentence, the Warrant
+Agent will be responsible for making a payment (i) with respect to the Warrants
+as to which the Valuation Date has been postponed as described above and as to
+which the Cash Settlement Value is payable, (A) in the case of Certificated
+Warrants, to each Registered Holder that has submitted its Warrant Certificate
+for exercise or (B) in the case of Book-Entry Warrants, to each appropriate
+Participant, after 3:00 p.m., New York City time, but prior to the close of
+business on, the Alternative Settlement Date, in an amount equal to the
+aggregate Cash Settlement Value of such exercised Warrants, or (ii) with
+respect to the Warrants as to which the Valuation Date has been postponed and
+has not occurred on or prior to the Expiration Date or the Delisting Date or
+with respect to the Warrants which have been cancelled as described above, (A)
+in the case of Certificated Warrants, to each Registered Holder that has
+submitted its Warrant Certificate or (B) in the case of Book-Entry Warrants, to
+the Depository, after 3:00 p.m., New York City time, but prior to the close of
+business on, the Alternative Settlement Date, in an amount equal to the
+aggregate Alternative Settlement Amount of such exercised Warrants.
+
+ARTICLE III
+OTHER PROVISIONS RELATING TO
+RIGHTS OF WARRANTHOLDERS
+
+SECTION 3.1 Holders of Index Warrants May Enforce Rights.
+Notwithstanding any of the provisions of this Agreement, any Warrantholder,
+without the consent of the Index Warrant Agent, may, in and for his own behalf,
+enforce and may institute and maintain any suit, action or proceeding against
+the Company suitable to enforce, or otherwise in respect of, his right to
+exercise and to receive payment for his Index Warrants provided in this
+Agreement and the Warrant Certificates or Global Warrant Certificate, as the
+case may be.
+<PAGE> 30
+25
+
+SECTION 3.2 Consolidation, Merger or Other Disposition. If
+at any time the Company shall consolidate with or merge into any other
+corporation or convey, transfer or lease its properties and assets
+substantially as an entirety to another person, then in any such event the
+successor or assuming corporation shall succeed to and be substituted for the
+Company, with the same effect as if it had been named as the Company herein and
+in the Index Warrants; the Company shall thereupon be relieved of any further
+obligation hereunder or under the Index Warrants, and, in the event of any such
+consolidation, merger, conveyance, transfer or lease, the Company as the
+predecessor corporation may thereupon or at any time thereafter be dissolved,
+wound up or liquidated. Such successor or assuming corporation shall expressly
+assume, by an amendment to this Agreement, executed and delivered to the Index
+Warrant Agent, in form satisfactory to such Index Warrant Agent, the due and
+punctual payment of any and all amounts payable by the Company pursuant to this
+Agreement and the performance of every covenant of this Agreement on the part
+of the Company to be performed or observed. Such successor or assuming
+corporation thereupon may cause to be signed, and may issue either in its own
+name or in the name of the Company, a new Warrant Certificate or Global Warrant
+Certificate representing the Index Warrants not theretofore exercised, in
+exchange and substitution for the Warrant Certificate or Global Warrant
+Certificate theretofore issued. Such Warrant Certificate or Global Warrant
+Certificate shall in all respects have the same legal rank and benefit under
+this Agreement as the Warrant Certificate or Global Warrant Certificate
+theretofore issued in accordance with the terms of this Agreement as though
+such new Warrant Certificate or Global Warrant Certificate had been issued at
+the date of the execution hereof. In any case of any such consolidation,
+merger, conveyance, transfer or lease of substantially all of the assets of the
+Company, such changes in phraseology and form (but not in substance) may be
+made in the new Warrant Certificates or Global Warrant Certificate as may be
+appropriate.
+
+The Index Warrant Agent may receive a written opinion of legal
+counsel as conclusive evidence that any such consolidation, merger, conveyance,
+transfer or lease of substantially all of the assets of the Company complies
+with the provisions of this Section 3.2.
+
+ARTICLE IV
+CANCELLATION OF INDEX WARRANTS
+
+SECTION 4.1 Cancellation of Index Warrants. In the event the
+Company shall purchase or otherwise acquire Index Warrants, such Index Warrants
+may, at the option of the Company, (i) in the case of Book-Entry Warrants, be
+surrendered free through a Participant for credit to the account of the Index
+Warrant Agent maintained at the Depository, and if so credited, the Index
+Warrant Agent shall promptly note the cancellation of
+
+<PAGE> 31
+26
+
+such Index Warrants by notation on the records of the Index Warrant Agent or
+(ii) in the case of Certificated Warrants, delivered to the Index Warrant
+Agent, and if so delivered the Index Warrant Agent shall promptly note the
+cancellation of such Index Warrants on the records of the Index Warrant Agent.
+Such Index Warrants may also, at the option of the Company, be resold by the
+Company directly to or through any of its affiliates in lieu of being
+surrendered to the Depository. No Warrant Certificate or Global Warrant
+Certificate shall be countersigned in lieu of or in exchange for any Index
+Warrant which is cancelled as provided herein, except as otherwise expressly
+permitted by this Agreement.
+
+SECTION 4.2 Treatment of Warrantholders. The Company, the
+Index Warrant Agent and any agent of the Company or the Index Warrant Agent may
+deem and treat the person in whose name a Global Warrant Certificate shall be
+registered in the records of the Index Warrant Agent as the holder of all
+right, title and interest in such Global Warrant Certificate (notwithstanding
+any notation of ownership or other writing thereon) for any purpose and as the
+person entitled to exercise the rights represented by the Index Warrants
+evidenced thereby, and neither the Company nor the Index Warrant Agent, nor any
+agent of the Company or the Index Warrant Agent shall be affected by any notice
+to the contrary, except that the Index Warrant Agent and the Company shall be
+entitled to rely on and act pursuant to instructions of Participants as
+contemplated by Article II of this Agreement. This Section 4.2 shall be
+without prejudice to the rights of Warrantholders as described elsewhere
+herein.
+
+SECTION 4.3 Payment of Taxes. The Company will pay all
+documentary stamp taxes attributable to the initial issuance of Index Warrants;
+provided, however, that the Company shall not be required to pay any tax or
+other governmental charge which may be payable in respect of any transfer
+involving any beneficial or record interest in or ownership interest of any
+Index Warrants.
+
+ARTICLE V
+CONCERNING THE INDEX WARRANT AGENTSECTION 5.1
+
+SECTION 5.1 Index Warrant Agent. The Company hereby appoints
+Citibank, N.A. as Index Warrant Agent of the Company in respect of the Index
+Warrants, the Warrant Certificates and the Global Warrant Certificate upon the
+terms and subject to the conditions set forth herein, in the Warrant
+Certificate and in the Global Warrant Certificate; and Citibank, N.A. hereby
+accepts such appointment. The Index Warrant Agent shall have the powers and
+authority granted to and conferred upon it in the Warrant Certificate and the
+Global Warrant Certificate and hereby and such further powers and authority
+acceptable to it to act on behalf of the Company as the Company may hereafter
+grant to or confer upon it. All of the terms and provisions with respect to
+such powers and authority contained in the Warrant Certificate
+<PAGE> 32
+27
+
+and the Global Warrant Certificate are subject to and governed by the terms and
+provisions hereof.
+
+SECTION 5.2 Conditions of Index Warrant Agent's Obligations.
+The Index Warrant Agent accepts its obligations herein set forth upon the terms
+and conditions hereof and of the Warrant Certificates and the Global Warrant
+Certificate, including the following, to all of which the Company agrees and to
+all of which the rights hereunder of the Warrantholders from time to time of
+the Index Warrants shall be subject:
+
+(a) The Company agrees promptly to pay the Index
+Warrant Agent the compensation to be agreed upon with the Company for
+all services rendered by the Index Warrant Agent and to reimburse the
+Index Warrant Agent for its reasonable out-of-pocket expenses
+(including reasonable attorneys' fees and expenses) incurred by the
+Index Warrant Agent without negligence, bad faith or breach of this
+Agreement on its part in connection with the services rendered by it
+hereunder. The Company also agrees to indemnify the Index Warrant
+Agent for, and to hold it harmless against, any loss, liability or
+expense (including reasonable attorneys' fees and expenses) incurred
+without negligence, bad faith or breach of this Agreement on the part
+of the Index Warrant Agent, arising out of or in connection with its
+acting as such Index Warrant Agent hereunder or with respect to the
+Index Warrants, as well as the reasonable costs and expenses of
+defending against any claim of liability in the premises.
+
+(b) In acting under this Agreement and in
+connection with the Index Warrants, the Index Warrant Agent is acting
+solely as agent of the Company and does not assume any obligation or
+relationship of agency or trust for or with any of the Warrantholders
+or the registered holder of the Global Warrant Certificate.
+
+(c) The Index Warrant Agent may consult with
+counsel satisfactory to it, and the opinion of such counsel shall be
+full and complete authorization and protection in respect of any action
+taken, suffered or omitted by it hereunder in good faith and in
+accordance with the opinion of such counsel.
+
+(d) The Index Warrant Agent shall be protected
+and shall incur no liability for or in respect of any action taken or
+omitted or thing suffered by it in reliance upon any Warrant
+Certificate, Global Warrant Certificate, notice, direction, consent,
+certificate, affidavit, statement or other paper or document reasonably
+believed by it to be genuine and to have been presented or signed by
+the proper parties.
+
+<PAGE> 33
+28
+
+(e) The Index Warrant Agent, and its officers,
+directors and employees, may become the Warrantholder of, or acquire
+any interest in, any Index Warrants or other obligations of the
+Company, with the same rights that it or they would have if it were not
+the Index Warrant Agent hereunder, and, to the extent permitted by
+applicable law, it or they may engage or be interested in any financial
+or other transaction with the Company and may act on, or as depository,
+trustee or agent for, any committee or body of holders of Index
+Warrants or other obligations of the Company as freely as if it were
+not the Index Warrant Agent hereunder.
+
+(f) The Index Warrant Agent shall not be under any
+liability for interest on any moneys at any time received by it
+pursuant to any of the provisions of this Agreement, the Warrant
+Certificates or the Global Warrant Certificate.
+
+(g) The Index Warrant Agent shall not be under any
+responsibility with respect to the validity or sufficiency of this
+Agreement or the execution and delivery hereof (except the due
+execution and delivery hereof by the Index Warrant Agent) or with
+respect to the validity or execution of any Warrant Certificate or the
+Global Warrant Certificate (except its countersignature thereof).
+
+(h) The recitals contained herein and in the
+Warrant Certificate and the Global Warrant Certificate (except as to
+the Index Warrant Agent's countersignature thereon) shall be taken as
+the statements of the Company and the Index Warrant Agent assumes no
+responsibility for the correctness of the same.
+
+(i) The Index Warrant Agent shall be obligated to
+perform only such duties as are herein and in the Warrant Certificate
+and the Global Warrant Certificate specifically set forth and no
+implied duties or obligations shall be read into this Agreement, the
+Warrant Certificate or the Global Warrant Certificate against the Index
+Warrant Agent. The Index Warrant Agent shall not be under any
+obligation to take any action hereunder likely to involve it in any
+expense or liability, the payment of which is not, in its reasonable
+opinion, assuThe Index.Warrant Agent shall not be accountable or under
+any duty or responsibility for the use by the Company of the Warrant
+Certificate or the Global Warrant Certificate countersigned by the
+Index Warrant Agent and delivered by it to the Company pursuant to this
+Agreement or for the application by the Company of any proceeds from
+the sale thereof. The Index Warrant Agent shall have no duty or
+responsibility in case of any default by the Company in the performance
+of its covenants or agreements contained herein, in the Warrant
+Certificate or in the Global Warrant Certificate or in the case of the
+<PAGE> 34
+29
+
+receipt of any written demand from a holder of an Index Warrant with
+respect to such default, except as provided in Section 6.2 hereof,
+including, without limiting the generality of the foregoing, any duty
+or responsibility to initiate or attempt to initiate any proceedings at
+law or otherwise or to make any demand upon the Company.
+
+(j) Unless specifically provided herein or in the
+Warrant Certificate, the Global Warrant Certificate, any order,
+certificate, notice, request, direction or other communication from the
+Company made or given by the Company under any provision of this
+Agreement shall be sufficient if signed by its Treasurer or any Vice
+President.
+
+SECTION 5.3 Compliance With Applicable Laws. The Index
+Warrant Agent agrees to comply with all applicable federal and state laws in
+respect of the services rendered by it under this Agreement, including (but not
+limited to) the provisions of United States federal income tax laws regarding
+information reporting and backup withholding. The Index Warrant Agent
+expressly assumes all liability for its failure to comply with such laws,
+including (but not limited to) any liability for its failure to comply with any
+applicable provisions of United States federal income tax laws regarding
+information reporting and backup withholding applicable to it.
+
+SECTION 5.4 Resignation and Appointment of Successor.
+(a) The Company agrees, for the benefit of the Warrantholders
+from time to time of the Index Warrants, that there shall at all times be an
+Index Warrant Agent hereunder until all the Index Warrants are no longer
+exercisable.
+
+(b) The Index Warrant Agent may at any time resign as such
+agent by giving written notice to the Company of such intention on its part,
+specifying the date on which its desired resignation shall become effective,
+subject to the appointment of a successor Index Warrant Agent and acceptance of
+such appointment by such successor Index Warrant Agent, as hereinafter
+provided. The Index Warrant Agent hereunder may be removed at any time by the
+filing with it of an instrument in writing signed by or on behalf of the
+Company and specifying such removal and the date when it shall become
+effective. Such resignation or removal shall take effect upon the appointment
+by the Company, as hereinafter provided, of a successor Index Warrant Agent
+(which shall be a banking institution organized under the laws of the United
+States of America, or one of the states thereof and having an office or an
+agent's office south of Chambers Street in the Borough of Manhattan, New York
+City) and the acceptance of such appointment by such successor Index Warrant
+Agent. In the event a successor Index Warrant Agent has not been appointed and
+has not accepted its duties within 90 days of the Index Warrant Agent's notice
+of resignation, the Index Warrant Agent may apply to any court of competent
+jurisdiction for the designation of a
+
+<PAGE> 35
+30
+
+successor Index Warrant Agent. The obligation of the Company under Section
+5.2(a) shall continue to the extent set forth therein notwithstanding the
+resignation or removal of the Index Warrant Agent.
+
+(c) In case at any time the Index Warrant Agent shall resign,
+or shall be removed, or shall become incapable of acting, or shall be adjudged
+bankrupt or insolvent, or make an assignment for the benefit of its creditors
+or consent to the appointment of a receiver or custodian of all or any
+substantial part of its property, or shall admit in writing its inability to
+pay or meet its debts as they mature, or if a receiver or custodian of it or
+all or any substantial part of its property shall be appointed, or if any
+public officer shall have taken charge or control of the Index Warrant Agent or
+of its property or affairs, for the purpose of rehabilitation, conservation or
+liquidation, a successor Index Warrant Agent, qualified as aforesaid, shall be
+appointed by the Company by an instrument in writing, filed with the successor
+Index Warrant Agent. Upon the appointment as aforesaid of a successor Index
+Warrant Agent and acceptance by the latter of such appointment, the Index
+Warrant Agent so superseded shall cease to be Index Warrant Agent hereunder.
+
+(d) Any successor Index Warrant Agent appointed hereunder
+shall execute, acknowledge and deliver to its predecessor and to the Company an
+instrument accepting such appointment hereunder, and thereupon such successor
+Index Warrant Agent, without any further act, deed or conveyance, shall become
+vested with all the authority, rights, powers, trusts, immunities, duties and
+obligations of such predecessor with like effect as if originally named as
+Index Warrant Agent hereunder, and such predecessor, upon payment of its
+charges and disbursements then unpaid, shall thereupon become obligated to
+transfer, deliver and pay over, and such successor Index Warrant Agent shall be
+entitled to receive, all moneys, securities and other property on deposit with
+or held by such predecessor, as Index Warrant Agent hereunder.
+
+(e) Any corporation into which the Index Warrant Agent
+hereunder may be merged or converted or any corporation with which the Index
+Warrant Agent may be consolidated, or any corporation resulting from any
+merger, conversion or consolidation to which the Index Warrant Agent shall be a
+party, or any corporation to which the Index Warrant Agent shall sell or
+otherwise transfer all or substantially all of the assets and business of the
+Index Warrant Agent, provided that it shall be qualified as aforesaid, shall be
+the successor Index Warrant Agent under this Agreement without the execution or
+filing of any paper or any further act on the part of any of the parties
+hereto.
+
+ARTICLE VI
+MISCELLANEOUS
+<PAGE> 36
+31
+
+SECTION 6.1 Modification, Supplementation or Amendment. (a)
+This Agreement, the Warrant Certificates and the Global Warrant Certificate may
+be modified, supplemented or amended by the Company and the Index Warrant
+Agent, without the consent of the Warrantholders, for the purpose of curing any
+ambiguity, or of curing, correcting or supplementing any defective or
+inconsistent provision contained herein or therein, maintaining the listing of
+any Index Warrants on any U.S. national securities exchange or registration of
+such Index Warrants under the Exchange Act, permitting the issuance of Index
+Warrants in definitive form in accordance with paragraph (a) of Section 1.1,
+reflecting the issuance by the Company of additional Index Warrants of the same
+issue or reflecting the appointment of a successor Depository in accordance
+with paragraph (c) of Section 1.1 or in any other manner which the Company may
+deem necessary or desirable and which will not materially adversely affect the
+interests of the holders of Index Warrants. Notwithstanding anything in this
+Section 6.1 to the contrary, this Agreement may not be amended to provide for
+the countersigning by the Index Warrant Agent of Warrant Certificates or Global
+Warrant Certificate evidencing in the aggregate in excess of 1,150,000 Index
+Warrants unless and until the Index Warrant Agent has received notice from the
+AMEX or any successor U.S. national securities exchange or Self-Regulatory
+Organization that the additional Index Warrants in excess of 1,150,000 have
+been approved for listing on such exchange or Self-Regulatory Organization.
+
+(b) The Company and the Index Warrant Agent may modify or amend this
+Agreement, the Warrant Certificates and the Global Warrant Certificate with the
+consent of the Warrantholders of not fewer than a majority in number of the
+then outstanding unexercised Index Warrants affected by such modification or
+amendment, for any purpose; provided, however, that no such modification or
+amendment that increases the Strike Index, otherwise changes the determination
+of the Cash Settlement Value, or the Alternative Settlement Amount of the Index
+Warrants (or any aspects of such determination ) so as to reduce the amount
+receivable upon exercise, shortens the period of time during which the Index
+Warrants may be exercised, increases the minimum or decreases the maximum
+number of Index Warrants that may be exercised by or on behalf of any one
+Warrantholder at any one time, or otherwise materially and adversely affects
+the exercise rights of the Warrantholders or reduces the number of outstanding
+Index Warrants the consent of the Warrantholders of which is required for
+modification or amendment of this Agreement, the Warrant Certificates, or the
+Global Warrant Certificate may be made without the consent of each
+Warrantholder affected thereby.
+
+SECTION 6.2 Notices and Demands to the Company and Index
+Warrant Agent. If the Index Warrant Agent shall receive any notice or demand
+addressed to the Company by any
+
+<PAGE> 37
+32
+
+Warrantholder pursuant to the provisions of the Warrant Certificates or the
+Global Warrant Certificate, the Index Warrant Agent shall promptly forward such
+notice or demand to the Company.
+
+SECTION 6.3 Addresses for Notices. Any communications from
+the Company to the Index Warrant Agent with respect to this Agreement shall be
+addressed to Citibank, N.A., 120 Wall Street, 13th Floor, New York, New York
+10043 (facsimile: (212) 480-1614) (telephone: (212) 412-6209, Attention:
+Corporate Trust Department; any communications from the Index Warrant Agent to
+the Company with respect to this Agreement shall be addressed to Lehman
+Brothers Holdings Inc., 388 Greenwich Street, New York, New York 10013
+(facsimile: (212) 464-6414) (telephone: (212) 526-2000), Attention: Treasurer
+(or such other address as shall be specified in writing to the other parties
+hereto by the Index Warrant Agent or the Company, respectively).
+
+SECTION 6.4 Notices to Warrantholders. The Company may
+cause to have notice given to the holders of Index Warrants by providing the
+Index Warrant Agent with a form of notice to be distributed by (i) in the case
+of Certificated Warrants, the Index Warrant Agent to the Registered Holders or
+(ii) in the case of Book-Entry Warrants, the Depository to Participants in
+accordance with the custom and practices of the Depository.
+
+SECTION 6.5 Governing Law. The validity,
+interpretation and performance of this Agreement and each Index Warrant issued
+hereunder and of the respective terms and provisions thereof shall be governed
+by the laws of the State of New York.
+
+SECTION 6.6 Obtaining of Governmental Approvals. The Company
+will from time to time use its best efforts to obtain and keep effective any
+and all permits, consents and approvals of governmental agencies and
+authorities and the AMEX and filings under the United States federal and state
+laws, which may be or become requisite in connection with the issuance, sale,
+trading, transfer or delivery of the Index Warrants, the Warrant Certificates,
+the Global Warrant Certificate and the exercise of the Index Warrants.
+
+SECTION 6.7 Persons Having Rights Under the Index Warrant
+Agreement. Nothing in this Agreement expressed or implied and nothing that may
+be inferred from any of the provisions hereof is intended, or shall be
+construed, to confer upon, or give to, any person or corporation other than the
+Company, the Index Warrant Agent, the registered holder of the Global Warrant
+Certificate and the Warrantholders any right, remedy or claim under or by
+reason of this Agreement or of any covenant, condition, stipulation, promise or
+agreement hereof; and all covenants, conditions, stipulations, promises and
+agreements in this Agreement contained shall be for the sole and exclusive
+benefit of the Company and the Index Warrant Agent and their successors and of
+the registered holder of the Global Warrant Certificate and the Warrantholders.
+<PAGE> 38
+33
+
+SECTION 6.8 Headings. The descriptive headings of the
+several Articles and Sections and the Table of Contents of this Agreement are
+for convenience only and shall not control or affect the meaning or
+construction of any of the provisions hereof.
+
+SECTION 6.9 Counterparts. This Agreement may be executed by
+the parties hereto in any number of counterparts, each of which when so
+executed and delivered shall be deemed to be an original; but all such
+counterparts shall together constitute but one and the same instrument.
+
+SECTION 6.10 Inspection of Agreement. A copy of this
+Agreement shall be available at all reasonable times at the principal corporate
+trust office of the Index Warrant Agent, for inspection by the registered
+holder of the Warrant Certificate, Participants, Indirect Participants and
+Warrantholders.
+
+<PAGE> 39
+34
+
+IN WITNESS WHEREOF, this Agreement has been duly executed by
+the parties hereto as of the day and year first above written.
+
+LEHMAN BROTHERS HOLDINGS INC.
+
+By: /s/ Karen M, Muller
+-------------------------
+Name: Karen M. Muller
+Title: Vice President
+
+CITIBANK, N.A.
+
+By: /s/ John W. Reasor
+-------------------------
+Name: John W. Reasor
+Title: Assistant Vice President
+
+LEHMAN BROTHERS INC.
+
+By: /s/ Jeen Pae
+-------------------------
+Name: Jeen Pae
+Title: Associate
+
+<PAGE> 40
+EXHIBIT A
+
+[FORM OF WARRANT CERTIFICATE]
+
+[FACE]
+
+No. CUSIP No. 524908 18 3
+
+LEHMAN BROTHERS HOLDING INC.
+
+AMEX Hong Kong 30 Index Call Warrants
+Expiring February 26, 1996
+
+This Warrant Certificate certifies that , or
+registered assigns, is the registered holder of AMEX Hong Kong 30
+Index Call Warrants Expiring February 26, 1996 (the "Index Warrants"). Upon
+receipt by Citibank, N.A. (the "Warrant Agent") of this Warrant Certificate and
+the exercise notice on the reverse hereof (or an exercise notice in
+substantially identical form delivered herewith), duly completed and executed,
+at the offices of the Warrant Agent in the Borough of Manhattan, New York City,
+each Warrant entitles the beneficial owner thereof (each a "Warrantholder") to
+receive, subject to the conditions set forth herein and in the Warrant
+Agreement, from Lehman Brothers Holdings Inc. (the "Company") the cash
+settlement value in U.S. Dollars (the "Cash Settlement Value") equal to the
+quotient (rounded down to the nearest cent) of (A) the amount, if any, by which
+the closing level of the AMEX Hong Kong 30 Index (the "Index"), as compiled by
+and published by the American Stock Exchange, Inc. (the "AMEX") on the
+applicable Valuation Date for such Warrant (the "Spot Index") exceeds 463.55
+(the "Strike Index") divided by (B)2.5, divided by (C) the fixed Hong Kong
+dollar/U.S. dollar exchange rate of H.K.$ 7.7278 per U.S. $1.00; provided
+however, that if such amount is less than or equal to zero, then the Cash
+Settlement Value will be zero. In no event shall a Warrantholder be entitled
+to interest on any Cash Settlement Value.
+
+Subject to the terms of the Warrant Agreement, each Warrant
+may be irrevocably exercised, in whole but not in part, at or prior to 3:00
+p.m., New York City time, on any New York Business Day from its date of
+issuance until 3:00 p.m., New York City time, on the earlier of (i) the New
+York Business Day immediately preceding February 26, 1996 (the "Expiration
+Date") and (ii) the last New York Business Day prior to the Delisting Date (as
+defined herein) at which time the Warrants shall expire and all Warrants
+evidenced hereby shall be automatically exercised and otherwise shall be void.
+
+Except in the case of automatic exercise or cancellation of
+the Warrants, as set forth herein and in the
+
+<PAGE> 41
+2
+
+Warrant Agreement, not fewer than 500 Warrants may be exercised by or on behalf
+of any one Warrantholder at any one time.
+
+Except in the case of automatic exercise or cancellation of
+the Warrants, all exercises of Warrants shall be subject, at the option of
+Lehman Brothers Inc. (the "Calculation Agent"), to the limitation that not more
+than 1,000,000 Warrants in total may be exercised on any Exercise Date and not
+more than 250,000 Warrants may be exercised by or on behalf of any person or
+entity, either individually or in concert with any other person or entity, on
+any Exercise Date.
+
+Reference is hereby made to the further provisions of this
+Warrant Certificate set forth on the reverse hereof and such further provisions
+shall for all purposes have the same effect as though fully set forth at this
+place.
+
+This Warrant Certificate shall not be valid unless
+countersigned by the Warrant Agent.
+
+IN WITNESS WHEREOF, Lehman Brothers Holdings, Inc. has caused
+this instrument to be duly executed.
+
+Dated: LEHMAN BROTHERS HOLDINGS INC.
+
+By
+-------------------------------
+Title: Chairman of the Board
+of Directors and Chief
+Executive Officer
+
+[SEAL]
+
+Attest:
+
+By
+----------------------------
+Title: Assistant Secretary
+
+Countersigned for authentication only
+as of the date above written:
+
+Citibank, N.A.,
+as Warrant Agent
+
+By
+Authorized Officer
+<PAGE> 42
+[REVERSE]
+
+AMEX Hong Kong 30 Index Call Warrants
+Expiring February 26, 1996
+
+The Warrants evidenced by this Warrant Certificate are part of
+a duly authorized issue of Warrants issued by the Company pursuant to a Warrant
+Agreement, dated as of August 30, 1994 (the "Warrant Agreement"), among the
+Company, Citibank, N.A. (the "Warrant Agent") and Lehman Brothers Inc. (the
+"Calculation Agent") and are subject to the terms and provisions contained in
+the Warrant Agreement, to all of which terms and provisions each Warrantholder
+consents by acceptance of this Warrant Certificate and which Warrant Agreement
+is hereby incorporated by reference in, and made a part of, this Warrant
+Certificate. A copy of the Warrant Agreement is on file at the Warrant Agent.
+
+The Warrants constitute direct, unconditional and unsecured
+contractual obligations of the Company and rank on a parity with the Company's
+other unsecured contractual obligations and with the Company's unsecured and
+unsubordinated debt.
+
+The Warrants will be unsecured obligations of the Company and
+rank pari passu with all unsecured and unsubordinated indebtedness for borrowed
+money of the Company.
+
+Subject to the provisions hereof and of the Warrant Agreement,
+each Warrant may be irrevocably exercised, in whole but not in part, at or
+prior to 3:00 p.m., New York City time, on any New York Business Day (as
+defined herein) from the date of its issuance until 3:00 p.m., New York City
+time on the earlier of (i) the New York Business Day immediately preceding the
+Expiration Date and (ii) the last New York Business Day prior to the Delisting
+Date. The holder of Warrants evidenced by this Warrant Certificate may
+exercise them by surrendering this Warrant Certificate and attached exercise
+notice (or an exercise notice in substantially identical form) (such notice, an
+"Exercise Notice"), duly completed and executed, to the Warrant Agent's offices
+in the Borough of Manhattan, the City of New York (the "Warrant Agent's
+Office"), which are, on the date hereof, located at 111 Wall Street, 5th Floor,
+New York, New York 10043 (telephone: (212) 657-7269; facsimile: (212)
+825-3483). Except in the case of automatic exercise or cancellation of the
+Warrants, as set forth herein and in the Warrant Agreement, not fewer than 500
+Warrants may be exercised by or on behalf of any one Warrantholder at any one
+time. Except in the case of automatic exercise or cancellation of the Warrants,
+all exercises of the Warrants shall be subject, at the option of the
+Calculation Agent, to the limitation that not more than 1,000,000 Warrants in
+total may be exercised on any Exercise Date (as defined in the Warrant
+Agreement) and not more than 250,000 Warrants may be exercised by or on behalf
+of any person or entity, either individually or in concert with any other
+person or entity, on any Exercise Date.
+
+<PAGE> 43
+2
+
+The "Cash Settlement Value" of an exercised Warrant shall be
+an amount in U.S. Dollars equal to the quotient (rounded down to the nearest
+cent) of (A) the amount, if any, by which the Spot Index on the applicable
+Valuation Date for such Warrants exceeds the Strike Index divided by (B) 2.5,
+divided by (C) the fixed Hong Kong dollar/U.S. dollar exchange rate of
+H.K.$7.7278 per U.S. $1.00; provided, however, that if such amount is less than
+or equal to zero, then the Cash Settlement Value shall be zero.
+
+The Company has appointed Lehman Brothers Inc. to be its
+Calculation Agent to make such calculations as may be required upon the
+occurrence of certain circumstances, as described in the Warrant Agreement and
+herein, including, without limitation, calculation of the Cash Settlement Value
+and under certain circumstances or the Alternative Settlement Amount (as
+defined herein), as applicable, of a Warrant. The Calculation Agent shall act
+as an independent expert and not as an agent of the Company, and, unless
+otherwise provided by the Warrant Agreement, its calculations and
+determinations under the Warrant Agreement and this Warrant Certificate shall,
+absent manifest error, be final and binding on the Company, the Warrant Agent
+and the Warrantholders.
+
+In the event that the Index is not publicly announced by the
+AMEX on a Valuation Date, but is publicly announced by another person or party
+not affiliated with the Company and acceptable to the Calculation Agent (the
+"Third Party"), the applicable Cash Settlement Value shall nevertheless be
+calculated by reference to the value of the closing quotation for the Index so
+announced by the Third Party.
+
+In the event that prior to a Valuation Date the AMEX or the
+Third Party makes a material change in the formula for, or the method of,
+calculating the Index, the Calculation Agent shall make such calculations as
+may be required to determine the applicable Cash Settlement Value using the
+formula and method of calculating the Index as was in effect prior to such
+change or modification.
+
+If on a Valuation Date either the AMEX or any Third Party
+discontinues publication of the Index and publishes a successor or substitute
+index that the Company determines, in its sole discretion, to be comparable to
+the Index (any such index being a "Successor Index"), then the Calculation
+Agent shall determine the Spot Index for any date thereafter based on the
+closing level of the Successor Index on such date. If the AMEX and/or any
+Third Party discontinues publication of the Index and/or any Successor Index,
+the Company will cause the Calculation Agent to determine the applicable Cash
+Settlement Value based on the formula and method used in calculating the Index
+or any Successor Index, as in effect on the date the Index or such Successor
+Index was last published.
+<PAGE> 44
+3
+
+The Calculation Agent will have no responsibility for good
+faith errors or omissions in calculating or disseminating information regarding
+the Index, any Successor Index, adjustments or calculations by the Calculation
+Agent in order to arrive at a calculation of a stock index comparable to the
+Index or any Successor Index, or the Cash Settlement Value or the Alternative
+Settlement Amount, as applicable.
+
+Subject to the Warrant Agreement and this Warrant Certificate,
+and except in the case of exercise (whether automatic or by the Exercise
+Notice) on the Expiration Date or the Delisting Date, or in the event an
+Extraordinary Event or Exercise Limitation Event (as such terms are defined
+herein) is declared, the valuation date (the "Valuation Date") for a Warrant
+shall be the first Index Calculation Day (as defined in the Warrant Agreement)
+following the applicable Exercise Date (as defined in the Warrant Agreement) on
+which the Warrant Agent has received the Warrant Certificate representing such
+Warrant, with the Exercise Notice, duly completed and executed, at or prior to
+3:00 p.m., New York City time (the "Notice Date"), and if the Warrant Agent
+shall receive any such Warrant Certificate or Exercise Notice after 3:00 p.m.,
+New York City time, on such date, then such Warrant Certificate shall be deemed
+to have been received at or prior to 3:00 p.m., New York City time, on the next
+succeeding New York Business Day (which shall be considered the Notice Date),
+and in such event the Valuation Date shall be the next Index Calculation Day
+following the New York Business Day on which the Warrant Agent is deemed to
+have received such Warrant Certificate together with the Exercise Notice. Any
+Warrant Certificate received after 3:00 p.m., New York City time, on (i) the
+New York Business Day immediately preceding the Expiration Date or (ii) the New
+York Business Day immediately preceding the effective date on which the
+Warrants are delisted from, or permanently suspended from trading (within the
+meaning of the Securities Exchange Act of 1934 and the rules and regulations of
+the Securities and Exchange Commission thereunder) on, the AMEX and not
+accepted at the same time for listing on another Self- Regulatory Organization
+(such New York Business Day being the "Delisting Date") shall be deemed not to
+have been delivered and the related Exercise Notice shall be void and of no
+effect; provided, however, that if the Company first receives notice of the
+delisting or suspension of the Warrants on the same day on which such Warrants
+are delisted or suspended, such day will be deemed the Delisting Date for
+purposes of the Warrant Agreement and this Warrant Certificate.
+
+If the Exercise Notice is not rejected as provided in the
+Warrant Agreement, then the Calculation Agent will determine the Cash
+Settlement Value of the exercised Warrants in accordance with the terms of the
+Warrant Agreement. Except in the case of Warrants subject to automatic
+exercise and Warrants that upon exercise entitle the holder thereof to receive
+an Alternative
+
+<PAGE> 45
+4
+
+Settlement Amount in lieu of the Cash Settlement Value, if on any Valuation
+Date the Cash Settlement Value for any Warrants then exercised would be zero,
+then in such case, the exercise of such Warrants shall be ignored and the
+Warrant Certificate evidencing such Warrants will be promptly returned by the
+Warrant Agent to the registered holder of the Warrant by first class mail at
+the Calculation Agent's expense and such holder shall be permitted to
+re-exercise such Warrants prior to the Expiration Date or the Delisting Date.
+
+Except in the case of Warrants subject to automatic exercise
+and for Warrants that upon exercise entitle the holder thereof to receive an
+Alternative Settlement Amount in lieu of the Cash Settlement Value, provided
+the Company will make adequate funds available to the Warrant Agent no later
+than 3:00 p.m., New York City time, on the fifth New York Business Day
+following the Valuation Date for such Warrants (or, if the Valuation Date is
+not a New York Business Day, on the fifth New York Business Day following the
+New York Business Day next succeeding the Valuation Date) (the "Settlement
+Date"), the Warrant Agent shall make its payment available to each appropriate
+registered holder in the form of a cashier's check or an official bank check,
+or (in the case of payments of at least $100,000) by wire transfer to a U.S.
+dollar bank account maintained by such holder in the United States (at the
+holder's election as specified in the Exercise Notice), on the first New York
+Business Day immediately succeeding such Settlement Date. Such payment shall
+be in an amount equal to the aggregate Cash Settlement Value of the exercised
+Warrants.
+
+All Warrant Certificates for which the Warrant Agent has not
+received the Exercise Notice in proper form by 3:00 p.m., New York City time,
+on (i) the New York Business Day immediately preceding the Expiration Date or
+(ii) the last New York Business Day prior to the Delisting Date, as the case
+may be, or for which the Warrant Agent has received an Exercise Notice in
+proper form but with respect to which timely delivery of the relevant Warrant
+Certificate has not been made, and which have not been canceled prior to such
+time, will be deemed automatically exercised on such date without any
+requirement of an Exercise Notice to the Warrant Agent. The Exercise Date for
+such Warrants shall be the Expiration Date or the Delisting Date, as the case
+may be, or, if such date is not a New York Business Day, the next succeeding
+New York Business Day, and the Valuation Date for such Warrants shall be the
+first Index Calculation Date following the Exercise Date for such Warrants
+except in the case of a postponed Exercise following the occurrence of an
+Extraordinary Event or an Exercise Limitation Event (as defined herein).
+
+If the Calculation Agent determines that an Extraordinary Event
+or an Exercise Limitation Event has occurred and is continuing on the
+Expiration Date or the Delisting Date, the Cash Settlement Value with respect
+to the exercised Warrants
+<PAGE> 46
+5
+
+shall be equal to, and be calculated in the same manner as, the Alternative
+Settlement Amount (treating the Expiration Date or the Delisting Date, as the
+case may be, as the date on which the Warrants were canceled), as provided
+below and in the Warrant Agreement.
+
+Payment with respect to automatically exercised Warrants shall
+be made available to the appropriate registered holders of the Warrants in the
+form of a cashier's check or an official bank check, or (in the case of
+payments of at least $100,000) by wire transfer to a U.S. bank account
+maintained by such holder in the United States (at such holder's election), on
+the fourth New York Business Day following the Valuation Date for automatically
+exercised Warrants (or if such Valuation Date is not a New York Business Day,
+on the fourth New York Business Day following the New York Business Day next
+succeeding such Valuation Date), against receipt by the Warrant Agent at the
+Warrant Agent's Office from the holder of its Warrant Certificates. Such
+payment shall be in the amount of the aggregate Cash Settlement Value in
+respect of the Warrants, evidenced by the Warrant Certificates that were
+exercised on the Expiration Date or the Delisting Date, as the case may be.
+
+Anything in the Warrant Agreement or in this Warrant
+Certificate to the contrary notwithstanding, if the Calculation Agent
+determines that an Extraordinary Event or an Exercise Limitation Event has
+occurred and is continuing on the Hong Kong Business Day (as defined herein)
+with respect to which the Spot Index on a Valuation Date is to be determined
+(the "Applicable Hong Kong Business Day"), then the Cash Settlement Value of
+such Warrants in respect of an exercise shall be calculated on the basis that
+the Valuation Date shall be the next Index Calculation Date following an
+Applicable Hong Kong Business Day on which there is no Extraordinary Event or
+Exercise Limitation Event; provided, however, that if the Cash Settlement Value
+of such Warrants is not calculated on or prior to the Expiration Date or the
+Delisting Date, then the Warrantholders will receive the Alternative Settlement
+Amount in lieu of the Cash Settlement Value, which Alternative Settlement
+Amount shall be calculated as if the Warrants had been canceled on the
+Expiration Date or the Delisting Date, as the case may be.
+
+If the Calculation Agent determines that an Extraordinary
+Event has occurred and is continuing and if it is expected by the Calculation
+Agent to continue, the Company may immediately cancel the Warrants by notifying
+the Warrant Agent of such cancellation (the date such Warrants are canceled
+being the "Cancellation Date"), and each Warrantholder's rights with respect to
+the Warrants and under the Warrant Agreement shall thereupon cease; provided,
+however, that each Warrant shall be exercised (even if such Warrant would not
+otherwise be exercisable on such date because of the Limit Option (as defined
+in the Warrant Agreement)) on the basis that the Valuation Date
+
+<PAGE> 47
+6
+
+for such Warrant shall be the Cancellation Date and each Warrantholder shall
+have the right to receive an Alternative Settlement Amount with respect to its
+Warrants. The Calculation Agent shall use its best efforts to notify the
+Warrantholders promptly of such cancellation.
+
+With respect to all Warrant Certificates as to which the
+Valuation Date has been postponed or which have been canceled as described
+above, payment shall be made available to each appropriate registered holder of
+the Warrants in the form of a cashier's check or an official bank check or (in
+the case of payments of at least $100,000) by wire transfer to a U.S. dollar
+bank account maintained by such holder in the United States (at such holder's
+election) on the fourth New York Business Day following the date on which the
+Cash Settlement Value or Alternative Settlement Amount, as the case may be, has
+been calculated, against receipt, if not previously received, by the Warrant
+Agent at the Warrant Agent's Office from such holder of its Warrant
+Certificates. Such payment shall be in the amount of the aggregate Cash
+Settlement Value or Alternative Settlement Amount, as the case may be, in
+respect of the Warrants evidenced by such Warrant Certificates.
+
+The "Alternative Settlement Amount" shall be an amount,
+determined by the Calculation Agent, which is equal to the amount "X"
+calculated using the formula set forth below:
+
+X = I + [T/2 x A/B]
+
+where
+
+I = the Cash Settlement Value of the Warrants determined
+as described above, but calculated with a Spot Index
+determined by the Calculation Agent which, in the
+reasonable opinion of the Calculation Agent, fairly
+reflects the value of the stocks which comprise the
+Index or any Successor Index on the Cancellation
+Date;
+
+T = U.S. $4.50, the initial offering price per Warrant;
+
+A = the total number of days from but excluding the
+Cancellation Date for such Warrants to and including
+the Expiration Date; and
+
+B = the total number of days from but excluding the date
+the Warrants were initially sold to and including
+the Expiration Date.
+
+Any such calculation will be made available to a Warrantholder
+for inspection at the Warrant Agent's Office. Neither the Company nor the
+Calculation Agent shall have any
+<PAGE> 48
+7
+
+responsibility for good faith errors or omissions in calculating the
+Alternative Settlement Amount.
+
+An "Extraordinary Event" shall mean any one of the events,
+circumstances or causes listed below:
+
+(i) a suspension or absence of trading on the Hong
+Kong Stock Exchange Ltd. (the "HKSE") of all of the Underlying Stocks
+which then comprise the Index or a successor or substitute index that
+the Company determines, in its sole discretion, to be comparable to the
+Index (a "Successor Index"); or
+
+(ii) the enactment, publication, decree or other
+promulgation of any statute, regulation, rule or order of any court or
+any other U.S. or non-U.S. governmental authority which would render it
+unlawful for the Company to perform any of its obligations under the
+Warrant Agreement or the Warrants; or
+
+(iii) any outbreak or escalation of hostilities or
+other national or international calamity or crisis (including, without
+limitation, natural calamities which in the opinion of the Company may
+materially and adversely affect the economy of Hong Kong or the trading
+of securities generally on the HKSE) which has or will have a material
+adverse effect on the ability of the Company to perform its obligations
+under the Warrants or to modify the hedge of its position with respect
+to the Index.
+
+An "Exercise Limitation Event" shall mean any one of the
+events, circumstances or causes listed below:
+
+(i) a suspension or absence of trading on the HKSE
+of (a) 20% or more of the Underlying Stocks which then comprise the
+Index or a Successor Index and/or (b) the stocks of any three of the
+four most highly capitalized companies included in the Underlying
+Stocks which then comprise the Index or a Successor Index; or
+
+(ii) the suspension or material limitation on the
+Hong Kong Futures Exchange Ltd. (the "HK Futures Exchange") or any
+other major futures or securities market of trading in futures or
+options contracts related to the stock index of the Hang Seng Bank
+Ltd., the Index or a Successor Index.
+
+Prior to due presentment for registration of transfer, the
+Company, the Warrant Agent, and any agent of the Company or the Warrant Agent,
+may deem and treat the registered owner hereof as the absolute owner of the
+Warrants evidenced hereby (notwithstanding any notation of ownership or other
+writing hereon) for any purpose whatsoever, and as the person entitled to
+exercise the rights represented by the Warrants evidenced hereby,
+
+<PAGE> 49
+8
+
+and neither the Company nor the Warrant Agent, nor any agent of the Company or
+the Warrant Agent, shall be affected by any notice to the contrary.
+
+The Warrant Agent shall, in accordance with the Warrant
+Agreement, from time to time register the transfer of this Warrant Certificate
+upon the records to be maintained by it for that purpose at the Warrant Agent's
+Office upon surrender hereof, duly endorsed, or accompanied by a written
+instrument or instruments of transfer in form satisfactory to the Warrant Agent
+duly executed, by the registered holder(s) hereof or by their duly appointed
+legal representative or duly authorized attorney, such signature to be
+guaranteed by a bank or trust company with a correspondent office in the City
+of New York or by a member of a national securities exchange. Upon any such
+registration of transfer, a new Warrant Certificate shall be issued to the
+transferee(s).
+
+As provided in the Warrant Agreement and subject to certain
+limitations, this Warrant Certificate may be exchanged for other Warrant
+Certificates, representing a like number of Warrants, upon surrender to the
+Warrant Agent of this Warrant Certificate at the Warrant Agent's Office.
+
+No service charge shall be made for any registration of
+transfer or exchange of this Warrant Certificate, but the Company may require
+payment of a sum sufficient to cover any tax or other governmental charge that
+may be imposed in connection with any registration of transfer or exchange of
+this Warrant Certificate, other than exchanges pursuant to the Warrant
+Agreement not involving any transfer.
+
+The Warrantholder may subject its exercise of Warrants to the
+Limit Option, as provided in the Warrant Agreement.
+
+Capitalized terms included herein but not defined herein have
+the meanings assigned thereto in the Warrant Agreement.
+
+References herein to "U.S. Dollars," "U.S.$" or "$" are to the
+lawful currency of the United States of America, and references to "Hong Kong
+dollars" or "H.K.$" are to the lawful currency of Hong Kong. As used herein, a
+"New York Business Day" means any day other than a Saturday or a Sunday or a
+day on which either the AMEX or the New York Stock Exchange is not open for
+securities trading or commercial banks in New York City are required or
+authorized by law or executive order to remain closed; a "Hong Kong Business
+Day" means any day other than a Saturday or a Sunday or a day on which
+commercial banks in Hong Kong are not open for a full day of business; and an
+"Index Calculation Day" means any day on which the Index or any Successor Index
+is calculated and published.
+<PAGE> 50
+9
+
+The Warrant Agreement and the terms of the Warrants are
+subject to amendment, as provided in the Warrant Agreement.
+
+THIS WARRANT CERTIFICATE SHALL BE GOVERNED BY, AND INTERPRETED
+IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+
+<PAGE> 51
+Exhibit A-1
+
+EXERCISE NOTICE
+Warrants Represented by Warrant Certificates
+
+Citibank, N.A.
+111 Wall Street
+5th Floor
+New York, New York 10043
+Telephone: (212) 657-7269
+Facsimile: (212) 825-3483
+
+1. This Notice / /DOES / /DOES NOT relate to "Contingently
+Tendered Warrants" subject to a Limit Option, as provided for in the Warrant
+Agreement. If this Exercise Notice relates to 500 or more Warrants and any of
+such Warrants are Contingently Tendered Warrants, of such Warrants are
+Contingently Tendered Warrants and are not. If the Spot Index
+used to determine the Cash Settlement Value of Contingently Tendered Warrants
+is lower than the Limit Option Reference Index by 5% or more, an Exercise
+Notice with respect to such Contingently Tendered Warrants shall be void and of
+no effect (and shall be disregarded for all purposes of the Warrant Agreement).
+
+2. Subject to paragraph 1, the undersigned (the "Owner")
+hereby irrevocably exercises Warrants (the "Exercised Warrants")
+and delivers to you herewith a Warrant Certificate or Certificates, registered
+in the Owner's name, representing a number of Warrants at least equal to the
+number of Exercised Warrants. Each beneficial owner of Warrants that is
+exercising Warrants pursuant to this Exercise Notice is exercising no fewer
+than 500 Warrants.
+
+3. The Owner hereby directs the Warrant Agent (a) to pay the
+Cash Settlement Value, if any, with respect to the Exercised Warrants:
+
+/ / By cashier's check or an official bank check;
+or
+/ / By wire transfer to the following U.S. dollar bank
+account in the United States:
+
+(Minimum payments of $100,000 only)
+
+Bank: _____________________________
+
+ABA Routing No.: __________________
+
+Account No: ________ Reference:______________
+
+<PAGE> 52
+2
+
+and (b) if the number of Exercised Warrants is less than the number of Warrants
+represented by the enclosed Warrant Certificate, to deliver a Warrant
+Certificate representing the unexercised Warrants to
+
+Dated: , 19
+
+--------------------------------
+(Owner)
+
+by
+----------------------------
+Authorized Signature
+
+Address:
+
+Telephone: ( )
+<PAGE> 53
+EXHIBIT B
+
+[FORM OF GLOBAL WARRANT CERTIFICATE]
+
+No. CUSIP No. 524908 18 3
+
+LEHMAN BROTHERS HOLDING INC.
+
+AMEX Hong Kong 30 Index Call Warrants
+Expiring February 26, 1996
+
+This Warrant Certificate certifies that CEDE & CO., or
+registered assigns, is the registered holder of AMEX Hong Kong 30
+Index Call Warrants Expiring February 26, 1996 (the "Index Warrants"). Upon
+receipt by Citibank, N.A. (the "Warrant Agent") of this Warrant Certificate and
+the exercise notice on the reverse hereof (or an exercise notice in
+substantially identical form delivered herewith), duly completed and executed,
+at the offices of the Warrant Agent in the Borough of Manhattan, New York City,
+each Warrant entitles the beneficial owner thereof (each a "Warrantholder") to
+receive, subject to the conditions set forth herein and in the Warrant
+Agreement, from Lehman Brothers Holdings Inc. (the "Company") the cash
+settlement value in U.S. Dollars (the "Cash Settlement Value") equal to the
+quotient (rounded down to the nearest cent) of (A) the amount, if any, by which
+the closing level of the AMEX Hong Kong 30 Index (the "Index"), as compiled by
+and published by the American Stock Exchange, Inc. (the "AMEX") on the
+applicable Valuation Date for such Warrant (the "Spot Index") exceeds 463.55
+(the "Strike Index") divided by (B)2.5, divided by (C) the fixed Hong Kong
+dollar/U.S. dollar exchange rate of H.K.$ 7.7278 per U.S. $1.00; provided
+however, that if such amount is less than or equal to zero, then the Cash
+Settlement Value will be zero. In no event shall a Warrantholder be entitled
+to interest on any Cash Settlement Value.
+
+Subject to the terms of the Warrant Agreement, each Warrant
+may be irrevocably exercised, in whole but not in part, at or prior to 3:00
+p.m., New York City time, on any New York Business Day from its date of
+issuance until 3:00 p.m., New York City time, on the earlier of (i) the New
+York Business Day immediately preceding February 26, 1996 (the "Expiration
+Date") and (ii) the last New York Business Day prior to the Delisting Date (as
+defined herein) at which time the Warrants shall expire and all Warrants
+evidenced hereby shall be automatically exercised and otherwise shall be void.
+
+Except in the case of automatic exercise or cancellation of
+the Warrants, as set forth herein and in the
+
+<PAGE> 54
+2
+
+Warrant Agreement, not fewer than 500 Warrants may be exercised by or on behalf
+of any one Warrantholder at any one time.
+
+Except in the case of automatic exercise or cancellation of
+the Warrants, all exercises of Warrants shall be subject, at the option of
+Lehman Brothers Inc. (the "Calculation Agent"), to the limitation that not more
+than 1,000,000 Warrants in total may be exercised on any Exercise Date and not
+more than 250,000 Warrants may be exercised by or on behalf of any person or
+entity, either individually or in concert with any other person or entity, on
+any Exercise Date.
+
+Reference is hereby made to the further provisions of this
+Warrant Certificate set forth on the reverse hereof and such further provisions
+shall for all purposes have the same effect as though fully set forth at this
+place.
+
+This Warrant Certificate shall not be valid unless
+countersigned by the Warrant Agent.
+
+IN WITNESS WHEREOF, Lehman Brothers Holdings, Inc. has caused
+this instrument to be duly executed.
+
+Dated: 
+
+LEHMAN BROTHERS HOLDINGS INC.
+
+By
+---------------------------
+Title:
+
+[SEAL]
+
+Attest:
+
+By
+----------------------------
+Title: Assistant Secretary
+
+Countersigned for authentication only
+as of the date above written:
+
+Citibank, N.A.,
+as Warrant Agent
+
+By
+Authorized Officer
+<PAGE> 55
+[REVERSE]
+
+AMEX Hong Kong 30 Index Call Warrants
+Expiring February 26, 1996
+
+The Warrants evidenced by this Warrant Certificate are part of
+a duly authorized issue of Warrants issued by the Company pursuant to a Warrant
+Agreement, dated as of August 30, 1994 (the "Warrant Agreement"), among the
+Company, Citibank, N.A. (the "Warrant Agent") and Lehman Brothers Inc. (the
+"Calculation Agent") and are subject to the terms and provisions contained in
+the Warrant Agreement, to all of which terms and provisions each Warrantholder
+consents by acceptance of this Warrant Certificate and which Warrant Agreement
+is hereby incorporated by reference in, and made a part of, this Warrant
+Certificate. A copy of the Warrant Agreement is on file at the Warrant Agent.
+
+The Warrants constitute direct, unconditional and unsecured
+contractual obligations of the Company and rank on a parity with the Company's
+other unsecured contractual obligations and with the Company's unsecured and
+unsubordinated debt.
+
+The Warrants will be unsecured obligations of the Company and
+rank pari passu with all unsecured and unsubordinated indebtedness for borrowed
+money of the Company.
+
+Subject to the provisions hereof and of the Warrant Agreement, each
+Warrant may be irrevocably exercised, in whole but not in part, at or prior to
+3:00 p.m., New York City time, on any New York Business Day (as defined herein)
+from the date of its issuance until 3:00 p.m., New York City time on the
+earlier of (i) the New York Business Day immediately preceding the Expiration
+Date and (ii) the last New York Business Day prior to the Delisting Date. The
+holder of Warrants evidenced by this Warrant Certificate may exercise them by
+surrendering this Warrant Certificate and attached exercise notice (or an
+exercise notice in substantially identical form) (such notice, an "Exercise
+Notice"), duly completed and executed, to the Warrant Agent's offices in the
+Borough of Manhattan, the City of New York (the "Warrant Agent's Office"),
+which are, on the date hereof, located at 111 Wall Street, 5th Floor, New York,
+New York 10043 (telephone: (212) 657-7269; facsimile: (212) 825-3483).
+Except in the case of automatic exercise or cancellation of the Warrants, as
+set forth herein and in the Warrant Agreement, not fewer than 500 Warrants may
+be exercised by or on behalf of any one Warrantholder at any one time. Except
+in the case of automatic exercise or cancellation of the Warrants, all
+exercises of the Warrants shall be subject, at the option of the Calculation
+Agent, to the limitation that not more than 1,000,000 Warrants in total may be
+exercised on any Exercise Date (as defined in the Warrant Agreement) and not
+more than 250,000 Warrants may be exercised by or on behalf of any person or
+entity, either individually or in concert with any other person or entity, on
+any Exercise Date.
+
+<PAGE> 56
+2
+
+The "Cash Settlement Value" of an exercised Warrant shall be
+an amount in U.S. Dollars equal to the quotient (rounded down to the nearest
+cent) of (A) the amount, if any, by which the Spot Index on the applicable
+Valuation Date for such Warrants exceeds the Strike Index divided by (B) 2.5,
+divided by (C) the fixed Hong Kong dollar/U.S. dollar exchange rate of
+H.K.$7.7278 per U.S. $1.00; provided, however, that if such amount is less than
+or equal to zero, then the Cash Settlement Value shall be zero.
+
+The Company has appointed Lehman Brothers Inc. to be its
+Calculation Agent to make such calculations as may be required upon the
+occurrence of certain circumstances, as described in the Warrant Agreement and
+herein, including, without limitation, calculation of the Cash Settlement Value
+and under certain circumstances or the Alternative Settlement Amount (as
+defined herein), as applicable, of a Warrant. The Calculation Agent shall act
+as an independent expert and not as an agent of the Company, and, unless
+otherwise provided by the Warrant Agreement, its calculations and
+determinations under the Warrant Agreement and this Warrant Certificate shall,
+absent manifest error, be final and binding on the Company, the Warrant Agent
+and the Warrantholders.
+
+In the event that the Index is not publicly announced by the
+AMEX on a Valuation Date, but is publicly announced by another person or party
+not affiliated with the Company and acceptable to the Calculation Agent (the
+"Third Party"), the applicable Cash Settlement Value shall nevertheless be
+calculated by reference to the value of the closing quotation for the Index so
+announced by the Third Party.
+
+In the event that prior to a Valuation Date the AMEX or the
+Third Party makes a material change in the formula for, or the method of,
+calculating the Index, the Calculation Agent shall make such calculations as
+may be required to determine the applicable Cash Settlement Value using the
+formula and method of calculating the Index as was in effect prior to such
+change or modification.
+
+If on a Valuation Date either the AMEX or any Third Party
+discontinues publication of the Index and publishes a successor or substitute
+index that the Company determines, in its sole discretion, to be comparable to
+the Index (any such index being a "Successor Index"), then the Calculation
+Agent shall determine the Spot Index for any date thereafter based on the
+closing level of the Successor Index on such date. If the AMEX and/or any
+Third Party discontinues publication of the Index and/or any Successor Index,
+the Company will cause the Calculation Agent to determine the applicable Cash
+Settlement Value based on the formula and method used in calculating the Index
+or any Successor Index, as in effect on the date the Index or such Successor
+Index was last published.
+<PAGE> 57
+3
+
+The Calculation Agent will have no responsibility for good
+faith errors or omissions in calculating or disseminating information regarding
+the Index, any Successor Index, adjustments or calculations by the Calculation
+Agent in order to arrive at a calculation of a stock index comparable to the
+Index or any Successor Index, or the Cash Settlement Value or the Alternative
+Settlement Amount, as applicable.
+
+Subject to the Warrant Agreement and this Warrant Certificate,
+and except in the case of exercise (whether automatic or by the Exercise
+Notice) on the Expiration Date or the Delisting Date, or in the event an
+Extraordinary Event or Exercise Limitation Event (as such terms are defined
+herein) is declared, the valuation date (the "Valuation Date") for a Warrant
+shall be the first Index Calculation Day (as defined in the Warrant Agreement)
+following the applicable Exercise Date (as defined in the Warrant Agreement) on
+which the Warrant Agent has received the Warrant Certificate representing such
+Warrant, with the Exercise Notice, duly completed and executed, at or prior to
+3:00 p.m., New York City time (the "Notice Date"), and if the Warrant Agent
+shall receive any such Warrant Certificate or Exercise Notice after 3:00 p.m.,
+New York City time, on such date, then such Warrant Certificate shall be deemed
+to have been received at or prior to 3:00 p.m., New York City time, on the next
+succeeding New York Business Day (which shall be considered the Notice Date),
+and in such event the Valuation Date shall be the next Index Calculation Day
+following the New York Business Day on which the Warrant Agent is deemed to
+have received such Warrant Certificate together with the Exercise Notice. Any
+Warrant Certificate received after 3:00 p.m., New York City time, on (i) the
+New York Business Day immediately preceding the Expiration Date or (ii) the New
+York Business Day immediately preceding the effective date on which the
+Warrants are delisted from, or permanently suspended from trading (within the
+meaning of the Securities Exchange Act of 1934 and the rules and regulations of
+the Securities and Exchange Commission thereunder) on, the AMEX and not
+accepted at the same time for listing on another Self- Regulatory Organization
+(such New York Business Day being the "Delisting Date") shall be deemed not to
+have been delivered and the related Exercise Notice shall be void and of no
+effect; provided, however, that if the Company first receives notice of the
+delisting or suspension of the Warrants on the same day on which such Warrants
+are delisted or suspended, such day will be deemed the Delisting Date for
+purposes of the Warrant Agreement and this Warrant Certificate.
+
+If the Exercise Notice is not rejected as provided in the
+Warrant Agreement, then the Calculation Agent will determine the Cash
+Settlement Value of the exercised Warrants in accordance with the terms of the
+Warrant Agreement. Except in the case of Warrants subject to automatic
+exercise and Warrants that upon exercise entitle the holder thereof to receive
+an Alternative
+
+<PAGE> 58
+4
+
+Settlement Amount in lieu of the Cash Settlement Value, if on any Valuation
+Date the Cash Settlement Value for any Warrants then exercised would be zero,
+then in such case, the exercise of such Warrants shall be ignored and the
+Warrant Certificate evidencing such Warrants will be promptly returned by the
+Warrant Agent to the registered holder of the Warrant by first class mail at
+the Calculation Agent's expense and such holder shall be permitted to
+re-exercise such Warrants prior to the Expiration Date or the Delisting Date.
+
+Except in the case of Warrants subject to automatic exercise
+and for Warrants that upon exercise entitle the holder thereof to receive an
+Alternative Settlement Amount in lieu of the Cash Settlement Value, provided
+the Company will make adequate funds available to the Warrant Agent no later
+than 3:00 p.m., New York City time, on the fifth New York Business Day
+following the Valuation Date for such Warrants (or, if the Valuation Date is
+not a New York Business Day, on the fifth New York Business Day following the
+New York Business Day next succeeding the Valuation Date) (the "Settlement
+Date"), the Warrant Agent shall make its payment available to each appropriate
+registered holder in the form of a cashier's check or an official bank check,
+or (in the case of payments of at least $100,000) by wire transfer to a U.S.
+dollar bank account maintained by such holder in the United States (at the
+holder's election as specified in the Exercise Notice), on the first New York
+Business Day immediately succeeding such Settlement Date. Such payment shall
+be in an amount equal to the aggregate Cash Settlement Value of the exercised
+Warrants.
+
+All Warrant Certificates for which the Warrant Agent has not
+received the Exercise Notice in proper form by 3:00 p.m., New York City time,
+on (i) the New York Business Day immediately preceding the Expiration Date or
+(ii) the last New York Business Day prior to the Delisting Date, as the case
+may be, or for which the Warrant Agent has received an Exercise Notice in
+proper form but with respect to which timely delivery of the relevant Warrant
+Certificate has not been made, and which have not been canceled prior to such
+time, will be deemed automatically exercised on such date without any
+requirement of an Exercise Notice to the Warrant Agent. The Exercise Date for
+such Warrants shall be the Expiration Date or the Delisting Date, as the case
+may be, or, if such date is not a New York Business Day, the next succeeding
+New York Business Day, and the Valuation Date for such Warrants shall be the
+first Index Calculation Date following the Exercise Date for such Warrants
+except in the case of a postponed Exercise following the occurrence of an
+Extraordinary Event or an Exercise Limitation Event (as defined herein).
+
+If the Calculation Agent determines that an Extraordinary
+Event or an Exercise Limitation Event has occurred and is continuing on the
+Expiration Date or the Delisting Date, the Cash Settlement Value with respect
+to the exercised Warrants
+<PAGE> 59
+5
+
+shall be equal to, and be calculated in the same manner as, the Alternative
+Settlement Amount (treating the Expiration Date or the Delisting Date, as the
+case may be, as the date on which the Warrants were canceled), as provided
+below and in the Warrant Agreement.
+
+Payment with respect to automatically exercised Warrants shall
+be made available to the appropriate registered holders of the Warrants in the
+form of a cashier's check or an official bank check, or (in the case of
+payments of at least $100,000) by wire transfer to a U.S. bank account
+maintained by such holder in the United States (at such holder's election), on
+the fourth New York Business Day following the Valuation Date for automatically
+exercised Warrants (or if such Valuation Date is not a New York Business Day,
+on the fourth New York Business Day following the New York Business Day next
+succeeding such Valuation Date), against receipt by the Warrant Agent at the
+Warrant Agent's Office from the holder of its Warrant Certificates. Such
+payment shall be in the amount of the aggregate Cash Settlement Value in
+respect of the Warrants, evidenced by the Warrant Certificates that were
+exercised on the Expiration Date or the Delisting Date, as the case may be.
+
+Anything in the Warrant Agreement or in this Warrant
+Certificate to the contrary notwithstanding, if the Calculation Agent
+determines that an Extraordinary Event or an Exercise Limitation Event has
+occurred and is continuing on the Hong Kong Business Day (as defined herein)
+with respect to which the Spot Index on a Valuation Date is to be determined
+(the "Applicable Hong Kong Business Day"), then the Cash Settlement Value of
+such Warrants in respect of an exercise shall be calculated on the basis that
+the Valuation Date shall be the next Index Calculation Date following an
+Applicable Hong Kong Business Day on which there is no Extraordinary Event or
+Exercise Limitation Event; provided, however, that if the Cash Settlement Value
+of such Warrants is not calculated on or prior to the Expiration Date or the
+Delisting Date, then the Warrantholders will receive the Alternative Settlement
+Amount in lieu of the Cash Settlement Value, which Alternative Settlement
+Amount shall be calculated as if the Warrants had been canceled on the
+Expiration Date or the Delisting Date, as the case may be.
+
+If the Calculation Agent determines that an Extraordinary
+Event has occurred and is continuing and if it is expected by the Calculation
+Agent to continue, the Company may immediately cancel the Warrants by notifying
+the Warrant Agent of such cancellation (the date such Warrants are canceled
+being the "Cancellation Date"), and each Warrantholder's rights with respect to
+the Warrants and under the Warrant Agreement shall thereupon cease; provided,
+however, that each Warrant shall be exercised (even if such Warrant would not
+otherwise be exercisable on such date because of the Limit Option (as defined
+in the Warrant Agreement)) on the basis that the Valuation Date
+
+<PAGE> 60
+6
+
+for such Warrant shall be the Cancellation Date and each Warrantholder shall
+have the right to receive an Alternative Settlement Amount with respect to its
+Warrants. The Calculation Agent shall use its best efforts to notify the
+Warrantholders promptly of such cancellation.
+
+With respect to all Warrant Certificates as to which the
+Valuation Date has been postponed or which have been canceled as described
+above, payment shall be made available to each appropriate registered holder of
+the Warrants in the form of a cashier's check or an official bank check or (in
+the case of payments of at least $100,000) by wire transfer to a U.S. dollar
+bank account maintained by such holder in the United States (at such holder's
+election) on the fourth New York Business Day following the date on which the
+Cash Settlement Value or Alternative Settlement Amount, as the case may be, has
+been calculated, against receipt, if not previously received, by the Warrant
+Agent at the Warrant Agent's Office from such holder of its Warrant
+Certificates. Such payment shall be in the amount of the aggregate Cash
+Settlement Value or Alternative Settlement Amount, as the case may be, in
+respect of the Warrants evidenced by such Warrant Certificates.
+
+The "Alternative Settlement Amount" shall be an amount,
+determined by the Calculation Agent, which is equal to the amount "X"
+calculated using the formula set forth below:
+
+X = I + [T/2 x A/B]
+
+where
+
+I = the Cash Settlement Value of the Warrants determined
+as described above, but calculated with a Spot Index
+determined by the Calculation Agent which, in the
+reasonable opinion of the Calculation Agent, fairly
+reflects the value of the stocks which comprise the
+Index or any Successor Index on the Cancellation
+Date;
+
+T = U.S. $4.50, the initial offering price per Warrant;
+
+A = the total number of days from but excluding the
+Cancellation Date for such Warrants to and including
+the Expiration Date; and
+
+B = the total number of days from but excluding the date
+the Warrants were initially sold to and including
+the Expiration Date.
+
+Any such calculation will be made available to a Warrantholder
+for inspection at the Warrant Agent's Office. Neither the Company nor the
+Calculation Agent shall have any
+<PAGE> 61
+7
+
+responsibility for good faith errors or omissions in calculating the
+Alternative Settlement Amount.
+
+An "Extraordinary Event" shall mean any one of the events,
+circumstances or causes listed below:
+
+(iii) a suspension or absence of trading on the
+Hong Kong Stock Exchange Ltd. (the "HKSE") of all of the Underlying
+Stocks which then comprise the Index or a successor or substitute index
+that the Company determines, in its sole discretion, to be comparable
+to the Index (a "Successor Index"); or
+
+(iv) the enactment, publication, decree or other
+promulgation of any statute, regulation, rule or order of any court or
+any other U.S. or non-U.S. governmental authority which would render it
+unlawful for the Company to perform any of its obligations under the
+Warrant Agreement or the Warrants; or
+
+(v) any outbreak or escalation of hostilities or
+other national or international calamity or crisis (including, without
+limitation, natural calamities which in the opinion of the Company may
+materially and adversely affect the economy of Hong Kong or the trading
+of securities generally on the HKSE) which has or will have a material
+adverse effect on the ability of the Company to perform its obligations
+under the Warrants or to modify the hedge of its position with respect
+to the Index.
+
+An "Exercise Limitation Event" shall mean any one of the
+events, circumstances or causes listed below:
+
+(i) a suspension or absence of trading on the HKSE
+of (a) 20% or more of the Underlying Stocks which then comprise the
+Index or a Successor Index and/or (b) the stocks of any three of the
+four most highly capitalized companies included in the Underlying
+Stocks which then comprise the Index or a Successor Index; or
+
+(ii) the suspension or material limitation on the
+Hong Kong Futures Exchange Ltd. (the "HK Futures Exchange") or any
+other major futures or securities market of trading in futures or
+options contracts related to the stock index of the Hang Seng Bank
+Ltd., the Index or a Successor Index.
+
+Prior to due presentment for registration of transfer, the
+Company, the Warrant Agent, and any agent of the Company or the Warrant Agent,
+may deem and treat the registered owner hereof as the absolute owner of the
+Warrants evidenced hereby (notwithstanding any notation of ownership or other
+writing hereon) for any purpose whatsoever, and as the person entitled to
+exercise the rights represented by the Warrants evidenced hereby,
+
+<PAGE> 62
+8
+
+and neither the Company nor the Warrant Agent, nor any agent of the Company or
+the Warrant Agent, shall be affected by any notice to the contrary.
+
+The Warrant Agent shall, in accordance with the Warrant
+Agreement, from time to time register the transfer of this Warrant Certificate
+upon the records to be maintained by it for that purpose at the Warrant Agent's
+Office upon surrender hereof, duly endorsed, or accompanied by a written
+instrument or instruments of transfer in form satisfactory to the Warrant Agent
+duly executed, by the registered holder(s) hereof or by their duly appointed
+legal representative or duly authorized attorney, such signature to be
+guaranteed by a bank or trust company with a correspondent office in the City
+of New York or by a member of a national securities exchange. Upon any such
+registration of transfer, a new Warrant Certificate shall be issued to the
+transferee(s).
+
+As provided in the Warrant Agreement and subject to certain
+limitations, this Warrant Certificate may be exchanged for other Warrant
+Certificates, representing a like number of Warrants, upon surrender to the
+Warrant Agent of this Warrant Certificate at the Warrant Agent's Office.
+
+No service charge shall be made for any registration of
+transfer or exchange of this Warrant Certificate, but the Company may require
+payment of a sum sufficient to cover any tax or other governmental charge that
+may be imposed in connection with any registration of transfer or exchange of
+this Warrant Certificate, other than exchanges pursuant to the Warrant
+Agreement not involving any transfer.
+
+The Warrantholder may subject its exercise of Warrants to the
+Limit Option, as provided in the Warrant Agreement.
+
+Capitalized terms included herein but not defined herein have
+the meanings assigned thereto in the Warrant Agreement.
+
+References herein to "U.S. Dollars," "U.S.$" or "$" are to the
+lawful currency of the United States of America, and references to "Hong Kong
+dollars" or "H.K.$" are to the lawful currency of Hong Kong. As used herein, a
+"New York Business Day" means any day other than a Saturday or a Sunday or a
+day on which either the AMEX or the New York Stock Exchange is not open for
+securities trading or commercial banks in New York City are required or
+authorized by law or executive order to remain closed; a "Hong Kong Business
+Day" means any day other than a Saturday or a Sunday or a day on which
+commercial banks in Hong Kong are not open for a full day of business; and an
+"Index Calculation Day" means any day on which the Index or any Successor Index
+is calculated and published.
+<PAGE> 63
+9
+
+The Warrant Agreement and the terms of the Warrants are
+subject to amendment, as provided in the Warrant Agreement.
+
+THIS WARRANT CERTIFICATE SHALL BE GOVERNED BY, AND INTERPRETED
+IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+
+<PAGE> 64
+EXHIBIT B-1
+
+EXERCISE NOTICE
+
+(For Index Warrants Represented by the Global Warrant Certificate)
+
+Citibank, N.A.
+c/c Citicorp Data Distribution Inc.
+404 Sette Drive
+Paramus, New Jersey 07652 (Facsimile: (201) 262-7521)
+(Telephone: (201) 262-5444)
+
+1. Reference is made to the Warrant Agreement dated as of
+August 30, 1994 (the "Warrant Agreement"), among Lehman Brothers Holdings Inc.
+(the "Company"), Citibank, N.A., as warrant agent (the "Warrant Agent"), and
+Lehman Brothers Inc., as calculation agent (the "Calculation Agent"). Subject
+to paragraph 2, on behalf of certain beneficial owners, each of whom is
+exercising no fewer than 500 Index Warrants that are covered by this Exercise
+Notice and whose Warrants have been, or will be, transferred to the Warrant
+Agent's DTC Participant Account, entitled Citibank, N.A. Corporate Trust
+Warrant Agent Account, No. _____________ (the "Index Warrant Account"),
+____________ Warrants (the "Exercised Warrants") are hereby irrevocably
+exercised.
+
+2. This Notice / /DOES / /DOES NOT relate to
+"Contingently Tendered Warrants" subject to a Limit Option, as provided for in
+the Warrant Agreement. If this Exercise Notice relates to 500 or more Warrants
+and any of such Warrants are Contingently Tendered Warrants, at least
+Warrants of each Warrantholder are Contingently Tendered Warrants and at least
+Warrants of each Warrantholder are not. If the Spot Index used to determine
+the Cash Settlement Value of Contingently Tendered Warrants does not exceed the
+Limit Option Reference Index by 5% or more, an Exercise Notice with respect to
+such Contingently Tendered Warrants shall be void and of no effect (and shall
+be disregarded for all purposes of the Warrant Agreement).
+
+3. The Participant hereby directs the Warrant Agent to pay
+the Cash Settlement Value or the Alternative Settlement Amount, as applicable,
+with respect to the Exercised Warrants:
+
+/ / By cashier's check or an official bank check;
+or
+/ / By wire transfer to the following U.S. Dollar bank
+account in the United States:
+
+(Minimum payments of $100,000 only)
+
+<PAGE> 65
+2
+
+Bank: ____________________________
+
+ABA Routing No.:__________________
+
+Account No: ________ Reference:
+
+Dated: 19
+
+[NAME OF DEPOSITORY
+PARTICIPANT]
+(Participant Number]
+
+by
+-------------------------------
+Authorized Signature
+
+Address:
+
+Telephone: ( )
+<PAGE> 66
+EXHIBIT C-1
+
+CONFIRMATION OF EXERCISE
+[For Warrants Represented by Warrant Certificates]
+
+[Name of Warrantholder]
+[Address]
+
+We hereby confirm receipt of your Exercise Notice with respect
+to Index Warrants (the "Exercised Warrants") and the related
+Warrant Certificates, which we have found to be duly completed and in proper
+form. The Valuation Date of the Exercised Warrants was , 19
+.
+
+[As set forth in your Exercise Notice, none of the Index
+Warrants covered thereby is subject to the Limit Option. Accordingly, for
+purposes hereof, all such Index Warrants shall constitute Exercised Warrants,
+which number we hereby confirm to be .] [Your Exercise Notice stated
+that the Index Warrants covered thereby are subject to the Limit Option. The
+applicable Limit Option Reference Index for such Index Warrants is
+and the Spot Index for the date that would otherwise be the Valuation Date for
+such Index Warrants is . Such Spot Index [does not exceed]
+[exceeds] such Limit Option Reference Index by 5% or more. Accordingly, for
+purposes hereof, [all] [none of] such Index Warrants shall constitute Exercised
+Warrants. We hereby confirm the number of Exercised Warrants to be
+.]
+
+We hereby confirm that the aggregate Cash Settlement Value of
+the Exercised Warrants is $____________ ($___________ per Warrant), which will
+be made available to you in the form of a cashier's check or an official bank
+check, or wire transfer to the bank account designated in your irrevocable
+Exercise Notice, in New York Clearing House funds, for payment on the first New
+York Business Day immediately succeeding the Settlement Date (as defined
+herein), provided the Company will make available such funds to us no later
+than 3:00 p.m., New York City time, on the fifth New York Business Day
+following a Valuation Date (or, if the Valuation Date is not a New York
+Business Day, on the fifth New York Business Day following the New York
+Business Day next succeeding the Valuation Date) (the "Settlement Date").
+
+Capitalized terms included herein but not defined have the
+meanings assigned thereto in the Warrant Agreement, dated as of August 30,
+1994, among Lehman Brothers Holdings, Inc., Citibank, N.A., as Index Warrant
+Agent and Lehman Brothers Inc., as Calculation Agent.
+
+Dated: , 19
+
+<PAGE> 67
+2
+
+CITIBANK, N.A., as Warrant
+Agent,
+
+by
+-------------------------------
+Authorized Signature
+<PAGE> 68
+EXHIBIT C-2
+
+CONFIRMATION OF EXERCISE
+[For Index Warrants Represented by
+the Global Warrant Certificate]
+
+[Name of Depository Participant]
+[Address]
+
+We hereby confirm receipt of your Exercise Notice with respect
+to Index Warrants (the "Exercised Warrants") which were
+transferred by you (or on your behalf) to our DTC Participant Account No.
+_____________. Such Exercise Notice we have found to be duly completed and in
+proper form. The Valuation Date of the Exercised Warrants was , 19 .
+
+[As set forth in your Exercise Notice, none of the Index
+Warrants covered thereby is subject to the Limit Option. Accordingly, for
+purposes hereof, all such Index Warrants shall constitute Exercised Warrants,
+which number we hereby confirm to be .] [Your Exercise Notice stated
+that the Index Warrants covered thereby are subject to the Limit Option. The
+applicable Limit Option Reference Index for such Index Warrants is
+and the Spot Index for the date that would otherwise be the Valuation Date for
+such Index Warrants is . Such Spot Index [does not exceed]
+[exceeds] such Limit Option Reference Index by 5% or more. Accordingly, for
+purposes hereof, [all] [none of] such Index Warrants shall constitute Exercised
+Warrants. We hereby confirm the number of Exercised Warrants to be
+.]
+
+We hereby confirm that the aggregate Cash Settlement Value of
+the Exercised Warrants is $____________ ($___________ per Warrant), which will
+be made available to you in the form of a cashier's check or an official bank
+check, or wire transfer to the bank account designated in your irrevocable
+Exercise Notice, in New York Clearing House funds, for payment on the first New
+York Business Day immediately succeeding the Settlement Date (as defined
+herein), provided the Company will make available such funds to us no later
+than 3:00 p.m., New York City time, on the sixth New York Business Day
+following a Valuation Date (or, if the Valuation Date is not a New York
+Business Day, on the sixth New York Business Day following the New York
+Business Day next succeeding the Valuation Date) (the "Settlement Date").
+
+Capitalized terms included herein but not defined have the
+meanings assigned thereto in the Index Warrant Agreement dated as of August 30,
+1994, among Lehman Brothers Holdings Inc., Citibank, N.A., as Index Warrant
+Agent as Index Warrant Agent, and Lehman Brothers Inc. as Calculation Agent.
+
+Dated: , 19
+
+<PAGE> 69
+2
+
+CITIBANK, N.A., as Warrant
+Agent,
+
+by
+--------------------------------
+Authorized Signature
+<PAGE> 70
+D-1
+
+NOTICE OF REJECTION
+[For Warrants Represented by Warrant Certificates]
+
+[Name of Warrantholder]
+[Address]
+
+You are hereby notified that [the Exercise Notice delivered by
+you was determined by us not to have been [duly completed] [in proper form]]
+[the Index Warrants to which the Exercise Notice delivered by you relates were
+not received at the Warrant Agent's Office], as set forth in the Index Warrant
+Agreement, dated as of August 30, 1994, among Lehman Brothers Holdings Inc.,
+Citibank, N.A., as Index Warrant Agent and Lehman Brothers Inc., as Calculation
+Agent. Accordingly, we have rejected your Exercise Notice.
+
+Capitalized terms used but not defined herein have the
+meanings assigned thereto in the Index Warrant Agreement.
+
+Dated: , 19
+
+CITIBANK, N.A., as Warrant
+Agent,
+
+by
+---------------------------
+Authorized Signature
+
+<PAGE> 71
+D-2
+
+NOTICE OF REJECTION
+[For Index Warrants Represented by
+the Global Warrant Certificate]
+
+[Name of Depository Participant]
+[Address]
+
+You are hereby notified that [the Exercise Notice delivered by
+you was determined by us not to have been [duly completed] [in proper form]]
+[the Index Warrants to which the Exercise Notice delivered by you relates were
+not transferred to our DTC Participant Account No. _________], as set forth in
+the Index Warrant Agreement, dated as of August 30, 1994, among Lehman Brother
+Holdings, Inc., Citibank, N.A., as Index Warrant Agent and Lehman Brothers
+Inc., as Calculation Agent. Accordingly, we have rejected your Exercise
+Notice.
+
+Capitalized terms used but not defined herein have the
+meanings assigned thereto in the Index Warrant Agreement.
+
+Dated: , 19
+
+CITIBANK, N.A., as Warrant
+Agent,
+
+by
+------------------------------
+Authorized Signature
+<PAGE> 72
+EXHIBIT E
+
+NOTICE OF REJECTION
+RELATING TO LIMIT OPTION
+
+[Name of Warrantholder or Depository Participant]
+[Address]
+
+We refer to your Exercise Notice dated , 19 , with
+respect to Index Warrants that were subject to the Limit Option.
+The applicable Limit Option Reference Index for such Index Warrants is
+and the Spot Index for the date that would otherwise be the Valuation Date for
+such Index Warrants is . Such Spot Index exceeds the Limit Option
+Reference Index on the Exercise Date by 5% or more. Accordingly, we have
+rejected such Exercise Notice pursuant to the Limit Option.
+
+Capitalized terms included herein but not defined have the
+meanings assigned thereto in the Warrant Agreement dated as of August 30, 1994,
+among Lehman Brothers Holdings Inc., Citibank, N.A., as Index Warrant Agent and
+Lehman Brothers Inc., as Calculation Agent.
+
+Dated: , 19
+
+CITIBANK, N.A., as Warrant
+Agent,
+
+by
+------------------------------
+Authorized Signature
+
+<PAGE> 73
+Annex 1
+
+Defined Terms
+
+<TABLE>
+<CAPTION>
+Page
+----
+<S> <C>
+Alternative Settlement Amount . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Alternative Settlement Date . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+AMEX . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Applicable Hong Kong Business Day . . . . . . . . . . . . . . . . . . . . . . . 4
+Automatic Settlement Date . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Book-Entry Warrants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Calculation Agent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Cancellation Date . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Cash Settlement Value . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Certificated Warrants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Contingently Tendered Warrants . . . . . . . . . . . . . . . . . . . . . . . . 11
+Conversion Option . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Conversion Option Period . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Delisting Date . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Depository . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Exercise Date . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Exercise Limitation Event . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Exercise Notice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Exercised Warrants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Expiration Date . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Extraordinary Event . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Global Warrant Certificate . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+HK Futures Exchange . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+HKSE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Index Calculation Day . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Index Warrant . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Index Warrant Account . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Index Warrant Agent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Index Warrant Agent's Office . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Index Warrant Agreement . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Index Warrant Register . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Index Warrants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+New York Business Day . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Remaining Warrants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Settlement Date . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Strike Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Successor Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Third Party . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Underlying Stock . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Valuation Date . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Warrant Agent's Office . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Warrantholder . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+</TABLE>
+<PAGE> 74
+EXHIBIT 4
+================================================================================
+
+LEHMAN BROTHERS HOLDINGS INC.
+and
+CITIBANK, N.A.,
+as Index Warrant Agent
+and
+LEHMAN BROTHERS INC.,
+as Calculation Agent
+
+------------------------------
+
+INDEX WARRANT AGREEMENT
+dated as of August 30, 1994
+
+AMEX Hong Kong 30 Index Call Warrants
+Expiring February 26, 1996
+
+================================================================================
+
+<PAGE> 75
+TABLE OF CONTENTS(1)
+
+<TABLE>
+<CAPTION>
+Page
+----
+<S> <C> <C>
+ARTICLE I
+
+ISSUANCE, FORM, EXECUTION,
+DELIVERY AND REGISTRATION OF INDEX WARRANTS . . . . . . . . . . . . . 1
+
+SECTION 1.1 Issuance of Index Warrants; Conversion of
+Index Warrants to Book-Entry . . . . . . . . . . . . . . . . . . 1
+
+SECTION 1.2 Form, Execution and Delivery of Warrant Certificates . . . . . . . 3
+
+SECTION 1.3 Warrant Certificates . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+SECTION 1.4 Registration of Transfers and Exchanges . . . . . . . . . . . . . . . 4
+
+SECTION 1.5 Mutilated or Missing Warrant Certificates . . . . . . . . . . . . . . 5
+
+SECTION 1.6 Registered Holders . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+SECTION 1.7 Global Warrant Certificate . . . . . . . . . . . . . . . . . . . . . 6
+
+ARTICLE II
+
+DURATION AND EXERCISE OF INDEX WARRANTS . . . . . . . . . . . . . . . 9
+
+SECTION 2.1 Duration of Index Warrants; Minimum and Maximum
+Exercise Amounts; Notice of Exercise 9
+
+SECTION 2.2 Exercise and Delivery of Index Warrants . . . . . . . . . . . . . . . 10
+
+SECTION 2.3 Automatic Exercise of Warrants . . . . . . . . . . . . . . . . . . . 16
+
+SECTION 2.4 Limitation of Number of Exercisable Warrants . . . . . . . . . . . . 18
+
+SECTION 2.5 Discontinuance or Modification of the Index . . . . . . . . . . . . . 19
+
+SECTION 2.6 Covenant of the Company . . . . . . . . . . . . . . . . . . . . . . . 20
+
+SECTION 2.7 Return of the Global Warrant Certificate . . . . . . . . . . . . . . 20
+
+SECTION 2.8 Return of Moneys Held Unclaimed for Two Years . . . . . . . . . . . . 20
+
+SECTION 2.9 Designation of Agent for Receipt of Notice . . . . . . . . . . . . . 21
+
+SECTION 2.10 Extraordinary Events and Exercise
+</TABLE>
+
+- - --------------------
+
+(1) The Table of Contents is not a part of the Index
+Warrant Agreement
+
+- i -
+<PAGE> 76
+<TABLE>
+<CAPTION>
+Page
+----
+<S> <C> <C>
+Limitation Events . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+ARTICLE III
+
+OTHER PROVISIONS RELATING TO
+RIGHTS OF WARRANTHOLDERS . . . . . . . . . . . . . . . . . . . . 24
+
+SECTION 3.1 Holders of Index Warrants May Enforce Rights . . . . . . . . . . . . 24
+
+SECTION 3.2 Consolidation, Merger or Other Disposition . . . . . . . . . . . . . 24
+
+ARTICLE IV
+
+CANCELLATION OF INDEX WARRANTS . . . . . . . . . . . . . . . . . . . 25
+
+SECTION 4.1 Cancellation of Index Warrants . . . . . . . . . . . . . . . . . . . 25
+
+SECTION 4.2 Treatment of Warrantholders . . . . . . . . . . . . . . . . . . . . . 25
+
+SECTION 4.3 Payment of Taxes . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+ARTICLE V
+
+CONCERNING THE INDEX WARRANT AGENT . . . . . . . . . . . . . . . . 26
+
+SECTION 5.1 Index Warrant Agent . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+SECTION 5.2 Conditions of Index Warrant Agent's Obligations . . . . . . . . . . . 26
+
+SECTION 5.3 Compliance With Applicable Laws . . . . . . . . . . . . . . . . . . . 28
+
+SECTION 5.4 Resignation and Appointment of Successor . . . . . . . . . . . . . . 29
+
+ARTICLE VI
+
+MISCELLANEOUS . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+
+SECTION 6.1 Modification, Supplementation or Amendment . . . . . . . . . . . . . 30
+
+SECTION 6.2 Notices and Demands to the Company and Index Warrant Agent . . . . . 31
+
+SECTION 6.3 Addresses for Notices . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+SECTION 6.4 Notices to Warrantholders . . . . . . . . . . . . . . . . . . . . . . 32
+
+SECTION 6.5 Governing Law . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
+SECTION 6.6 Obtaining of Governmental Approvals . . . . . . . . . . . . . . . . . 32
+</TABLE>
+
+- ii -
+<PAGE> 77
+<TABLE>
+<CAPTION>
+Page
+----
+<S> <C> <C>
+
+SECTION 6.7 Persons Having Rights Under the Index Warrant Agreement . . . . . . . 32
+
+SECTION 6.8 Headings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
+SECTION 6.9 Counterparts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
+SECTION 6.10 Inspection of Agreement . . . . . . . . . . . . . . . . . . . . . . . 32
+</TABLE>
+
+- iii -
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-8
+<SEQUENCE>3
+<DESCRIPTION>OPINION OF SIMPSON THACHER & BARTLETT
+<TEXT>
+<PAGE> 1
+
+EXHIBIT 8
+
+August 30, 1994
+
+Re: Lehman Brothers Holdings Inc.
+AMEX Hong Kong 30 Index Call Warrants
+
+Lehman Brothers Holdings Inc.
+3 World Financial Center
+New York, New York 10285
+
+Dear Sirs:
+
+We have acted as special counsel to Lehman Brothers Holdings Inc. (the
+"Company"), in connection with the issuance by the Company of 1,000,000 AMEX
+Hong Kong 30 Index Call Warrants Expiring February 26, 1994 (the "Warrants").
+
+We are of the opinion that the description of certain United States
+federal income tax consequences appearing under the heading "Certain United
+States Federal Income Tax Considerations" in the prospectus supplement relating
+to the Warrants dated August 23, 1994 (the "Prospectus Supplement") is accurate
+in all material respects.
+
+We hereby consent to the filing of this letter as an exhibit to the
+8-K filed with respect to the Warrants and to the use of our name in the
+section entitled "Certain United States Federal Income Tax Considerations" in
+the Prospectus Supplement.
+
+We are members of the Bar of the State of New York and we do not
+express any opinion herein concerning any law other than the law of the State
+of New York and the federal law of the United States.
+
+Very truly yours,
+
+SIMPSON THACHER &
+BARTLETT
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

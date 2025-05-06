@@ -1,0 +1,340 @@
+<IMS-DOCUMENT>0000950109-94-000117.txt : 19940207
+<IMS-HEADER>0000950109-94-000117.hdr.sgml : 19940207
+ACCESSION NUMBER:		0000950109-94-000117
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19940128
+ITEM INFORMATION:		7
+FILED AS OF DATE:		19940204
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BB&T FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000013839
+		STANDARD INDUSTRIAL CLASSIFICATION:	6022
+		IRS NUMBER:				561056232
+		STATE OF INCORPORATION:			NC
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	000-07871
+		FILM NUMBER:		94504425
+
+	BUSINESS ADDRESS:	
+		STREET 1:		223 W NASH ST
+		CITY:			WILSON
+		STATE:			NC
+		ZIP:			27893
+		BUSINESS PHONE:		9193994291
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRANCH CORP
+		DATE OF NAME CHANGE:	19880803
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<PAGE>
+
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 18, 1994
+
+BB&T FINANCIAL CORPORATION
+- --------------------------------------------------------------------------------
+(Exact name of registrant as specified in its charter)
+
+North Carolina 0-7871 56-1056232
+- ---------------------------- ------------ -------------------
+(State or other jurisdiction (Commission (I.R.S. employer
+of incorporation) file number) identification no.)
+
+223 West Nash Street, Wilson, North Carolina 27893
+- -------------------------------------------- ---------
+(Address of principal executive offices) (Zip code)
+
+Registrant's telephone number, including area code: (919)399-4291
+-------------
+
+Not Applicable
+- --------------------------------------------------------------------------------
+(Former name or former address, if changed since last report)
+
+Item 5. Other Events.
+
+On January 18, 1994 the Registrant and Scotland Savings Bank, S.S.B.
+agreed to terminate their Agreement and Plan of Reorganization dated 
+April 26, 1993 whereby Scotland Savings was to convert from mutual to 
+stock form and simultaneously be acquired by the Registrant.
+
+Item 7. Financial Statements, Pro Forma Financial Statements and Exhibits
+
+(c) Exhibits
+
+28.1 Unaudited interim financial statements of Asheville Savings Bank,
+SSB, and Subsidiary.
+
+99.1 Joint Press Release from BB&T Financial Corp. and Scotland Savings 
+Bank, S.S.B., dated January 18, 1994.
+
+<PAGE>
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+BB&T FINANCIAL CORPORATION
+
+DATE: February 4, 1994 BY: Scott E. Reed 
+---------------- -------------
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-28.1
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 28.1
+<TEXT>
+<PAGE>
+
+Exhibit 28.1
+
+ASHEVILLE SAVINGS BANK, SSB AND SUBSIDIARY
+Statements of Income
+(Unaudited)
+
+<TABLE> 
+<CAPTION> 
+Nine Months Ended September 30,
+-------------------------------
+1993 1992
+------ ------
+(in thousands)
+<S> <C> <C> 
+INTEREST INCOME:
+Interest on loans $15,800 $18,577
+Interest on investment and
+mortgage-banking securities 1,658 2,731
+------- -------
+Total interest income 17,458 21,308
+------- -------
+INTEREST EXPENSE:
+Interest on deposits 8,236 12,027
+Interest on borrowed funds 1,583 2,453
+------- -------
+Total interest expense 9,819 14,480
+------- -------
+NET INTEREST INCOME 7,639 6,828
+PROVISION FOR LOAN LOSSES 455 407
+------- -------
+
+NET INTEREST INCOME AFTER PROVISION
+FOR LOAN LOSSES 7,184 6,421
+
+NONINTEREST INCOME 1,873 3,154
+------- -------
+NONINTEREST EXPENSE:
+Personnel expense 3,696 3,361
+Occupancy 862 862
+Other 2,795 2,990
+------- -------
+Total noninterest expense 7,353 7,213
+
+Income before income taxes 1,704 2,362
+*Income taxes (208) 1,179
+------- -------
+Net Income $ 1,912 $ 1,183
+====== =======
+</TABLE> 
+
+* - Net of SFAs 109 Cumulative Effect Adjustment of $634.
+
+<PAGE>
+
+ASHEVILLE SAVINGS BANK, SSB AND SUBSIDIARIES
+BALANCE SHEET (000's) -- UNAUDITED
+
+<TABLE> 
+<CAPTION> 
+9-30-93
+---------
+<S> <C> 
+ASSETS
+Cash and Due from Banks (Including Interest-
+Bearing Deposits of $20,756) $29,470
+Investment and Mortgage-Backed Securities 33,685
+Loans 241,483
+Less Allowance for Loan Losses 1,762
+--------
+Net Loans 239,721
+Bank Premises and Equipment 6,366
+Accrued Interest Receivable 1,891
+Other Assets 11,339
+--------
+Total Assets $322,472
+========
+
+LIABILITIES AND RETAINED EARNINGS
+Deposits
+Non-interest Bearing $9,381
+Interest Bearing 265,352
+--------
+Total Deposits 274,733
+
+Advances from Federal Home Loan Bank 17,000
+Other Borrowed Funds 59
+Accrued Interest Payable 268
+Other Liabilities 5,088
+--------
+
+Total Liabilities 297,148
+
+Retained Earnings 25,324
+--------
+
+Total Liabilities and Retained Earnings $322,472
+========
+</TABLE> 
+
+<PAGE>
+
+ASHEVILLE SAVINGS BANK, SSB AND SUBSIDIARY
+Statement of Cash Flows
+(Unaudited)
+
+<TABLE> 
+<CAPTION> 
+Nine Months Ended September 30,
+-------------------------------
+1993 1992
+------ ------
+(in thousands)
+<S> <C> <C> 
+OPERATING ACTIVITIES:
+Net Income $ 1,912 $ 1,183
+Adjustment to reconcile net income to cash
+provided by (used in) operating activities
+Provision for loan losses and foreclosed 
+real estate 1,032 469
+Depreciation and amortization 440 440
+Gain on sale of loans, net (524) (669)
+Gain on sale of investment securities 460
+Increase in income taxes payable 162 
+Decrease in income taxes receivable 141 324
+Addition to deferred income 863 1,178
+Deferred income tax cumulative adjustment (634)
+Dividends on Federal Home Loan Bank stock (196) (218)
+(Increase) decrease in accrued interest 
+receivable 294 903 
+Increase (decrease) in accrued interest 
+payable 18 (7)
+Deferred income tax (benefit) (365) (120)
+Other 2,496 158 
+-------- --------
+Net Cash Provided by Operating Activities 5,639 4,101
+-------- --------
+
+Investing Activities:
+Loans originated or acquired (83,385) (85,754)
+Loan principal repayments 46,027 49,457
+Loans sold 46,762 49,182
+Proceeds from maturities of investment
+securities 8,041 13,997
+Purchase of investment securities (10,052) (10,036)
+Purchase of mortgage-backed securities 0 (5,394)
+Mortgage-backed securities principal
+repayments 2,620 1,587 
+Other (501) 665
+-------- --------
+Cash Provided by Investing Activities 9,512 13,704
+-------- --------
+
+FINANCING ACTIVITIES:
+Net decrease in deposits (7,783) (29,190)
+Decrease in borrowed funds (2,004) (5,004)
+Other 1,330 940
+-------- --------
+Cash Used in Financing Activities (8,457) (33,254)
+-------- --------
+
+Increase (decrease) in Cash and Cash 
+Equivalents 6,694 (15,449)
+
+Cash and Cash Equivalents -- January 1 22,776 49,931
+-------- --------
+Cash and Cash Equivalents -- September 30 $ 29,470 $34,482
+======== ========
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<PAGE>
+
+- --------------------------------------------------------------------------------
+[LETTERHEAD OF BB&T FINANCIAL CORPORATION APPEARS HERE]
+
+EXHIBIT 99.1
+
+BB&T FINANCIAL CORPORATION
+AND SCOTLAND SAVINGS BANK, S.S.B.
+ANNOUNCE TERMINATION OF PROPOSED CONVERSION MERGER
+
+William C. Fitzgerald III, President of Scotland Savings Bank, S.S.B. of 
+Laurinburg, North Carolina, and John A. Allison, Chairman of the Board and Chief
+Executive Officer of BB&T Financial Corporation in Wilson, North Carolina, 
+jointly announced today the termination of their agreement dated April 26, 1993 
+providing for the conversion of Scotland Savings from a mutual savings bank to a
+stock savings bank and its simultaneous acquisition by BB&T Financial 
+Corporation.
+
+The announcement follows a decision by the Scotland Savings Bank Board of 
+Directors to end the process that would lead to the conversion and merger.
+
+Mr. Allison said that while BB&T Financial Corporation would like Scotland 
+Savings Bank to be a part of the BB&T family, he respected the decision by their
+board.
+
+###
+
+- --------------------------------------------------------------------------------
+FOR IMMEDIATE 
+RELEASE 
+
+JANUARY 18, 1994 
+
+CONTACT:
+- -------- 
+
+B. Gloydan Stewart, Jr. 
+Senior Vice President
+Investor Relations
+919/399-4219
+
+Scott E. Reed
+Senior Executive Vice
+President & Treasurer
+919/399-4418
+
+William C. Fitzgerald III
+President & Chief Executive Officer
+Scotland Savings Bank, S.S.B.
+910/276-2703
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

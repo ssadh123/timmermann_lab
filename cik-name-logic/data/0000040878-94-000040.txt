@@ -1,0 +1,327 @@
+<IMS-DOCUMENT>0000040878-94-000040.txt : 19940224
+<IMS-HEADER>0000040878-94-000040.hdr.sgml : 19940224
+ACCESSION NUMBER:		0000040878-94-000040
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19931101
+ITEM INFORMATION:		2
+ITEM INFORMATION:		7
+FILED AS OF DATE:		19940223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GTE SOUTH INC
+		CENTRAL INDEX KEY:			0000040878
+		STANDARD INDUSTRIAL CLASSIFICATION:	4813
+		IRS NUMBER:				560656680
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	002-36292
+		FILM NUMBER:		94511984
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE TAMPA CITY CTR
+		CITY:			TAMPA
+		STATE:			FL
+		ZIP:			33602
+		BUSINESS PHONE:		8132244011
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GENERAL TELEPHONE CO OF THE SOUTH
+		DATE OF NAME CHANGE:	19880330
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GENERAL TELEPHONE CO OF THE SOUTHEAST
+		DATE OF NAME CHANGE:	19860401
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<TEXT>
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+AMENDED
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) November 1,
+1993
+. . . . . . .
+. . .
+
+GTE SOUTH INCORPORATED
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . .
+(Exact name of registrant as specified in its charter)
+
+Virginia 2-36292 56-
+0656680
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . .
+(State or other (Commission (IRS
+Employer
+jurisdiction of File Number)
+Identification No.)
+incorporation)
+
+One Tampa City Center, Tampa, Florida 33602
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . .
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code 813-224-
+4011
+. . . .
+. . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . .
+(Former name or former address, if changed since last
+report)
+GTE SOUTH INCORPORATED
+
+FORM 8-K
+
+ITEM OF INFORMATION
+
+Item 2. Acquisition or Disposition of Assets
+
+On November 1, 1993, GTE South Incorporated (the Company) in a
+series of transactions exchanged its telephone plant in service,
+materials and supplies and customers (representing 244,000 access
+lines) in the state of Georgia for similar assets (including
+38,000 access lines) in ALLTEL Corporation's (ALLTEL) Illinois
+operations and $446 million in cash (the ALLTEL transaction).
+This transaction was accounted for as a sale. The net sales
+proceeds exceeded the book value of assets and liabilities sold
+and therefore, a gain was recognized on the transaction.
+
+On December 31, 1993, the Company sold its telephone plant in
+service, materials and supplies and customers (representing
+123,000 access lines) in the states of West Virginia and
+Tennessee to Citizens Utilities Company for $291 million in cash
+(the Citizens transaction). This transaction was accounted for
+as a sale. The net sales proceeds exceeded book value and
+therefore, a gain was recognized on the transaction.
+
+The proceeds from these transactions were used to pay down $402
+million of debt and pay $281 million of dividends to GTE
+Corporation (GTE), the Company's parent. The remainder was
+advanced to GTE and will bear interest until repaid.
+
+Item 7 includes the (unaudited) Pro Forma Condensed Consolidated
+Balance Sheet as of September 30, 1993 and Statement of Income
+for the nine-month period ended September 30, 1993 and the Pro
+Forma Condensed Consolidated Statement of Income for the year
+ended December 31, 1992. The income statements show the pro
+forma effects of the ALLTEL and Citizens transactions as if the
+transactions had taken place as of the beginning of the period.
+The balance sheet shows the pro forma effects as if the
+transactions took place at the balance sheet date.
+
+To disclose the sale of significant assets, GTE South filed a
+Form 8-K on January 13, 1994. At that time, the specific use of
+the proceeds was not determined so the proceeds were shown as an
+increase in cash. The Company has now determined the use of
+proceeds for these transactions and has reflected them in these
+pro forma financial statements.
+<TABLE>
+Item 7. Financial Statements and Exhibits
+PRO FORMA CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+ASSETS
+
+As of September 30, 1993
+(Thousands of Dollars)
+<CAPTION>
+
+ADJUSTMENTS
+GTE ALLTEL CITIZENS
+SOUTH TRANSACTION TRANSACTION PRO FORMA
+
+CURRENT ASSETS:
+<S> <C> <C> <C> <C>
+Cash $ 7,004 $ -- $ -- $ 7,004
+
+Note receivable from GTE
+Corporation -- 53,442 -- 53,442
+
+Receivables, net 196,967 -- -- 196,967
+
+Materials and supplies,
+at average cost 34,967 (5,090) (2,331) 27,546
+
+Property held for sale 630,037 (409,767) (220,270) --
+
+Prepayments and other 7,896 -- -- 7,896
+
+Total current assets 876,871 (361,415) (222,601) 292,855
+
+NET PROPERTY, PLANT
+AND EQUIPMENT 1,399,837 70,970 -- 1,470,807
+
+OTHER ASSETS 67,331 (1,600) (3,966) 61,765
+
+TOTAL ASSETS $ 2,344,039 $(292,045) $(226,567) $ 1,825,427
+</TABLE>
+<TABLE>
+PRO FORMA CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+LIABILITIES AND SHAREHOLDERS' EQUITY
+
+As of September 30, 1993
+(Thousands of Dollars)
+<CAPTION>
+ADJUSTMENTS
+GTE ALLTEL CITIZENS
+SOUTH TRANSACTION TRANSACTION PRO FORMA
+<S> <C> <C> <C> <C>
+CURRENT LIABILITIES:
+Short-term debt, including
+current maturities $ 7,974 $ (7,870) $ (104) $ --
+Long-term debt to be retired 102,900 (102,900) -- -
+- -
+Accounts payable 72,867 -- -- 72,867
+Accrued taxes 164,785 22,045 15,068 201,898
+Accrued payroll and
+vacations 28,648 -- -- 28,648
+Accrued dividends 21,358 -- -- 21,358
+Accrued interest 16,245 -- -- 16,245
+Other 45,182 -- -- 45,182
+Total current liabilities 459,959 (88,725) 14,964
+386,198
+LONG-TERM DEBT 656,799 -- (278,413) 378,386
+DEFERRED CREDITS, primarily
+deferred income taxes and
+investment tax credits 284,152 70,284 18,279 372,715
+PREFERRED STOCK, subject to
+mandatory redemption 3,225 -- -- 3,225
+SHAREHOLDERS' EQUITY:
+Preferred stock 412 -- -- 412
+Common stock 473,400 -- -- 473,400
+Other capital 1,187 -- -- 1,187
+Reinvested earnings 464,905 (273,604)(a) 18,603(b) 209,904
+Total shareholders' equity 939,904 (273,604) 18,603
+684,903
+TOTAL LIABILITIES AND
+SHAREHOLDERS' EQUITY $ 2,344,039 $(292,045) $(226,567) $ 1,825,427
+<FN>
+
+(a) Represents a dividend payment of $281,000 made to GTE Corporation from the
+proceeds
+received net of the after-tax gain of $7,396 recognized on the transaction.
+(b) Represents the after-tax gain recognized on the transaction.
+</TABLE>
+
+<TABLE>
+PRO FORMA CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+PRO FORMA CONSOLIDATED STATEMENTS OF INCOME
+Nine Months Ended September 30, 1993
+(Thousands of Dollars)
+<CAPTION>
+
+ADJUSTMENTS
+GTE ALLTEL CITIZENS
+SOUTH TRANSACTION TRANSACTION PRO FORMA
+<S> <C> <C> <C> <C>
+Operating revenues:
+Local network services $ 291,043 $ (47,857) $ (30,189) $ 212,997
+Network access services 301,186 (59,054) (30,093) 212,039
+Long distance services 23,659 -- (9,859) 13,800
+Equipment sales and services 54,081 (6,680) (4,275)
+43,126
+Other 62,516 (5,786) (1,674) 55,056
+732,485 (119,377) (76,090) 537,018
+
+Operating expenses:
+Cost of sales and services 155,384 (26,219) (15,551)
+113,614
+Depreciation and
+amortization 159,364 (28,910) (17,444) 113,010
+Marketing, selling, general
+and administrative 230,480 (33,793) (23,776) 172,911
+545,228 (88,922) (56,771) 399,535
+
+Net operating income 187,257 (30,455) (19,319) 137,483
+
+Other (income) deductions:
+Interest expense 52,208 (7,084) (18,528) 26,596
+Other income-net 211 4,022 81 4,314
+
+Income before income taxes 134,838 (27,393) (872) 106,573
+
+Income taxes 56,728 (8,513) (376) 47,839
+
+Net income $ 78,110 $ (18,880) $ (496) $ 58,734
+</TABLE>
+
+<TABLE>
+PRO FORMA CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+PRO FORMA CONSOLIDATED STATEMENTS OF INCOME
+Year Ended December 31, 1992
+(Thousands of Dollars)
+<CAPTION>
+
+ADJUSTMENTS
+GTE ALLTEL CITIZENS
+SOUTH TRANSACTION TRANSACTION PRO FORMA
+<S> <C> <C> <C> <C>
+Operating revenues:
+Local network services $ 371,535 $ (60,377) $ (39,559) $ 271,599
+Network access services 412,604 (78,128) (42,129) 292,347
+Long distance services 47,947 -- (11,765) 36,182
+Equipment sales and services 79,431 (7,997) (4,824) 66,610
+Other 63,451 (7,709) (2,071) 53,671
+974,968 (154,211) (100,348) 720,409
+
+Operating expenses:
+Cost of sales and services 204,825 (32,565) (25,367) 146,893
+Depreciation and
+amortization 206,905 (38,863) (19,617) 148,425
+Marketing, selling, general
+and administrative 278,666 (43,124) (29,405) 206,137
+690,396 (114,552) (74,389) 501,455
+
+Net operating income 284,572 (39,659) (25,959) 218,954
+
+Other (income) deductions:
+Interest expense 67,778 (10,541) (24,703) 32,534
+Other income-net (1,711) 3,630 254 2,173
+
+Income before income taxes 218,505 (32,748) (1,510) 184,247
+
+Income taxes 81,251 (12,359) (577) 68,315
+
+Net income $ 137,254 $ (20,389) $ (933) $ 115,932
+</TABLE>
+
+[TEXT]
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned thereunto duly authorized.
+
+GTE SOUTH INCORPORATED
+(Registrant)
+
+Date: February 23, 1994 WILLIAM M.
+EDWARDS, III
+WILLIAM M.
+EDWARDS, III
+Controller
+(Chief Accounting
+Officer)
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>

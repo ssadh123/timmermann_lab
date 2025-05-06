@@ -1,0 +1,299 @@
+<IMS-DOCUMENT>0000743653-94-000017.txt : 19941013
+<IMS-HEADER>0000743653-94-000017.hdr.sgml : 19941013
+ACCESSION NUMBER:		0000743653-94-000017
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19941011
+ITEM INFORMATION:		Other events
+FILED AS OF DATE:		19941012
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONVEX COMPUTER CORP
+		CENTRAL INDEX KEY:			0000743653
+		STANDARD INDUSTRIAL CLASSIFICATION:	3571
+		IRS NUMBER:				751838006
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10386
+		FILM NUMBER:		94552365
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3000 WATERVIEW PKWY
+		CITY:			RICHARDSON
+		STATE:			TX
+		ZIP:			75080
+		BUSINESS PHONE:		2144974000
+
+	MAIL ADDRESS:	
+		STREET 1:		3000 WATERVIEW PKWY
+		STREET 2:		P.O. BOX 833851
+		CITY:			RICHARDSON
+		STATE:			TX
+		ZIP:			75083-3851
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<TEXT>
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange 
+Act of 1934
+
+Date of Report: October 11, 1994
+
+CONVEX COMPUTER CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 1-10386 75-1838006
+
+(State or other (Commission (I.R.S. Employer
+jurisdiction of File Number) Identification
+incorporation or Number)
+organization) 
+
+3000 Waterview Parkway
+Richardson, Texas 75080
+(address of principal executive offices) (zip code) 
+
+Registrant's telephone number, including area code: (214) 497-4000
+
+Item 5. Other Events
+
+On October 3, 1994, Convex Computer Corporation (the Company)
+and the Hewlett-Packard Company (HP) announced an
+agreement under which HP will become a value-added
+reseller of the Company's Exemplar SPP systems. HP will
+resell the Company's Exemplar SPP systems through its
+worldwide sales force. It is expected that initial sales of
+the Exemplar SPP systems to HP for resale to end-users will
+be made during calendar year 1995. Implementation of the agreement
+between the Company and HP is subject to definition of final
+manufacturing and product quality assurance procedures for the 
+Exemplar SPP and documentation of various support agreements
+covering the Exemplar SPP systems.
+
+A copy of the above-mentioned press release is attached as an
+exhibit to this report. 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act
+of 1934, the registrant has duly caused this report to be
+signed on its behalf by the undersigned hereunto duly
+authorized.
+
+CONVEX COMPUTER CORPORATION
+
+J. CAMERON MCMARTIN
+_________________________
+J. Cameron McMartin
+Vice President, Finance and
+Chief Financial Officer
+
+Date: October 11, 1994
+
+EXHIBIT 1
+
+NEWS HEWLETT
+PACKARD
+
+Public Relations Department
+3000 Hanover Street
+Palo Alto, California 94304
+
+EDITORIAL CONTACTS: PRCSJ600435
+
+Tim Hurley Kathy Sowards
+Copithorne & Bellows for HP Convex
+508/436-5042 214/497-4230
+
+HP ANNOUNCES AGREEMENT WITH CONVEX COMPUTER CORP.
+
+TO RESELL CONVEX'S PA-RISC-BASED EXEMPLAR PARALLEL SYSTEMS
+
+HP Bolsters High-performance Computing Solutions,
+Brings Scalable, Parallel Servers to PA-RISC Family
+
+PALO ALTO, Calif., Oct. 3, 1994 -- Hewlett-Packard
+Company and Convex Computer Corp. (NYSE: CNX) today announced
+a strategic worldwide agreement under which HP will become a
+value-added reseller (VAR) of Convex's Exemplar SPP (Scalable
+Parallel Processor) systems and will resell the product 
+family through its worldwide sales force. As a result of the
+announcement, HP now offers the industry's broadest range of
+compatible systems, ranging from desktop workstations to
+supercomputer-class, scalable parallel servers.
+
+The Exemplar system, the world's first multipurpose
+parallel server, is based on HP's industry-leading PA-RISC
+technology. Exemplar systems provide HP customers with a
+natural migration path to high-performance computing
+solutions for customers in computational chemistry,
+electronic design automation, fluid dynamics and mechanical-
+engineering analysis.
+
+Exemplar systems allow advanced users to run thousands
+of applications on a scalable hardware and software design
+that expands from servers to the most powerful
+supercomputers, with price-performance that leverages HP's
+cost-effective advanced computing technologies.
+
+"The addition of Convex's Exemplar Series to the
+PA-RISC-based HP 9000 product family gives HP a natural
+extension at the high end of its product line that allows our
+customers to solve complex, supercomputing-class problems,"
+said Karl Fruend, marketing manager for HP's Workstation
+Systems Division. "Now our customers have direct access to
+scalable, open-architecture systems that not only offer
+significant price/performance advantages over high-cost
+massively parallel processing (MPP) systems, but also deliver the
+functionality and application availability of RISC
+workstations. For technical users, this is an unbeatable
+combination that will complement their existing workstation
+and server environments."
+
+"Our agreement with HP fortifies Convex's sales and
+marketing strategy for Exemplar, expands our successful
+relationship with HP and offers new opportunities for
+Exemplar sales," said William Bock, senior vice president,
+worldwide sales for Convex. "Exemplar has been well received
+by our customers in key market areas, such as oil-and-gas
+exploration, aerospace and defense and education. HP has
+successfully sold its Series 700 workstations into these
+markets, and we are confident that this agreement will help
+expand Exemplar's market penetration.
+
+"The Exemplar parallel processing systems from HP and
+Convex will enable us to reduce product-development time and
+cost while improving quality," said Dr. Howard Crabb, manager
+of computer-aided engineering at Ford's Alpha Simultaneous
+Engineering. "We are looking forward to working with Convex
+and HP as we move forward in implementing a new technology
+platform for automotive-design research."
+
+Today's announcement strengthens the business and
+technology alliance between HP and Convex that began in 1992. 
+In October 1992, the companies announced cluster-computing
+solutions based on the HP 9000 workstations running
+specialized Convex cluster software and Convex's Meta Series,
+a system that integrated Convex supercomputers and HP
+workstations. In May 1993, HP announced it would license to
+Convex its UNIX system-based HP-UX operating systems and
+related software technologies, and Convex will license to HP
+current and future software technologies.
+
+The Exemplar Family
+
+The Exemplar family includes two models: the SPP1000/CD
+(Compact Design) workgroup server, configured with two to 16
+processors for up to 3.2 GFLOPS of peak performance, and the
+SPP1000/XA (eXtended Architecture) scalable system with
+between eight and 128 processors for over 25.6 GFLOPS of peak
+performance.
+
+The processing engine behind the SPP1000 is the widely
+accepted PA-7100 microprocessor from HP. Each processor
+operates at 100 MHz and offers 200 MFLOPS of peak
+performance. The Exemplar family's implementation of the
+PA-7100 includes an expanded primary cache of 2MB (1MB data
+and 1MB instruction) to further increase performance.
+
+Broad High-performance Application Portfolio
+
+Exemplar systems easily surpass the productivity level
+of traditional MPP systems through access to the broadest
+range of software applications for high-performance 
+computing. By offering binary compatibility with the HP-UX
+operating system, Exemplar users have access to the more than
+8,000 applications available on HP workstations and servers.
+
+HP and Convex can deliver jointly the broadest spectrum
+of application availability to meet user requirements in
+these performance-critical markets. Through source and
+library compatibility with Convex C Series and traditional
+MPPs, Exemplar SPP users have access to hundreds of 
+parallelized scientific and technical applications. Exemplar
+is ideally suited for customers in industries such as
+aerospace and defense, automotive and oil-and-gas
+exploration.
+
+U.S. Prices and Availability
+
+The Exemplar Series servers are expected to be available
+from HP during the first quarter of 1995. Prices for the
+SPP1000/CD range from $145,000 to $750,000. Exemplar 
+SPP1000/XA systems are priced from $550,000 to $8 million.
+
+The HP 9000 workstation family consists of desktop and
+deskside workstations and computational clusters serving
+customers in both business and technical markets. HP 9000
+servers, based on HP's industry-leading HP-UX operating
+system and PA-RISC technology, provide the high-performance
+and systems-management capabilities required by data-center
+environments, as well as the flexibility and performance
+necessary for client/server implementations.
+
+Convex Computer Corporation (NYSE:CNX) is a leading
+supplier of affordable, high-performance computing
+technologies. The company markets its products primarily to
+scientific, engineering and technical users for a wide
+variety of applications including data management. Convex
+has sold more than 1,200 systems to over 600 customers in 48
+countries. The systems are sold and serviced through direct
+sales and an extensive distribution network.
+
+HP has been delivering PA-RISC-based computers since
+1986 with high reliability, data integrity, data availability
+and system availability. PA-RISC is being advanced by the
+Precision RISC Organization (PRO), an association of
+industry-leading companies that is broadening the use of
+PA-RISC technology and delivering its benefits to more
+customers worldwide. A partial list of PRO members includes
+Allegro Consulting, CS Defense, Convex, HP, Hitachi, Ltd.,
+Hughes Aircraft Co., Information Builders, Inc., Mitsubishi
+Electric Corp., Oki Electric Industry Co., Oracle Corp.,
+Samsung Electronics Co., Stratus Computer, Inc., Winbond
+Electronics Corp. and Yokogawa Electric Corp.
+
+HP is the leading supplier of RISC-based computers, with
+34 percent of worldwide revenues. HP is the second-largest
+computer supplier in the United States with computer-related
+revenue of $15.6 billion in its 1993 fiscal year.
+
+Hewlett-Packard Company is an international manufacturer
+of measurement and computation products and systems 
+recognized for excellence in quality and support. The
+company's products and services are used in industry, 
+business, engineering, science, medicine and education in
+approximately 100 countries. HP has 97,900 employees and had
+revenue of $20.3 billion in its 1993 fiscal year.
+
+HP-UX is based on and is compatible with Novell's UNIX 
+operating system. It also complies with X/Open's XPG4, POSIX
+1003.1, 1003.2, FIPS 151-1 and SVID2 interface
+specifications.
+
+UNIX is a registered trademark in the United States and other
+countries, licensed exclusively through X/Open Company
+Limited.
+
+X/Open is a trademark of X/Open Company Limited in the UK and
+other countries.
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
