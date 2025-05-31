@@ -1,0 +1,1429 @@
+<SEC-DOCUMENT>0001829126-25-002184.txt : 20250331
+<SEC-HEADER>0001829126-25-002184.hdr.sgml : 20250331
+<ACCEPTANCE-DATETIME>20250331092522
+ACCESSION NUMBER:		0001829126-25-002184
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		18
+CONFORMED PERIOD OF REPORT:	20250331
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250331
+DATE AS OF CHANGE:		20250331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CXApp Inc.
+		CENTRAL INDEX KEY:			0001820875
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				852104918
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39642
+		FILM NUMBER:		25789291
+
+	BUSINESS ADDRESS:	
+		STREET 1:		FOUR PALO ALTO SQUARE, SUITE 200
+		STREET 2:		3000 EL CAMINO REAL
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94306
+		BUSINESS PHONE:		(650) 999-4009
+
+	MAIL ADDRESS:	
+		STREET 1:		FOUR PALO ALTO SQUARE, SUITE 200
+		STREET 2:		3000 EL CAMINO REAL
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94306
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KINS Technology Group, Inc.
+		DATE OF NAME CHANGE:	20200812
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>cxapp_8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+false000182087500018208752025-03-312025-03-310001820875cxai:CommonStockParValue0.0001PerShareMember2025-03-312025-03-310001820875cxai:WarrantsToPurchaseCommonStockMember2025-03-312025-03-31iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+March 31, 2025
+
+CXApp Inc.
+
+(Exact name of Registrant
+as Specified in Its Charter)
+
+Delaware 001-39642 85-2104918
+
+(State or Other Jurisdiction
+
+of Incorporation) 
+
+(Commission
+
+File Number) 
+
+(IRS Employer
+
+Identification No.)
+
+Four Palo Alto Square, Suite 200
+
+3000 El Camino Real
+
+Palo Alto, CA 94306
+
+(Address of Principal Executive Offices) (Zip Code)
+
+Registrants Telephone Number, Including Area Code: (650)575-4456
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Common Stock, $0.0001 par value per share CXAI The Nasdaq Stock Market LLC
+
+Warrants to purchase common stock CXAIW The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 5.02 Departure of Directors or
+Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. 
+
+On
+March 31, 2025, CXApp Inc. (the Company) issued a press release announcing the appointment of Terry Blanchard as Senior
+Vice President of Engineering. Mr. Blanchard, who will report directly to Chairman and Chief Executive Officer Khurram Sheikh, will
+be leading the Companys global engineering organization and the development of next-generation AI technologies. With over 30 years
+of engineering leadership experience at companies including Apple, WhatsApp (Meta), Microsoft, and NVIDIA, Mr. Blanchards
+expertise in software architecture, AI, machine learning, cloud infrastructure, and product usability is expected to significantly advance
+the Companys product roadmap and technical strategy.
+
+A
+copy of the related press release is attached as Exhibit 99.1 to this Current Report on Form 8-K. The information in this Item 5.02
+of this Current Report on Form 8-K, including the press release attached hereto as Exhibit 99.1, is being furnished pursuant
+to Item 5.02 and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934,
+as amended, or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference into any filing
+under the Securities Act of 1933, as amended, except as expressly set forth in such filing.
+
+Item 7.01 Regulation FD Disclosure.
+
+On
+March 31, 2025, the Company issued a press release announcing that its Fourth Quarter 2024 and Annual 2024 Financial Results and
+Business Update Conference Call has been rescheduled to Thursday, April 3, 2025, at 1:00 p.m. Pacific Time. During the call,
+the Company will discuss its financial results for the fourth quarter of 2024 (ended December 31, 2024) and the full year 2024,
+as well as provide an update on the progress of its AI-native CXAI Platform. The call will be led by Chairman and Chief Executive Officer,
+Khurram Sheikh, and Chief Financial Officer, Joy Mbanugo, and will be accessible via telephone and webcast.
+
+A
+copy of the press release is attached as Exhibit 99.2 to this Current Report on Form 8-K. The information in this Item 7.01
+of this Current Report on Form 8-K, including the press release attached hereto as Exhibit 99.2, is being furnished pursuant
+to Item 7.01 and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934,
+as amended, or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference into any filing
+under the Securities Act of 1933, as amended, except as expressly set forth in such filing.
+
+Forward-Looking
+Statements
+
+This
+report includes forward-looking statements within the meaning of the safe harbor provisions of the Private
+Securities Litigation Reform Act of 1995. The expectations, estimates, and projections of the Company may differ from its actual results
+and consequently, you should not rely on these forward-looking statements as predictions of future events. Words such as expect,
+estimate, project, budget, forecast, anticipate, intend,
+plan, may, will, could, should, believes, predicts,
+potential, continue, or the negative or other variations thereof and similar expressions are intended to
+identify such forward looking statements. These forward-looking statements include, without limitation, expectations with respect to
+future performance of the Company, including projected financial information (which is not audited or reviewed by the Companys
+auditors), and the future plans, operations and opportunities for the Company and other statements that are not historical facts. These
+statements are based on the current expectations of the Companys management and are not predictions of actual performance. These
+forward-looking statements involve significant risks and uncertainties that could cause the actual results to differ materially from
+the expected results. Factors that may cause such differences include, but are not limited to: the impact of the COVID-19 pandemic on
+our business, operations, results of operations and financial condition, including liquidity for the foreseeable future; the demand for
+the Companys services together with the possibility that the Company may be adversely affected by other economic, business, and/or
+competitive factors or changes in the business environment in which the Company operates; changes in consumer preferences or the market
+for the Companys services; changes in applicable laws or regulations; the availability or competition for opportunities for expansion
+of the Companys business; difficulties of managing growth profitably; the loss of one or more members of the Companys management
+team; loss of a major customer and other risks and uncertainties included from time to time in the Companys reports (including
+all amendments to those reports) filed with the SEC. The Company cautions that the foregoing list of factors is not exclusive. You should
+not place undue reliance upon any forward-looking statements, which speak only as of the date made. The Company does not undertake or
+accept any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements to reflect any change
+in its expectations or any change in events, conditions, or circumstances on which any such statement is based, except as required by
+law. These forward-looking statements should not be relied upon as representing the Companys assessments as of any date subsequent
+to the date of this communication.
+
+1 
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No. Description
+
+99.1 Press Release, dated March 31, 2025
+
+99.2 Press Release, dated March 31, 2025
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+2 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CXApp Inc.
+
+Date: March 31, 2025 By: /s/
+Khurram P. Sheikh
+
+Name: Khurram P. Sheikh
+
+Title: Chariman and Chief Executive
+Officer
+
+3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>cxapp_ex99-1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+Exhibit 99.1
+
+CXApp
+Inc.
+
+CXApp Inc. (Nasdaq: CXAI) Announces the Appointment of Terry Blanchard as Senior Vice President of Engineering
+
+Experienced Software Leader ex-Apple, WhatsApp and NVIDIA to lead CXAI development efforts
+
+PALO ALTO, CA / March 31st, 2025 / CXApp Inc. (Nasdaq: CXAI), the global technology leader in employee workplace experiences announced the appointment
+of Terry Blanchard as Senior Vice President of Engineering, reporting to Chairman and CEO Khurram Sheikh. Mr. Blanchard will lead CXAIs global engineering organization and spearhead the development of next-generation
+AI technologies that transform how employees engage with their workplace. Terry brings over 30 years of engineering leadership experience to CXAI, having previously served in senior engineering positions at prestigious companies such as Apple, WhatsApp(Meta), Microsoft, and NVIDIA.
+
+Terrys expertise in software architecture, AI, machine learning, cloud infrastructure, and making extremely usable products that people love, will be instrumental in accelerating CXAIs product roadmap and technical strategy.
+
+I am excited to join CXAI at such a pivotal time in the companys growth journey, said Mr. Blanchard. CXAI has built an impressive portfolio of employee experience solutions, and I look forward to working with this talented team to push
+the boundaries of whats possible in this space. Together, well create technologies that deliver measurable business value while setting new standards
+for employee and workplace engagement.
+
+Mr. Blanchard will oversee all aspects of CXAIs engineering and development efforts, including software development, AI research, platform and technical architecture, and technical infrastructure. Terry will work closely with the executive team to align engineering initiatives with CXAIs strategic business objectives.
+
+On behalf of the entire team at CXAI, we are thrilled to welcome Terry Blanchard as our Senior Vice President of Engineering, said Khurram Sheikh, Founder, Chairman & CEO of CXAI. Terrys extensive experience in developing and deploying state-of-the-art application technologies and natural passion
+for scaling amazing experiences at some of the most iconic brands in the technology
+industry makes him a natural fit for CXAI. I look forward to working with Terry in
+building the best in class Agentic AI solutions for transformational employee experiences.
+
+About CXApp Inc.
+
+CXApp Inc., is the global technology leader in employee workplace experiences. The Company
+is headquartered in the SF Bay Area and operates the CXAI SaaS platform that is anchored
+on the intersection of customer experience (CX) and artificial intelligence (AI) providing
+digital transformation for the workplace for enhanced experiences across people, places
+and things.
+
+CXApps customers include major Fortune 1000 Global Companies in the technology, financial
+services, consumer, healthcare, and media entertainment verticals.
+
+www.cxapp.com
+
+CXApp Inc.: marketing@cxapp.com
+
+2
+
+Forward-Looking Statements
+
+This press release includes forward-looking statements within the meaning of the
+safe harbor provisions of the Private Securities Litigation Reform Act of 1995.
+The expectations, estimates, and projections of the Company may differ from its actual
+results and consequently, you should not rely on these forward-looking statements
+as predictions of future events. Words such as expect, estimate, project, budget, forecast,
+anticipate, intend, plan, may, will, could, should, believes, predicts,
+potential, continue, or the negative or other variations thereof and similar expressions
+are intended to identify such forward looking statements. These forward-looking statements
+include, without limitation, expectations with respect to future performance of the
+Company, including projected financial information (which is not audited or reviewed
+by the Companys auditors), and the future plans, operations and opportunities for the Company and
+other statements that are not historical facts. These statements are based on the
+current expectations of the Companys management and are not predictions of actual performance. These forward-looking
+statements involve significant risks and uncertainties that could cause the actual
+results to differ materially from the expected results. Factors that may cause such
+differences include, but are not limited to: the impact of the COVID-19 pandemic on
+our business, operations, results of operations and financial condition, including
+liquidity for the foreseeable future; the demand for the Companys services together with the possibility that the Company may be adversely affected
+by other economic, business, and/or competitive factors or changes in the business
+environment in which the Company operates; changes in consumer preferences or the
+market for the Companys services; changes in applicable laws or regulations; the availability or competition
+for opportunities for expansion of the Companys business; difficulties of managing growth profitably; the loss of one or more members
+of the Companys management team; loss of a major customer and other risks and uncertainties included
+from time to time in the Companys reports (including all amendments to those reports) filed with the SEC. The Company
+cautions that the foregoing list of factors is not exclusive. You should not place
+undue reliance upon any forward-looking statements, which speak only as of the date
+made. The Company does not undertake or accept any obligation or undertaking to release
+publicly any updates or revisions to any forward-looking statements to reflect any
+change in its expectations or any change in events, conditions, or circumstances on
+which any such statement is based, except as required by law. These forward-looking
+statements should not be relied upon as representing the Companys assessments as of any date subsequent to the date of this communication.
+
+SOURCE: CXApp Inc.
+
+Topic: Management Changes
+
+3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>cxapp_ex99-2.htm
+<DESCRIPTION>EXHIBIT 99.2
+<TEXT>
+Exhibit 99.2
+
+CXApp
+Inc.
+
+CXApp Inc. (Nasdaq: CXAI) Reschedules Fourth Quarter 2024 and Annual 2024 Financial Results and Business Update Conference
+Call
+
+CXAI shaping the future of work by enabling enhanced employee experiences using artificial
+intelligence
+
+Palo Alto, CA / March 31, 2025 / CXApp Inc. (Nasdaq: CXAI), the global technology leader in employee workplace experiences, announced that its
+earnings call originally scheduled for today has been rescheduled to Thursday, April 3, 2025, at 1:00 p.m. Pacific Time. During the call, the Company will discuss its financial
+results for the fourth quarter of 2024, ended December 31, 2024, as well as the full year ended 2024. The discussion will be led by Chairman and CEO, Khurram Sheikh, and CFO, Joy Mbanugo, and will include an update on the progress of the state-of-the-art AI-native CXAI
+Platform.
+
+The conference call will be available via telephone by dialing toll-free 888-506-0062
+for U.S. callers or 973-528-0011 for international callers; the participant access
+code is 935268.
+
+A webcast of the call may be accessed at https://www.webcaster4.com/Webcast/Page/2989/52237
+or on the companys website www.cxapp.com.
+
+Investors and other interested parties are invited to register and submit questions
+to management prior to the conference call start at https://www.webcaster4.com/Webcast/Page/2989/52237.
+
+A webcast replay will be available on the Companys website www.cxapp.com, through April 3, 2026. A telephone replay of the call will be available approximately one hour following
+the call, through April 17, 2025, and can be accessed by dialing 877-481-4010 for U.S. callers or 919-882-2331
+for international callers and entering access code52237.
+
+About CXApp Inc
+
+CXApp Inc., is the global technology leader in employee workplace experiences. The Company is headquartered in the SF Bay Area and operates the CXAI SaaS platform that is anchored on the intersection of customer experience (CX) and artificial intelligence
+(AI) providing digital transformation for the workplace for enhanced experiences across
+people, places and things.
+
+CXApps customers include major Fortune 500 Global Companies in the technology, financial services, consumer, healthcare, and media entertainment verticals.
+
+www.cxapp.com
+
+CXApp Inc.: marketing@cxapp.com
+
+2
+
+Forward-Looking Statements
+
+This press release includes forward-looking statements within the meaning of the
+safe harbor provisions of the Private Securities Litigation Reform Act of 1995.
+The expectations, estimates, and projections of the Company may differ from its actual
+results and consequently, you should not rely on these forward-looking statements
+as predictions of future events. Words such as expect, estimate, project, budget,
+forecast, anticipate, intend, plan, may, will, could, should, believes,
+predicts, potential, continue, or the negative or other variations thereof and
+similar expressions are intended to identify such forward looking statements. These
+forward-looking statements include, without limitation, expectations with respect
+to future performance of the Company, including projected financial information (which
+is not audited or reviewed by the Companys auditors), and the future plans, operations and opportunities for the Company and
+other statements that are not historical facts. These statements are based on the current expectations of the Companys management and are not predictions of actual performance. These forward-looking
+statements involve significant risks and uncertainties that could cause the actual
+results to differ materially from the expected results. Factors that may cause such
+differences include, but are not limited to: the impact of the COVID-19 pandemic on
+our business, operations, results of operations and financial condition, including
+liquidity for the foreseeable future; the demand for the Companys services together with the possibility that the Company may be adversely affected
+by other economic, business, and/or competitive factors or changes in the business
+environment in which the Company operates; changes in consumer preferences or the
+market for the Companys services; changes in applicable laws or regulations; the availability or competition
+for opportunities for expansion of the Companys business; difficulties of managing growth profitably; the loss of one or more members
+of the Companys management team; loss of a major customer and other risks and uncertainties included
+from time to time in the Companys reports (including all amendments to those reports) filed with the SEC. The Company
+cautions that the foregoing list of factors is not exclusive. You should not place
+undue reliance upon any forward-looking statements, which speak only as of the date
+made. The Company does not undertake or accept any obligation or undertaking to release
+publicly any updates or revisions to any forward-looking statements to reflect any
+change in its expectations or any change in events, conditions, or circumstances on
+which any such statement is based, except as required by law. These forward-looking
+statements should not be relied upon as representing the Companys assessments as of any date subsequent to the date of this communication.
+
+SOURCE: CXApp Inc.
+
+Topic: Earnings
+
+3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>ex99-1_001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>ex99-2_001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>6
+<FILENAME>cxai-20250331.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>7
+<FILENAME>cxai-20250331_def.xml
+<DESCRIPTION>XBRL DEFINITION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>8
+<FILENAME>cxai-20250331_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Class of Stock [Axis] 
+
+Common Stock, par value $0.0001 per share 
+
+Warrants to purchase common stock 
+
+Statement [Table] 
+
+Statement [Line Items] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>9
+<FILENAME>cxai-20250331_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Cover
+
+Mar. 31, 2025
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Mar. 31, 2025
+
+Entity File Number 001-39642
+
+Entity Registrant Name CXApp Inc.
+
+Entity Central Index Key 0001820875
+
+Entity Tax Identification Number 85-2104918
+
+Entity Incorporation, State or Country Code DE
+
+Entity Address, Address Line One Four Palo Alto Square
+
+Entity Address, Address Line Two Suite 200
+
+Entity Address, Address Line Three 3000 El Camino Real
+
+Entity Address, City or Town Palo Alto
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 94306
+
+City Area Code (650)
+
+Local Phone Number 575-4456
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company true
+
+Elected Not To Use the Extended Transition Period false
+
+Common Stock, par value $0.0001 per share 
+
+Title of 12(b) Security Common Stock, $0.0001 par value per share
+
+Trading Symbol CXAI
+
+Security Exchange Name NASDAQ
+
+Warrants to purchase common stock 
+
+Title of 12(b) Security Warrants to purchase common stock
+
+Trading Symbol CXAIW
+
+Security Exchange Name NASDAQ
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 3 such as an Office Park+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine3
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 7A
+
+-Section B
+
+-Subsection 2
+
++ Details
+
+Name: dei_EntityExTransitionPeriod
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=cxai_CommonStockParValue0.0001PerShareMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=cxai_WarrantsToPurchaseCommonStockMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>12
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+3 
+25 
+1 
+false 
+2 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://cxai/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+cxai-20250331.xsd 
+cxai-20250331_def.xml 
+cxai-20250331_lab.xml 
+cxai-20250331_pre.xml 
+cxapp_8k.htm 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>18
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>19
+<FILENAME>0001829126-25-002184-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>20
+<FILENAME>cxapp_8k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001820875 
+
+2025-03-31 
+2025-03-31 
+
+0001820875 
+
+cxai:CommonStockParValue0.0001PerShareMember 
+
+2025-03-31 
+2025-03-31 
+
+0001820875 
+
+cxai:WarrantsToPurchaseCommonStockMember 
+
+2025-03-31 
+2025-03-31 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0001820875 
+8-K 
+2025-03-31 
+CXApp Inc. 
+DE 
+001-39642 
+85-2104918 
+Four Palo Alto Square 
+Suite 200 
+3000 El Camino Real 
+Palo Alto 
+CA 
+94306 
+(650) 
+575-4456 
+false 
+false 
+false 
+false 
+Common Stock, $0.0001 par value per share 
+CXAI 
+NASDAQ 
+Warrants to purchase common stock 
+CXAIW 
+NASDAQ 
+true 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

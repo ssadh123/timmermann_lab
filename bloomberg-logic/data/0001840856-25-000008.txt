@@ -1,0 +1,1921 @@
+<SEC-DOCUMENT>0001840856-25-000008.txt : 20250227
+<SEC-HEADER>0001840856-25-000008.hdr.sgml : 20250227
+<ACCEPTANCE-DATETIME>20250227162057
+ACCESSION NUMBER:		0001840856-25-000008
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		16
+CONFORMED PERIOD OF REPORT:	20250227
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250227
+DATE AS OF CHANGE:		20250227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOUNDHOUND AI, INC.
+		CENTRAL INDEX KEY:			0001840856
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40193
+		FILM NUMBER:		25679211
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2093 PHILADELPHIA PIKE #1968
+		CITY:			CLAYMONT
+		STATE:			DE
+		ZIP:			19703
+		BUSINESS PHONE:		650-560-4753
+
+	MAIL ADDRESS:	
+		STREET 1:		2093 PHILADELPHIA PIKE #1968
+		CITY:			CLAYMONT
+		STATE:			DE
+		ZIP:			19703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Archimedes Tech Spac Partners Co
+		DATE OF NAME CHANGE:	20210115
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>soun-20250227.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?soun-20250227
+
+0001840856FALSE00018408562025-02-272025-02-270001840856us-gaap:CommonClassAMember2025-02-272025-02-270001840856us-gaap:WarrantMember2025-02-272025-02-27
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+_________________________________________
+
+FORM 8-K
+
+_________________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 27, 2025
+
+_________________________________________
+
+SOUNDHOUND AI, INC.
+
+(Exact name of registrant as specified in its charter)
+
+_________________________________________
+
+Delaware 001-40193 85-1286799
+
+(State or other jurisdiction
+
+of incorporation) 
+
+(Commission File
+
+Number) 
+
+(I.R.S. Employer
+
+Identification No.)
+
+5400 Betsy Ross Drive
+
+Santa Clara, CA 
+
+95054
+
+(Address of principal executive offices) (Zip Code)
+
+Registrants telephone number, including area code: (408) 441-3200
+
+(Former name or former address, if changed since last report)
+
+_________________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Title of each class Trading Symbol Name of each exchange on which registered
+
+Class A Common Stock, $0.0001 par value per share SOUN The Nasdaq Stock Market LLC
+
+Warrants, each exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share, subject to adjustment SOUNW The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On February 27, 2025, SoundHound AI, Inc. (the Company) issued a press release announcing financial results and operational highlights for the fourth quarter and year ended December 31, 2024. A copy of the press release is furnished as Exhibit 99.1 to this current report on Form 8-K. The Company is also furnishing as Exhibit 99.2 to this current report on Form 8-K the consolidated balance sheets of the Company as of December 31, 2024, and the related consolidated statements of operations and comprehensive loss and consolidated statements of cash flows for the period ended December 31, 2024.
+
+Item 9.01. Financial Statement and Exhibits.
+
+Exhibit Number Description
+
+99.1 
+
+Press Release, dated February 27, 2025
+
+99.2 
+
+Financial statements for the period ended December 31, 2024
+
+104 Cover Page Interactive Data File (formatted as inline XBRL)
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+February 27, 2025 
+
+SoundHound AI, Inc.
+
+By: /s/ Keyvan Mohajer
+
+Name: Keyvan Mohajer
+
+Title: Chief Executive Officer
+
+3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>soun-20250227ex991earnings.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+SoundHound AI Reports Record Fourth Quarter Revenue, Up 101%, Exceeding $34.5 Million; Raises Full Year Outlook
+
+Strong year-end performance propels the company to the top end of revenue guidance range with strong momentum in voice-enabled Agentic AI
+
+Company closes the year with nearly $200 million in cash and no debt
+
+SANTA CLARA, Calif.--(BUSINESS WIRE)--SoundHound AI, Inc. (Nasdaq: SOUN), a global leader in voice artificial intelligence, today reported its financial results for the fourth quarter and full year 2024. 
+
+We had a breakthrough year, expanding our leadership position in voice and conversational AI through major customer wins, expanded partnerships, groundbreaking generative AI innovation, and strategic acquisitions, said Keyvan Mohajer, CEO and Co-Founder of SoundHound AI. As we move into the era of Agentic AI, we are uniquely positioned to capitalize on this evolving category. Together with our existing broad portfolio of voice-enabled AI solutions we can deliver even greater commercial impact. 
+
+Fourth Quarter and Full Year Financial Highlights
+
+Fourth quarter revenue was $34.5 million, an increase of 101% year-over-year
+
+Fourth quarter GAAP gross margin was 39.9%; non-GAAP gross margin was 52.1%
+
+Fourth quarter adjusted EBITDA was $(16.8) million
+
+Full year revenue was $84.7 million, an increase of 85% year-over-year
+
+Full year GAAP gross margin was 48.9%; non-GAAP gross margin was 58.5%
+
+Full year adjusted EBITDA was $(61.9) million
+
+SoundHounds year-end stock price increase resulted in an increase in its fair value of contingent liabilities, significantly impacting both fourth quarter and full year GAAP net loss and EPS. The fluctuation is non-operating and non-cash in nature and is calculated based on mark to market fair value accounting standards. The corresponding non-GAAP values are not impacted. Accordingly, fourth quarter GAAP EPS was $(0.69) and fourth quarter non-GAAP EPS was $(0.05).
+
+We exited 2024 in a position of strength, and with accelerating momentum," said Nitesh Sharan, CFO of SoundHound AI."Our foundation runs deep, with a rapidly growing and diversified customer base and a highly capable team executing with tenacity to capture the tremendous opportunities in front of us.
+
+Business Highlights
+
+Customer Momentum
+
+In Restaurants: Working with over 30% of the top 20 quick-service restaurant (QSR) brands, and continuing to expand across renowned restaurant brands including Burger King UK, Churchs Texas Chicken, Peets Coffee, Torchys Tacos, and Whataburger, among others. 
+
+In Healthcare: New partners including Duke Health, Wellstar Health System, and Englewood Health. Customers include Allina Health, Aveanna Healthcare, and MUSC Health, among others. 
+
+In Automotive: Expanding adoption across leading EV manufacturers, with customers including Lucid Motors, and Togg;launched in Lancia vehicles in Europe, adding to six other live Stellantis brands with SoundHound Chat AI Automotive.
+
+In Retail: Expanding AI solutions for multi-location retail brands in clothing, fitness, vehicle maintenance, home services, waste management, and more. Customers include Torrid, multiple Planet Fitness franchise groups, and My Gym, among others. 
+
+In Energy: SoundHound continues to expand into new industries, adding one of the largest electric utilities in the United States to our wide-ranging portfolio of customers. 
+
+In Government: SoundHound signed a contract with the City of Coral Springs and continues to roll out our conversational AI capabilities with federal government agencies such as a branch of the United States military together with General Dynamics Information Technology. 
+
+In Telecom: Expanding in South America with Telefnica following recent multi-year renewal, and scaling with a major European broadcaster and telecommunications provider in five countries. 
+
+In Financial Services: Customers including BNP Paribas as well regional banks and credit unions such as American Heritage Credit Union, Nordic Bank, Sterling Bank, Truly Credit Union. SoundHound also works with 70% of the top 10 global financial institutions. 
+
+In Insurance: In partnership with EXL expanding our industry presence with customers such as Transamerica, and scaling with companies like Apivia Courtage surpassing 100 thousand calls automated in 2024.
+
+In Travel and Hospitality: Enhancing customer experiences for companies like AeroMexico and Resorts World Las Vegas, which recently highlighted our presence at CES 2025 on their digital display on The Strip. 
+
+Other Notable Highlights
+
+SoundHound is at the forefront of the Agentic AI revolution, leveraging its proven platform and strong market position to deliver next-generation agentic capabilities an inevitable evolution in AI functionality for its customers. 
+
+Unveiled the first ever in-vehicle voice commerce platform that enables seamless voice-controlled food ordering on the go at CES 2025. 
+
+Partnered with Rekor to develop first-of-its-kind audio-visual AI, bringing hands-free voice control to emergency vehicle technology.
+
+Leading phone ordering technology surpassed 100 million customer interactions and processed hundreds of millions of dollars in restaurant orders. 
+
+Conducted a research study about voice generative AI in vehicles, which found that 77% of regular drivers are likely to use voice generative AI capabilities in their vehicle if available.
+
+Events and Awards
+
+Successful showcase at CES 2025, featuring collaborations with NVIDIA, Perplexity, Lucid Motors, LG and a broad range of the company's restaurant partners. 
+
+SoundHounds best-in-class technology earned multiple awards:
+
+Frost Radar Leader in Enterprise Conversational AI in Healthcare 2024, XCelent Advanced Technology 2024 Award, 
+
+Best Use of AI in the Automation & Self-Service Awards 2024, 
+
+Overall Connected Solution of the Year at the AutoTech Breakthrough Awards
+
+Shortlisted for Reuters 2024 Automotive D.R.I.V.E Honours for Innovation,
+
+Finalist for the 2025 Automotive News PACE Awards. 
+
+The company will be participating in NVIDIA GTC 2025, featuring demos of its voice assistant leveraging generative AI on the edge with NVIDIA Drive AGX, and its recently introduced voice commerce ecosystem.
+
+Fourth Quarter 2024 Financial Measures1
+
+Three Months Ended
+
+(thousands, unless otherwise noted) December 31, 2024 December 31, 2023 
+
+Change
+
+Revenues $ 34,543 $ 17,147 101 %
+
+GAAP gross profit $ 13,784 $ 13,236 4 %
+
+GAAP gross margin 39.9% 77.2% (37.3) pp
+
+Non-GAAP gross profit $ 18,007 $ 13,354 35 %
+
+Non-GAAP gross margin 52.1% 77.9% (25.8) pp
+
+GAAP operating loss2 $ (257,072) $ (12,393) 1,974 %
+
+Non-GAAP adjusted EBITDA $ (16,793) $ (3,593) 367 %
+
+GAAP net loss2 $ (258,599) $ (18,003) 1,336 %
+
+Non-GAAP net loss $ (18,993) $ (9,771) 94 %
+
+GAAP net loss per share2 $ (0.69) $ (0.07) $ (0.62) 
+
+Non-GAAP net loss per share $ (0.05) $ (0.04) $ (0.01) 
+
+Full Year 2024 Financial Measures1
+
+Twelve Months Ended
+
+(thousands, unless otherwise noted) December 31, 2024 December 31, 2023 
+
+Change
+
+Revenues $ 84,693 $ 45,873 85 %
+
+GAAP gross profit $ 41,384 $ 34,566 20 %
+
+GAAP gross margin 48.9% 75.4% (26.5) pp
+
+Non-GAAP gross profit $ 49,538 $ 34,978 42 %
+
+Non-GAAP gross margin 58.5% 76.2% (17.8) pp
+
+GAAP operating loss2 $ (341,353) $ (68,608) 398 %
+
+Non-GAAP adjusted EBITDA $ (61,915) $ (35,896) 72 %
+
+GAAP net loss2 $ (350,681) $ (88,937) 294 %
+
+Non-GAAP net loss $ (69,073) $ (58,162) 19 %
+
+GAAP net loss per share2 $ (1.04) $ (0.40) $ (0.64) 
+
+Non-GAAP net loss per share $ (0.20) $ (0.25) $ 0.05 
+
+1)Please see tables below for a reconciliation from GAAP to non-GAAP. 
+
+2)GAAP-only operating loss includes a significant impact from the calculated fair value of contingent acquisition liabilities where future earn-out shares are marked-to-market on a quarterly basis, and with the increase in stock price at year-end the loss associated with this item was $221 million in the fourth quarter 2024 and $223 million in full year 2024, respectively. Non-GAAP measures exclude this non-cash impact.
+
+Liquidity and Cash Flows
+
+The companys total cash and cash equivalents was $198 million at December 31, 2024. The company had no outstanding debt at December 31, 2024.
+
+Condensed Cash Flow Statement
+
+Year Ended
+
+(thousands) December 31, 2024 December 31, 2023
+
+Cash flows: 
+
+Net cash used in operating activities $ (108,878) $ (68,265) 
+
+Net cash used in investing activities (12,372) (392) 
+
+Net cash provided by financing activities 210,906 168,237 
+
+Effects of exchange rate changes on cash 225 (20) 
+
+Net change in cash and cash equivalents $ 89,881 $ 99,560 
+
+Business Outlook
+
+SoundHound raises its full year 2025 revenue outlook to be in a range of $157 to $177 million.
+
+Additional Information
+
+For more information please see the companys SEC filings which can be obtained on the companys website at investors.soundhound.com. The financial statements for the companys fiscal year ended December 31, 2024 will be posted on the website, and will be included as an attachment to the companys current report on Form 8-K filed concurrently with the dissemination of this press release. The financial data presented in this press release should be considered preliminary and unaudited until the company files its Annual Report on Form 10-K.
+
+Conference Call and Webcast
+
+Keyvan Mohajer, Co-Founder and CEO, and Nitesh Sharan, CFO will host a live audio conference call and webcast today at 2:00 p.m. Pacific Time/5:00 p.m. Eastern Time. A live webcast and replay will be accessible at investors.soundhound.com.
+
+About SoundHound AI 
+
+SoundHound (Nasdaq: SOUN), a global leader in conversational intelligence, offers voice and conversational AI solutions that let businesses offer incredible experiences to their customers. Built on proprietary technology, SoundHounds voice AI delivers best-in-class speed and accuracy in numerous languages to product creators and service providers across retail, financial services, healthcare, automotive, smart devices, and restaurants via groundbreaking AI-driven products like Smart Answering, Smart Ordering, Dynamic Drive Thru, and Amelia AI Agents. Along with SoundHound Chat AI, a powerful voice assistant with integrated Generative AI, SoundHound powers millions of products and services, and processes billions of interactions each year for world class businesses. www.soundhound.com
+
+Forward Looking Statements
+
+This press release contains forward-looking statements, which are not historical facts, within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. In some cases, you can identify forward-looking statements by the use of words such as may, could, expect, intend, plan, seek, anticipate, believe, estimate, predict, potential, continue, likely, will, would and variations of these terms and similar expressions, or the negative of these terms or similar expressions. These forward-looking statements include, but are not limited to, statements concerning our expected financial performance, our ability to implement our business strategy and anticipated business and operations, and guidance for financial results for 2025. Such forward-looking statements are necessarily based upon estimates and assumptions that, while considered reasonable by us and our management, are inherently uncertain. As a result, readers are cautioned not to place undue reliance on these forward-looking statements. Our actual results may differ materially from those expressed or implied by these forward-looking statements as a result of risks and uncertainties impacting SoundHounds business including, our ability to successfully launch and commercialize new products and services and derive significant revenue, our market opportunity and our ability to acquire new customers and retain existing customers, unexpected costs, charges or expenses resulting from our 2024 acquisitions, the ability of our 2024 acquisitions to be accretive on the company's financial results, and those other factors described in our risk factors set forth in our filings with the Securities and Exchange Commission from time to time, including our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K. We do not intend to update or alter our forward-looking 
+
+statements, whether as a result of new information, future events or otherwise, except as required by applicable law.
+
+Non-GAAP Measures of Financial Performance
+
+To supplement the companys financial statements, which are presented on the basis of U.S. generally accepted accounting principles (GAAP), the following non-GAAP measures of financial performance are included in this release: non-GAAP gross profit, non-GAAP gross margin, adjusted EBITDA, non-GAAP net loss and non-GAAP earnings per share. 
+
+The company believes that providing this non-GAAP information in addition to the GAAP financial information allows investors to view the financial results in the way the company views its operating results. The company also believes that providing this information allows investors to not only better understand the company's financial performance, but also, better evaluate the information used by management to evaluate and measure such performance. 
+
+As such, the company believes that disclosing non-GAAP financial measures to the readers of its financial statements provides the reader with useful supplemental information that allows for greater transparency in the review of the companys financial and operational performance. 
+
+The company defines its non-GAAP measures by excluding certain items:
+
+The company arrives at non-GAAP gross profit and non-GAAP gross margin by excluding (i) amortization of intangibles (including acquired intangible assets) and (ii) stock-based compensation. 
+
+The company arrives at adjusted EBITDA by excluding (i) total other interest, net (included other interest and expense), (ii) loss on early extinguishment of debt, (iii) income taxes/(benefits), (iv) depreciation and amortization expense (including acquired intangible assets), (v) stock-based compensation, (vi) restructuring expense, (vii) change in fair value of contingent acquisition liabilities, and (viii) acquisition-related expenses.
+
+The company arrives at non-GAAP net loss and non-GAAP net loss per share by excluding (i) depreciation and amortization expense (including acquired intangible assets), (ii) stock-based compensation, (iii) restructuring expense, (iv) loss on early extinguishment of debt, (v) change in fair value of contingent acquisition liabilities, (vi) gain on bargain purchase, (vii) acquisition-related expenses, and (viii) income tax effects related to acquisitions. 
+
+Reconciliations of GAAP to these adjusted non-GAAP financial measures are included in the tables below. When analyzing the company's operating results, investors should not consider non-GAAP measures as substitutes for the comparable financial measures prepared in accordance with GAAP.
+
+To the extent that the company presents any forward-looking non-GAAP financial measures, the company does not present a quantitative reconciliation of such measures to the most directly comparable GAAP financial measure (or otherwise present such forward-looking GAAP measures) because it is impractical to do so.
+
+Fourth Quarter Reconciliation of GAAP Gross Profit to Non-GAAP Gross Profit and GAAP Gross Margin to Non-GAAP Gross Margin
+
+Three Months Ended
+
+(thousands, unless otherwise noted) December 31, 2024 December 31, 2023
+
+GAAP gross profit1 $ 13,784 $ 13,236
+
+Adjustments: 
+
+Amortization of Intangibles 4,123 
+
+Stock-based compensation 100 118 
+
+Non-GAAP gross profit $ 18,007 $ 13,354
+
+GAAP gross margin 39.9% 77.2%
+
+Non-GAAP gross margin 52.1% 77.9%
+
+1)GAAP gross profit is calculated by subtracting the cost of revenues from revenues.
+
+Fourth Quarter Reconciliation of GAAP Net Loss to Non-GAAP Adjusted EBITDA
+
+Three Months Ended
+
+(thousands) December 31, 2024 December 31, 2023
+
+GAAP net loss $ (258,599) $ (18,003) 
+
+Adjustments: 
+
+Total other expense, net1 1,174 4,003 
+
+Loss on early extinguishment of debt 42 
+
+Income taxes/(benefits) 311 1,607 
+
+Depreciation and amortization 7,939 372 
+
+Stock-based compensation 9,853 6,569 
+
+Restructuring 806 
+
+Change in fair value of contingent acquisition liabilities 220,946 
+
+Acquisition-related expenses 1,541 1,053 
+
+Non-GAAP adjusted EBITDA $ (16,793) $ (3,593) 
+
+1)Includes other income (expense), net of $0.1 and $1.5 million for the three months ended December 31, 2024 and 2023, respectively.
+
+Fourth Quarter Reconciliation of GAAP Net Loss to Non-GAAP Net Loss and Non-GAAP Net Loss Per Share
+
+Three Months Ended
+
+(thousands, unless otherwise noted) December 31, 2024 December 31, 2023
+
+GAAP net loss attributable to SoundHound common shareholders $ (258,599) $ (18,571) 
+
+Adjustments: 
+
+Depreciation and amortization 7,939 372 
+
+Stock-based compensation 9,853 6,569 
+
+Restructuring 806 
+
+Loss on early extinguishment of debt 42 
+
+Change in fair value of contingent acquisition liabilities 220,946 
+
+Acquisition-related expenses 1,541 1,053 
+
+Income tax effects related to acquisitions (715) 
+
+Non-GAAP net loss $ (18,993) $ (9,771) 
+
+GAAP net loss per share1 $ (0.69) $ (0.07) 
+
+Adjustments $ 0.64 $ 0.03 
+
+Non-GAAP net loss per share1 $ (0.05) $ (0.04) 
+
+1)Weighted average common shares outstanding (basic and diluted) for the three months ended December 31, 2024 and 2023 were 375,102,329 and 248,250,552, respectively.
+
+Full Year Reconciliation of GAAP Gross Profit to Non-GAAP Gross Profit and GAAP Gross Margin to Non-GAAP Gross Margin
+
+Year Ended
+
+(thousands, unless otherwise noted) December 31, 2024 December 31, 2023
+
+GAAP gross profit1 $ 41,384 $ 34,566
+
+Adjustments: 
+
+Amortization of Intangibles 7,696 
+
+Stock-based compensation 458 412 
+
+Non-GAAP gross profit $ 49,538 $ 34,978
+
+GAAP gross margin 48.9% 75.4%
+
+Non-GAAP gross margin 58.5% 76.2%
+
+1)GAAP gross profit is calculated by subtracting the cost of revenues from revenues.
+
+Full Year Reconciliation of GAAP Net Loss to Non-GAAP Adjusted EBITDA
+
+Year Ended
+
+(thousands) December 31, 2024 December 31, 2023
+
+GAAP net loss $ (350,681) $ (88,937) 
+
+Adjustments: 
+
+Total other expense, net1 2,946 15,578 
+
+Loss on early extinguishment of debt 15,629 837 
+
+Income taxes/(benefits) (9,247) 3,914 
+
+Depreciation and amortization 16,054 2,313 
+
+Stock-based compensation 33,145 24,789 
+
+Restructuring 4,557 
+
+Change in fair value of contingent acquisition liabilities 222,670 
+
+Acquisition-related expenses 7,569 1,053 
+
+Non-GAAP adjusted EBITDA $ (61,915) $ (35,896) 
+
+1)Includes other income (expense), net of $9.2 and $1.2 million for the years ended December 31, 2024 and 2023, respectively.
+
+Full Year Reconciliation of GAAP Net Loss to Non-GAAP Net Loss and Non-GAAP Net Loss Per Share
+
+Year Ended
+
+(thousands, unless otherwise noted) December 31, 2024 December 31, 2023
+
+GAAP net loss attributable to SoundHound common shareholders $ (351,097) $ (91,711) 
+
+Adjustments: 
+
+Depreciation and amortization 16,054 2,313 
+
+Stock-based compensation 33,145 24,789 
+
+Restructuring 4,557 
+
+Loss on early extinguishment of debt 15,629 837 
+
+Change in fair value of contingent acquisition liabilities 222,670 
+
+Gain on bargain purchase (1,223) 
+
+Acquisition-related expenses 7,569 1,053 
+
+Income tax effects related to acquisitions (11,820) 
+
+Non-GAAP net loss $ (69,073) $ (58,162) 
+
+GAAP net loss per share1 $ (1.04) $ (0.40) 
+
+Adjustments $ 0.84 $ 0.15 
+
+Non-GAAP net loss per share1 $ (0.20) $ (0.25) 
+
+1)Weighted average common shares outstanding (basic and diluted) for the years ended December 31, 2024 and 2023 were 338,462,574 and 229,264,904, respectively.
+
+Investors:
+
+Scott Smith
+
+408-724-1498
+
+IR@SoundHound.com
+
+Media:
+
+Gianna Arantes
+
+201-815-9852
+
+PR@SoundHound.com
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>soun-20250227ex992financia.htm
+<DESCRIPTION>EX-99.2
+<TEXT>
+Document
+
+SOUNDHOUND AI, INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(In thousands, except share and per share data)
+
+December 31,
+
+2024 December 31,
+
+2023
+
+(Unaudited) 
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents $ 198,240 $ 95,260 
+
+Accounts receivable, net of allowances of $726 and $203 as of December 31, 2024 and 2023, respectively 23,159 4,050 
+
+Contract assets and unbilled revenue, net 26,645 11,780 
+
+Other current assets 7,476 2,452 
+
+Total current assets 255,520 113,542 
+
+Restricted cash equivalents, non-current 676 13,775 
+
+Right-of-use assets 4,692 5,210 
+
+Property and equipment, net 1,239 1,515 
+
+Goodwill 101,704 
+
+Intangible assets, net 174,943 
+
+Deferred tax asset 4 11 
+
+Contract assets and unbilled revenue, non-current, net 12,879 16,492 
+
+Other non-current assets 2,296 577 
+
+Total assets $ 553,953 $ 151,122 
+
+LIABILITIES AND STOCKHOLDERS EQUITY (DEFICIT) 
+
+Current liabilities: 
+
+Accounts payable $ 5,559 $ 1,653 
+
+Accrued liabilities 26,291 13,884 
+
+Operating lease liabilities 1,898 2,637 
+
+Finance lease liabilities 49 121 
+
+Income tax liability 2,750 1,618 
+
+Deferred revenue 23,876 4,310 
+
+Other current liabilities 7,319 
+
+Total current liabilities 67,742 24,223 
+
+Operating lease liabilities, net of current portion 2,403 3,089 
+
+Deferred revenue, net of current portion 6,862 4,910 
+
+Long-term debt 84,312 
+
+Contingent acquisition liabilities 286,898 
+
+Income tax liability, net of current portion 3,075 2,453 
+
+Other non-current liabilities 4,320 3,967 
+
+Total liabilities 371,300 122,954 
+
+Commitments and contingencies 
+
+Stockholders equity (deficit): 
+
+Series A Preferred Stock, $0.0001 par value; 1,000,000 shares authorized; 0 and 475,005 shares issued and outstanding, aggregate liquidation preference of $ and $16,227 as of December 31, 2024 and December 31, 2023, respectively 14,187 
+
+Class A Common Stock, $0.0001 par value; 455,000,000 shares authorized; 361,096,457 and 216,943,349 shares issued and outstanding as of December 31, 2024 and 2023, respectively 35 22 
+
+Class B Common Stock, $0.0001 par value; 44,000,000 shares authorized; 32,535,408 and 37,485,408 shares issued and outstanding as of December 31, 2024 and 2023, respectively 3 4 
+
+Additional paid-in capital 1,125,470 606,135 
+
+Accumulated deficit (943,060) (592,379) 
+
+Accumulated other comprehensive income 205 199 
+
+Total stockholders equity (deficit) 182,653 28,168 
+
+Total liabilities and stockholders equity (deficit) $ 553,953 $ 151,122 
+
+1
+
+SOUNDHOUND AI, INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+(In thousands, except share and per share data)
+
+(Unaudited)
+
+Three Months Ended December 31,
+
+2024 2023
+
+Revenues $ 34,543 $ 17,147 
+
+Operating expenses: 
+
+Cost of revenues 20,759 3,911 
+
+Sales and marketing 9,566 4,469 
+
+Research and development 20,394 12,713 
+
+General and administrative 16,437 7,641 
+
+Change in fair value of contingent acquisition liabilities 220,946 
+
+Amortization of intangible assets 3,513 
+
+Restructuring 806 
+
+Total operating expenses 291,615 29,540 
+
+Operating loss (257,072) (12,393) 
+
+Other expense, net: 
+
+Loss on early extinguishment of debt (42) 
+
+Interest expense (1,309) (5,460) 
+
+Other income (expense), net 135 1,457 
+
+Total other expense, net (1,216) (4,003) 
+
+Loss before provision for income taxes (258,288) (16,396) 
+
+Provision for income taxes 311 1,607 
+
+Net loss $ (258,599) $ (18,003) 
+
+Cumulative dividends attributable to Series A Preferred Stock (568) 
+
+Net loss attributable to SoundHound common shareholders $ (258,599) $ (18,571) 
+
+Other comprehensive income: 
+
+Unrealized gains (losses) on investments (57) 2 
+
+Comprehensive loss $ (258,656) $ (18,569) 
+
+Net loss per share: 
+
+Basic and diluted $ (0.69) $ (0.07) 
+
+Weighted-average common shares outstanding: 
+
+Basic and diluted 375,102,329 248,250,552 
+
+2
+
+SOUNDHOUND AI, INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+(In thousands, except share and per share data)
+
+Year Ended 
+
+December 31,
+
+2024 2023 2022
+
+(Unaudited) 
+
+Revenues $ 84,693 $ 45,873 $ 31,129 
+
+Operating expenses: 
+
+Cost of revenues 43,309 11,307 9,599 
+
+Sales and marketing 29,126 18,893 20,367 
+
+Research and development 70,555 51,439 76,392 
+
+General and administrative 53,270 28,285 30,443 
+
+Change in fair value of contingent acquisition liabilities 222,670 
+
+Amortization of intangible assets 7,116 
+
+Restructuring 4,557 
+
+Total operating expenses 426,046 114,481 136,801 
+
+Loss from operations (341,353) (68,608) (105,672) 
+
+Other expense, net: 
+
+Loss on early extinguishment of debt (15,629) (837) 
+
+Interest expense (12,168) (16,733) (6,893) 
+
+Other income (expense), net 9,222 1,155 (1,259) 
+
+Total other expense, net (18,575) (16,415) (8,152) 
+
+Loss before provision for income taxes (359,928) (85,023) (113,824) 
+
+Provision for income taxes (9,247) 3,914 2,889 
+
+Net loss (350,681) (88,937) (116,713) 
+
+Cumulative dividends attributable to Series A Preferred Stock (416) (2,774) 
+
+Net loss attributable to SoundHound common shareholders (351,097) (91,711) (116,713) 
+
+Other comprehensive loss: 
+
+Unrealized gains on investments 6 199 
+
+Comprehensive loss $ (350,675) $ (88,738) $ (116,713) 
+
+Net loss per share: 
+
+Basic and diluted $ (1.04) $ (0.40) $ (0.74) 
+
+Weighted-average common shares outstanding: 
+
+Basic and diluted 338,462,574 229,264,904 157,317,695
+
+3
+
+SOUNDHOUND AI, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(In thousands)
+
+Year Ended 
+
+December 31,
+
+2024 2023 2022
+
+(Unaudited) 
+
+Cash flows from operating activities: 
+
+Net loss $ (350,681) $ (88,937) $ (116,713) 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Depreciation and amortization 16,054 2,313 4,037 
+
+Stock-based compensation 33,145 27,931 28,792 
+
+Loss on change in fair value of ELOC program 1,901 1,075 
+
+Change in fair value of derivative and warrant liability 606 
+
+Amortization of debt issuance cost 1,621 5,400 2,287 
+
+Non-cash lease amortization 2,613 3,346 3,189 
+
+Loss on early extinguishment of debt 15,629 837 
+
+Foreign currency gain/loss from remeasurement (24) 143 
+
+Change in fair value of contingent acquisition liabilities 222,670 
+
+Deferred income taxes (12,183) 30 2,127 
+
+Other, net (580) 93 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable, net (10,264) (627) (1,354) 
+
+Prepaid expenses 1,590 (1,238) 
+
+Other current assets (3,131) (821) 299 
+
+Contract assets (7,304) (19,578) (8,658) 
+
+Other non-current assets (196) 671 (274) 
+
+Accounts payable (6,401) (1,162) 302 
+
+Accrued liabilities 611 4,266 116 
+
+Other current liabilities (642) 
+
+Operating lease liabilities (3,214) (3,657) (3,912) 
+
+Deferred revenue (6,186) (4,135) (7,646) 
+
+Other non-current liabilities (415) 2,131 2,946 
+
+Net cash used in operating activities (108,878) (68,265) (94,019) 
+
+Cash flows from investing activities: 
+
+Purchases of property and equipment (640) (392) (1,329) 
+
+Payment related to acquisitions, net of cash acquired (11,732) 
+
+Net cash used in investing activities (12,372) (392) (1,329) 
+
+Cash flows from financing activities: 
+
+Proceeds from the issuance of Series A Preferred Stock, net of issuance costs 24,942 
+
+Proceeds from sales of Class A common stock under the ELOC program, net of issuance costs 71,615 
+
+Proceeds from sales of Class A common stock under the Sales Agreement, Equity Distribution Agreement and Execute Equity Distribution Agreement 407,270 12,412 
+
+Proceeds from exercise of stock options and employee stock purchase plan 29,685 
+
+4
+
+SOUNDHOUND AI, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS Continued
+
+(In thousands)
+
+Year Ended 
+
+December 31,
+
+2024 2023 2022
+
+(Unaudited) 
+
+Proceeds from warrants exercised 23 
+
+Payment of financing costs associated with the Sales Agreement, Equity Distribution Agreement and Execute Equity Distribution Agreement (10,357) 
+
+Proceeds from the issuance of debt, net of issuance costs 85,087 
+
+Proceeds from the issuance of common stock 9,369 4,160 
+
+Proceeds from Business Combination and PIPE, net of transaction costs 90,689 
+
+Payments on notes payable (215,373) (35,029) (11,545) 
+
+Payment to settle contingent holdback liabilities from SYNQ3 acquisition (217) 
+
+Payments on finance leases (125) (159) (1,303) 
+
+Net cash provided by financing activities 210,906 168,237 82,001 
+
+Effects of exchange rate changes on cash 225 (20) 
+
+Net change in cash, cash equivalents, and restricted cash equivalents 89,881 99,560 (13,347) 
+
+Cash, cash equivalents, and restricted cash equivalents, beginning of year 109,035 9,475 22,822 
+
+Cash, cash equivalents, and restricted cash equivalents, end of year $ 198,916 $ 109,015 $ 9,475 
+
+Reconciliation to amounts on the consolidated balance sheets: 
+
+Cash and cash equivalents $ 198,240 $ 95,260 $ 9,245 
+
+Current portion of restricted cash equivalents 
+
+Non-current portion of restricted cash equivalents 676 13,775 230 
+
+Total cash, cash equivalents, and restricted cash equivalents shown in the consolidated statements of cash flows $ 198,916 $ 109,035 $ 9,475 
+
+5
+
+SOUNDHOUND AI, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS Continued
+
+(In thousands)
+
+Year Ended 
+
+December 31,
+
+2024 2023 2022
+
+(Unaudited) 
+
+Supplemental disclosures of cash flow information: 
+
+Cash paid for interest $ 6,337 $ 11,984 $ 4,364 
+
+Cash paid for income taxes $ 2,717 $ 2,356 $ 1,044 
+
+Noncash investing and financing activities: 
+
+Conversion of Series A Preferred Stock to Class A common stock $ 14,187 $ 10,755 $ 
+
+Debt discount through issuance of common stock warrants $ $ 4,136 $ 
+
+Issuance of Class A Common Stock to settle commitment shares related to the ELOC program $ $ 915 $ 
+
+Issuance of Class A Common Stock to settle obligations under Amelia Debt $ 11,817 $ $ 
+
+Issuance of Class A Common Stock to settle contingent holdback consideration of SYNQ3 acquisition $ 189 $ $ 
+
+Conversion of redeemable convertible preferred stock to common stock pursuant to Business Combination $ $ $ 279,503 
+
+Conversion of convertible note into common stock pursuant to Business Combination $ $ $ 20,239 
+
+Operating lease liabilities arising from obtaining right-of-use assets $ 1,559 $ $ 650 
+
+Deferred offering costs reclassified to additional paid-in capital $ 220 $ $ 
+
+Fair value of Class A common stock and deferred equity consideration issued for SYNQ3 acquisition $ 9,687 $ $ 
+
+Fair value of contingent earnout consideration under SYNQ3 and Amelia acquisitions $ 286,898 $ $ 
+
+Fair value of contingent holdback consideration under SYNQ3 acquisition $ 570 $ $ 
+
+Fair value of deferred cash consideration under other acquisition $ 195 $ $ 
+
+6
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>4
+<FILENAME>soun-20250227.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>5
+<FILENAME>soun-20250227_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>6
+<FILENAME>soun-20250227_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Class of Stock [Domain] 
+Class of Stock [Domain] 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Class of Stock [Axis] 
+Class of Stock [Axis] 
+
+Name of each exchange on which registered 
+Security Exchange Name 
+
+Warrant 
+Warrant [Member] 
+
+Entity Address, City 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Cover [Abstract] 
+
+City Area Code 
+City Area Code 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State 
+Entity Address, State or Province 
+
+Common Class A 
+Common Class A [Member] 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Street 
+Entity Address, Address Line One 
+
+Document Information 
+Document Information [Line Items] 
+
+Document Information [Table] 
+Document Information [Table] 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of each class 
+Title of 12(b) Security 
+
+Document Period End Date 
+Document Period End Date 
+
+Document Type 
+Document Type
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>7
+<FILENAME>soun-20250227_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 27, 2025
+
+Document Information 
+
+Document Type 8-K
+
+Document Period End Date Feb. 27, 2025
+
+Entity Registrant Name SOUNDHOUND AI, INC.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-40193
+
+Entity Tax Identification Number 85-1286799
+
+Entity Address, Street 5400 Betsy Ross Drive
+
+Entity Address, City Santa Clara
+
+Entity Address, State CA
+
+Entity Address, Postal Zip Code 95054
+
+City Area Code 408
+
+Local Phone Number 441-3200
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0001840856
+
+Amendment Flag false
+
+Common Class A 
+
+Document Information 
+
+Title of each class Class A Common Stock, $0.0001 par value per share
+
+Trading Symbol SOUN
+
+Name of each exchange on which registered NASDAQ
+
+Warrant 
+
+Document Information 
+
+Title of each class Warrants, each exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share, subject to adjustment
+
+Trading Symbol SOUNW
+
+Name of each exchange on which registered NASDAQ
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentInformationLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=us-gaap_CommonClassAMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=us-gaap_WarrantMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>10
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+3 
+22 
+1 
+false 
+2 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://www.soundhound.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+soun-20250227.htm 
+soun-20250227.xsd 
+soun-20250227_def.xml 
+soun-20250227_lab.xml 
+soun-20250227_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>16
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>17
+<FILENAME>0001840856-25-000008-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>18
+<FILENAME>soun-20250227_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001840856 
+
+2025-02-27 
+2025-02-27 
+
+0001840856 
+
+us-gaap:CommonClassAMember 
+
+2025-02-27 
+2025-02-27 
+
+0001840856 
+
+us-gaap:WarrantMember 
+
+2025-02-27 
+2025-02-27 
+
+0001840856 
+false 
+8-K 
+2025-02-27 
+SOUNDHOUND AI, INC. 
+DE 
+001-40193 
+85-1286799 
+5400 Betsy Ross Drive 
+Santa Clara 
+CA 
+95054 
+408 
+441-3200 
+false 
+false 
+false 
+false 
+Class A Common Stock, $0.0001 par value per share 
+SOUN 
+NASDAQ 
+Warrants, each exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share, subject to adjustment 
+SOUNW 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,906 @@
+<SEC-DOCUMENT>0001393905-25-000065.txt : 20250214
+<SEC-HEADER>0001393905-25-000065.hdr.sgml : 20250214
+<ACCEPTANCE-DATETIME>20250214150138
+ACCESSION NUMBER:		0001393905-25-000065
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20250214
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+FILED AS OF DATE:		20250214
+DATE AS OF CHANGE:		20250214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lucent Holdings, Inc.
+		CENTRAL INDEX KEY:			0001778343
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				834628133
+		STATE OF INCORPORATION:			MT
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56509
+		FILM NUMBER:		25627285
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1633 EAST FOURTH STREET
+		STREET 2:		SUITE 148
+		CITY:			SANTA ANA
+		STATE:			CA
+		ZIP:			92701
+		BUSINESS PHONE:		213-298-3812
+
+	MAIL ADDRESS:	
+		STREET 1:		1633 EAST FOURTH STREET
+		STREET 2:		SUITE 148
+		CITY:			SANTA ANA
+		STATE:			CA
+		ZIP:			92701
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lucent, Inc.
+		DATE OF NAME CHANGE:	20190530
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>lucn-20250214.htm
+<DESCRIPTION>LUCENT HOLDINGS, INC. - FORM 8-K SEC FILING
+<TEXT>
+xml version='1.0' encoding='ASCII'?LUCENT HOLDINGS, INC. - Form 8-K SEC filing
+
+0001778343false00017783432025-02-142025-02-14
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 14, 2025
+
+LUCENT HOLDINGS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Montana 
+
+000-56509 
+
+83-4628133
+
+(State or other jurisdiction
+
+of incorporation) 
+
+(Commission
+
+File Number) 
+
+(IRS Employer
+
+Identification Number)
+
+1633 East Fourth Street, Suite 148
+
+Santa Ana, CA 
+
+92701
+
+(Address of principal executive offices) 
+
+(Zip Code)
+
+Registrants telephone number, including area code: (213) 298-3812
+
+LUCENT, INC.
+
+(Former Name)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act 
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act 
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act 
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+ITEM 5.03 - AMENDMENTS TO ARTICLES OF INCORPORATION
+
+The Articles of Incorporation were amended changing the name of the corporation to Lucent Holdings, Inc. after Board of Directors approval.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: February 14, 2025
+
+Lucent Holdings, Inc.
+
+/s/ Steven Arenal
+
+Steven Arenal
+
+Chief Executive Officer, Chief Financial Officer, Director
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>2
+<FILENAME>lucn-20250214_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>3
+<FILENAME>lucn-20250214_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABELS LINKBASE DOCUMENT
+<TEXT>
+Pre-commencement Tender Offer 
+
+Entity Address, State or Province 
+
+Entity Tax Identification Number 
+
+Entity Address, City or Town 
+
+Document Type 
+
+Entity Emerging Growth Company 
+
+Entity Incorporation, State or Country Code 
+
+Local Phone Number 
+
+Securities Act File Number 
+
+Soliciting Material 
+
+Document Period End Date 
+
+Pre-commencement Issuer Tender Offer 
+
+Details 
+
+Amendment Flag 
+
+Entity Ex Transition Period 
+
+City Area Code 
+
+Entity Address, Postal Zip Code 
+
+Entity Address, Address Line Two 
+
+Entity Registrant Name 
+
+Written Communications 
+
+Registrant CIK 
+
+Entity Address, Address Line One
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>4
+<FILENAME>lucn-20250214_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>5
+<FILENAME>lucn-20250214.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+000010 - Document - Document and Entity Information 
+link:presentationLink 
+link:definitionLink 
+link:calculationLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Document and Entity Information
+
+Feb. 14, 2025
+
+Details 
+
+Registrant CIK 0001778343
+
+Document Type 8-K
+
+Document Period End Date Feb. 14, 2025
+
+Entity Registrant Name LUCENT HOLDINGS, INC.
+
+Entity Incorporation, State or Country Code MT
+
+Securities Act File Number 000-56509
+
+Entity Tax Identification Number 83-4628133
+
+Entity Address, Address Line One 1633 East Fourth Street
+
+Entity Address, Address Line Two Suite 148
+
+Entity Address, City or Town Santa Ana
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 92701
+
+City Area Code 213
+
+Local Phone Number 298-3812
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company true
+
+Entity Ex Transition Period false
+
+Amendment Flag false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 7A
+
+-Section B
+
+-Subsection 2
+
++ Details
+
+Name: dei_EntityExTransitionPeriod
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- References
+
+No definition available.+ Details
+
+Name: us-gaap_TextBlockAbstract
+
+Namespace Prefix: us-gaap_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+21 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+000010 - Document - Document and Entity Information 
+Sheet 
+http://none/20250214/role/idr_DocumentDocumentAndEntityInformation 
+Document and Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+lucn-20250214.htm 
+lucn-20250214.xsd 
+lucn-20250214_def.xml 
+lucn-20250214_lab.xml 
+lucn-20250214_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>14
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>15
+<FILENAME>0001393905-25-000065-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>lucn-20250214_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001778343 
+
+2025-02-14 
+2025-02-14 
+
+0001778343 
+false 
+8-K 
+2025-02-14 
+LUCENT HOLDINGS, INC. 
+MT 
+000-56509 
+83-4628133 
+1633 East Fourth Street 
+Suite 148 
+Santa Ana 
+CA 
+92701 
+213 
+298-3812 
+false 
+false 
+false 
+false 
+true 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

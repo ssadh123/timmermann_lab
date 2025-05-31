@@ -1,0 +1,1528 @@
+<SEC-DOCUMENT>0000019617-25-000042.txt : 20250115
+<SEC-HEADER>0000019617-25-000042.hdr.sgml : 20250115
+<ACCEPTANCE-DATETIME>20250115093455
+ACCESSION NUMBER:		0000019617-25-000042
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		34
+CONFORMED PERIOD OF REPORT:	20250115
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250115
+DATE AS OF CHANGE:		20250115
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JPMORGAN CHASE & CO
+		CENTRAL INDEX KEY:			0000019617
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				132624428
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05805
+		FILM NUMBER:		25531355
+
+	BUSINESS ADDRESS:	
+		STREET 1:		383 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2122706000
+
+	MAIL ADDRESS:	
+		STREET 1:		383 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	J P MORGAN CHASE & CO
+		DATE OF NAME CHANGE:	20010102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHASE MANHATTAN CORP /DE/
+		DATE OF NAME CHANGE:	19960402
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHEMICAL BANKING CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>jpm-20250115.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?jpm-20250115
+
+false000001961700000196172025-01-152025-01-150000019617us-gaap:CommonStockMember2025-01-152025-01-150000019617jpm:DepositarySharesOneFourHundredthInterestinaShareof5.75NonCumulativePreferredStockSeriesDDMember2025-01-152025-01-150000019617jpm:DepositarySharesOneFourHundredthInterestinaShareof6.00NonCumulativePreferredStockSeriesEEMember2025-01-152025-01-150000019617jpm:DepositarySharesOneFourHundredthInterestinaShareof4.75NonCumulativePreferredStockSeriesGGMember2025-01-152025-01-150000019617jpm:DepositarySharesOneFourHundredthInterestInAShareOf455NonCumulativePreferredStockSeriesJJMember2025-01-152025-01-150000019617jpm:DepositarySharesOneFourHundredthInterestInAShareOf4625NonCumulativePreferredStockSeriesLLMember2025-01-152025-01-150000019617jpm:DepositarySharesOneFourHundredthInterestInAShareOf420NonCumulativePreferredStockSeriesMMMember2025-01-152025-01-150000019617jpm:GuaranteeOfCallableFixedRateNotesDueJune102032OfJPMorganChaseFinancialCompanyLLCMember2025-01-152025-01-150000019617jpm:GuaranteeOfAlerianMLPIndexETNsDueJanuary282044OfJPMorganChaseFinancialCompanyLLCDomain2025-01-152025-01-15
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (date of earliest event reported): January 15, 2025
+
+JPMorgan Chase & Co.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 1-5805 13-2624428
+
+(State or other jurisdiction of
+
+incorporation or organization) (Commission File Number) (I.R.S. employer
+
+identification no.)
+
+383 Madison Avenue, 
+
+New York, New York 10179
+
+(Address of principal executive offices) (Zip Code)
+
+Registrants telephone number, including area code: (212) 270-6000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Common stock JPM The New York Stock Exchange
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 5.75% Non-Cumulative Preferred Stock, Series DD JPM PR D The New York Stock Exchange
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.00% Non-Cumulative Preferred Stock, Series EE JPM PR C The New York Stock Exchange
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.75% Non-Cumulative Preferred Stock, Series GG JPM PR J The New York Stock Exchange
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.55% Non-Cumulative Preferred Stock, Series JJ JPM PR K The New York Stock Exchange
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.625% Non-Cumulative Preferred Stock, Series LL JPM PR L The New York Stock Exchange
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.20% Non-Cumulative Preferred Stock, Series MM JPM PR M The New York Stock Exchange
+
+Guarantee of Callable Fixed Rate Notes due June 10, 2032 of JPMorgan Chase Financial Company LLC JPM/32 The New York Stock Exchange
+
+Guarantee of Alerian MLP Index ETNs due January 28, 2044 of JPMorgan Chase Financial Company LLC AMJB NYSE Arca, Inc.
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 7.01 Regulation FD Disclosure
+
+On January 15, 2025, JPMorgan Chase & Co. (JPMorganChase or the Firm) held an investor presentation to review 2024 fourth quarter earnings.
+
+Exhibit 99 is a copy of slides furnished for, and posted on the Firms website in connection with, the presentation. The slides are being furnished pursuant to Item 7.01, and the information contained therein shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, or otherwise subject to the liabilities under that Section. Furthermore, the information contained in Exhibit 99 shall not be deemed to be incorporated by reference into the filings of the Firm under the Securities Act of 1933.
+
+This Current Report on Form 8-K (including the Exhibit hereto) contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are based on the current beliefs and expectations of JPMorganChases management and are subject to significant risks and uncertainties. Actual results may differ from those set forth in the forward-looking statements. Factors that could cause JPMorganChases actual results to differ materially from those described in the forward-looking statements can be found in JPMorganChases Annual Report on Form 10-K for the year ended December 31, 2023, and Quarterly Report on Form 10-Q for the quarters ended March 31, 2024, June 30, 2024 and September 30, 2024, which have been filed with the Securities and Exchange Commission and are available on JPMorganChases website (https://jpmorganchaseco.gcs-web.com/financial-information/sec-filings) and on the Securities and Exchange Commissions website (www.sec.gov). JPMorganChase does not undertake to update any forward-looking statements.
+
+Item 9.01 Financial Statements and Exhibits
+
+(d) Exhibit
+
+Exhibit No. Description of Exhibit
+
+99 
+
+JPMorgan Chase & Co. Earnings Presentation Slides Financial Results 4Q24
+
+101 Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101).
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+JPMorgan Chase & Co.
+
+(Registrant)
+
+By: /s/ Elena Korablina
+
+Elena Korablina
+
+Managing Director and Firmwide Controller
+
+(Principal Accounting Officer)
+
+Dated: January 15, 2025
+
+3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>a4q24_earningsxpresentat.htm
+<DESCRIPTION>JPMORGAN CHASE & CO. EARNINGS PRESENTATION SLIDES - FINANCIAL RESULTS - 4Q24
+<TEXT>
+a4q24_earningsxpresentat
+
+4Q24 Financial Results January 15, 2025 Exhibit 99 
+
+Agenda Page 1 4Q24 and FY24 Financial Results 1 2 Financial Outlook 9 3 Notes 12 
+
+4Q24 Financial highlights 1 See note 3 on slide 12 2 Represents the estimated Basel III common equity Tier 1 (CET1) capital and ratio and Total Loss-Absorbing Capacity for the current period. See note 1 on slide 13 3 Standardized risk-weighted assets (RWA). Estimated for the current period. See note 1 on slide 13 4 Cash and marketable securities represents HQLA and unencumbered marketable securities. Estimated for the current period. See note 2 on slide 13 5 See note 1 on slide 12 6 Includes the net impact of employee issuances. Excludes excise tax and commissions 7 Last twelve months (LTM) CET1 capital ratios2 Std. 15.7% | Adv. 15.8% Total Loss-Absorbing Capacity2 $547B Std. RWA3 $1.8T Cash and marketable securities4 $1.4T Average loans $1.3T Balance sheet Loans: average loans of $1.3T up 2% YoY and 1% QoQ Deposits: average deposits of $2.4T up 2% YoY and 1% QoQ CET1 capital of $276B2 Standardized CET1 capital ratio of 15.7%2; Advanced CET1 capital ratio of 15.8%2 Capital distributed Common dividend of $3.5B or $1.25 per share $4.0B of common stock net repurchases6 Net payout LTM of 54%6,7 Income statement 4Q24 net income of $14.0B and EPS of $4.81 Managed revenue of $43.7B5 Expense of $22.8B and managed overhead ratio of 52%5 ROTCE1 21% 1 
+
+4Q24 3Q24 4Q23 Net interest income $23.5 ($0.1) ($0.7) Noninterest revenue 20.3 0.5 4.5 Managed revenue1 43.7 0.4 3.8 Expense 22.8 0.2 (1.7) Credit costs 2.6 (0.5) (0.1) Net income $14.0 $1.1 $4.7 Net income applicable to common stockholders $13.7 $1.1 $4.8 EPS diluted $4.81 $0.44 $1.77 ROE2 17% 16% 12% ROTCE2,3 21 19 15 Overhead ratio managed1,2 52 52 61 Memo: NII excluding Markets 4 $23.0 ($0.4) ($0.5) NIR excluding Markets 4,5 13.7 1.0 3.1 Markets revenue 5 7.0 (0.1) 1.2 Managed revenue1 43.7 0.4 3.8 Adjusted expense 6 $22.5 $0.2 ($1.8) Adjusted overhead ratio 1,2,6 52% 51% 61% $ O/(U) 4Q24 Financial results1 4Q24 Tax rate Effective rate: 19.4% Managed rate: 23.7%1,7 Note: Totals may not sum due to rounding 1 See note 1 on slide 12 2 Actual numbers for all periods, not over/(under) 3 See note 3 on slide 12 4 See note 2 on slide 12 5 Includes the markets-related revenues of the former Commercial Banking business segment. Prior-period amounts have been revised to conform with the current presentation 6 See note 5 on slide 12 7 Reflects fully taxable-equivalent (FTE) adjustments of $970mm in 4Q24 $B, EXCEPT PER SHARE DATA 4Q24 ROE O/H ratio CCB 32% 53% CIB 19% 50% AWM 38% 65% $B 4Q24 3Q24 4Q23 Net charge-offs $2.4 $2.1 $2.2 Reserve build/(release) 0.3 1.0 0.6 Credit costs $2.6 $3.1 $2.8 2 
+
+$ O/(U) FY2024 FY2023 FY2023 Net interest income $93.1 $89.7 $3.3 Noninterest revenue 87.5 72.6 14.9 Managed revenue1 180.6 162.4 18.2 Expense 91.8 87.2 4.6 Credit costs 10.7 9.3 1.4 Net income2 $58.5 $49.6 $8.9 Net income applicable to common stockholders $56.9 $47.8 $9.1 EPS diluted2 $19.75 $16.23 $3.52 ROE3 18% 17% ROTCE3,4 22 21 Overhead ratio managed1,3 51 54 Memo: NII excluding Markets 5 $92.4 $90.0 $2.4 NIR excluding Markets 5,6 58.2 44.4 13.8 Markets revenue 6 30.0 28.0 2.0 Managed revenue1 180.6 162.4 18.2 Adjusted expense 7 $91.1 $85.7 $5.3 Adjusted overhead ratio 1,3,7 50% 53% FY24 Financial results1,2 FY24 Tax rate Effective rate: 22.1% Managed rate: 25.2%1,8 Note: Totals may not sum due to rounding 1 See note 1 on slide 12 2 FY24 results include the impact of significant items. Excluding these items results in reported net income of $54.0B and EPS of $18.22. See note 4 on slide 12 for additional information 3 Actual numbers for all periods, not over/(under) 4 See note 3 on slide 12 5 See note 2 on slide 12 6 Includes the markets-related revenues of the former Commercial Banking business segment. Prior-period amounts have been revised to conform with the current presentation 7 See note 5 on slide 12 8 Reflects fully taxable-equivalent (FTE) adjustments of $3.0B in 2024 $B, EXCEPT PER SHARE DATA $B FY2024 FY2023 Net charge-offs $8.6 $6.2 Reserve build/(release) 2.0 3.1 Credit costs $10.7 $9.3 FY2024 ROE O/H ratio CCB 32% 53% CIB 18% 50% AWM 34% 67% 3 
+
+Fortress balance sheet $B, EXCEPT PER SHARE DATA STANDARDIZED RISK-WEIGHTED ASSETS ($B)1 Note: Totals may not sum due to rounding 1 Estimated for the current period. See note 1 on slide 13 2 Estimated for the current period. Represents the supplementary leverage ratio (SLR) 3 Estimated for the current period. Liquidity Coverage Ratio (LCR) represents the average LCR for the Firm and JPMorgan Chase Bank, N.A. (Bank). See note 2 on slide 13 4 See note 3 on slide 12 5 Reflects Net Income Applicable to Common Equity 6 Includes net share repurchases and common dividends 7 Excludes AOCI on cash flow hedges and DVA related to structured notes 8 Primarily CET1 capital deductions 9 Includes Loans and Commitments 4Q24 3Q24 4Q23 Risk-based capital metrics1 CET1 capital $276 $273 $251 CET1 capital ratio Standardized 15.7% 15.3% 15.0% CET1 capital ratio Advanced 15.8 15.5 15.0 Basel III Standardized RWA $1,759 $1,783 $1,672 Leverage-based capital metric2 Firm SLR 6.1% 6.0% 6.1% Liquidity metrics3 Firm LCR 113% 114% 113% Bank LCR 124 121 129 Total excess HQLA $291 $272 $309 HQLA and unencumbered marketable securities 1,428 1,477 1,447 Balance sheet metrics Total assets (EOP) $4,003 $4,210 $3,875 Deposits (average) 2,417 2,383 2,372 Tangible book value per share4 97.30 96.42 86.08 4 15.3% 15.7% (42 bps) (20 bps) (0 bps) 77 bps 21 bps 3Q24 Net income Capital Distributions RWA AOCI Other 4Q24 5 6 7 8 1,783 (5) (8) (10) 3Q24 Lending Market Risk Credit Risk ex. Lending 4Q24 1,759 9 STANDARDIZED CET1 RATIO1 
+
+Consumer & Community Banking1 CIB AWM Corp.CCB Average loans up 1% YoY and QoQ Average deposits down 4% YoY and flat QoQ EOP deposits down 3% YoY and flat QoQ Active mobile customers up 7% YoY Debit & credit card sales volume up 8% YoY Client investment assets up 14% YoY and 2% QoQ KEY DRIVERS / STATISTICS ($B) DETAIL BY BUSINESS FINANCIAL PERFORMANCESELECTED INCOME STATEMENT DATA ($MM) KEY DRIVERS / STATISTICS ($B)3 Net income of $4.5B, down 6% YoY Revenue of $18.4B, up 1% YoY, driven by higher noninterest revenue predominantly in Card Services & Auto and Home Lending, partially offset by lower net interest income Expense of $9.7B, up 4% YoY, predominantly driven by higher compensation for advisors and bankers, as well as higher technology expense Credit costs of $2.6B NCOs of $2.1B, up $428mm YoY, driven by Card Services, primarily due to the seasoning of vintages originated in recent years and balance growth Net reserve build of $557mm was predominantly in Card Services, driven by growth in revolving balances, partially offset by changes in certain macroeconomic variables 1 See note 1 on slide 12 2 See note 3 on slide 13 For additional footnotes see slide 14 $ O/(U) 4Q24 3Q24 4Q23 Revenue2 $18,362 $571 $265 Banking & Wealth Management 10,154 64 (723) Home Lending 1,297 2 136 Card Services & Auto 6,911 505 852 Expense 9,728 142 392 Credit costs 2,623 (172) 434 Net charge-offs (NCOs) 2,066 147 428 Change in allowance 557 (319) 6 Net income $4,516 $470 ($272) 4Q24 3Q24 4Q23 Average equity $54.5 $54.5 $55.5 ROE 32% 29% 33% Overhead ratio 53 54 52 Average loans $577.6 $572.5 $571.2 Average deposits 1,050.6 1,053.7 1,092.4 Active mobile customers (mm)4 57.8 57.0 53.8 Debit & credit card sales volume5 $477.6 $453.4 $441.0 5 4Q24 3Q24 4Q23 Banking & Wealth Management Business Banking average loans $19.5 $19.5 $19.5 Business Banking loan originations 1.0 1.1 1.1 Client investment assets (EOP) 1,087.6 1,067.9 951.1 Deposit margin 2.61% 2.60% 2.82% Home Lending Average loans $247.4 $250.6 $261.4 Loan originations6 12.1 11.4 7.2 Third-party mortgage loans serviced (EOP) 648.0 656.1 631.2 Net charge-off/(recovery) rate (0.02)% (0.07)% 0.01% Card Services & Auto Card Services average loans $224.3 $217.3 $202.7 Auto average loans and leased assets 85.3 84.9 86.8 Auto loan and lease originations 10.6 10.0 9.9 Card Services net charge-off rate 3.30% 3.24% 2.79% Card Services net revenue rate 10.47 9.91 9.82 Card Services sales volume5 $335.1 $316.6 $307.2 
+
+REVENUE BY CLIENT COVERAGE SEGMENT ($MM) KEY DRIVERS / STATISTICS ($B)4 Commercial & Investment Bank1,2 1 See note 1 on slide 12; For additional footnotes see slide 14 CCB CIB AWM Corp. SELECTED INCOME STATEMENT DATA ($MM) $ O/(U) 4Q24 3Q24 4Q23 Revenue $17,598 $583 $2,624 Investment Banking revenue 2,602 248 819 Payments 4,703 333 247 Lending 1,916 22 153 Other 47 19 11 Total Banking & Payments 9,268 622 1,230 Fixed Income Markets 5,006 355 837 Equity Markets 2,043 (458) 365 Securities Services 1,314 (12) 123 Credit Adjustments & Other (33) 76 69 Total Markets & Securities Services 8,330 (39) 1,394 Expense 8,712 (39) 543 Credit costs 61 (255) (515) Net income $6,636 $945 $2,459 3 3 4Q24 3Q24 4Q23 Average equity $132.0 $132.0 $138.0 ROE 19% 17% 11% Overhead ratio 50 51 55 IB fees ($mm) $2,479 $2,267 $1,667 Average Banking & Payments loans 345.0 348.4 352.8 Average client deposits 1,011.6 966.0 928.6 Assets under custody ($T) 35.3 35.8 32.4 Net charge-off/(recovery) rate 0.25% 0.13% 0.21% 5 6 6 Net income of $6.6B, up 59% YoY; revenue of $17.6B, up 18% YoY Banking & Payments revenue IB revenue of $2.6B, up 46% YoY, driven by higher fees across all products Payments revenue of $4.7B, up 6% YoY Excluding the net impact of equity investments, revenue was up 3%, driven by higher deposit balances and fee growth, largely offset by deposit margin compression Lending revenue of $1.9B, up 9% YoY, predominantly driven by lower losses on hedges of the retained lending portfolio Markets & Securities Services revenue Markets revenue of $7.0B, up 21% YoY Fixed Income Markets revenue of $5.0B, up 20% YoY, largely driven by higher revenue in Credit and Currencies & Emerging Markets Equity Markets revenue of $2.0B, up 22% YoY, predominantly driven by higher client activity in Derivatives and Cash Securities Services revenue of $1.3B, up 10% YoY, driven by fee growth on higher client activity and market levels, as well as higher deposit balances Expense of $8.7B, up 7% YoY, predominantly driven by higher brokerage, technology and legal expense Credit costs of $61mm, driven by net downgrade activity and the net impact of charge-offs, largely offset by a reserve release due to an update to loss assumptions on certain loans in Markets NCOs of $300mm and net reserve release of $239mm $ O/(U) 4Q24 3Q24 4Q23 Banking & Payments revenue7 $9,268 $622 $1,230 Global Corporate & Investment Banking 6,449 310 1,034 Commercial Banking 2,899 8 (50) Middle Market Banking 1,965 34 (45) Commercial Real Estate Banking 934 (26) (5) Other (80) 304 246 FINANCIAL PERFORMANCE 
+
+SELECTED INCOME STATEMENT DATA ($MM) Asset & Wealth Management1 CCB CIB AWM Corp. KEY DRIVERS / STATISTICS ($B)2 Net income of $1.5B, up 25% YoY Revenue of $5.8B, up 13% YoY, predominantly driven by growth in management fees on higher average market levels and strong net inflows, as well as higher performance fees Expense of $3.8B, up 11% YoY, predominantly driven by higher compensation, including revenue-related compensation and continued growth in private banking advisor teams, as well as higher distribution fees AUM of $4.0T and client assets of $5.9T were each up 18% YoY, driven by continued net inflows and higher market levels For the quarter, AUM had long-term net inflows of $76B and liquidity net inflows of $94B Average loans of $234B, up 3% YoY and up 2% QoQ Average deposits of $249B, up 10% YoY and up 5% QoQ 1 See note 1 on slide 12 2 Actual numbers for all periods, not over/(under) $ O/(U) 4Q24 3Q24 4Q23 Revenue $5,778 $339 $683 Asset Management 2,887 362 484 Global Private Bank 2,891 (23) 199 Expense 3,772 133 384 Credit costs (35) (39) (34) Net income $1,517 $166 $300 4Q24 3Q24 4Q23 Average equity $15.5 $15.5 $17.0 ROE 38% 34% 28% Pretax margin 35 33 34 Assets under management ("AUM") $4,045 $3,904 $3,422 Client assets 5,932 5,721 5,012 Average loans 233.8 229.3 227.0 Average deposits 248.8 236.5 226.6 7 FINANCIAL PERFORMANCE 
+
+Corporate1 1 See note 1 on slide 12 2 See note 3 on slide 13 CCB CIB AWM Corp. Revenue of $2.0B, up $223mm YoY Net interest income of $2.0B, down $415mm YoY, driven by lower rates, largely offset by the impact of balance sheet actions, primarily securities reinvestment Noninterest revenue was a net loss of $30mm, compared with a net loss of $668mm in the prior year, driven by lower net investment securities losses Expense of $550mm, down $3.0B YoY, predominantly driven by the absence of the $2.9B FDIC special assessment in the prior year SELECTED INCOME STATEMENT DATA ($MM) $ O/(U) 4Q24 3Q24 4Q23 Revenue $2,000 ($1,070) $223 Net interest income 2,030 (885) (415) Noninterest revenue (30) (185) 638 Expense 550 (39) (3,043) Credit costs (18) (14) (16) Net income/(loss) $1,336 ($474) $2,211 2 8 FINANCIAL PERFORMANCE 
+
+Agenda Page 1 4Q24 and FY24 Financial Results 1 2 Financial Outlook 9 3 Notes 12 
+
+$89 ($3) $1 2024 2025 outlook We expect ~$90B in NII ex. Markets for 2025, as balance sheet growth partially offsets lower rates 1 See note 2 on slide 12 2 Outlook is based on implied rate curve as of January 10, 2025 3 Federal Funds target upper bound (FFTUB) 4 Interest on reserve balances (IORB) Rates / margins2 1 rate cut (4.25% FFTUB3 at YE) Average IORB4 declines 94bps YoY Deposit margin compression 2Q: $23 3Q: $23 4Q: $23 $92 ~$90 Balance sheet growth / mix Card revolve growth and modestly higher deposit balances NET INTEREST INCOME EX. MARKETS1 ($B) Q1 Q2 Q3 Q4 1Q: $23 Lower rates Offset by growth Markets NII: $1B Firmwide NII: $93B Markets NII: ~$4B Firmwide NII: ~$94B CARD SERVICES AVERAGE BALANCE ($B) AVERAGE DEPOSITS ($B) $148 $177 $203 $224 1,100 1,200 1,300 1,400 1,500 1,600 1,700 1,800 1,900 0 50 100 150 200 250 4Q21 4Q22 4Q23 4Q24 Total O/S Revolving balances Firmwide BWM $1,094 $1,126 $1,078 $1,035 $2,468 $2,380 $2,372 $2,417 4Q21 4Q22 4Q23 4Q24 Increase driven by lower funding costs, largely revenue neutral 9 
+
+$0.0 $0.5 $1.0 $1.5 $2.0 $2.5 Marketing Technology Bankers, Advisors, Branches and S&GO Volume- and revenue-related $38 $41 $35 $38 $14 $15 $2 $2 2024 2025 outlook Our 2025 expense outlook is ~$95B ~$95 ADJUSTED EXPENSE1 ($B) CCB CIB AWM Corp. $91.1 FDIC SA and Foundation contribution2 2025 YoY expense drivers (ex. FDIC SA and Foundation contribution) Note: Totals may not sum due to rounding 1 See note 5 on slide 12 2 $725mm increase to the FDIC special assessment in 1Q24 and $1.0B donation of Visa shares to pre-fund contributions to the Firms Foundation in 2Q24 Volume- and 10 Bankers, Advisors, Branches and Intl Consumer Volume- and revenue-related Auto lease growth Capital markets growth / activity Bankers, Advisors, Branches and International Consumer Initiatives We continue to invest in further business growth Technology Business growth (volumes) and investments Public cloud, data centers Cyber Marketing Drives demand for card products and strong customer engagement Inflation-related growth of ~$2B across the expense base 
+
+Outlook1 1 See notes 1, 2 and 5 on slide 12 Expect FY2025 net interest income of ~$94B, market dependent Expect FY2025 net interest income excluding Markets of ~$90B, market dependent Expect FY2025 Card Services NCO rate of ~3.6%3 FIRMWIDE Expect FY2025 adjusted expense of ~$95B, market dependent Adjusted expense excludes Firmwide legal expense2 1 11 
+
+Agenda Page 1 4Q24 and FY24 Financial Results 1 2 Financial Outlook 9 3 Notes 12 
+
+Notes on non-GAAP financial measures 1. In addition to analyzing the Firms results on a reported basis, management reviews Firmwide results, including the overhead ratio, on a managed basis; these Firmwide managed basis results are non-GAAP financial measures. The Firm also reviews the results of the lines of business on a managed basis. The Firms definition of managed basis starts, in each case, with the reported U.S. GAAP results and includes certain reclassifications to present total net revenue for the Firm as a whole and for each of the reportable business segments and Corporate on a fully taxable-equivalent basis. Accordingly, revenue from investments that receive tax credits and tax-exempt securities is presented in the managed results on a basis comparable to taxable investments and securities. These financial measures allow management to assess the comparability of revenue from year-to-year arising from both taxable and tax-exempt sources. The corresponding income tax impact related to tax- exempt items is recorded within income tax expense. These adjustments have no impact on net income as reported by the Firm as a whole or by each of the lines of business and Corporate. For a reconciliation of the Firms results from a reported to managed basis, refer to page 7 of the Earnings Release Financial Supplement 2. In addition to reviewing net interest income (NII) and noninterest revenue (NIR) on a managed basis, management also reviews these metrics excluding Markets, which is composed of Fixed Income Markets and Equity Markets. Markets revenue consists of principal transactions, fees, commissions and other income, as well as net interest income. These metrics, which exclude Markets, are non-GAAP financial measures. Management reviews these metrics to assess the performance of the Firms lending, investing (including asset-liability management) and deposit-raising activities, apart from any volatility associated with Markets activities. In addition, management also assesses Markets business performance on a total revenue basis as offsets may occur across revenue lines. For example, securities that generate net interest income may be risk-managed by derivatives that are reflected at fair value in principal transactions revenue. Management believes these measures provide investors and analysts with alternative measures to analyze the revenue trends of the Firm. For a reconciliation of NII and NIR from reported to excluding Markets, refer to page 28 of the Earnings Release Financial Supplement. For additional information on Markets revenue, refer to page 75 of the Firms 2023 Form 10-K 3. Tangible common equity (TCE), return on tangible common equity (ROTCE) and tangible book value per share (TBVPS), are each non-GAAP financial measures. TCE represents the Firms common stockholders equity (i.e., total stockholders equity less preferred stock) less goodwill and identifiable intangible assets (other than mortgage servicing rights), net of related deferred tax liabilities. For a reconciliation from common stockholders equity to TCE, refer to page 10 of the Earnings Release Financial Supplement. ROTCE measures the Firms net income applicable to common equity as a percentage of average TCE. TBVPS represents the Firms TCE at period-end divided by common shares at period-end. Book value per share was $116.07, $115.15, and $104.45 at December 31, 2024, September 30, 2024, and December 31, 2023, respectively. TCE, ROTCE and TBVPS are utilized by the Firm, as well as investors and analysts, in assessing the Firms use of equity 4. Full-year 2024 results included the impact of significant items. These items collectively refer to a $7.9B net gain related to Visa shares, a $1.0B donation of Visa shares to pre-fund contributions to the Firms Foundation, $546mm of net investment securities losses and a $725mm increase to the estimated FDIC special assessment, all of which were previously disclosed in the first and second quarters of 2024. Full-year 2024 revenue, net income, earnings per share and ROTCE excluding significant items are non-GAAP financial measures. Excluding these items resulted in a decrease of $7.3B to reported revenue from $177.6B to $170.2B, a decrease of $7.3B to managed revenue from $180.6B to $173.3B, a decrease of $4.5B (after tax) to reported net income from $58.5B to $54.0B, a decrease of $1.53 per share to reported EPS from $19.75 to $18.22 and a decrease of 2ppts to reported ROTCE from 22% to 20%. Management believes these measures provide useful information to investors and analysts in assessing the Firms results 5. Adjusted expense and adjusted overhead ratio are each non-GAAP financial measures. Adjusted expense represents noninterest expense excluding Firmwide legal expense of $236mm, $259mm, and $175mm for the three months ended December 31, 2024, September 30, 2024, and December 31, 2023, respectively; and $740mm and $1.4B for the full year 2024 and 2023, respectively. The adjusted overhead ratio measures the Firms adjusted expense as a percentage of managed net revenue. Management believes this information helps investors understand the effect of these items on reported results and provides an alternate presentation of the Firms performance 12 
+
+Additional notes 1. Reflects the Current Expected Credit Losses ("CECL") capital transition provisions. As of December 31, 2024 and September 30, 2024, CET1 capital and Total Loss- Absorbing Capacity reflected the remaining $720mm CECL benefit; as of December 31, 2023, CET1 capital reflected a $1.4B benefit. Refer to Note 21 of the Firm's Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024 and Note 27 of the Firm's 2023 Form 10-K for additional information 2. Total excess high-quality liquid assets (HQLA) represent the average eligible unencumbered liquid assets that are in excess of what is required to meet the estimated Firm and Bank total net cash outflows over a prospective 30 calendar-day period of significant stress under the LCR rule. HQLA and unencumbered marketable securities, includes end-of-period HQLA, excluding regulatory prescribed haircuts under the LCR rule where applicable, for both the Firm and the excess HQLA- eligible securities included as part of the excess liquidity at JPMorgan Chase Bank, N.A., which are not transferable to non-bank affiliates and thus excluded from the Firms LCR. Also includes other end-of-period unencumbered marketable securities, such as equity and debt securities. Does not include borrowing capacity at Federal Home Loan Banks and the discount window at the Federal Reserve Bank. Refer to Liquidity Risk Management on pages 50-57 of the Firms Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024 and pages 102-109 of the Firms 2023 Form 10-K for additional information 3. During the fourth quarter of 2024, the Firm made a change to its funds transfer pricing with respect to consumer deposits, resulting in an increase in the funding benefit reflected within CCB net interest income which is fully offset within Corporate net interest income 13 
+
+Additional notes on slides 5-6 Slide 5 Consumer & Community Banking 3. Actual numbers for all periods, not over/(under) 4. Users of all mobile platforms who have logged in within the past 90 days 5. Excludes Commercial Card 6. Firmwide mortgage origination volume was $14.2B, $13.3B, and $8.6B for the three months ended December 31, 2024, September 30, 2024, and December 31, 2023, respectively Slide 6 Commercial & Investment Bank 2. Effective in the second quarter of 2024, the Firm reorganized its reportable business segments by combining the former Corporate & Investment Bank and Commercial Banking business segments to form one segment, the Commercial & Investment Bank ("CIB") 3. In the fourth quarter of 2024, certain net funding costs that were previously allocated to Fixed Income Markets were reclassified to Equity Markets. Prior-period amounts have been revised to conform with the current presentation 4. Actual numbers for all periods, not over/(under) 5. Client deposits and other third-party liabilities (client deposits) pertain to the Payments and Securities Services businesses 6. Loans held-for-sale and loans at fair value were excluded when calculating the net charge-off/(recovery) rate 7. Refer to page 28 of the Firm's Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024 for a description of each of the client coverage segments 14 
+
+Forward-looking statements This presentation contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are based on the current beliefs and expectations of JPMorgan Chase & Co.s management and are subject to significant risks and uncertainties. Actual results may differ from those set forth in the forward-looking statements. Factors that could cause JPMorgan Chase & Co.s actual results to differ materially from those described in the forward-looking statements can be found in JPMorgan Chase & Co.s Annual Report on Form 10-K for the year ended December 31, 2023 and Quarterly Report on Form 10-Q for the quarter ended September 30, 2024, which have been filed with the Securities and Exchange Commission and are available on JPMorgan Chase & Co.s website (https://jpmorganchaseco.gcs-web.com/financial-information/sec- filings), and on the Securities and Exchange Commissions website (www.sec.gov). JPMorgan Chase & Co. does not undertake to update any forward-looking statements. 15
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>jpm-20250115.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Document and Entity Information Statement 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>4
+<FILENAME>jpm-20250115_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>jpm-20250115_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Class of Stock [Domain] 
+Class of Stock [Domain] 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entities [Table] 
+Entities [Table] 
+
+Guarantee of Callable Fixed Rate Notes due June 10, 2032 of JPMorgan Chase Financial Company LLC 
+Guarantee of Callable Fixed Rate Notes Due June 10, 2032 of JPMorgan Chase Financial Company LLC [Member] 
+Guarantee of Callable Fixed Rate Notes Due June 10, 2032 of JPMorgan Chase Financial Company LLC 
+
+Class of Stock [Axis] 
+Class of Stock [Axis] 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.00% Non-Cumulative Preferred Stock, Series EE 
+Depositary Shares, One-Four Hundredth Interest in a Share of 6.00% Non-Cumulative Preferred Stock, Series EE [Member] 
+Depositary Shares, One-Four Hundredth Interest in a Share of 6.00% Non-Cumulative Preferred Stock, Series EE [Member] 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Cover page. [Abstract] 
+Cover page. [Abstract] 
+Cover page. [Abstract] 
+
+Soliciting Material 
+Soliciting Material 
+
+City Area Code 
+City Area Code 
+
+Common stock 
+Common Stock [Member] 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.625% Non-Cumulative Preferred Stock, Series LL 
+Depositary Shares, One-Four Hundredth Interest in a Share of 4.625% Non-Cumulative Preferred Stock, Series LL [Member] 
+Depositary Shares, One-Four Hundredth Interest in a Share of 4.625% Non-Cumulative Preferred Stock, Series LL 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.55% Non-Cumulative Preferred Stock, Series JJ 
+Depositary Shares, One-Four Hundredth Interest in a Share of 4.55% Non-Cumulative Preferred Stock, Series JJ [Member] 
+Depositary Shares, One-Four Hundredth Interest in a Share of 4.55% Non-Cumulative Preferred Stock, Series JJ 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 5.75% Non-Cumulative Preferred Stock, Series DD 
+Depositary Shares, One-Four Hundredth Interest in a Share of 5.75% Non-Cumulative Preferred Stock, Series DD [Member] 
+Depositary Shares, One-Four Hundredth Interest in a Share of 5.75% Non-Cumulative Preferred Stock, Series DD [Member] 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.20% Non-Cumulative Preferred Stock, Series MM 
+Depositary Shares, One-Four Hundredth Interest in a Share of 4.20% Non-Cumulative Preferred Stock, Series MM [Member] 
+Depositary Shares, One-Four Hundredth Interest in a Share of 4.20% Non-Cumulative Preferred Stock, Series MM 
+
+Document Period End Date 
+Document Period End Date 
+
+Guarantee Of Alerian MLP Index ETNs Due January 28, 2044 of JPMorgan Chase Financial Company LLC [Domain] 
+Guarantee Of Alerian MLP Index ETNs Due January 28, 2044 of JPMorgan Chase Financial Company LLC [Domain] 
+Guarantee Of Alerian MLP Index ETNs Due January 28, 2044 Of JPMorgan Chase Financial Company LLC 
+
+Entity Information [Line Items] 
+Entity Information [Line Items] 
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.75% Non-Cumulative Preferred Stock, Series GG 
+Depositary Shares, One-Four Hundredth Interest in a Share of 4.75% Non-Cumulative Preferred Stock, Series GG [Member] 
+Depositary Shares, One-Four Hundredth Interest in a Share of 4.75% Non-Cumulative Preferred Stock, Series GG [Member] 
+
+Document Type 
+Document Type
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>jpm-20250115_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>a4q24_earningsxpresentat001.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>a4q24_earningsxpresentat002.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>a4q24_earningsxpresentat003.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>10
+<FILENAME>a4q24_earningsxpresentat004.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>11
+<FILENAME>a4q24_earningsxpresentat005.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>12
+<FILENAME>a4q24_earningsxpresentat006.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>13
+<FILENAME>a4q24_earningsxpresentat007.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>14
+<FILENAME>a4q24_earningsxpresentat008.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>15
+<FILENAME>a4q24_earningsxpresentat009.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>16
+<FILENAME>a4q24_earningsxpresentat010.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>17
+<FILENAME>a4q24_earningsxpresentat011.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>18
+<FILENAME>a4q24_earningsxpresentat012.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>19
+<FILENAME>a4q24_earningsxpresentat013.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>20
+<FILENAME>a4q24_earningsxpresentat014.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>21
+<FILENAME>a4q24_earningsxpresentat015.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>22
+<FILENAME>a4q24_earningsxpresentat016.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>23
+<FILENAME>a4q24_earningsxpresentat017.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>24
+<FILENAME>a4q24_earningsxpresentat018.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>25
+<FILENAME>a4q24_earningsxpresentat019.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>27
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Document and Entity Information Statement
+
+Jan. 15, 2025
+
+Entity Information [Line Items] 
+
+Document Type 8-K
+
+Document Period End Date Jan. 15, 2025
+
+Entity Registrant Name JPMorgan Chase & Co
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 1-5805
+
+Entity Tax Identification Number 13-2624428
+
+Entity Address, Address Line One 383 Madison Avenue,
+
+Entity Address, City or Town New York,
+
+Entity Address, State or Province NY
+
+Entity Address, Postal Zip Code 10179
+
+City Area Code 212
+
+Local Phone Number 270-6000
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0000019617
+
+Amendment Flag false
+
+Common stock 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Common stock
+
+Trading Symbol JPM
+
+Security Exchange Name NYSE
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 5.75% Non-Cumulative Preferred Stock, Series DD 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Depositary Shares, each representing a one-four hundredth interest in a share of 5.75% Non-Cumulative Preferred Stock, Series DD
+
+Trading Symbol JPM PR D
+
+Security Exchange Name NYSE
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.00% Non-Cumulative Preferred Stock, Series EE 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Depositary Shares, each representing a one-four hundredth interest in a share of 6.00% Non-Cumulative Preferred Stock, Series EE
+
+Trading Symbol JPM PR C
+
+Security Exchange Name NYSE
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.75% Non-Cumulative Preferred Stock, Series GG 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Depositary Shares, each representing a one-four hundredth interest in a share of 4.75% Non-Cumulative Preferred Stock, Series GG
+
+Trading Symbol JPM PR J
+
+Security Exchange Name NYSE
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.55% Non-Cumulative Preferred Stock, Series JJ 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Depositary Shares, each representing a one-four hundredth interest in a share of 4.55% Non-Cumulative Preferred Stock, Series JJ
+
+Trading Symbol JPM PR K
+
+Security Exchange Name NYSE
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.625% Non-Cumulative Preferred Stock, Series LL 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Depositary Shares, each representing a one-four hundredth interest in a share of 4.625% Non-Cumulative Preferred Stock, Series LL
+
+Trading Symbol JPM PR L
+
+Security Exchange Name NYSE
+
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.20% Non-Cumulative Preferred Stock, Series MM 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Depositary Shares, each representing a one-four hundredth interest in a share of 4.20% Non-Cumulative Preferred Stock, Series MM
+
+Trading Symbol JPM PR M
+
+Security Exchange Name NYSE
+
+Guarantee of Callable Fixed Rate Notes due June 10, 2032 of JPMorgan Chase Financial Company LLC 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Guarantee of Callable Fixed Rate Notes due June 10, 2032 of JPMorgan Chase Financial Company LLC
+
+Trading Symbol JPM/32
+
+Security Exchange Name NYSE
+
+Guarantee Of Alerian MLP Index ETNs Due January 28, 2044 of JPMorgan Chase Financial Company LLC [Domain] 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Guarantee of Alerian MLP Index ETNs due January 28, 2044 of JPMorgan Chase Financial Company LLC
+
+Trading Symbol AMJB
+
+Security Exchange Name NYSEArca
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityInformationLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=us-gaap_CommonStockMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=jpm_DepositarySharesOneFourHundredthInterestinaShareof5.75NonCumulativePreferredStockSeriesDDMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=jpm_DepositarySharesOneFourHundredthInterestinaShareof6.00NonCumulativePreferredStockSeriesEEMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=jpm_DepositarySharesOneFourHundredthInterestinaShareof4.75NonCumulativePreferredStockSeriesGGMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=jpm_DepositarySharesOneFourHundredthInterestInAShareOf455NonCumulativePreferredStockSeriesJJMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=jpm_DepositarySharesOneFourHundredthInterestInAShareOf4625NonCumulativePreferredStockSeriesLLMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=jpm_DepositarySharesOneFourHundredthInterestInAShareOf420NonCumulativePreferredStockSeriesMMMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=jpm_GuaranteeOfCallableFixedRateNotesDueJune102032OfJPMorganChaseFinancialCompanyLLCMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=jpm_GuaranteeOfAlerianMLPIndexETNsDueJanuary282044OfJPMorganChaseFinancialCompanyLLCDomain
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>28
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>29
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>30
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>32
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+10 
+22 
+1 
+false 
+9 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Document and Entity Information Statement 
+Sheet 
+http://www.jpmorganchase.com/role/DocumentandEntityInformationStatement 
+Document and Entity Information Statement 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+jpm-20250115.htm 
+jpm-20250115.xsd 
+jpm-20250115_def.xml 
+jpm-20250115_lab.xml 
+jpm-20250115_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>34
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>35
+<FILENAME>0000019617-25-000042-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>36
+<FILENAME>jpm-20250115_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0000019617 
+
+2025-01-15 
+2025-01-15 
+
+0000019617 
+
+us-gaap:CommonStockMember 
+
+2025-01-15 
+2025-01-15 
+
+0000019617 
+
+jpm:DepositarySharesOneFourHundredthInterestinaShareof5.75NonCumulativePreferredStockSeriesDDMember 
+
+2025-01-15 
+2025-01-15 
+
+0000019617 
+
+jpm:DepositarySharesOneFourHundredthInterestinaShareof6.00NonCumulativePreferredStockSeriesEEMember 
+
+2025-01-15 
+2025-01-15 
+
+0000019617 
+
+jpm:DepositarySharesOneFourHundredthInterestinaShareof4.75NonCumulativePreferredStockSeriesGGMember 
+
+2025-01-15 
+2025-01-15 
+
+0000019617 
+
+jpm:DepositarySharesOneFourHundredthInterestInAShareOf455NonCumulativePreferredStockSeriesJJMember 
+
+2025-01-15 
+2025-01-15 
+
+0000019617 
+
+jpm:DepositarySharesOneFourHundredthInterestInAShareOf4625NonCumulativePreferredStockSeriesLLMember 
+
+2025-01-15 
+2025-01-15 
+
+0000019617 
+
+jpm:DepositarySharesOneFourHundredthInterestInAShareOf420NonCumulativePreferredStockSeriesMMMember 
+
+2025-01-15 
+2025-01-15 
+
+0000019617 
+
+jpm:GuaranteeOfCallableFixedRateNotesDueJune102032OfJPMorganChaseFinancialCompanyLLCMember 
+
+2025-01-15 
+2025-01-15 
+
+0000019617 
+
+jpm:GuaranteeOfAlerianMLPIndexETNsDueJanuary282044OfJPMorganChaseFinancialCompanyLLCDomain 
+
+2025-01-15 
+2025-01-15 
+
+false 
+0000019617 
+8-K 
+2025-01-15 
+JPMorgan Chase & Co 
+DE 
+1-5805 
+13-2624428 
+383 Madison Avenue, 
+New York, 
+NY 
+10179 
+212 
+270-6000 
+false 
+false 
+false 
+false 
+Common stock 
+JPM 
+NYSE 
+Depositary Shares, each representing a one-four hundredth interest in a share of 5.75% Non-Cumulative Preferred Stock, Series DD 
+JPM PR D 
+NYSE 
+Depositary Shares, each representing a one-four hundredth interest in a share of 6.00% Non-Cumulative Preferred Stock, Series EE 
+JPM PR C 
+NYSE 
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.75% Non-Cumulative Preferred Stock, Series GG 
+JPM PR J 
+NYSE 
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.55% Non-Cumulative Preferred Stock, Series JJ 
+JPM PR K 
+NYSE 
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.625% Non-Cumulative Preferred Stock, Series LL 
+JPM PR L 
+NYSE 
+Depositary Shares, each representing a one-four hundredth interest in a share of 4.20% Non-Cumulative Preferred Stock, Series MM 
+JPM PR M 
+NYSE 
+Guarantee of Callable Fixed Rate Notes due June 10, 2032 of JPMorgan Chase Financial Company LLC 
+JPM/32 
+NYSE 
+Guarantee of Alerian MLP Index ETNs due January 28, 2044 of JPMorgan Chase Financial Company LLC 
+AMJB 
+NYSEArca 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

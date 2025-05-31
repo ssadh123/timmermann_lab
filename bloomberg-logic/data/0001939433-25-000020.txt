@@ -1,0 +1,920 @@
+<SEC-DOCUMENT>0001939433-25-000020.txt : 20250226
+<SEC-HEADER>0001939433-25-000020.hdr.sgml : 20250226
+<ACCEPTANCE-DATETIME>20250226161120
+ACCESSION NUMBER:		0001939433-25-000020
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		13
+CONFORMED PERIOD OF REPORT:	20250226
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20250226
+DATE AS OF CHANGE:		20250226
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cohen & Steers Income Opportunities REIT, Inc.
+		CENTRAL INDEX KEY:			0001939433
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-269416
+		FILM NUMBER:		25670140
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1166 AVENUE OF THE AMERICAS
+		STREET 2:		30TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		212-832-3232
+
+	MAIL ADDRESS:	
+		STREET 1:		1166 AVENUE OF THE AMERICAS
+		STREET 2:		30TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>cnsreit-20250226.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?cnsreit-20250226
+
+false000193943300019394332025-02-262025-02-26
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________
+
+FORM 8-K
+
+____________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 26, 2025
+
+____________________
+
+Cohen & Steers Income Opportunities REIT, Inc.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+____________________
+
+Maryland 333-269416 88-3609651
+
+(State or Other Jurisdiction
+
+of Incorporation) (Commission
+
+File Number) (IRS. Employer
+
+Identification No.)
+
+1166 Avenue of the Americas
+
+New York, New York10036
+
+(Address of Principal Executive Offices) (Zip Code)
+
+(212)832-3232
+
+(Registrants telephone number, including area code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+____________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+o Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Title of each class 
+
+Trading
+
+Symbol(s) 
+
+Name of each exchange
+
+on which registered
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company x
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. x
+
+Item 7.01. Regulation FD Disclosure.
+
+February 2025 Distributions
+
+On February 26, 2025, Cohen & Steers Income Opportunities REIT, Inc. (the Company) declared distributions for each class of its common stock outstanding in the amount per share set forth below for record holders as of the date set forth above the table:
+
+February 28, 2025 Record Date
+
+Gross Distribution Stockholder Servicing Fee Net Distribution
+
+Class I Common Stock $ 0.0435 $ $ 0.0435 
+
+Class F-I Common Stock $ 0.0435 $ $ 0.0435 
+
+Class P Common Stock $ 0.0435 $ $ 0.0435 
+
+The net distributions for each class of common stock (which represent the gross distributions less stockholder servicing fees for the applicable class of common stock) are payable to stockholders of record immediately following the close of business on the record date set forth above. There is no stockholder servicing fee with respect to Class I common stock, Class F-I common stock or Class P common stock. These distributions will be paid on or about March 24, 2025 and will be paid in cash or reinvested in the applicable class of shares of the Companys common stock for stockholders participating in the Companys distribution reinvestment plan.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+COHEN & STEERS INCOME OPPORTUNITIES REIT, INC.
+
+Date: February 26, 2025 
+
+By: /s/ Arjun Mahalingam 
+
+Name: Arjun Mahalingam 
+
+Title: Chief Financial Officer & Treasurer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>2
+<FILENAME>cnsreit-20250226.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>3
+<FILENAME>cnsreit-20250226_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Ex Transition Period 
+Entity Ex Transition Period 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>4
+<FILENAME>cnsreit-20250226_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>6
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 26, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 26, 2025
+
+Entity Registrant Name Cohen & Steers Income Opportunities REIT, Inc.
+
+Entity Incorporation, State or Country Code MD
+
+Entity File Number 333-269416
+
+Entity Tax Identification Number 88-3609651
+
+Entity Address, Address Line One 1166 Avenue of the Americas
+
+Entity Address, City or Town New York
+
+Entity Address, State or Province NY
+
+Entity Address, Postal Zip Code 10036
+
+City Area Code (212)
+
+Local Phone Number 832-3232(Registrants telephone number, including area code)
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company true
+
+Entity Ex Transition Period true
+
+Amendment Flag false
+
+Entity Central Index Key 0001939433
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 7A
+
+-Section B
+
+-Subsection 2
+
++ Details
+
+Name: dei_EntityExTransitionPeriod
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>7
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+20 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://www.cnsreit.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+cnsreit-20250226.htm 
+cnsreit-20250226.xsd 
+cnsreit-20250226_lab.xml 
+cnsreit-20250226_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>13
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>14
+<FILENAME>0001939433-25-000020-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>15
+<FILENAME>cnsreit-20250226_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001939433 
+
+2025-02-26 
+2025-02-26 
+
+false 
+0001939433 
+8-K 
+2025-02-26 
+Cohen & Steers Income Opportunities REIT, Inc. 
+MD 
+333-269416 
+88-3609651 
+1166 Avenue of the Americas 
+New York 
+NY 
+10036 
+(212) 
+832-3232(Registrants telephone number, including area code) 
+false 
+false 
+false 
+false 
+true 
+true
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

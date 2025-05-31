@@ -1,0 +1,1988 @@
+<SEC-DOCUMENT>0001086222-25-000007.txt : 20250220
+<SEC-HEADER>0001086222-25-000007.hdr.sgml : 20250220
+<ACCEPTANCE-DATETIME>20250220160916
+ACCESSION NUMBER:		0001086222-25-000007
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		52
+CONFORMED PERIOD OF REPORT:	20250220
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250220
+DATE AS OF CHANGE:		20250220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AKAMAI TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001086222
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				043432319
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27275
+		FILM NUMBER:		25645408
+
+	BUSINESS ADDRESS:	
+		STREET 1:		145 BROADWAY
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142
+		BUSINESS PHONE:		6174443000
+
+	MAIL ADDRESS:	
+		STREET 1:		145 BROADWAY
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>akam-20250220.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?akam-20250220
+
+0001086222false00010862222025-02-202025-02-20
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report: February 20, 2025
+
+(Date of earliest event reported) 
+
+AKAMAI TECHNOLOGIES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 0-27275 04-3432319
+
+(State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.)
+
+145 Broadway
+
+Cambridge, Massachusetts02142
+
+(Address of principal executive offices) (Zip Code)
+
+Registrants telephone number, including area code: (617) 444-3000
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Common Stock, $0.01 par value AKAM Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02 Results of Operations and Financial Condition
+
+On February 20, 2025, Akamai Technologies, Inc. (the "Company") announced its financial results for the fiscal quarter and year ended December 31, 2024. The full text of the press release issued in connection with the announcement is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+
+A slide presentation, dated February 20, 2025, is attached as Exhibit 99.2 hereto and incorporated by reference herein (the Investor Overview). The Investor Overview provides information that may be referred to by the Company on its conference call with investors scheduled to occur on February 20, 2025, in connection with the Companys release of results for the fiscal quarter and year ended December 31, 2024. The Investor Overview has also been posted to the financial portion of our investor relations website at https://ir.akamai.com.
+
+Item 7.01 Regulation FD Disclosure
+
+The information set forth under Item 2.02 is incorporated by reference as if fully set forth herein.
+
+The information provided under this Form 8-K (including Exhibits 99.1 and 99.2) shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934 (the "Exchange Act") or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933 or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Item 9.01 Financial Statements and Exhibits
+
+(d) Exhibits
+
+The following exhibits relating to Item 2.02 and 7.01 shall be deemed to be furnished, and not filed:
+
+Exhibit No. Description
+
+99.1 
+
+Press release dated February 20, 2025
+
+99.2 
+
+Investor Overview
+
+104 Cover page interactive data file (the cover page XBRL tags are embedded within the inline XBRL document)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: February 20, 2025 AKAMAI TECHNOLOGIES, INC.
+
+/s/ Edward McGowan
+
+Edward McGowan
+
+Executive Vice President, Chief Financial Officer and Treasurer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit991-q42024.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Exhibit 99.1
+
+FOR IMMEDIATE RELEASE
+
+Contacts:
+
+Christine Simeone Mark Stoutenberg
+
+Media Relations Investor Relations
+
+Akamai Technologies Akamai Technologies
+
+AkamaiPR@akamai.com mstouten@akamai.com
+
+AKAMAI REPORTS FOURTH QUARTER 2024 AND
+
+FULL-YEAR 2024 FINANCIAL RESULTS
+
+Fourth quarter highlights
+
+Revenue of $1.020 billion, up 3% year-over-year and when adjusted for foreign exchange*
+
+Security and compute revenue represented 69% of total revenue in the fourth quarter and grew 16% year-over-year and 17% when adjusted for foreign exchange*
+
+GAAP net income per diluted share of $0.91, down 12% year-over-year and down 9% when adjusted for foreign exchange*, and non-GAAP net income per diluted shared* of $1.66, down 2% year-over-year and flat when adjusted for foreign exchange*
+
+Full-year highlights
+
+Revenue of $3.991 billion, up 5% year-over-year and when adjusted for foreign exchange*
+
+Security and compute revenue represented 67% of total revenue in 2024 and grew 18% year-over-year and when adjusted for foreign exchange*
+
+GAAP net income per diluted share of $3.27, down 7% year-over-year and down 4% when adjusted for foreign exchange*, and non-GAAP net income per diluted share* of $6.48, up 5% year-over-year and up 6% when adjusted for foreign exchange*
+
+CAMBRIDGE, Mass. February 20, 2025 Akamai Technologies, Inc. (NASDAQ: AKAM), the cybersecurity and cloud computing company that powers and protects business online, today reported financial results for the fourth quarter and full-year ended December 31, 2024. 
+
+"Akamai delivered a solid fourth quarter, demonstrating robust profitability and sustained momentum across our security and cloud computing solutions," said Dr. Tom Leighton, Akamai's Chief Executive Officer. "We are encouraged by our latest results and the market adoption of our newest product innovations. As we head into 2025, our focus on delivering sustainable profitability across all areas of our business, coupled with our ongoing transformation into a leading cybersecurity and cloud solutions provider, positions us for long-term success."
+
+Akamai delivered the following results for the fourth quarter and full-year ended December 31, 2024:
+
+Revenue: Revenue for the fourth quarter was $1.020 billion, a 3% increase over fourth quarter 2023 revenue of $995 million and a 3% increase when adjusted for foreign exchange.* Total revenue for 2024 was $3.991 billion compared to $3.812 billion for 2023, up 5% year-over-year and when adjusted for foreign exchange.*
+
+Revenue by solution:
+
+Security revenue for the fourth quarter was $535 million, up 14% year-over-year and when adjusted for foreign exchange.* Security revenue for 2024 was $2.043 billion, up 16% year-over-year and when adjusted for foreign exchange.*
+
+Delivery revenue for the fourth quarter was $318 million, down 18% year-over-year and when adjusted for foreign exchange.* Delivery revenue for 2024 was $1.318 billion, down 15% year-over-year and down 14% when adjusted for foreign exchange.*
+
+Compute revenue for the fourth quarter was $167 million, up 24% year-over-year and up 25% when adjusted for foreign exchange.* Compute revenue for 2024 was $630 million, up 25% year-over-year and when adjusted for foreign exchange.*
+
+1
+
+Revenue by geography:
+
+U.S. revenue for the fourth quarter was $530 million, up 3% year-over-year. U.S. revenue for 2024 was $2.076 billion, up 5% year-over-year.
+
+International revenue for the fourth quarter was $490 million, up 2% year-over-year and up 4% when adjusted for foreign exchange.* International revenue for 2024 was $1.916 billion, up 4% year-over-year and up 5% when adjusted for foreign exchange.*
+
+Income from operations: GAAP income from operations for the fourth quarter was $148 million, a 20% decrease from fourth quarter 2023 income from operations of $185 million. GAAP operating margin for the fourth quarter was 15%, down 4 percentage points from the same period last year. GAAP income from operations for 2024 was $533 million, a 16% decrease from the prior year's GAAP income from operations of $637 million. Full-year GAAP operating margin was 13%, down 4 percentage points from the same period last year.
+
+Non-GAAP income from operations* for the fourth quarter was $298 million, a 2% decrease from fourth quarter 2023 non-GAAP income from operations* of $303 million. Non-GAAP operating margin* for the fourth quarter was 29%, down 1 percentage point from the same period last year. Non-GAAP income from operations* for 2024 was $1.167 billion, a 3% increase from the prior year's non-GAAP income from operations* of $1.136 billion. Full-year non-GAAP operating margin* was 29%, down 1 percentage point from the same period last year.
+
+Net income: GAAP net income for the fourth quarter was $140 million, a 13% decrease from fourth quarter 2023 GAAP net income of $161 million. GAAP net income for 2024 was $505 million, an 8% decrease from the prior year's GAAP net income of $548 million. 
+
+Non-GAAP net income* for the fourth quarter was $254 million, a 3% decrease from fourth quarter 2023 non-GAAP net income* of $263 million. Non-GAAP net income* for 2024 was $996 million, a 4% increase from the prior year's non-GAAP net income* of $960 million.
+
+EPS: GAAP net income per diluted share for the fourth quarter was $0.91, a 12% decrease from fourth quarter 2023 GAAP net income per diluted share of $1.03 and a 9% decrease when adjusted for foreign exchange.* GAAP net income per diluted share for 2024 was $3.27, a 7% decrease from the prior year's GAAP net income per diluted share of $3.52 and a 4% decrease when adjusted for foreign exchange.*
+
+Non-GAAP net income per diluted share* for the fourth quarter was $1.66, a 2% decrease from fourth quarter 2023 non-GAAP net income per diluted share* of $1.69 and flat when adjusted for foreign exchange.* Non-GAAP net income per diluted share* for 2024 was $6.48, a 5% increase from the prior year's non-GAAP net income per diluted share* of $6.20 and a 6% increase when adjusted for foreign exchange.*
+
+Adjusted EBITDA*: Adjusted EBITDA* for the fourth quarter was $429 million, a 1% increase from fourth quarter 2023 Adjusted EBITDA* of $426 million. Adjusted EBITDA* for 2024 was $1.682 billion, a 5% increase from the prior year's Adjusted EBITDA* of $1.608 billion.
+
+Supplemental cash information: Cash from operations for the fourth quarter was $344 million, or 34% of revenue. Cash from operations for 2024 was $1.519 billion, or 38% of revenue. Cash, cash equivalents and marketable securities was $1.872 billion as of December 31, 2024.
+
+Share repurchases: The Company spent $138 million in the fourth quarter of 2024 to repurchase 1.4 million shares of its common stock at an average price of $97.43 per share. For the full-year 2024, the Company spent $557 million to repurchase 5.6 million shares of its common stock at an average price of $99.14 per share. The Company had 150 million shares of common stock outstanding as of December 31, 2024.
+
+2
+
+Financial guidance: The Company reports the following financial guidance for the first quarter and full year 2025:
+
+Three Months Ending
+
+March 31, 2025 Year Ending
+
+December 31, 2025 
+
+Low End High End Low End High End 
+
+Revenue (in millions) $ 1,000 $ 1,020 $ 4,000 $ 4,200 
+
+Non-GAAP operating margin* 28 % 28 % 28 % 28 % 
+
+Non-GAAP net income per diluted share* $ 1.54 $ 1.59 $ 6.00 $ 6.40 
+
+Non-GAAP tax rate* 19.5 % 19.5 % 19.5 % 19.5 % 
+
+Shares used in non-GAAP per diluted share calculations* (in millions) 152 152 152 152 
+
+Capex as a percentage of revenue* 24 % 24 % 19 % 19 % 
+
+The guidance that is provided on a non-GAAP basis cannot be reconciled to the closest GAAP measures without unreasonable effort because of the unpredictability of the amounts and timing of events affecting the items Akamai excludes from non-GAAP measures. For example, stock-based compensation is unpredictable for Akamais performance-based awards, which can fluctuate significantly based on current expectations of the future achievement of performance-based targets. Amortization of intangible assets, acquisition-related costs and restructuring costs are all impacted by the timing and size of potential future actions, which are difficult to predict. In addition, from time to time, Akamai excludes certain items that occur infrequently, which are also inherently difficult to predict and estimate. It is also difficult to predict the tax effect of the items Akamai excludes and to estimate certain discrete tax items, such as the resolution of tax audits or changes to tax laws. As such, the costs that are being excluded from non-GAAP guidance are difficult to predict and a reconciliation or a range of results could lead to disclosure that would be imprecise or potentially misleading. Material changes to any one of the exclusions could have a significant effect on our guidance and future GAAP results.
+
+* See Use of Non-GAAP Financial Measures below for definitions
+
+Quarterly Conference Call
+
+Akamai will host a conference call today at 4:30 p.m. ET that can be accessed through 1-833-634-5020 (or 1-412-902-4238 for international calls) and using passcode Akamai Technologies Call. A live webcast of the call may be accessed at www.akamai.com in the Investor Relations section. In addition, a replay of the call will be available for two weeks following the conference by calling 1-877-344-7529 (or 1-412-317-0088 for international calls) and using passcode 3157633. The archived webcast of this event may be accessed through the Akamai website. 
+
+About Akamai 
+
+Akamai is the cybersecurity and cloud computing company that powers and protects business online. Our market-leading security solutions, superior threat intelligence and global operations team provide defense-in-depth to safeguard enterprise data and applications everywhere. Akamais full-stack cloud computing solutions deliver performance and affordability on the worlds most distributed platform. Global enterprises trust Akamai to provide the industry-leading reliability, scale and expertise they need to grow their business with confidence. Learn more about Akamais cloud computing, security and content delivery solutions at akamai.com and akamai.com/blog, or follow Akamai Technologies on X, formerly known as Twitter, and LinkedIn.
+
+3
+
+AKAMAI TECHNOLOGIES, INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(in thousands) December 31,
+
+2024 December 31,
+
+2023
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents $ 517,707 $ 489,468 
+
+Marketable securities 1,078,876 374,971 
+
+Accounts receivable, net 727,687 724,302 
+
+Prepaid expenses and other current assets 253,827 216,114 
+
+Total current assets 2,578,097 1,804,855 
+
+Marketable securities 275,592 1,431,354 
+
+Property and equipment, net 1,995,071 1,825,944 
+
+Operating lease right-of-use assets 1,006,738 908,634 
+
+Acquired intangible assets, net 727,585 536,143 
+
+Goodwill 3,151,077 2,850,470 
+
+Deferred income tax assets 483,249 418,297 
+
+Other assets 151,376 124,340 
+
+Total assets $ 10,368,785 $ 9,900,037 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current liabilities: 
+
+Accounts payable $ 130,447 $ 146,927 
+
+Accrued expenses 370,888 352,181 
+
+Deferred revenue 149,222 107,544 
+
+Convertible senior notes 1,149,116 
+
+Operating lease liabilities 259,134 222,944 
+
+Other current liabilities 32,516 6,442 
+
+Total current liabilities 2,091,323 836,038 
+
+Deferred revenue 26,314 23,006 
+
+Deferred income tax liabilities 16,066 24,622 
+
+Convertible senior notes 2,396,695 3,538,229 
+
+Operating lease liabilities 829,660 774,806 
+
+Other liabilities 130,370 106,181 
+
+Total liabilities 5,490,428 5,302,882 
+
+Total stockholders equity 4,878,357 4,597,155 
+
+Total liabilities and stockholders equity $ 10,368,785 $ 9,900,037 
+
+4
+
+AKAMAI TECHNOLOGIES, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+
+Three Months Ended Year Ended
+
+(in thousands, except per share data) December 31,
+
+2024 September 30,
+
+2024 December 31,
+
+2023 December 31,
+
+2024 December 31,
+
+2023
+
+Revenue $ 1,019,939 $ 1,004,679 $ 995,017 $ 3,991,168 $ 3,811,920 
+
+Costs and operating expenses: 
+
+Cost of revenue (1) (2) 414,356 408,806 393,397 1,620,793 1,511,063 
+
+Research and development (1) 120,245 120,347 109,202 470,876 406,048 
+
+Sales and marketing (1) 144,621 138,551 135,256 556,781 533,226 
+
+General and administrative (1) (2) 155,544 159,957 155,575 621,785 600,851 
+
+Amortization of acquired intangible assets 25,614 24,368 16,833 92,081 66,751 
+
+Restructuring charge (benefit) 11,499 82,013 (32) 95,441 56,643 
+
+Total costs and operating expenses 871,879 934,042 810,231 3,457,757 3,174,582 
+
+Income from operations 148,060 70,637 184,786 533,411 637,338 
+
+Interest and marketable securities income, net 22,746 23,065 23,981 100,280 45,194 
+
+Interest expense (6,735) (6,735) (6,884) (27,117) (17,709) 
+
+Other expense, net (5,962) (13,161) (5,642) (19,561) (12,296) 
+
+Income before provision for income taxes 158,109 73,806 196,241 587,013 652,527 
+
+Provision for income taxes (18,204) (15,899) (35,076) (82,095) (106,373) 
+
+Gain from equity method investment 1,475 
+
+Net income $ 139,905 $ 57,907 $ 161,165 $ 504,918 $ 547,629 
+
+Net income per share: 
+
+Basic $ 0.93 $ 0.38 $ 1.07 $ 3.34 $ 3.59 
+
+Diluted $ 0.91 $ 0.38 $ 1.03 $ 3.27 $ 3.52 
+
+Shares used in per share calculations: 
+
+Basic 150,240 151,435 150,979 151,392 152,510 
+
+Diluted 153,091 153,240 157,024 154,346 155,397 
+
+(1) Includes stock-based compensation (see supplemental table for figures)
+
+(2) Includes depreciation and amortization (see supplemental table for figures)
+
+5
+
+AKAMAI TECHNOLOGIES, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+Three Months Ended Year Ended
+
+(in thousands) December 31,
+
+2024 September 30,
+
+2024 December 31,
+
+2023 December 31,
+
+2024 December 31,
+
+2023
+
+Cash flows from operating activities: 
+
+Net income $ 139,905 $ 57,907 $ 161,165 $ 504,918 $ 547,629 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation and amortization 167,949 165,729 147,634 648,410 570,776 
+
+Stock-based compensation 99,045 102,607 92,123 393,378 328,467 
+
+Benefit for deferred income taxes (71,206) (2,541) (13,224) (70,268) (22,987) 
+
+Amortization of debt issuance costs 1,588 1,591 1,741 6,521 5,341 
+
+Loss (gain) on investments 5,000 5,066 (311) 
+
+Other non-cash reconciling items, net 19,797 41,733 5,019 65,488 50,221 
+
+Changes in operating assets and liabilities, net of effects of acquisitions: 
+
+Accounts receivable (50,392) 11,290 (2,941) (22,300) (49,203) 
+
+Prepaid expenses and other current assets (20,614) (717) (2,623) (46,094) (18,726) 
+
+Accounts payable and accrued expenses 79,535 (31,765) 20,345 344 (39,825) 
+
+Deferred revenue 6,709 (8,719) (24,098) 20,687 48 
+
+Other current liabilities (15,490) 41,370 (774) 26,860 1,516 
+
+Other non-current assets and liabilities (18,038) 14,057 4,826 (13,839) (24,507) 
+
+Net cash provided by operating activities 343,788 392,542 389,193 1,519,171 1,348,439 
+
+Cash flows from investing activities: 
+
+Cash paid for business acquisitions, net of cash acquired (434,066) (106,171) 
+
+Cash paid for asset acquisitions (127,973) (66) (84,637) (132,835) (120,985) 
+
+Purchases of property and equipment and capitalization of internal-use software development costs (162,859) (185,117) (133,887) (685,267) (730,040) 
+
+Purchases of short- and long-term marketable securities (34,535) (15,519) (277,053) (236,176) (1,461,890) 
+
+Proceeds from sales, maturities and redemptions of short- and long-term marketable securities 81,368 84,849 178,382 685,692 576,917 
+
+Other, net (187) (375) 1,362 3,973 (6,069) 
+
+Net cash used in investing activities (244,186) (116,228) (315,833) (798,679) (1,848,238) 
+
+6
+
+AKAMAI TECHNOLOGIES, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS, continued
+
+Three Months Ended Year Ended
+
+(in thousands) December 31,
+
+2024 September 30,
+
+2024 December 31,
+
+2023 December 31,
+
+2024 December 31,
+
+2023
+
+Cash flows from financing activities: 
+
+Proceeds from borrowings under revolving credit facility 90,000 
+
+Repayment from borrowings under revolving credit facility (90,000) 
+
+Proceeds from the issuance of convertible senior notes, net of issuance costs 1,247,388 
+
+Proceeds from the issuance of warrants related to convertible senior notes 90,195 
+
+Purchases of note hedges related to convertible senior notes (236,555) 
+
+Proceeds from the issuance of common stock under stock plans 13,805 19,442 13,426 61,513 62,979 
+
+Employee taxes paid related to net share settlement of stock-based awards (16,061) (15,868) (15,312) (173,176) (66,222) 
+
+Repurchases of common stock (138,371) (165,839) (54,891) (557,468) (654,046) 
+
+Other, net (213) (104) (10,504) (360) 
+
+Net cash (used in) provided by financing activities (140,840) (162,369) (56,777) (679,635) 443,379 
+
+Effects of exchange rate changes on cash, cash equivalents and restricted cash (12,431) 9,494 11,597 (12,243) 3,868 
+
+Net (decrease) increase in cash, cash equivalents and restricted cash (53,669) 123,439 28,180 28,614 (52,552) 
+
+Cash, cash equivalents and restricted cash at beginning of period 572,753 449,314 462,290 490,470 543,022 
+
+Cash, cash equivalents and restricted cash at end of period $ 519,084 $ 572,753 $ 490,470 $ 519,084 $ 490,470 
+
+7
+
+AKAMAI TECHNOLOGIES, INC.
+
+SUPPLEMENTAL REVENUE DATA REVENUE BY SOLUTION
+
+Three Months Ended Year Ended
+
+(in thousands) December 31,
+
+2024 September 30,
+
+2024 December 31,
+
+2023 December 31,
+
+2024 December 31,
+
+2023
+
+Security $ 534,602 $ 518,670 $ 470,977 $ 2,042,661 $ 1,765,267 
+
+Delivery 317,842 319,132 389,048 1,318,131 1,542,434 
+
+Compute 167,495 166,877 134,992 630,376 504,219 
+
+Total revenue $ 1,019,939 $ 1,004,679 $ 995,017 $ 3,991,168 $ 3,811,920 
+
+Revenue growth rates year-over-year: 
+
+Security 14 % 14 % 18 % 16 % 14 %
+
+Delivery (18) (16) (6) (15) (8) 
+
+Compute 24 28 20 25 24 
+
+Total revenue 3 % 4 % 7 % 5 % 5 %
+
+Revenue growth rates year-over-year, adjusted for the impact of foreign exchange rates (1): 
+
+Security 14 % 14 % 17 % 16 % 15 %
+
+Delivery (18) (16) (7) (14) (7) 
+
+Compute 25 28 20 25 25 
+
+Total revenue 3 % 4 % 7 % 5 % 6 %
+
+AKAMAI TECHNOLOGIES, INC.
+
+SUPPLEMENTAL REVENUE DATA REVENUE BY GEOGRAPHY
+
+Three Months Ended Year Ended
+
+(in thousands) December 31,
+
+2024 September 30,
+
+2024 December 31,
+
+2023 December 31,
+
+2024 December 31,
+
+2023
+
+U.S. $ 529,879 $ 524,611 $ 516,348 $ 2,075,533 $ 1,968,779 
+
+International 490,060 480,068 478,669 1,915,635 1,843,141 
+
+Total revenue $ 1,019,939 $ 1,004,679 $ 995,017 $ 3,991,168 $ 3,811,920 
+
+Revenue growth rates year-over-year: 
+
+U.S. 3 % 5 % 7 % 5 % 4 %
+
+International 2 3 8 4 7 
+
+Total revenue 3 % 4 % 7 % 5 % 5 %
+
+Revenue growth rates year-over-year, adjusted for the impact of foreign exchange rates (1): 
+
+U.S. 3 % 5 % 7 % 5 % 4 %
+
+International 4 3 6 5 8 
+
+Total revenue 3 % 4 % 7 % 5 % 6 %
+
+(1) See Use of Non-GAAP Financial Measures below for a definition
+
+8
+
+AKAMAI TECHNOLOGIES, INC.
+
+OTHER SUPPLEMENTAL DATA
+
+Three Months Ended Year Ended
+
+(in thousands, except end of period statistics) December 31,
+
+2024 September 30,
+
+2024 December 31,
+
+2023 December 31,
+
+2024 December 31,
+
+2023
+
+Stock-based compensation: 
+
+Cost of revenue $ 16,129 $ 16,566 $ 11,898 $ 61,177 $ 43,802 
+
+Research and development 37,843 39,275 36,428 152,114 123,896 
+
+Sales and marketing 18,730 21,076 17,895 77,593 66,453 
+
+General and administrative 26,343 25,690 25,902 102,494 94,316 
+
+Total stock-based compensation $ 99,045 $ 102,607 $ 92,123 $ 393,378 $ 328,467 
+
+Depreciation and amortization: 
+
+Network-related depreciation $ 74,949 $ 72,546 $ 63,225 $ 282,106 $ 231,500 
+
+Capitalized internal-use software development amortization 40,343 41,973 43,919 168,355 176,675 
+
+Other depreciation and amortization 15,983 15,998 16,170 63,994 63,860 
+
+Depreciation of property and equipment 131,275 130,517 123,314 514,455 472,035 
+
+Capitalized stock-based compensation amortization (1) 10,952 10,740 7,379 41,452 31,548 
+
+Capitalized interest expense 
+
+amortization (1) 108 104 108 422 442 
+
+Amortization of acquired intangible assets 25,614 24,368 16,833 92,081 66,751 
+
+Total depreciation and amortization $ 167,949 $ 165,729 $ 147,634 $ 648,410 $ 570,776 
+
+Capital expenditures (2) (3): 
+
+Purchases of property and equipment $ 122,694 $ 91,600 $ 80,408 $ 383,392 $ 459,167 
+
+Capitalized internal-use software development costs 69,974 72,391 62,355 292,509 258,626 
+
+Total capital expenditures $ 192,668 $ 163,991 $ 142,763 $ 675,901 $ 717,793 
+
+Capex as a percentage of revenue (3) 19 % 16 % 14 % 17 % 19 %
+
+End of period statistics: 
+
+Number of employees 10,748 10,947 10,281 
+
+(1) Amortization of capitalized stock-based compensation and interest expense in this table excludes amortization of capitalized stock-based compensation and interest expense capitalized related to cloud-computing arrangements and contract fulfillment costs. However, the amounts are included in our total amortization of capitalized stock-based compensation and interest expense that is excluded from our non-GAAP measures (see reconciliations of GAAP to non-GAAP measures).
+
+(2) Capital expenditures presented in this table are reported on an accrual basis, which differs from the cash-basis presentation in the statements of cash flows. The primary difference between the two is the change in purchases of property and equipment and capitalization of internal-use software development costs accrued for, but not paid, at period end versus prior periods.
+
+(3) See Use of Non-GAAP Financial Measures below for a definition.
+
+9
+
+AKAMAI TECHNOLOGIES, INC.
+
+RECONCILIATION OF GAAP TO NON-GAAP INCOME FROM OPERATIONS, NET INCOME AND TAX RATE
+
+Three Months Ended Year Ended
+
+(in thousands) December 31,
+
+2024 September 30,
+
+2024 December 31,
+
+2023 December 31,
+
+2024 December 31,
+
+2023
+
+Income from operations $ 148,060 $ 70,637 $ 184,786 $ 533,411 $ 637,338 
+
+GAAP operating margin 15 % 7 % 19 % 13 % 17 %
+
+Amortization of acquired intangible assets 25,614 24,368 16,833 92,081 66,751 
+
+Stock-based compensation 99,045 102,607 92,123 393,378 328,467 
+
+Amortization of capitalized stock-based compensation and capitalized interest expense 11,264 11,089 7,774 42,910 32,981 
+
+Restructuring charge (benefit) 11,499 82,013 (32) 95,441 56,643 
+
+Acquisition-related costs 115 5,036 1,189 7,502 13,345 
+
+Legal settlements 2,500 2,500 
+
+Operating adjustments 150,037 225,113 117,887 633,812 498,187 
+
+Non-GAAP income from operations $ 298,097 $ 295,750 $ 302,673 $ 1,167,223 $ 1,135,525 
+
+Non-GAAP operating margin 29 % 29 % 30 % 29 % 30 %
+
+Net income $ 139,905 $ 57,907 $ 161,165 $ 504,918 $ 547,629 
+
+Operating adjustments (from above) 150,037 225,113 117,887 633,812 498,187 
+
+Amortization of debt issuance costs 1,588 1,591 1,741 6,521 5,341 
+
+Loss (gain) on cost method investments 5,000 5,066 (311) 
+
+Gain from equity method investment (1,475) 
+
+Income tax effect of above non-GAAP adjustments and certain discrete tax items (42,605) (41,097) (18,162) (154,735) (89,364) 
+
+Non-GAAP net income $ 253,925 $ 243,514 $ 262,631 $ 995,582 $ 960,007 
+
+GAAP tax rate 12 % 22 % 18 % 14 % 16 %
+
+Income tax effect of non-GAAP adjustments and certain discrete tax items 7 (3) (1) 5 1 
+
+Non-GAAP tax rate 19 % 19 % 17 % 19 % 17 %
+
+10
+
+AKAMAI TECHNOLOGIES, INC.
+
+RECONCILIATION OF GAAP TO NON-GAAP NET INCOME PER DILUTED SHARE
+
+Three Months Ended Year Ended
+
+(in thousands, except per share data) December 31,
+
+2024 September 30,
+
+2024 December 31,
+
+2023 December 31,
+
+2024 December 31,
+
+2023
+
+GAAP net income per diluted share $ 0.91 $ 0.38 $ 1.03 $ 3.27 $ 3.52 
+
+Adjustments to net income: 
+
+Amortization of acquired intangible assets 0.17 0.16 0.11 0.60 0.43 
+
+Stock-based compensation 0.65 0.67 0.59 2.55 2.11 
+
+Amortization of capitalized stock-based compensation and capitalized interest expense 0.07 0.07 0.05 0.28 0.21 
+
+Restructuring charge (benefit) 0.08 0.54 0.62 0.36 
+
+Acquisition-related costs 0.03 0.01 0.05 0.09 
+
+Legal settlements 0.02 0.02 
+
+Amortization of debt issuance costs 0.01 0.01 0.01 0.04 0.03 
+
+Loss (gain) on cost method investments 0.03 0.03 
+
+Gain from equity method investment (0.01) 
+
+Income tax effect of above non-GAAP adjustments and certain discrete tax items (0.28) (0.27) (0.12) (1.00) (0.58) 
+
+Adjustment for shares (1) 0.02 0.03 0.02 
+
+Non-GAAP net income per diluted share $ 1.66 $ 1.59 $ 1.69 $ 6.48 $ 6.20 
+
+Shares used in GAAP per diluted share calculations 153,091 153,240 157,024 154,346 155,397 
+
+Impact of benefit from note hedge transactions (1) (368) (294) (1,755) (744) (574) 
+
+Shares used in non-GAAP per diluted share calculations (1) 152,723 152,946 155,269 153,602 154,823 
+
+(1) Shares used in non-GAAP per diluted share calculations have been adjusted for the periods presented for the benefit of Akamai's note hedge transactions. During these periods, Akamai's average stock price was in excess of $95.10, which is the initial conversion price of Akamai's convertible senior notes due in 2025. See Use of Non-GAAP Financial Measures below for further definition. 
+
+11
+
+AKAMAI TECHNOLOGIES, INC.
+
+RECONCILIATION OF GAAP NET INCOME TO ADJUSTED EBITDA
+
+Three Months Ended Year Ended
+
+(in thousands) December 31, 2024 September 30,
+
+2024 December 31, 2023 December 31, 2024 December 31, 2023
+
+Net income $ 139,905 $ 57,907 $ 161,165 $ 504,918 $ 547,629 
+
+Net income margin 14 % 6 % 16 % 13 % 14 %
+
+Interest and marketable securities income, net (22,746) (23,065) (23,981) (100,280) (45,194) 
+
+Provision for income taxes 18,204 15,899 35,076 82,095 106,373 
+
+Depreciation and amortization 131,275 130,517 123,314 514,455 472,035 
+
+Amortization of capitalized stock-based compensation and capitalized interest expense 11,264 11,089 7,774 42,910 32,981 
+
+Amortization of acquired intangible assets 25,614 24,368 16,833 92,081 66,751 
+
+Stock-based compensation 99,045 102,607 92,123 393,378 328,467 
+
+Restructuring charge (benefit) 11,499 82,013 (32) 95,441 56,643 
+
+Acquisition-related costs 115 5,036 1,189 7,502 13,345 
+
+Legal settlements 2,500 2,500 
+
+Interest expense 6,735 6,735 6,884 27,117 17,709 
+
+Loss (gain) on cost method investments 5,000 5,066 (311) 
+
+Gain from equity method investment (1,475) 
+
+Other expense, net 962 13,161 5,642 14,495 12,607 
+
+Adjusted EBITDA $ 429,372 $ 426,267 $ 425,987 $ 1,681,678 $ 1,607,560 
+
+Adjusted EBITDA margin 42 % 42 % 43 % 42 % 42 %
+
+12
+
+Use of Non-GAAP Financial Measures
+
+In addition to providing financial measurements based on generally accepted accounting principles in the United States of America (GAAP), Akamai provides additional financial metrics that are not prepared in accordance with GAAP (non-GAAP financial measures). Management uses non-GAAP financial measures, in addition to GAAP financial measures, to understand and compare operating results across accounting periods, for financial and operational decision making, for planning and forecasting purposes, to measure executive compensation and to evaluate Akamai's financial performance. These non-GAAP financial measures are non-GAAP income from operations, non-GAAP operating margin, non-GAAP net income, non-GAAP net income per diluted share, Adjusted EBITDA, Adjusted EBITDA margin, non-GAAP tax rate, capital expenditures and impact of foreign currency exchange rates, as discussed below. 
+
+Management believes that these non-GAAP financial measures reflect Akamai's ongoing business in a manner that allows for meaningful comparisons and analysis of trends in the business, as they facilitate comparison of financial results across accounting periods and to those of our peer companies. Management also believes that these non-GAAP financial measures enable investors to evaluate Akamai's operating results and future prospects in the same manner as management. These non-GAAP financial measures may exclude expenses and gains that may be unusual in nature, infrequent or not reflective of Akamai's ongoing operating results. 
+
+The non-GAAP financial measures do not replace the presentation of Akamai's GAAP financial measures and should only be used as a supplement to, not as a substitute for, Akamai's financial results presented in accordance with GAAP. Akamai has provided a reconciliation of each non-GAAP financial measure used in its financial reporting and investor presentations to the most directly comparable GAAP financial measure. This reconciliation captioned Reconciliation of GAAP to Non-GAAP Financial Measures can be found on the Investor Relations section of Akamai's website. 
+
+The non-GAAP adjustments, and Akamai's basis for excluding them from non-GAAP financial measures, are outlined below:
+
+Amortization of acquired intangible assets Akamai has incurred amortization of intangible assets, included in its GAAP financial statements, related to various acquisitions Akamai has made. The amount of an acquisition's purchase price allocated to intangible assets and term of its related amortization can vary significantly and is unique to each acquisition; therefore, Akamai excludes amortization of acquired intangible assets from its non-GAAP financial measures to provide investors with a consistent basis for comparing pre- and post-acquisition operating results.
+
+Stock-based compensation and amortization of capitalized stock-based compensation Stock-based compensation is an important aspect of the compensation paid to Akamai's employees, which includes long-term incentive plans to encourage retention, performance-based plans to encourage achievement of specified financial targets and also short-term incentive awards with a one year vest. The grant date fair value of the stock-based compensation awards varies based on the stock price at the time of grant, varying valuation methodologies, subjective assumptions and the variety of award types. This makes the comparison of Akamai's current financial results to previous and future periods difficult to interpret; therefore, Akamai believes it is useful to exclude stock-based compensation and amortization of capitalized stock-based compensation from its non-GAAP financial measures in order to highlight the performance of Akamai's core business and to be consistent with the way many investors evaluate its performance and compare its operating results to peer companies.
+
+Acquisition-related costs Acquisition-related costs include transaction fees, advisory fees, due diligence costs and other direct costs associated with strategic activities, as well as certain additional compensation costs payable to employees acquired from the Linode acquisition if employed for a certain period of time. The additional compensation cost was initiated by and determined by the seller, and is in addition to normal levels of compensation, including retention programs, offered by Akamai. Acquisition-related costs are impacted by the timing and size of the acquisitions, and Akamai excludes acquisition-related costs from its non-GAAP financial measures to provide a useful comparison of operating results to prior periods and to peer companies because such amounts vary significantly based on the magnitude of the acquisition transactions and do not reflect Akamai's core operations.
+
+Restructuring charge Akamai has incurred restructuring charges from programs that have significantly changed either the scope of the business undertaken by the Company or the manner in which that business is conducted. These charges include severance and related expenses for workforce reductions, impairments of long-lived assets that will no longer be used in operations (including acquired intangible assets, right-of-use assets, other facility-related property and equipment and internal-use software) and termination fees for any contracts cancelled as part of these programs. Akamai excludes these items from its non-GAAP financial measures when evaluating its continuing business performance as such items vary significantly based on the magnitude of the restructuring action and do not reflect expected future operating expenses. In 
+
+13
+
+addition, these charges do not necessarily provide meaningful insight into the fundamentals of current or past operations of its business.
+
+Amortization of debt issuance costs and capitalized interest expense Akamai has convertible senior notes outstanding that mature in 2029, 2027 and 2025. The issuance costs of the convertible senior notes are amortized to interest expense and are excluded from Akamai's non-GAAP results because management believes the non-cash amortization expense is not representative of ongoing operating performance.
+
+Gains and losses on cost method investments Akamai has recorded gains and losses from the disposition, changes to fair value and impairment of cost method investments. Akamai believes excluding these amounts from its non-GAAP financial measures is useful to investors as the types of events giving rise to these gains and losses are not representative of Akamai's core business operations and ongoing operating performance.
+
+Legal settlements Akamai has incurred losses related to the settlement of legal matters. Akamai believes excluding these amounts from its non-GAAP financial measures is useful to investors as the types of events giving rise to them are not representative of Akamai's core business operations.
+
+Gains and losses from equity method investment Akamai records income or losses on its share of earnings and losses from its equity method investment, and any gains from returns of investments or impairments. Akamai excludes such income and losses because it does not have direct control over the operations of the investment and the related income and losses are not representative of its core business operations.
+
+Income tax effect of non-GAAP adjustments and certain discrete tax items The non-GAAP adjustments described above are reported on a pre-tax basis. The income tax effect of non-GAAP adjustments is the difference between GAAP and non-GAAP income tax expense. Non-GAAP income tax expense is computed on non-GAAP pre-tax income (GAAP pre-tax income adjusted for non-GAAP adjustments) and excludes certain discrete tax items (such as the impact of intercompany sales of intellectual property related to acquisitions), if any. Akamai believes that applying the non-GAAP adjustments and their related income tax effect allows Akamai to highlight income attributable to its core operations. 
+
+Akamai's definitions of its non-GAAP financial measures are outlined below: 
+
+Non-GAAP income from operations GAAP income from operations adjusted for the following items: amortization of acquired intangible assets; stock-based compensation; amortization of capitalized stock-based compensation; amortization of capitalized interest expense; acquisition-related costs; restructuring charges; legal settlements; and other non-recurring or unusual items that may arise from time to time.
+
+Non-GAAP operating margin Non-GAAP income from operations stated as a percentage of revenue. 
+
+Non-GAAP net income GAAP net income adjusted for the following tax-affected items: amortization of acquired intangible assets; stock-based compensation; amortization of capitalized stock-based compensation; acquisition-related costs; restructuring charges; legal settlements; amortization of debt issuance costs; amortization of capitalized interest expense; gains and losses on cost method investments; gains and losses from equity method investment; and other non-recurring or unusual items that may arise from time to time.
+
+Non-GAAP tax rate GAAP tax rate excluding the tax effect of non-GAAP adjustments and certain discrete tax items. 
+
+Non-GAAP net income per diluted share, or EPS Non-GAAP net income divided by weighted average diluted common shares outstanding. Diluted weighted average common shares outstanding are adjusted in non-GAAP per share calculations for the shares that would be delivered to Akamai pursuant to the note hedge transactions entered into in connection with the issuances of $1,265 million of convertible senior notes due 2029 and the issuances of $1,150 million of convertible senior notes due 2027 and 2025, respectively. Under GAAP, shares delivered under hedge transactions are not considered offsetting shares in the fully-diluted share calculation until they are delivered. However, Akamai would receive a benefit from the note hedge transactions and would not allow the dilution to occur, so management believes that adjusting for this benefit provides a meaningful view of operating performance. With respect to the convertible senior notes due in each of 2029, 2027 and 2025, unless Akamai's weighted average stock price is greater than $126.31, $116.18 and $95.10, respectively, the initial conversion prices, there will be no difference between GAAP and non-GAAP diluted weighted average common shares outstanding. 
+
+14
+
+Adjusted EBITDA GAAP net income excluding the following items: interest and marketable securities income and losses; income taxes; depreciation and amortization of tangible and intangible assets; stock-based compensation; amortization of capitalized stock-based compensation; acquisition-related costs; restructuring charges; legal settlements; foreign exchange gains and losses; interest expense; amortization of capitalized interest expense; gains and losses on cost method investments; gains and losses from equity method investment; and other non-recurring or unusual items that may arise from time to time.
+
+Adjusted EBITDA margin Adjusted EBITDA stated as a percentage of revenue. 
+
+Capital expenditures, or capex Purchases of property and equipment and capitalization of internal-use software development costs presented on an accrual basis, which differs from the cash-basis presentation included in the statements of cash flows. The primary difference between the two is the change in purchases of property and equipment and capitalization of internal-use software development costs accrued for, but not paid, at period end versus prior periods. 
+
+Capex as a percentage of revenue Capital expenditures, or capex, stated as a percentage of revenue.
+
+Impact of foreign currency exchange rate Revenue and earnings from international operations have historically been important contributors to Akamai's financial results. Consequently, Akamai's financial results have been impacted, and management expects they will continue to be impacted, by fluctuations in foreign currency exchange rates. For example, when the local currencies of our international subsidiaries weaken, our consolidated results stated in U.S. dollars are negatively impacted.
+
+Because exchange rates are a meaningful factor in understanding period-to-period comparisons, management believes the presentation of the impact of foreign currency exchange rates on revenue and earnings enhances the understanding of our financial results and evaluation of performance in comparison to prior periods. The dollar impact of changes in foreign currency exchange rates presented is calculated by translating current period results using monthly average foreign currency exchange rates from the comparative period and comparing them to the reported amount. The percentage growth rate impacted by foreign currency exchange rates, sometimes referred to as constant currency, is calculated by comparing the prior period amounts as reported and the current period amounts translated using the same monthly average foreign currency exchange rates from the comparative period.
+
+Akamai Statement Under the Private Securities Litigation Reform Act
+
+This release and related management commentary on our quarterly earnings conference call scheduled for later today contain statements that are not statements of historical fact and constitute forward-looking statements for purposes of the safe harbor provisions under The Private Securities Litigation Reform Act of 1995, including, but not limited to, statements about expected future financial performance, expectations, plans and prospects of Akamai, including our outlook, guidance and growth objectives. In some cases, you can identify forward-looking statements by the following words: may, will, could, would, should, expect, intend, plan, anticipate, believe, estimate, predict, project, potential, continue, ongoing, or the negative of these terms or other comparable terminology, although not all forward-looking statements contain these words. Actual results may differ materially from those indicated by these forward-looking statements as a result of various important factors including, but not limited to, inability to continue to generate cash at the same level as prior years; failure of our investments in innovation to generate solutions that are accepted in the market; inability to increase our revenue at the same rate as in the past and keep our expenses from increasing at a greater rate than our revenues; effects of competition, including pricing pressure and changing business models; impact of macroeconomic trends, including economic uncertainty, turmoil in the financial services industry, the effects of inflation, rising and fluctuating interest rates, foreign currency exchange rate fluctuations, securities market volatility and monetary supply fluctuations; conditions and uncertainties in the geopolitical environment, including sanctions and disruptions resulting from the ongoing war in Ukraine and the Israel-Hamas war; continuing supply chain and logistics costs, constraints, changes or disruptions; defects or disruptions in our products or IT systems, including cyber-attacks, data breaches or malware; difficulties in integrating our acquisitions and investments; failure to realize the expected benefits of any of our acquisitions, reorganizations or investments; changes to economic, political and regulatory conditions in the United States and internationally; our ability to attract and retain key personnel; delay in developing or failure to develop new service offerings or functionalities, and if developed, lack of market acceptance of such service offerings and functionalities or failure of such solutions to operate as expected, and other factors that are discussed in our Annual Report on Form 10-K, quarterly reports on Form 10-Q, and other documents filed with the SEC.
+
+In addition, the statements in this press release and on our quarterly earnings conference call represent Akamai's expectations and beliefs as of the date of this press release. Akamai anticipates that subsequent events and developments may cause these expectations and beliefs to change. However, while Akamai may elect to update these forward-looking statements at some point in the future, it specifically disclaims any obligation to do so. These forward-looking statements should not be relied upon as representing Akamai's expectations or beliefs as of any date subsequent to the date of this press release.
+
+15
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>akamaiinvestoroverviewfe.htm
+<DESCRIPTION>EX-99.2
+<TEXT>
+akamaiinvestoroverviewfe
+
+Investor Overview February 20, 2025 
+
+Safe Harbor This presentation and related materials contain statements that are not statements of historical fact and constitute forward-looking statements for purposes of the safe harbor provisions under The Private Securities Litigation Reform Act of 1995, including, but not limited to: statements about expected future financial performance, including expected year-over-year growth rates, growth potential, our three to five year goals and expected performance of Akamais products; expectations, plans and prospects of Akamai, including its outlook, guidance, and long-term objectives. In some cases, you can identify forward-looking statements by the following words: may, will, could, would, should, expect, intend, plan, anticipate, believe, estimate, predict, project, potential, continue, ongoing, or the negative of these terms or other comparable terminology, although not all forward-looking statements contain these words. Actual results may differ materially from those indicated by these forward-looking statements as a result of various important factors including, but not limited to, inability to continue to generate cash at the same level as prior years; failure to generate solutions that are accepted in the market; inability to increase our revenue at the same rate as in the past and keep our expenses from increasing at a greater rate than our revenues; effects of competition, including pricing pressure and changing business models; impact of macroeconomic trends, including economic uncertainty, turmoil in the financial services industry, the effects of inflation, rising and fluctuating interest rates, foreign currency exchange rate fluctuations, securities market volatility and monetary supply fluctuations; conditions and uncertainties in the geopolitical environment, including sanctions and disruptions resulting from the ongoing war in Ukraine and the Israel-Hamas war or changes in trade policies; supply chain and logistics costs, constraints, changes or disruptions; defects or disruptions in our products or IT systems, including cyber-attacks, data breaches or malware; difficulties in integrating our acquisitions and investments; failure to realize the expected benefits of any of our acquisitions or reorganizations; changes to economic, political and regulatory conditions in the United States and internationally, including changes in government policies and regulations; our ability to attract and retain key personnel; delay in developing or failure to develop new service offerings or functionalities, and if developed, lack of market acceptance of such service offerings and functionalities or failure of such solutions to operate as expected; and other factors that are discussed in Akamais Annual Report on Form 10-K, quarterly reports on Form 10-Q, and other documents periodically filed with the SEC. The statements in this presentation represent Akamai's expectations and beliefs as of February 20, 2025. Akamai anticipates that subsequent events and developments may cause these expectations and beliefs to change, and while Akamai may elect to update these forward-looking statements at some point in the future, it specifically disclaims any obligation to do so. These forward-looking statements should not be relied upon as representing Akamai's expectations or beliefs as of any date subsequent to February 20, 2025. 2 Akamai | Published on February 20, 2025 
+
+Safe Harbor (Contd) In addition to Akamais GAAP financial information, this presentation includes certain non-GAAP financial measures such as non-GAAP EPS, non-GAAP operating margin, revenue growth rates in constant currency and capital expenditures. The non-GAAP measures have limitations as analytical tools and you should not consider them in isolation or as a substitute for the most directly comparable financial measures prepared in accordance with GAAP. There are a number of limitations related to the use of these non-GAAP financial measures versus their nearest GAAP equivalents. Other companies, including companies in our industry, may calculate non-GAAP financial measures differently or may use other measures to evaluate their performance, all of which could reduce the usefulness of our non-GAAP financial measures as tools for comparison. We urge you to review the reconciliation of our non-GAAP financial measures to the most directly comparable GAAP financial measures set forth in the Appendix and not to rely on any single financial measure to evaluate our business. This presentation also contains estimates and other statistical data made by independent parties and by the Company relating to market size and growth and other data about the Company's industry. This data involves a number of assumptions and limitations, and you are cautioned not to give undue weight to such estimates. Neither Akamai nor any other person makes any representation as to the accuracy or completeness of such data or undertakes any obligation to update such data after the date of this presentation. In addition, projections, assumptions and estimates of Akamai's future performance and the future performance of the markets in which Akamai operates are necessarily subject to a high degree of uncertainty and risk. By attending or receiving this presentation, you acknowledge that you will be solely responsible for your own assessment of the market and Akamais market position and that you will conduct your own analysis and be solely responsible for forming your own view of the potential future performance of Akamai's business. 3 Akamai | Published on February 20, 2025 
+
+Akamai is the cybersecurity and cloud computing company that powers and protects business online Cloud ComputingCybersecurity Global enterprises trust Akamai to provide the industry-leading reliability, scale, and expertise they need to grow their business with confidence + Content Delivery+ Massively distributed, fully automated, highly efficient 4 Akamai | Published on February 20, 2025 
+
+Akamais Business Evolution 2014 2019 2024 2030 Percentages based on Full Year Total Revenue. Content DeliveryCybersecurity Cloud Computing 5 Akamai | Published on February 20, 2025 6% 9% 85% 6% 29% 65% 16% 51% 33% 
+
+Cybersecurity Our market-leading security solutions, superior threat intelligence, and global operations team provide defense in depth to safeguard enterprise data and applications everywhere 6 Akamai | Published on February 20, 2025 
+
+7 Akamai | Published on February 20, 2025 Akamais Key Cybersecurity Solutions Infrastructure Security Application Security Zero Trust Enterprise Security API Security Services Packages: Managed Security Services, Managed Detection & Response, Managed Network Cloud Firewall, Security Event Support, SOCC Advanced & Premium FY24: $1.84B, 14% Y/Y FY24: $205M, 51% Y/Y Products: Prolexic Edge DNS DNSi Shield NS53 Carrier Security Products: WAF Bot Manager Account Protector Client Side Protection & Compliance Products: API Security Products: Guardicore Platform (Segmentation, Enterprise Application Access, Multi Factor Authentication, Enterprise Threat Protector) Dollar figures represent GAAP revenue. Revenue growth rates are in constant currency. See Reconciliation of GAAP to Non-GAAP Financial measures in the Appendix for definition of this measure. 
+
+8 Akamai | Published on February 20, 2025 Cybersecurity Business Problems We Solve Infrastructure Security Zero Trust Enterprise Security API Security Services to help with: security architecture and vulnerability assessment, implementing security controls, real-time event support, and fully managed end-to-end security services FY24: $1.84B, 14% Y/Y FY24: $205M, 51% Y/Y Helps With: DDoS Protection DNS Resource Exhaustion Authoritative DNS Carrier Security Clean Pipes Traffic Helps With: App Protection Bot and Abuse Protection Account Protection Client Side Protection & Compliance Brand and Content Protection Helps With: API Discovery Business Logic Abuse Blind Spots from Unknown or Dormant APIs API Vulnerabilities Helps With: Malware and Ransomware Protection Zero Day Exposure Protection Secure App Access Multi Factor Authentication Application Security Dollar figures represent GAAP revenue. Revenue growth rates are in constant currency. See Reconciliation of GAAP to Non-GAAP Financial measures in the Appendix for definition of this measure. 
+
+Product Spotlight: Guardicore Platform Why Were Excited Akamais Guardicore Platform accelerates implementation with a single agent and AI-powered capabilities that provide context while providing more robust protections against ransomware, insider threats, and compromised accounts. Akamai eliminates most of the manual work associated with migrating from legacy tools like VPNs in favor of Zero Trust Network Access and MFA, and network firewalls in favor of segmentation and DNS Firewall. Why Akamai Wins Akamai Guardicore Segmentation is part of Zero Trust Enterprise Security, providing a single agent for network access, segmentation and DNS Firewall. Customers also take advantage of our WAAP and API Security solution for maximum visibility, context, and control. 9 Akamai | Published on February 20, 2025 What it is Technology that enables enterprises to build architectures that never trust, always verify connections, and assume a bad actor is active at all times. This leads to highly resilient and flexible environments better suited to the modern workplace. 
+
+Product Spotlight: API Security Why Akamai Wins Akamai API Security provides automated discovery, profiling and prioritization, along with powerful real-time security tools to manage or block malicious API traffic for externally-facing applications and their network infrastructure. 10 Akamai | Published on February 20, 2025 Why Were Excited There has been a massive proliferation of APIs across the enterprise landscape. API security attacks have become common, and risk compromising sensitive data. Robust API Security and visibility are needed to address these vulnerabilities. What it is Protection of application programming interfaces (APIs) from attacks, abuse, and access violations by focusing on API discovery across hybrid infrastructures, identifying and managing the API security posture, prioritizing remediation efforts, and protecting APIs during runtime. 
+
+Cybersecurity Product Penetration 70% 36% 20% Buy 1+ Security Product Buy 2+ Security Products Buy 3+ Security Products ~ 800 Customers Buy 4+ Security Products 11 Akamai | Published on February 20, 2025Based on Total Akamai customers at 12/31/24. 
+
+Cloud Computing Akamais full-stack cloud computing solutions deliver performance and affordability on the worlds most distributed platform 12 Akamai | Published on February 20, 2025 
+
+Solves For: Full stack cloud computing Solves For: Connecting to and optimizing cloud workloads Akamais Key Cloud Computing Offerings FY24: $630M, 25% Y/Y Cloud Infrastructure Services FY24: $230M, 32% Y/Y Other Cloud Applications FY24: $400M, 22% Y/Y Key Products: Linode Kubernetes Engine Dedicated GPU Virtual Machines Block & Object Storage Managed Databases Edge Workers ISV Solutions Managed Container Service Key Products: API Acceleration Image & Video Manager Cloud Wrapper Global Traffic Manager Cloudlets Legacy NetStorage 13 Akamai | Published on February 20, 2025 Dollar figures represent GAAP revenue. Revenue growth rates are in constant currency. See Reconciliation of GAAP to Non-GAAP Financial measures in the Appendix for definition of this measure. 
+
+Core (IaaS, FaaS, PaaS) Edge (FaaS, PaaS) Currently live in > 700 cities and 4,300+ locations Provides maximum flexibility and control Customer fully manages infrastructure Provides support for customer business logic Akamai automatically manages infrastructure on-demand (serverless) Akamai Cloud: Compute Anywhere You Need It We provide two main categories of compute to our customers: Core and Edge Core services offer full stack computing and storage Edge services offer optimal performance and scalability 14 Currently live in 36 cities and 41 locations Streamlines deployment and scaling Akamai provides container environment Customer manages app, Akamai distributes Currently testing in >100 cities, able to run in every Akamai location Managed Container Service (MCS) 
+
+Observability Low Latency Multi-Cloud Edge Native Apps AI Inference Common Cloud Computing Use Cases Actively optimize business results with real-time data, retained longer, with superior total cost of ownership Manage customer data at scale to improve SEO, performance, personalization, and more Leverage container services to ensure portability for data, apps, and workloads to improve operations and cut costs Build and deploy scalable, location-specific, low-latency applications Anticipate user needs and deliver tailored experiences that feel intuitive and meaningful 15 Akamai | Published on February 20, 2025 Media Workflows Tailor media experiences with flexible workflow services (including packaging, transcoding, optimization, and security) on a cloud that doesnt compete with them 
+
+16 Akamai | Published on February 20, 2025 Our Acquisition of Linode is Proving to Be a Great Success End of Year 2021 End of Year 2024 $127M (+14% Y/Y)11 $259M (+35% Y/Y)41 4,300+ 23 Cloud Infrastructure Services (CIS) ARR Core Locations Edge PoPs ISV Partners Forecasting Y/Y CIS ARR growth acceleration to 40-45% in 2025 0 0 Cloud Infrastructure Services Customers are defined as customers who purchase the Cloud Infrastructure Services described on slide 13. Annualized revenue run-rate (ARR) is calculated as GAAP revenue generated from the sale of Cloud Infrastructure Services during the fourth quarter of the reported year multiplied by four. Revenue growth rates are in constant currency. See Reconciliation of GAAP to Non-GAAP Financial measures in the Appendix for definition of this measure. 
+
+Cloud Infrastructure Services Customers at YE 2024 ~300 $100K ARR 15 $1M+ ARR CUSTOMERS AT CUSTOMERS AT Weve Seen Significant Traction in our Largest Accounts in 2024 17 Akamai | Published on February 20, 2025 Cloud Infrastructure Services Customers are defined as customers who purchase the Cloud Infrastructure Services described on slide 13. Annualized revenue run-rate (ARR) is calculated as GAAP revenue generated from the sale of Cloud Infrastructure Services during the fourth quarter of 2024 multiplied by four. 
+
+Content Delivery Akamai is the worlds leading application delivery platform with superior scale, performance, reliability, and efficiency 18 Akamai | Published on February 20, 2025 
+
+19 Akamai | Published on February 20, 2025 Enables deep carrier partnerships and scalability Highly synergistic with our Cybersecurity and Cloud Computing offerings, which improves the performance and the margins of all our services (Delivery, Security, and Edge Computing all run on the same servers in 4,300+ points of presence, in 700+ cities) Provides unmatched visibility and data for our Cybersecurity products Enables unique bundles with Cybersecurity and Cloud Computing Generates strong cash flow that we use to invest in new products Delivery is Strategic to Akamai as a Whole Content Delivery FY24: $1.3B, -14% Y/Y Key Delivery Offerings Solves For: Media delivery Website acceleration Live streaming Why Delivery is Important Key Products: Adaptive Media Delivery Download Delivery Ion Dynamic Site Accelerator Dollar figures represent GAAP revenue. Revenue growth rates are in constant currency. See Reconciliation of GAAP to Non-GAAP Financial measures in the Appendix for definition of this measure. 
+
+Artificial Intelligence Akamai has used Artificial Intelligence (AI) for many years, and we believe we are well positioned to continue benefiting from it 20 Akamai | Published on February 20, 2025 
+
+Customers can run their AI applications at scale, cost- effectively, and securely with our leading cloud computing for AI and cybersecurity for AI solutions Threat VectorsAI Inference Akamai is Poised to Benefit from AI In Multiple Ways Uses of AI Customers can protect their applications from advanced AI-powered threats with our leading cybersecurity solutions such as Guardicore Segmentation With well over a decade of experience and deep expertise, Akamai uses AI to improve customer security, experience, and employee productivity across nearly every product and function 21 Akamai | Published on February 20, 2025 
+
+22 Akamai | Published on February 20, 2025 Akamais Cloud Infrastructure is Fueling AI-powered Apps Today Kubernetes GPUs Object Storage Vector DB WebAssembly Managed k8s and a ready-to-run app platform for scale Rapidly compute a decision based on fine-tuned models Store input and output data tied to model predictions Efficiently store and retrieve high- dimensional data Build responsive, scalable, secure AI applications Our developer-friendly services empower businesses to build AI-powered applications 
+
+23 Akamai | Published on February 20, 2025 Customers are looking for brands that not only meet their AI needs, but who do it in a cost-effective and scalable manner, with low latency and massive throughput. This is where Akamai excels. Akamai Cloud Computing Powers AI Needs Advertising Video Content AI algorithms generate short-form promotional videos and iteratively optimize them to support advertising campaigns Actioning User Behavior Insights AI predicts the outcome of promotional ideas by predicting human social engagement and buying behavior User-Generated Content AI algorithm processes images using Akamai Cloud GPUs before they are uploaded to the website and rendered Agentic AI in Mobile App Inference over fine tuned inventory and promotion data model leveraged for speech recognition to improve the user experience EXAMPLE USE CASES IN ACTION TODAY: 
+
+Company Financials February 20, 2025 24 Akamai | Published on February 20, 2025 
+
+Company Revenue and EPS $3,198 $3,461 $3,617 $3,812 $3,991 2020 2021 2022 2023 2024 Total Revenue ($Millions) $5.22 $5.74 $5.37 $6.20 $6.48 2020 2021 2022 2023 2024 Non-GAAP EPS 25 Akamai | Published on February 20, 2025 See Reconciliation of GAAP to Non-GAAP Financial Measures in the Appendix for definition of this non-GAAP financial measure and a reconciliation to the closet GAAP metric. 
+
+Revenue by Product Category $1,062 $1,335 $1,542 $1,765 $2,043 2020 2021 2022 2023 2024 Security Revenue ($Millions) $207 $253 $405 $504 $630 2020 2021 2022 2023 2024 Compute Revenue ($Millions) $1,930 $1,873 $1,669 $1,542 $1,318 2020 2021 2022 2023 2024 Delivery Revenue ($Millions) 26 Akamai | Published on February 20, 2025 
+
+Total Revenue Security Revenue Compute Revenue Delivery Revenue Non-GAAP Op Margin Capital Expenditures Reaching 10%+ Y/Y growth ~10% CAGR ~20% CAGR Rate of decline improving over time Reaching 30%+ 17% to 20% of total revenue 27 Akamai | Published on February 20, 2025 3-5 Year Goals See Reconciliation of GAAP to Non-GAAP Financial Measures in the Appendix for definition of these non-GAAP financial measures. Growth rates include typical M&A and assume constant currency. 
+
+Company Revenue Growth Rate is Accelerating $3,812 FY23A $3,991 FY24A $4,100 FY25E FY29E Double Digit Growth Y/Y Growth *Y/Y Growth (Adj. for FX and Top Customer) Total Revenue 28 Akamai | Published on February 20, 2025*2025 Revenue Estimate is based on the mid-point of full year 2025 guidance. * * 
+
+Strong Capital Return 178 177 173 170 163 2014 2015 2016 2017 2018 Shares Outstanding and Shares Repurchased by Year 162 163 161 156 2019 2020 2021 2022 151 150 2023 2024 Shares Repurchased (Millions)Shares Outstanding (Millions) 4.6 4.5 7.0 6.9 10.2 4.0 2.0 4.7 6.4 7.8 5.6 29 Akamai | Published on February 20, 2025 
+
+30 Akamai | Published on February 20, 2025 Reconciliation of GAAP to Non-GAAP Financial Measures February 20, 2025 
+
+Reconciliation of GAAP to Non-GAAP Financial Measures In addition to providing financial measurements based on generally accepted accounting principles in the United States of America (GAAP), Akamai provides additional financial metrics that are not prepared in accordance with GAAP (non-GAAP financial measures). Management uses non-GAAP financial measures, in addition to GAAP financial measures, to understand and compare operating results across accounting periods, for financial and operational decision making, for planning and forecasting purposes, to measure executive compensation and to evaluate Akamai's financial performance. Management believes that it's non-GAAP financial measures reflect Akamai's ongoing business in a manner that allows for meaningful comparisons and analysis of trends in the business, as they facilitate comparison of financial results across accounting periods and to those of our peer companies. Management also believes that these non-GAAP financial measures enable investors to evaluate Akamai's operating results and future prospects in the same manner as management. Akamai's non-GAAP financial measures may exclude expenses and gains that may be unusual in nature, infrequent or not reflective of Akamai's ongoing operating results. The non-GAAP financial measures do not replace the presentation of Akamai's GAAP financial results and should only be used as a supplement to, not as a substitute for, Akamai's financial results presented in accordance with GAAP. Akamai has provided a reconciliation of the non-GAAP financial measure used in this investor presentation to the most directly comparable GAAP financial measure. Akamai also provides forward-looking statements in the form of three to five year goals in this investor presentation. Some of these statements are provided on a non-GAAP basis and cannot be reconciled to the closest GAAP measures without unreasonable effort because of the unpredictability of the amounts and timing of events affecting the items we exclude from non-GAAP measures. For example, stock-based compensation is unpredictable for Akamais performance-based awards, which can fluctuate significantly based on current expectations of the future achievement of performance-based targets. Amortization of intangible assets, acquisition-related costs and restructuring costs are all impacted by the timing and size of potential future actions, which are difficult to predict. In addition, from time to time, Akamai excludes certain items that occur infrequently, which are also inherently difficult to predict and estimate. It is also difficult to predict the tax effect of the items we exclude and to estimate certain discrete tax items, such as the resolution of tax audits or changes to tax laws. As such, the costs that are being excluded from non-GAAP guidance are difficult to predict and a reconciliation or a range of results could lead to disclosure that would be imprecise or potentially misleading. Material changes to any one of the exclusions could have a significant effect on our three to five year goals and future GAAP results. 31 Akamai | Published on February 20, 2025 
+
+32 Akamai | Published on February 20, 2025 Reconciliation of GAAP to Non-GAAP Financial Measures 
+
+33 Akamai | Published on February 20, 2025 Reconciliation of GAAP to Non-GAAP Financial Measures The non-GAAP adjustments, and Akamais basis for excluding them from non-GAAP financial measures, are outlined below: Amortization of acquired intangible assets Akamai has incurred amortization of intangible assets, included in its GAAP financial statements, related to various acquisitions Akamai has made. The amount of an acquisition's purchase price allocated to intangible assets and term of its related amortization can vary significantly and is unique to each acquisition; therefore, Akamai excludes amortization of acquired intangible assets from its non-GAAP financial measures to provide investors with a consistent basis for comparing pre- and post-acquisition operating results. Stock-based compensation and amortization of capitalized stock-based compensation Stock-based compensation is an important aspect of the compensation paid to Akamai's employees, which includes long-term incentive plans to encourage retention, performance-based plans to encourage achievement of specified financial targets and also short-term incentive awards with a one year vest. The grant date fair value of the stock-based compensation awards varies based on the stock price at the time of grant, varying valuation methodologies, subjective assumptions and the variety of award types. This makes the comparison of Akamai's current financial results to previous and future periods difficult to interpret; therefore, Akamai believes it is useful to exclude stock-based compensation and amortization of capitalized stock-based compensation from its non-GAAP financial measures in order to highlight the performance of Akamai's core business and to be consistent with the way many investors evaluate its performance and compare its operating results to peer companies. Acquisition-related costs Acquisition-related costs include transaction fees, advisory fees, due diligence costs and other direct costs associated with strategic activities, as well as certain additional compensation costs payable to employees acquired from the Linode acquisition if employed for a certain period of time. The additional compensation cost was initiated by and determined by the seller, and is in addition to normal levels of compensation, including retention programs, offered by Akamai. Acquisition-related costs are impacted by the timing and size of the acquisitions, and Akamai excludes acquisition-related costs from its non-GAAP financial measures to provide a useful comparison of operating results to prior periods and to peer companies because such amounts vary significantly based on the magnitude of the acquisition transactions and do not reflect Akamai's core operations. 
+
+34 Akamai | Published on February 20, 2025 Reconciliation of GAAP to Non-GAAP Financial Measures Restructuring charge Akamai has incurred restructuring charges from programs that have significantly changed either the scope of the business undertaken by the Company or the manner in which that business is conducted. These charges include severance and related expenses for workforce reductions, impairments of long-lived assets that will no longer be used in operations (including acquired intangible assets, right-of-use assets, other facility-related property and equipment and internal-use software) and termination fees for any contracts cancelled as part of these programs. Akamai excludes these items from its non-GAAP financial measures when evaluating its continuing business performance as such items vary significantly based on the magnitude of the restructuring action and do not reflect expected future operating expenses. In addition, these charges do not necessarily provide meaningful insight into the fundamentals of current or past operations of its business. Amortization of debt discount and issuance costs and amortization of capitalized interest expense We have convertible senior notes outstanding that mature in 2029, 2027 and 2025. The issuance costs of the convertible senior notes are amortized to interest expense and are excluded from our non-GAAP results because management believes the non-cash amortization expense is not representative of ongoing operating performance. The imputed interest rates of the 2027 and 2025 convertible senior notes were 3.10% and 4.26%, respectively. This is a result of the debt discounts recorded for the conversion features that, prior to January 1, 2022, were required to be separately accounted for as equity under GAAP, thereby reducing the carrying values of the convertible debt instruments. The debt discounts were amortized as interest expense. On January 1, 2022, we adopted the new guidance for accounting for convertible instruments. This new guidance eliminated separate accounting for the equity portion, and thus the amortization of the debt discount that was recorded as interest expense. Prior to January 1, 2022, we excluded this non-cash interest expense from our non-GAAP results because it was not representative of ongoing operating performance. After January 1, 2022, this interest expense is no longer included in or excluded from GAAP or non-GAAP results. Gains and losses on cost method investments Akamai has recorded gains and losses from the disposition, changes to fair value and impairment of cost method investments. Akamai believes excluding these amounts from its non-GAAP financial measures is useful to investors as the types of events giving rise to these gains and losses are not representative of Akamai's core business operations and ongoing operating performance. Legal settlements Akamai has incurred losses related to the settlement of legal matters. Akamai believes excluding these amounts from its non-GAAP financial measures is useful to investors as the types of events giving rise to them are not representative of Akamai's core business operations. 
+
+35 Akamai | Published on February 20, 2025 Reconciliation of GAAP to Non-GAAP Financial Measures Endowment of Akamai Foundation Akamai has incurred expenses to endow the Akamai Foundation, a private corporate foundation dedicated to encouraging the next generation of technology innovators by supporting math and science education. Akamai's first endowment was in 2018 to enable a permanent endowment for the Akamai Foundation to allow it to expand its reach. In 2020, Akamai supplemented the endowment to enable specific initiatives to increase diversity in the technology industry. Akamai believes excluding these amounts from non-GAAP financial measures is useful to investors as these infrequent and nearly one-time expenses are not representative of its core business operations. Gains and losses from equity method investment Akamai records income or losses on its share of earnings and losses from its equity method investment, and any gains from returns of investments or impairments. Akamai excludes such income and losses because it does not have direct control over the operations of the investment and the related income and losses are not representative of its core business operations. Income tax effect of non-GAAP adjustments and certain discrete tax items The non-GAAP adjustments described above are reported on a pre-tax basis. The income tax effect of non-GAAP adjustments is the difference between GAAP and non-GAAP income tax expense. Non-GAAP income tax expense is computed on non-GAAP pre-tax income (GAAP pre-tax income adjusted for non-GAAP adjustments) and excludes certain discrete tax items (such as the impact of intercompany sales of intellectual property related to acquisitions), if any. Akamai believes that applying the non-GAAP adjustments and their related income tax effect allows Akamai to highlight income attributable to its core operations. Akamai's definitions of its non-GAAP financial measures are outlined below: Non-GAAP income from operations GAAP income from operations adjusted for the following items: amortization of acquired intangible assets; stock-based compensation; amortization of capitalized stock-based compensation; amortization of capitalized interest expense; acquisition-related costs; restructuring charges; legal settlements; costs incurred related to endowments to the Akamai Foundation; and other non-recurring or unusual items that may arise from time to time. Non-GAAP operating margin Non-GAAP income from operations stated as a percentage of revenue. Non-GAAP net income GAAP net income adjusted for the following tax-affected items: amortization of acquired intangible assets; stock-based compensation; amortization of capitalized stock-based compensation; acquisition-related costs; restructuring charges; legal settlements; costs incurred related to endowments to the Akamai Foundation; amortization of debt discount and issuance costs; amortization of capitalized interest expense; gains and losses on cost method investments; gains and losses from equity method investment; and other non-recurring or unusual items that may arise from time to time. 
+
+36 Akamai | Published on February 20, 2025 Reconciliation of GAAP to Non-GAAP Financial Measures Non-GAAP net income per diluted share, or EPS Non-GAAP net income divided by weighted average diluted common shares outstanding. Diluted weighted average common shares outstanding are adjusted in non-GAAP per share calculations for the shares that would be delivered to Akamai pursuant to the note hedge transactions entered into in connection with the issuances of $1,265 million of convertible senior notes due 2029 and the issuances of $1,150 million of convertible senior notes due 2027 and 2025, respectively. Under GAAP, shares delivered under hedge transactions are not considered offsetting shares in the fully-diluted share calculation until they are delivered. However, Akamai would receive a benefit from the note hedge transactions and would not allow the dilution to occur, so management believes that adjusting for this benefit provides a meaningful view of operating performance. With respect to the convertible senior notes due in each of 2029, 2027 and 2025, unless Akamai's weighted average stock price is greater than $126.31, $116.18 and $95.10, respectively, the initial conversion prices, there will be no difference between GAAP and non-GAAP diluted weighted average common shares outstanding. Capital expenditures, or capex Purchases of property and equipment and capitalization of internal-use software development costs presented on an accrual basis, which differs from the cash-basis presentation included in the statements of cash flows. The primary difference between the two is the change in purchases of property and equipment and capitalization of internal-use software development costs accrued for, but not paid, at period end versus prior periods. Impact of foreign currency exchange rate Revenue and earnings from international operations have historically been important contributors to Akamai's financial results. Consequently, Akamai's financial results have been impacted, and management expects they will continue to be impacted, by fluctuations in foreign currency exchange rates. For example, when the local currencies of our international subsidiaries weaken, our consolidated results stated in U.S. dollars are negatively impacted. Because exchange rates are a meaningful factor in understanding period-to-period comparisons, management believes the presentation of the impact of foreign currency exchange rates on revenue and earnings enhances the understanding of our financial results and evaluation of performance in comparison to prior periods. The dollar impact of changes in foreign currency exchange rates presented is calculated by translating current period results using monthly average foreign currency exchange rates from the comparative period and comparing them to the reported amount. The percentage growth rate impacted by foreign currency exchange rates, sometimes referred to as constant currency, is calculated by comparing the prior period amounts as reported and the current period amounts translated using the same monthly average foreign currency exchange rates from the comparative period.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>4
+<FILENAME>akam-20250220.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Document and Entity Information 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>akam-20250220_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover [Abstract] 
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>akam-20250220_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>akamaiinvestoroverviewfe001.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>akamaiinvestoroverviewfe002.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>akamaiinvestoroverviewfe003.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>10
+<FILENAME>akamaiinvestoroverviewfe004.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>11
+<FILENAME>akamaiinvestoroverviewfe005.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>12
+<FILENAME>akamaiinvestoroverviewfe006.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>13
+<FILENAME>akamaiinvestoroverviewfe007.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>14
+<FILENAME>akamaiinvestoroverviewfe008.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>15
+<FILENAME>akamaiinvestoroverviewfe009.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>16
+<FILENAME>akamaiinvestoroverviewfe010.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>17
+<FILENAME>akamaiinvestoroverviewfe011.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>18
+<FILENAME>akamaiinvestoroverviewfe012.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>19
+<FILENAME>akamaiinvestoroverviewfe013.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>20
+<FILENAME>akamaiinvestoroverviewfe014.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>21
+<FILENAME>akamaiinvestoroverviewfe015.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>22
+<FILENAME>akamaiinvestoroverviewfe016.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>23
+<FILENAME>akamaiinvestoroverviewfe017.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>24
+<FILENAME>akamaiinvestoroverviewfe018.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>25
+<FILENAME>akamaiinvestoroverviewfe019.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>26
+<FILENAME>akamaiinvestoroverviewfe020.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>27
+<FILENAME>akamaiinvestoroverviewfe021.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>28
+<FILENAME>akamaiinvestoroverviewfe022.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>29
+<FILENAME>akamaiinvestoroverviewfe023.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>30
+<FILENAME>akamaiinvestoroverviewfe024.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>31
+<FILENAME>akamaiinvestoroverviewfe025.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>32
+<FILENAME>akamaiinvestoroverviewfe026.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>33
+<FILENAME>akamaiinvestoroverviewfe027.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>34
+<FILENAME>akamaiinvestoroverviewfe028.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>35
+<FILENAME>akamaiinvestoroverviewfe029.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>36
+<FILENAME>akamaiinvestoroverviewfe030.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>37
+<FILENAME>akamaiinvestoroverviewfe031.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>38
+<FILENAME>akamaiinvestoroverviewfe032.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>39
+<FILENAME>akamaiinvestoroverviewfe033.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>40
+<FILENAME>akamaiinvestoroverviewfe034.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>41
+<FILENAME>akamaiinvestoroverviewfe035.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>42
+<FILENAME>akamaiinvestoroverviewfe036.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>43
+<FILENAME>akamaiinvestoroverviewfe037.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>45
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Document and Entity Information
+
+Feb. 20, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 20, 2025
+
+Entity Registrant Name AKAMAI TECHNOLOGIES, INC.
+
+Entity Central Index Key 0001086222
+
+Amendment Flag false
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 0-27275
+
+Entity Tax Identification Number 04-3432319
+
+Entity Address, Address Line One 145 Broadway
+
+Entity Address, City or Town Cambridge
+
+Entity Address, State or Province MA
+
+Entity Address, Postal Zip Code 02142
+
+City Area Code 617
+
+Local Phone Number 444-3000
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>46
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>47
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>48
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>50
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+19 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Document and Entity Information 
+Sheet 
+http://www.akamai.com/role/DocumentandEntityInformation 
+Document and Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+akam-20250220.htm 
+akam-20250220.xsd 
+akam-20250220_lab.xml 
+akam-20250220_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>52
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>53
+<FILENAME>0001086222-25-000007-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>54
+<FILENAME>akam-20250220_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001086222 
+
+2025-02-20 
+2025-02-20 
+
+0001086222 
+false 
+8-K 
+2025-02-20 
+AKAMAI TECHNOLOGIES, INC. 
+DE 
+0-27275 
+04-3432319 
+145 Broadway 
+Cambridge 
+MA 
+02142 
+617 
+444-3000 
+false 
+false 
+false 
+false 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

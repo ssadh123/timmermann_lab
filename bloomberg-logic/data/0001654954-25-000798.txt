@@ -1,0 +1,1051 @@
+<SEC-DOCUMENT>0001654954-25-000798.txt : 20250127
+<SEC-HEADER>0001654954-25-000798.hdr.sgml : 20250127
+<ACCEPTANCE-DATETIME>20250127170014
+ACCESSION NUMBER:		0001654954-25-000798
+CONFORMED SUBMISSION TYPE:	8-K/A
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20241125
+ITEM INFORMATION:		<ITEMS>1.05
+FILED AS OF DATE:		20250127
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ENGLOBAL CORP
+		CENTRAL INDEX KEY:			0000933738
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ENGINEERING SERVICES [8711]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				880322261
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1228
+
+	FILING VALUES:
+		FORM TYPE:		8-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14217
+		FILM NUMBER:		25559913
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11740 KATY FWY
+		STREET 2:		ENERGY TOWER III, 11TH FLOOR
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+		BUSINESS PHONE:		281-878-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		11740 KATY FWY
+		STREET 2:		SUITE 1100
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77079
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INDUSTRIAL DATA SYSTEMS CORP
+		DATE OF NAME CHANGE:	19970123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K/A
+<SEQUENCE>1
+<FILENAME>eng_8ka.htm
+<DESCRIPTION>FORM 8-K/A
+<TEXT>
+xml version='1.0' encoding='ASCII'?eng_8ka.htm
+
+0000933738true00009337382024-11-252024-11-25iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K/A
+
+(Amendment No. 1)
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) November 25, 2024
+
+ENGlobal Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Nevada 
+
+001-14217 
+
+88-0322261
+
+(State or other jurisdiction
+
+of incorporation) 
+
+(Commission
+
+File Number) 
+
+(IRS Employer
+
+Identification No.)
+
+11740 Katy Fwy Energy Tower III, Suite 350
+
+Houston, TX 
+
+77079
+
+(Address of principal executive offices) 
+
+(Zip Code)
+
+Registrants telephone number, including area code: 281-878-1000
+
+_________________________________________ 
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class 
+
+Trading Symbol(s) 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value 
+
+ENG 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+EXPLANATORY NOTE
+
+This Amendment No. 1 to Current Report on Form 8-K/A (this Amendment) amends the Current Report on Form 8-K previously filed by ENGlobal Corporation (the Company) with the Securities and Exchange Commission (the SEC) on December 2, 2024 (the Original Form 8-K). The Company is filing this Amendment in order to provide supplemental information regarding the cybersecurity incident disclosed by the Company in the Original Form 8-K. Except as expressly set forth herein, this Amendment does not amend the Original Form 8-K. This Amendment supplements, and should be read in conjunction with, the Original Form 8-K. 
+
+Item 1.05 
+
+Material Cybersecurity Incidents.
+
+As previously reported in the Original Form 8-K, on November 25, 2024, the Company became aware of a cybersecurity incident. The preliminary investigation revealed that a threat actor illegally accessed the Companys information technology (IT) system and encrypted some of its data files. Upon detecting the unauthorized access, the Company immediately took steps to contain, assess and remediate the cybersecurity incident, including beginning an internal investigation, engaging external cybersecurity specialists, and restricting access to its IT system. 
+
+The cybersecurity incident limited the Companys ability to access portions of its business applications that supported aspects of the Company's operations and corporate functions, including financial and operating reporting systems for approximately six weeks.
+
+As of the date hereof, the Company's operations and corporate functions have been fully restored, and the Company believes that the threat actor no longer has access to the Company's IT system. As part of its remediation efforts, the Company is working with cybersecurity experts to reinforce its IT system, strengthen its surveillance of cybersecurity threats and prevent future unauthorized access to its IT system.
+
+The cybersecurity incident involved the threat actors access to a portion of the Companys IT system that contained sensitive personal information. The Company intends to provide notifications to affected and potentially affected parties and applicable regulatory agencies as required by federal and state law.
+
+Based on the information available to the Company as of the date hereof, the Company believes that the incident has not had a material impact and is not reasonably likely to have a material impact, on the Company, including the Companys financial condition and results of operations, except as disclosed herein.
+
+Forward-Looking Statements
+
+This Amendment contains forward-looking statements within the meaning of the Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These statements address the Companys expectations or beliefs regarding future events, actions or performance, including the containment, assessment and remediation of the cybersecurity incident, the restoration of full access to the Company's operations and corporate functions, the threat actors access to the Companys IT system, and the impact of the cybersecurity incident on the Company, including its financial condition and results of operations. Factors that could affect future developments and performance include the completion of the Companys investigation, the possibility that containment and remediation may not be successful, the compromise or improper use of sensitive personal information resulting in negative consequences such as fines, penalties, or loss of reputation, the nature and scope of any claims, litigation or regulatory proceedings that may be brought against the Company as a result of the cybersecurity incident, the availability of insurance coverage, other legal, reputational and financial risks resulting from this or other cybersecurity incidents, the potential impact of this cybersecurity incident on the Companys revenues, operating expenses, and operating results, and other risk factors contained in the Companys Annual Report on Form 10-K for the year ended December 30, 2023, subsequent Quarterly Reports on Form 10-Q and other documents that the Company has filed with the SEC.
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ENGlobal Corporation 
+
+(Registrant) 
+
+January 27, 2025 
+
+/s/ Darren W. Spriggs 
+
+(Date) 
+
+Darren W. Spriggs,
+
+Chief Financial Officer, Treasurer
+
+and Corporate Secretary 
+
+3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>2
+<FILENAME>eng-20241125.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA
+<TEXT>
+000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>3
+<FILENAME>eng-20241125_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE
+<TEXT>
+Cover [Abstract] 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Document Type 
+
+Amendment Flag 
+
+Entity Emerging Growth Company 
+
+Document Period End Date 
+
+Entity File Number 
+
+Entity Incorporation State Country Code 
+
+Entity Tax Identification Number 
+
+Entity Address Address Line 1 
+
+Entity Address Address Line 2 
+
+Entity Address City Or Town 
+
+Entity Address State Or Province 
+
+Entity Address Postal Zip Code 
+
+City Area Code 
+
+Local Phone Number 
+
+Security 12b Title 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre Commencement Tender Offer 
+
+Pre Commencement Issuer Tender Offer 
+
+Amendment Description
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.CAL
+<SEQUENCE>4
+<FILENAME>eng-20241125_cal.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>eng-20241125_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>6
+<FILENAME>eng-20241125_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Cover
+
+Nov. 25, 2024
+
+Cover [Abstract] 
+
+Entity Registrant Name ENGlobal Corporation
+
+Entity Central Index Key 0000933738
+
+Document Type 8-K/A
+
+Amendment Flag true
+
+Entity Emerging Growth Company false
+
+Document Period End Date Nov. 25, 2024
+
+Entity File Number 001-14217
+
+Entity Incorporation State Country Code NV
+
+Entity Tax Identification Number 88-0322261
+
+Entity Address Address Line 1 11740 Katy Fwy Energy Tower III
+
+Entity Address Address Line 2 Suite 350
+
+Entity Address City Or Town Houston
+
+Entity Address State Or Province TX
+
+Entity Address Postal Zip Code 77079
+
+City Area Code 281
+
+Local Phone Number 878-1000
+
+Security 12b Title Common Stock, $0.001 par value
+
+Trading Symbol ENG
+
+Security Exchange Name NASDAQ
+
+Written Communications false
+
+Soliciting Material false
+
+Pre Commencement Tender Offer false
+
+Pre Commencement Issuer Tender Offer false
+
+Amendment Description This Amendment No. 1 to Current Report on Form 8-K/A (this Amendment) amends the Current Report on Form 8-K previously filed by ENGlobal Corporation (the Company) with the Securities and Exchange Commission (the SEC) on December 2, 2024 (the Original Form 8-K). The Company is filing this Amendment in order to provide supplemental information regarding the cybersecurity incident disclosed by the Company in the Original Form 8-K. Except as expressly set forth herein, this Amendment does not amend the Original Form 8-K. This Amendment supplements, and should be read in conjunction with, the Original Form 8-K. 
+
+X
+
+- Definition
+
+Description of changes contained within amended document.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentDescription
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+1 
+24 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+000001 - Document - Cover 
+Sheet 
+http://eng.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+eng-20241125.xsd 
+eng-20241125_cal.xml 
+eng-20241125_def.xml 
+eng-20241125_lab.xml 
+eng-20241125_pre.xml 
+eng_8ka.htm 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+true
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>16
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>17
+<FILENAME>0001654954-25-000798-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>18
+<FILENAME>eng_8ka_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0000933738 
+
+2024-11-25 
+2024-11-25 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+0000933738 
+true 
+8-K/A 
+2024-11-25 
+ENGlobal Corporation 
+NV 
+001-14217 
+88-0322261 
+11740 Katy Fwy Energy Tower III 
+Suite 350 
+Houston 
+TX 
+77079 
+281 
+878-1000 
+false 
+false 
+false 
+false 
+Common Stock, $0.001 par value 
+ENG 
+NASDAQ 
+false 
+This Amendment No. 1 to Current Report on Form 8-K/A (this Amendment) amends the Current Report on Form 8-K previously filed by ENGlobal Corporation (the Company) with the Securities and Exchange Commission (the SEC) on December 2, 2024 (the Original Form 8-K). The Company is filing this Amendment in order to provide supplemental information regarding the cybersecurity incident disclosed by the Company in the Original Form 8-K. Except as expressly set forth herein, this Amendment does not amend the Original Form 8-K. This Amendment supplements, and should be read in conjunction with, the Original Form 8-K.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

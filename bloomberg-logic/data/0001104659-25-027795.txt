@@ -1,0 +1,1414 @@
+<SEC-DOCUMENT>0001104659-25-027795.txt : 20250325
+<SEC-HEADER>0001104659-25-027795.hdr.sgml : 20250325
+<ACCEPTANCE-DATETIME>20250325163038
+ACCESSION NUMBER:		0001104659-25-027795
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20250325
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250325
+DATE AS OF CHANGE:		20250325
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Morningstar, Inc.
+		CENTRAL INDEX KEY:			0001289419
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				363297908
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-51280
+		FILM NUMBER:		25768726
+
+	BUSINESS ADDRESS:	
+		STREET 1:		22 WEST WASHINGTON STREET
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60602
+		BUSINESS PHONE:		(312) 696-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		22 WEST WASHINGTON STREET
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60602
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>tm2510342d1_8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+false000128941900012894192025-03-252025-03-25iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+FORM
+8-K
+
+CURRENT
+REPORT
+
+Pursuant
+to Section 13 or 15(d) of
+
+the
+Securities Exchange Act of 1934
+
+Date
+of Report (Date of earliest event reported): March 25, 2025
+
+MORNINGSTAR,
+INC.
+
+(Exact
+name of registrant as specified in its charter)
+
+Illinois 000-51280 36-3297908
+
+(State
+or other jurisdiction
+
+of incorporation) (Commission
+
+File Number) (I.R.S.
+Employer
+
+Identification No.)
+
+22
+West Washington Street 
+
+Chicago,
+Illinois 60602
+
+(Address
+of principal executive offices) (Zip
+Code)
+
+(312)
+696-6000
+
+(Registrants
+telephone number, including area code)
+
+N/A
+
+(Former
+name or former address, if changed since last report)
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions:
+
+Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+x Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging
+growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+Title
+of Each Class Trading
+Symbol Name
+of Each Exchange on Which 
+
+Registered
+
+Common
+stock, no par value MORN The
+Nasdaq Stock Market LLC
+
+Item 7.01. Regulation FD
+Disclosure
+
+In accordance with Morningstar, Inc.s (the Company)
+policy regarding public disclosure of corporate information, Investor questions primarily received by the Company through January 31,
+2025, and Company responses (the Investor Q&A) are attached to this Current Report on Form 8-K (this Report)
+as Exhibit 99.1 and incorporated herein by reference. The Investor Q&A shall be deemed furnished, not filed, for purposes of
+this Report.
+
+Caution Concerning Forward-Looking Statements
+
+This Report, including the document incorporated by reference herein,
+contains forward-looking statements as that term is used in the Private Securities Litigation Reform Act of 1995. These statements are
+based on our current expectations about future events or future financial performance. Forward-looking statements by their nature address
+matters that are, to different degrees, uncertain, and often contain words such as aim, committed, consider,
+estimate, future, goal, is designed to, maintain, may,
+objective, ongoing, could, expect, intend, plan, possible,
+potential, seek, anticipate, believe, predict, prospects,
+continue, strategy, strive, will, would, determine,
+evaluate, or the negative thereof, and similar expressions. These statements involve known and unknown risks and uncertainties
+that may cause the events we discuss not to occur or to differ significantly from what we expect. For us, these risks and uncertainties
+include, among others:
+
+failing to maintain and protect our brand, independence, and
+reputation;
+
+failure to prevent and/or mitigate cybersecurity events and
+the failure to protect confidential information, including personal information about individuals;
+
+compliance failures, regulatory action, or changes in laws applicable
+to our regulated businesses;
+
+failing to innovate our product and service offerings or meet
+or anticipate our clients changing needs;
+
+impact of artificial intelligence technologies on our business
+and reputation, and the legal risks as they are incorporated into our products and tools;
+
+failure to detect errors in our products or failure of our products
+to perform properly due to defects, malfunctions or similar problems;
+
+failing to recruit, develop, and retain qualified employees;
+
+prolonged volatility or downturns affecting the financial sector,
+global financial markets, and the global economy and its effect on our revenue from asset-based fees and credit ratings business;
+
+failing to scale our operations and increase productivity in
+order to implement our business plans and strategies;
+
+liability for any losses that result from errors in our automated
+advisory tools or errors in the use of the information and data we collect;
+
+inadequacy of our operational risk management, business continuity
+programs to address materially disruptive event;
+
+2
+
+failure
+of our strategic transaction, acquisitions, divestitures and investments in companies or technologies to yield expected business or financial
+benefits, negatively impacting our operating results and our ability to deliver long-term value to shareholders;
+
+failing
+to maintain growth across our businesses due to changes in geopolitics and the regulatory landscape;
+
+liability
+relating to the information and data we collect, store, use, create, and distribute or the reports that we publish or are produced by
+our software products;
+
+the
+potential adverse effect of our indebtedness on our cash flow and financial and operational flexibility;
+
+liability,
+costs and reputational risks relating to environmental, social and governance considerations;
+
+our
+dependence on third-party service providers in our operations;
+
+inadequacy
+of our insurance coverage;
+
+challenges
+in accounting for tax complexities in the global jurisdictions we operate in could materially affect our tax obligations and tax rates;
+
+the
+potential and impact of vendor consolidation and clients' strategic decisions to replace our products and services with in-house products
+and services;
+
+our
+ability to build and maintain short-term and long-term shareholder value and pay dividends to our shareholders;
+
+our
+ability to maintain existing business and renewal rates and to gain new business;
+
+the
+impact on recently issued accounting pronouncements on our consolidated financial statements and related disclosures;
+
+impact
+on our stock price due to future sales of our common stock and fluctuations in our operating results; and
+
+failing
+to protect our intellectual property rights or claims of intellectual property infringement against us.
+
+A more complete description of these
+risks and uncertainties can be found in our filings with the Securities and Exchange Commission (SEC), including our most recent Reports
+on Form 10-K and 10-Q. If any of these risks and uncertainties materialize, our actual future results and other future events may
+vary significantly from what we expect. We do not undertake to update our forward-looking statements as a result of new information,
+future events, or otherwise, except as may be required by law. You are advised to review any further disclosures we make on related subjects,
+and about new or additional risks, uncertainties, and assumptions in our filings with the SEC on Forms 10-K, 10-Q, and 8-K.
+
+This Form 8-K (including Exhibit 99.1
+hereto) is not a proxy statement or a solicitation of proxies from the holders of common stock of Morningstar, Inc. A solicitation
+of proxies in connection with the 2025 Annual Shareholders Meeting will be made only by the Companys definitive proxy statement
+through a Notice of Internet Availability of Proxy Materials mailed to all stockholders of record on the record date of March 10,
+2025 (the 2025 Proxy). The Company, its directors and its executive officers may be deemed participants in the Company's
+solicitation of proxies from shareholders in connection with the matters to be considered at the 2025 Annual Shareholders Meeting.
+Biographical information about the Company's directors is set forth in the Company's definitive proxy statement for the 2024 annual meeting
+filed with the Securities and Exchange Commission (the SEC) on March 28, 2024. Biographical
+
+3
+
+information about the Company's executive
+officers is set forth in the Company's annual report on Form 10-K filed with the SEC on February 28, 2025. The Companys
+filings with the SEC are available at the SECs website at https://www.sec.gov or the Company's website at https://www.shareholders.morningstar.com.
+
+The Company will be filing the 2025
+Proxy for the 2025 Annual Shareholders Meeting with SEC. Additional information regarding the interests of participants in the
+solicitation of proxies in connection with the upcoming annual meeting of shareholders will be included in the definitive proxy statement
+for the 2025 Annual Shareholders Meeting. Stockholders are urged to read the proxy statement and any other relevant documents
+filed or that will be filed with the SEC when they become available because they will contain important information. Stockholders will
+be able to receive the 2025 Proxy and other relevant documents free of charge at the SECs website at https://www.sec.gov or through
+the Companys own website at https://www.shareholders.morningstar.com. This Form 8-K is being filed as soliciting material
+pursuant to Rule 14a-12 under the Securities Exchange Act of 1934, as amended solely as a precautionary matter, notwithstanding
+the fact that the issuer does not believe it constitutes solicitation material.
+
+Item 9.01. Financial
+Statements and Exhibits.
+
+(d) Exhibits:
+
+Exhibit No. Description
+
+99.1 Investor Q&A.
+
+104 The cover page from this Current Report on Form 8-K formatted in Inline XBRL (included
+as Exhibit 101).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+MORNINGSTAR, INC.
+
+Date: March 25, 2025 By:/s/ Michael Holt
+
+Name: Michael Holt
+
+Title: Chief Financial Officer
+
+4
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>tm2510342d1_ex99-1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+Exhibit 99.1
+
+Investor Questions and Answers: March 25, 2025
+
+We encourage current shareholders, potential shareholders, and other
+interested parties to send questions to us in writing and we make written responses available on a periodic basis. The following answers
+respond to selected questions primarily received through January 31, 2025. We retain the discretion to combine answers for duplicate
+or similar questions into one comprehensive response.
+
+If you
+would like to submit a question, please send an e-mail to investors@morningstar.com or write us at the following
+address:
+
+Morningstar, Inc.
+
+Investor Relations
+
+22 W. Washington St.
+
+Chicago, IL 60602
+
+Morningstar Data and Analytics
+
+1. Can
+you please explain the Direct Advisory Suite? Is this part of Morningstar Direct or Morningstar
+Advisor Workstation? How do you intend to go-to-market with Direct Advisory Suite? At first
+glance, this looks like a way to clean up all the different editions of Advisor Workstation
+and perhaps level set/increase pricing especially with the inclusion of Mo? If so,
+how should investors think about the pricing impact during 2025 and into 2026?
+
+In January 2025, we launched Direct Advisory Suite, which represents
+the next generation of our advisor offering. Direct Advisory Suites modern interface offers a connected suite of tools spanning
+proposal creation, investment research, and portfolio analysis. It is built on the Direct Platform, a common foundation of investment
+data, analytics, and research. We plan to offer Direct Advisory Suite globally, capturing both the broker/dealers who have traditionally
+been Advisor Workstation clients as well as registered investment advisors.
+
+All Morningstar Advisor Workstation clients are expected to be enabled
+and updated to Direct Advisory Suite in 2025 and 2026 so that they can take advantage of these enhanced capabilities. As you noted,
+Direct Advisory Suite gives users access to our latest capabilities, including our AI-powered investment research assistant, Mo,
+and a new Insights tool, which provides the latest from our research teams on a list of securities or a portfolio, delivered in a concise
+summary. Direct Advisory Suite is a web-based platform that will allow us the flexibility to quickly share our latest capabilities
+so that clients can have access to the latest data, research, and insights available to empower investors.
+
+Direct Platform connects our core investment applications (including
+Direct Advisory Suite and Morningstar Direct, which is the Platforms asset- and wealth-management focused application) to
+unified data, analytics, and research. The Direct Platform gives users a consistent data experience, no matter their use case or how they
+connect with us, from data feeds and APIs to Morningstar Direct and our advisor applications.
+
+In general, we seek to continuously enhance the value of products and
+services to meet our clients needs, and we generally expect to be compensated for the value we provide to our clients via pricing.
+We review our pricing strategy annually to ensure that it reflects the value we deliver to customers. Given the increased capabilities
+of Direct Advisory Suite, we will consider price increases at renewal.
+
+Morningstar Wealth
+
+2. Addepar
+is raising capital again this time reportedly at a valuation over $3 bn. My understanding
+is that Addepar has some overlap with Morningstar Office and could be seen as a long-term
+competitor in other areas of Morningstar as they expand. Can you please explain whether or
+not you all view Addepar as a competitor or as a potential long-term partner? If viewed as
+a competitor, what competitive advantages would you have in areas where theres potential
+for competition?
+
+We recently announced that we will be retiring Morningstar Office after
+20 years and providing a streamlined transition for interested clients to SS&Cs Black Diamond Wealth Platform, which will integrate
+our new Direct Advisory Suite product and allow advisors to continue using the Morningstar data and research theyve loved
+in Office.
+
+We do not view Addepar as a competitor. They, and a number of other
+players in the space including Envestnet, Orion, and Black Diamond, are Morningstar Data clients, and Morningstar serves as the common
+data language for their users.
+
+Morningstar
+
+3. Now
+that Morningstar has scaled to ~$15B market cap and added new product offerings in credit
+and private markets, Id be curious to hear what senior managements vision
+is in terms of what they expect the company to look like in 5-10 years? Some areas that could
+be helpful to better understand include: aspirational end-market exposures; growth vs. margin
+balance; and whether you expect more of a portfolio of brands vs. full integration
+approach with more M&A?
+
+First and foremost, we are focused on our mission of empowering investor
+success. We have established four company strategic goals: delivering insights across asset classes to public- and private-market investors;
+leveraging advances in artificial intelligence to drive innovation; driving operational excellence and scalability to support growth targets;
+and building an amazing culture that supports exceptional talent.
+
+We operate in large and growing markets across our business and see
+continued runway for profitable growth. We are working to expand our moat in our current business and will consider moving into adjacencies
+where we believe that we are well-positioned to serve investors. When we see these opportunities, we determine if it is more efficient
+to build, buy, or partner. That said, we do not believe that we require significant acquisitions to grow over the next few years. Broadly,
+we seek durable growth, with increases in adjusted operating income, adjusted operating margin, and free cash flow over the long term.
+
+Every transaction we enter into has a detailed integration plan which
+is tailored to the capabilities we are acquiring and the strategy we are pursuing. The degree of integration differs depending on the
+capability. With DBRS, for instance, we acquired a credit ratings business in Canada and Europe which did not exist at Morningstar. Therefore,
+the focus was on combining our U.S. methodologies and operations where we had some overlap as a result of the 2019 acquisition of DBRS.
+Following our 2022 acquisition of Leveraged Commentary & Data, we integrated LCDs data, research, and news onto the PitchBook
+platform and have successfully transitioned roughly 90% of LCD clients to the platform. Across all acquisitions, we work to leverage our
+corporate functions where appropriate (finance, information technology, HR, sales, etc.) in our integration plans to drive efficiencies
+which allow us to further scale.
+
+From a brand perspective, we generally transition acquired brands to
+Morningstar using a phased endorsement strategy. So, for example, we have transitioned DBRS to Morningstar DBRS. This approach, informed
+by ongoing assessments of brand equity and differentiation, helps us identify exceptions, minimize business risk, and maximize long-term
+value. Weve made strong progress consolidating our portfolio to fortify the Morningstar brand while continuing to clearly communicate
+our capabilities to the market.
+
+M&A
+
+4. Regarding
+M&A, I know there have been some questions previously answered around the qualitative
+criteria you use to evaluate deals, but I think it would be helpful to dive a bit deeper.
+Outside of the basic criteria regarding cultural/strategic fit and IRR exceeding cost of
+capital, Id be curious what incremental end-market areas are most attractive
+and what guard rails management has on completing deals? I ask because data has become pervasive
+across financial markets and it seems reasonable to acquire into areas as broad as derivatives
+to crypto to proxy services, etc. which all likely have different growth, margin, return
+profiles and could line up with existing MORN capabilities differently so better understanding
+the M&A framework and how adjacent areas is truly defined would be helpful.
+
+When we pursue M&A, we focus on transactions that align with our
+mission of empowering investor success; build our investment databases, research capabilities, technical expertise, or customer groups
+faster or more cost effectively than we could if we built them ourselves; and offer a good cultural fit with our entrepreneurial spirit
+and brand leadership. As you note, we prefer areas that have natural adjacencies to our portfolio. While we dont comment on our
+plans for future M&A, in the past weve found these adjacencies where an acquisition had the potential to enhance the data or
+technology of an existing part of our business For example, the 2022 LCD acquisition allowed us to add comprehensive coverage of leveraged
+loans, high-yield debt, investment-grade bond issuance, distressed debt, corporate bankruptcies, middle-market transactions and collateralized
+loan obligation fundraising to the PitchBook platform. More recently, our acquisitions of Lumonic, a private credit portfolio monitoring
+and management platform, and Dealview Technologies, a provider of standard U.S. commercial mortgage-backed security and collateralized
+loan obligation data, are expected to strengthen our private credit and structured finance offerings.
+
+While we actively evaluate M&A opportunities, we generally favor
+organic investments and maintain a high hurdle for completing transactions with a focus on evaluating long-term returns relative to other
+potential uses of cash. We assess overall cash-on-cash and internal rates of return based on the price we are paying and the value we
+expect to realize over time.
+
+Artificial Intelligence
+
+5. Please
+provide more detail on how you see your clients using AI and additional examples of value-added
+enriched data that MORN provides that would be difficult for AI to recreate based on web-scraping,
+public information, etc. More broadly, how does management think about the proprietary
+enrichment layer vs. commoditized data underneath it and how do they think about enhancing
+the moat in this critical area over time as technology and data becomes more easily available?
+
+Many of our clients are actively embracing AI to support activities
+including portfolio construction, risk assessment, automated proposal generation, portfolio summarization and research report generation,
+and we are working with them in a collaborative fashion. We view the adoption of AI as a driver of growth for our data sets and the
+intellectual property (IP) we create.
+
+Our early adoption of AI has enabled us to offer data sets in a format
+that is ready to be consumed by AI applications. One barrier to entry for clients to adopt AI is the work required to prepare data
+for use by models. Our offerings of AI ready data sets enable clients to adopt the technology faster and have their implementations
+powered by Morningstar.
+
+We continue to work to enhance our moat by creating hard to reproduce
+IP, such as the Morningstar Medalist Rating, which uses a combination of raw data and historical proprietary data sets collected over
+the past 40 years. We believe that our breadth of data assets and historical data sets provide a unique advantage for us to develop
+IP that cannot be replicated.
+
+Compensation and Benefits
+
+6. Regarding
+executive compensation, I see that the long-term incentive compensation target has been
+increased from 3-year 10% absolute TSR to 20%. How was this number was decided upon (any
+benchmark data would be helpful) in the first place and why does the Board believes it is
+an adequate incentive given many peers have seen 40%+ 3 year TSR over various periods historically
+and there is still some incentive given even if TSR returns are negative in the current framework
+from my understanding (happy to be corrected if incorrect)?
+
+We believe that a 100% payout target for delivering 20% TSR (Total
+Shareholder Return) is appropriate. Our compensation committee reviews and approves all executive compensation practices. Our goal is
+to have pay structures that align pay with performance, and the committee works closely with an external consultant and considers industry
+benchmarks and peer practices to determine whats best for Morningstar. In 2020, we increased our TSR hurdle from 10% to 20%, due
+in part to shareholder feedback.
+
+Aligning management incentives with shareholder returns is an important
+part of our compensation philosophy. Our stock-based compensation for 2024 consisted of both market stock units (MSUs), which vest based
+on three-year TSR, and restricted stock units (RSUs). Given that TSR is based on absolute rather than relative return, compensation is
+directly tied to the shareholder experience and is somewhat dependent on broader market activity. We split the annual MSU award into two
+grants each year to help smooth the effect of short-term market volatility. This practice results in grants at various prices over time.
+Historically, MSUs have been earned above the 100% target and below the 100% target. As noted in our proxy for our 2024 annual shareholders
+meeting, MSUs vest at 0% if TSR is negative 13.33% or lower.
+
+Our compensation committees independent consultant has compared
+our short- and long-term goal setting to that of the executive compensation peer group and has concluded our goals are challenging and
+support shareholder value creation. Further, it concluded that the actual compensation delivered for realized performance outcomes has
+been reasonable relative to peers and strongly aligned with the shareholder experience in recent years.
+
+ESG
+
+7. Wolters
+Kluwer (WK) and Workiva share prices came under pressure after Bloomberg reported that France
+is preparing to release a formal proposal to limit the scope of ESG reporting requirements.
+Workivas business drivers include tax complexity, increased regulations, and reporting
+retirements as companies need WKs solutions to comply with them. Equally, an important
+driver of growth for their Corp. Performance & ESG division is the phased introduction
+of Europes CSRD. However, the French and German governments are lobbying to rein in
+the scope of CSRD. How should I think about these topics for MORN? Presume there is an element
+of Sustainalytics which could be impacted here?
+
+As you note, the EUs sustainable finance agenda is evolving
+rapidly. Earlier this month, the European Union presented its Omnibus proposals on sustainability reporting and due diligence,
+which would significantly streamline sustainability reporting requirements for EU-based companies, including those related to the Corporate
+Sustainability Reporting Directive (CSRD).
+
+In particular, the proposed changes would reduce the number of firms
+reporting on CSRD. While this directly impacts reporting providers, the impact on our business is not as significant. We expect that companies
+will continue to be required to assess material issues related to their business, and we are still well-prepared to help firms do this
+work and collect reported data as it becomes available.
+
+While the proposed changes in other areas could impact reported data,
+we do not expect material changes in 2025. We will continue to monitor the regulatory environment and engage with clients and the markets
+accordingly.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>morn-20250325.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>morn-20250325_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE
+<TEXT>
+Cover [Abstract] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>morn-20250325_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Cover
+
+Mar. 25, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Mar. 25, 2025
+
+Entity File Number 000-51280
+
+Entity Registrant Name MORNINGSTAR,
+INC.
+
+Entity Central Index Key 0001289419
+
+Entity Tax Identification Number 36-3297908
+
+Entity Incorporation, State or Country Code IL
+
+Entity Address, Address Line One 22
+West Washington Street
+
+Entity Address, City or Town Chicago
+
+Entity Address, State or Province IL
+
+Entity Address, Postal Zip Code 60602
+
+City Area Code 312
+
+Local Phone Number 696-6000
+
+Written Communications false
+
+Soliciting Material true
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common
+stock, no par value
+
+Trading Symbol MORN
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://morningstar.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+morn-20250325.xsd 
+morn-20250325_lab.xml 
+morn-20250325_pre.xml 
+tm2510342d1_8k.htm 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>14
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>15
+<FILENAME>0001104659-25-027795-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>tm2510342d1_8k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001289419 
+
+2025-03-25 
+2025-03-25 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0001289419 
+8-K 
+2025-03-25 
+MORNINGSTAR, INC. 
+IL 
+000-51280 
+36-3297908 
+22 West Washington Street 
+Chicago 
+IL 
+60602 
+312 
+696-6000 
+false 
+true 
+false 
+false 
+false 
+Common stock, no par value 
+MORN 
+NASDAQ
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

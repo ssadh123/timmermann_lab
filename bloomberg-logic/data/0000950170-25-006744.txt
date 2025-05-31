@@ -1,0 +1,1066 @@
+<SEC-DOCUMENT>0000950170-25-006744.txt : 20250117
+<SEC-HEADER>0000950170-25-006744.hdr.sgml : 20250117
+<ACCEPTANCE-DATETIME>20250117163012
+ACCESSION NUMBER:		0000950170-25-006744
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		11
+CONFORMED PERIOD OF REPORT:	20250115
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250117
+DATE AS OF CHANGE:		20250117
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STAR GROUP, L.P.
+		CENTRAL INDEX KEY:			0001002590
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RETAIL STORES, NEC [5990]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				061437793
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14129
+		FILM NUMBER:		25539061
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9 WEST BROAD STREET
+		STREET 2:		SUITE 310
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06902
+		BUSINESS PHONE:		2033287300
+
+	MAIL ADDRESS:	
+		STREET 1:		9 WEST BROAD STREET
+		STREET 2:		SUITE 310
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06902
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STAR GROUP LP
+		DATE OF NAME CHANGE:	20171025
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STAR GAS PARTNERS LP
+		DATE OF NAME CHANGE:	19951025
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>sgu-20250115.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?8-K
+
+false0001002590true0001002590sgu:CommonUnitsMember2025-01-152025-01-1500010025902025-01-152025-01-150001002590sgu:CommonUnitPurchaseRightsMember2025-01-152025-01-15
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported) January 15, 2025
+
+STAR GROUP, L.P.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 
+
+001-14129 
+
+06-1437793
+
+(State or other jurisdiction
+
+of incorporation) 
+
+(Commission
+
+File Number) 
+
+(IRS Employer
+
+Identification No.)
+
+9 West Broad StreetSuite 310, Stamford, CT06902
+
+(Address of principal executive offices) (Zip Code)
+
+Registrants telephone number, including area code (203)328-7310
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class 
+
+Trading
+
+Symbol(s) 
+
+Name of each exchange on which registered
+
+Common Units 
+
+SGU 
+
+New York Stock Exchange
+
+Common Unit Purchase Rights 
+
+N/A 
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR 240.12b-2). Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 5.02 
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Henry D. Babcock, age 84, a member of the Board of Directors (the Board) of Kestrel Heat, LLC, the general partner of Star Group, L.P. (the Company), notified the Company of his decision to retire as a director and member of the Audit Committee of the Board effective January 15, 2025. Mr. Babcock has served as a director and a member of the Audit Committee since April 28, 2006. His decision to resign from the Board was not related to any disagreement with the Company on any matter relating to its operations, policies or practices. The Company and the Board wish to sincerely thank Mr. Babcock for his exceptional years of service and significant contributions to the Company.
+
+Effective upon Mr. Babcocks retirement, Kestrel Energy Partners, LLC, the sole member of Kestrel Heat, LLC, reduced the size of the Board from eight (8) to seven (7) members.
+
+Item 9.01 
+
+Financial Statements and Exhibits.
+
+Exhibit 104 
+
+Cover Page Interactive Data File (embedded within the inline XBRL document).
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+STAR GROUP, L.P.
+
+By: Kestrel Heat, LLC (General Partner)
+
+By: 
+
+/s/ Richard F. Ambury
+
+Name: 
+
+Richard F. Ambury
+
+Title: 
+
+Chief Financial Officer
+
+Date: January 17, 2025
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>2
+<FILENAME>sgu-20250115.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT
+<TEXT>
+100000 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink 
+
+Entity Address, Postal Zip Code 
+Entity Incorporation, State or Country Code 
+Document Information [Table] 
+Entity Central Index Key 
+Entity Address, State or Province 
+Cover [Abstract] 
+Entity Address, Address Line One 
+Amendment Flag 
+Class of Stock [Domain] 
+Common Unit Purchase Rights 
+Common Unit Purchase Rights [Member] 
+Common unit purchase rights. 
+Entity Address, City or Town 
+Document Type 
+Title of 12(b) Security 
+Soliciting Material 
+Entity Address, Address Line Two 
+Document Period End Date 
+Trading Symbol 
+Pre-commencement Tender Offer 
+Security Exchange Name 
+Class of Stock [Axis] 
+Written Communications 
+Pre-commencement Issuer Tender Offer 
+No Trading Symbol Flag 
+Entity Registrant Name 
+Entity Emerging Growth Company 
+Common Units [Member] 
+Common Units 
+Common Units [Member] 
+Securities Act File Number 
+Entity Tax Identification Number 
+City Area Code 
+Local Phone Number 
+Document Information [Line Items] 
+Entity Information, Former Legal or Registered Name
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>4
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Cover
+
+Jan. 15, 2025
+
+Document Information [Line Items] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Jan. 15, 2025
+
+Securities Act File Number 001-14129
+
+Entity Registrant Name STAR GROUP, L.P.
+
+Entity Central Index Key 0001002590
+
+Entity Tax Identification Number 06-1437793
+
+Entity Incorporation, State or Country Code DE
+
+Entity Address, Address Line One 9 West Broad Street
+
+Entity Address, Address Line Two Suite 310
+
+Entity Address, City or Town Stamford
+
+Entity Address, State or Province CT
+
+Entity Address, Postal Zip Code 06902
+
+City Area Code (203)
+
+Local Phone Number 328-7310
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+Entity Information, Former Legal or Registered Name Not Applicable
+
+Common Units 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security Common Units
+
+Trading Symbol SGU
+
+Security Exchange Name NYSE
+
+Common Unit Purchase Rights 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security Common Unit Purchase Rights
+
+No Trading Symbol Flag true
+
+Security Exchange Name NYSE
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentInformationLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Former Legal or Registered Name of an entity+ References
+
+No definition available.+ Details
+
+Name: dei_EntityInformationFormerLegalOrRegisteredName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true only for a security having no trading symbol.+ References
+
+No definition available.+ Details
+
+Name: dei_NoTradingSymbolFlag
+
+Namespace Prefix: dei_
+
+Data Type: dei:trueItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=sgu_CommonUnitsMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=sgu_CommonUnitPurchaseRightsMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>5
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>6
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+3 
+25 
+1 
+false 
+2 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+100000 - Document - Cover 
+Sheet 
+http://www.stargrouplp.com/20250115/taxonomy/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+sgu-20250115.htm 
+sgu-20250115.xsd 
+
+http://xbrl.sec.gov/dei/2024 
+
+false 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>11
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>12
+<FILENAME>0000950170-25-006744-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>sgu-20250115_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001002590 
+
+sgu:CommonUnitsMember 
+
+2025-01-15 
+2025-01-15 
+
+0001002590 
+
+2025-01-15 
+2025-01-15 
+
+0001002590 
+
+sgu:CommonUnitPurchaseRightsMember 
+
+2025-01-15 
+2025-01-15 
+
+false 
+0001002590 
+true 
+8-K 
+2025-01-15 
+STAR GROUP, L.P. 
+DE 
+001-14129 
+06-1437793 
+9 West Broad Street 
+Suite 310 
+Stamford 
+CT 
+06902 
+(203) 
+328-7310 
+Not Applicable 
+false 
+false 
+false 
+false 
+Common Units 
+SGU 
+NYSE 
+Common Unit Purchase Rights 
+NYSE 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

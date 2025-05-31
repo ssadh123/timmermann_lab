@@ -1,0 +1,1247 @@
+<SEC-DOCUMENT>0001663577-25-000031.txt : 20250121
+<SEC-HEADER>0001663577-25-000031.hdr.sgml : 20250121
+<ACCEPTANCE-DATETIME>20250121160403
+ACCESSION NUMBER:		0001663577-25-000031
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20250121
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250121
+DATE AS OF CHANGE:		20250121
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			iQSTEL Inc
+		CENTRAL INDEX KEY:			0001527702
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				452808620
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-55984
+		FILM NUMBER:		25542502
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 ARAGON AVENUE, SUITE 375
+		CITY:			CORAL GABLES
+		STATE:			FL
+		ZIP:			33134
+		BUSINESS PHONE:		(954) 951-8191
+
+	MAIL ADDRESS:	
+		STREET 1:		300 ARAGON AVENUE, SUITE 375
+		CITY:			CORAL GABLES
+		STATE:			FL
+		ZIP:			33134
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PURESNAX INTERNATIONAL, INC.
+		DATE OF NAME CHANGE:	20151124
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PURE SNAX INTERNATIONAL, INC.
+		DATE OF NAME CHANGE:	20150813
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	B-MAVEN, INC.
+		DATE OF NAME CHANGE:	20110810
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>iqst8k012125.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?iQSTEL Inc. - Form 8-K - June 4, 2024
+
+false000152770200015277022025-01-212025-01-21iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+____________________
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF
+
+THE SECURITIES EXCHANGE ACT OF 1934
+
+Date
+of Report (Date of earliest event reported): January
+21, 2025
+
+iQSTEL Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Nevada 000-55984 45-2808620
+
+(State or other jurisdiction of incorporation) (Commission File Number) (I.R.S. Employer Identification No.)
+
+300 Aragon Avenue, Suite 375
+
+Coral Gables, FL33134 
+
+33134
+
+(Address of principal executive offices) (Zip Code)
+
+Registrants telephone number, including area code: (954)951-8191
+
+________________________________________________
+
+(Former name or former address, if changed since last
+report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously
+satisfy the filing obligation of the registrant under any of the following provisions:
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17CFR 230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act: None.
+
+Indicate by check mark whether the registrant is an emerging growth company
+as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934
+(240.12b-2 of this chapter).
+
+Emerging growth company [ ]
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. [ ]
+
+SECTION 2 Financial
+Information
+
+Item 2.02 
+
+Results of Operations and Financial Condition.
+
+We have issued a shareholder letter outlining the companys strategic initiatives, financial performance, vision for the future and other matters.
+
+The shareholder letter is furnished with this Current Report on Form 8-K
+as Exhibits 99.1. The information furnished under this Item 2.02 and Item 9.01 of this Current Report on Form 8-K, including Exhibit 99.1,
+shall not be deemed to be filed for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise
+subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any registration statement or other filing
+under the Securities Act of 1933, as amended, regardless of any general incorporation by reference language in such filing, except as
+shall be expressly set forth by specific reference in any such filing.
+
+SECTION 9 Financial Statements and Exhibits
+
+Item 9.01 Financial Statements and Exhibits. 
+
+Exhibit No. Description
+
+99.1 Press Release, dated January 21, 2025
+
+2 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+iQSTEL Inc.
+
+/s/ Leandro Iglesias
+
+Leandro Iglesias
+
+Chief Executive Officer
+
+Date January 21, 2025
+
+3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>2
+<FILENAME>iqst-20250121.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>3
+<FILENAME>iqst-20250121_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Cover [Abstract] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>4
+<FILENAME>iqst-20250121_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>5
+<FILENAME>ex99_1.htm
+<DESCRIPTION>PRESS RELEASE, DATED JANUARY 21, 2025
+<TEXT>
+IQST - iQSTEL Releases 2025
+Shareholder Letter Highlighting Strategic Growth, M&A 2025 Campaign, and Vision for a $1 Billion Corporation Future
+
+New York, NY January
+21, 2025 iQSTEL Inc. (OTCQX: IQST), a leading innovator in the technology and telecommunications sectors, is pleased to share
+its 2025 Shareholder Letter, outlining the companys strategic initiatives, financial performance, and bold vision for the future.
+Below is the full letter from CEO Leandro Iglesias:
+
+Letter to Shareholders
+
+Dear Valued Shareholders,
+
+As we embark on 2025 with great
+enthusiasm and a bold vision for the future, I am thrilled to share iQSTELs strategic direction, remarkable achievements, and ambitious
+goals. Your unwavering trust and confidence inspire us to push boundaries and achieve extraordinary milestones. Together, we are building
+a company destined for greatness, driven by innovation, profitability, and an unrelenting focus on delivering exceptional shareholder
+value.
+
+Extraordinary Know-How in M&A
+
+iQSTEL has established itself
+as an expert in identifying, acquiring, and integrating high-value companies. Over the course of 11 successful venture and acquisitions,
+we have refined a strategic approach that consistently drives growth and strengthens our position as a leader in the technology and telecommunications
+industries.
+
+Our most recent acquisition, QXTEL,
+exemplifies this expertise. From April to December 2024, QXTEL generated $85 million in net revenue and $950,000 in EBITDA,
+based on preliminary accounting. These results highlight iQSTELs ability to identify and unlock value, setting the stage for our
+ambitious M&A campaign in 2025.
+
+A Bold Step Forward: Our M&A 2025 Campaign
+
+This year, iQSTEL is launching
+an ambitious Mergers and Acquisitions (M&A) campaign designed to accelerate our growth trajectory. Our goal is to acquire a company
+within the Telecom, Fintech, Cybersecurity, or AI services sectors, generating tens of millions of dollars in revenue and contributing
+over $1 million EBITDA annually.
+
+We intend to complete this acquisition
+before reaching NASDAQ, where even greater opportunities await us. To support this campaign and advance our broader business objectives,
+we have just filed an S-1 registration, reflecting our commitment to securing the resources necessary for transformative growth.
+
+Enhancing Shareholder Value Through Strategic M&A
+and Organic Growth
+
+At iQSTEL, we place our shareholders
+at the core of our strategic decisions. Our carefully planned M&A initiatives, combined with robust organic growth, have driven substantial
+increases in Revenue Per Share (RPS) over recent years:
+
+2020:
+$0.380
+
+2021:
+$0.439
+
+2022:
+$0.577
+
+2023:
+$0.839
+
+2024
+(preliminary accounting): $1.364
+
+This impressive RPS growth trajectory
+reflects the success of our strategy to create sustainable shareholder value. By pursuing high-margin opportunities through both M&A
+and organic initiatives, we anticipate maintaining this rapid growth pace.
+
+Our strategy safeguards shareholder
+value, ensuring that market perceptions align with the underlying strength demonstrated by our growing RPS and improving profitability.
+This positions iQSTEL as a leader in its industry and strengthens our foundation for sustained success.
+
+Building on Our Momentum in 2025
+
+2024 was a pivotal year for iQSTEL.
+We achieved critical mass, with our operating businesses generating positive net income quarter after quarter. This success underscores
+the strength of our strategy and our ability to execute effectively. For 2025, we aim even higher:
+
+Revenue
+Forecast: $340 million
+
+EBITDA
+Forecast for our operating business: $3 million
+
+2 
+
+These milestones are more than
+just numbersthey are a testament to the dedication of our team, the support of our shareholders, and our relentless pursuit of
+growth. They represent a critical step toward achieving our vision of becoming a $1 billion revenue company with eight-digit positive
+EBITDA by 2027.
+
+Even More, Continuous Progress and Innovation in
+2025
+
+Every day, iQSTEL takes bold steps to strengthen its
+business and ensure a brighter future:
+
+Rebranding:
+We are positioning iQSTEL as a technology leader, delivering high-margin, high-tech products to our customers. We have introduced our
+new logo and plan to share more results from our rebranding collaboration with ONAR.
+
+Cost
+Reduction and Efficiency: We are implementing strategies to streamline operations, accelerate EBITDA growth, and enhance shareholder
+value. In the coming days, we will announce further cost-reduction initiatives to bolster profitability.
+
+Cybersecurity
+Product Launch: Thanks to our strategic partnership with Cycurion, we are set to launch our cybersecurity
+products this quarter and begin sales in the first half of 2025. This initiative expands our portfolio to address critical global needs.
+
+AI
+Services Growth: Our AI platform, Airweb.ai, continues to gain customers and partners, underscoring its transformative potential.
+New AI services will launch in the first half of 2025, reinforcing iQSTELs reputation as a powerhouse of innovation.
+
+NASDAQ Uplisting: Building a Strong Foundation
+
+Our journey toward a NASDAQ uplisting
+is progressing steadily and strategically. While we are not rushing, we have been giving time for organic growth to enhance our stock
+price, supported by the strength of our operating business, forecasted to generate $3 million in EBITDA in 2025.
+
+If the management decided that
+is the right time to jump into Nasdaq, and we have not achieved yet the organic price will be when the management will decide to expedite
+the uplisting process through a reverse stock split, at that time we will ensure full transparency by filing an SEC notice. Any reverse
+stock split, if executed, will be aligned with and in conjunction with the NASDAQ uplisting.
+
+We are committed to building a
+company that captures the attention of national investors and reflects the immense value we offer.
+
+3 
+
+Managements Commitment: Aligned with Shareholder
+Interests
+
+At iQSTEL, our leadership team
+is not just steering the company toward its ambitious goals; we are also deeply invested in its success. As the largest shareholder group,
+management holds the equivalent of 40.5 million common shares through a combination of common and preferred shares. This significant
+ownership reflects our unwavering belief in iQSTELs potential and aligns our interests directly with those of our valued shareholders.
+
+This commitment is a testament
+to the confidence we have in iQSTELs vision of becoming a $1 billion revenue corporation by 2027. Our substantial stake
+in the company ensures that management is fully aligned with long-term value creation. Every strategic decision we makewhether
+it involves organic growth initiatives, high-margin product expansion, or strategic acquisitionsis driven by a shared goal: to
+deliver sustainable growth and maximize shareholder value.
+
+The road to achieving our $1 billion
+revenue milestone is clear, and our investment in iQSTEL underscores our dedication to seeing it through. We are not merely stewards of
+the company; we are also shareholders, invested in its future and committed to building a prosperous and sustainable enterprise for years
+to come.
+
+Confidence of Long-Term Investors: Extending Support
+for a $1 Billion Vision
+
+Our vision of achieving $1 billion
+in revenue by 2027 is not just a statementit is a well-defined plan that has garnered the trust and support of long-term investors.
+Their confidence in our strategic direction is evidenced by their willingness to extend the maturity dates of convertible notes originally
+used to acquire QXTel in 2024.
+
+These notes, previously set to
+mature in 2025, now have extended maturity dates through 2026, providing iQSTEL with additional financial flexibility to execute our growth
+strategy. This extension underscores the belief that we are on a clear trajectory to achieve our ambitious goals and deliver exceptional
+returns.
+
+Our long-term investors recognize
+the importance of supporting iQSTEL as we transition to a Nasdaq listing and continue to build momentum towards our revenue and profitability
+targets. Their ongoing commitment reflects their trust in our ability to execute our plans and deliver on our promises.
+
+4 
+
+A Brilliant Future Ahead
+
+iQSTEL is more than a companyits
+a testament to the power of vision, hard work, and innovation. Together, we are creating something extraordinary, a company that delivers
+exceptional financial results while driving meaningful progress across industries.
+
+This is an incredibly exciting
+time for iQSTEL. The journey we are on is transformative, and the opportunities ahead are limitless. Thank you for being part of this
+journey, for believing in our vision, and for sharing in our success. Together, we will achieve extraordinary milestones and secure a
+bright and prosperous future for iQSTEL and its shareholders.
+
+Warm regards,
+
+Leandro Iglesias
+
+President & CEO, iQSTEL Inc.
+
+About iQSTEL:
+
+iQSTEL Inc. (OTC-QX: IQST)
+(www.iQSTEL.com) is a US-based multinational publicly listed company in the final stages of the path to becoming listed on NASDAQ. With
+FY2024 revenues of $277 million based on preliminary accounting, iQSTEL is positioning itself for explosive growth. iQSTEL's mission
+is to serve basic human needs in today's modern world by making essential tools accessible, regardless of race, ethnicity, religion,
+socioeconomic status, or identity. The company recognizes that modern human needs such as physiological, safety, relationship, esteem,
+and self-actualization are marginalized without access to ubiquitous communications, financial freedom, clean, affordable mobility, and
+information.
+
+5 
+
+iQSTEL has been building
+a strong business platform with its customers, and by leveraging this trust, the company is now beginning to sell high-tech, high-margin
+products across its divisions. iQSTEL is strategically positioned to achieve $1 billion in revenue by 2027 through organic growth, acquisitions,
+and high-margin product expansion.
+
+Telecommunications Services Division (Communications):
+
+Includes VoIP, SMS, International Fiber-Optic, Proprietary Internet of Things (IoT), and a Proprietary Mobile Portability Blockchain Platform. 
+
+Fintech Division (Financial Freedom):
+
+Provides remittance services, top-up services, a MasterCard Debit Card, US bank accounts (no SSN required), and a Mobile App. 
+
+Electric Vehicles (EV) Division (Mobility):
+
+Offers Electric Motorcycles and plans to launch a Mid-Speed Car. 
+
+Artificial Intelligence (AI) Services Division (Information
+and Content):
+
+Provides AI solutions for unified customer engagement across web and phone channels, along with a white-label platform offering seamless
+access to services, entertainment, and support in a virtual 3D interface. 
+
+Cybersecurity Services:
+
+Through a new partnership with Cycurion, iQSTEL will offer advanced cybersecurity solutions, including 24/7 monitoring, threat detection,
+incident response, vulnerability assessments, and compliance management, providing essential protection to telecommunications clients
+and beyond. 
+
+iQSTEL has completed 11
+acquisitions since June 2018 and continues to develop an active pipeline of potential future acquisitions, further expanding its suite
+of products and services both organically and through mergers and acquisitions.
+
+Safe
+Harbor Statement: Statements in this news release may be "forward-looking statements". Forward-looking statements include, but
+are not limited to, statements that express our intentions, beliefs, expectations, strategies, predictions, or any other information relating
+to our future activities or other future events or conditions. These statements are based on current expectations, estimates, and projections
+about our business based partly on assumptions made by management. These statements are not guarantees of future performance and involve
+risks, uncertainties, and assumptions that are difficult to predict. Therefore, actual outcomes and results may and are likely to differ
+materially from what is expressed or forecasted in forward-looking statements due to numerous factors. Any forward-looking statements
+speak only as of the date of this news release, and iQSTEL Inc. undertakes no obligation to update any forward-looking statement to reflect
+events or circumstances after the date of this news release. This press release does not constitute a public offer of any securities for
+sale. Any securities offered privately will not be or have not been registered under the Act and may not be offered or sold in the
+United States absent registration or an applicable exemption from registration requirements.
+
+iQSTEL
+Inc.
+
+IR US Phone: 646-740-0907
+
+IR Email: investors@iqstel.com
+
+Contact
+Details
+
+iQSTEL Inc.
+
++1 646-740-0907
+
+investors@iqstel.com
+
+Company
+Website
+
+www.iqstel.com
+
+6
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Cover
+
+Jan. 21, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Jan. 21, 2025
+
+Entity File Number 000-55984
+
+Entity Registrant Name iQSTEL Inc.
+
+Entity Central Index Key 0001527702
+
+Entity Tax Identification Number 45-2808620
+
+Entity Incorporation, State or Country Code NV
+
+Entity Address, Address Line One 300 Aragon Avenue
+
+Entity Address, Address Line Two Suite 375
+
+Entity Address, City or Town Coral Gables
+
+Entity Address, State or Province FL
+
+Entity Address, Postal Zip Code 33134
+
+City Area Code (954)
+
+Local Phone Number 951-8191
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+1 
+20 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://iqstel.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+iqst-20250121.xsd 
+iqst-20250121_lab.xml 
+iqst-20250121_pre.xml 
+iqst8k012125.htm 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>14
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>15
+<FILENAME>0001663577-25-000031-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>iqst8k012125_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001527702 
+
+2025-01-21 
+2025-01-21 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0001527702 
+8-K 
+2025-01-21 
+iQSTEL Inc. 
+NV 
+000-55984 
+45-2808620 
+300 Aragon Avenue 
+Suite 375 
+Coral Gables 
+FL 
+33134 
+33134 
+(954) 
+951-8191 
+false 
+false 
+false 
+false 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

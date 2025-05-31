@@ -1,0 +1,1627 @@
+<SEC-DOCUMENT>0001493152-25-002182.txt : 20250114
+<SEC-HEADER>0001493152-25-002182.hdr.sgml : 20250114
+<ACCEPTANCE-DATETIME>20250114165839
+ACCESSION NUMBER:		0001493152-25-002182
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		16
+CONFORMED PERIOD OF REPORT:	20250113
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Unregistered Sales of Equity Securities
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250114
+DATE AS OF CHANGE:		20250114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Brand Engagement Network Inc.
+		CENTRAL INDEX KEY:			0001838163
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40130
+		FILM NUMBER:		25530031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		145 E. SNOW KING AVE
+		STREET 2:		PO BOX 1045
+		CITY:			JACKSON
+		STATE:			WY
+		ZIP:			83001
+		BUSINESS PHONE:		307-757-3650
+
+	MAIL ADDRESS:	
+		STREET 1:		145 E. SNOW KING AVE
+		STREET 2:		PO BOX 1045
+		CITY:			JACKSON
+		STATE:			WY
+		ZIP:			83001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DHC Acquisition Corp.
+		DATE OF NAME CHANGE:	20201229
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8-k.htm
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+false000183816300018381632025-01-132025-01-130001838163BNAI:CommonStockParValue0.0001PerShareMember2025-01-132025-01-130001838163BNAI:RedeemableWarrantsEachWholeWarrantExercisableForOneShareOfCommonStockAtExercisePriceOf11.50PerShareMember2025-01-132025-01-13iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED
+STATES 
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+FORM
+8-K
+
+CURRENT
+REPORT
+
+Pursuant
+to Section 13 or Section 15(d)
+
+of
+the Securities Exchange Act of 1934
+
+Date
+of Report (Date of earliest event reported): January 13, 2025
+
+BRAND
+ENGAGEMENT NETWORK INC.
+
+(Exact
+name of registrant as specified in its charter)
+
+Delaware 001-40130 98-1574798
+
+(State
+or other jurisdiction of
+
+incorporation
+or organization) 
+
+(Commission
+
+File
+Number) 
+
+(I.R.S.
+Employer
+
+Identification
+No.)
+
+145
+E. Snow King Ave
+
+PO
+Box 1045
+
+Jackson,
+WY83001
+
+(Address
+of principal executive offices, including zip code)
+
+Registrants
+telephone number, including area code: (307)757-3650
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions:
+
+Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+Title
+of each class 
+
+Trading
+Symbol(s) 
+
+Name
+of each exchange on which registered
+
+Common
+Stock, par value $0.0001 per share BNAI The
+Nasdaq Stock Market LLC
+
+Redeemable
+Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share BNAIW The
+Nasdaq Stock Market LLC
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging
+growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item
+1.01 Entry into a Material Definitive Agreement. 
+
+On
+January 13, 2025, Brand Engagement Network Inc., a Delaware corporation (the Company), entered into that certain Warrant
+Exercise and Reload Agreement (the Warrant Exercise Agreement) with certain investors (the Purchasers). As
+previously disclosed, that certain Securities Purchase Agreement, dated May 28, 2024, by and among the Company and certain investors
+party thereto (the May SPA), provided for the issuance and sale of 1,980,000 shares of common stock of the Company, par
+value $0.0001 per share (Common Stock), at a price per share of $2.50 and an aggregate of 3,960,000 warrants to purchase
+Common Stock, divided into two tranches consisting of (i) 1,980,000 warrants immediately exercisable for a term of one year (the May
+One-Year Warrants) and (ii) 1,980,000 warrants immediately exercisable for a term of five years (the May Five-Year Warrants,
+together with the May One-Year Warrants, the May Warrants), each with an exercise price of $2.50 per share. As also previously
+disclosed, that certain Securities Purchase Agreement, dated August 26, 2024, by and among the Company and the investors party thereto
+(the August SPA), provided for the issuance and sale of 1,185,000 shares of Common Stock, and that certain Warrant Purchase
+Agreement, dated August 26, 2024, by and among the Company and each of the warrantholders signatory thereto, provided for the issuance
+and sale of 960,000 warrants to purchase Common Stock at an exercise price of $5.00 per share. Pursuant to the August SPA, the Purchasers
+have purchased 110,000 shares of Common Stock, and the Company issued the contribution warrant (the Contribution Warrant)
+to purchase up to 960,000 shares of Common Stock at an exercise price of $5.00 per share in exchange for certain holders of Common Stock
+contributing 1,185,000 shares of Common Stock into an escrow account maintained in connection with the August SPA, of which 1,075,000
+shares of Common Stock remain in such escrow account (the Escrow Shares). Immediately prior to the execution of the Warrant
+Exercise Agreement, the investors party to the May SPA funded the remaining $750,000 of Required Fundings (as defined therein)
+payable thereunder in a combination of $225,000 in cash to the Company and through the offset of $525,000 of obligations of the Company
+to the Purchasers against the Required Fundings payable under the May SPA.
+
+Under
+the Warrant Exercise Agreement, the exercise price of 1,074,999 May Warrants (the Committed Warrants) was reduced to $1.96
+per share, until May 30, 2025, after which point the exercise price for any unexercised Committed Warrants shall automatically revert
+back to $2.50 per share. Pursuant to the Warrant Exercise Agreement, the Purchasers agreed to exercise the Committed Warrants for cash
+on a schedule set forth in the Warrant Exercise Agreement, with exercises taking place on or before January 31, 2025, February 28, 2025
+and March 27, 2025 (the Exercise Schedule). Upon each Committed Warrant exercised in accordance with the Exercise Schedule,
+the Company shall issue (i) one new warrant to purchase one share of Common Stock exercisable for a term of two years and (ii) one new
+warrant to purchase one share of Common Stock exercisable for a term of five years, each with an exercise price of $1.71 per share (together,
+the Reload Warrants). Upon a Purchasers completion in full under the Warrant Exercise but no later than May 30,
+2025, all remaining May Warrants issued under the May SPA held by such Purchaser shall immediately upon completion of such exercise automatically
+be amended to become exercisable for $1.96 per share for the remainder of their term (the Optional Warrants). If a Purchaser
+exercises an Optional Warrant by June 30, 2025, the Company shall issue to such Purchaser (i) one new warrant to purchase one share of
+Common Stock with an exercise price of $1.71 per share with a term of two years and (ii) one new warrant to purchase one share of Common
+Stock with an exercise price of $1.71 with a term of five years (the Optional Reload Warrants). In addition, under the
+Warrant Exercise Agreement, for each share of Common Stock for which a Purchaser exercises a Committed Warrant, one Escrow Share will
+be released from escrow and transferred to such Purchaser, for an aggregate of up to 1,074,999 Escrow Shares among all Purchasers, rounded
+down to the nearest whole share. Additionally, the exercise price of the Contribution Warrant was reduced to $1.71 per share.
+
+All
+obligations of the Purchasers and the Company under the August SPA are abated until January 31, 2025. Upon the due exercise in full of
+the Committed Warrants for a Purchaser by January 31, 2025, the obligations of such Purchaser under the August SPA shall be extinguished,
+and the August SPA shall terminate as to such Purchaser. Upon completion of performance of the January 31, 2025 Committed Warrant exercise
+by all Purchasers under the Warrant Exercise Agreement, the obligations of any investor under the August SPA who is not a Purchaser under
+the Warrant Exercise Agreement shall be extinguished, and the August SPA shall be fully terminated.
+
+The
+Company has agreed to make commercially reasonable efforts, but by no later than July 15, 2025, to file a registration statement with
+the Securities and Exchange Commission (the SEC) covering the resale of all shares of Common Stock underlying any Reload
+Warrants and any Optional Reload Warrants issued by the date of the filing of such resale registration statement. The Warrant Exercise
+Agreement contains representations and warranties of the Company and the Purchasers that are typical for transactions of this type.
+
+The
+foregoing description of the Warrant Exercise Agreement and the transactions contemplated thereby is only a summary of the material terms
+thereof, does not purport to be complete and is qualified in its entirety by reference to the full text of the Warrant Exercise Agreement,
+a copy of which is attached as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+Item
+3.02. Unregistered Sales of Equity Securities.
+
+The
+information set forth in Item 1.01 of this Current Report on Form 8-K concerning the issuance of the Reload Warrants upon exercise of
+the Committed Warrants, the issuance of the Optional Reload Warrants upon exercise of the Optional Warrants and the issuance of the shares
+of Common Stock underlying the Committed Warrants, the Reload Warrants and the Optional Reload Warrants (collectively, the Warrant
+Exercise Securities) is incorporated by reference in response to this Item 3.02. The issuance
+of the Warrant Exercise Securities will be completed in reliance upon the exemption from the registration requirements of the Securities
+Act of 1933, as amended, provided by Section 4(a)(2) thereof and Rule 506(b) promulgated thereunder as a transaction by an issuer not
+involving any public offering.
+
+Forward-Looking
+Statements
+
+Certain
+disclosures in this report include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+When used in this discussion, the words anticipate, assume, believe, budget,
+continue, could, estimate, expect, forecast, intend,
+may, plan, potential, predict, project, should, will,
+future and the negative of these or similar terms and phrases are intended to identify forward-looking statements in this
+report. Forward-looking statements reflect the Companys current expectations regarding future events, results or outcomes. These
+expectations may or may not be realized. Although the Company believes the expectations reflected in the forward-looking statements are
+reasonable, the Company can give you no assurance these expectations will prove to have been correct. Some of these expectations may
+be based upon assumptions, data or judgments that prove to be incorrect. Actual events, results and outcomes may differ materially from
+the Companys expectations due to a variety of known and unknown risks, uncertainties and other factors. Although it is not possible
+to identify all of these risks and factors, they include, among others, (i) uncertainties as to the timing of Purchasers fundings
+under the Warrant Exercise Agreement or August SPA, if at all; (ii) uncertainty regarding exercises of warrants under the Warrant Exercise
+Agreement or August SPA; (iii) uncertainty regarding the timing of the filing of a resale registration statement; and (iv) risks related
+to the substantial costs and diversion of managements attention and resources due to these matters. Additional information concerning
+these and other factors can be found under the caption Risk Factors in the Companys Annual Report on Form 10-K for
+the year ended December 31, 2023, as filed with the SEC and in the Companys Quarterly Reports on Form 10-Q. Any one of these factors
+or a combination of these factors could materially affect the Companys financial condition or future results of operations and
+could influence whether any forward-looking statements contained in this report ultimately prove to be accurate. The Companys
+forward-looking statements are not guarantees of future performance, and you should not place undue reliance on them. All forward-looking
+statements speak only as of the date made and the Company undertakes no obligation to update or revise publicly any forward-looking statements,
+whether as a result of new information, future events or otherwise.
+
+Item
+9.01 Exhibits and Financial Statements. 
+
+(d)
+Exhibits.
+
+Exhibit
+No. 
+
+Description
+of Exhibit
+
+10.1 Warrant Exercise and Release Agreement, dated January 13, 2025, by and among Brand Engagement Network Inc. and certain purchasers identified on the signature pages thereto.
+
+104 Cover
+Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its
+behalf by the undersigned hereunto duly authorized.
+
+BRAND
+ENGAGEMENT NETWORK INC. 
+
+By: /s/
+Paul Chang
+
+Name: Paul
+Chang
+
+Title: Chief
+Executive Officer
+
+Dated:
+January
+14, 2025
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>ex10-1.htm
+<TEXT>
+Exhibit
+10.1
+
+WARRANT
+EXERCISE AND RELOAD AGREEMENT
+
+This
+Warrant Exercise and Reload Agreement (this Agreement) is dated as of January 13, 2025, between Brand Engagement
+Network Inc., a Delaware corporation (the Company), and each purchaser identified on the signature pages hereto
+(each, including its successors and assigns, a Purchaser and collectively the Purchasers) identified
+on the signature page hereto and, solely for purposes of Section 3, the Non-Participating Purchasers identified on the signature page
+hereto. Reference is hereby made to (i) that certain Securities Purchase Agreement, dated August 26, 2024, as amended (the August
+SPA), for the issuance and sale to certain investors of shares of common stock of the Company, par value $0.0001 per share
+(the Common Stock) at a price per share of $5.00 and (ii) that certain Securities Purchase Agreement, dated May
+28, 2024, (the May SPA), for the issuance and sale of 1,980,000 shares of Common Stock at a price per share of $2.50
+and an aggregate of 3,960,000 warrants to purchase Common Stock, divided into two tranches consisting of (i) 1,980,000 Warrants immediately
+exercisable for a term of one year (the May One-Year Warrants) and (ii) 1,980,000 Warrants immediately exercisable
+for a term of five years (the May Five-Year Warrants, together with the May One-Year Warrants, the May
+Warrants and such shares underlying the May Warrants, the May Warrant Shares), each with an exercise
+price of $2.50 per share, to certain investors and the purchasers party thereto.
+
+WHEREAS,
+prior to the execution of this Agreement, the Purchasers completed funding their purchase amounts under the May SPA;
+
+WHEREAS,
+in a transaction priced above the Minimum Price in accordance with Nasdaq Rule 5635, under the August SPA, the Purchasers
+have completed the purchase of 110,000 shares of Common Stock at a price per share of $5.00, and in connection therewith, the Company
+issued a warrant to purchase up to 960,000 shares of Common Stock at an exercise price of $5.00 per share (the Contribution Warrant)
+in exchange for certain holders of Common Stock contributing 1,185,000 shares of Common Stock into an escrow account maintained in connection
+with the August SPA, of which 1,075,000 shares of Common Stock remain in such escrow account (the Escrow Shares); and
+
+WHEREAS,
+subject to the terms and conditions set forth in this Agreement, the Company desires to induce the Purchasers to exercise certain of
+the May Warrants on the terms and in the amounts specified on Schedule A hereto (the Exercise Schedule).
+
+NOW,
+THEREFORE, IN CONSIDERATION of the mutual covenants contained in this Agreement, and for other good and valuable consideration the receipt
+and adequacy of which are hereby acknowledged, the Company and each Purchaser agree as follows:
+
+1.
+Warrant Exercise.
+
+a.
+Reduction
+in Committed Warrant Exercise Price. As an inducement to exercise the May Warrants issued under the May SPA, the Company and
+the Purchasers each severally agree to reduce the exercise price of May Warrants to purchase 1,074,999 shares of Common Stock issued
+to the Purchasers under the May SPA as set forth on Schedule A (such May Warrants to purchase 1,074,999 shares, the Committed
+Warrants) to an exercise price of $1.96 per share (the New Exercise Price), until May 30, 2025 (the
+Exercise Price Reversion Date), after which point the exercise price for any unexercised Committed Warrants
+shall automatically revert to $2.50 per share.
+
+b.
+Agreement
+to Exercise Committed Warrants. The Purchasers, severally and not jointly, hereby agree with the Company to exercise for cash,
+the Committed Warrants issued to you under the May SPA as set forth on Schedule A on or before January 31, 2025, February
+28, 2025 and March 27, 2025, as applicable, at the New Exercise Price and, upon such exercise, in consideration for each Committed
+Warrant so exercised, the Company shall issue you one new warrant to purchase one share of Common Stock exercisable for a term of
+two years (a May Two-Year Warrant) and one new May Five-Year Warrant, each with an exercise price of $1.71 per
+share (the Reload Exercise Price), to purchase shares of Common Stock (the Reload Warrants).
+The resale of the shares underlying the Committed Warrants has been registered with the SEC on Registration Statement No. 333-280366,
+originally filed with the SEC on June 20, 2024 (the May SPA Resale Registration Statement). To exercise the
+Committed Warrants, each Purchaser shall deliver a warrant exercise notice and deposit the appropriate funds into the Companys
+bank account on or before the applicable funding date set forth on Schedule A in accordance with the terms of the Committed
+Warrants as modified hereby. Upon receipt of customary representation letters from the Purchasers, the Company shall issue
+the shares underlying the Committed Warrants without a restrictive legend; provided that such customary representation letters shall
+contain covenants of the Purchasers not to sell the shares underlying the Committed Warrants at any time in which the resale registration
+statement is not available, including after the date the Company files its annual report on Form 10-K for the fiscal year ended December
+31, 2024 and prior to the SEC declaring a post-effective amendment to the May SPA Resale Registration Statement effective.
+
+c.
+Optional
+May Warrant Exercise After Warrant Exercise Completed. Upon a Purchasers completion in full by the earlier of the date
+of the final March 27, 2025 obligation, but no later than the Exercise Price Reversion Date, of its obligation to exercise the number
+of Committed Warrants for which it is so obligated to exercise by January 31, 2025, February 28, 2025 and March 27, 2025, all remaining
+May Warrants issued under the May SPA held by such Purchaser shall immediately upon completion of such exercise automatically be
+amended to become exercisable at the New Exercise Price (the Optional Warrants) for the remainder of their term.
+In the event a Purchaser exercises an Optional Warrant by June 30, 2025, it shall be issued (i) a new warrant to purchase Common
+Stock with an exercise price equal to the Reload Exercise Price and a term of two years and (ii) a new warrant to purchase Common
+Stock with an exercise price equal to the Reload Exercise Price and a term of five years (the Optional Reload Warrants).
+
+d.
+Contribution
+Warrant. The exercise price of the Contribution Warrant is hereby reduced to $1.71 per share.
+
+2.
+Escrow
+Shares. As further inducement to exercise the Committed Warrants, for each share of Common Stock for which a Purchaser exercises
+a Committed Warrant, one Escrow Share shall be released from escrow and transferred to such Purchaser, for an aggregate of up to
+1,074,999 Escrow Shares among all Purchasers. The number of shares of Common Stock to be transferred will be rounded down to the
+nearest whole share. 
+
+3.
+Effect
+on August SPA. The Purchasers and the Companys obligations under the August SPA shall be abated until January 31,
+2025. Upon the due exercise in full of the Committed Warrants set forth next to each Purchasers name on Schedule A under the
+column January 31, 2025 by January 31, 2025, the obligations of such Purchaser under the August SPA shall be extinguished, and the
+August SPA shall terminate as to such Purchaser. Upon completion of performance of the January 31, 2025 Committed Warrant exercise
+by all Purchasers under this Agreement by January 31, 2025, the obligations of the Non-Participating Purchasers under August SPA
+shall be extinguished, and the August SPA shall be fully terminated. Immediately following the execution of this Agreement, the Company
+shall file a post-effective amendment to the Registration Statement on Form S-1 (File No. 333-282130) to deregister the resale of
+all securities issuable under the August SPA that have not been paid for prior to the date hereof, and the Company shall have no
+further obligation under Section 3.1(q) of the August SPA to register any securities thereunder for resale.
+
+4.
+Representations
+and Warranties. Each Purchaser and the Company hereby ratifies the representations, warranties, covenants and agreements contained
+in the August SPA and the May SPA in their entirety. 
+
+5.
+Acknowledgement
+as to Legal Counsel. Each Purchaser acknowledges that Haynes and Boone LLP is counsel to the Company and such Purchaser has obtained
+its own legal advice or consultation with respect to the transactions contemplated by this Agreement.
+
+6.
+Registration.
+For those obligations paid for by the Purchasers under this Agreement, on or before June 30, 2025, the Company shall take commercially
+reasonable efforts to file, as promptly as practicable, but within fifteen days after June 30, 2025, a registration statement covering
+the resale of all shares of Common Stock underlying any Reload Warrants and any Optional Reload Warrants issued by the date of the
+filing of such resale registration statement. The Company shall have no other obligation to register any securities issued or issuable
+hereunder other than as explicitly provided by paragraph 1.a, 1.b and this paragraph 6.
+
+7.
+Legend.
+The Purchaser understands that the issuance of the Reload Warrants and the Optional Reload Warrants and the shares of Common Stock
+for which the Reload Warrants and the Optional Reload Warrants are exercisable has not been registered under the Securities Act of
+1933, as amended. The Reload Warrants and the Optional Reload Warrants shall bear the following restricted legend, and for so long
+as the shares of Common Stock underlying the Reload Warrants and Optional Reload Warrants are not registered pursuant to paragraph
+6 above, they shall bear the following restricted legend: 
+
+THE
+SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR ANY STATE SECURITIES LAWS
+AND NEITHER THE SECURITIES OR ANY INTEREST THEREIN MAY BE OFFERED, SOLD, TRANSFERRED, PLEDGED OR OTHERWISE DISPOSED OF EXCEPT PURSUANT
+TO AN EFFECTIVE REGISTRATION STATEMENT UNDER SUCH ACT OR SUCH LAWS OR AN EXEMPTION FROM REGISTRATION STATEMENT UNDER SUCH ACT OR
+SUCH LAWS OR AN EXEMPTION FROM REGISTRATION UNDER SUCH ACT AND SUCH LAWS WHICH, IN THE OPINION OF COUNSEL (IF THE COMPANY SO REQUEST),
+IS AVAILABLE.
+
+8.
+Acknowledgment
+with Respect to Nasdaq Compliance. Each Purchaser acknowledges that the Company has been informed by the Nasdaq that it expects
+to issue a notification of non-compliance to the Company with respect to the Companys failure to comply with the Nasdaqs
+minimum bid price requirement of $1.00. Purchaser acknowledges that there can be no guarantee that the Company will
+be able to regain compliance with the Nasdaqs listing rules, and that the Companys securities may be delisted from
+the Nasdaq as a result.
+
+9.
+Miscellaneous.
+Sections 4.2, 4.3, 5.1-5.20 and 5.22 of the May SPA are incorporated herein by this reference as if set out fully herein and shall
+apply in all respects to this Agreement, mutatis mutandis.
+
+IN
+WITNESS WHEREOF, the undersigned have caused this Warrant Exercise and Reload Agreement to be duly executed by their respective authorized
+signatories as of the date first indicated above.
+
+BRAND
+ENGAGEMENT NETWORK INC.
+
+By: /s/
+Paul Chang
+
+Name: Paul
+Chang
+
+Title: Chief
+Executive Officer
+
+145
+E. Snow King Ave
+
+P.O.
+Box 1045
+
+Jackson,
+WY 83001
+
+Email:
+[****]
+
+IN
+WITNESS WHEREOF, the undersigned have caused this Warrant Exercise and Reload Agreement to be duly executed by their respective authorized
+signatories as of the date first indicated above.
+
+PARTICIPATING
+PURCHASER
+
+JOSEPH
+BEVASH
+
+By: /s/
+Joseph Bevash 
+
+Name: Joseph
+Bevash
+
+Email: [****]
+
+IN
+WITNESS WHEREOF, the undersigned have caused this Warrant Exercise and Reload Agreement to be duly executed by their respective authorized
+signatories as of the date first indicated above.
+
+PARTICIPATING
+PURCHASER
+
+BEN
+CAPITAL FUND I LLC
+
+By: /s/
+James Irving 
+
+Name: James
+Irving
+
+Title: Manager
+
+Email: [****]
+
+IN
+WITNESS WHEREOF, the undersigned have caused this Warrant Exercise and Reload Agreement to be duly executed by their respective authorized
+signatories as of the date first indicated above.
+
+PARTICIPATING
+PURCHASER
+
+DUE
+FIGLIE LLC
+
+By: /s/
+Shawn Lucas
+
+Name: Shawn
+Lucas
+
+Title: Managing
+Member
+
+Email: [****]
+
+IN
+WITNESS WHEREOF, the undersigned have caused this Warrant Exercise and Reload Agreement to be duly executed by their respective authorized
+signatories as of the date first indicated above.
+
+PARTICIPATING
+PURCHASER
+
+LUCAS
+VENTURE PARTNERS
+
+By: /s/
+Julie Lucas 
+
+Name: Julie
+Lucas
+
+Title: Manager
+
+Email: [****]
+
+IN
+WITNESS WHEREOF, the undersigned have caused this Warrant Exercise and Reload Agreement to be duly executed by their respective authorized
+signatories as of the date first indicated above.
+
+PARTICIPATING
+PURCHASER
+
+PATRICK
+CARNEY
+
+By: /s/
+Patrick Carney 
+
+Name: Patrick
+Carney
+
+Email: [****]
+
+IN
+WITNESS WHEREOF, the undersigned have caused this Warrant Exercise and Reload Agreement to be duly executed by their respective authorized
+signatories as of the date first indicated above.
+
+NON-PARTICIPATING
+PURCHASER
+
+STEPHEN
+BIRCHALL
+
+By: /s/
+Stephen Birchall 
+
+Name: Stephen
+Birchall
+
+Email: [****]
+
+IN
+WITNESS WHEREOF, the undersigned have caused this Warrant Exercise and Reload Agreement to be duly executed by their respective authorized
+signatories as of the date first indicated above.
+
+NON-PARTICIPATING
+PURCHASER
+
+TROY
+BUDGEN
+
+By: /s/
+Troy Budgen 
+
+Name: Troy
+Budgen
+
+Email: [****]
+
+SCHEDULE
+A
+
+January 31, 2025 Funding February 28, 2025 Funding March 27, 2025 Funding Summary 
+
+Purchaser Amount 
+
+May
+
+Committed Warrants Exercised at $1.96 Escrow Shares Issued Reload Warrants Issued at $1.71 Amount May Committed Warrants Exercised at $1.96 Escrow Shares Issued Reload Warrants Issued at $1.71 Amount May Committed Warrants Exercised at $1.96 Escrow Shares Issued Reload Warrants Issued at $1.71 Total Funding Total Escrow Shares Issued Total May Warrants Issued Under May SPA Total May Committed Warrants to Be Exercised Maximum Optional Warrants Under May SPA Maximum Optional Reload Warrants by June 30, 2025 
+
+Joe Bevash $ 150,000.76 76,531 76,531 153,062 $ 150,000.76 76,531 76,531 153,062 $ 150,000.76 76,531 76,531 153,062 $ 450,002.28 229,593 400,000 229,593 170,407 340,814 
+
+BEN Capital Fund I LLC $ 168,209.16 85,821 85,821 171,642 $ 168,209.16 85,821 85,821 171,642 $ 168,209.16 85,821 85,821 171,642 $ 504,627.48 257,463 832,000 257,463 574,537 1,149,074 
+
+Due Figlie LLC $ 170,474.92 86,977 86,977 173,954 $ 170,474.92 86,977 86,977 173,954 $ 170,474.92 86,977 86,977 173,954 $ 511,424.76 260,931 711,000 260,931 450,069 900,138 
+
+Lucas Venture Partners $ 106,823.92 54,502 54,502 109,004 $ 106,823.92 54,502 54,502 109,004 $ 106,823.92 54,502 54,502 109,004 $ 320,471.76 163,506 593,000 163,506 429,494 858,988 
+
+Patrick Carney $ 106,823.92 54,502 54,502 109,004 $ 106,823.92 54,502 54,502 109,004 $ 106,823.92 54,502 54,502 109,004 $ 320,471.76 163,506 474,000 163,506 310,494 620,988 
+
+Total $ 702,332.68 358,333 358,333 716,666 $ 702,332.68 358,333 358,333 716,666 $ 702,332.68 358,333 358,333 716,666 $ 2,106,993.00 1,074,999 3,010,000 1,074,999 1,935,001 3,870,002
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>bnai-20250113.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>4
+<FILENAME>bnai-20250113_def.xml
+<DESCRIPTION>XBRL DEFINITION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>bnai-20250113_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Class of Stock [Axis] 
+
+Common Stock, par value $0.0001 per share 
+
+Redeemable Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share 
+
+Statement [Table] 
+
+Statement [Line Items] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>bnai-20250113_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001493152-25-002182-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>19
+<FILENAME>form8-k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001838163 
+
+2025-01-13 
+2025-01-13 
+
+0001838163 
+
+BNAI:CommonStockParValue0.0001PerShareMember 
+
+2025-01-13 
+2025-01-13 
+
+0001838163 
+
+BNAI:RedeemableWarrantsEachWholeWarrantExercisableForOneShareOfCommonStockAtExercisePriceOf11.50PerShareMember 
+
+2025-01-13 
+2025-01-13 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0001838163 
+8-K 
+2025-01-13 
+BRAND ENGAGEMENT NETWORK INC. 
+DE 
+001-40130 
+98-1574798 
+145 E. Snow King Ave 
+PO Box 1045 
+Jackson 
+WY 
+83001 
+(307) 
+757-3650 
+false 
+false 
+false 
+false 
+Common Stock, par value $0.0001 per share 
+BNAI 
+NASDAQ 
+Redeemable Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share 
+BNAIW 
+NASDAQ 
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>20
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Cover
+
+Jan. 13, 2025
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Jan. 13, 2025
+
+Entity File Number 001-40130
+
+Entity Registrant Name BRAND
+ENGAGEMENT NETWORK INC.
+
+Entity Central Index Key 0001838163
+
+Entity Tax Identification Number 98-1574798
+
+Entity Incorporation, State or Country Code DE
+
+Entity Address, Address Line One 145
+E. Snow King Ave
+
+Entity Address, Address Line Two PO
+Box 1045
+
+Entity Address, City or Town Jackson
+
+Entity Address, State or Province WY
+
+Entity Address, Postal Zip Code 83001
+
+City Area Code (307)
+
+Local Phone Number 757-3650
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company true
+
+Elected Not To Use the Extended Transition Period false
+
+Common Stock, par value $0.0001 per share 
+
+Title of 12(b) Security Common
+Stock, par value $0.0001 per share
+
+Trading Symbol BNAI
+
+Security Exchange Name NASDAQ
+
+Redeemable Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share 
+
+Title of 12(b) Security Redeemable
+Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share
+
+Trading Symbol BNAIW
+
+Security Exchange Name NASDAQ
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 7A
+
+-Section B
+
+-Subsection 2
+
++ Details
+
+Name: dei_EntityExTransitionPeriod
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=BNAI_CommonStockParValue0.0001PerShareMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=BNAI_RedeemableWarrantsEachWholeWarrantExercisableForOneShareOfCommonStockAtExercisePriceOf11.50PerShareMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>21
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+3 
+24 
+1 
+false 
+2 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://beninc.ai/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+bnai-20250113.xsd 
+bnai-20250113_def.xml 
+bnai-20250113_lab.xml 
+bnai-20250113_pre.xml 
+form8-k.htm 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>23
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

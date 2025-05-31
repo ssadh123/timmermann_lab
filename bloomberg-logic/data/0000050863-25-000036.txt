@@ -1,0 +1,1222 @@
+<SEC-DOCUMENT>0000050863-25-000036.txt : 20250314
+<SEC-HEADER>0000050863-25-000036.hdr.sgml : 20250314
+<ACCEPTANCE-DATETIME>20250314170012
+ACCESSION NUMBER:		0000050863-25-000036
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		18
+CONFORMED PERIOD OF REPORT:	20250310
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250314
+DATE AS OF CHANGE:		20250314
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		25741058
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>intc-20250310.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?intc-20250310
+
+0000050863false00000508632025-03-102025-03-10
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 10, 2025
+
+INTEL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 000-06217 94-1672743
+
+(State or other jurisdiction (Commission (IRS Employer
+
+of incorporation) File Number) Identification No.)
+
+2200 Mission College Boulevard, Santa Clara, California 95054-1549
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code: (408)765-8080
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Common stock, $0.001 par value INTC Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Appointment of Chief Executive Officer
+
+On March 10, 2025, the Board of Directors (the Board) of Intel Corporation (Intel or the Company) appointed Lip-Bu Tan as Chief Executive Officer (CEO) and as a director of the Company, effective as of March 18, 2025 (the Effective Date).
+
+Mr. Tan, age 65, previously served as Chief Executive Officer of Cadence Design Systems, a computational software company, from 2009 to December 2021, and as Executive Board Chair at Cadence from December 2021 to May 2023. Mr. Tan was previously a director of Intel from September 2022 until August 2024. Mr. Tan is the chairman of Walden International, an international venture capital firm he founded in 1987, and the founding managing partner of two other funds, Celesta Capital and Walden Catalyst Ventures. Mr. Tan also serves as chairman of the board of directors of Credo Technology Group Holding Ltd. (Nasdaq: CRDO), a connectivity solutions provider, and is on the board of directors of Schneider Electric SE (OTCMKTS: SBGSY; Euronext Paris: SU), a digital automation and energy management company. Mr. Tan previously served on the board of directors of SoftBank (TYO: 9984; OTCMKTS: SFBQF) from June 2020 to June 2022, Hewlett Packard Enterprise (NYSE: HPE) from October 2015 to April 2021, and HiDeep Inc. (KOSDAQ:365590) from May 2012 to August 2022. Mr. Tan is an advisory board member of University of California, Berkeleys College of Engineering and Division of Computing, Data Science, and Society, and a 2022 recipient of the Robert N. Noyce Award from the Semiconductor Industry Association. Mr. Tan brings deep semiconductor industry, emerging technologies, finance, investment, M&A and public company leadership expertise from his various CEO and director roles.
+
+In connection with Mr. Tans appointment as CEO, the Company entered into an offer letter with Mr. Tan (the Offer Letter) setting forth the terms of his employment and compensation. Pursuant to the Offer Letter, Mr. Tan will be an at-will employee entitled to an initial base salary of $1,000,000 and eligible for an annual incentive cash bonus with a target payout of 200% of his base salary under Intels Executive Annual Performance Bonus Plan.
+
+The Offer Letter also provides that Mr. Tan will be granted the following long-term incentive equity awards and new hire equity awards as soon as practicable following his employment start date:
+
+2025 Long-Term Incentive Equity Awards
+
+Performance stock units based on relative total shareholder return metrics (TSR PSUs), with a target number of Intel shares subject to the grant having a target valuation of $14,400,000, as determined by Intel using the simple average of Intels trading prices over a 30-day period preceding March 12, 2025 (the Conversion Price). Vesting of such TSR PSUs will be based on Intels total shareholder return (TSR) relative to the TSR of the S&P 500 Index over a three-year period.
+
+Nonqualified stock options (Options) with a number of Intel shares subject to the grant having a grant date value of $9,600,000, determined by Intel using the Conversion Price. The exercise price of the Options will be the average of the high and low sales price of Intels stock on the grant date. The Options will vest in equal annual installments over a three-year period.
+
+New Hire Equity Awards
+
+Performance-based stock options based on relative total shareholder return metrics (New Hire Options), with a target number of Intel shares subject to the grant having a grant date value of $25,000,000, determined by Intel using the Conversion Price. The exercise price of the New Hire Options will be the average of the high and low sales price of Intels stock on the grant date. One-fifth of the New Hire Options will vest per year beginning on the first anniversary of the grant date and continuing each year such that the grant is fully vested on the fifth anniversary of the grant date. For the first two vesting dates, the New Hire Options will vest at target, after which, vesting of the New Hire Options will be based on Intels TSR relative to the TSR of the S&P 500 Index in the third, fourth, and fifth years following the date of grant.
+
+Performance stock units (New Hire PSUs) based on the appreciation in Intels closing stock price over the three-year period following the grant date, with a target number of Intel shares subject to the grant having a target valuation of $17,000,000, determined by Intel using the Conversion Price. No shares will be earned under the New Hire PSUs unless Intel's stock price increases over Intels volume-weighted average closing 
+
+stock price for the 30 consecutive trading days preceding March 12, 2025 (the VWAP). The target number of shares under the New Hire PSUs will be earned if Intels closing stock price is 200% of the VWAP. The maximum number of shares under the New Hire PSUs (or 300% of the target number of shares) will be earned if Intels stock price is 300% of the VWAP. The number of New Hire PSUs that will be earned in the event of an increase in Intels stock price between the levels of achievement will be determined via straight line interpolation of the earned percentages. Fifty percent of the New Hire PSUs will vest on the third anniversary of the grant date and twenty-five percent will vest on each of the fourth and fifth anniversaries of the grant date, subject to Mr. Tan holding through each such vesting date the $25,000,000 in Intel shares he purchased, as detailed below; provided that, Intels TSR must be at least in the 55th percentile in relation to the TSR of the S&P 500 Index for such three-year period for any amount of New Hire PSUs in excess of the target number of PSUs to vest.
+
+Mr. Tan also agrees to purchase Intel shares from Intel within 30 days following his employment start date having a target valuation of $25,000,000.
+
+The Offer Letter also provides that in the event Mr. Tans employment is terminated by Intel without Cause (as defined in the Offer Letter), and he signs and does not revoke a release, Mr. Tan will receive pro rata vesting on each of the above equity grants, determined by multiplying the number of shares subject to such award by a fraction, the numerator of which is the total number of full months elapsed from the most recent vesting date to the date Mr. Tans employment terminates without Cause, and the denominator of which is the total number of months remaining in the applicable vesting schedule, with the number shares subject to performance-based awards vesting based on the greater of target and actual performance for periods in which performance has not yet been determined. Following such pro-rata vesting, the Options and New Hire Options will remain exercisable for a period of 18 months.
+
+In the event Mr. Tans employment is terminated by Intel without Cause or for Good Reason (as defined in the Offer Letter) following a Change in Control (as defined in the Offer Letter), and Mr. Tan signs and does not revoke a release, then each of the equity grants provided to Mr. Tan under the Offer Letter will receive accelerated vesting (i) with respect to 67% of outstanding and unvested shares subject to such award if such Change in Control and termination occurs within 18 months of his employment start date and (ii) with respect to 100% of outstanding and unvested shares subject to such award if such Change in Control and termination occurs after such 18-month period. Following such accelerated vesting, the Options and New Hire Options will remain exercisable for a period of 18 months following the date of termination, subject to the terms of the transaction agreement governing the treatment of the Options and New Hire Options in connection with the transaction constituting a Change in Control.
+
+The foregoing description of Mr. Tans Offer Letter and compensation arrangements does not purport to be complete and is qualified in its entirety by reference to the Offer Letter, which is attached as Exhibit 10.1 hereto and incorporated by reference herein.
+
+Mr. Tan does not have any family relationship with any director or executive officer of Intel, or person nominated or chosen by Intel to become a director or executive officer, and he has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K. Mr. Tan was not selected pursuant to any arrangement or understanding between him and any other person.
+
+Intel will also enter into its standard form of indemnification agreement with Mr. Tan, the form of which is filed as Exhibit 10.9 to Intels Annual Report on Form 10-K for the period ended December 28, 2024.
+
+In connection with Mr. Tans appointment as Chief Executive Officer, Michelle Johnston Holthaus and David Zinsner will cease to serve as the Companys Interim Co-Chief Executive Officers as of the Effective Date. Ms. Johnston Holthaus will continue as Chief Executive Officer, Intel Products and Mr. Zinsner will continue as Executive Vice President and Chief Financial Officer of the Company.
+
+Board Leadership and Interim Executive Chair Compensation
+
+As of the Effective Date, Frank D. Yeary will cease to be Interim Executive Chair of the Board and will return to being the independent Chair of the Board. For his service in the role of Interim Executive Chair from December 2024 through the Effective Date, Mr. Yeary will receive restricted stock units (in accordance with prior elections he made) with a target valuation of $700,000 that will vest immediately and will be granted at the end of the first quarter of 2025.
+
+Item 7.01 Regulation FD Disclosure.
+
+Intels press release, dated March 12, 2025, announcing the appointment of Mr. Tan as Intels Chief Executive Officer is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+
+The information in Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1, is furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+
+Item 9.01 Financial Statements and Exhibits. 
+
+(d) Exhibits.
+
+The following exhibits are provided as part of this report: 
+
+Exhibit Number Description
+
+10.1 
+
+Offer Letter, dated March 10, 2025, between Intel Corporation and Lip-Bu Tan
+
+99.1 
+
+Press Released dated March 12, 2025.
+
+104 Cover Page Interactive Data File, formatted in Inline XBRL and included as Exhibit 101.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+INTEL CORPORATION
+
+(Registrant)
+
+Date: March 14, 2025 By: /s/ April Miller Boise
+
+April Miller Boise
+
+Executive Vice President and Chief Legal Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>a03102025form8-kex101.htm
+<DESCRIPTION>EX-10.1
+<TEXT>
+Document
+
+Corporate Headquarters
+
+Intel Corporation
+
+2200 Mission College Blvd
+
+Santa Clara, CA, 95054-1549
+
+(408) 765-8080
+
+March 10, 2025 
+
+Dear Lip-Bu:
+
+Congratulations! On behalf of Intel Corporation (Intel or the Company), I am pleased to provide this offer to you for the position of Chief Executive Officer effective as of your employment start date (the Effective Date), reporting to the Intel Board of Directors (the Board). You will also be appointed to the Board and for as long as you remain Chief Executive Officer, you will be nominated for election to the Board at each annual stockholder meeting at which directors are to be elected. Upon your termination as Chief Executive Officer for any reason, you shall automatically be deemed to have resigned from the Board and any board member or officer positions with the Company and/or any subsidiary that you hold and will cease to be a service provider to the Company.
+
+Base Salary. Your annual base salary will be $1,000,000, less applicable taxes, deductions and withholdings. This base salary will be reviewed annually as part of our performance review process and will increase commensurate with your performance, as assessed by the Board. 
+
+Annual Performance Bonus. You will be eligible for an Annual Performance Bonus (APB) with a target payout of 200% of base salary (which equates to $2,000,000 for fiscal year 2025 based on your initial base salary), less applicable taxes, deductions, and withholdings (the Target Bonus). The APB is paid out in the first quarter for the prior year based on Intels financial performance, as well as achievement of specified operational goals, subject to the terms of the Intel Corporation Executive Annual Performance Bonus Plan. Subject to local law, to earn and receive an APB payout, employees must be employed on the Intel payroll through the last day of the applicable bonus period. Your APB will not be pro-rated for your initial year of employment with Intel. 
+
+Initial Equity Grants. As of the Effective Date (Grant Date), you will be granted the following long-term incentive equity awards with respect to fiscal year 2025 and additional awards related to your hire, which shall vest as set forth below, subject to your continued employment with Intel (except as provided herein); provided that such grants shall be subject to the limits set forth in Section 6(b) of the 2006 Intel Corporation Equity Incentive Plan, as amended (the Equity Incentive Plan), which, if applicable shall proportionally affect all applicable grants: 
+
+Performance Stock Units. You will be granted an award of Intel performance stock units based on relative total shareholder return metrics (TSR PSUs), with a target number of Intel shares subject to the grant having a target valuation of $14,400,000, as determined by the Company in good faith, utilizing the simple average of Intels share trading prices for the 30 consecutive days preceding the public announcement that you will join Intel as Chief Executive Officer (Conversion Price). Such TSR PSUs can be earned as to up to 200% of the target number of PSUs for maximum performance. Vesting of such TSR PSUs shall be based on Companys TSR relative to the TSR of the S&P 500 Index over a three-year period commencing with the date applicable to the 2025 PSU awards granted to similarly situated executives of the Company in February 2025 (2025 PSU Awards). The TSR PSUs will be subject to the same vesting terms as the 2025 PSU Awards, subject to your continued employment with Intel through 
+
+each vesting date. In the event your employment terminates as a result of your death or Disablement (as defined below), such initial TSR PSUs will become 100% vested upon the later of the date of your termination of employment due to your death or Disablement, or the date of determination of your Disablement, based on actual performance over the three-year period and will be settled at the same time as the 2025 PSU Awards are settled for other employees following the certification of performance results by the Talent and Compensation Committee.
+
+For purposes of this offer letter, Disablement will have the meaning set forth in the Companys award agreements governing equity grants made under the Equity Incentive Plan.
+
+Stock Options. You will be granted an award of Intel nonqualified stock options (Options) with the number of Intel shares subject to the grant having a grant date fair value of $9,600,000, as determined by the Company in good faith, utilizing the Conversion Price. The exercise price of the Options will be the average of the high and low sales price of Intels stock on the Grant Date. The Options will vest in equal annual installments over a three-year period following the Grant Date such that the award is fully vested on the third anniversary of the Grant Date, subject to your continued employment with Intel through each vesting date. The Options will have a maximum seven-year term. In the event your employment terminates as a result of your death or Disablement, such Options will become 100% vested upon the later of the date of your termination of employment due to your death or Disablement or the date of determination of your Disablement and will remain exercisable for a period of 18 months.
+
+New Hire Option Grant. You will be granted an award of Intel performance-based stock options based on relative total shareholder return metrics, with a target number of Intel shares subject to the grant having a grant date fair value of $25,000,000, as determined by the Company in good faith, utilizing the Conversion Price (the New Hire Options). The exercise price of the New Hire Options will be the average of the high and low sales price of Intels stock on the Grant Date. One-fifth of the New Hire Options will vest per year beginning on the first anniversary of the Grant Date and continuing each year such that the grant is fully vested on the fifth anniversary of the Grant Date, subject to your continued employment with Intel through each vesting date. For the first two vesting dates, the New Hire Options will vest at target, after which, vesting of the New Hire Options will be based on Intels TSR relative to the TSR of the S&P 500 Index in the third, fourth, and fifth years following the date of grant, with an aggregate payout opportunity of +/- 50% on the total award. The New Hire Options will have a maximum ten-year term. In the event your employment terminates as a result of your death or Disablement, such New Hire Options will vest based on actual performance through the later of the date of your termination of employment due to your death or Disablement, or the date of determination of your Disablement, and will remain exercisable for a period of 18 months.
+
+New Hire PSU Grant. You will be granted an award of Intel performance stock units based on Intels closing stock price over the three-year period following the Grant Date, with a target number of Intel shares subject to such grant having a target valuation of $17,000,000, as determined by the Company in good faith, utilizing the Conversion Price (the New Hire PSUs), and with the number of New Hire PSUs that become earned at the end of such three-year period vesting in installments at the end of the third, fourth and fifth years following the Grant Date at a rate of 50% on the third anniversary, 25% on the fourth anniversary and 25% on the fifth anniversary, subject to your continued employment through each vesting date and to your holding the $25,000,000 in purchased Intel shares through each vesting date, provided that Intels TSR must be at least in the 55th percentile in relation to the TSR of the S&P 500 Index for such three-year period for any amount of New Hire PSUs in excess of the target number of PSUs to be earned and vested under this New Hire PSUs award. To earn any shares under the New Hire PSUs, Intels stock price must increase over Intels volume-weighted average closing stock price for the 30 consecutive trading days preceding the public announcement that you will join Intel as Chief Executive Officer (the VWAP). To earn the target number of shares subject to the New Hire PSUs, Intels stock price must be 200% of the VWAP. To earn the maximum number of shares subject to the New Hire PSUs (or 300% of the target number of shares), Intels stock price must be 300% of the VWAP. The number of shares under the New Hire PSU award that will be earned between the levels of achievement (i.e., between the level of achievement where Intels stock price is 100% of the VWAP and the target level of achievement where 
+
+Intels stock price is 200% of the VWAP and between the target level of achievement and the maximum level of achievement where Intels stock price is 300% of the VWAP) will be determined via straight line interpolation of the earned percentages set forth herein. In the event your employment terminates as a result of your death or Disablement, such New Hire PSUs will become 100% vested through the later of the date of your termination of employment due to your death or Disablement, or the date of determination of your Disablement based on actual performance over the three-year period, and will be settled at such times as the New Hire PSUs would have otherwise been settled following the certification of performance results by the Talent and Compensation Committee.
+
+Annual Equity Grants. Commencing in fiscal year 2026, you will be granted equity compensation awards at the same time the Company grants equity compensation awards to executive officers generally and your annual equity compensation awards will have a target valuation of at least $24 million, 60% of which it is anticipated will be granted in the form of PSUs and the remaining 40% of which it is anticipated will be granted in the form of stock options, in each case subject to approval by the Talent and Compensation Committee.
+
+Share Purchase. In recognition of the arrangements hereunder, you agree that on or within 30 days following the Effective Date, you will purchase Intel shares from Intel having a target valuation of $25,000,000. 
+
+Termination. In the event (a) your employment is terminated by Intel without Cause, and (b) you sign and do not revoke a release of claims in a form generally used by Intel (Release), and such Release becomes effective within 60 days following the date your employment terminates, then each of the equity grants set forth under this offer letter that are then outstanding and had been granted more than a year prior to the date of such termination without Cause will receive Pro-Rata Vesting, determined by multiplying the number of shares subject to such award by a fraction, the numerator of which is the total number of full months elapsed from the most recent vesting date to the date your employment terminates and the denominator of which is the total number of months remaining in the applicable vesting schedule, in each case effective as of the date of effectiveness of the Release; provided, that if such 60-day period spans two calendar years, such vesting will occur on the first day of the later of such calendar years; provided further that for any equity grants that are PSUs or New Hire Options, the number of shares shall be determined based on the greater of target and actual performance for any award that remains subject to performance vesting or for which performance has not yet been determined, as of the date of termination, and will be settled at the same time as the PSUs are settled for other employees (or would otherwise settle in the absence of such termination of employment) following the certification of performance results by the Talent and Compensation Committee and, with respect to Options and New Hire Options, will remain exercisable for a period of 18 months following such Pro-Rata Vesting. 
+
+For purposes of this offer, Cause means (i) commission of an act of material fraud or dishonesty against the Company; (ii) intentional refusal or willful failure to substantially carry out the lawful and reasonable instructions of the Board (other than any such failure resulting from your disability); (iii) conviction of, or guilty plea or no contest plea to, a felony or conviction of, or guilty plea or no contest plea to, a misdemeanor involving moral turpitude; (iv) gross misconduct in connection with the performance of your duties; (v) improper disclosure of confidential information or a material violation of a policy of the Company or the Companys Code of Conduct; (vi) breach or misrepresentation under any intellectual property, invention assignment, confidentiality, or proprietary information agreement to which the Company is a party; (vii) failure to reasonably cooperate with the Company in any investigation or formal proceeding or being found liable in a Securities and Exchange Commission enforcement action or otherwise being disqualified from serving in your job; or (viii) breach of duty of loyalty to the Company. Prior to termination for Cause, Intel shall provide thirty (30) days prior written notice of the grounds for Cause and give you an opportunity within (and including all of) those thirty (30) days to cure the alleged breach and to address the Board regarding such notice, together with counsel, at a meeting called for such purpose. Any actions by the Board at such meeting shall require the affirmative vote of not less than two-thirds of the Board (not including you). If the breach is substantially cured during such period, Cause 
+
+shall not exist on account of such breach. No act or failure to act on your part shall be considered willful unless the Board reasonably and in good faith determines it is done, or omitted to be done, in bad faith or without reasonable belief that your act or omission was in the best interests of the Company. Without limitation, any act, or failure to act, based upon express authority given pursuant to a resolution duly adopted by the Board with respect to such act or omission, or based upon the advice of legal counsel for Intel, shall be conclusively presumed to be done, or omitted to be done, by you in good faith and in the best interests of Intel.
+
+Retirement Benefits. Upon your retirement from Intel, you will be eligible for retirement benefits under the terms and conditions of Intels standard benefit plans. Additionally, under Intels Rule of 60 (at least age 60 with at least five years of service) retirement benefit, you will be eligible for certain accelerated vesting of your awards granted by Intel, subject to the terms and conditions of the Equity Incentive Plan and the specific grant agreement delivered with your notice of grant. In the event of any discrepancy between this Agreement and official plan and award documents, the official documents will prevail.
+
+Change in Control. In the event (a) a Change in Control occurs, (b) your employment is terminated by Intel without Cause or you voluntarily resign your employment for Good Reason, and (c) you sign and do not revoke a Release, and such Release becomes effective within 60 days following the date your employment terminates, then (1) each of the equity grants set forth under this offer letter will receive acceleration with respect to (A) for the first eighteen (18) months following the Effective Date, two-thirds (67%) of outstanding and unvested shares subject to such award and (B) after such eighteen (18) month period, one hundred percent (100%) of outstanding and unvested shares subject to such award and (2) following such accelerated vesting, the Options and New Hire Options will remain exercisable for a period of 18 months following the date of termination, subject to the terms of the transaction agreement governing the treatment of the Options and New Hire Options in connection with the transaction constituting a Change in Control.
+
+For purposes of this offer, Change in Control means an event set forth in any one of the following paragraphs shall have occurred:
+
+i.any Person (or any group of Persons acting together which would constitute a group for purposes of Section 13(d) of the Exchange Act), is or becomes the Beneficial Owner, directly or indirectly, of securities of the Company (not including in the securities beneficially owned by such Person any securities acquired directly from the Company or its affiliates) representing greater than fifty percent (50%) of the combined voting power of the Companys then outstanding securities, excluding any Person who becomes such a Beneficial Owner in connection with a transaction described in clause (I) of paragraph (iii) below;
+
+ii.the following individuals cease for any reason to constitute a majority of the number of directors then serving on the Board: individuals who, on the Effective Date, constitute the Board and any new director (other than a director whose initial assumption of office is in connection with an actual or threatened election contest, including, but not limited to, a consent solicitation, relating to the election of directors of the Company) whose appointment or election by the Board or nomination for election by the Companys stockholders was approved or recommended by a vote of at least two-thirds (2/3) of the directors then still in office who either were directors on the Effective Date or whose appointment, election or nomination for election was previously so approved or recommended;
+
+iii.there is consummated a merger or consolidation of the Company with any other corporation or other entity, other than (I) a merger or consolidation (A) which results in the voting securities of the Company outstanding immediately prior to such merger or consolidation continuing to represent (either by remaining outstanding or by being converted into voting securities of the surviving entity or any parent thereof), in combination with the ownership of any trustee or other fiduciary holding securities under an employee benefit plan of the Company at least fifty percent 
+
+(50%) of the combined voting power of the securities of the Company or such surviving entity or any parent thereof outstanding immediately after such merger or consolidation and (B) immediately following which the individuals who comprise the Board immediately prior thereto constitute at least a majority of the board of directors of the Company, the entity surviving such merger or consolidation or, if the Company or the entity surviving such merger or consolidation is then a subsidiary, the ultimate parent thereof, or (II) a merger or consolidation effected to implement a recapitalization of the Company (or similar transaction) in which no Person is or becomes the Beneficial Owner, directly or indirectly, of securities of the Company (not including in the securities beneficially owned by such Person any securities acquired directly from the Company or its affiliates) representing greater than fifty percent (50%) of the combined voting power of the Companys then outstanding securities; or
+
+iv.there is consummated an agreement for the sale or disposition by the Company of all or substantially all of the Companys assets, other than (A) a sale or disposition by the Company of all or substantially all of the Companys assets to an entity, at least fifty percent (50%) of the combined voting power of the voting securities of which are owned by stockholders of the Company following the completion of such transaction in substantially the same proportions as their ownership of the Company immediately prior to such sale or (B) a sale or disposition of all or substantially all of the Companys assets immediately following which the individuals who comprise the Board immediately prior thereto constitute at least a majority of the board of directors of the entity to which such assets are sold or disposed or, if such entity is a subsidiary, the ultimate parent thereof.
+
+Notwithstanding the foregoing, any restructuring of Intels business (including, without limitation, a transaction involving the sale of all or a portion of the Intel Foundry business, or any restructuring involving a transfer, sale or spin-off of any of Intels subsidiaries, products or businesses) shall in no event constitute a Change in Control for the purposes of this definition.
+
+Notwithstanding the foregoing, for each Award that constitutes deferred compensation under Section 409A of the Code, and to the extent required to avoid accelerated taxation and/or tax penalties under Section 409A of the Code, a Change in Control shall be deemed to have occurred under the Plan with respect to such Award only if a change in the ownership or effective control of the Company or a change in ownership of a substantial portion of the assets of the Company shall also be deemed to have occurred under Section 409A of the Code.
+
+A resignation for Good Reason means your resignation following the occurrence, without your express, written consent, of one or more of the following conditions (whether by a single action or a series of actions): (a) a material reduction in your title, duties, responsibilities, or authority; (b) a material reduction by Intel of your annual base salary or Target Bonus as in effect on the Effective Date; (c) a relocation of your principal place of employment more than 30 miles from its current location in Santa Clara, California; or (d) a failure by Intel to timely satisfy its obligations with respect to any of the equity award grants described in this offer letter, provided that Intel has had 30 days to cure any such failure.
+
+Notwithstanding anything in this offer letter to the contrary, if any payment or distribution to you pursuant to this offer letter or otherwise (Payment) would (i) constitute a parachute payment within the meaning of Section 280G of the Internal Revenue Code of 1986, as amended (Code), and (ii) but for this sentence, be subject to the excise tax imposed by Code Section 4999 (Excise Tax), then such Payment will either be (A) delivered in full, or (B) delivered as to such lesser extent which would result in no portion of such Payment being subject to the Excise Tax, whichever of the foregoing amounts, taking into account the applicable federal, state and local income taxes and the Excise Tax, results in your receipt on an after-tax basis, of the largest payment, notwithstanding that all or some portion the Payment may be taxable under Code Section 4999.
+
+Comprehensive Benefits. While employed with Intel, you will be eligible to participate in the same employee benefit plans as other senior executives of Intel, as such employee benefit plans may be 
+
+amended from time to time and on terms no less favorable than those provided to any other executive of Intel. You will receive reimbursement for business expenses on the same terms as other senior executives of Intel and on terms no less favorable than the terms provided to any other executive of Intel. You also will receive indemnification and liability insurance coverage on terms no less favorable than the coverage provided to any other executive of Intel or member of the Board. Additionally, you will be considered for additional equity grants, commensurate with your position, annually. 
+
+Attorneys Fees. Intel will reimburse you for up to $70,000 of your reasonable attorneys fees incurred in connection with the review and finalization of this offer letter and documentation of the equity awards described above, which reimbursement will occur within 2025.
+
+Outside Activities during Employment. During your employment, you shall devote such time as is necessary for you to perform your duties and responsibilities as Chief Executive Officer. This obligation, however, shall not preclude you from engaging in appropriate civic, charitable or religious activities, as long as such activities do not materially interfere with your job. Any other outside activities, including serving on another board of directors, must be in compliance with Intels Code of Conduct and Intels Corporate Governance Guidelines, in each case as in effect from time to time, and subject to applicable approvals and policies.
+
+Company Policies/Protection of Intellectual Property. Your employment is contingent on your signing an Employment Agreement, which outlines your obligations as an employee, including among others your obligation to protect Intels intellectual property (as well as confidential information of your prior employers and other third parties). You will be expected to abide by the Companys policies and procedures provided to you in writing and which do not contradict the terms of this offer letter, including without limitation Intels Employment Guidelines and Code of Conduct. 
+
+At-Will Employment. Your employment with Intel shall be at will, which means that both Intel and you have the right to end your employment at any time, with or without advance notice, and with or without cause. The at-will nature of your employment may not be modified or amended except by written agreement signed by an authorized member of the Board and you.
+
+Tax Withholding. All amounts payable hereunder shall be subject to any required withholdings and deductions.
+
+Counterparts. This offer letter may be executed in counterparts, all of which shall be considered one and the same agreement, and shall become effective when one or more counterparts have been signed by each of the parties and delivered to the other parties.
+
+Section 409A. It is intended that all of the severance payments and other benefits and payments payable under this offer letter be exempt from the application of Section 409A of the Code, and if not so exempt that they comply with the provisions of Code Section 409A of the Code, and this offer letter will be construed and interpreted accordingly. For purposes of Code Section 409A, your right to receive any installment payments under this Agreement (whether severance payments, reimbursements or otherwise) shall be treated as a right to receive a series of separate payments and, accordingly, each installment payment hereunder shall at all times be considered a separate and distinct payment. Notwithstanding any provision to the contrary in this offer letter, if you are deemed by the Company at the time of your separation from service (within the meaning of Code Section 409A) to be a specified employee for purposes of Code Section 409A(a)(2)(B)(i), and if any of the payments upon separation from service set forth herein and/or under any other agreement with the Company are deemed to be deferred compensation, then to the extent delayed commencement of any portion of such payments is required in order to avoid a prohibited distribution under Code Section 409A(a)(2)(B)(i) and the related adverse taxation under Code Section 409A, such payments shall not be provided to you prior to the earliest of (a) the expiration of the six-month period measured from the date of your separation from service with the Company, (b) the date of your death or (c) such earlier date as permitted under Code Section 409A without the imposition of adverse taxation. Upon the first business day following the expiration of such 
+
+applicable Code Section 409A(a)(2)(B)(i) period, all payments deferred pursuant to this paragraph shall be paid in a lump sum to you, and any remaining payments due shall be paid as otherwise provided herein or in the applicable agreement. No interest shall be due on any amounts so deferred. With respect to reimbursements provided to you hereunder (or otherwise) that are not exempt from Code Section 409A, the following rules shall apply: (i) the amount of expenses eligible for reimbursement during any one of your taxable years shall not affect the expenses eligible for reimbursement in any other taxable year, (ii) in the case of any reimbursements of eligible expenses, reimbursement shall be made on or before the last day of your taxable year following the taxable year in which the expense was incurred and (iii) the right to reimbursement shall not be subject to liquidation or exchange for another benefit.
+
+Entire Agreement. This offer letter including the referenced documents forms the entire agreement between you and Intel and replaces all prior communications or agreements on matters related to employment at Intel. The award agreements for the equity awards described in this offer letter will be the subject of good faith negotiation between you and Intel, and generally will follow Intels historical practices (for example, without limitation, with respect to the treatment of dividends), but in all cases, will not provide for any unilateral discretion on the part of Intel to reduce or eliminate any portion of the award or vesting thereof (except as required by any clawback policy of general applicability to Intels executive officers or as required by law). 
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+Sincerely, 
+
+/s/ Frank Yeary 
+
+Chairman of the Board of Directors 
+
+/s/ Dion Weisler 
+
+Chair, Compensation Committee of the Board of Directors 
+
+Accepted and Agreed: 
+
+/s/ Lip-Bu Tan 3/10/25
+
+Lip-Bu Tan Date
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>a03102025form8-kex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Intel Corporation
+
+2200 Mission College Blvd.
+
+Santa Clara, CA 95054-1549
+
+News Release
+
+Intel Appoints Lip-Bu Tan as Chief Executive Officer
+
+Tan to join Intel board of directors.
+
+SANTA CLARA, Calif., March 12, 2025 Intel Corporation (Nasdaq: INTC) today announced that its board of directors has appointed Lip-Bu Tan, an accomplished technology leader with deep semiconductor industry experience, as chief executive officer, effective March 18. He succeeds Interim Co-CEOs David Zinsner and Michelle (MJ) Johnston Holthaus. Tan will also rejoin the Intel board of directors after stepping down from the board in August 2024.
+
+Zinsner will remain executive vice president and chief financial officer, and Johnston Holthaus will remain CEO of Intel Products. Frank D. Yeary, who took on the role of interim executive chair of the board during the search for a new CEO, will revert to being the independent chair of the board upon Tan becoming CEO.
+
+Lip-Bu is an exceptional leader whose technology industry expertise, deep relationships across the product and foundry ecosystems, and proven track record of creating shareholder value is exactly what Intel needs in its next CEO, Yeary said. Throughout his long and distinguished career, he has earned a reputation as an innovator who puts customers at the heart of everything he does, delivers differentiated solutions to win in the market and builds high-performance cultures to achieve success.
+
+Like many across the industry, I have worked closely with Lip-Bu in the past and have seen firsthand how his relentless attention to customers drives innovation and success, Yeary continued. We are delighted to have Lip-Bu as our CEO as we work to accelerate our turnaround and capitalize on the significant growth opportunities ahead.
+
+On his appointment, Tan said, I am honored to join Intel as CEO. I have tremendous respect and admiration for this iconic company, and I see significant opportunities to remake our business in ways that serve our customers better and create value for our shareholders.
+
+Intel has a powerful and differentiated computing platform, a vast customer installed base and a robust manufacturing footprint that is getting stronger by the day as we rebuild our process technology roadmap, Tan continued. I am eager to join the company and build upon the work the entire Intel team has been doing to position our business for the future.
+
+Yeary added, On behalf of the board, I would like to thank Dave and Michelle for their steadfast leadership as interim co-CEOs. Their discipline and focus have been a source of stability as we continue the work needed to deliver better execution, rebuild product leadership, advance our foundry strategy and begin to regain investor confidence.
+
+Tan is a longtime technology investor and widely respected executive with more than 20 years of semiconductor and software experiences as well as deep relationships across Intels ecosystem. He 
+
+formerly served as CEO of Cadence Design Systems from 2009 to 2021, where he led a reinvention of the company and drove a cultural transformation centered on customer-centric innovation. During his time as CEO, Cadence more than doubled its revenue, expanded operating margins and delivered a stock price appreciation of more than 3,200%.
+
+Tan served as a member of the Cadence board of directors for 19 years, from his appointment in 2004 through his service as executive chairman from 2021 to 2023 following his tenure as CEO. 
+
+He is also a founding managing partner of Walden Catalyst Ventures and chairman of Walden International. He has significant public company board experience, currently serving on the boards of Credo Technology Group and Schneider Electric.
+
+Tan holds a Bachelor of Science in physics from Nanyang Technological University in Singapore, a Master of Science in nuclear engineering from the Massachusetts Institute of Technology and an MBA from the University of San Francisco. In 2022, he received the Robert N. Noyce Award, the Semiconductor Industry Associations highest honor.
+
+About Intel
+
+Intel (Nasdaq: INTC) is an industry leader, creating world-changing technology that enables global progress and enriches lives. Inspired by Moores Law, we continuously work to advance the design and manufacturing of semiconductors to help address our customers greatest challenges. By embedding intelligence in the cloud, network, edge and every kind of computing device, we unleash the potential of data to transform business and society for the better. To learn more about Intels innovations, go to newsroom.intel.com and intel.com.
+
+Forward-Looking Statements
+
+This press release includes forward-looking statements, including with respect to our expectations and the potential implications of Mr. Tan joining Intel, the strength of Intels computing footprint, installed customer base and manufacturing footprint, the progress in rebuilding Intels process technology roadmap, and opportunities for the business and future shareholder value. These statements involve risks and uncertainties that could cause actual results to differ materially from those expressed or implied, including the risks and uncertainties described in Intels 2024 Form 10-K and other filings with the SEC. All information in this statement reflects management's intentions and expectations as of the date of this statement, unless an earlier date is specified. We do not undertake, and expressly disclaim any duty, to update such statements, whether as a result of new information, new developments, or otherwise, except to the extent that disclosure may be required by law.
+
+Contact
+
+Joseph Green
+
+Investor Relations
+
+1-480-552-2509
+
+joseph.e.green@intel.com
+
+Sophie Won Metzger
+
+Media Relations
+
+1-408-653-0475
+
+sophie.metzger@intel.com
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>4
+<FILENAME>intc-20250310.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover Page Cover Page 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>intc-20250310_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover [Abstract] 
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>intc-20250310_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>image.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>intc-20250310_g1.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>unboxedlogo_20202.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover Page Cover Page
+
+Mar. 10, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Mar. 10, 2025
+
+Entity Registrant Name INTEL CORPORATION
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 000-06217
+
+Entity Tax Identification Number 94-1672743
+
+Entity Address, Address Line One 2200 Mission College Boulevard
+
+Entity Address, City or Town Santa Clara
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 95054-1549
+
+City Area Code (408)
+
+Local Phone Number 765-8080
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common stock, $0.001 par value
+
+Trading Symbol INTC
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0000050863
+
+Amendment Flag false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>12
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover Page Cover Page 
+Sheet 
+http://www.intel.com/role/CoverPageCoverPage 
+Cover Page Cover Page 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+intc-20250310.htm 
+intc-20250310.xsd 
+intc-20250310_lab.xml 
+intc-20250310_pre.xml 
+
+intc-20250310_g1.jpg 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>18
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>19
+<FILENAME>0000050863-25-000036-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>20
+<FILENAME>intc-20250310_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0000050863 
+
+2025-03-10 
+2025-03-10 
+
+0000050863 
+false 
+8-K 
+2025-03-10 
+INTEL CORPORATION 
+DE 
+000-06217 
+94-1672743 
+2200 Mission College Boulevard 
+Santa Clara 
+CA 
+95054-1549 
+(408) 
+765-8080 
+false 
+false 
+false 
+false 
+Common stock, $0.001 par value 
+INTC 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

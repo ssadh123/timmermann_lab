@@ -1,0 +1,2016 @@
+<SEC-DOCUMENT>0001214659-25-002119.txt : 20250206
+<SEC-HEADER>0001214659-25-002119.hdr.sgml : 20250206
+<ACCEPTANCE-DATETIME>20250206163038
+ACCESSION NUMBER:		0001214659-25-002119
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		16
+CONFORMED PERIOD OF REPORT:	20250206
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM INFORMATION:		Unregistered Sales of Equity Securities
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250206
+DATE AS OF CHANGE:		20250206
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hyperscale Data, Inc.
+		CENTRAL INDEX KEY:			0000896493
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPONENTS, NEC [3679]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				941721931
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12711
+		FILM NUMBER:		25597854
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11411 SOUTHERN HIGHLANDS PARKWAY
+		STREET 2:		SUITE 240
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89141
+		BUSINESS PHONE:		(949) 444-5464 3679
+
+	MAIL ADDRESS:	
+		STREET 1:		11411 SOUTHERN HIGHLANDS PARKWAY
+		STREET 2:		SUITE 240
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89141
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ault Alliance, Inc.
+		DATE OF NAME CHANGE:	20230103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BitNile Holdings, Inc.
+		DATE OF NAME CHANGE:	20211213
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ault Global Holdings, Inc.
+		DATE OF NAME CHANGE:	20210119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>g262508k.htm
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+false000089649300008964932025-02-062025-02-060000896493GPUS:CommonStock0.001ParValueMember2025-02-062025-02-060000896493GPUS:Sec13.00SeriesDCumulativeRedeemablePerpetualPreferredStockParValue0.001PerShareMember2025-02-062025-02-06iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________________________________
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934
+
+___________________________________________________________________
+
+Date of Report (Date of earliest event reported): February 6, 2025
+
+HYPERSCALE DATA, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-12711 94-1721931
+
+(State or other jurisdiction of 
+
+incorporation or organization) (Commission File Number) (I.R.S. Employer Identification No.)
+
+11411 Southern Highlands Parkway, Suite 240,
+Las Vegas, NV89141
+
+(Address of principal executive offices) (Zip Code)
+
+(949)444-5464
+
+(Registrant's telephone number, including area
+code)
+
+Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b)
+of the Act:
+
+Title of each class 
+
+Trading
+
+Symbol(s) Name of each exchange on which registered
+
+Class
+A Common Stock, $0.001 par value GPUS NYSE American
+
+13.00% Series D Cumulative Redeemable Perpetual Preferred Stock, par value $0.001 per share GPUS PD NYSE American
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+On February 5, 2025 (the Closing
+Date), Hyperscale Data, Inc., a Delaware corporation (the Company) entered into an Exchange Agreement
+(the Agreement) with Orchid Finance LLC, a Nevada limited liability company (the Investor),
+pursuant to which the Company issued to the Investor a convertible promissory note in the principal face amount of $1,925,141.71 (the
+Note) in exchange for the cancellation of the outstanding term note issued by the Company to the Investor on April
+29, 2024 (the Original Note), which Original Note, as of the Closing Date, had outstanding principal and accrued
+but unpaid interest of $1,925,141.71 (the Transaction).
+
+Description of the Note
+
+The Note has a principal face amount
+of $1,925,141.71. The Note accrues interest at the rate of 15% per annum, unless an event of default (as defined in the Note) occurs,
+at which time the Note would accrue interest at 18% per annum. The Note will mature on May 5, 2025.
+
+The Note is convertible into shares
+(the Conversion Shares) of the Companys class A common stock, par value $0.001 per share (the Common
+Stock) at any time after NYSE American approval of the Supplemental Listing Application (the SLAP) at
+a fixed conversion price of $4.00 per share (the Conversion Price), which conversion price represented a $0.05 premium
+to the closing price of the Common Stock on the Closing Date. The Conversion Price is only subject to adjustment in the event that the
+Company does a stock split or similar transaction of the Common Stock.
+
+The Note contains standard and customary
+events of default including, but not limited to, failure to pay amounts due under the Note when required, failure to deliver Conversion
+Shares when required, default in covenants and bankruptcy events.
+
+This Current Report on Form 8-K shall
+not constitute an offer to sell or the solicitation of any offer to buy the Conversion Shares, nor shall there be any offer, solicitation
+or sale of the Conversion Shares in any state in which such offer, solicitation or sale would be unlawful prior to registration or qualification
+under the securities laws of such state.
+
+The Agreement contains customary representations,
+warranties and agreements by the Company, obligations of the parties, termination provisions and closing conditions. The representations,
+warranties and covenants contained in the Agreement were made only for purposes of such agreement and as of specific dates, were solely
+for the benefit of the parties to such Agreement, and may be subject to limitations agreed upon by the contracting parties.
+
+The foregoing descriptions of the terms
+of the Note and the Agreement do not purport to be complete and are subject to, and qualified in their entirety by reference to, the form
+of Note and Agreement which are annexed here as Exhibits 4.1 and 10.1 and are incorporated herein by reference.
+
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of
+a Registrant.
+
+The disclosure required by this Item and included in Item
+1.01 of this Current Report is incorporated herein by reference.
+
+Item 3.02 Unregistered Sales of Equity Securities.
+
+The information contained in Item 1.01
+of this Current Report on Form 8-K is incorporated herein by reference to this Item 3.02. The Note described in this Current Report on
+Form 8-K was offered and issued to the Investor in reliance upon exemption from the registration requirements under Section 3(a)(9) under
+the Securities Act of 1933, as amended.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits:
+
+Exhibit No. Description
+
+4.1 Form of Note.
+
+10.1 Exchange Agreement, dated February 5, 2025, by and between the Company and the Investor.
+
+101 Pursuant to Rule 406 of Regulation S-T, the cover page is formatted in Inline XBRL (Inline eXtensible Business Reporting Language).
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101).
+
+-2- 
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+HYPERSCALE DATA, INC. 
+
+Dated: February 6, 2025 /s/ Henry Nisser 
+
+Henry Nisser
+
+President and General Counsel 
+
+-3-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.1
+<SEQUENCE>2
+<FILENAME>ex4_1.htm
+<DESCRIPTION>EXHIBIT 4.1
+<TEXT>
+Exhibit 4.1
+
+CONVERTIBLE PROMISSORY NOTE
+
+NEITHER THE ISSUANCE AND SALE OF THE SECURITIES
+REPRESENTED BY THIS CERTIFICATE NOR THE SECURITIES INTO WHICH THESE SECURITIES ARE CONVERTIBLE HAVE BEEN REGISTERED UNDER THE SECURITIES
+ACT OF 1933, AS AMENDED, OR APPLICABLE STATE SECURITIES LAWS. THE SECURITIES MAY NOT BE OFFERED FOR SALE, SOLD, TRANSFERRED OR ASSIGNED
+(I) IN THE ABSENCE OF (A) AN EFFECTIVE REGISTRATION STATEMENT FOR THE SECURITIES UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR (B)
+AN OPINION OF COUNSEL TO THE HOLDER (IF REQUESTED BY THE COMPANY), IN A FORM REASONABLY ACCEPTABLE TO THE COMPANY, THAT REGISTRATION IS
+NOT REQUIRED UNDER SAID ACT OR (II) UNLESS SOLD OR ELIGIBLE TO BE SOLD PURSUANT TO RULE 144 OR RULE 144A UNDER SAID ACT. NOTWITHSTANDING
+THE FOREGOING, THE SECURITIES MAY BE PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN ACCOUNT OR OTHER LOAN OR FINANCING ARRANGEMENT SECURED
+BY THE SECURITIES. ANY TRANSFEREE OF THIS CONVERTIBLE PROMISSORY NOTE SHOULD CAREFULLY REVIEW THE TERMS OF THIS CONVERTIBLE PROMISSORY
+NOTE, INCLUDING SECTIONS 3(b) HEREOF. THE PRINCIPAL AMOUNT REPRESENTED BY THIS CONVERTIBLE PROMISSORY NOTE AND, ACCORDINGLY, THE SECURITIES
+ISSUABLE UPON CONVERSION HEREOF MAY BE LESS THAN THE AMOUNTS SET FORTH ON THE FACE HEREOF PURSUANT TO SECTION 3(c)(iii) OF THIS CONVERTIBLE
+PROMISSORY NOTE.
+
+HYPERSCALE DATA, INC.
+
+CONVERTIBLE PROMISSORY NOTE DUE MAY 5, 2025
+
+Issuance Date: February 5, 2025 Principal Amount: $1,925,141.71
+
+FOR VALUE RECEIVED,
+Hyperscale Data, Inc., a Delaware corporation (the Company), hereby promises to pay to the order of Orchid Finance
+LLC, or its registered assigns (Holder) the amount set forth above as the original principal amount (the Principal)
+when due, whether upon May 5, 2025 (the Maturity Date), or upon acceleration, prepayment or otherwise (in each case
+in accordance with the terms hereof) and to pay interest (Interest) on any outstanding Principal at the applicable
+Interest Rate (as defined below) from the date set forth above as the Issuance Date (the Issuance Date) until the
+same becomes due and payable, whether upon the Maturity Date or upon acceleration, conversion, prepayment or otherwise (in each case in
+accordance with the terms hereof). This Convertible Promissory Note (this Note) is issued to the Holder as of the
+Issuance Date by the Company. Certain capitalized terms used herein are defined in Section 19. The Company and the Holder mutually acknowledge
+and agree that the exchange of the Prior Note for this Note did not involve the payment of, or giving of a commission, or other remuneration,
+directly or indirectly, in connection with, the exchange and that the exchange was exempt from registration under Section 3(a)(9) of the
+Securities Act of 1933, as amended (the Securities Act). Accordingly, the Company shall at all times agree that the
+holding period of this Note for purposes of Rule 144 under the Securities Act tacks back to the date of issuance of the Prior Note.
+
+1.PAYMENTS OF PRINCIPAL.
+
+On the Maturity
+Date, the Company shall pay to the Holder an amount in cash representing all outstanding Principal and accrued and unpaid Interest on
+such Principal. Other than as specifically permitted by this Note, the Company may not prepay any portion of the outstanding Principal
+or accrued and unpaid Interest.
+
+2.INTEREST RATE; DEFAULT RATE.
+
+(a)Interest on this Note shall commence accruing on the Issuance Date at 15% per annum subject to adjustment in accordance with the
+terms of this Section 2 (the Interest Rate), shall be calculated on the basis of a 360-day year and twelve 30-day
+months, compounded daily, and shall be payable by the Company to the Holder, in cash, on the Maturity Date.
+
+(b)From and after the occurrence and during the continuance of any Event of Default, the Interest Rate shall automatically be increased
+to 18.0% per annum (the Default Interest), and shall be due and payable on the first Trading Day of each calendar
+month during the continuance of such Event of Default (a Default Interest Payment Date). In the event that such Event
+of Default is subsequently cured (and no other Event of Default then exists (including, without limitation, for the Companys failure
+to pay such Interest at the Default Rate on the applicable Default Interest Payment Date), the adjustment referred to in the preceding
+sentence shall cease to be effective as of the day immediately following the date of such cure; provided that the Interest as calculated
+and unpaid at such increased rate during the continuance of such Event of Default shall continue to apply to the extent relating to the
+days after the occurrence of such Event of Default through and including the date of such cure of such Event of Default.
+
+3.CONVERSION OF NOTE. This Note shall be convertible into validly issued, fully paid and non-assessable shares (the Conversion
+Shares) of Common Stock on the terms and conditions set forth in this Section 3.
+
+(a)Conversion Right. At any time after the Supplemental Listing Application has been approved by the Principal Market,
+the Holder shall be entitled to convert any portion of the outstanding and unpaid Conversion Amount (as defined below) into Conversion
+Shares in accordance with Section 3(b), at the Conversion Rate (as defined below). The Company shall not issue any fraction of a Conversion
+Share upon any conversion. If the issuance would result in the issuance of a fraction of a share of Common Stock, the Company shall round
+such fraction of a share of Common Stock up or down to the nearest whole share. The Company shall pay any and all transfer, stamp, issuance
+and similar taxes, costs and expenses (including, without limitation, fees and expenses of the Transfer Agent (as defined below)) that
+may be payable with respect to the issuance and delivery of Common Stock upon conversion of any Conversion Amount.
+
+(b)Conversion Rate. The number of Conversion Shares issuable upon conversion of any Conversion Amount pursuant to Section 3(a)
+shall be determined by dividing (x) such Conversion Amount by (y) the Conversion Price (the Conversion Rate).
+
+(i)Conversion Amount means the sum of (x) portion of the Principal to be converted, prepaid or otherwise with
+respect to which this determination is being made and (y) all accrued and unpaid Interest with respect to such portion of the Principal
+amount.
+
+(ii)Conversion Price means, as of any Conversion Date or other date of determination, $4.00, subject to adjustment
+as set forth herein.
+
+(c)Mechanics of Conversion.
+
+(i)Optional Conversion. To convert any Conversion Amount into Conversion Shares on any date (a Conversion Date),
+the Holder shall deliver to the Company (whether via facsimile, electronic mail or otherwise), for receipt on or prior to 11:59 p.m.,
+New York time, on such date, a copy of an executed notice of conversion in the form attached hereto as Exhibit I (the Conversion
+Notice). If required pursuant to Section 3(c)(iii) hereof, within two Trading Days following a conversion of this Note as aforesaid,
+the Holder shall surrender this Note to a nationally recognized overnight delivery service for delivery to the Company (or an indemnification
+undertaking with respect to this Note in the case of its loss, theft or destruction as contemplated by Section 10(b)). On or before the
+second Trading Day following the date on which the Company has received a Conversion Notice (or such earlier date as required pursuant
+to the Securities Exchange Act of 1934, as amended (the Exchange Act) or other applicable law, rule or regulation
+for the settlement of a trade initiated on the applicable Conversion Date of such shares of Common Stock issuable pursuant to such Conversion
+Notice), the Company shall (1) provided that its transfer agent is participating in the DTC Fast Automated Securities Transfer Program,
+credit such aggregate number of shares of Common Stock to which the Holder shall be entitled pursuant to such conversion to the Holders
+or its designees balance account with DTC through its Deposit/Withdrawal at Custodian system or (2) if its transfer agent is not
+participating in the DTC Fast Automated Securities Transfer Program, upon the request of the Holder, issue and deliver (via reputable
+overnight courier) to the address as specified in the Conversion Notice, a certificate, registered in the name of the Holder or its designee,
+for the number of shares of Common Stock to which the Holder shall be entitled pursuant to such conversion. If this Note is physically
+surrendered for conversion pursuant to Section 3(c)(iii) and the outstanding Principal of this Note is greater than the Principal portion
+of the Conversion Amount being converted, then the Company shall as soon as practicable and in no event later than two Trading Days after
+receipt of this Note and at its own expense, issue and deliver to the Holder (or its designee) a new Note (in accordance with Section
+10(d)) representing the outstanding Principal not converted. The Person or Persons entitled to receive the Conversion Shares shall be
+treated for all purposes as the record holder or holders of such shares of Common Stock on the Conversion Date.
+
+(ii)Reserved.
+
+2 
+
+(iii)Registration; Book-Entry. The Company shall maintain a register (the Register) for the recordation
+of the names and addresses of the Holder of the Note and the principal amount of the Note (the Registered Note).
+The entries in the Register shall be conclusive and binding for all purposes absent manifest error. The Company and the holder or holders
+of the Note shall treat each Person whose name is recorded in the Register as the owner of a Note for all purposes (including, without
+limitation, the right to receive payments of Principal and Interest hereunder) notwithstanding notice to the contrary. The Registered
+Note may, subject to Section 18 hereof, be assigned, transferred or sold in whole or in part only by registration of such assignment or
+sale on the Register. Upon its receipt of a written request to assign, transfer or sell all or part of the Registered Note by the holder
+thereof, the Company shall record the information contained therein in the Register and issue one or more new Registered Notes in the
+same aggregate principal amount as the principal amount of the surrendered Registered Note to the designated assignee or transferee pursuant
+to Section 10, provided that if the Company does not so record an assignment, transfer or sale (as the case may be) of all or part
+of any Registered Note within two Trading Days of such a request, then the Register shall be automatically deemed updated to reflect such
+assignment, transfer or sale (as the case may be). Notwithstanding anything to the contrary set forth in this Section 3, following
+conversion of any portion of this Note in accordance with the terms hereof, the Holder shall not be required to physically surrender this
+Note to the Company unless (A) the full Conversion Amount represented by this Note is being converted (in which event this Note shall
+be delivered to the Company following conversion thereof) or (B) the Holder has provided the Company with prior written notice (which
+notice may be included in a Conversion Notice) requesting reissuance of this Note upon physical surrender of this Note. The Holder and
+the Company shall maintain records showing the Principal and Interest converted and/or paid (as the case may be) and the dates of such
+conversions, and/or payments (as the case may be) or shall use such other method, reasonably satisfactory to the Holder and the Company,
+so as not to require physical surrender of this Note upon conversion. If the Company does not update the Register to record such Principal
+and Interest converted and/or paid (as the case may be) and the dates of such conversions, and/or payments (as the case may be) within
+two Trading Days of such occurrence, then the Register shall be automatically deemed updated to reflect such occurrence.
+
+(d) Limitations on Conversions.
+
+(i)Beneficial Ownership. The Company shall not effect the conversion of any portion of this Note, and the Holder shall not
+have the right to convert any portion of this Note pursuant to the terms and conditions of this Note and any such conversion shall be
+null and void and treated as if never made, to the extent that after giving effect to such conversion, the Holder together with the other
+Attribution Parties collectively would beneficially own in excess of 4.99% (the Maximum Percentage) of the shares
+of Common Stock outstanding immediately after giving effect to such conversion. For purposes of the foregoing sentence, the aggregate
+number of shares of Common Stock beneficially owned by the Holder and the other Attribution Parties shall include the number of shares
+of Common Stock held by the Holder and all other Attribution Parties plus the number of shares of Common Stock issuable upon conversion
+of this Note with respect to which the determination of such sentence is being made, but shall exclude shares of Common Stock which would
+be issuable upon (A) conversion of the remaining, nonconverted portion of this Note beneficially owned by the Holder or any of the other
+Attribution Parties and (B) exercise or conversion of the unexercised or nonconverted portion of any other securities of the Company (including,
+without limitation, any convertible notes or convertible preferred stock or warrants) beneficially owned by the Holder or any other Attribution
+Party subject to a limitation on conversion or exercise analogous to the limitation contained in this Section 3(d)(i). For purposes of
+this Section 3(d)(i), beneficial ownership shall be calculated in accordance with Section 13(d) of the 1934 Act. For purposes of determining
+the number of outstanding shares of Common Stock the Holder may acquire upon the conversion of this Note without exceeding the Maximum
+Percentage, the Holder may rely on the number of outstanding shares of Common Stock as reflected in (x) the Companys most recent
+Annual Report on Form 10-K, Quarterly Report on Form 10-Q, Current Report on Form 8-K or other public filing with the SEC, as the case
+may be, (y) a more recent public announcement by the Company or (z) any other written notice by the Company or the Transfer Agent, if
+any, setting forth the number of shares of Common Stock outstanding (the Reported Outstanding Share Number). If the
+Company receives a Conversion Notice from the Holder at a time when the actual number of outstanding shares of Common Stock is less than
+the Reported Outstanding Share Number, the Company shall notify the Holder in writing of the number of shares of Common Stock then outstanding
+and, to the extent that such Conversion Notice would otherwise cause the Holders beneficial ownership, as determined pursuant to
+this Section 3(d)(i), to exceed the Maximum Percentage, the Holder must notify the Company of a reduced number of shares of Common Stock
+to be purchased pursuant to such Conversion Notice. For any reason at any time, upon the written or oral request of the Holder, the Company
+shall within one (1) Business Day confirm orally and in writing or by electronic mail to the Holder the number of shares of Common Stock
+then outstanding. In any case, the number of outstanding shares of Common Stock shall be determined after giving effect to the conversion
+or exercise of securities of the Company, including this Note, by the Holder and any other Attribution Party since the date as of which
+the Reported Outstanding Share Number was reported. In the event that the issuance of shares of Common Stock to the Holder upon conversion
+of this Note results in the Holder and the other Attribution Parties being deemed to beneficially own, in the aggregate, more than the
+Maximum Percentage of the number of outstanding shares of Common Stock (as determined under Section 13(d) of the 1934 Act), the number
+of shares so issued by which the Holders and the other Attribution Parties aggregate beneficial ownership exceeds the Maximum
+Percentage (the Excess Shares) shall be deemed null and void and shall be cancelled ab initio, and the Holder shall
+not have the power to vote or to transfer the Excess Shares. For purposes of clarity, the Excess Shares shall not be deemed to be beneficially
+owned by the Holder for any purpose including for purposes of Section 13(d) or Rule 16a-1(a)(1) of the 1934 Act. No prior inability to
+convert this Note pursuant to this paragraph shall have any effect on the applicability of the provisions of this paragraph with respect
+to any subsequent determination of convertibility. The provisions of this paragraph shall be construed and implemented in a manner otherwise
+than in strict conformity with the terms of this Section 3(d)(i) to the extent necessary to correct this paragraph (or any portion of
+this paragraph) which may be defective or inconsistent with the intended beneficial ownership limitation contained in this Section 3(d)(i)
+or to make changes or supplements necessary or desirable to properly give effect to such limitation. The limitation contained in this
+paragraph may not be waived and shall apply to a successor holder of this Note.
+
+3 
+
+(ii)Principal Market Regulation. The Company shall not issue any shares of Common Stock upon conversion of this
+Note or otherwise pursuant to the terms of this Note if the issuance of such shares of Common Stock would exceed the aggregate number
+of shares of Common Stock which the Company may issue upon conversion of the Note or otherwise pursuant to the terms of this Note without
+breaching the Companys obligations under the rules or regulations of the Principal Market, except that such limitation, if applicable,
+shall not apply in the event that the Company obtains the approval of its stockholders as required by the applicable rules of the Principal
+Market for issuances of shares of Common Stock in excess of such amount.
+
+4.RIGHTS UPON EVENT OF DEFAULT.
+
+(a)Event of Default. Each of the following events shall constitute an Event of Default:
+
+(i)the Companys default under this Note or the other Transaction Documents, including a failure to pay to the Holder any amount
+of Principal, Interest or other amounts when and as due under this Note, the other Transaction Documents, subject to a cure period of
+ten (10) Trading Days;
+
+(ii)the Company fails to issue Common Stock without any restrictive legend or to remove any restrictive legend on any certificate (including
+by book entry) for any shares of Common Stock issued to the Holder pursuant to this Note within two (2) Trading Days after (A) receipt
+by the Company of an executed Conversion Notice or (B) if the Holder has shares with a restrictive legend upon written notice to remove
+such legend, in either case together with an opinion of counsel to the Holder that no restrictive legend is required; provided,
+that the Company shall have two (2) Trading Days to cure any such failure, unless otherwise then prohibited by applicable federal securities
+laws;
+
+(iii)bankruptcy, insolvency, reorganization or liquidation proceedings or other proceedings for the relief of debtors shall be instituted
+by or against the Company and, if instituted against the Company by a third party, shall not be dismissed within 30 days of their initiation;
+
+(iv)the commencement by the Company of a voluntary case or proceeding under any applicable federal, state or foreign bankruptcy, insolvency,
+reorganization or other similar law or of any other case or proceeding to be adjudicated a bankrupt or insolvent, or the consent by it
+to the entry of a decree, order, judgment or other similar document in respect of the Company in an involuntary case or proceeding under
+any applicable federal, state or foreign bankruptcy, insolvency, reorganization or other similar law or to the commencement of any bankruptcy
+or insolvency case or proceeding against it, or the filing by it of a petition or answer or consent seeking reorganization or relief under
+any applicable federal, state or foreign law, or the consent by it to the filing of such petition or to the appointment of or taking possession
+by a custodian, receiver, liquidator, assignee, trustee, sequestrator or other similar official of the Company of any substantial part
+of its property, or the making by it of an assignment for the benefit of creditors, or the execution of a composition of debts, or the
+occurrence of any other similar federal, state or foreign proceeding, or the admission by it in writing of its inability to pay its debts
+generally as they become due, the taking of corporate action by the Company in furtherance of any such action or the taking of any action
+by any Person to commence a Uniform Commercial Code foreclosure sale or any other similar action under federal, state or foreign law;
+
+(v)the entry by a court of (i) a decree, order, judgment or other similar document in respect of the Company of a voluntary or involuntary
+case or proceeding under any applicable federal, state or foreign bankruptcy, insolvency, reorganization or other similar law or (ii)
+a decree, order, judgment or other similar document adjudging the Company as bankrupt or insolvent, or approving as properly filed a petition
+seeking liquidation, reorganization, arrangement, adjustment or composition of or in respect of the Company under any applicable federal,
+state or foreign law or (iii) a decree, order, judgment or other similar document appointing a custodian, receiver, liquidator, assignee,
+trustee, sequestrator or other similar official of the Company of any substantial part of its property, or ordering the winding up or
+liquidation of its affairs, and the continuance of any such decree, order, judgment or other similar document or any such other decree,
+order, judgment or other similar document unstayed and in effect for a period of 30 consecutive days;
+
+(vi)other than as specifically set forth in another clause of this Section 4(a), the Company breaches any representation or warranty
+in any material respect (other than representations or warranties subject to materiality limitations, which may not be breached in any
+respect) or any covenant or other term or condition of this Note or any other Transaction Document, except, in the case of a breach of
+a covenant or other term or condition that is curable, only if such breach remains uncured for a period of ten (10) consecutive Trading
+Days; or
+
+(vii)any provision of any Transaction Document shall at any time for any reason (other than pursuant to the express terms thereof) cease
+to be valid and binding on or enforceable against the parties thereto, or the validity or enforceability thereof shall be contested by
+any party thereto, or a proceeding shall be commenced by the Company or any governmental authority having jurisdiction over it, seeking
+to establish the invalidity or unenforceability thereof, or the Company shall deny in writing that it has any liability or obligation
+purported to be created under any Transaction Document, subject to a cure period of ten (10) Trading Days.
+
+4 
+
+(b)Notice of an Event of Default. Upon the occurrence of an Event of Default with respect to this Note, the Company shall within
+one (1) Business Day of its discovery of such Event of Default deliver written notice thereof via electronic mail and overnight courier
+(with next day delivery specified) to the Holder.
+
+(c)Remedies. Upon the occurrence of an Event of Default and at any time thereafter, Holder may at its option: (a) declare the
+entire Principal Amount, together with all accrued Interest thereon, immediately due and payable; and (b) exercise any or all of its rights,
+powers, or remedies under the Transaction Documents or applicable law or available in equity.
+
+5.ADJUSTMENTS OF THE CONVERSION PRICE.
+
+(a)Adjustments for Recapitalization. If at any time or from time to time there shall be a recapitalization of the Common Stock,
+provision shall be made so that the Holder shall thereafter be entitled to receive upon conversion of the Note the number of shares of
+stock or other securities or property of the Company or otherwise, to which a holder of Common Stock deliverable upon conversion would
+have been entitled on such recapitalization. In any such case, appropriate adjustment shall be made in the application of the provisions
+of this Section 5(a) with respect to the rights of the Holder after the recapitalization to the end that the provisions
+of this Section 5(a) (including, without limitation, provisions for adjustments of the Conversion Price and the number
+of shares of Common Stock issuable upon conversion of the Note) shall be applicable after that event as nearly equivalent as may be practicable.
+
+(b)Adjustment for Stock Splits and Combinations. If the Company shall at any time or from time to time after the Issuance
+Date effect a subdivision of the outstanding Common Stock, the Conversion Price in effect immediately before that subdivision shall be
+proportionately decreased so that the number of shares of Common Stock issuable on conversion of this Note shall be increased in proportion
+to such increase in the aggregate number of shares of Common Stock outstanding. If the Company shall at any time or from time to time
+after the Issuance Date combine the outstanding shares of Common Stock, the Conversion Price in effect immediately before the combination
+shall be proportionately increased so that the number of shares of Common Stock issuable on conversion of the Note shall be decreased
+in proportion to such decrease in the aggregate number of shares of Common Stock outstanding. Any adjustment under this subsection shall
+become effective at the close of business on the date the subdivision or combination becomes effective.
+
+(c)Calculations. All calculations under this Section 5 shall be made by rounding to the nearest cent or the nearest 1/100th
+of a share, as applicable. The number of shares of Common Stock outstanding at any given time shall not include shares owned or held by
+or for the account of the Company, and the disposition of any such shares shall be considered an issue or sale of Common Stock.
+
+(d)Voluntary Adjustment by Company. The Company may at any time during the term of this Note, with the prior written consent
+of the Holder, reduce the then current Conversion Price of the Note to any amount and for any period of time deemed appropriate by the
+board of directors of the Company.
+
+6.NONCIRCUMVENTION. The Company hereby covenants and agrees that the Company will not, by amendment of the Companys
+Certificate of Incorporation or other charter documents, bylaws or through any reorganization, transfer of assets, consolidation, merger,
+scheme of arrangement, dissolution, issue or sale of securities, or any other voluntary action, avoid or seek to avoid the observance
+or performance of any of the terms of this Note, and will at all times in good faith carry out all of the provisions of this Note and
+take all action as may be required to protect the rights of the Holder of this Note. Without limiting the generality of the foregoing
+or any other provision of this Note or the other Transaction Documents, the Company (a) shall not increase the par value of any shares
+of Common Stock receivable upon conversion of this Note above the Conversion Price then in effect, and (b) shall take all such actions
+as may be necessary or appropriate in order that the Company may validly and legally issue fully paid and non-assessable shares of Common
+Stock upon the conversion of this Note.
+
+7.RESERVATION OF AUTHORIZED SHARES. So long as the Note remains outstanding, the Company shall at all times reserve at least
+100% of the number of shares of Common Stock as shall from time to time be necessary to effect the conversion of the Note then outstanding
+(without regard to any limitations on conversions and assuming such Note remains outstanding until the Maturity Date) at the Conversion
+Price then in effect.
+
+8.PREPAYMENT. Amounts due under this Note may be prepaid at any time without penalty.
+
+5 
+
+9.AMENDING THE TERMS OF THIS NOTE. The prior written consent of the Holder shall be required for any change, waiver or amendment
+to this Note. Any change, waiver or amendment so approved shall be binding upon all existing and future holders of this Note; provided,
+however, that no such change, waiver or, as applied to the Note held by any particular holder of the Note, shall, without the written
+consent of that particular holder, (i) reduce the amount of Principal, reduce the amount of accrued and unpaid Interest, or extend the
+Maturity Date, of the Note, (ii) disproportionally and adversely affect any rights under the Note of any holder of any other portion of
+the Note; or (iii) modify any of the provisions of, or impair the right of any holder of the Note under this Section 9.
+
+10.REISSUANCE OF THIS NOTE.
+
+(a)Transfer. If this Note is to be transferred, the Holder shall surrender this Note to the Company, whereupon the Company
+will forthwith issue and deliver upon the order of the Holder a new Note (in accordance with Section 10(d)), registered as the Holder
+may request, representing the outstanding Principal being transferred by the Holder and, if less than the entire outstanding Principal
+is being transferred, a new Note (in accordance with Section 10(d)) to the Holder representing the outstanding Principal not being transferred.
+The Holder and any assignee, by acceptance of this Note, acknowledge and agree that, by reason of the provisions of Section 3(c)(iii)
+following conversion or prepayment of any portion of this Note, the outstanding Principal represented by this Note may be less than the
+Principal stated on the face of this Note.
+
+(b)Lost, Stolen or Mutilated Note. Upon receipt by the Company of evidence reasonably satisfactory to the Company of the loss,
+theft, destruction or mutilation of this Note (as to which a written certification and the indemnification contemplated below shall suffice
+as such evidence), and, in the case of loss, theft or destruction, of any indemnification undertaking by the Holder to the Company in
+customary and reasonable form and, in the case of mutilation, upon surrender and cancellation of this Note, the Company shall execute
+and deliver to the Holder a new Note (in accordance with Section 10(d)) representing the outstanding Principal. The Holder shall not be
+required to deliver a bond or other security.
+
+(c)Note Exchangeable for Different Denominations. This Note is exchangeable, upon the surrender hereof by the Holder at the
+principal office of the Company, for a new Note or Notes (in accordance with Section 10(d) and in principal amounts of at least $1,000)
+representing in the aggregate the outstanding Principal of this Note, and each such new Note will represent such portion of such outstanding
+Principal as is designated by the Holder at the time of such surrender.
+
+(d)Issuance of New Notes. Whenever the Company is required to issue a new Note pursuant to the terms of this Note, such new
+Note (i) shall be of like tenor with this Note, (ii) shall represent, as indicated on the face of such new Note, the Principal remaining
+outstanding (or in the case of a new Note being issued pursuant to Section 10(a) or Section 10(c), the Principal designated by the Holder
+which does not exceed the Principal remaining outstanding under this Note immediately prior to such issuance of a new Note), (iii) shall
+have an issuance date, as indicated on the face of such new Note, which is the same as the Issuance Date of this Note, (iv) shall have
+the same rights and conditions as this Note, and (v) shall represent accrued and unpaid Interest.
+
+11.CONSTRUCTION; HEADINGS. This Note shall be deemed to be jointly drafted by the Company and the initial Holder and shall
+not be construed against any such Person as the drafter hereof. The headings of this Note are for convenience of reference and shall not
+form part of, or affect the interpretation of, this Note. Unless the context clearly indicates otherwise, each pronoun herein shall be
+deemed to include the masculine, feminine, neuter, singular and plural forms thereof. The terms including, includes,
+include and words of like import shall be construed broadly as if followed by the words without limitation.
+The terms herein, hereunder, hereof and words of like import refer to this entire Note instead
+of just the provision in which they are found. Unless expressly indicated otherwise, all section references are to sections of this Note.
+Terms used in this Note and not otherwise defined herein, but defined in the other Transaction Documents, shall have the meanings ascribed
+to such terms on the Closing Date in such other Transaction Documents unless otherwise consented to in writing by the Holder.
+
+12.FAILURE OR INDULGENCE NOT WAIVER. No failure or delay on the part of the Holder in the exercise of any power, right or privilege
+hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any such power, right or privilege preclude other
+or further exercise thereof or of any other right, power or privilege. No waiver shall be effective unless it is in writing and signed
+by an authorized representative of the waiving party.
+
+13.NOTICES. Whenever notice is required to be given under this Note, unless otherwise provided herein, such notice shall be
+given in writing with an e-mail copy to the last address provided by the Holder or its agents in writing to the Company. The Company shall
+provide the Holder with prompt written notice of all actions taken pursuant to this Note, including in reasonable detail a description
+of such action and the reason therefor. Without limiting the generality of the foregoing, the Company will give written notice to the
+Holder (i) immediately upon any adjustment of the Conversion Price, setting forth in reasonable detail, and certifying, the calculation
+of such adjustment and (ii) at least 15 days prior to the date on which the Company closes its books or takes a record (A) with respect
+to any dividend or distribution upon the Common Stock, or (B) for determining rights to vote with respect to any transaction, dissolution
+or liquidation, provided in each case that such information shall be made known to the public prior to or in conjunction with such notice
+being provided to the Holder.
+
+6 
+
+14.WAIVER OF NOTICE. To the extent permitted by law, the Company hereby irrevocably waives demand, notice, presentment, protest
+and all other demands and notices in connection with the delivery, acceptance, performance, default or enforcement of this Note.
+
+15.GOVERNING LAW. This Note shall be construed and enforced in accordance with, and all questions concerning the construction,
+validity, interpretation and performance of this Note shall be governed by, the internal laws of the State of New York, without giving
+effect to any choice of law or conflict of law provision or rule (whether of the State of New York or any other jurisdictions) that would
+cause the application of the laws of any jurisdictions other than the State of New York. The Company hereby irrevocably submits to the
+exclusive jurisdiction of the state and federal courts sitting in The City of New York, Borough of Manhattan, New York, for the adjudication
+of any dispute hereunder or in connection herewith or with any transaction contemplated hereby or discussed herein, and hereby irrevocably
+waives, and agrees not to assert in any suit, action or proceeding, any claim that it is not personally subject to the jurisdiction of
+any such court, that such suit, action or proceeding is brought in an inconvenient forum or that the venue of such suit, action or proceeding
+is improper. Nothing contained herein shall be deemed to limit in any way any right to serve process in any manner permitted by law. Nothing
+contained herein shall be deemed or operate to preclude the Holder from bringing suit or taking other legal action against the Company
+in any other jurisdiction to collect on the Companys obligations to the Holder, to realize on any collateral or any other security
+for such obligations, or to enforce a judgment or other court ruling in favor of the Holder. THE HOLDER HEREBY IRREVOCABLY WAIVES ANY
+RIGHT IT MAY HAVE TO, AND AGREES NOT TO REQUEST, A JURY TRIAL FOR THE ADJUDICATION OF ANY DISPUTE HEREUNDER OR IN CONNECTION WITH OR ARISING
+OUT OF THIS NOTE OR ANY TRANSACTION CONTEMPLATED HEREBY.
+
+16.SEVERABILITY. If any provision of this Note is prohibited by law or otherwise determined to be invalid or unenforceable
+by a court of competent jurisdiction, the provision that would otherwise be prohibited, invalid or unenforceable shall be deemed amended
+to apply to the broadest extent that it would be valid and enforceable, and the invalidity or unenforceability of such provision shall
+not affect the validity of the remaining provisions of this Note so long as this Note as so modified continues to express, without material
+change, the original intentions of the parties as to the subject matter hereof and the prohibited nature, invalidity or unenforceability
+of the provision(s) in question does not substantially impair the respective expectations or reciprocal obligations of the parties or
+the practical realization of the benefits that would otherwise be conferred upon the parties. The parties will endeavor in good faith
+negotiations to replace the prohibited, invalid or unenforceable provision(s) with a valid provision(s), the effect of which comes as
+close as possible to that of the prohibited, invalid or unenforceable provision(s).
+
+17.MAXIMUM PAYMENTS. Nothing contained herein shall be deemed to establish or require the payment of a rate of interest or
+other charges in excess of the maximum permitted by applicable law. In the event that the rate of interest required to be paid or other
+charges hereunder exceed the maximum permitted by such law, any payments in excess of such maximum shall be credited against amounts owed
+by the Company to the Holder and thus refunded to the Company.
+
+18.ASSIGNMENT. Neither this Note nor the rights contained herein may be assigned, by operation of law or otherwise, by either
+party without the prior written consent of the other; provided, however, that this Note and/or the rights contained herein may be assigned
+without the Companys consent by the Holder to any other entity who controls, is controlled by or is under common control with the
+Holder.
+
+19.CERTAIN DEFINITIONS. For purposes of this Note, the following words and terms shall have the following meanings:
+
+(a) Attribution Parties means, collectively, the following Persons and entities: (i) any investment vehicle,
+including, any funds, feeder funds or managed accounts, currently, or from time to time after the Issuance Date, directly or indirectly
+managed or advised by the Holders investment manager or any of its Affiliates or principals, (ii) any direct or indirect Affiliates
+of the Holder or any of the foregoing, (iii) any Person acting or who could be deemed to be acting as a Group together with the Holder
+or any of the foregoing and (iv) any other Persons whose beneficial ownership of the Companys Common Stock would or could be aggregated
+with the Holders and the other Attribution Parties for purposes of Section 13(d) of the Exchange Act. For clarity, the purpose
+of the foregoing is to subject collectively the Holder and all other Attribution Parties to the Maximum Percentage, for each Conversion
+Notice tendered to the Company.
+
+(b)Closing Date shall mean the date the Company initially issued the Note.
+
+(c)Common Stock means (i) the Companys class A shares of common stock, $0.001 par value per share, and
+(ii) any capital stock into which such Common Stock shall have been changed or any share capital resulting from a reclassification of
+such Common Stock.
+
+(d)Exchange Agreement means that certain Exchange Agreement, dated as of February 5, 2025, by and between the
+Company and the Holder.
+
+7 
+
+(e)Group means a group as that term is used in Section 13(d) of the Exchange Act and as defined
+in Rule 13d-5 thereunder.
+
+(f)Person means an individual, a limited liability company, a partnership, a joint venture, a corporation, a
+trust, an unincorporated organization, any other entity or a government or any department or agency thereof.
+
+(g)Principal Market means the NYSE American, LLC.
+
+(h)Prior Note means that certain term note, issued by the Company to the Holder on April 29, 2024, in the principal
+amount of $1,705,000.
+
+(i)Securities Act means the Securities Act of 1933, as amended, and the rules and regulations thereunder.
+
+(j)Trading Day means, as applicable, (x) with respect to all price or trading volume determinations relating
+to the Common Stock, any day on which the Common Stock is traded on the Principal Market, or, if the Principal Market is not the principal
+trading market for the Common Stock, then the principal securities exchange or securities market on which the Common Stock is then traded,
+provided that Trading Day shall not include any day on which the Common Stock is scheduled to trade on such exchange or
+market for less than 4.5 hours or any day that the Common Stock is suspended from trading during the final hour of trading on such exchange
+or market (or if such exchange or market does not designate in advance the closing time of trading on such exchange or market, then during
+the hour ending at 4:00 p.m., New York time) unless such day is otherwise designated as a Trading Day in writing by the Holder or (y)
+with respect to all determinations other than price determinations relating to the Common Stock, any day on which The New York Stock Exchange
+(or any successor thereto) is open for trading of securities.
+
+(k)Transaction Documents means this Note, the Exchange Agreement and any other documents relating to the issuance
+of this Note by the Company to the Holder.
+
+[signature page follows]
+
+8 
+
+IN WITNESS WHEREOF, the Company
+has caused this Note to be duly executed as of the Issuance Date set out above.
+
+HYPERSCALE DATA, INC. 
+
+By: 
+
+Name: 
+
+Title: 
+
+9 
+
+EXHIBIT
+I
+
+HYPERSCALE DATA, INC.
+
+CONVERSION NOTICE
+
+Reference is made to the Convertible
+Promissory Note (the Note) issued to the undersigned by Hyperscale Data, Inc., a Delaware corporation (the Company).
+In accordance with and pursuant to the Note, the undersigned hereby elects to convert the Conversion Amount (as defined in the Note) of
+the Note indicated below into shares of class A common stock, $0.001 par value per share (the Common Stock), of the
+Company, as of the date specified below. Capitalized terms not defined herein shall have the meaning as set forth in the Note.
+
+Date of Conversion: 
+
+Aggregate Principal to be converted: 
+
+Aggregate accrued and unpaid Interest to be converted: 
+
+AGGREGATE CONVERSION AMOUNT TO BE CONVERTED: 
+
+Please confirm the following information:
+
+Conversion Price: 
+
+Number of shares of Common Stock to be issued: 
+
+Please issue the Common Stock into which the Note
+is being converted to Holder, or for its benefit, as follows:
+
+o Check
+here if requesting delivery as a certificate to the following name and to the following address:
+
+Issue to: 
+
+o Check
+here if requesting delivery by Deposit/Withdrawal at Custodian as follows:
+
+DTC Participant: 
+
+DTC Number: 
+
+Account Number: 
+
+1 
+
+Date:_____________ __, _____________ 
+
+Name of Registered Holder 
+
+By: 
+
+Name: 
+
+Title: 
+
+Tax ID: 
+
+Facsimile: 
+
+E-mail Address: 
+
+2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>ex10_1.htm
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+Exhibit 10.1
+
+EXCHANGE AGREEMENT
+
+THIS EXCHANGE AGREEMENT (the
+Agreement) is made as of February 5, 2025 (the Effective Date), by and between Hyperscale Data,
+Inc., a Delaware corporation (the Company) and Orchid Finance LLC, a Nevada limited liability company (the Investor).
+
+WHEREAS, the Company
+issued to the Investor that certain Term Note on April 29, 2024, in the principal amount of $1,705,000 (Original Note);
+
+WHEREAS, as of the
+Effective Date, the Company owes the Investor, in principal and accrued but unpaid interest $1,925,141.71 owed under the Original Note;
+
+WHEREAS, subject to
+the satisfaction of the conditions set forth herein, the Company and the Investor desire to enter into a transaction wherein, in exchange
+for the Original Note, the Company shall issue to the Investor a new Convertible Promissory Note in the principal amount equal to $1,925,141.71,
+in the form attached hereto as Exhibit A (the New Note); and
+
+WHEREAS, the issuance
+of the New Note pursuant to this Agreement is being made in accordance with and in reliance upon the exemptions from securities registration
+for offers and sales under Section 3(a)(9) of the under the Securities Act of 1933, as amended (the Securities Act).
+
+NOW, THEREFORE, for
+good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+1. Exchange;
+Forbearance. The closing of the Exchange (the Closing) will occur on or before February 7, 2025 (or such later
+date as the parties hereto may agree in writing) following the satisfaction or waiver of the conditions set forth herein (such date, the
+Closing Date). Pending the Closing up to and through 5:00 pm Eastern Standard time on February 7, 2025, the Investor
+shall take no action to enforce its rights under the Original Note. On the Closing Date, subject to the terms and conditions of this Agreement,
+the Investor and the Company shall, pursuant to Section 3(a)(9) of the Securities Act, exchange the Original Note for the New Note (such
+transactions in this Section 1, the Exchange) as follows:
+
+1.1. On
+the Closing Date, the Company shall issue the New Note to the Investor. On the Closing Date, the Investor shall be deemed for all purposes
+to have become the holder of record of the New Note, irrespective of the date the Company delivers the New Note to the Investor. Upon
+receipt of the New Note in accordance with this Section 1.1, all of the Investors rights under the Original Note shall be extinguished
+(including, without limitation, the rights to receive, as applicable, any premium, make-whole amount, accrued and unpaid interest or dividends
+thereon) and such Original Note shall be deemed cancelled, surrendered and extinguished.
+
+1.2. It
+shall be a condition to the obligation of the Investor, on the one hand, and the Company, on the other hand, to consummate the Exchange
+contemplated hereunder that the other partys representations and warranties contained herein are true and correct on the Closing
+Date with the same effect as though made on such date, unless waived in writing by the party to whom such representations and warranties
+are made.
+
+2. Representations
+and Warranties of the Company. The Company hereby represents and warrants to the Investor that:
+
+2.1 Organization.
+The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware, with the requisite
+power and authority to own and use its properties and assets and to carry on its business as currently conducted. The Company is not in
+violation nor default of any of the provisions of its certificate of incorporation, bylaws or other organizational or charter documents.
+The Company is duly qualified to conduct business and is in good standing as a foreign corporation or other entity in each jurisdiction
+in which the nature of the business conducted or property owned by it makes such qualification necessary, and no claim, action or proceeding
+of any kind has been instituted in any such jurisdiction revoking, limiting or curtailing or seeking to revoke, limit or curtail such
+power and authority or qualification.
+
+2.2 Authorization.
+This Agreement has been duly and validly authorized, executed and delivered on behalf of the Company and shall constitute the legal, valid
+and binding obligations of the Company enforceable against the Company in accordance with their respective terms, except as such enforceability
+may be limited by general principles of equity or to applicable bankruptcy, insolvency, reorganization, moratorium, liquidation and other
+similar laws relating to, or affecting generally, the enforcement of applicable creditors rights and remedies. The execution, delivery
+and performance by the Company of this Agreement and the consummation by the Company of the transactions contemplated hereby and thereby
+will not: (i) conflict with, or constitute a default (or an event which with notice or lapse of time or both would become a default) under,
+or give to others any rights of termination, amendment, acceleration or cancellation of, any agreement, indenture or instrument to which
+the Company is a party or by which it is bound; or (ii) result in a violation of any law, rule, regulation, order, judgment or decree
+(including federal and state securities or blue sky laws) applicable to the Company.
+
+2.3 Valid
+Issuance of the New Note. The New Note when issued and delivered in accordance with the terms of this Agreement, for the consideration
+expressed herein, and the Common Stock when issued in accordance with the terms of New Note, will be duly and validly issued, fully paid
+and non-assessable, free and clear of all Liens imposed by the Company other than restrictions on transfer provided for in the Transaction
+Documents, as applicable. 
+
+2.4 Issuance
+of Common Stock. Upon the issuance of any Common Stock pursuant to the terms of this Agreement and the New Note, the Common Stock
+shall be freely tradable under Section 3(a)(9) of the Securities Act and Rule 144 thereunder as more fully described in the New Note.
+The holding period of the New Note for purposes of Rule 144 shall tack to the holding period of the Original Note for purposes of Rule
+144. The Company will not take any position to the contrary and will cause its counsel to provide an opinion to the Companys transfer
+agent regarding the foregoing in connection with any issuance of Common Stock upon conversion of the New Note.
+
+2.5 Reservation
+of Common Stock. So long as the New Note remains outstanding, the Company shall take all action necessary to at all times have authorized,
+and reserved for the purpose of issuance, no less than 100% of the maximum number of shares of Common Stock issuable upon conversion of
+the New Note then outstanding (the Required Reserve Amount). If at any time the number of shares of Common Stock
+authorized and reserved for issuance is not sufficient to meet the Required Reserve Amount, the Company will promptly take all corporate
+action necessary to authorize and reserve a sufficient number of shares, including, without limitation, calling a special meeting of stockholders
+to authorize additional shares to meet the Companys obligations pursuant to the Transaction Documents, in the case of an insufficient
+number of authorized shares, obtain stockholder approval of an increase in such authorized number of shares, and voting the management
+shares of the Company in favor of an increase in the authorized shares of the Company to ensure that the number of authorized shares is
+sufficient to meet the Required Reserve Amount.
+
+2.6 Compliance
+With Laws. The Company has complied in all material respects with all laws, rules, and regulations applicable to it and its business,
+and the Company has not received notice of any such violation. 
+
+2.7 Consents;
+Waivers. No consent, waiver, approval or authority of any nature, or other formal action, by any person or entity, not already obtained
+is required in connection with the execution and delivery of this Agreement by the Company or the consummation by the Company of the transactions
+provided for herein and therein.
+
+3. Representations
+and Warranties of the Investor. The Investor hereby represents, warrants and covenants that:
+
+3.1. Organization.
+The Investor is either an individual or an entity duly incorporated or formed, validly existing
+and in good standing under the laws of the jurisdiction of its incorporation or formation with full right, corporate, partnership, limited
+liability company or similar power and authority to enter into and to consummate the transactions contemplated by the Transaction Documents
+and otherwise to carry out its obligations hereunder and thereunder. The Investor is not in violation nor default of any of the
+provisions of its articles of organization, operating agreement or other organizational or charter documents. The Investor is duly qualified
+to conduct business and is in good standing as a foreign corporation or other entity in each jurisdiction in which the nature of the business
+conducted or property owned by it makes such qualification necessary, and no claim, action or proceeding of any kind has been instituted
+in any such jurisdiction revoking, limiting or curtailing or seeking to revoke, limit or curtail such power and authority or qualification.
+
+3.2. Authorization.
+This Agreement has been duly and validly authorized, executed and delivered on behalf of the Investor and shall constitute the legal,
+valid and binding obligations of the Investor enforceable against the Investor in accordance with their respective terms, except as such
+enforceability may be limited by general principles of equity or to applicable bankruptcy, insolvency, reorganization, moratorium, liquidation
+and other similar laws relating to, or affecting generally, the enforcement of applicable creditors rights and remedies. The execution,
+delivery and performance by the Investor of this Agreement and the consummation by the Investor of the transactions contemplated hereby
+and thereby will not: (i) conflict with, or constitute a default (or an event which with notice or lapse of time or both would become
+a default) under, or give to others any rights of termination, amendment, acceleration or cancellation of, any agreement, indenture or
+instrument to which the Investor is a party or by which it is bound; or (ii) result in a violation of any law, rule, regulation, order,
+judgment or decree (including federal and state securities or blue sky laws) applicable to the Investor.
+
+3.3. Accredited
+Investor Status; Investment Experience; Investment Purpose. The Investor is an accredited investor as that term is defined
+in Rule 501(a) of Regulation D. The Investor can bear the economic risk of its investment in the New Note, and has such knowledge and
+experience in financial and business matters that it is capable of evaluating the merits and risks of an investment in the New Note. The
+Investor is acquiring the New Note, and acquired the Original Note, for its own account, for investment purposes only.
+
+2 
+
+3.4. No
+Governmental Review. The Investor understands that no United States federal or state agency or any other government or governmental
+agency has passed on or made any recommendation or endorsement of the New Note or the fairness or suitability of the investment in the
+New Note nor have such authorities passed upon or endorsed the merits of the offering of the New Note.
+
+3.5. Ownership
+of Securities. The Investor owns and holds, beneficially and of record, the entire right, title, and interest in and to the Original
+Note free and clear of all rights and Liens. The Investor has full power and authority to transfer and dispose of the Original Note to
+the Company free and clear of any right or Lien. Other than the transactions contemplated by this Agreement, there is no outstanding,
+plan, pending proposal, or other right of any person or entity to acquire all or any part of the Original Note or any shares of Common
+Stock issuable upon the delivery of any conversion notice and corresponding deduction of the face amount of the New Note.
+
+3.6. Certain
+Transactions and Confidentiality. Other than consummating the transactions contemplated hereunder, the Investor has
+not directly or indirectly, nor has any Person acting on behalf of or pursuant to any understanding with the Investor, executed any purchases
+or sales of the securities of the Company during the period commencing as of the time that the Investor first received a term sheet (written
+or oral) from the Company or any other Person representing the Company setting forth the material terms of the transactions contemplated
+hereunder and ending immediately prior to the execution hereof. Notwithstanding the foregoing, in the case of a Investor that is a multi-managed
+investment vehicle whereby separate portfolio managers manage separate portions of the Investors assets and the portfolio managers
+have no direct knowledge of the investment decisions made by the portfolio managers managing other portions of the Investors assets,
+the representation set forth above shall only apply with respect to the portion of assets managed by the portfolio manager that made the
+investment decision to purchase the Note covered by this Agreement. Other than to other Persons party to this Agreement, the Investor
+has maintained the confidentiality of all disclosures made to it in connection with this transaction (including the existence and terms
+of this transaction).
+
+3.7. Own
+Account. The Investor understands that the New Note is restricted securities and has not been registered under the Securities
+Act or any applicable state securities law and is acquiring the New Note as principal for
+its own account and not with a view to or for distributing or reselling such New Note or
+any part thereof in violation of the Securities Act or any applicable state securities law, has no present intention of distributing the
+New Note in violation of the Securities Act or any applicable state securities law and has
+no direct or indirect arrangement or understandings with any other persons to distribute or regarding the distribution of such New
+Note in violation of the Securities Act or any applicable state securities law. The Investor is
+acquiring the New Note hereunder in the ordinary course of its business.
+
+3.8. No
+Brokers. The Exchange will not involve the payment of, or giving of a commission, or other remuneration, directly or indirectly, for
+soliciting such Exchange or otherwise in connection with the Exchange.
+
+4. Additional
+Covenants
+
+4.1. Fees
+and Expenses. Except as otherwise set forth above, each party to this Agreement shall pay the fees and expenses of its advisers, counsel,
+accountants and other experts, if any, and all other expenses incurred by such party incident to the negotiation, preparation, execution,
+delivery and performance of this Agreement.
+
+4.2. Noncircumvention.
+The Company hereby covenants and agrees that the Company will not, by amendment of the Companys certificate of incorporation or
+other charter documents, bylaws or through any reorganization, transfer of assets, consolidation, merger, scheme of arrangement, dissolution,
+issue or sale of securities, or any other voluntary action, avoid or seek to avoid the observance or performance of any of the terms of
+this Agreement, and will at all times in good faith carry out all of the provisions of this Agreement take all action as may be required
+to protect the rights of the Investor under this Agreement. Without limiting the generality of the foregoing or any other provision of
+this Agreement, the Company (a) shall not increase the par value of any shares of Common Stock issuable pursuant to the terms of
+this Agreement above the Conversion Price (as defined in the New Note) then in effect, and (b) shall take all such actions as may
+be necessary or appropriate in order that the Company may validly and legally issue fully paid and non-assessable shares of Common Stock
+upon issuance of such Common Stock to the Investor pursuant to the terms of this Agreement. Notwithstanding anything herein to the contrary,
+if at any time the Investor is not permitted receive all the shares of Common Stock the Investor is entitled to receive pursuant to the
+terms of this Agreement for any reason, the Company shall use its best efforts to promptly remedy such failure, including, without limitation,
+obtaining such consents or approvals as necessary to permit the issuance of such shares of Common Stock.
+
+3 
+
+5. Miscellaneous
+
+5.1. Successors
+and Assigns. Except as otherwise provided herein, the terms and conditions of this Agreement shall inure to the benefit of and be
+binding upon the parties hereto and the respective successors and assigns of the parties. Nothing in this Agreement, express or implied,
+is intended to confer upon any party, other than the parties hereto or their respective successors and assigns, any rights, remedies,
+obligations or liabilities under or by reason of this Agreement, except as expressly provided in this Agreement.
+
+5.2. Governing
+Law; Exclusive Jurisdiction. All questions concerning the construction, validity, enforcement and interpretation of this Agreement
+shall be governed by the internal laws of the State of New York, without giving effect to any choice of law or conflict of law provision
+or rule (whether of the State of New York or any other jurisdictions) that would cause the application of the laws of any jurisdictions
+other than the State of New York. Each party hereby irrevocably submits to the exclusive jurisdiction of the state or federal courts sitting
+in New York County, New York, for the adjudication of any dispute hereunder or in connection herewith or with any transaction contemplated
+hereby or discussed herein, and hereby irrevocably waives, and agrees not to assert in any suit, action or proceeding, any claim that
+it is not personally subject to the jurisdiction of any such court, that such suit, action or proceeding is brought in an inconvenient
+forum or that the venue of such suit, action or proceeding is improper. Each of the parties hereby waives any objection to such exclusive
+jurisdiction and that such courts represent an inconvenient forum.
+
+5.3. Notices.
+All notices, offers, acceptance and any other acts under this Agreement (except payment) shall be in writing, and shall be sufficiently
+given if delivered to the addressees in person, by FedEx or similar overnight next business day delivery, or by email followed by overnight
+next business day delivery, to the address as provided for on the signature page to this agreement.
+
+5.4. Amendments
+and Waivers. Any term of this Agreement may be amended and the observance of any term of this Agreement may be waived (either generally
+or in a particular instance and either retroactively or prospectively), only with the written consent of the Company and the Investor.
+
+5.5. Severability.
+If one or more provisions of this Agreement are held to be unenforceable under applicable law, such provision shall be excluded from this
+Agreement and the balance of the Agreement shall be interpreted as if such provision were so excluded and shall be enforceable in accordance
+with its terms so long as this Agreement as so modified continues to express, without material change, the original intentions of the
+parties as to the subject matter hereof and the prohibited nature, invalidity or unenforceability of the provision(s) in question does
+not substantially impair the respective expectations or reciprocal obligations of the parties or the practical realization of the benefits
+that would otherwise be conferred upon the parties. The parties will endeavor in good faith negotiations to replace the prohibited, invalid
+or unenforceable provision(s) with a valid provision(s), the effect of which comes as close as possible to that of the prohibited, invalid
+or unenforceable provision(s).
+
+5.6. Counterparts.
+This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall
+constitute one and the same instrument.
+
+5.7. Survival.
+The representations, warranties and covenants of the Company and the Investor contained herein shall survive the Closing and delivery
+of the New Note.
+
+6. Definitions.
+For purposes of this Agreement, the following words and terms shall have the following meanings:
+
+6.1. Common
+Stock means shares of the Companys class A common stock, par value $0.001 per share.
+
+6.2. Liens
+means a lien, charge, pledge, security interest, encumbrance, right of first refusal, preemptive right or other restriction.
+
+6.3. Person
+means an individual, a limited liability company, a partnership, a joint venture, a corporation, a trust, an unincorporated organization,
+any other entity or a government or any department or agency thereof.
+
+6.4. Transaction
+Documents means this Agreement, the New Note, and all exhibits and schedules thereto and hereto and any other documents or
+agreements executed in connection with the transactions contemplated hereunder.
+
+[SIGNATURES ON THE FOLLOWING PAGE]
+
+4 
+
+IN WITNESS WHEREOF, the parties
+have caused this Agreement to be duly executed and delivered as of the date provided above.
+
+COMPANY:
+
+HYPERSCALE
+DATA, INC.
+
+By: ______________________________________
+
+Name:
+
+Title:
+
+Address for Notices:
+
+11411 Southern Highlands Parkway, Suite 240
+
+Las Vegas, NV 89141
+
+5 
+
+IN WITNESS WHEREOF, the parties have caused this
+Agreement to be duly executed and delivered as of the date provided above.
+
+INVESTOR:
+
+ORCHID
+FINANCE LLC
+
+By: ______________________________________
+
+Name:
+
+Title:
+
+Address for Notices:
+
+EIN #:
+
+6 
+
+EXHIBIT A
+
+Convertible Promissory Note
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>4
+<FILENAME>gpus-20250206.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>5
+<FILENAME>gpus-20250206_def.xml
+<DESCRIPTION>XBRL DEFINITION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>6
+<FILENAME>gpus-20250206_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Class of Stock [Axis] 
+
+Common Stock, $0.001 par value 
+
+13.00% Series D Cumulative Redeemable Perpetual Preferred Stock, par value $0.001 per share 
+
+Statement [Table] 
+
+Statement [Line Items] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>7
+<FILENAME>gpus-20250206_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 06, 2025
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Feb. 06, 2025
+
+Entity File Number 001-12711
+
+Entity Registrant Name HYPERSCALE DATA, INC.
+
+Entity Central Index Key 0000896493
+
+Entity Tax Identification Number 94-1721931
+
+Entity Incorporation, State or Country Code DE
+
+Entity Address, Address Line One 11411 Southern Highlands Parkway
+
+Entity Address, Address Line Two Suite 240
+
+Entity Address, City or Town Las Vegas
+
+Entity Address, State or Province NV
+
+Entity Address, Postal Zip Code 89141
+
+City Area Code (949)
+
+Local Phone Number 444-5464
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+Common Stock, $0.001 par value 
+
+Title of 12(b) Security Class
+A Common Stock, $0.001 par value
+
+Trading Symbol GPUS
+
+Security Exchange Name NYSE
+
+13.00% Series D Cumulative Redeemable Perpetual Preferred Stock, par value $0.001 per share 
+
+Title of 12(b) Security 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock, par value $0.001 per share
+
+Trading Symbol GPUS PD
+
+Security Exchange Name NYSE
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=GPUS_CommonStock0.001ParValueMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=GPUS_Sec13.00SeriesDCumulativeRedeemablePerpetualPreferredStockParValue0.001PerShareMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>10
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+3 
+23 
+1 
+false 
+2 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://GPUS/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+g262508k.htm 
+gpus-20250206.xsd 
+gpus-20250206_def.xml 
+gpus-20250206_lab.xml 
+gpus-20250206_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>16
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>17
+<FILENAME>0001214659-25-002119-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>18
+<FILENAME>g262508k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0000896493 
+
+2025-02-06 
+2025-02-06 
+
+0000896493 
+
+GPUS:CommonStock0.001ParValueMember 
+
+2025-02-06 
+2025-02-06 
+
+0000896493 
+
+GPUS:Sec13.00SeriesDCumulativeRedeemablePerpetualPreferredStockParValue0.001PerShareMember 
+
+2025-02-06 
+2025-02-06 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0000896493 
+8-K 
+2025-02-06 
+HYPERSCALE DATA, INC. 
+DE 
+001-12711 
+94-1721931 
+11411 Southern Highlands Parkway 
+Suite 240 
+Las Vegas 
+NV 
+89141 
+(949) 
+444-5464 
+false 
+false 
+false 
+false 
+Class A Common Stock, $0.001 par value 
+GPUS 
+NYSE 
+13.00% Series D Cumulative Redeemable Perpetual Preferred Stock, par value $0.001 per share 
+GPUS PD 
+NYSE 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

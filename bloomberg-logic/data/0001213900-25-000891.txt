@@ -1,0 +1,3896 @@
+<SEC-DOCUMENT>0001213900-25-000891.txt : 20250106
+<SEC-HEADER>0001213900-25-000891.hdr.sgml : 20250106
+<ACCEPTANCE-DATETIME>20250103192441
+ACCESSION NUMBER:		0001213900-25-000891
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		17
+CONFORMED PERIOD OF REPORT:	20241227
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250106
+DATE AS OF CHANGE:		20250103
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bit Digital, Inc
+		CENTRAL INDEX KEY:			0001710350
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38421
+		FILM NUMBER:		25508602
+
+	BUSINESS ADDRESS:	
+		STREET 1:		31 HUDSON YARDS, FLOOR 11
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		212-463-5121
+
+	MAIL ADDRESS:	
+		STREET 1:		31 HUDSON YARDS, FLOOR 11
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Golden Bull Ltd
+		DATE OF NAME CHANGE:	20170626
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ea0226703-8k_bitdigi.htm
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+false000171035000017103502024-12-272024-12-27iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+FORM 8-K
+
+CURRENT
+REPORT
+
+Pursuant
+to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date
+of Report (Date of earliest event reported) December 27, 2024
+
+BIT DIGITAL INC.
+
+(Exact
+name of registrant as specified in its charter)
+
+Cayman Islands 001-38421 98-1606989
+
+(State
+or other jurisdiction
+
+of incorporation) (Commission
+File Number) (I.R.S.
+Employer
+
+Identification No.)
+
+31 Hudson Yards, Floor 11, New York, NY 10001
+
+(Address
+of principal executive offices) (Zip
+Code)
+
+Registrants
+telephone number, including area code (212) 463-5121
+
+N/A
+
+(Former
+name or former address, if changed since last report.)
+
+Title
+of Each Class 
+
+Trading
+Symbol 
+
+Name
+of Each Exchange
+
+On
+Which Registered
+
+Ordinary Shares, $.01 par value BTBT Nasdaq Capital
+Market
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions:
+
+Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13a-4(c))
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b of this chapter).
+
+Emerging
+growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item
+1.01 Entry into a Material Definitive Agreement
+
+On
+December 27, 2024, Bit Digital, Inc (the Company) through a wholly-owned Canadian subsidiary, Enovum Data Centers MTL II,
+L.P. acquired the real estate and building for a build-to-suit 5MW Tier-3 data center expansion project in Montreal, Canada. This acquisition
+is part of the Companys strategy to expand its HPC data center footprint to 32MW during 2025. This site also comprises part of
+the Companys 288MW proprietary pipeline announced earlier in 2024. The Company purchased the site (MTL2) from a
+subsidiary of Alexandria Real Estate Equities, Inc for CAD $33.5 million (approximately USD $23.3MM assuming a CAD/USD exchange rate
+of 0.70) excluding fees. Bit Digital initially funded the purchase with cash on hand and is in the process of securing mortgage financing
+for both the site acquisition and subsequent infrastructure capex. The Company expects to spend approximately CAD $27.6 million (approx.
+USD $19.3MM) to develop the site to Tier-3 standards with an initial gross load of 5MW. The site is expected to be completed and operational
+by May 2025. MTL2, a 160,000 square feet site that was previously used as an encapsulation manufacturing facility, is located at 7300
+Trans-Canada Highway, City of Point-Claire, Quebec. The Company plans to retrofit the site with advanced cooling technology, including
+direct-to-chip liquid cooling, which enhances energy efficiency and supports AI and other high-performance workloads with 150kW rack
+density. The Company is collaborating with third parties to implement a heat reject loop to further enhance the sustainability profile
+of the datacenter. The facility will be powered by 100% renewable hydroelectricity provided by Hydro-Quebec. Additionally, the site offers
+the potential to expand, enabling scalable growth aligned with market demand.
+
+A
+copy of the Agreement of Purchase and Sale is attached hereto as Exhibit 10.1 A copy of a press release dated December 30, 2024, titled
+Bit Digital Acquires Another Metropolitan Site for Tier-3 Data Center Expansion is being furnished as Exhibit 99.1 to this
+Form 8-K.
+
+Item
+9.01 Financial Statements and Exhibits
+
+Exhibit Name of Exhibit
+
+10.1 Agreement of Purchase and Sale of 7330 Trans-Canada Highway, Point-Claire, Quebec, Canada *
+
+99.1 Press Release Dated December 30, 2024 titled Bit Digital, Inc. Acquires Another Metropolitan Site for Tier-3 Data Center Expansion
+
+104 Cover Page Interactive Data File (formatted as inline XBRL and contained
+in Exhibit 101).
+
+* Schedules have been omitted and are available upon request
+of the SEC
+
+-1-
+
+SIGNATURES
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+BIT
+DIGITAL, INC.
+
+Date:
+January 3, 2025 By: /s/
+Samir Tabar
+
+Samir
+Tabar
+
+Chief
+Executive Officer
+
+-2-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>ea022670301ex10-1_bitdigi.htm
+<DESCRIPTION>AGREEMENT OF PURCHASE AND SALE OF 7330 TRANS-CANADA HIGHWAY, POINT-CLAIRE, QUEBEC, CANADA
+<TEXT>
+Exhibit 10.1
+
+ARE-CANADA NO. 5 HOLDINGS, ULC
+
+as Vendor
+
+- and -
+
+ENOVUM DATA CENTERS MTL II, L.P.
+
+as Purchaser
+
+AGREEMENT OF PURCHASE
+AND SALE
+
+SALE OF 7300 Trans-Canada
+Highway, Point-Claire, Quebec
+
+Dated as
+of December 23rd, 2024
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page i
+
+TABLE
+OF CONTENTS
+
+Article 1
+Interpretation 1
+
+Section 1.1 Definitions 1
+
+Section 1.2 Schedules and Exhibits 9
+
+Section 1.3 Interpretation 9
+
+Article 2
+Agreement of Purchase and Sale 10
+
+Section 2.1 Agreement of Purchase and Sale 10
+
+Section 2.2 Absence of Warranty 11
+
+Section 2.3 Assignment and Assumption 11
+
+Section 2.4 Binding Agreement 11
+
+Article 3
+Purchase Price 11
+
+Section 3.1 Method of Payment of Purchase Price 11
+
+Section 3.2 Allocation of Purchase Price 12
+
+Section 3.3 Adjustments 12
+
+Section 3.4 Statement of Adjustments 12
+
+Section 3.5 Realty Tax Refunds 13
+
+Section 3.6 Deposit 13
+
+Section 3.7 Disbursement of Escrow Funds 14
+
+Section 3.8 Disbursement of Holdback Amount 15
+
+Article 4
+Due Diligence and Pre-Closing Covenants 15
+
+Section 4.1 Deliveries by Vendor 15
+
+Section 4.2 Access to the Property 16
+
+Section 4.3 Due Diligence Condition 17
+
+Section 4.4 Disclaimer 17
+
+Section 4.5 Confidentiality 18
+
+Section 4.6 Announcements 20
+
+Article 5
+Conditions Precedent 20
+
+Section 5.1 Conditions for Vendor 20
+
+Section 5.2 Conditions for Purchaser 21
+
+Section 5.3 Non-Satisfaction of Conditions 22
+
+Section 5.4 Reasonable and Diligent Efforts to Satisfy Conditions 23
+
+Article 6
+Closing Documents 23
+
+Section 6.1 Vendors Closing Documents 23
+
+Section 6.2 Purchasers Closing Documents 24
+
+Section 6.3 Transfer Taxes 25
+
+Section 6.4 Registration and Other Costs 26
+
+Section 6.5 Documents 26
+
+Article 7
+Representations, Warranties and Covenants 26
+
+Section 7.1 Vendors Representations 26
+
+Section 7.2 Purchasers Representations 30
+
+Section 7.3 Survival of Representations 32
+
+Section 7.4 As is, Where is 32
+
+Section 7.5 Disclosure of Information 33
+
+Section 7.6 Indemnification for Claims relating to the Purchased
+Assets 34
+
+Section 7.7 Excluded Equipment and Decommissioning Work Indemnity 35
+
+Section 7.8 Third Party Claims 37
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page ii
+
+Article 8
+Operation until Closing 38
+
+Section 8.1 Operation Before Closing 38
+
+Section 8.2 Damage Before Closing 38
+
+Section 8.3 Expropriation 39
+
+Section 8.4 New Leases 40
+
+Section 8.5 Contracts and Permits 40
+
+Article 9
+General 41
+
+Section 9.1 Applicable Law and Forum 41
+
+Section 9.2 Invalidity 41
+
+Section 9.3 Amendment of Agreement 41
+
+Section 9.4 Time of the Essence 41
+
+Section 9.5 Further Assurances 41
+
+Section 9.6 Entire Agreement 42
+
+Section 9.7 Waiver 42
+
+Section 9.8 Effect of Termination of Agreement 42
+
+Section 9.9 Legal Fees/Real Estate Commission 42
+
+Section 9.10 Solicitors as Agents and Tender 42
+
+Section 9.11 Survival 43
+
+Section 9.12 Successors and Assigns 43
+
+Section 9.13 Assignment 43
+
+Section 9.14 Privacy Legislation 43
+
+Section 9.15 Notice 43
+
+Section 9.16 Disclaimer of Partnership 44
+
+Section 9.17 Rights of Parties Independent 44
+
+Section 9.18 No Registration of Agreement 44
+
+Section 9.19 Counterparts 44
+
+Section 9.20 Language 44
+
+Schedule
+A Legal Description of the LandS 
+
+Schedule
+B Permitted Encumbrances 
+
+Schedule
+C Due Diligence Deliverables 
+
+Schedule
+D Escrow Agreement 
+
+Article 1
+Interpretation and Definitions 
+
+1.1 Definitions 
+
+1.2 Articles, Sections and Headings 
+
+1.3 Extended Meanings 
+
+1.4 Calculation of Time 
+
+1.5 Entire Agreement 
+
+Article 2
+Appointment 
+
+2.1 Appointment 
+
+2.2 Investment 
+
+2.3 Excess Amounts 
+
+2.4 Fees 
+
+Article 3
+Delivery, Closing and Release from Escrow 
+
+3.1 Delivery of the Closing Escrow Funds and Holdback Amount 
+
+3.2 Delivery of Closing Documents 
+
+3.3 Closing and Release of the Closing Escrow Funds 
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page iii
+
+3.4 Release of the Holdback Amount 
+
+3.5 Other Release From Escrow 
+
+Article 4
+Duties and Liabilities of the Escrow Agent 
+
+4.1 Duties and liabilities 
+
+4.2 Reliance by the Escrow Agent 
+
+Article 5
+Conflicting Directions, Dispute Resolution and Arbitration 
+
+5.1 Conflicting Directions 
+
+5.2 Dispute Resolution 
+
+5.3 Arbitration 
+
+Article 6
+Resignation, Removal of Escrow Agent 
+
+6.1 Resignation 
+
+Article 7
+Indemnification of Escrow Agent 
+
+7.1 Indemnification 
+
+Article 8
+Termination of this Escrow Agreement 
+
+8.1 Termination 
+
+Article 9
+General Provisions 
+
+9.1 Continuing Legal Counsel 
+
+9.2 Payment 
+
+9.3 Further Assurances 
+
+9.4 Assignment 
+
+9.5 Amendments and Waivers 
+
+9.6 Currency 
+
+9.7 Notices 
+
+9.8 Governing Law and Forum 
+
+9.9 Severability 
+
+9.10 Counterparts 
+
+9.11 Language 
+
+Schedule
+E GST/QST Certificate and Indemnity 
+
+Schedule
+F Excluded Equipment AND DECOMMISSIONING WORK 
+
+Schedule
+G Form of Deed of Sale 
+
+Schedule
+H Form of Assignment and Assumption of Permitted Encumbrances 
+
+AGREEMENT OF PURCHASE
+AND SALE
+
+THIS AGREEMENT OF PURCHASE AND SALE made
+as of December 23rd, 2024
+
+BETWEEN: ARE-CANADA NO. 5 HOLDINGS,
+ULC, a legal person duly incorporated under the Business Corporations Act (British
+Columbia), herein acting and represented by Gregory S. Kay, its Senior Vice President;
+
+(the Vendor);
+
+AND: ENOVUM DATA CENTERS MTL II, L.P.,
+a limited partnership duly incorporated under the Civil Code of Qubec, herein
+acting and represented by its sole general partner, ENOVUM MTL II GP INC., a legal
+person duly incorporated under the Canada Business Corporations Act, herein acting
+and represented by Erke Huang, its Vice-President and Secretary;
+
+(the Purchaser),
+
+RECITALS:
+
+WHEREAS the Vendor has agreed to sell,
+transfer, assign, set over and convey all of its interest in and to the Purchased Assets to the Purchaser, and the Purchaser has agreed
+to purchase, acquire and assume all of the Vendors interest in and to the Purchased Assets from the Vendor on the terms and conditions
+set forth in this Agreement;
+
+NOW THEREFORE in consideration of the
+mutual covenants and agreements set forth in this Agreement and for other good and valuable consideration (the receipt and sufficiency
+of which are hereby acknowledged), the Parties hereto covenant and agree as follows:
+
+Article 1
+
+Interpretation
+
+Section 1.1 Definitions
+
+1.1.1 The terms defined herein shall have, for
+all purposes of this Agreement, the following meanings, unless the context expressly or by
+necessary implication otherwise requires:
+
+Acceptance
+Date means the date upon which this Agreement is executed and delivered by each of the Parties hereto.
+
+Adjustment
+Date means 11:59 p.m. (Montreal time) on the day immediately preceding the Closing Date.
+
+Adjustments
+means the adjustments to the Purchase Price provided for and determined pursuant to this Agreement including, without limitation, Section 3.3
+and Section 3.4.
+
+Adverse
+Entries means any entry registered against title to the Property on or after December 20th, 2024, except for Permitted
+Encumbrances and for the registration of the Deed of Sale.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 2
+
+Affiliates
+means, with respect to any Person (in this definition, such Person being referred to herein as the Subject Person),
+any other Person which, directly or indirectly, is Controlled by the Subject Person, or Controls the Subject Person, or is Controlled
+by a Person which also Controls the Subject Person.
+
+Agreement
+means the agreement arising from the execution hereof by the Parties hereto, together with all schedules hereto and all instruments supplemental
+hereto or in any amendment or confirmation hereof, and hereof, hereto, hereunder and similar
+expressions refer to this Agreement and not to any particular section of this Agreement.
+
+AML Legislation
+means the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (Canada) and other applicable anti-money laundering,
+anti-terrorist financing, government sanctions and know your client laws applicable to the Parties or their respective
+Affiliates, including any regulations, guidelines or orders thereunder.
+
+Applicable
+Laws means applicable laws (including common law and civil law), statutes, by-laws, rules, regulations, orders, ordinances,
+codes, treaties, decrees, judgements, awards or requirements, in each case of any Governmental Authority.
+
+Article,
+Section and Schedule mean and refer to the specified article, section and schedule of or to
+this Agreement.
+
+Assignment
+and Assumption of Permitted Encumbrances means an assignment by the Vendor and an assumption by the Purchaser of all of the
+right, title, interest, obligations, duties and liabilities of the Vendor in and under the Permitted Encumbrances and the benefit of
+all covenants, guarantees and indemnities thereunder, with such assignment and assumption taking effect as of and from the Closing Date,
+substantially in the form attached hereto as Schedule H.
+
+Assignment
+of Warranties means an assignment by the Vendor to the Purchaser or as the Purchaser may direct of all of the right, title
+and interest of the Vendor in and under the Warranties, with such assignment and assumption taking effect as of and from the Closing
+Date.
+
+Assumed
+Liabilities means all liabilities and obligations to be paid or performed from and after the Closing (a) under the Warranties
+and the Permitted Encumbrances, and (b) to the extent resulting from ownership of the Purchased Assets and the conduct of business
+and operations at the Property after Closing, but excluding in all cases the Excluded Liabilities.
+
+Balance
+has the meaning ascribed thereto in Section 3.1.1(b).
+
+Basket
+has the meaning ascribed thereto in Section 7.6.4.
+
+Bill of
+Sale means a bill of sale and/or general conveyance for the Movables.
+
+Books and
+Records means all information owned by the Vendor relating to the Purchased Assets in existence at Closing.
+
+Breach
+means with respect to the Vendor or the Purchaser, as the case may be, (i) any breach of any warranty or the inaccuracy of any representation
+contained or referred to in this Agreement as of the Acceptance Date or as of the Closing Date, (ii) any breach of any warranty or the
+inaccuracy of any representation contained or referred to in the Closing Documents or (iii) any breach of any covenants, undertaking
+or agreements, or any failure to perform any obligations, in each case in this Agreement or in the Closing Documents.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 3
+
+Buildings
+means, collectively, all buildings, structures, fixed improvements and equipment located on, in or under the Lands, and Building
+means any of the buildings, structures, fixed improvements and equipment located on, in or under the Lands.
+
+Business
+Day means any day other than a Saturday, Sunday or statutory holiday in the Province of Qubec or any other day on
+which banks in the Province of Qubec are generally not open for business.
+
+Cap
+has the meaning ascribed thereto in Section 7.6.5.
+
+Claims
+means all past, present and future claims, suits, proceedings, liabilities, obligations, losses, damages, penalties, judgments, assessments
+or reassessments, costs, expenses, fines, disbursements, legal fees on a client and solicitor basis, interest, demands and actions of
+any nature or any kind whatsoever.
+
+Closing
+means the closing of the transactions contemplated by this Agreement, including the delivery of all Closing Documents.
+
+Closing
+Date means December 27, 2024 (or December 30, 2024 if the wires described in Section 3.1.1 have not yet been received by the
+Escrow Agent by 5:00 p.m. (Montreal time) on December 27, 2024), as it may be extended pursuant to the provisions of this Agreement.
+
+Closing
+Documents means, collectively, (i) the agreements, instruments and other documents to be delivered by the Vendor to the Purchaser
+or the Purchasers Solicitors pursuant to Section 6.1, and (ii) the agreements, instruments and other documents to be delivered
+by the Purchaser to the Vendor or the Vendors Solicitors pursuant to Section 6.2.
+
+Closing
+Escrow Funds shall have the meaning ascribed thereto in Section 3.7.1.
+
+Confidential
+Information has the meaning ascribed thereto in Section 4.5.6.
+
+Contracts
+means, collectively, all existing contracts, agreements and licences entered into by or on behalf of the Vendor, in each case with third
+parties (other than Affiliates) with respect to the ownership, development, maintenance, repair and operation of the Property, whether
+entered into before or after the Due Diligence Date in accordance with the terms of this Agreement, in each case as amended, renewed
+or otherwise varied, in each case to the extent the same are assignable, but excluding the Permitted Encumbrances and the Warranties.
+
+Control
+for the purposes of this Agreement is determined based on the following:
+
+(a) To control a corporation a Person must,
+(i) beneficially hold (other than by way of security only) securities of such corporation
+or the right to vote or direct the voting of securities of such corporation to which, in
+the aggregate, are attached more than 50% of the votes that may be cast to elect directors
+of the corporation, provided that in all circumstances the votes attached to those securities
+are sufficient, if exercised, to elect a majority of the directors of the corporation and
+control the management of such corporation, and (ii) also have the power to control and direct
+in all circumstances the management and policies of such corporation, directly or indirectly,
+whether through the ownership or control of voting securities, voting rights, contract or
+otherwise;
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 4
+
+(b) To control a partnership, a Person must,
+(i) beneficially own (other than by way of security only) at least 50% of the partnership
+interest in such partnership and have the right to receive 50% of all revenues from such
+partnership, and (ii) also have the power to control and direct in all circumstances the
+management and policies of such partnership directly or indirectly, whether through the ownership
+or control of voting securities of the general partner, voting rights, contract or otherwise;
+
+(c) To control a trust where the trustees have
+discretionary powers in respect of the trust assets, a Person must (i) have the right to
+elect or appoint a majority of the trustees of such trust, and (ii) be, directly or indirectly,
+the sole beneficiary of such trust;
+
+(d) To control a limited partnership, a Person
+must Control each person that is a general partner of such limited partnership;
+
+(e) To control a Person other than a corporation,
+partnership or trust referred to in any of clauses (a) to (c) above (the Subject
+Entity) a Person must (i) beneficially own, directly or indirectly, at least a
+majority ownership interest in the Subject Entity, and (ii) also have the power to control
+and to direct in all circumstances the management and policies of the Subject Entity, directly
+or indirectly, whether through the ownership or control of voting securities, voting rights,
+contract or otherwise; and
+
+(f) a Person who controls another Person is
+deemed to control any Person which is controlled, or deemed to be controlled, by such other
+Person,
+
+and the words Controlled,
+controlled, Controlling and controlling have corresponding meanings.
+
+Decommissioning
+Work means the work identified as Decommissioning Work in Error! Reference source not found. hereto;
+
+Deed of
+Sale has the meaning ascribed thereto in Section 6.1.1(b).
+
+Delivery
+Date has the meaning ascribed thereto in Section 4.1.1.
+
+Deposit
+has the meaning ascribed thereto in Section 3.1.1(a).
+
+Due Diligence
+Condition has the meaning ascribed thereto in Section 4.3.1.
+
+Due Diligence
+Date means 5:00 p.m. (Montreal time) on December 23, 2024.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 5
+
+Due Diligence
+Documents means any and all documents or information disclosed or made available to the Purchaser, through the data room set
+up by the Vendor for such purpose or otherwise, including, without limitation, the documents listed in Section 4.1.1.
+
+Encumbrances
+means any mortgages, pledges, charges, priorities, debentures, hypothecs, trust deeds, assignments by way of security, security interests,
+conditional sales contracts or other title retention agreements or similar interests or instruments charging, or creating a security
+interest in, or against title to, such property or any part thereof or interest therein, and any agreements, leases, options, easements,
+servitudes, rights of way, rights of superficies, restrictions, executions, permissions or other charges or encumbrances (including notices
+or other registrations in respect of any of the foregoing) against the Property or any part thereof or interest therein or title thereto,
+whether registered or unregistered.
+
+Environmental
+Experts has the meaning ascribed thereto in Section 7.7.
+
+Environmental
+Laws means all applicable Canadian federal, provincial, municipal and local laws, including without limitation all statutes,
+by-laws and regulations and all orders, policies, directives, guidelines, each to the extent having the force of law, and all decisions
+rendered by any ministry, department or administrative or regulatory agency relating to the protection of the environment, or the manufacture,
+processing, distribution, use, treatment, storage, disposal, packaging, transport, handling, containment, clean-up or other remediation
+or corrective action of any Hazardous Substances.
+
+Escrow
+Account shall have the meaning ascribed thereto in the Escrow Agreement.
+
+Escrow
+Agent means the escrow agent pursuant to the Escrow Agreement.
+
+Escrow
+Agreement shall mean the escrow agreement between the Escrow Agent, as escrow agent, the Purchaser and the Vendor, substantially
+in the form attached hereto as Error! Reference source not found., to be entered in to concurrently herewith.
+
+Escrow
+Sunset Date means three (3) months following the Indemnity Release Date.
+
+Excluded
+Assets means, collectively:
+
+(a) cash, monies, deposits, bank accounts, negotiable
+instruments, or other instruments of the Vendor;
+
+(b) all rights of the Vendor of every nature
+arising out of all insurance policies relating to the Property;
+
+(c) the Excluded Equipment;
+
+(d) all Contracts;
+
+(e) information technology, computers, computer
+systems, firmware, middleware, servers, workstations, routers, hubs, data, databases, software
+programs, source code and object code, and user manuals owned by, leased by or licensed to
+the Vendor or any Affiliate of the Vendor, in each case except as otherwise advised by the
+Vendor; and
+
+(f) the Realty Tax Refunds.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 6
+
+Excluded
+Equipment means the equipment identified as Excluded Equipment in Error! Reference source not found.
+hereto;
+
+Excluded
+Liabilities means (A) any liability or obligation, direct or indirect, known or unknown, absolute or contingent, relating
+to the Purchased Assets that is not an Assumed Liability pursuant to this Agreement, and (B) any liability or obligation, direct or indirect,
+known or unknown, absolute or contingent, relating to the Excluded Assets or the Decommissioning Work;
+
+Existence
+and Net Worth Covenant has the meaning set out in Section 7.3.2.
+
+GAAP
+means the Generally Accepted Accounting Principles in place as of the date hereof.
+
+General
+Partner means Enovum MTL II GP Inc.
+
+Governmental
+Authority means any federal, provincial or municipal government, parliament or legislature, or any regulatory authority, agency,
+bureau, ministry, department, commission or board or other representative thereof, or any political subdivision thereof, or any court
+or tribunal or, without limitation, any other law-, regulation- or rule-making entity having jurisdiction over the relevant circumstances,
+or any Person acting under the authority of any of the foregoing (including, without limitation, any arbitrator).
+
+GST
+means the goods and services tax payable pursuant to the Excise Tax Act (Canada).
+
+GST/QST
+Certificate and Indemnity has the meaning ascribed thereto in Section 6.3 .
+
+Hazardous
+Substances means any pollutants, contaminants, chemicals, deleterious substances, waste (including without limitation, industrial,
+toxic or hazardous wastes), petroleum or petroleum products, asbestos, polychlorinated biphenyls, flammable materials or radioactive
+materials which are regulated or controlled under Environmental Laws.
+
+Holdback
+Amount means the amount of ONE MILLION DOLLARS ($1,000,000).
+
+Indemnity
+Release Date has the meaning ascribed thereto in Section 7.7.
+
+Lands
+means the lands and premises described in Error! Reference source not found. attached hereto, and all of Vendors rights
+and interests appurtenant or ancillary thereto.
+
+Leases
+means, collectively, any offers to lease, agreements to lease, amendments to lease, leases, subleases, renewals or extensions of leases
+and other rights or licenses granted to possess or occupy space within the Property or any part thereof, in each case as amended, renewed
+or otherwise varied, and Lease means any one of the Leases.
+
+Listed
+Designated Person means a Person mentioned on lists of names subject to the Regulations Establishing Lists of Entities made
+under subsection 83.05(1) of the Criminal Code (Canada), the Office of Foreign Asset Control of the U.S. Department of the Treasury
+(OFAC) at its official website (http://www.treas.gov/ofac/) and/or the United Nations Suppression of Terrorism Regulations
+(UNSET) and/or a listing which is currently published under the internet website addresses http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-eng.aspx
+or www.osfi-bsif.gc.ca/Eng/fi-if/amlc-clnpc/Pages/default.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 7
+
+Movables
+means the inventory, supplies, equipment, furnishings, movables and all other tangible personal or corporeal movable property owned by
+the Vendor and used exclusively in connection with the ownership, operation, maintenance or management of the Property, in each case
+to the extent the same are located on the Lands as of December 20th, 2024, the whole excluding the Excluded Equipment.
+
+Notes
+has the meaning ascribed thereto in Section 4.5.6.
+
+Objection
+Period has the meaning ascribed thereto in Section 7.7.
+
+Parties
+means the Vendor and the Purchaser and any other Person who may become a party to this Agreement and Party means
+any of the Parties as the context requires.
+
+Pending
+Claims has the meaning ascribed thereto in Section 3.8.3.
+
+Permit
+means a permit, license, certification, authorization, right or privilege granted, delivered, issued or otherwise conferred by a Governmental
+Authority.
+
+Permitted
+Encumbrances means, collectively, the Encumbrances affecting title to the Purchased Assets registered on title to the Purchased
+Assets before December 20th, 2024 and those listed in Error! Reference source not found. hereto.
+
+Person
+means a natural person, a partnership of any type, a corporation, a joint venture, a syndicate, a chartered bank, a trust, a trust company,
+a government or an agency thereof, an unincorporated association, or an executor, administrator or other legal representative.
+
+Plans
+means all documentation in the possession or control of the Vendor relevant to the construction of the Buildings including, without limitation,
+surveys, working drawings, detail drawings, as-built drawings, suite floor plans, other documentation prepared to illustrate or define
+a particular aspect of the Buildings, consultants contracts and reports, construction contracts, plans submitted with all building
+permits issued for the Property and occupancy permits.
+
+Post-Closing
+Adjustment has the meaning ascribed thereto in Section 3.3.3.
+
+Property
+means, collectively, the Lands, the Buildings and all easements, rights-of-way, servitudes and other rights enjoyed by the Vendor as
+appurtenant to or in conjunction therewith.
+
+Purchased
+Assets means, collectively, all of the Vendors rights, title, and interest in, to and under, or relating to:
+
+(a) the Property;
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 8
+
+(b) the Warranties;
+
+(c) the Movables;
+
+(d) the Books and Records; and
+
+(e) all other property, assets, rights, interests,
+entitlements, benefits and privileges of the Vendor of any nature or kind whatsoever relating
+to the Property;
+
+and excluding, for greater certainty,
+the Excluded Assets.
+
+Purchase
+Price has the meaning ascribed thereto in Section 2.1.
+
+Purchaser
+means ENOVUM DATA CENTERS MTL II, L.P. and its successors and permitted assigns.
+
+Purchasers
+Solicitors means Davies Ward Phillips & Vineberg LLP (Attention: Florence Simard) or such other firm or firms of solicitors
+as are appointed by the Purchaser from time to time and notice of which is provided to the Vendor or the Vendors Solicitors.
+
+QST
+means the Qubec sales tax payable pursuant to An Act respecting the Qubec Sales Tax.
+
+Realty
+Tax Refunds has the meaning ascribed thereto in Section 3.5.
+
+Release
+Date has the meaning ascribed thereto in Section 7.3.1.
+
+Reports
+has the meaning ascribed thereto in Section 4.4.1.
+
+Representatives
+has the meaning ascribed thereto in Section 4.5.7.
+
+RPMRR
+means the Register of Personal and Movable Real Rights (Quebec).
+
+Tax Act
+means the Income Tax Act (Canada), as amended.
+
+Transfer
+Taxes has the meaning ascribed thereto in Section 6.3.
+
+Vendor
+means ARE-Canada No. 5 Holdings, ULC and its successors and permitted assigns.
+
+Vendors
+Solicitors means Fasken Martineau DuMoulin LLP (Attention: Richard Clare and Mathieu Renaud) or such other firm or firms of
+solicitors as are appointed by the Vendor from time to time and notice of which is provided to the Purchaser or the Purchasers
+Solicitors.
+
+Warranties
+means the existing warranties, guarantees and indemnities remaining in existence as of Closing, if any, in favour of the Vendor and which
+entitle the Vendor to any rights against a contractor or supplier in respect of the construction, maintenance, repair and operation of
+the Buildings or any part thereof, in each case to the extent the same are assignable.
+
+Work Order
+has the meaning ascribed thereto in Section 8.1.2.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 9
+
+Section 1.2 Schedules and
+Exhibits
+
+1.2.1 The following Schedules and any exhibits
+attached thereto form an integral part of this Agreement:
+
+Schedule A Legal Description of the Land
+
+Schedule B Permitted Encumbrances
+
+Schedule C Due Diligence Deliverables
+
+Schedule D Escrow Agreement
+
+Schedule E GST/QST Certificate and Indemnity
+
+Schedule F Excluded Equipment and Decommissioning Work
+
+Schedule G Form of Deed of Sale
+
+Schedule H Form of Assignment and Assumption of Permitted Encumbrances
+
+Section 1.3 Interpretation
+
+1.3.1 Gender and Number. Any reference
+in this Agreement or any Closing Document to gender includes all genders. Words importing
+the singular number only shall include the plural and vice versa.
+
+1.3.2 Headings, etc. The provision of a
+table of contents, the division of this Agreement into Articles and Sections and the insertion
+of headings are for convenient reference only and are not to affect its interpretation.
+
+1.3.3 Currency. All references in this
+Agreement or any Closing Document to dollars or to $ are expressed in Canadian currency unless
+otherwise specifically indicated.
+
+1.3.4 Obligations as Covenants. Each agreement
+and obligation of any of the Parties hereto in this Agreement, even though not expressed
+as a covenant, is considered for all purposes to be a covenant.
+
+1.3.5 Certain Phrases, etc. In this Agreement
+and any Closing Document (i) the words including, includes
+and include mean including (or includes or include) without limitation,
+and (ii) the phrase the aggregate of, the total of, the
+sum of, or a phrase of similar meaning means the aggregate (or total or sum),
+without duplication, of. Unless otherwise specified, the words Article
+and Section followed by a number mean and refer to the specified Article or
+Section of this Agreement. In the computation of periods of time from a specified date to
+a later specified date, unless otherwise expressly stated, the word from means
+from and excluding and the words to and until each
+mean to and including.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 10
+
+1.3.6 Accounting Terms. All accounting
+terms not specifically defined in this Agreement are to be interpreted in accordance with
+GAAP. All calculations made or referred to herein shall be made in accordance with GAAP and/or
+Canadian generally accepted accounting principles and practices at the time that the calculation
+is made and shall be applied on a consistent basis.
+
+1.3.7 References to Persons and Agreements.
+Any reference in this Agreement and any Closing Document to a Person includes its successors
+and permitted assigns. Except as otherwise provided in this Agreement or any Closing Document,
+the term Agreement and any reference in this Agreement to this Agreement, any
+Closing Document or any other agreement or document includes, and is a reference to, this
+Agreement, such Closing Document or such other agreement or document as it may have been,
+or may from time to time be amended, restated, replaced, supplemented or novated and shall
+include all schedules to it.
+
+1.3.8 Statutes. Except as otherwise provided
+in this Agreement or any Closing Document, any reference in this Agreement or therein to
+a statute refers to such statute and all rules and regulations made under it, as it or they
+may have been or may from time to time be amended or re-enacted.
+
+1.3.9 Non-Business Days. Whenever payments
+are to be made or an action is to be taken on a day which is not a Business Day, such payment
+will be made or such action will be taken on or not later than the next succeeding Business
+Day.
+
+1.3.10 Waiver of Contra Proferentem.
+The Parties waive the application of any rule of law which otherwise would be applicable
+in connection with the construction of this Agreement that ambiguous or conflicting terms
+or provisions should be construed against the Party who (or whose counsel) prepared the executed
+agreement or any earlier draft of the same.
+
+1.3.11 Waiver of Ejusdem Generis.
+General words are not given a restrictive meaning (i) if they are introduced by the word
+other, by reason of the fact that they are preceded by words indicating a particular
+class of act, matter or thing; or (ii) by reason of the fact that they are followed by particular
+examples intended to be embraced by those general words.
+
+Article 2
+
+Agreement of Purchase and Sale
+
+Section 2.1 Agreement of Purchase
+and Sale
+
+2.1.1 The Vendor hereby agrees to sell, transfer,
+assign, set over and convey the Purchased Assets to the Purchaser on the Closing Date (subject
+to the terms and conditions of this Agreement), and the Purchaser hereby agrees to purchase,
+acquire and assume the Purchased Assets from the Vendor for the sum of THIRTY
+THREE MILLION FIVE HUNDRED THOUSAND DOLLARS ($33,500,000.00) (the Purchase
+Price), exclusive of GST and QST. This Agreement shall be completed on the Closing
+Date at the offices of the Vendors Solicitors in Montreal.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 11
+
+Section 2.2 Absence of Warranty
+
+2.2.1 The purchase and sale of the Purchased Assets
+is made on an as is, where is basis at the Purchasers risk and peril
+(subject only to the express representations, warranties, terms and conditions of this Agreement).
+
+2.2.2 The Purchaser acknowledges and agrees that
+the Vendor is not a professional seller within the meaning of the Civil Code of Qubec.
+
+Section 2.3 Assignment
+and Assumption
+
+2.3.1 Pursuant to Section 2.1, the Vendor
+shall sell, assign and transfer to the Purchaser all its right, title and interest in and
+to (i) all Warranties, to the extent that such Warranties exist and can be assigned, and
+(ii) the Assumed Liabilities, and the Vendor shall subrogate the Purchaser in its rights
+and obligations with regards to all of the above, which rights and obligations shall be assumed
+by the Purchaser with liability from and including the Closing Date, and the Purchaser shall
+undertake in favor of the Vendor to assume, from and including the Closing Date, all the
+commitments and each of the obligations, modalities and conditions imposed upon the Vendor
+pursuant to the foregoing.
+
+Section 2.4 Binding Agreement
+
+2.4.1 The agreement of the Vendor with the Purchaser
+set forth in Section 2.1 creates and constitutes a binding agreement of purchase and
+sale of the Purchased Assets on and subject to the provisions of this Agreement, notwithstanding
+the inclusion herein of any condition.
+
+Article 3
+
+Purchase Price
+
+Section 3.1 Method of Payment
+of Purchase Price
+
+3.1.1 The Purchase Price shall be satisfied by
+and payable as follows:
+
+(a) Within three (3) Business Days following
+the date hereof, the Purchaser shall pay the sum of TWO MILLION THREE HUNDRED THOUSAND DOLLARS
+($2,300,000.00) (the Deposit) as a cash deposit by wire transfer
+to the Escrow Agent, to be invested by the Escrow Agent in trust in accordance with the Escrow
+Agreement and this Agreement;
+
+(b) The payment, on Closing, of the balance
+of the Purchase Price (net of Adjustments) minus the Holdback Amount (the Balance)
+by wire transfer payable to the Escrow Agent in trust, and to be held and released from escrow
+and disbursed by the Escrow Agent in accordance with the terms of the Escrow Agreement and
+this Agreement.
+
+(c) The payment, on Closing, of the Holdback
+Amount by wire transfer payable to the Escrow Agent in trust, and to be held and released
+from escrow and disbursed by the Escrow Agent in accordance with the terms of the Escrow
+Agreement and this Agreement.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 12
+
+Section 3.2 Allocation of
+Purchase Price
+
+3.2.1 The Vendor and the Purchaser shall agree
+prior to Closing upon the allocation of the Purchase Price (such allocation referred to herein
+as the Allocation) among the Purchased Assets, subject to the adjustment
+in Section 3.3, and to report the purchase and sale of the Purchased Assets for all
+tax and other purposes and to file all tax returns in a manner consistent with the Allocation.
+
+Section 3.3 Adjustments
+
+3.3.1 Adjustments shall be made as of the Adjustment
+Date on an accrual basis. The Vendor shall be responsible for all expenses and entitled to
+all revenue accruing from the Purchased Assets for that period prior to and ending on the
+Adjustment Date, and thereafter the Purchaser shall be responsible for all expenses (except
+as otherwise provided in this Agreement) and shall be entitled to all revenue accruing from
+the Purchased Assets.
+
+3.3.2 Subject to Section 3.5, the adjustments
+(herein collectively referred to as the Adjustments) shall include all
+realty taxes, local improvement rates and charges, water and assessment rates and other adjustments
+established by the customary practice in the City of Pointe-Claire for the purchase and sale
+of similar properties. In addition, the Adjustments shall include the other matters referred
+to in this Agreement which are stated to be the subject of adjustment and shall exclude the
+other matters in this Agreement which are stated not to be the subject of adjustment.
+
+3.3.3 If the final cost or amount of any item
+which is to be adjusted cannot be determined at Closing, then an initial adjustment for such
+item shall be made at Closing, such amount to be estimated by the Vendor and the Purchaser,
+each acting reasonably, as of the Adjustment Date on the basis of the best evidence available
+at the Closing as to what the final cost or amount of such item will be. In each case when
+such cost or amount is determined, including where such amount was omitted from the statement
+of adjustments through inadvertence or otherwise (provided the same is a proper adjustment
+hereunder), the Vendor or the Purchaser, as the case may be, shall, within thirty (30) days
+of determination, provide a complete statement thereof to the other and within thirty (30)
+days thereafter the Parties shall make a final adjustment as of the Adjustment Date for the
+item in question (each a Post-Closing Adjustment). All Post-Closing
+Adjustments shall, in any event, be completed on or before twelve (12) months from the Closing
+Date. In the absence of agreement by the Parties hereto, the final cost or amount of an item
+of Post-Closing Adjustment shall be determined by auditors appointed jointly by the Vendor
+and the Purchaser, with the cost of such auditors determination being shared equally
+between the Vendor and the Purchaser. On Closing, the Vendor and the Purchaser shall execute
+an undertaking to readjust in respect of the Adjustments and for any errors, omissions or
+changes in the statement of adjustments.
+
+3.3.4 All meters for public or private utilities
+shall be read at Closing and all charges in connection therewith for the period prior to
+Closing shall forthwith be paid by the Vendor.
+
+Section 3.4 Statement of Adjustments
+
+3.4.1 At least five (5) Business Days prior to
+the Closing Date, the Vendor shall cause to be delivered a statement of adjustments to the
+Purchaser, for its approval, for the Property. The statement of adjustments shall have annexed
+to it details of the calculations used by the Vendor to arrive at all debits and credits
+on the statement of adjustments and all documentation that is reasonably required to verify
+the adjustments.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 13
+
+Section 3.5 Realty Tax Refunds
+
+3.5.1 All right, title and benefit to any realty
+tax appeals and reassessments and any rebates (including without limitation vacancy rebates),
+refunds or reassessments of realty taxes for the Property in respect of periods preceding
+the Closing Date (collectively, the Realty Tax Refunds) shall remain
+the property of the Vendor and shall not form part of the Purchased Assets. If there are
+any pending proceedings to contest the municipal assessment of the Property for the current
+assessment roll or any prior periods, the Vendor may, at its option and its sole expense,
+continue such appeals; provided that the Vendor shall pursue such appeals in a commercially
+reasonable manner and consult with the Purchaser with respect to any final settlement or
+disposition of any such appeal. The Purchaser and the Vendor agree to co-operate with the
+other with respect to all such appeals and to provide the other with access to any necessary
+documents or materials required to continue any such appeals. Any net rebates resulting from
+the foregoing (regardless of whether they are received by the Vendor or the Purchaser) shall
+be paid to the Vendor and the Purchaser on a pro rata basis by reference to the number of
+days in the relevant period when they were the owners of the Property.
+
+Section 3.6 Deposit
+
+3.6.1 The Purchaser shall pay the Deposit to the
+Escrow Agent, in trust, in accordance with the provisions of Section 3.1.1(a), to be
+held and disbursed pursuant to the terms of the Escrow Agreement and this Agreement.
+
+3.6.2 The Deposit will be held by the Escrow Agent
+as a deposit in trust pending completion or other termination of this Agreement in an interest-bearing
+trust account with a Canadian chartered bank, to be credited on account of the Purchase Price
+on Closing, with interest accruing to the Purchaser and to be delivered to the Purchaser
+following the Closing, the whole as more fully set out in the Escrow Agreement.
+
+3.6.3 If:
+
+(a) the transaction contemplated by this Agreement
+is not completed on the Closing Date for any reason other than solely by reason of the default
+or Breach of the Purchaser under this Agreement, and this Agreement is terminated in accordance
+with its terms as a result, the Deposit and all accrued interest thereon shall be returned
+to the Purchaser forthwith and the Purchaser and the Vendor shall be released from all of
+their respective liabilities and obligations under this Agreement other than the Purchasers
+liabilities and obligations pursuant to Section 4.2.3, Section 4.3.3 and Section 4.5.
+If the transaction contemplated by this Agreement is not completed on the Closing Date as
+a result solely of a default or Breach of the Vendor, the Purchaser shall be entitled to
+exercise such rights, recourses or remedies as are available to it at law, including the
+right to require specific performance, it being however understood that the liability of
+the Vendor in damages shall be limited to the Cap; or
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 14
+
+(b) the transaction contemplated by this Agreement
+is not completed on the Closing Date or this Agreement is terminated in each case as a result
+of a default or Breach of the Purchaser under this Agreement, the Deposit and all interest
+accrued thereon shall be forfeited to (and become the property of) the Vendor as liquidated
+damages and thereupon be paid to the Vendor and the Purchaser and the Vendor shall be released
+from all of their respective liabilities and obligations under this Agreement other than
+the Purchasers liabilities and obligations pursuant to Section 4.2.3, Section 4.3.3
+and Section 4.5.
+
+3.6.4 The Vendor and the Purchaser each hereby
+irrevocably instruct and direct the Escrow Agent, as escrow agent, to give effect to the
+provisions of this Section 3.6.3, and this Section 3.6.3 shall be the Escrow Agent
+good and sufficient authority to do so.
+
+3.6.5 The Parties acknowledge that the Escrow
+Agent shall be mere stakeholders of the Deposit and the Balance as between the Parties to
+this Agreement and, in the event of a dispute between the Vendor and the Purchaser as to
+entitlement to, or disposition of, the Deposit and/or the Balance and/or any accrued interest
+thereon, the Escrow Agent shall be entitled to pay the Deposit and/or the Balance and/or
+such interest into court and thereafter shall have no further responsibility with regard
+thereto, and the Escrow Agent may act in the interest of the Vendor in the matter of any
+dispute between the Parties while still holding the Deposit in trust (or having deposited
+the same into court). In holding and dealing with the Deposit pursuant to this Agreement,
+the Escrow Agent shall not be bound in any way by any agreement other than the Escrow Agreement,
+and the Escrow Agent shall not be considered to assume any duty, liability or responsibility
+other than to hold the Deposit in accordance with the provisions of the Escrow Agreement
+and to pay the Deposit and interest thereon to the Person becoming entitled thereto in accordance
+with the terms of the Escrow Agreement. The Escrow Agent will not, under any circumstances,
+be required to verify or determine the validity of any notice or other document whatsoever
+delivered to the Escrow Agent and the Escrow Agent is hereby relieved of any liability or
+responsibility for any loss or damage which may arise as the result of the acceptance by
+the Escrow Agent of any such notice or other document in good faith (provided that the Escrow
+Agent shall not be relieved of any liability or responsibility for any loss or damage which
+may arise if the Escrow Agent releases the Deposit to a Party hereto after having received
+prior written notice from the other Party hereto claiming entitlement to such Deposit or
+a dispute to such entitlement). This Section is intended to benefit the Escrow Agent notwithstanding
+that they are not parties to this Agreement.
+
+Section 3.7 Disbursement of
+Escrow Funds
+
+3.7.1 The Deposit and the Balance (collectively,
+the Closing Escrow Funds) shall be held by the Escrow Agent in trust
+pursuant to the Escrow Agreement and shall be disbursed by the Escrow Agent in accordance
+with the Escrow Agreement to the Vendor or as the Vendor directs in writing at its sole discretion
+upon confirmation from Escrow Agent and Purchasers Solicitors, based on the registers
+of the relevant registry offices, of the registration of the Deed of Sale and of the absence
+of any Adverse Entry.
+
+3.7.2 In the event there is an Adverse Entry,
+the Vendor and the Purchaser shall act reasonably to agree upon the portion of the Closing
+Escrow Funds, if any, which can be released to the Vendor and those portions which are to
+remain in escrow with the Escrow Agent pending resolution of the Adverse Entry, and if the
+Vendor and the Purchaser reach such an agreement, they shall promptly give joint instructions
+to the Escrow Agent to give effect thereto. The Vendor shall remain responsible to cause
+any Adverse Entry to be discharged and shall use commercially reasonable efforts to do so
+as soon as possible.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 15
+
+Section 3.8 Disbursement of
+Holdback Amount
+
+3.8.1 The Holdback Amount shall be held by the
+Escrow Agent in trust pursuant to the Escrow Agreement and shall be disbursed by the Escrow
+Agent in accordance with the Escrow Agreement and this Agreement.
+
+3.8.2 In the event any amounts is payable to the
+Purchaser pursuant to Section 7.7, the Purchaser and the Vendor shall deliver a joint
+written instruction to the Escrow Agent, instructing the Escrow Agent to release to the Purchaser
+an amount in cash equal to the amount of the Claims payable to the Purchaser.
+
+3.8.3 The Escrow Agreement shall provide, and
+the Vendor and the Purchaser shall cause, that the Escrow Agent distributes to the Vendor
+promptly after the Indemnity Release Date, a portion of the Holdback Amount equal to: (i)
+the amount remaining in the Escrow Account at such time in connection with the Holdback Amount,
+less (ii) the aggregate amount of all unpaid Claims pursuant to Section 7.7,
+if any, including the aggregate amount of Claims specified by the Purchaser in any then-unresolved
+indemnification claims and any amounts remaining in dispute pursuant to Section 7.7
+(the Pending Claims); provided that if such amount is a negative
+number, no amounts shall be released from the Escrow Account pursuant to this 3.8.3.
+
+3.8.4 Promptly after all Pending Claims have been
+resolved and paid to the Purchaser in accordance herewith, if any, the Vendor and Purchaser
+shall deliver joint written instructions to the Escrow Agent to distribute to the Vendor
+any amount remaining in the Escrow Account not required to satisfy such Pending Claims.
+
+3.8.5 As of the Escrow Sunset Date, if (i) no
+amounts are payable to the Purchaser pursuant to Section 7.7, (ii) there are no Pending
+Claims, and (iii) the Escrow Agent has not received joint written instructions from the Vendor
+and the Purchaser to distribute any amount remaining in the Escrow Account in accordance
+with the Escrow Agreement and this Agreement, the Escrow Agent is hereby irrevocably instructed
+by the Purchaser and the Vendor to distribute any amount remaining in the Escrow Account
+to the Vendor promptly after the Escrow Sunset Date.
+
+Article 4
+
+Due Diligence and Pre-Closing Covenants
+
+Section 4.1 Deliveries by
+Vendor
+
+4.1.1 Within five (5) Business Days next following
+the Acceptance Date (the Delivery Date), the Vendor shall deliver or
+make available to the Purchaser, via a data room or other electronic medium (except as otherwise
+provided in this Agreement), in each case to the extent the same is in the possession or
+control of the Vendor, the Due Diligence Documents relating to the Purchased Assets which
+are listed in Error! Reference source not found. and any other material information
+related to any Purchased Asset to the extent same is in the possession or control of the
+Vendor, subject to the confidentiality provisions of this Agreement set forth in Section 4.5.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 16
+
+4.1.2 The Vendor shall promptly make available
+any additional information or documentation reasonably requested by the Purchaser in connection
+with the Purchased Assets but only to the extent same is within its possession or control.
+The Vendor shall, until Closing, cause to be delivered to the Purchaser copies of the following
+received from and after the Acceptance Date until the Closing Date: (i) all notices of default
+and all other material notices or material correspondence, if any, received or sent by or
+on behalf of the Vendor from or to any Person in respect of the Property, and (ii) information
+or documentation which may materially amend or vary any delivery previously given or made
+available to the Purchaser under this Agreement.
+
+4.1.3 Any documentation or other information provided
+by or on behalf of the Vendor to the Purchaser, on notice to the Purchaser (and for certainty,
+such notice may be by email notification from the data room described in Section 4.1.1)
+may be amended or supplemented as necessary from time to time prior to the Due Diligence
+Date.
+
+Section 4.2 Access to the
+Property
+
+4.2.1 From and after the Acceptance Date, the
+Purchaser, its agents, employees and consultants shall have reasonable access to the Property
+during normal business hours from time to time upon at least forty-eight (48) hours
+notice to the Vendor, which access shall be at the Purchasers sole risk and expense,
+for the purpose of making any of the Purchasers inspections, including without limitation
+physical, structural, mechanical and electrical inspections, soil tests and environmental
+audits, provided that the Purchaser shall not conduct any invasive testing without the Vendors
+prior written consent, not to be unreasonably withheld or delayed and then only on such conditions
+as the Vendor may reasonably require. Such conditions may include a requirement that any
+such activities must be carried out under the supervision of the Vendor or its consultants
+and such conditions shall also include the requirement of the Purchaser to obtain additional
+insurance. Such access shall be done in a manner that minimizes interference with the use
+of the Property. Representatives of the Vendor shall have the right to accompany the Purchaser
+and its advisors and employees on any inspections, tests and audits and the Vendor shall
+have the right to approve invasive or intrusive inspections, tests and audits, if any are
+proposed by the Purchaser, prior to such inspections, tests and audits being undertaken.
+
+4.2.2 Before exercising such right of access for
+the first time, and until the occurrence of Closing or the earlier termination of this Agreement,
+the Purchaser shall subscribe for, and shall maintain in effect, a commercial general liability
+insurance policy with reputable insurer(s) authorized to do business in the jurisdiction
+where the Property is located, for a minimum coverage per occurrence and in the aggregate
+of five million dollars ($5,000,000.00), which policy shall (i) include coverage for
+assumed contractual liability, owned or used motor vehicle liability and environmental liability
+(sudden pollution) for not less than the coverage amount set out above; (ii) name the
+Vendor as an additional insured; (iii) shall contain a waiver of subrogation in favor
+of the Vendor, as well as contain cross-liability and severability of interest provisions;
+and (iv) contain a provision that the insurance shall be primary and non-contributing
+with any other insurance available to Vendor. The Purchaser shall forthwith provide the Vendor
+with proof of such insurance prior to exercising such right of access of the Property.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 17
+
+4.2.3 The Purchaser hereby indemnifies the Vendor
+from and against all claims arising out of any act or omission by the Purchaser or its agents
+or employees during and with respect to its exercise of such right of access and inspection.
+The Purchaser agrees to forthwith repair in a good and competent manner any damage to the
+Property arising from such access or inspection at its sole cost and expense. The provisions
+of this Section 4.2.3 shall not merge on Closing or earlier termination of this Agreement
+and shall remain in effect thereafter without limit.
+
+Section 4.3 Due Diligence
+Condition
+
+4.3.1 The Purchasers obligation to complete
+the purchase of the Purchased Assets pursuant to this Agreement is subject to and conditional
+upon the Purchaser being satisfied, in its sole, absolute and unfettered discretion with
+the results of all of its investigations, inspections, reviews, tests and audits relating
+to the Purchased Assets (including with respect to its physical, environmental, structural,
+contractual, financial, fiscal and legal review) and the transaction contemplated by this
+Agreement, which the Purchaser deems necessary or desirable (the Due Diligence
+Condition). The Purchaser shall advise the Vendor by way of a written notice sent
+not later than 5:00 p.m., Montral time, on the Due Diligence Date, whether the Due
+Diligence Condition has been satisfied or waived.
+
+4.3.2 The Due Diligence Condition is for the sole
+benefit of the Purchaser and may be unilaterally waived in writing in whole or in part by
+the Purchaser at any time on or before the Due Diligence Date. In the event that the Purchaser
+does not waive or confirm the satisfaction of the Due Diligence Condition by written notice
+from the Purchaser to the Vendor on or before the Due Diligence Date, this Agreement shall
+automatically terminate at 5:00 p.m. on the Due Diligence Date, the Purchaser and the Vendor
+shall be released from all of their respective liabilities and obligations under this Agreement
+other than the Purchasers liabilities and obligations pursuant to Section 4.2.3,
+Section 4.3.3 and Section 4.5, and the Deposit shall be treated in accordance with the
+provisions of Section 3.6.3.
+
+4.3.3 In the event that the Purchaser does not
+waive or confirm the satisfaction of the Due Diligence Condition on or before the Due Diligence
+Date and if requested by the Vendor, the Purchaser agrees to promptly deliver to the Vendor
+copies of all inspections, studies, tests, surveys or other reports conducted by the Purchaser
+or prepared by the Purchasers mandataries, representatives, agents or consultants
+for the Purchasers due diligence with respect to the Purchased Assets. The provisions
+of this Section 4.3.3 shall not merge on Closing or earlier termination of this Agreement
+and shall remain in effect thereafter without limit.
+
+Section 4.4 Disclaimer
+
+4.4.1 Except as specifically provided for in Section 7.1,
+the Vendor and its agents make no representation or warranty of any nature whatsoever, as
+to the accuracy or completeness or exhaustiveness of any information or document supplied
+or made available to the Purchaser (or its mandataries, representatives, agents or consultants)
+with respect to the transaction contemplated hereunder through the data room or otherwise,
+as part of the Due Diligence Documents, in response to any information request made by the
+Purchaser during its due diligence, prior to or after the Acceptance Date or the Closing
+Date or otherwise. All third party reports delivered or made available to the Purchaser pursuant
+to this Agreement (collectively, the Reports) will be provided to the
+Purchaser on the basis that the Vendor is not making any representations or warranties as
+to the accuracy or completeness of such Reports, and the Vendor shall not have any liability
+for any errors or inaccuracies in the Reports. The Purchaser agrees that, notwithstanding
+said information or documentation or Reports so provided or made available, except as specifically
+provided for in Section 7.1 or in any Closing Document, the Purchaser is proceeding
+and relying solely on its own due diligence review and verification of all aspects of said
+transaction, including, without limitation, all issues concerning title, quality, legal description,
+value, state of repair, latent defects, physical condition, environmental condition, presence
+or absence of any and all Hazardous Substances in, on or under the Property or migrating
+therefrom or thereon, financial matters, leases, offers to lease, contracts, zoning, permitted
+uses, suitability for development, marketability, merchantability, fitness for purpose, governmental
+compliance, compliance with laws, by-laws or regulations, third party rights, threatened
+claims or litigation, or in respect of any other matter or thing whatsoever.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 18
+
+4.4.2 The Purchaser shall have the right to seek
+out and obtain reliance letters from the firms that prepared the Reports for the Vendor with
+respect to the Property permitting the Purchaser to rely on such reports at the Purchasers
+sole cost and expense. Upon request from the Purchaser, the Vendor shall assist Purchaser
+in the obtaining of such reliance letters, provided that the Vendor shall have no responsibility
+if the same cannot be obtained by the Purchaser.
+
+4.4.3 Notwithstanding the foregoing, the Vendor
+shall deliver to the Purchaser, no later than sixty (60) days following the Closing, a copy
+of all written reports documenting the Decommissioning Work and issued by consultants mandated
+by the Vendor to carry out such Decommissioning Work, together with a reliance letter in
+respect of each such report authorizing the Purchaser to rely thereon, in form and substance
+acceptable to the Purchaser, acting reasonably. This Section shall survive Closing.
+
+Section 4.5 Confidentiality
+
+4.5.1 Until Closing or in the event this Agreement
+is terminated pursuant to the terms hereof, the Purchaser and its Representatives shall keep
+in confidence all Confidential Information obtained from the Vendor or its Representatives
+with respect to the Purchased Assets in connection with the review by the Purchaser of the
+Purchased Assets. The Purchaser and its Representatives shall not use, directly or indirectly,
+the Confidential Information except for the purpose of evaluating the transaction contemplated
+herein and shall not disclose the Confidential Information to any Person, including any proposed
+joint venturer, partner or other equity co-investor, without the prior written consent of
+the Vendor.
+
+4.5.2 Nothing herein contained shall restrict
+or prohibit the Purchaser from disclosing the Confidential Information to its Representatives
+(a) who need to know the Confidential Information for the purposes of evaluating the
+transaction contemplated herein, (b) who are informed by the Purchaser of this Agreement
+and of the confidential nature of the Confidential Information and (c) who are directed
+by the Purchaser to treat the Confidential Information in a manner consistent with the terms
+of this Agreement. The Purchaser agrees to be responsible for any breach of the provisions
+of this Agreement by any of its Representatives and agrees to indemnify the Vendor for any
+such breach by the Purchasers Representatives.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 19
+
+4.5.3 The Purchaser shall also be entitled to
+(i) make inquiries of any Governmental Authority (without requesting any inspection of the
+Property), and (ii) discuss with potential lenders the possible financing of the Purchasers
+acquisition of the Property, provided such lenders are treated as Representatives hereunder,
+without offending this Section 4.5.
+
+4.5.4 In the event that the Purchaser or its Representatives
+should be required, by law or regulation or by legal process, to disclose any Confidential
+Information, it is agreed that the Purchaser shall provide the Vendor with prompt notice
+of any such request, so that the Vendor may seek an appropriate protective order or other
+remedy, or consult with the Purchaser with respect to taking steps to resist or narrow the
+scope of such request or legal process and/or waive the Purchasers compliance with
+the provisions of this Section 4.5. The Purchaser shall cooperate with the Vendor to
+obtain any such order or remedy. It is further agreed that if, in the absence of a protective
+order or the receipt of a waiver hereunder, the Purchaser is nonetheless, in the opinion
+of outside counsel, compelled to disclose Confidential Information, or else face liability
+for contempt or suffer other penalty, the Purchaser or its Representatives may disclose only
+that portion of the Confidential Information which the Purchaser is advised, by opinion of
+its outside counsel, is legally required, provided however that the Purchaser gives the Vendor
+advance written notice of the Confidential Information to be disclosed as far in advance
+of its disclosure as is practical and, at the Vendors request, seek to obtain assurances
+that it will be granted confidential treatment.
+
+4.5.5 Unless and until Closing has occurred, the
+Vendor and the Purchaser shall keep confidential, and shall use commercially reasonable efforts
+to ensure that its Representatives keep confidential, this Agreement, except (i) to the extent
+reasonably required by each Party to comply with its obligations or enforce its rights under
+this Agreement, (ii) as required by law, rule or regulation (including SEC regulations),
+or (iii) in the case of the Purchaser, for disclosure of the existence of this Agreement
+(but not its specific terms in condition) necessary in connection with its due diligence
+process or in connection with any discussions with Governmental Authorities in respect of
+the transaction contemplated hereby or the Purchasers proposed development project
+on the Property.
+
+4.5.6 For the purposes of this Section 4.5,
+Confidential Information includes, without limitation (i) information
+relating to the Vendor or any of its Affiliates in written form, magnetically encoded, electronic
+files, transmitted verbally, through a virtual data room or in any other form or media and
+regardless of the manner in which it is provided, which is in possession or under the control
+of the Vendor or its Representatives; it includes, without limitation, all Notes, (ii) the
+existence of this Agreement or its contents, or the fact that Confidential Information has
+been made available to the Purchaser or its Representatives; and (iii) any information concerning
+the transaction contemplated in this Agreement, or its terms and conditions or other facts
+related thereto, including without limitation, the fact that discussions or negotiations
+are taking place with respect thereto or the status thereof. Notes means
+all summaries, reports, analyses, compilations, memoranda, notes, extracts, studies or other
+writings or documents prepared by the Purchaser or its Representatives or on its behalf or
+on behalf of any of its Representatives to the extent they contain, reflect or are based
+upon or derived from the Confidential Information.
+
+4.5.7 Representatives means,
+with respect to a Party, such Partys Affiliates and their respective its directors,
+officers, employees, shareholders, agents, advisors, partners, professional consultants,
+potential lenders and financial and legal advisors retained for the purpose of the transaction
+contemplated hereunder.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 20
+
+4.5.8 The Confidential Information referred to
+in this Section 4.5 shall not include:
+
+(a) public information or information in the
+public domain at the time of receipt by the Purchaser or its Representatives;
+
+(b) information which becomes public through
+no fault or act of the Purchaser or its Representatives; and
+
+(c) as evidenced by written records, information
+in the possession of the Purchaser not provided solely by the Vendor or its Representatives
+from a source which is not bound by a confidentiality agreement or undertaking with the Vendor
+and not otherwise prohibited by contractual, legal or fiduciary obligation from transmitting
+the Confidential Information to the Purchaser.
+
+4.5.9 Upon termination of this Agreement, (i)
+the Purchaser shall promptly deliver to the Vendor the Confidential Information other than
+the Notes, (ii) the Purchaser shall promptly destroy the Notes in a manner satisfactory to
+the Vendor and certify such destruction in writing and (iii) the Purchaser and its Representatives
+will immediately cease using access to any virtual data room set up by, or on behalf of,
+the Vendor, as the case may be. Any Confidential Information that cannot be returned or destroyed
+(including without limitation any oral Confidential Information) shall remain subject to
+this Agreement.
+
+4.5.10 The Purchaser acknowledges that the Vendor
+may be irreparably harmed if any provision of this Section 4.5 is breached by the Purchaser
+or its Representatives, that monetary damages would not be a sufficient remedy for any such
+breach, and that in addition to all other remedies, the Vendor shall be entitled to seek
+specific performance and injunctive or other equitable relief as a remedy for any such breach.
+The Purchaser further agrees to waive, and to cause its Representatives to waive, any requirement
+for the securing or posting of any bond in connection with such remedy.
+
+Section 4.6 Announcements
+
+4.6.1 Both before and after the Acceptance Date
+and the Closing Date, neither the Vendor nor the Purchaser shall issue any press release
+or other public announcement or release information with respect to this Agreement to the
+press or the public unless the same has been mutually approved by the Vendor and the Purchaser,
+each acting reasonably, or such disclosure is in the good faith opinion of the Purchaser
+or the Vendor, as the case may be, required in order to comply with any Applicable Laws or
+the rules, orders or regulations of any stock exchange.
+
+Article 5
+
+Conditions Precedent
+
+Section 5.1 Conditions for
+Vendor
+
+5.1.1 The obligation of the Vendor to complete
+the agreement of purchase and sale constituted on the execution and delivery of this Agreement
+shall be subject to the following conditions:
+
+(a) Truth of Representation and Warranties.
+On Closing, the representations and warranties of the Purchaser set out in Section 7.2
+shall be true and correct in all respects as of the date of this Agreement and shall be true
+and correct in all material respects as of the Closing Date with the same force and effect
+as if such representations and warranties had been made on and as of such date (except that
+representations and warranties that are expressly made only as a specific date or as of the
+date hereof in each case need be true and correct only as of such date);
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 21
+
+(b) Performance of Covenants. On Closing,
+the Purchaser shall have fulfilled or performed at the times contemplated herein or complied
+in all material respects with all covenants contained in this Agreement to be fulfilled or
+complied with by it at or prior to Closing, including, without limitation, the payment of
+the Purchase Price in accordance with the provisions of Section 3.1 by no later than
+December 30, 2024 (or earlier if Closing occurs before such date); and
+
+(c) No Orders Delaying Closing. On
+Closing, there shall be no order issued delaying, restricting or preventing, and no pending
+or threatened Claim or judicial or administrative proceeding, or investigation against any
+party by any Person, for the purpose of enjoining, delaying, restricting or preventing, the
+consummation of the transactions contemplated herein or otherwise claiming that this Agreement
+or the consummation of the transactions contemplated herein is improper or would give rise
+to proceedings under any Applicable Laws.
+
+5.1.2 The conditions set forth in this Section 5.1
+are for the sole benefit of the Vendor and may be waived in whole or in part by the Vendor
+by notice to the Purchaser on or before the applicable date referred to above, without prejudice
+to its right to terminate this Agreement in the event of the non-satisfaction of any other
+condition or conditions not so waived.
+
+Section 5.2 Conditions for
+Purchaser
+
+5.2.1 The obligation of the Purchaser to complete
+the agreement of purchase and sale constituted on the execution and delivery of this Agreement
+shall be subject to the following conditions:
+
+(a) Truth of Representation and Warranties.
+On Closing, the representations and warranties of the Vendor set out in Section 7.1
+shall be true and correct in all respects as of the date of this Agreement and shall be true
+and correct in all material respects as of the Closing Date with the same force and effect
+as if such representations and warranties had been made on and as of such date (except that
+representations and warranties that are expressly made only as a specific date or as of the
+date hereof in each case need be true and correct only as of such date);
+
+(b) Performance of Covenants. On Closing,
+the Vendor shall have fulfilled or performed at the times contemplated herein or complied
+in all material respects with all covenants contained in this Agreement to be fulfilled or
+complied with by it at or prior to Closing;
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 22
+
+(c) Due Diligence Condition. On the Due Diligence Date, the Due Diligence Condition shall have been
+satisfied or waived in accordance with Section 4.3 and all conditions of Section 4.3 shall have been met;
+
+(d) No Orders Delaying Closing. On Closing, there shall be no order issued delaying, restricting or
+preventing, and no pending or threatened Claim or judicial or administrative proceeding, or investigation against any party by any Person,
+for the purpose of enjoining, delaying, restricting or preventing, the consummation of the transactions contemplated herein or otherwise
+claiming that this Agreement or the consummation of the transactions contemplated herein is improper or would give rise to proceedings
+under any Applicable Laws;
+
+(e) Encumbrances. On Closing, there shall have been no Encumbrances published against the Property
+between the Acceptance Date and the Closing Date, other than Permitted Encumbrances; and
+
+(f) Excluded Equipment and Decommissioning Work. All the Excluded Equipment shall have been removed
+from the Property and all Decommissioning Work shall have been fully completed on or prior to Closing.
+
+5.2.2 The conditions set forth in this Section 5.2 are for the sole benefit of the Purchaser and may be
+waived in whole or in part by the Purchaser by notice to the Vendor on or before the applicable date referred to above, without prejudice
+to its right to terminate this Agreement in the event of the non-satisfaction of any other condition or conditions not so waived.
+
+Section 5.3 Non-Satisfaction
+of Conditions
+
+5.3.1 If any of the conditions set out in Section 5.1, are not satisfied or waived on or before the Closing
+Date, as such Closing Date may be extended pursuant to the provisions of this Agreement, the Vendor may by written notice to the
+Purchaser elect one of the following:
+
+(a) to extend the Closing Date as to such specific matters and for a period not to exceed thirty (30) days
+to satisfy itself with respect to the above conditions, and, if not obtained prior to the expiration of such thirty (30) day extension,
+to elect whether (b) or (c) below applies;
+
+(b) to waive such conditions and to close the transaction in accordance with the terms of this Agreement on
+the extended Closing Date; or
+
+(c) to terminate this Agreement by notice in writing to the Purchaser given on or before the applicable date
+for such condition, in which event this Agreement shall terminate, the Purchaser and the Vendor shall be released from all of their respective
+liabilities and obligations under this Agreement other than the Purchasers liabilities and obligations pursuant to Section 4.2.3,
+Section 4.3.3 and Section 4.5 and the Deposit shall be treated in accordance with the provisions of Section 3.6.3.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 23
+
+5.3.2 If any of the conditions set out in Section 5.2, except for the conditions set out in Section 5.2.1(c),
+are not satisfied or waived on or before the Closing Date, as such Closing Date may be extended pursuant to the provisions of this Agreement,
+the Purchaser may by written notice to the Vendor elect one of the following:
+
+(a) to extend the Closing Date as to such specific matters and for a period not to exceed thirty (30) days
+to satisfy itself with respect to the above conditions, and, if not obtained prior to the expiration of such thirty (30) day extension,
+to elect whether (b) or (c) below applies;
+
+(b) to waive such conditions and to close the transaction in accordance with the terms of this Agreement on
+the extended Closing Date; or
+
+(c) to terminate this Agreement by notice in writing to the Vendor given on or before the Closing Date, in
+which event this Agreement shall terminate, the Purchaser and the Vendor shall be released from all of their respective liabilities and
+obligations under this Agreement other than the Purchasers liabilities and obligations pursuant to Section 4.2.3, Section
+4.3.3 and Section 4.5 and the Deposit shall be treated in accordance with the provisions of Section 3.6.3.
+
+Section 5.4 Reasonable and
+Diligent Efforts to Satisfy Conditions
+
+5.4.1 Each Party agrees to proceed in good faith and with promptness and reasonable diligence to attempt to
+satisfy those conditions contained in Section 5.1 and Section 5.2 that are within its control, acting reasonably, provided that
+the Purchaser may in its sole and unfettered discretion elect not to satisfy the conditions set out in Section 5.2.1(c).
+
+5.4.2 The Purchaser and the Vendor shall proceed with diligence to settle all Closing Documents at least five
+(5) Business Days prior to the Closing Date.
+
+Article 6
+
+Closing Documents
+
+Section 6.1 Vendors
+Closing Documents
+
+6.1.1 On or before Closing, subject to the provisions of this Agreement, the Vendor shall execute or cause to
+be executed and shall deliver or cause to be delivered to the Purchasers Solicitors the following:
+
+(a) a certificate of the corporate secretary or other officer of the Vendor enclosing a certified copy of
+a resolution of the necessary governing authorities of the Vendor attesting to the due authorization of the transaction contemplated in
+this Agreement;
+
+(b) a deed of sale for the Property by the Vendor to the Purchaser conveying the Vendors rights, title
+and interest therein, in the form attached hereto as Error! Reference source not found. and in registrable form at the Purchasers
+sole cost and expense (the Deed of Sale);
+
+(c) the Books and Records;
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 24
+
+(d) a Bill of Sale from the Vendor to the Purchaser or as the Purchaser may direct, in each case conveying
+such interest in the Movables as the Vendor may possess but without warranty;
+
+(e) the Assignment of Warranties and copies of Warranties (to the extent the same is in the possession or
+control of the Vendor);
+
+(f) an acknowledgement of Adjustments made at Closing, attaching the statement of adjustments contemplated
+by the provisions of Section 3.4 together with an undertaking by the Vendor to readjust the Post-Closing Adjustments as provided
+in Section 3.3;
+
+(g) a certificate of the Vendor certifying that the representations and warranties of the Vendor in Section 7.1
+are, subject to Section 7.5, true and correct in all material respects as of the Closing Date;
+
+(h) originals (where available) or copies of all Contracts (where the same is in the possession or control
+of the Vendor) for the Property;
+
+(i) a certificate from the Vendor setting out that the Vendor is not a non-resident of Canada
+within the meaning and purpose of Section 116 of the Tax Act;
+
+(j) all master keys and duplicate keys relating to the Buildings, all security cards and access cards relating
+to the Buildings, and all combinations to vaults and combination locks located in the Buildings;
+
+(k) copies of the Plans, to the extent the same are in the possession or control of the Vendor;
+
+(l) a joint instruction to the Escrow Agent with respect to the disbursement of the Closing Escrow Funds as
+required pursuant to the Escrow Agreement;
+
+(m) the Assignment and Assumption of Permitted Encumbrances; and
+
+(n) all other conveyances and other documents which the Purchaser has reasonably requested and the Vendor
+has agreed, acting reasonably, to give on or before the Closing Date to give effect to the proper transfer, assignment and conveyance
+of the Purchased Assets by the Vendor to the Purchaser.
+
+Section 6.2 Purchasers
+Closing Documents
+
+6.2.1 On or before the Closing Date, subject to the terms and conditions of this Agreement, the Purchaser shall
+execute or cause to be executed and shall deliver or cause to be delivered to the Escrow Agent the following:
+
+(a) the Balance and the Holdback Amount;
+
+(b) a certified copy of a resolution of the necessary governing authorities of the Purchaser attesting to
+the due authorization of the transaction contemplated in this Agreement;
+
+(c) the Deed of Sale;
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 25
+
+(d) a Bill of Sale from the Vendor to the Purchaser or as the Purchaser may direct, in each case conveying
+such interest in the Movables as the Vendor may possess but without warranty;
+
+(e) the Assignment of Warranties;
+
+(f) an acknowledgement of Adjustments made at Closing, attaching the statement of adjustments contemplated
+by the provisions of Section 3.4 together with an undertaking by the Purchaser to readjust the Post-Closing Adjustments as provided
+in Section 3.3;
+
+(g) a certificate of the Purchaser certifying that the representations and warranties of the Purchaser in
+Section 7.2 are true and correct in all material respects as of the Closing Date;
+
+(h) a joint instruction to the Escrow Agent with respect to the disbursement of the Closing Escrow Funds as
+required pursuant to the Escrow Agreement;
+
+(i) the GST/QST Certificate and Indemnity;
+
+(j) the Assignment and Assumption of Permitted Encumbrances; and
+
+(k) all other documents which are required and which the Vendor or the Escrow Agent has reasonably requested
+and the Purchaser has agreed, acting reasonably, to give on or before the Closing Date to give effect to this transaction.
+
+Section 6.3 Transfer Taxes
+
+6.3.1 The Purchaser shall pay all applicable GST, QST, mutation taxes, sales taxes, registration fees or other
+like charges properly payable on or in connection with the conveyance, transfer and purchase and sale of the Purchased Assets hereunder
+(collectively, the Transfer Taxes) as and when such Transfer Taxes are payable pursuant to the applicable taxing
+legislation. The Purchaser and the Vendor acknowledge and agree that the Purchase Price and all other amounts referenced herein are exclusive
+of all Transfer Taxes.
+
+6.3.2 The Purchaser shall be responsible to pay the GST and the QST that are exigible with respect to the purchase
+and sale transaction contemplated by this Agreement. Provided that the Purchaser delivers to the Vendor the certificate and indemnity
+substantially in the form attached hereto as Schedule E (the GST/QST Certificate and Indemnity) together with proof
+of its GST and QST registration numbers on or before the Closing Date, the Vendor shall not charge and collect and the Purchaser shall
+not be obliged to pay to the Vendor any GST and QST applicable to the purchase and sale of the Property at Closing, but will remain exclusively
+liable for the said payment. The Purchaser hereby undertakes to self-assess and, if required, remit to the appropriate governmental authority
+the GST or QST related to the Property. For the avoidance of doubt, the Purchaser shall be obligated to pay to the Vendor GST and QST
+in respect of any portion of the Purchase Price allocated to the Purchased Assets other than the Property at Closing.
+
+6.3.3 The Purchaser shall indemnify the Vendor for any Transfer Taxes, penalties, interest and/or other costs
+which may become payable by or be assessed against the Vendor or any and all Claims incurred, suffered or sustained by the Vendor in connection
+with Transfer Taxes payable on or in connection with the conveyance, transfer and purchase and sale of the Property.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 26
+
+Section 6.4 Registration and
+Other Costs
+
+6.4.1 The Vendor and the Purchaser shall each be responsible for the costs of their own solicitors in respect
+of the transactions contemplated in this Agreement. The Purchaser shall be responsible for and pay, in addition to the Purchase Price,
+the fees of the executing notary, where applicable, all registration fees payable in respect of registration of any documents on or after
+Closing.
+
+Section 6.5 Documents
+
+6.5.1 All documents to be delivered by the Parties hereunder shall be in form and substance satisfactory to
+the Parties and their respective solicitors, in each case acting reasonably, provided that none of such documents shall contain covenants,
+representations or warranties which are in addition to or more onerous upon the Vendor or the Purchaser than those expressly set forth
+in this Agreement, or which are inconsistent or in conflict with Article 7.
+
+Article 7
+
+Representations, Warranties and Covenants
+
+Section 7.1 Vendors
+Representations
+
+7.1.1 The Vendor hereby represents and warrants to and in favour of the Purchaser that, as of the Acceptance
+Date:
+
+(a) Incorporation, Power and Capacity of Vendor. The Vendor is a corporation duly existing under the
+laws of its formation and has the necessary corporate authority, power and capacity to own the Purchased Assets which it owns and to enter
+into this Agreement and the documents and transactions contemplated herein and to carry out the agreement of purchase and sale constituted
+on the execution and delivery of this Agreement and the documents and transactions contemplated herein on the terms and conditions herein
+contained;
+
+(b) Corporate Authorization. The execution and delivery of, and the performance by the Vendor of, this
+Agreement and the Closing Documents to which it is a party and the completion of the transaction contemplated by this Agreement has been
+or, in the case of the Closing Documents, will be at Closing, duly authorized by all necessary corporate action on the part of the Vendor
+and constitute or, in the case of the Closing Documents, will constitute legal, valid and binding obligations of the Vendor enforceable
+against it in accordance with their respective terms subject to (A) bankruptcy, insolvency, moratorium, reorganization and other laws
+relating to or affecting the enforcement of creditors rights generally, and (B) the fact that equitable remedies, including
+the remedies of specific performance and injunction, may only be granted in the discretion of a court;
+
+(c) Non-Resident Status. The Vendor is not a non-resident of Canada within the meaning of Section 116
+of the Income Tax Act (Canada) and Section 1102.1 of the Taxation Act (Quebec), or, as applicable, is a Canadian
+Partnership within the meaning of the said Acts, and the Vendor will receive the Purchase Price on Closing on its own account and
+not as agent, trustee, nominee or mandatary for any other Person;
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 27
+
+(d) No Conflict. The execution and delivery of and performance by the Vendor of this Agreement and
+the Closing Documents to which it is a party will not (with or without notice or lapse of time):
+
+(i) constitute or result in a violation or breach of, or conflict with, any of the terms or provisions of
+the constating documents or by-laws of the Vendor; or
+
+(ii) result in the violation of any Applicable Laws;
+
+(e) Bankruptcy, The Vendor (a) is not an insolvent person within the meaning of the Bankruptcy and
+Insolvency Act (Canada) or the Winding-up and Restructuring Act (Canada), (b) has not made an assignment in favor of its creditors
+or a proposal in bankruptcy to its creditors or any class thereof, (c) has not had any petition for a receiving order presented in respect
+of it, and (d) has not initiated proceedings with respect to a compromise or arrangement with its creditors or for its winding up, liquidation
+or dissolution;
+
+(f) No Nominee. The Vendor holds its rights, title and interest in and to the Purchased Assets for
+its own account, and not as mandatary, nominee, prte-nom, agent or registered title holder for any Person;
+
+(g) Required Authorizations of Governmental Authorities. There is no requirement to make any filing
+with, give any notice to, or obtain any Permit, authorization, consent or permit of, any Governmental Authority as a condition to the
+lawful completion of the transactions contemplated by this Agreement and the Closing Documents;
+
+(h) Tax Appeals. There are no realty tax appeals or reassessments pending with respect to the Property,
+or any portion thereof;
+
+(i) Employees. There are no employees employed by the Vendor who will become the responsibility of
+the Purchaser on or as a result of the Closing, or for whom Purchaser will incur any liabilities whatsoever, on or as a result of the
+Closing;
+
+(j) Permits. There are no Permits issued in the name of the Vendor relating to the operation of the
+Property which remain in effect.
+
+(k) No Options, etc. to Purchased Assets. Except for the Purchaser under this Agreement, no Person
+has any written or oral agreement, present or future, contingent or absolute, option, understanding or commitment, or any right (including
+a right of first refusal or other purchase right) or privilege capable of becoming such for the purchase or other acquisition of any of
+the Purchased Assets;
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 28
+
+(l) GST and QST. The Vendor is or shall be, at Closing, validly registered under Subdivision d of Division
+V of Part IX of the Excise Tax Act (Canada) for the purposes of GST and under Division I of Chapter VIII of Title I of the Act
+respecting the Quebec Sales Tax for the purposes of QST;
+
+(m) No Rights of Occupancy. There are no leases, licenses, agreements or options to lease or other
+tenancy agreements with respect to the Property which are currently in effect, and at Closing there will be no leases, licenses, agreements
+or options to lease or other tenancy agreements with respect to the Property which are in effect;
+
+(n) No Notice of Expropriation. No part of the Property has been expropriated by any Governmental Authority
+and the Vendor has not received any written notice or proceeding in respect of any expropriation of the Property or any part thereof;
+
+(o) No Notice of Non-Compliance. No written notice has been received by the Vendor which remains outstanding
+from any governmental or quasi-governmental authority advising of any defects in the construction of any building on the Property or any
+installations therein, or relating to any work order, deficiency or non-compliance with any building restrictions, zoning by-laws, fire
+codes, environmental legislation, other regulations or applicable laws in respect of the Property;
+
+(p) No Legal Hypothec. As at Closing, no Person will have a right to claim or file a construction,
+builders, mechanics or similar lien against the Purchased Assets or to register or publish a legal hypothec against the Property or any
+part thereof under the Civil Code of Quebec (the Vendor nevertheless acknowledging that if any such lien is claimed or filed, the Vendor
+shall be responsible at its sole expense for removing or vacating same). Any amount owed to any Person involved in the Decommissioning
+Work that has been invoiced to the Vendor has been fully paid by the Vendor.
+
+(q) Real Estate Taxes. All real property taxes due and owing to date with respect to the Property have
+been paid in full without subrogation;
+
+(r) No Litigation. There is no litigation or proceeding, including appeals and applications for review,
+in progress, against or relating to it, or affecting the Purchased Assets before any domestic court, governmental department, commission,
+board, bureau or agency, or arbitration panel, and there is not presently outstanding against it or the Purchased Assets any judgement,
+decree, injunction, rule or order of any court, governmental department, commission, agency or arbitrator which adversely affects the
+Purchased Assets. Any litigation or proceeding involving the Vendor and 9510-8528 Qubec Inc. and/or 9506-6213 Qubec Inc.
+which has not been settled by such parties does not affect the Purchased Assets in any manner;
+
+(s) Environmental Reports. The Vendor has or will have provided the Purchaser with all environmental
+audits and reports with respect to the Property in its possession or control and the Vendor has not received written notice of any Claims
+or any administrative or judicial judgments, orders or decrees that relate to violations of Environmental Laws with respect to the Property
+or any part thereof or to the release, discharge, emission or disposal of Hazardous Substances on, to, from or under the Property;
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 29
+
+(t) Certificate of Location. Since the acquisition of the Property by the Vendor on October 29, 2021,
+no new improvements have been made by the Vendor on the Lands and no external alterations or additions to the Buildings have been made
+by the Vendor, that would have been reflected in an up-to-date certificate of location prepared and issued by a land surveyor duly licensed
+in the Province of Qubec.
+
+(u) Mutation Duties. Since March 16, 2016, there has been no transfer of any beneficial rights of ownership
+in and to the Property by the Vendor, by way of an off-title transfer or otherwise for which both (a) a disclosure notice has not been
+delivered to the appropriate municipality and (b) transfer duties (mutation taxes) have not been paid;
+
+(v) OFAC. The Vendor and Alexandria Real Estate Equities, Inc. are currently (a) in compliance with
+and shall at all times during the term of this Agreement remain in compliance with the regulations of the OFAC and the OFAC Rules, (b)
+not listed on, and shall not during the term of this Agreement be listed on, the Specially Designated Nationals and Blocked Persons List,
+Foreign Sanctions Evaders List or the Sectoral Sanctions Identifications List, which are all maintained by OFAC and/or on any other similar
+list maintained by OFAC or other governmental authority pursuant to any authorizing statute, executive order, or regulation, and (c) not
+a person or entity with whom a U.S. person is prohibited from conducting business under the OFAC Rules; and
+
+(w) AML Legislation. The Vendor is not in violation of any AML Legislation, is neither a Listed Designated
+Person nor is acting, directly or indirectly, on behalf of terrorists, terrorist organizations, narcotics traffickers or Listed Designated
+Persons, and the monies used in connection with this Agreement and amounts committed with respect thereto, were not and are not derived
+from any activities that contravene any applicable AML Legislation.
+
+(x) No Commissions. Except as otherwise provided in this Agreement, the Vendor has not incurred any
+liability to any real estate agent for fees and commissions in respect of the sale of the Purchased Assets to the Purchaser.
+
+7.1.2 In the event that any of the above representations and warranties ceases to be true and correct, the Vendor
+agrees to advise the Purchaser forthwith. The foregoing representations and warranties are for the sole benefit of the Purchaser and may
+be waived by the Purchaser at any time in whole or in part.
+
+7.1.3 For the foregoing purposes of this Section 7.1, to the best of the Vendors knowledge
+and belief or similar words means the actual knowledge of the following Representative of the Vendor: Eddie Rose.
+
+7.1.4 All of the representations and warranties set out in this Section 7.1 are made solely as of the Acceptance
+Date and not as of any other date. The representations and warranties set out in this Section 7.1 shall be repeated as at the Closing
+Date, to be true and correct in all material respects as of such Closing Date, in the bring down certificates referred to in Section 6.1.1(g)
+(unless this Agreement is earlier terminated pursuant to the terms and conditions hereof).
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 30
+
+Section 7.2 Purchasers
+Representations
+
+7.2.1 The Purchaser hereby represents and warrants to and in favour of the Vendor that, as of the Acceptance
+Date:
+
+(a) Formation, Power and Capacity of Purchaser. The Purchaser is a limited partnership duly existing
+under the laws of its formation and the General Partner, its sole general partner, has the necessary corporate authority, power and capacity
+to purchase and own the Purchased Assets for and on behalf of the Purchaser to be sold to it and to enter into this Agreement and the
+documents and transactions contemplated herein and to carry out the agreement of purchase and sale constituted on the execution and delivery
+of this Agreement and the documents and transactions contemplated herein on the terms and conditions herein contained;
+
+(b) Corporate Authorization. The execution and delivery of, and the performance by the General Partner
+on behalf of the Purchaser of, this Agreement and the Closing Documents to which it is a party and the completion of the transaction contemplated
+by this Agreement has been or, in the case of the Closing Documents, will be at Closing, duly authorized by all necessary corporate action
+on the part of the General Partner on behalf of the Purchaser and constitute or, in the case of the Closing Documents, will constitute
+legal, valid and binding obligations of the Purchaser enforceable against it in accordance with their respective terms subject to (A)
+bankruptcy, insolvency, moratorium, reorganization and other laws relating to or affecting the enforcement of creditors rights
+generally, and (B) the fact that equitable remedies, including the remedies of specific performance and injunction, may only be granted
+in the discretion of a court;
+
+(c) No Conflict. The execution and delivery of and performance by the General Partner on behalf of
+the Purchaser of this Agreement and the Closing Documents to which it is a party will not (with or without notice or lapse of time):
+
+(i) constitute or result in a violation or breach of, or conflict with, any of the terms or provisions of
+the constating documents or by-laws of the Purchaser or the General Partner, as applicable;
+
+(ii) result in the violation of any Applicable Laws;
+
+(d) Bankruptcy, The Purchaser (a) is not an insolvent person within the meaning of the Bankruptcy
+and Insolvency Act (Canada) or the Winding-up and Restructuring Act (Canada), (b) has not made an assignment in favor of its
+creditors or a proposal in bankruptcy to its creditors or any class thereof, (c) has not had any petition for a receiving order presented
+in respect of it, and (d) has not initiated proceedings with respect to a compromise or arrangement with its creditors or for its winding
+up, liquidation or dissolution;
+
+(e) Required Authorizations of Governmental Authorities. There is no requirement to make any filing
+with, give any notice to, or obtain any authorization, consent or permit of, any Governmental Authority as a condition to the lawful completion
+of the transactions contemplated by this Agreement and the Closing Documents;
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 31
+
+(f) GST and QST. The Purchaser shall be, at Closing, validly registered under Subdivision d of Division
+V of Part IX of the Excise Tax Act (Canada) for the purposes of GST and under Division I of Chapter VIII of Title I of the Act
+respecting the Quebec Sales Tax for the purposes of QST;
+
+(g) Residency. The Purchaser is a WTO Investor and is not a state-owned enterprise, in
+each case within the meaning of the Investment Canada Act (Canada);
+
+(h) OFAC. The Purchaser and all beneficial owners of the Purchaser are currently (a) in compliance
+with and shall at all times during the term of this Agreement remain in compliance with the regulations of the Office of Foreign Assets
+Control (OFAC) of the U.S. Department of Treasury and any statute, executive order, or regulation relating thereto
+(collectively, the OFAC Rules), (b) not listed on, and shall not during the term of this Agreement be listed on,
+the Specially Designated Nationals and Blocked Persons List, Foreign Sanctions Evaders List or the Sectoral Sanctions Identifications
+List, which are all maintained by OFAC and/or on any other similar list maintained by OFAC or other governmental authority pursuant to
+any authorizing statute, executive order, or regulation, and (c) not a person or entity with whom a U.S. person is prohibited from conducting
+business under the OFAC Rules;
+
+(i) No Commissions. Except as otherwise provided in this Agreement, the Purchaser has not incurred
+any liability to any real estate agent for fees and commissions in respect of the sale of the Purchased Assets to the Purchaser;
+
+(j) AML Legislation. The Purchaser is not in violation of any AML Legislation, is neither a Listed
+Designated Person nor is acting, directly or indirectly, on behalf of terrorists, terrorist organizations, narcotics traffickers or Listed
+Designated Persons, and the monies used in connection with this Agreement and amounts committed with respect thereto, were not and are
+not derived from any activities that contravene any applicable AML Legislation; and
+
+(k) Financial Resources. The Purchaser has the requisite financial resources to complete the Transaction
+and pay the Purchase Price, the Purchaser declaring and accepting that the Transaction is in no way subject to financing.
+
+7.2.2 The foregoing representations and warranties are for the sole benefit of the Vendor and may be waived
+by the Vendor at any time in whole or in part.
+
+7.2.3 All of the representations and warranties set out in this Section 7.2 are made solely as of the Acceptance
+Date and not as of any other date. The representations and warranties set out in this Section 7.2 shall be repeated as at the Closing
+Date, to be true and correct in all respects as of such Closing Date, in the bring down certificates referred to in Section 6.2.1(g)
+(unless this Agreement is earlier terminated pursuant to the terms and conditions hereof).
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 32
+
+Section 7.3 Survival of Representations
+
+7.3.1 The representations and warranties of the Vendor and the Purchaser contained in this Agreement or contained
+in any document or certificate given pursuant hereto shall survive the Closing of the transaction herein contemplated and shall continue
+in full force and effect for the benefit of the respective Parties for twelve (12) months from the day of Closing (Release Date),
+following which date none of the Parties may bring an action or commence any claim for a breach of such representations or warranties;
+provided, however, that: there shall be no termination of any representation or warranty with respect to which a bona fide claim has been
+asserted if the Party making the said claim has notified in writing the other Party hereto of such claim in reasonable detail on or prior
+to the Release Date.
+
+7.3.2 Until the Release Date, and, if applicable, payment or disposition in a final non-appealable judgment
+by a court of competent jurisdiction of all Claims made by the Purchaser under this Agreement, the Vendor shall remain in existence and
+in good standing in its jurisdiction of incorporation, and shall maintain a liquid net worth in an amount equal to or greater than the
+Cap (the Existence and Net Worth Covenant). The Vendor shall provide reasonable evidence of its satisfaction of the
+Existence and Net Worth Covenant within fifteen (15) days after written request therefor from the Purchaser at any time prior to the Release
+Date (provided the Vendor shall not be required to deliver such evidence more than one (1) time). This Section 7.3.2 shall survive Closing.
+
+Section 7.4 As is, Where is
+
+7.4.1 The Purchaser acknowledges that, except as expressly set forth in this Agreement, there are no agreements,
+representations, promises, warranties, guarantees or conditions of any kind whatsoever, statutory or otherwise, express or implied, with
+respect to the Purchased Assets, including, without limiting the generality of the foregoing, any representations, warranties or conditions,
+either express or implied, as to title, quality, legal description, value, state of repair, latent defects, physical condition, environmental
+condition, presence or absence of any and all Hazardous Substances in, on or under the Property or migrating therefrom or thereon, financial
+matters, leases, offers to lease, contracts, zoning, permitted uses, suitability for development, marketability, merchantability, fitness
+for purpose, governmental compliance, compliance with laws, by-laws or regulations, third party rights, threatened claims or litigation,
+or in respect of any other matter or thing whatsoever, and the Vendor specifically negates and disclaims the same. The Purchaser further
+acknowledges that it is executing this Agreement on the basis that, as purchaser, it has relied and will continue to rely entirely and
+solely on:
+
+(a) the representations and warranties of the Vendor set out in Section 7.1; and
+
+(b) its own inspections and investigations of the Purchased Assets.
+
+7.4.2 In accordance with and subject to the foregoing and for greater certainty, the Purchaser agrees that the
+Purchased Assets will be sold by the Vendor at Closing, but after the Purchaser has conducted its due diligence, without legal or conventional
+warranty of quality or ownership on an as is, where is basis, at the Purchasers risk and peril, and that the Vendor
+is not a professional seller within the meaning of the Civil Code of Qubec.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 33
+
+Section 7.5 Disclosure of Information
+
+7.5.1 If the Vendor or the Purchaser has actual knowledge or information prior to Closing of matters then existing
+which, in the opinion of the Vendor or the Purchaser, as the case may be, acting reasonably, materially affects the accuracy of the representations
+and warranties of the Vendor or the contents of any certificates of the Vendor to be delivered pursuant to the terms hereof, then the
+Vendor or the Purchaser, as the case may be, shall immediately communicate such information to the other(s) by way of a notice specifically
+referring to the representation and warranty or certificate. If the Vendor delivers or the Purchaser delivers such notice regarding such
+knowledge or information on or prior to the Due Diligence Date and the Purchaser nonetheless delivers a notice to the effect that its
+Due Diligence Condition has been satisfied or waived, subject to the other terms and conditions of this Agreement, the transaction herein
+contemplated shall be completed, provided that the certificate of the Vendor to be delivered pursuant to Section 6.1.1(g) shall reflect
+such knowledge or information and the Purchaser shall be deemed to have waived any and all Claims for damages or Breach relating to any
+such inaccuracy in any such representation and warranty.
+
+7.5.2 If the Purchaser elects to deliver a notice to the effect that its Due Diligence Condition has been satisfied
+or waived, then the Purchaser shall be deemed to have accepted for all purposes all matters which have been disclosed to the Purchaser
+prior to the Due Diligence Date and if any representation or warranty of the Vendor is incorrect or inaccurate but the instrument, circumstance,
+action, omission, matter or issue which causes such representation or warranty to be incorrect or inaccurate has been disclosed to the
+Purchaser (in the Due Diligence Documents, through the data room or by email) by the Vendor or its representatives prior to the Due Diligence
+Date, then such representation and warranty and the certificate of the Vendor to be delivered pursuant to Section 6.1.1(g) shall
+be deemed to have been qualified by reference to such instrument, circumstance, matter or issue.
+
+7.5.3 If the Vendor delivers or the Purchaser delivers the notice referred to in Section 7.5.1 after the
+Due Diligence Date and before Closing, or if the Purchaser obtains such knowledge or information on or after the Due Diligence Date and
+before Closing and if the information revealed by such knowledge or information is such that the closing condition set out in Section 5.2.1(a)
+would not be met, the Purchaser shall provide notice to the Vendor forthwith upon receiving such notice or obtaining such knowledge or
+information as to whether it wishes to complete the transaction notwithstanding such knowledge or information.
+
+(a) If the Purchaser advises in its notice that it wishes to complete the transaction, then, subject to the
+other terms and conditions of this Agreement, the transaction shall be completed without prejudice to the Purchasers rights in
+law or in equity, provided that the certificate of the Vendor to be delivered pursuant to Section 6.1.1(g) shall reflect such knowledge
+or information.
+
+(b) If the Purchaser advises in its notice that it does not wish to complete the transaction, the Vendor shall
+have, at its option, by notice to the Purchaser to be given within two (2) Business Days after receipt of the notice from the Purchaser
+referred to above, an additional fifteen (15) days to take whatever steps are necessary to satisfy the Purchaser in respect of the subject
+matter in question, and in such case the Closing Date shall be automatically extended for fifteen (15) days. If the Vendor does not provide
+such notice, or if it is not able to so satisfy the Purchaser within such fifteen (15) day period, then this Agreement shall terminate,
+the Purchaser and the Vendor shall be released from all of their respective liabilities and obligations under this Agreement other than
+the Purchasers liabilities and obligations pursuant to Section 4.2.3, Section 4.3.3 and Section 4.5 and the Deposit shall
+be treated in accordance with the provisions of Section 3.6.3, unless the Purchaser elects to rescind its notice and to complete
+the transaction notwithstanding such knowledge or information, in which case, subject to the other terms and conditions of this Agreement,
+the transaction shall be completed without prejudice to the Purchasers rights in law or in equity, provided that the certificate
+of the Vendor to be delivered pursuant to Section 6.1.1(g) shall reflect such knowledge or information.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 34
+
+Section 7.6 Indemnification
+for Claims relating to the Purchased Assets
+
+7.6.1 Provided Closing occurs, the Purchaser shall hold harmless and indemnify the Vendor in respect of all
+Claims: (i) in any way relating to the Assumed Liabilities that relate to the period from and after the Closing Date; or (ii) resulting
+from a Breach by the Purchaser where a Claim in respect of such Breach is made in accordance with the terms of this Section 7.6.
+
+7.6.2 The Vendor shall hold harmless and indemnify the Purchaser in respect of all Claims: (i) in any way
+relating to the Excluded Assets or the Excluded Liabilities; or (ii) resulting from a Breach by the Vendor where a Claim in respect of
+such Breach is made in accordance with this Section 7.6.
+
+7.6.3 The claiming Party shall give written notice to the other Party of each Breach, together with such details
+thereof as are then in its possession, promptly.
+
+7.6.4 Notwithstanding Section 7.6.2, the Vendor shall be liable for Claims arising out of a Breach of its
+representations and warranties set out in this Agreement or in any Closing Document only if the aggregate of all Claims made by the Purchaser
+in connection with Breaches of representations and warranties by the Vendor equals FIFTY THOUSAND dollars ($50,000.00) or more in the
+aggregate (such minimum amount being referred to as the Basket), it being understood that: (a) if the Basket
+in Claims for Breaches of representations and warranties is not reached by the Release Date, the Purchaser shall have no rights after
+such date to pursue any Claims; (b) if the Basket in Claims for Breaches of representations and warranties is reached prior to the
+Release Date, the Purchaser shall be entitled to pursue and recover the full amount of such Claims (and not only the portion thereof in
+excess of the Basket), and (c) the Basket shall not apply to any Claims pursuant to Section 7.7.
+
+7.6.5 In all cases, the liability of the Vendor for Claims arising out of Breaches of its covenants, representations
+and warranties set out in this Agreement or in any Closing Document (other than any Claims pursuant to Section 7.7) shall not exceed
+an aggregate maximum amount of FIVE MILLION TWENTY-FIVE THOUSAND dollars ($5,025,000.00), provided however, that the foregoing limitation
+shall not apply to any Breach caused by gross or intentional fault, wilful misconduct or fraud (such aggregate maximum amount being referred
+to as the Cap).
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 35
+
+Section 7.7 Excluded
+Equipment and Decommissioning Work Indemnity
+
+7.7.1 Notwithstanding any other provision of this Agreement, the Vendor shall hold harmless and indemnify the
+Purchaser in respect of all Claims (including, without limitation, costs for remediation, restoration, clean-up, treatment, monitoring,
+containment and removal relating in any way to Hazardous Substances and other any corrective measures relating to the Property, including
+testing costs in connection with the performance of such work, but excluding costs for investigations prior to the identification of the
+Claims) in any way relating to (A) the Excluded Equipment and any work conducted to remove the Excluded Equipment from the Property, or
+(B) the Decommissioning Work; the whole to the extent that (i) such Claims result directly from items (A) and (B) as evidenced by
+a qualified environmental expert, and (ii) being understood that the Vendors indemnification obligation under this Section 7.7
+shall be limited to the presence of Hazardous Substances exceeding, for the soil, applicable standards for commercial and/or industrial
+use and, for the groundwater, the criteria for resurgence into surface water (rsurgence dans leau de surface), in each case as
+set forth in the Guide dintervention Protection des sols et rhabilitation des terrains contamins published
+by the Qubec Ministry of the Environment, Fight against Climate Change, Wildlife and Parks (Ministre de lEnvironnement,
+de la Lutte contre les changements climatiques, de la Faune et des Parcs), as amended, modified, replaced or supplemented from time to
+time.
+
+7.7.2 If the Purchaser makes a Claim under Section 7.7.1, the provisions of this Section 7.7.2 shall apply.
+The Purchaser shall give written notice to the Vendor of such Claim, together with such details thereof as are then in its possession.
+Following receipt of such notice, the Vendor shall have thirty (30) days to make such investigation of the Claim as is considered necessary
+or desirable. For the purpose of such investigation, the Purchaser shall make available to the Vendor the information relied upon by the
+Purchaser to substantiate such Claim. The Vendor reserves the right to retain a third-party professional environmental advisor to evaluate
+any such Claim from the Purchaser. If the Vendor does not object to such Claim within the said thirty (30)-day period (or any mutually
+agreed upon extension thereof) to the validity and amount of such Claim, the Vendor shall promptly pay to the Purchaser the full agreed-upon
+amount of the Claim.
+
+7.7.3 If the Vendor wishes to object to such Claim within the said thirty (30)-day period (or any mutually agreed
+upon extension thereof), then the Vendor shall notify Purchaser in writing by sending a notice of objection including the information
+relied upon by the Vendor to substantiate such objection and the Vendor shall make available to the Purchaser all such other information
+and assistance as the Purchaser or its professional advisors may reasonably request. The Purchaser reserves the right to retain a third-party
+professional environmental advisor to evaluate any such objection from the Vendor. If both parties agree in writing within thirty (30)
+days following delivery by the Vendor of such objection (the Objection Period) (or any mutually agreed upon extension
+thereof) to the validity and amount of such Claim (or mutually agreed upon modification of such Claim), the Vendor shall promptly pay
+to the Purchaser the full agreed-upon amount of the Claim.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 36
+
+7.7.4 If the Purchaser and the Vendor are unable to resolve all of their disagreements with respect to such
+Claim within the Objection Period (or any mutually agreed upon extension thereof), then they shall refer their remaining differences to
+a mutually agreeable independent environmental expert of national recognition in Canada and Quebec acceptable to both the Purchaser and
+the Vendor to endeavor to resolve the dispute (such expert being referred to as the Environmental Expert), who shall,
+acting as an expert and not as an arbitrator, issue an advisory determination as to the matters so submitted, taking into consideration
+applicable Environmental Laws and this Agreement, provided that, if the parties, acting reasonably, cannot agree on an Environmental Expert
+within thirty (30) days following the expiry of the Objection Period, then the matter shall be referred to a court of competition jurisdiction.
+The procedure and schedule under which any dispute shall be submitted to the Environmental Expert shall be as follows:
+
+(a) Within sixty (60) days after the engagement of the Environmental Expert, the Purchaser and the Vendor
+shall each deliver any unresolved elements of the Vendors objection to the Environmental Expert in writing (with a copy to the
+other party), supported by any documents and/or affidavits upon which such party relies.
+
+(b) Within sixty (60) days following the submission of the unresolved elements as specified in sub-clause
+(i) above, the Purchaser and the Vendor shall each submit their respective responses to the Environmental Expert in writing (with a copy
+to the other party), supported by any documents and/or affidavits upon which such party relies.
+
+(c) The Environmental Expert shall deliver its written determination to the Vendor and the Purchaser no later
+than the sixtieth (60th) day following the submission of the responses specified in sub-clause (b) above, or such longer period of time
+as the Environmental Expert determines is reasonably necessary with the consent of the Purchaser and the Vendor, provided that such extended
+period shall be no longer than an additional fifteen (15) days, failing which such matter shall be referred to a court of competent jurisdiction.
+
+7.7.5 If the Purchaser and the Vendor are unable to resolve their disagreements with respect to the unresolved
+elements of the Vendors objection within thirty (30) days following the written determination referred to in sub-clause (c) above
+(or any mutually agreed upon extension thereof), the matter shall be referred to a court of competent jurisdiction. If both parties agree
+in writing within thirty (30) days following the written determination referred to in sub-clause (c) period (or any mutually agreed upon
+extension thereof) to the validity and amount of such Claim (or mutually agreed upon modification of such Claim), the Vendor shall promptly
+pay to the Purchaser the full agreed-upon amount of the Claim. The Environmental Experts determination shall be advisory in nature
+and shall be without prejudice, privileged and confidential and the parties hereby agree that such determination shall not be admissible
+in any court proceeding with respect to this Agreement. The Vendor and the Purchaser shall make readily available to the Environmental
+Expert all relevant books and records and any work papers relating to the matters submitted to the Environmental Expert and all other
+items reasonably required by the Environmental Expert. The Purchaser and the Vendor shall each bear the fees of their respective counsel
+and other representatives incurred in connection with the determination of the Claims referenced in this Section 7.7. Any expenses
+relating to the engagement of the Environmental Expert shall be allocated equally between the Purchaser and the Vendor.
+
+7.7.6 Notwithstanding any other provision of this Agreement, the indemnity set out in Section 7.7 shall
+survive the Closing of the transaction herein contemplated and shall continue in full force and effect for the benefit of the Purchaser
+for six (6) months from the day of Closing (Indemnity Release Date); provided, however, that there shall be no termination
+of such indemnity if a bona fide claim has been asserted if the Purchaser has notified in writing the Vendor of such claim as contemplated
+in Section 7.7.2 above on or prior to the Indemnity Release Date.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 37
+
+7.7.7 The liability of the Vendor for Claims arising out of the indemnity set out in Section 7.7 shall
+not exceed an aggregate maximum amount of TWO MILLION DOLLARS ($2,000,000.00), provided however, that the foregoing limitation shall not
+apply to any Claim caused by gross or intentional fault, wilful misconduct or fraud.
+
+7.7.8 To the extent any Claims by the Purchaser require payment of amounts by the Vendor on the indemnity contained
+in Section 7.7, then the Purchaser shall be entitled to indemnification: (i) first from the Holdback Amount; and (ii) if and to the
+extent that the Holdback Amount has been exhausted or disbursed pursuant to Section 7.7, from the Vendor.
+
+Section 7.8 Third Party Claims
+
+7.8.1 In the case of a Claim originating from a Person other than a Party hereto or an Affiliate thereof (a Third
+Party Claim), the Party seeking indemnification hereunder in respect thereof (the Indemnified Party)
+shall give written notice to the Party from whom indemnification is sought (the Indemnifying Party) of any such
+Third Party Claim forthwith after receiving notice thereof. If the Indemnified Party fails to give such written notice to the Indemnifying
+Party, such failure shall not preclude the Indemnified Party from demanding indemnification from the Indemnifying Party, but its right
+to indemnification may be reduced to the extent that such delay prejudiced the defence of the Third Party Claim or increased the amount
+of liability or the cost of the defence.
+
+7.8.2 The Indemnifying Party shall have the right, by written notice to the Indemnified Party given not later
+than thirty (30) days after receipt of the notice referred to in Section 7.8.1, to assume the control of the defence, compromise
+or settlement of the Third Party Claim.
+
+7.8.3 Upon the assumption of control of any Third Party Claim by the Indemnifying Party, the Indemnifying Party
+shall diligently proceed with the defence, compromise or settlement of the Third Party Claim at its sole expense, including, if necessary,
+employment of counsel reasonably satisfactory to the Indemnified Party and, in connection therewith, the Indemnified Party shall co-operate
+fully (but at the expense of the Indemnifying Party with respect to any reasonable out-of-pocket expenses incurred by the Indemnified
+Party) to make available to the Indemnifying Party all pertinent information and witnesses under the Indemnified Partys control,
+make such assignments and take such other steps as in the opinion of counsel for the Indemnifying Party, acting reasonably, are reasonably
+necessary to enable the Indemnifying Party to conduct such defence. The Indemnified Party shall have the right to participate in the negotiation,
+settlement or defence of any Third Party Claim at its own expense. Moreover, if the Indemnifying Party assumes control of a Third Party
+Claim, the Indemnified Party shall not pay, or permit to be paid, any part of the Third Party Claim unless the Indemnifying Party consents
+in writing to such payment or unless the Indemnifying Party, subject to the last sentence of Section 7.8.4, withdraws from the defence
+of such Third Party Claim or unless a final judgement from which no appeal may be taken by or on behalf of the Indemnifying Party is entered
+against the Indemnified Party in respect of such Third Party Claim.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 38
+
+7.8.4 If the Indemnifying Party fails to give written notice to the Indemnified Party as contemplated by Section 7.8.2,
+the Indemnified Party shall be entitled to make such settlement of the Third Party Claim, or otherwise deal therewith, as it deems appropriate,
+acting reasonably, and such settlement or any other final determination of the claim or demand shall be binding upon the Indemnifying
+Party. If the Indemnifying Party fails to defend or, if after commencing or undertaking such defence, fails to prosecute or withdraws
+from such defence, the Indemnified Party shall have the right to undertake the defence or settlement thereof. If the Indemnified Party
+assumes the defence of any Third Party Claim and proposes to settle it prior to a final judgement thereon or to forego any appeal with
+respect thereto, then the Indemnified Party shall give the Indemnifying Party prompt written notice thereof, and the Indemnifying Party
+shall have the right, acting diligently, to participate in the settlement or assume or reassume the defence of such Third Party Claim.
+
+Article 8
+
+Operation until Closing
+
+Section 8.1 Operation Before
+Closing
+
+8.1.1 From the Acceptance Date until Closing, the Vendor shall operate the Property in substantially the same
+manner as it has prior to the date hereof and, in any event, in accordance with standard business and management practices as would a
+prudent owner of comparable properties. The Vendor shall keep and maintain any insurance currently on the Property, if any, and no change
+shall be made to such insurance, nor will such insurance be terminated or allowed to expire.
+
+8.1.2 The Vendor covenants and agrees with the Purchaser that if a work order, deficiency notice or other directive
+from a Governmental Authority is received after the Due Diligence Date of any defect or deficiency in the construction, state of repair
+or state of completion of the Property or ordering or directing that any alteration, repair, improvement or other work to be done or relating
+to any non-compliance, or failure to complete an inspection pertaining to any building permit, building or land use by-law, ordinance
+or regulation (in each case, a Work Order), a copy of such notice shall be delivered to the Purchaser and the Vendor
+shall comply with same prior to Closing at its expense and deliver evidence of such compliance to the Purchaser.
+
+8.1.3 Notwithstanding Section 8.1.1, the Vendor shall not make any capital improvements to the Property
+from and after the date hereof other than (i) in the case of an emergency or (ii) in respect of the capital projects disclosed
+to the Purchaser in the Due Diligence Documents, without the prior written approval of the Purchaser, which approval will not be unreasonably
+withheld or delayed.
+
+Section 8.2 Damage Before Closing
+
+8.2.1 The interest of the Vendor in and to the Buildings being purchased, acquired and assumed by the Purchaser
+pursuant to the terms and conditions of this Agreement shall be at the risk of the Vendor until Closing. It is agreed, for greater certainty,
+that the Vendor shall not cause or consent to the demolition or alteration of any of the Buildings.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 39
+
+8.2.2 If any material physical loss or damage occurs before Closing to any of the Buildings, the amount or cost
+of which is in excess of ONE MILLION SIX HUNDRED SEVENTY-FIVE THOUSAND DOLLARS ($1,675,000.00) (such loss or damage to be determined by
+the Vendors arms length, independent architect, engineer or other qualified expert), the Purchaser, within ten (10) days
+after disclosure to the Purchaser by the Vendor of the loss or damage and the extent thereof, at its option, shall by notice in writing
+to the Vendor elect either (i) to complete the purchase of the Property, in which event the Purchaser shall be entitled to all proceeds
+of insurance, if any, and shall assume any deductibles in respect of the loss or damage and the Vendor shall pay or give a credit to the
+Purchaser for any deductibles in respect of such loss or damage, or (ii) not to complete the purchase of the Property, in which event
+this Agreement shall terminate, the Purchaser and the Vendor shall be released from all of their respective liabilities and obligations
+under this Agreement other than the Purchasers liabilities and obligations pursuant to Section 4.2.3, Section 4.3.3 and
+Section 4.5 and the Deposit shall be treated in accordance with the provisions of Section 3.6.3. If the Purchaser does not provide
+the Vendor with notice of its election prior to the expiry of said ten (10) day delay, then the Purchaser shall be deemed to have elected
+not to complete the purchase of the Property and the other Purchased Assets in accordance with the above. If any loss or damage to the
+Buildings occurs within ten (10) days prior to Closing, the Closing Date will be extended by a period sufficient for the foregoing election
+to be made by the Purchaser in the manner and within the time therefor as aforesaid.
+
+8.2.3 If any loss or damage to the Buildings occurs, the amount or cost of which is less than ONE MILLION SIX
+HUNDRED SEVENTY-FIVE THOUSAND DOLLARS ($1,675,000.00) (such loss or damage to be determined by the Vendors arms length,
+independent architect, engineer or other qualified expert), then neither Party shall have any right to terminate this Agreement by virtue
+thereof, and the Vendor shall have the option to either (i) repair any such loss or damage and return the Property to substantially
+the same condition as it was prior to such damage at its expense prior to the Closing or (ii) elect to grant the Purchaser a credit
+for the amount of such loss or damage by way of Adjustments at Closing (which Adjustments shall be subject to Post-Closing Adjustments
+in accordance with the terms of this Agreement) and the Parties shall complete the purchase of the Property and all other Purchased Assets.
+
+Section 8.3 Expropriation
+
+8.3.1 If any material portion of the Property valued at ONE MILLION SIX HUNDRED SEVENTY-FIVE THOUSAND DOLLARS
+($1,675,000.00) or more (such expropriated value to be determined by the Vendors arms length qualified expert) is expropriated
+by Governmental Authorities before Closing, the Vendor shall give notice to the Purchaser as soon as practicable after being aware of
+such expropriation and the Purchaser shall have the right by notice given to the Vendor within ten (10) days following receipt of notice
+from the Vendor regarding such expropriation, to elect either:
+
+(a) to take the damages awarded or compensation, as the case may be, in respect of such expropriation and
+complete the purchase of the Property and other the Purchased Assets; or
+
+(b) not complete the purchase of the Property, in which event this Agreement shall terminate, the Purchaser
+and the Vendor shall be released from all of their respective liabilities and obligations under this Agreement other than the Purchasers
+liabilities and obligations pursuant to Section 4.2.3, Section 4.3.3 and Section 4.5 and the Deposit shall be treated in
+accordance with the provisions of Section 3.6.3.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 40
+
+8.3.2 If the Purchaser does not provide the Vendor with notice of its election prior to the expiry of said ten
+(10) day delay, then the Purchaser shall be deemed to not have elected to complete the purchase of the Property and the other Purchased
+Assets in accordance with the above. If any expropriation of the Property occurs within ten (10) days prior to Closing, the Closing Date
+will be extended by a period sufficient for the foregoing election to be made by the Purchaser in the manner and within the time therefor
+as aforesaid.
+
+Section 8.4 New Leases
+
+8.4.1 From the Acceptance Date until Closing, the Vendor shall not enter onto any Leases with respect to any
+portion of the Property.
+
+Section 8.5 Contracts and Permits
+
+8.5.1 The Vendor shall terminate (or amend so that they no longer relate to the Property) all Contracts at its
+expense on or before Closing.
+
+8.5.2 Notwithstanding anything herein contained, on Closing, the Vendor shall assign and the Purchaser shall
+assume all of the Vendors interest in all of the Warranties.
+
+8.5.3 Nothing in this Agreement shall be construed as an assignment of, or an attempt to assign, directly or
+indirectly, to the Purchaser, any Permit or Warranty which is (i) not assignable, or (ii) not assignable without the approval or consent
+of the other party or parties thereto, without first obtaining such approval or consent. The failure to obtain any such approval or consent,
+or the fact that a Permit or Warranty is not assignable, shall not entitle the Purchaser to terminate this Agreement or to any other right
+or remedy whatsoever. With respect to any Permit or Warranty which is not assignable or is only assignable with consent, the Vendor shall,
+at the request of the Purchaser and in each case at the Purchasers expense:
+
+(a) apply for and use commercially reasonable efforts to obtain all such consents or approvals, in a form
+satisfactory to the Purchaser, acting reasonably, provided that nothing herein shall require the Vendor to make any payment to any other
+party to any of the Permits or Warranties; and
+
+(b) cooperate with the Purchaser in any reasonable and lawful arrangements designed to provide the benefits
+of such non-assignable Permits or Warranties to the Purchaser including, without limitation, holding any such Permits or Warranties in
+trust for the Purchaser or acting as agent for the Purchaser, provided that pursuant to such arrangements the Purchaser will grant in
+favour of the Vendor an indemnity for all obligations or liabilities incurred thereunder or in connection therewith after the Closing
+Date.
+
+8.5.4 Notwithstanding any other term or condition of this Agreement, on or before Closing all of the management
+agreements and other agreements with parties not at arms length to the Vendor which relate to the Property shall be terminated
+and the Vendor shall be responsible for all costs associated with the termination of such management or other agreements.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 41
+
+8.5.5 The failure by the Purchaser to obtain, before or after Closing, any Permits required for the Purchased
+Assets, their ownership, their operation and the conduct of business at the Property shall not be a condition of Closing and shall not
+entitle the Purchaser to terminate this Agreement or to any other right or remedy whatsoever.
+
+8.5.6 From and after the Due Diligence Date, the Vendor and the Purchaser shall, at Purchasers costs,
+diligently take all steps required to allow all Permits to be transferred to the Purchaser, where applicable, or to allow the Purchaser
+to obtain any Permits required from and after Closing.
+
+Article 9
+
+General
+
+Section 9.1 Applicable Law
+and Forum
+
+9.1.1 This Agreement shall be construed and enforced in accordance with the laws of the Province of Quebec and
+the laws of Canada applicable in the Province of Quebec (excluding any conflict of laws rules or principles which might refer such interpretation
+to the laws of another jurisdiction). Each Party irrevocably submits to the exclusive jurisdiction of the courts of Qubec and
+the judicial district of Montreal with respect to any matter arising hereunder.
+
+Section 9.2 Invalidity
+
+9.2.1 If any covenant, obligation, agreement or part thereof or the application thereof to any Person or circumstance,
+to any extent, shall be invalid or unenforceable, the remainder of this Agreement or the application of such covenant, obligation or agreement
+or part thereof to any Person, party or circumstance, other than those to which it is held invalid or unenforceable, shall not be affected
+thereby. Each covenant, obligation and agreement in this Agreement shall be separately valid and enforceable to the fullest extent permitted
+by law.
+
+Section 9.3 Amendment of Agreement
+
+9.3.1 No supplement, modification, waiver or termination (other than a termination pursuant to Section 4.3,
+Section 5.3, Section 7.5, Section 8.2 or Section 8.3) of this Agreement shall be binding unless executed in writing
+by the Parties hereto in the same manner as the execution of this Agreement.
+
+Section 9.4 Time of the Essence
+
+9.4.1 Time shall be of the essence of this Agreement and the transactions contemplated herein. If a Party is
+bound to perform an obligation hereunder within a specific timeframe, the simple lapsing of time shall place that Party in default. Where
+anything is required to be done under this Agreement on a day that is not a Business Day, then the day for such thing to be done shall
+be the next following Business Day.
+
+Section 9.5 Further Assurances
+
+9.5.1 Each of the Parties hereto shall from time to time hereafter, and upon any reasonable request of the other,
+execute and deliver, make or cause to be made, all such further acts, deeds, assurances and things as may be required or necessary to
+more effectually implement and carry out the true intent and meaning of this Agreement.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 42
+
+Section 9.6 Entire Agreement
+
+9.6.1 This Agreement and any agreements, instruments and other documents herein contemplated to be entered into
+between, by or including the Parties hereto constitute the entire agreement between the Parties hereto pertaining to the agreement of
+purchase and sale provided for herein and supersede all prior agreements, understandings, negotiations and discussions, whether oral or
+written, with respect thereto and there are no other conditions, warranties or representations and no other agreements between the Parties
+hereto in connection with the agreement of purchase and sale provided for herein except as specifically set forth in this Agreement or
+the Schedules attached hereto. For greater certainty, all disclosure made in or pursuant to this Agreement is subject to the provisions
+of Section 4.5.
+
+Section 9.7 Waiver
+
+9.7.1 No waiver of any of the provisions of this Agreement shall constitute or shall be deemed to constitute
+a waiver of any other provision (whether or not similar), nor shall any waiver constitute a continuing waiver unless otherwise expressed
+or provided.
+
+Section 9.8 Effect of Termination
+of Agreement
+
+9.8.1 Notwithstanding the termination of this Agreement for any reason, the Purchaser shall remain obligated
+to comply with its obligations to return documents (Section 4.5) and to repair and restore the Purchased Assets and to indemnify
+the Vendor (Section 4.2) and all Parties shall remain obligated pursuant to the confidentiality provisions contained in Section 4.5.
+
+Section 9.9 Legal Fees/Real
+Estate Commission
+
+9.9.1 Each of the Parties hereto shall be responsible for its own fees and costs (including legal fees) incurred
+in connection with the transaction contemplated herein.
+
+9.9.2 The Vendor shall be responsible for any commissions payable to CBRE Limited, with respect to the transaction
+contemplated under this Agreement and the Purchaser shall be responsible for any fees on commissions payable to other agents that it may
+retain to act for it, or who introduce the Property to the Purchaser.
+
+Section 9.10 Solicitors as
+Agents and Tender
+
+9.10.1 Any notice, approval, waiver, agreement, instrument, document or communication permitted, required or
+contemplated in this Agreement may be given or delivered and accepted or received by the Purchasers Solicitors on behalf of the
+Purchaser and by the Vendors Solicitors on behalf of the Vendor and any tender of Closing Documents and the Balance may be made
+upon the Vendors Solicitors and the Purchasers Solicitors, as the case may be.
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 43
+
+Section 9.11 Survival
+
+9.11.1 Subject to Section 7.3 hereof, this Agreement and all covenants herein shall survive the Closing
+Date and shall remain in full force and effect thereafter in accordance with its terms.
+
+Section 9.12 Successors and
+Assigns
+
+9.12.1 All of the covenants and agreements in this Agreement shall be binding upon the Parties hereto and their
+respective successors and permitted assigns and shall enure to the benefit of and be enforceable by the Parties hereto and their respective
+successors and permitted assigns.
+
+Section 9.13 Assignment
+
+9.13.1 Notwithstanding any other provision of this Agreement, the Purchaser shall not assign, directly or indirectly,
+its rights and/or obligations hereunder (including the direction of legal or beneficial title to any Purchased Assets, or part thereof,
+on Closing) without the prior written consent of the Vendor, which consent may be granted or withheld by the Vendor in its sole, absolute
+and subjective discretion. Notwithstanding the foregoing, the Purchaser may assign this Agreement without the consent of the Vendor to
+an Affiliate, provided that the initial Purchaser entity hereunder shall remain solidarily liable with such Affiliate for all obligations
+and liabilities to the Vendor under this Agreement.
+
+Section 9.14 Privacy Legislation
+
+9.14.1 Each of the parties shall comply with all federal and provincial privacy legislation now or hereinafter
+in effect with respect to all information, documents, agreements and/or reports whatsoever provided by or on behalf of one of the parties
+hereto to the other, and each Party shall indemnify the other from and against any and all costs, expenses, losses, claims or liabilities
+whatsoever which such other Party may incur as a result of any violation of any privacy legislation by the breaching Party or those for
+whom it is in law responsible.
+
+Section 9.15 Notice
+
+9.15.1 Any notice to be given by either Party hereto to the other pursuant to this Agreement shall be in writing
+and delivered by hand, courier or electronic transmission with receipt confirmed by the recipient (email) addressed
+to:
+
+the Purchaser at: 
+
+Enovum Data Centers MTL II, L.P.
+
+D-3195 RD Bedford Montral (Qubec) H3S 1G3 Canada
+
+Attention: Bryan Bullet / Simon Hamelin-Choquette
+
+E-mail: bryan@bit-digital.com /
+
+shchoquette@enovumdc.com 
+
+with a copy to: 
+
+Davies Ward Phillips & Vineberg LLP
+
+1501 McGill College Avenue
+
+Montral, QC, H3A 3N9
+
+Canada
+
+27th Floor
+
+Attention: Florence Simard / Matthew Hendy
+
+E-mail: fsimard@dwpv.com / mhendy@dwpv.com 
+
+To the Vendor at: 
+
+ARE-Canada No. 5 Holdings, ULC
+
+26 North Euclid Avenue Pasadena, CA 91101
+
+Attention: Corporate Secretary
+
+Email: ACQLegal@are.com 
+
+with a copy to: 
+
+Fasken Martineau DuMoulin LLP
+
+800 Square Victoria
+
+Suite 3500
+
+Montral, Qubec H4Z 1E9
+
+Attention: Richard Clare / Mathieu Renaud
+
+Email: rclare@fasken.com /
+
+mrenaud@fasken.com
+
+Agreement of Purchase and Sale
+
+Sale of 7300 Trans-Canada Highway, Point-Claire
+
+Page 44
+
+9.15.2 Any notice delivered by hand or courier shall be deemed to be received when left during normal business
+hours at the office set forth above. Any notice delivered by email prior to 5:00 p.m. (Montreal time) shall be deemed to have been delivered
+on the day of transmission by email, and otherwise on the following Business Day. All deliveries made by email shall only be deemed delivered
+upon confirmation of receipt by an addressee. Either Party shall be entitled to change its address for notice to an address elsewhere
+by notice in writing to the other.
+
+Section 9.16 Disclaimer of
+Partnership
+
+9.16.1 The Vendor and Purchaser expressly disclaim any intention to create a partnership with respect to the
+Property. Nothing in this Agreement shall constitute the Parties partners, nor constitute either of them the agent of the other.
+
+Section 9.17 Rights of Parties
+Independent
+
+9.17.1 The rights available to the Parties under this Agreement and at law shall be deemed to be several and
+not dependent on each other and each such right shall be accordingly construed as complete in itself and not by reference to any other
+such right. Any one or more and/or any combination of such rights may be exercised by a Party from time to time and, subject to the provisions
+of this Agreement and no such exercise shall exhaust the rights of such Party or preclude any other Party from exercising any one or more
+of such rights or combination thereof from time to time thereafter or simultaneously.
+
+Section 9.18 No Registration
+of Agreement
+
+9.18.1 The Purchaser shall not register this Agreement or any notice of this Agreement on title to the Lands.
+
+Section 9.19 Counterparts
+
+9.19.1 This Agreement may be executed in any number of counterparts, all of which taken together constitute one
+and the same instrument and each of which may be transmitted by any means, including electronic means.
+
+Section 9.20 Language
+
+9.20.1 The Parties have requested that this Agreement and any other agreements, documents or notices relating
+hereto be prepared in English. Les Parties ont requis que cette entente ainsi que les autres ententes, documents ou avis qui sy
+rapportent soient rdigs en anglais.
+
+[the remainder of this page is intentionally left
+blank]
+
+IN WITNESS WHEREOF the Parties hereto
+have executed this Agreement by their properly authorized officers as of the day and year first above written. 
+
+ARE-CANADA NO. 5
+HOLDINGS, ULC
+
+Per: /s/
+Gregory S. Kay
+
+Name: Gregory S. Kay
+
+Title: Senior Vice President
+
+Per: /s/
+Erke Huang
+
+Name: Erke Huang
+
+Title: Vice-President and Secretary
+
+ENOVUM
+DATA CENTERS MTL II, L.P.,
+
+acting
+and represented by its sole general
+
+partner,
+ENOVUM MTL II GP INC.
+
+Per: /s/
+Erke Huang
+
+Name: Erke Huang
+
+Title: Vice-President and Secretary
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>ea022670301ex99-1_bitdigi.htm
+<DESCRIPTION>PRESS RELEASE DATED DECEMBER 30, 2024 TITLED "BIT DIGITAL, INC. ACQUIRES ANOTHER METROPOLITAN SITE FOR TIER-3 DATA CENTER EXPANSION"
+<TEXT>
+Exhibit 99.1
+
+Bit Digital, Inc. Acquires Another Metropolitan Site for Tier-3 Data Center Expansion
+
+NEW YORK, December 30, 2024 /PRNewswire/ -- Bit Digital, Inc. (Nasdaq: BTBT) (Bit Digital
+or the Company), a global platform for high-performance computing (HPC) infrastructure and digital asset
+production headquartered in New York, announced today that is has acquired the real estate and building for a build-to-suit 5MW Tier-3
+data center expansion project in Montreal, Canada. This acquisition is part of Bit Digitals strategy to expand its HPC data center
+footprint to 32MW during 2025. This site also comprises part of Bit Digitals 288MW proprietary pipeline announced earlier this
+year.
+
+Bit Digital purchased the site (MTL2) from a subsidiary of Alexandria Real Estate Equities, Inc (NYSE: ARE) for CAD
+$33.5 million (approximately USD $23.3MM assuming a CAD/USD exchange rate of 0.70) excluding fees. The acquisition closed on December
+27, 2024. Bit Digital initially funded the purchase with cash on hand and is in the process of securing mortgage financing for both the
+site acquisition and subsequent infrastructure capex.
+
+The Company expects to spend approximately CAD $27.6 million (approx. USD $19.3MM)
+to develop the site to Tier-3 standards with an initial gross load of 5MW. The site is expected to be completed and operational by May
+2025.
+
+MTL2, a 160,000 square feet site that was previously used as an encapsulation manufacturing facility, is located at 7300 Trans-Canada
+Highway, City of Pointe-Claire, Province of Quebec Canada. Bit Digital plans to retrofit the site with advanced cooling technology, including
+direct-to-chip liquid cooling, which enhances energy efficiency and supports AI and other high-performance workloads with 150kW rack
+density. The Company is collaborating with third parties to implement a heat reject loop to further enhance the sustainability profile
+of the datacenter. The facility will be powered by 100% renewable hydroelectricity provided by Hydro-Quebec. Additionally, the site offers
+the potential to expand, enabling scalable growth aligned with market demand.
+
+Sam Tabar, Bit Digitals CEO, commented: This
+site acquisition marks an important step forward in our data center growth plans. This site is a Class A industrial property that was
+a former encapsulation manufacturing facility that included premium infrastructure specifications. It is located in one of the most desirable
+commercial real estate locations in Montreal. By leveraging the existing infrastructure, including over CAD $750 thousand worth of advanced
+HVAC equipment included in the purchase, we are able to lower our development costs and accelerate our time to market a key advantage
+and core tenet of our development strategy. The development timeline aligns with the demands of a new customer that intends to fill the
+capacity with new generation Nvidia GPUs.
+
+We are in the process of securing cost-effective mortgage financing for this project which
+we intend to announce upon finalization. We believe this will ultimately showcase Bit Digitals ability to cost-effectively finance
+its data center buildout in a non-dilutive manner.
+
+About Bit Digital
+
+Bit Digital, Inc. is a global platform for high-performance
+computing (HPC) infrastructure and digital asset production headquartered in New York City. Our bitcoin mining operations
+are located in the US, Canada, and Iceland. For additional information, please contact ir@bit-digital.com or visit our website at www.bit-digital.com.
+
+Investor Notice
+
+Investing in our securities involves a high degree of risk. Before making an investment decision, you should carefully
+consider the risks, uncertainties and forward-looking statements described under Risk Factors in Item 3.D of our Annual
+Report on Form 20-F for the fiscal year ended December 31, 2023 (Annual Report). Notwithstanding the fact that Bit Digital
+Inc. has not conducted operations in the PRC since September 30, 2021 we have previously disclosed under Risk Factors in our Annual Report:
+We may be subject to fines and penalties for any noncompliance with or any liabilities in our former business in China in a certain
+period from now on. Although the statute of limitations for non-compliance by our former business in the PRC is generally two
+years and the Company has been out of the PRC, for more than two years, the Authority may still find its prior bitcoin mining operations
+involved a threat to financial security. In such event, the two-year period would be extended to five years. If any material risk was
+to occur, our business, financial condition or results of operations would likely suffer. In that event, the value of our securities
+could decline and you could lose part or all of your investment. The risks and uncertainties we describe are not the only ones facing
+us. Additional risks not presently known to us or that we currently deem immaterial may also impair our business operations. In addition,
+our past financial performance may not be a reliable indicator of future performance, and historical trends should not be used to anticipate
+results in the future. Future changes in the network-wide mining difficulty rate or bitcoin hash rate may also materially affect the
+future performance of Bit Digitals production of bitcoin. Actual operating results will vary depending on many factors including network
+difficulty rate, total hash rate of the network, the operations of our facilities, the status of our miners, and other factors. See Safe
+Harbor Statement below.
+
+Safe Harbor Statement
+
+This press release may contain certain forward-looking statements relating to the business
+of Bit Digital, Inc., and its subsidiary companies. All statements, other than statements of historical fact included herein are forward-looking
+statements. These forward-looking statements are often identified by the use of forward-looking terminology such as believes, expects,
+or similar expressions, involving known and unknown risks and uncertainties. Although the Company believes that the expectations reflected
+in these forward-looking statements are reasonable, they do involve assumptions, risks and uncertainties, and these expectations may
+prove to be incorrect. Investors should not place undue reliance on these forward-looking statements, which speak only as of the date
+of this press release. The Companys actual results could differ materially from those anticipated in these forward-looking statements
+as a result of a variety of factors, including those discussed in the Companys periodic reports that are filed with the Securities and
+Exchange Commission and available on its website at http://www.sec.gov. All forward-looking statements attributable to the Company or
+persons acting on its behalf are expressly qualified in their entirety by these factors. Other than as required under the securities
+laws, the Company does not assume a duty to update these forward-looking statements.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>ex10-1_001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>ex99-1_001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>6
+<FILENAME>btbt-20241227.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>7
+<FILENAME>btbt-20241227_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Cover [Abstract] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>8
+<FILENAME>btbt-20241227_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Cover
+
+Dec. 27, 2024
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Dec. 27, 2024
+
+Entity File Number 001-38421
+
+Entity Registrant Name BIT DIGITAL INC.
+
+Entity Central Index Key 0001710350
+
+Entity Tax Identification Number 98-1606989
+
+Entity Incorporation, State or Country Code E9
+
+Entity Address, Address Line One 31 Hudson Yards
+
+Entity Address, Address Line Two Floor 11
+
+Entity Address, City or Town New York
+
+Entity Address, State or Province NY
+
+Entity Address, Postal Zip Code 10001
+
+City Area Code 212
+
+Local Phone Number 463-5121
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Ordinary Shares, $.01 par value
+
+Trading Symbol BTBT
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>11
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>15
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+1 
+23 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://bit-digital.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+btbt-20241227.xsd 
+btbt-20241227_lab.xml 
+btbt-20241227_pre.xml 
+ea0226703-8k_bitdigi.htm 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>17
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>18
+<FILENAME>0001213900-25-000891-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>19
+<FILENAME>ea0226703-8k_bitdigi_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001710350 
+
+2024-12-27 
+2024-12-27 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0001710350 
+8-K 
+2024-12-27 
+BIT DIGITAL INC. 
+E9 
+001-38421 
+98-1606989 
+31 Hudson Yards 
+Floor 11 
+New York 
+NY 
+10001 
+212 
+463-5121 
+Ordinary Shares, $.01 par value 
+BTBT 
+NASDAQ 
+false 
+false 
+false 
+false 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

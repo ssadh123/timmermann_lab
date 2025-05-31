@@ -1,0 +1,1309 @@
+<SEC-DOCUMENT>0001213900-25-024540.txt : 20250317
+<SEC-HEADER>0001213900-25-024540.hdr.sgml : 20250317
+<ACCEPTANCE-DATETIME>20250317160022
+ACCESSION NUMBER:		0001213900-25-024540
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		16
+CONFORMED PERIOD OF REPORT:	20250317
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250317
+DATE AS OF CHANGE:		20250317
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Spectral AI, Inc.
+		CENTRAL INDEX KEY:			0001833498
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40058
+		FILM NUMBER:		25744271
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2515 MCKINNEY AVE #1000
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		(212) 492-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		2515 MCKINNEY AVE #1000
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Rosecliff Acquisition Corp I
+		DATE OF NAME CHANGE:	20201123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ea0234647-8k_spectral.htm
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+false000183349800018334982025-03-172025-03-170001833498MDAI:CommonStockParValue0.0001PerShareMember2025-03-172025-03-170001833498MDAI:RedeemableWarrantsEachWholeWarrantExercisableForOneShareOfCommonStockAtExercisePriceOf11.50PerShareMember2025-03-172025-03-17iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(D) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):
+March 17, 2025
+
+SPECTRAL
+AI, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-40058 85-3987148
+
+(State or other jurisdiction
+
+of incorporation) (Commission File Number) (I.R.S. Employer
+
+Identification No.)
+
+2515 McKinney Avenue, Suite 1000
+
+Dallas, Texas 75201
+
+(Address of principal executive offices) (Zip Code)
+
+(972) 499-4934
+
+(Registrants telephone number, including
+area code)
+
+Not Applicable
+
+(Former name or former address, if changed since
+last report)
+
+Check the appropriate box below if the Form 8-K
+is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencements communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbols Name of each exchange on which registered
+
+Common Stock, par value $0.0001 per share MDAI The Nasdaq Stock Market LLC
+
+Redeemable Warrants, each whole warrant exercisable for one share of Common Stock, at an exercise price of $11.50 per share MDAIW The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 7.01.Regulation FD Disclosure.
+
+On March 17, 2025, the Company
+issued a press release announcing the results of the performance of its DeepView System in connection with the completion of its Burn
+Validation Study, a copy of which is furnished as Exhibit 99.1 to this Current Report on Form 8-K. 
+
+The information in this Item
+7.01 to this Current Report on Form 8-K, and in Exhibit 99.1 furnished herewith, shall not be deemed to be filed
+for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject
+to the liabilities of that section, nor shall such information be deemed incorporated by reference in any filing under the Securities
+Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Item 9.01.Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+No. Description
+
+99.1 Press Release issued by Spectral AI, Inc. on March 17, 2025
+
+104 Cover Page Interactive Data File (formatted as Inline XBRL).
+
+1
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: March 17, 2025
+
+SPECTRAL AI, INC.
+
+By: /s/ Vincent S. Capone
+
+Name: Vincent S. Capone
+
+Title: Chief Financial Officer
+
+2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ea023464701ex99-1_spectral.htm
+<DESCRIPTION>PRESS RELEASE ISSUED BY SPECTRAL AI, INC. ON MARCH 17, 2025
+<TEXT>
+Exhibit 99.1
+
+Spectral
+AI Announces Successful Results from its Burn Validation Study of the DeepView System 
+
+DeepView System outperforms burn physicians in identifying non-healing tissue 
+
+Landmark Burn Validation Study, one of the largest in U.S. history, confirms DeepViews performance
+
+Spectral AI plans FDA submission by mid-2025, targeting De Novo Clearance and rapid commercialization to transform burn care
+
+DALLAS,
+TX March 17, 2025 (GLOBE NEWSWIRE) -- Spectral AI (NASDAQ: MDAI) (Spectral AI or the Company),
+developer of the AI-driven DeepView System, that uses multi-spectral imaging and AI algorithms to predict burn healing potential,announced
+the successful results of the performance of its DeepView System in connection with the completion of its Burn Validation Study. Spectral
+AIs DeepView System is being developed as a predictive device to offer clinicians an immediate and objective assessment of a burn
+wounds healing potential prior to treatment or other medical intervention. The image processing algorithm employed by the DeepView
+System utilizes multispectral imaging that is trained and tested against a proprietary database of more than 340 billion clinically validated
+data points. The DeepView System is non-invasive and cart-based, allowing for exceptional mobility within the healthcare setting.
+
+The
+Burn Validation Study, which began in January 2024 and concluded in March 2025, represented one of the largest burn trials ever conducted
+in the United States. The Company enrolled and analyzed data obtained from 164 total patients comprised of 115 adult and 49 pediatric
+patients in burn centers and emergency departments across the U. S. in its Burn Validation Study. The goal of the Burn Validation Study
+was to further demonstrate the innovative and versatile nature of Spectral AIs DeepView technology, as well as its ability to
+predict burn wound healing potential on the first day of injury with greater performance and speed than the methods currently used today.
+The Burn Validation Study results, together with rigorous statistical analysis, illustrate that the DeepView System continues to outperform
+the clinical judgment of burn physicians by a large margin.
+
+The
+Burn Validation Study results assessed the sensitivity, specificity and Dice score of the DeepView System at both a pixel-level and image-wise
+level against the clinical judgment of burn physicians. Key findings included the following:
+
+Sensitivity:
+The DeepView System demonstrated a statistically significant improvement in identifying non-healing
+tissue compared to burn physicians, as judged on sensitivity. At the image-wise level, the
+DeepView System scored 86.6% while clinical judgment annotation (CJA) of burn physicians
+scored 40.8%. At the pixel-wise level, the DeepView System scored 81.9% and CJA of burn physicians
+scored 38.8%. 
+
+Dice
+Score: The DeepView System achieved statistically significant higher Dice Scores when
+compared to those derived from burn physicians CJA, representing the improved pixel-wise
+evaluation between predicated and true segmented wound areas with the DeepView System performing
+at 68.5% and burn physicians CJA at 39.2%.
+
+Specificity:
+The Deepview System significantly outperformed the anticipated results for image-wise specificity
+in segmenting non-healing wound areas with a result of 61.2% (versus an anticipated result
+of 36.0%) and CJA of 79.1% reflecting burn physicians conversative assessment of burn
+areas. 
+
+2515
+McKinney Ave., Suite #1000
+
+Dallas,
+TX 75201
+
+972-499-4934
+
+www.spectral-ai.com
+
+We
+believe these are excellent results and we are thrilled with the analysis of our DeepView System in our Burn Validation Study,
+said Dr J. Michael DiMaio, M.D. The DeepView System exceeded our expectations in terms of predictive performance. Following the
+FDAs review, if authorized by the agency, our hope is that this tool will provide an objective and immediate prediction of non-healing
+burn tissue to expedite patient care and reduce system costs across the board. I would like to thank Jeffrey C. Carter, MD, FACS, the
+principal investigator for the Burn Validation Study, our entire team at Spectral AI, and especially the patients and esteemed clinicians
+who participated in this Study. We look forward to bringing this predictive diagnostic tool to the United States marketplace as soon
+as possible.
+
+Spectral
+AI plans to submit these results to the FDA as part of its regulatory submission by the end of the second quarter of 2025 and hopes to
+have the FDA grant the De Novo Classification Request of the DeepView System in early 2026. Based on its current manufacturing arrangements,
+Spectral AI will be prepared to commercialize the DeepView System in the United States, if ultimately approved, as soon as approval is
+obtained.
+
+This
+project is being supported in whole or in part with federal funds from the Department of Health and Human Services; Administration for
+Strategic Preparedness and Response; BARDA, under contract number 75A50123C00049.
+
+About
+Spectral AI 
+
+Spectral
+AI, Inc. is a Dallas-based predictive AI company focused on medical diagnostics for faster and more accurate treatment decisions in wound
+care, with initial applications involving patients with burns. The Company is working to revolutionize the management of wound care by
+Seeing the Unknown with its DeepView System. The DeepView System is being developed as a predictive device
+to offer clinicians an objective and immediate assessment of a burn wounds healing potential prior to treatment or other medical
+intervention. With algorithm-driven results and a goal of exceeding the current standard of care in the future, the DeepView System
+is expected to provide fast and accurate treatment insight towards value care by improving patient outcomes and reducing healthcare costs.
+For more information about the DeepView System, visit www.spectral-ai.com. 
+
+Forward-Looking
+Statements 
+
+Certain
+statements made in this release are forward looking statements within the meaning of the safe harbor provisions
+of the United States Private Securities Litigation Reform Act of 1995, including statements regarding the Companys strategy, plans,
+objectives, initiatives and financial outlook. When used in this press release, the words estimates, projected,
+expects, anticipates, forecasts, plans, intends, believes,
+seeks, may, will, should, future, propose and variations
+of these words or similar expressions (or the negative versions of such words or expressions) are intended to identify forward-looking
+statements. These forward-looking statements are not guarantees of future performance, conditions or results, and involve a number of
+known and unknown risks, uncertainties, assumptions and other important factors, many of which are outside Companys control, that
+could cause actual results or outcomes to differ materially from those discussed in the forward-looking statements. As such, readers
+are cautioned not to place undue reliance on any forward-looking statements.
+
+Investors
+should carefully consider the foregoing factors, and the other risks and uncertainties described in the Risk Factors sections
+of the Companys filings with the SEC, including the Registration Statement and the other documents filed by the Company. These
+filings identify and address other important risks and uncertainties that could cause actual events and results to differ materially
+from those contained in the forward-looking statements.
+
+For
+Media and Investor Relations, please contact:
+
+David
+Kugelman
+
+Atlanta
+Capital Partners LLC
+
+(866)
+692-6847 Toll Free - U.S. & Canada
+
+(404)
+281-8556 Mobile and WhatsApp
+
+Email:
+dk@atlcp.com
+
+2515
+McKinney Ave., Suite #1000
+
+Dallas,
+TX 75201
+
+972-499-4934
+
+www.spectral-ai.com
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>ex99-1_001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>4
+<FILENAME>mdai-20250317_def.xml
+<DESCRIPTION>XBRL DEFINITION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>mdai-20250317_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Class of Stock [Axis] 
+
+Common Stock, par value $0.0001 per share 
+
+Redeemable Warrants, each whole warrant exercisable for one share of Common Stock, at an exercise price of $11.50 per share 
+
+Statement [Table] 
+
+Statement [Line Items] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>mdai-20250317_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>7
+<FILENAME>mdai-20250317.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Cover
+
+Mar. 17, 2025
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Mar. 17, 2025
+
+Entity File Number 001-40058
+
+Entity Registrant Name SPECTRAL
+AI, INC.
+
+Entity Central Index Key 0001833498
+
+Entity Tax Identification Number 85-3987148
+
+Entity Incorporation, State or Country Code DE
+
+Entity Address, Address Line One 2515 McKinney Avenue
+
+Entity Address, Address Line Two Suite 1000
+
+Entity Address, City or Town Dallas
+
+Entity Address, State or Province TX
+
+Entity Address, Postal Zip Code 75201
+
+City Area Code 972
+
+Local Phone Number 499-4934
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company true
+
+Elected Not To Use the Extended Transition Period false
+
+Common Stock, par value $0.0001 per share 
+
+Title of 12(b) Security Common Stock, par value $0.0001 per share
+
+Trading Symbol MDAI
+
+Security Exchange Name NASDAQ
+
+Redeemable Warrants, each whole warrant exercisable for one share of Common Stock, at an exercise price of $11.50 per share 
+
+Title of 12(b) Security Redeemable Warrants, each whole warrant exercisable for one share of Common Stock, at an exercise price of $11.50 per share
+
+Trading Symbol MDAIW
+
+Security Exchange Name NASDAQ
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 7A
+
+-Section B
+
+-Subsection 2
+
++ Details
+
+Name: dei_EntityExTransitionPeriod
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=MDAI_CommonStockParValue0.0001PerShareMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=MDAI_RedeemableWarrantsEachWholeWarrantExercisableForOneShareOfCommonStockAtExercisePriceOf11.50PerShareMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>10
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+3 
+24 
+1 
+false 
+2 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://spectral-ai.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+ea0234647-8k_spectral.htm 
+mdai-20250317.xsd 
+mdai-20250317_def.xml 
+mdai-20250317_lab.xml 
+mdai-20250317_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>16
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>17
+<FILENAME>0001213900-25-024540-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>18
+<FILENAME>ea0234647-8k_spectral_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001833498 
+
+2025-03-17 
+2025-03-17 
+
+0001833498 
+
+MDAI:CommonStockParValue0.0001PerShareMember 
+
+2025-03-17 
+2025-03-17 
+
+0001833498 
+
+MDAI:RedeemableWarrantsEachWholeWarrantExercisableForOneShareOfCommonStockAtExercisePriceOf11.50PerShareMember 
+
+2025-03-17 
+2025-03-17 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0001833498 
+8-K 
+2025-03-17 
+SPECTRAL AI, INC. 
+DE 
+001-40058 
+85-3987148 
+2515 McKinney Avenue 
+Suite 1000 
+Dallas 
+TX 
+75201 
+972 
+499-4934 
+false 
+false 
+false 
+false 
+Common Stock, par value $0.0001 per share 
+MDAI 
+NASDAQ 
+Redeemable Warrants, each whole warrant exercisable for one share of Common Stock, at an exercise price of $11.50 per share 
+MDAIW 
+NASDAQ 
+true 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

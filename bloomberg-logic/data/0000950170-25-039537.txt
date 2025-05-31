@@ -1,0 +1,1046 @@
+<SEC-DOCUMENT>0000950170-25-039537.txt : 20250314
+<SEC-HEADER>0000950170-25-039537.hdr.sgml : 20250314
+<ACCEPTANCE-DATETIME>20250314165432
+ACCESSION NUMBER:		0000950170-25-039537
+CONFORMED SUBMISSION TYPE:	8-K/A
+PUBLIC DOCUMENT COUNT:		11
+CONFORMED PERIOD OF REPORT:	20250227
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Unregistered Sales of Equity Securities
+FILED AS OF DATE:		20250314
+DATE AS OF CHANGE:		20250314
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Conifer Holdings, Inc.
+		CENTRAL INDEX KEY:			0001502292
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				271298795
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37536
+		FILM NUMBER:		25741003
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3001 WEST BIG BEAVER ROAD
+		STREET 2:		SUITE 319
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+		BUSINESS PHONE:		(248) 559-0840
+
+	MAIL ADDRESS:	
+		STREET 1:		3001 WEST BIG BEAVER ROAD
+		STREET 2:		SUITE 319
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K/A
+<SEQUENCE>1
+<FILENAME>cnfr-20250227.htm
+<DESCRIPTION>8-K/A
+<TEXT>
+xml version='1.0' encoding='ASCII'?8-K/A
+
+true00015022920001502292cnfr:NinePointSevenFivePercentSeniorNotesDue2028Member2025-02-272025-02-270001502292cnfr:CommonStockNoParValueMember2025-02-272025-02-2700015022922025-02-272025-02-27
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K/A
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event Reported): February 27, 2025
+
+Conifer Holdings Inc.
+
+(Exact Name of Registrant as Specified in Charter)
+
+Michigan 
+
+001-37536 
+
+27-1298795
+
+(State or Other Jurisdiction of Incorporation) 
+
+(Commission File Number) 
+
+(I.R.S. Employer Identification Number)
+
+3001 West Big Beaver Road, Suite 319
+
+Troy, MI48084
+
+(Address of Principal Executive Offices) (Zip Code)
+
+Registrant's telephone number, including area code: (248) 559-0840
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class 
+
+Trading
+
+Symbol(s) 
+
+Name of each exchange on which registered
+
+Common Stock, no par value 
+
+CNFR 
+
+The Nasdaq Stock Market LLC
+
+9.75% Senior Notes due 2028 
+
+CNFRZ 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter)
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 1.01. Entry Into a Material Definitive Agreement.
+
+On March 4, 2025, Conifer Holdings, Inc. (the Company) filed a Current Report on Form 8-K (the Original 8-K) under Item 1.01 disclosing, among other things, that on February 27, 2025 and March 3, 2025, the Company agreed to issue to a Purchaser shares of Series B Preferred Stock. Capitalized terms not otherwise defined herein shall have the meanings assigned to such terms in the Original 8-K.
+
+This amendment to the Original 8-K is being filed to correct the number of shares of Series B Preferred Stock that the Company agreed to issue on March 3, 2025. The Original 8-K inadvertently reflected 5,000 shares of Series B Preferred Stock instead of 500 shares of Series B Preferred Stock. No other changes to the Original 8-K were made.This Amendment should be read in conjunction with the Original 8-K and the Companys other filings with the Securities and Exchange Commission.
+
+Item 3.02. Unregistered Sales of Equity Securities.
+
+Item 1.01 is hereby incorporated by reference into this Item 3.02. As previously disclosed, the above issuance was completed in reliance on exemptions from registration under Section 4(a)(2) of the Securities Act of 1933, as amended (the Securities Act), and Rule 506 of Regulation D promulgated thereunder. The Company relied on this exemption from registration based in part on representations made by the Purchaser. The Securities have not been and may not be registered under the Securities Act or applicable state securities laws and may not be offered or sold in the United States absent registration under the Securities Act or an exemption from such registration requirements.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Conifer Holdings Inc.
+
+Date: March 14, 2025 
+
+By: 
+
+/s/ BRIAN J. RONEY
+
+Brian J. Roney
+
+Chief Executive Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>2
+<FILENAME>cnfr-20250227.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT
+<TEXT>
+100000 - Document - Document and Entity Information 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+Document Information [Table] 
+Entity Central Index Key 
+Entity Central Index Key 
+9.75% Senior Notes due 2028. 
+Nine Point Seven Five Percent Senior Notes due 2028 [Member] 
+9.75% Senior Notes due 2028 
+Entity Address, State or Province 
+Entity Address, State or Province 
+Cover [Abstract] 
+Amendment Description 
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+Amendment Flag 
+Amendment Flag 
+Class of Stock [Domain] 
+Entity Address, City or Town 
+Entity Address, City or Town 
+Document Type 
+Document Type 
+Title of 12(b) Security 
+Title of each class 
+Soliciting Material 
+Soliciting Material 
+Entity Address, Address Line Two 
+Entity Address, Address Line Two 
+Document Period End Date 
+Trading Symbol 
+Trading Symbol(s) 
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+Security Exchange Name 
+Name of each exchange on which registered 
+Class of Stock [Axis] 
+Written Communications 
+Written Communications 
+Common Stock, no par value. 
+Common Stock, no par value [Member] 
+Common Stock, No Par Value 
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+Current Fiscal Year End Date 
+Entity Registrant Name 
+Entity Registrant Name 
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+Securities Act File Number 
+Entity File Number 
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+City Area Code 
+City Area Code 
+Local Phone Number 
+Local Phone Number 
+Document Information [Line Items]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>4
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Document and Entity Information
+
+Feb. 27, 2025
+
+Document Information [Line Items] 
+
+Document Type 8-K/A
+
+Amendment Flag true
+
+Amendment Description This amendment to the Original 8-K is being filed to correct the number of shares of Series B Preferred Stock that the Company agreed to issue on March 3, 2025. The Original 8-K inadvertently reflected 5,000 shares of Series B Preferred Stock instead of 500 shares of Series B Preferred Stock. No other changes to the Original 8-K were made. This Amendment should be read in conjunction with the Original 8-K and the Companys other filings with the Securities and Exchange Commission.
+
+Entity Registrant Name Conifer Holdings Inc.
+
+Entity Central Index Key 0001502292
+
+Document Period End Date Feb. 27, 2025
+
+Entity Emerging Growth Company false
+
+Entity File Number 001-37536
+
+Entity Incorporation, State or Country Code MI
+
+Entity Tax Identification Number 27-1298795
+
+Entity Address, Address Line One 3001 West Big Beaver Road
+
+Entity Address, Address Line Two Suite 319
+
+Entity Address, City or Town Troy
+
+Entity Address, State or Province MI
+
+Entity Address, Postal Zip Code 48084
+
+City Area Code 248
+
+Local Phone Number 559-0840
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Common Stock, No Par Value 
+
+Document Information [Line Items] 
+
+Title of each class Common Stock, no par value
+
+Trading Symbol(s) CNFR
+
+Name of each exchange on which registered NASDAQ
+
+9.75% Senior Notes due 2028 
+
+Document Information [Line Items] 
+
+Title of each class 9.75% Senior Notes due 2028
+
+Trading Symbol(s) CNFRZ
+
+Name of each exchange on which registered NASDAQ
+
+X
+
+- Definition
+
+Description of changes contained within amended document.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentDescription
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentInformationLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=cnfr_CommonStockNoParValueMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=cnfr_NinePointSevenFivePercentSeniorNotesDue2028Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>5
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>6
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+3 
+24 
+1 
+false 
+2 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+100000 - Document - Document and Entity Information 
+Sheet 
+http://www.cnfrh.com/20250227/taxonomy/role/Role_DocumentDocumentAndEntityInformation 
+Document and Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+cnfr-20250227.htm 
+cnfr-20250227.xsd 
+
+http://xbrl.sec.gov/dei/2024 
+
+false 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>11
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>12
+<FILENAME>0000950170-25-039537-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>cnfr-20250227_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001502292 
+
+cnfr:NinePointSevenFivePercentSeniorNotesDue2028Member 
+
+2025-02-27 
+2025-02-27 
+
+0001502292 
+
+cnfr:CommonStockNoParValueMember 
+
+2025-02-27 
+2025-02-27 
+
+0001502292 
+
+2025-02-27 
+2025-02-27 
+
+true 
+0001502292 
+8-K/A 
+2025-02-27 
+Conifer Holdings Inc. 
+MI 
+001-37536 
+27-1298795 
+3001 West Big Beaver Road 
+Suite 319 
+Troy 
+MI 
+48084 
+248 
+559-0840 
+false 
+false 
+false 
+false 
+Common Stock, no par value 
+CNFR 
+NASDAQ 
+9.75% Senior Notes due 2028 
+CNFRZ 
+NASDAQ 
+false 
+This amendment to the Original 8-K is being filed to correct the number of shares of Series B Preferred Stock that the Company agreed to issue on March 3, 2025. The Original 8-K inadvertently reflected 5,000 shares of Series B Preferred Stock instead of 500 shares of Series B Preferred Stock. No other changes to the Original 8-K were made. This Amendment should be read in conjunction with the Original 8-K and the Companys other filings with the Securities and Exchange Commission.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

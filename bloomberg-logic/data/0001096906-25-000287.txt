@@ -1,0 +1,1189 @@
+<SEC-DOCUMENT>0001096906-25-000287.txt : 20250324
+<SEC-HEADER>0001096906-25-000287.hdr.sgml : 20250324
+<ACCEPTANCE-DATETIME>20250321183552
+ACCESSION NUMBER:		0001096906-25-000287
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		17
+CONFORMED PERIOD OF REPORT:	20250125
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250324
+DATE AS OF CHANGE:		20250321
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIBOTICS, INC.
+		CENTRAL INDEX KEY:			0001763329
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEDICINAL CHEMICALS & BOTANICAL PRODUCTS [2833]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				870645794
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56022
+		FILM NUMBER:		25761875
+
+	BUSINESS ADDRESS:	
+		STREET 1:		480 22ND STREET
+		CITY:			HEYBURN
+		STATE:			ID
+		ZIP:			83336
+		BUSINESS PHONE:		208-677-2020
+
+	MAIL ADDRESS:	
+		STREET 1:		480 22ND STREET
+		CITY:			HEYBURN
+		STATE:			ID
+		ZIP:			83336
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Mycotopia Therapies, Inc.
+		DATE OF NAME CHANGE:	20210519
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	20/20 Global, Inc.
+		DATE OF NAME CHANGE:	20190102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>tpia-20250125.htm
+<DESCRIPTION>AIBOTICS, INC. - FORM 8-K SEC FILING
+<TEXT>
+xml version='1.0' encoding='ASCII'?AIBOTICS, INC. - Form 8-K SEC filing
+
+0001763329false00017633292025-01-252025-01-25
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+FORM8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 25, 2025
+
+AIBOTICS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+______________________________________________
+
+Nevada 
+
+000-56022 
+
+87-0645794
+
+(State of Incorporation) 
+
+(Commission File Number) 
+
+(IRS Employer ID No.)
+
+100 SE 2nd St, Suite 2000
+
+Miami,Florida33131
+
+(Address of Principal Executive Offices)
+
+(954)233-3511
+
+(Registrant's Telephone Number including Area Code)
+
+____________________________________________
+
+(Former name or address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+SECTION 1. REGISTRANTS BUSINESS AND OPERATIONS
+
+Item 1.01 Entry into a Material Definitive Agreement. 
+
+On January 25, 2025, Aibotics Inc. (the Company) entered into a software development agreement (the Agreement) with GMF Ventures, LLC (GMF) for the development of iOS and Android based applications for its Philbot massage robot.
+
+The Company will pay GMF Ventures a total of $165,000 for services under the contract. The first payment pursuant to the Agreement has been made via the issuance of 500,000 shares of the Companys common stock to Steve Fleurimont issued pursuant to the Companys Equity Incentive Plan as set forth in the Companys registration statement on Form S-8 filed with the SEC on September 13, 2024. 
+
+ITEM 9.01 FINANCIAL STATEMENTS AND EXHIBITS
+
+Exhibit No. 
+
+Description
+
+10.1 
+
+Software Development Agreement
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Aibotics Inc.
+
+a Nevada corporation
+
+Date: March 21, 2025 
+
+By: 
+
+/s/Ben Kaplan
+
+Name: 
+
+Ben Kaplan
+
+Title: 
+
+Chief Executive Officer and Principal Accounting Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>tpia_ex10z1.htm
+<DESCRIPTION>SOFTWARE DEVELOPMENT AGREEMENT
+<TEXT>
+Ben Kaplan,herein duly represented by its legal representative 
+
+Ben Kaplan, herein after referred to as the
+
+CONTRACTEE.
+
+and on the other hand.
+
+b. GMF VENTURES LLC. With a Mailing address of 6330 N Andrews Ave, Ste 101, Ft Lauderdale, FL 33309 herein duly represented by its legal representative Steve Fleurimont hereinafter referred to as the CONTRACTOR.
+
+The Parties. by mutual agreement and in the best form of law. agree to enter into this private instrument of (General Service Agreement Agreement). under the terms and conditions set forth below:
+
+1. OBJECT OF THE CONTRACT
+
+1.1 The object of the agreement is the development of machine learning systems. computer vision algorithms and robotic solutions.
+
+1.2 Scope. The services will be provided as described in the attached proposal (Annex I) through the proper methodology of the Contractor.
+
+1.3 Place of the Services Provision. The services herein contracted will be provided. primarily. online and remotely
+
+2.PAYMENTS
+
+2.1 The CONTRACTEE will pay the CONTRACTOR the values stipulated in the Summary Table. under the conditions and recurrences stipulated therein.
+
+2.2 In the event of default of the monthly installment on the due date, a -fine of 2% (two percent) is stipulated. plus monthly interest of 1% (one percent) and monotary correction by the IOP-M/FOV until the actual payment.
+
+2.3 The CONTRACTOR reserves the right to temporarily and immediately stop the services provision in the event of default for a period exceeding 30 (thirty) days. regardless of prior notice.
+
+3. RESCISSION
+
+3.1 Termination and Notice. This Agreement may be terminated by either Party, without the incidence of fine and/or damages, upon simple formal notice of its intention with at least 30 (thirty) days in advance. With obligation to settle the installments resulting from services already rendered until the date of termination.
+
+3.1.1Penalty. In the event of breach of Prior Notice, the breaching party shall pay a non-compensatory fine of U$ 55,000.00 (Fifty five thousand dollars).
+
+3.2 Also constitute grounds for the motivated and immediate termination of this Contract. regardless of notification. and the applicable compensation to the opposing party, the party that: 
+
+3.2.1 Violate any obligation of law, regulation, technical standard and/or this Contract;
+
+3.2.2 Perform acts that damage the commercial image of the other party;
+
+3.2.3 Failure to provide the necessary information for the provision of the contracted services;
+
+3.2.4 Failure to comply with the obligations stipulated in this Contract.
+
+3.2.5 Has its bankruptcy and/or judicial or extrajudicial reorganization requested. homologated or decreed: 
+
+3.2.6 Suffer a corporate reorganization that may compromise the capacity of the Party involved to comply with the obligations herein agreed.
+
+4. OBLIGATIONS
+
+4.1 CONTRACTEEs obligations. The CONTRACTEE is obliged to:
+
+4.1.1 Supply the SERVICE PROVIDER all the information and documents requested and necessary to the rendering of the Services herein contracted. guaranteeing the availability of professionals from the CONTRACTING PARTY to clarify doubts and solve problems. as well as placing at the disposal of the SERVICE PROVIDER the information, documents and materials necessary for the execution of the activities. in a clear and comprehensible way:
+
+4.1.2 Give the CONTRACTOR, in a timely manner, knowledge of all the facts that may interfere in the provision of the contracted services:
+
+4.2 CONTRACTORS obligations. The CONTRACTOR is obliged to:
+
+4.2.1 To give knowledge to the CONTRACTEE of all the facts that may interfere in the fulfillment of the deadlines eventually agreed by the Parties and in the rendering of the services herein contracted.
+
+4.2.2 To give information to the CONTRACTING PARTY, whenever it is requested. informing about the execution of its services and other details about the execution of its activities.
+
+4.2.3 To zeal for the concept of the marks, products and services of the CONTRACTEE. abstaining of any act or omission that directly or indirectly, causes or can cause discredit discredit or reduction of the value of the referred marks. products and services.
+
+4.3 Limitation of Liability Clause. To the fullest extent permitted by law, the CONTRACTOR and its officers. directors. employees. agents. and affiliates shall not be liable to the CONTRACTEE or any third party for any direct. Indirect, incidental. special, or consequential damages arising out of or in connection with this agreement, including. but not limited to. lost profits. lost revenue. lost data. or other economic loss. regardless of the form of action, whether in contract tort, strict liability. or otherwise. even if the CONTRACTOR has been advised of the possibility of such damages. In any event. the total liability of the CONTRACTOR and its officers. directors. employees. agents. and affiliates for any claim arising out of or in connection with this agreement shall be limited to the fees paid bythe CONTRACTEE to the CONTRACTOR under this agreement.
+
+5. OWNERSHIP OF INTELLECTUAL PROPERTY
+
+5.1 Cession. All intellectual property and related material, including any trade secrets. moral rights. goodwill. relevant registrations or applications for registration. and rights in any patent. copyright. trademark, trade dress. industrial design and trade name (the intellectual Property) that is developed or produced under this Agreement. is a work made for hire and will be the sole property of the CONTRACTEE. The use of the Intellectual Property by the CONTRACTEE will not be restricted in any manner. 
+
+5.2 The assignment of the intellectual property informed in item 5.1 does not extend to methodologies or other assets of intellectual property already owned or developed by the CONTRACTOR, restricting the assignment to materials developed under this Contract.
+
+6. CONFIDENTIALITY
+
+6.1 Confidential Information. The Parties under take on their own. by their partners. directors, employees, agents and/or contracted personnel, to keep the most complete and absolute secrecy in relation to any information related to the activities of the other Party, of which they may have knowledge or access due to the rendering of the services subject matter of this Agreement including the Contract itself. and may not. under any pretext, use it for itself, disclose, reveal, reproduce or make it known to third parties. without the prior express written consent of the other Party. being responsible, in case of non-compliance with the obligations assumed in this Clause. for any losses and damages and other legal combinations.
+
+6.2 For the effects of the provisions of this Clause, the confidential information referred to in item 6.1 will not contain nor will necessarily be accompanied by any type of confidentiality warning. and such characteristic shall always be presumed by the parties.
+
+6.3 The CONTRACTOR may not use the Intellectual Property for any purpose other than that contracted for in this Agreement except with the written consent of the CONTRACTEE.
+
+6.4 The CONTRACTOR should deliver to the CONTRACTEE materials. tools, models, and documentation upon the termination of this Agreement without maintaining a copy of any data.
+
+7. DATA PROTECTION
+
+7.1 The Parties declare and agree that any and all treatment activities must meet the purposes of this contract. and be carried out in compliance with the applicable legislation. especially, but not limited to:
+
+7.1.1 General Data Protection Regulation (GDPR) - Europe;
+
+7.1.2 Privacy Act 2020-New Zealand;
+
+7.1.3 California Consumers Protection Act (CCPA) 2018 - California. United States;
+
+7.1.4 Personal Information Protection and Electronic Documents Act (PIPEDA)-Canada
+
+7.1.5 Personal Information Protection Law (PIPL) - China;
+
+7.1.6 Privacy Act 1988 - Australia:
+
+7.1.7 This Agreement is subject to Florida Law and all rights therein.
+
+7.2 The Parties are not authorized to transfer and/or share with third parties the personal data processed in reason of the present contractual relationship, unless the sharing is directed and/or expressly authorized by the other Party. 7.3 Each Party is solely responsible for the use and sharing with third parties of its access credentials to documents. platforms. information. devices. and other accesses. made available by the other Party for the due accomplishment of its functions.
+
+7.4 At the end of the relationship between the Parties. the CONTRACTOR one undertakes to eliminate. correct. anonymize. store and/ or block access to the information, in definitive character or not. that has been processed as a result of the Contract extending to eventual copies. in accordance with the recommendations of the CONTRACTEE.
+
+7.5 In the occurrence of any incident (such as loss. deletion. destruction, alteration. or undesired or unauthorized exposure) involving the information shared by the CONTRACTEE as a result of the present contractual relationship. the CONTRACTOR shall:
+
+7.5.1 Communicate on the occurrence immediately and, when not possible and provided that the delay is justified. within a maximum period of twenty-four (24) hours. as of the acknowledgement of the Incident containing. at least. The following information: (i) date and time of the Incident: (ii) date and time of the acknowledgement: (iii) list of the types of data affected by the Incident; (iv) list of Holders affected by the leak: and (v) indication of the measures being taken to repair the damage and avoid new Incidents:
+
+7.5.2 Adopt the CONTRACTEEs recommendations on how to proceed after the Incident.
+
+7.5.3 Take all necessary steps to recover and/or reconstitute all damaged information.
+
+8. LABOR OBLIGATIONS
+
+8.1 This Agreement is of a strictly civil nature. and there is no employment relationship between the Contractee and the Contractors employees, directors or agents and vice versa.
+
+8.1.1 The Contract or is solely responsible for bearing the burdens related to labor. social security, federal. state and municipal taxes, FGTS and any others arising from the employment relationship between it and its employees. In charge of the execution of the Services object of this contract. as well such as strict compliance with the regulatory standards of labor procedures in force.
+
+8.2 Any lawsuits of a labor nature that arise as a result of this contract will be regulated according to the provisions below:
+
+8.2.1 If the Contractee issued. at anytime. in the labor sphere by an employee, agent or third party who has provided services to the Contractor. The Contractor undertakes to: (i) voluntarily intervene in the deed, claiming the exclusion of the Contratctee from the defendants side of the respective demand: (ii) provide all guarantees and guarantees ordered during the proceedings. whether in the first or second instance; and (iii) assume full and exclusive responsibility for the payment of pecuniary convictions and requested measures, keeping the Contractee safe and free from any encumbrance and/or financial disbursement in any way related to the lawsuit in progress.
+
+8.2.2 The Contractor shall request the exclusion of the Contractee at the first opportunity in which it manifests itself in the case file or at a hearing. If the Contractee is included in the passive pole of demands made by employees. collaborators and/or third parties linked to the Contractor.
+
+9.NO GROOMING
+
+9.1 The Contractee agrees that during the term of the Agreement. and for a period of 12 (twelve) months immediately following the termination of the Agreement for any reason, whether with or without cause. the Contractee shall not. Either directly or indirectly, hire or otherwise engage. give aid or assist to any other person or entity (including its subsidiaries. parents or other affiliates) to hire or otherwise engage in the territory, any current or former employee of the Contractor. nor assist competitors in such hiring.
+
+10. FINAL PROVISIONS
+
+10.1 Amendments. The Contract may only be altered by means of an amendment drawn up and signed jointly by the Parties.
+
+10.2 Exclusivity. The Parties acknowledge that this Agreement is non-exclusive and that either Party will be free. during and after the Term, to engage or contract with third parties for the provision of non concurrent services similar to the Services.
+
+10.3 Autonomy. Except as otherwise provided in this Agreement. the Contractor will have full control over working time. methods, and decision making in relation to provision of the Services in accordance with the Agreement
+
+10.4 Waiver. The waiver by either Party of a breach. default. delay or omission of any of the provisions of this Agreement by the other Party will not be construed as a waiver of any subsequent breach of the same or other provisions.
+
+10.5 Liberality of the Parties. Any tolerance or silence of the Parties in relation to the obligations undertaken herein shall be considered mere liberality, not generating right to the Parties and neither may be interpreted as novation, acceptance. renegotiation or amendment to the Agreement. so that the non-exercise by any of the Parties of the right provided for in this Agreement or resulting therefrom shall not imply waiver or novation. and its compliance may be required at any time.
+
+10.6 Employees. The Contractee undertakes not to hire. persuade. entice or try to attract any person involved in the development of the activities related to the Project or to the Contractor. as well as any client to stop doing business with the Contractor. under penalty of the payment of the fine provided in this item.
+
+10.7 Specific Performance. This Agreement grants the Parties the right to seek specific performance and all obligations provided for herein. Without prejudice to the cumulative claim for losses and damages and to the use of the indemnification procedures expressly provided for herein. This Instrument shall serve as an extrajudicial execution instrument in the form of the civil procedural legislation for all legal effects.
+
+10.8 Binding. This Agreement and all obligations and rights hereunder shall be binding upon the Parties, as well as upon their respective heirs, successors and assigns at any title, as from the date of its execution.
+
+10.9 Communications: Communications from one of the Parties to the other will be sent via electronic mail. which must be addressed to the Parties at the following addresses:
+
+10.9.1 Contractee: email indicated in the Summary Table.
+
+10.9.2 Contractor: info@gmfventures.net
+
+10.9.3 The notifications and communications will be considered made when effectively received, under the terms of the respective receipts. 
+
+10.10 Independence of Provisions. If any provision of this Agreement is found by a court of competent jurisdiction to be invalid. illegal or unenforceable, such invalidity, illegality or unenforceability shall not affect any other provision
+
+hereof. and such provision shall be read in accordance with the intent of the Parties drawn from the general interpretation of this Agreement.
+
+10.11 Legitimacy of the Parties. The Parties declare to have full capacity and legitimacy to execute the Agreement. being duly represented in the form of their respective corporate acts. when applicable.
+
+10.12 Binding to the Commercial Proposal. The Commercial Proposal sent to the EMPLOYER and signed In attachment is an integral and inseparable part of the present Contract and the obligations contained therein will be required as if they were contained in this contract. prevailing. including in case of divergence, ambiguity. inconsistency. discrepancy or conflict over the present Contract.
+
+10.13 Online Signature. The Parties firm and declare that this Agreement can electronically signed being those online signatures valid in the terms of existing Florida Law.
+
+11.LAW
+
+11.1 This Agreement. including consequences. termination and any proceedings pursuant thereto shall be construed and governed by the laws of Florida.
+
+11.2 The District Court of Florida is elected to settle any dispute arising from this Agreement. waiving any other, however privileged it may be.
+
+The Parties sign this instrument for good, firm and valuable.
+
+Boca Raton, Florida January 15th 2025.
+
+Timeline & Workload for 10S and Android Robotics Massage App
+
+Phase 1: Planning and Research (1-2 weeks)
+
+Workload:
+
+Define app features (e.g., massage control, scheduling, user feedback). 
+
+Research platform-specific requirements (iOS & Android). 
+
+Decide on tech stack (React Native. Swift/Java. or Katlin). 
+
+Phase 2: Design (2-3 weeks)
+
+Workload:
+
+Create wireframes and user flow diagrams. 
+
+Develop UI/UX designs tailored to both platforms. 
+
+Get stakeholder approval on the final design. 
+
+Phase 3: Backend Development (4-6 weeks)
+
+Workload:
+
+Set up APls for robotics integration (massage intensity. patterns). 
+
+Implement database for user data (e.g . preferences, history). 
+
+Develop authentication (OAuth, etc.) and secure data transfer. 
+
+Phase 4: Frontend Development (6-8 weeks)
+
+Workload:
+
+Build app interfaces for both 10s and Android (parallel or cross-platform). 
+
+Integrate APls for robotics controls and settings. 
+
+Implement scheduling and notification features. 
+
+Phase 5: Testing and Quality Assurance (:S-4 weeks)
+
+Workload:
+
+Perform unit integration, and UI testing for both platforms. 
+
+Conduct beta testing with real users. 
+
+Resolve bugs and optimize performance. 
+
+Phase 6: Deployment (1-2 weeks)
+
+Workload:
+
+Submit to App Store and Google Play Store. 
+
+Address platform-specific requirements for publishing. 
+
+Plan and execute the marketing launch. 
+
+Phase 7: Post-Launch Maintenance (Ongoing)
+
+Workload:
+
+Monitor app performance and user feedback. 
+
+Roll out updates and new features (e.g., Al massage customizations). 
+
+Fix bugs and ensure compatibility with OS updates.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>3
+<FILENAME>tpia-20250125_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>tpia-20250125_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABELS LINKBASE DOCUMENT
+<TEXT>
+Entity Address, State or Province 
+
+Ex Transition Period 
+
+Amendment Flag 
+
+Current with reporting 
+
+Trading Exchange 
+
+Soliciting Material 
+
+Local Phone Number 
+
+Emerging Growth Company 
+
+Pre-commencement Tender Offer 
+
+Shell Company 
+
+Securities Act File Number 
+
+City Area Code 
+
+Voluntary filer 
+
+Fiscal Year End 
+
+Entity Address, City or Town 
+
+Amendment Description 
+
+Number of common stock shares outstanding 
+
+Registrant Name 
+
+Written Communications 
+
+SEC Form 
+
+Entity Address, Address Line One 
+
+Filer Category 
+
+Period End date 
+
+Pre-commencement Issuer Tender Offer 
+
+Interactive Data Current 
+
+Registrant CIK 
+
+Small Business 
+
+Well-known Seasoned Issuer 
+
+Public Float 
+
+Trading Symbol 
+
+Entity Address, Postal Zip Code 
+
+Entity Incorporation, State or Country Code 
+
+Details 
+
+Entity Address, Address Line Two 
+
+Tax Identification Number (TIN)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>tpia-20250125_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>6
+<FILENAME>tpia-20250125.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+000010 - Document - Document and Entity Information 
+link:presentationLink 
+link:definitionLink 
+link:calculationLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>tpiaex10z1_1.jpg
+<DESCRIPTION>IMAGE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>tpiaex10z1_2.jpg
+<DESCRIPTION>IMAGE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Document and Entity Information
+
+Jan. 25, 2025
+
+Details 
+
+Registrant CIK 0001763329
+
+Registrant Name AIBOTICS, INC.
+
+SEC Form 8-K
+
+Period End date Jan. 25, 2025
+
+Tax Identification Number (TIN) 87-0645794
+
+Emerging Growth Company false
+
+Entity Incorporation, State or Country Code NV
+
+Securities Act File Number 000-56022
+
+Entity Address, Address Line One 100 SE 2nd St
+
+Entity Address, Address Line Two Suite 2000
+
+Entity Address, City or Town Miami
+
+Entity Address, State or Province FL
+
+Entity Address, Postal Zip Code 33131
+
+City Area Code 954
+
+Local Phone Number 233-3511
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Amendment Flag false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- References
+
+No definition available.+ Details
+
+Name: us-gaap_TextBlockAbstract
+
+Namespace Prefix: us-gaap_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>11
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>15
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+1 
+20 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+000010 - Document - Document and Entity Information 
+Sheet 
+http://Tpia/20250125/role/idr_DocumentDocumentAndEntityInformation 
+Document and Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+tpia-20250125.htm 
+tpia-20250125.xsd 
+tpia-20250125_def.xml 
+tpia-20250125_lab.xml 
+tpia-20250125_pre.xml 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>17
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>18
+<FILENAME>0001096906-25-000287-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>19
+<FILENAME>tpia-20250125_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001763329 
+
+2025-01-25 
+2025-01-25 
+
+0001763329 
+false 
+8-K 
+2025-01-25 
+AIBOTICS, INC. 
+NV 
+000-56022 
+87-0645794 
+100 SE 2nd St 
+Suite 2000 
+Miami 
+FL 
+33131 
+954 
+233-3511 
+false 
+false 
+false 
+false 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

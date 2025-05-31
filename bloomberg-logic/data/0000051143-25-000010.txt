@@ -1,0 +1,3167 @@
+<SEC-DOCUMENT>0000051143-25-000010.txt : 20250204
+<SEC-HEADER>0000051143-25-000010.hdr.sgml : 20250204
+<ACCEPTANCE-DATETIME>20250204172405
+ACCESSION NUMBER:		0000051143-25-000010
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		124
+CONFORMED PERIOD OF REPORT:	20250204
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250204
+DATE AS OF CHANGE:		20250204
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTERNATIONAL BUSINESS MACHINES CORP
+		CENTRAL INDEX KEY:			0000051143
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER & OFFICE EQUIPMENT [3570]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				130871985
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02360
+		FILM NUMBER:		25589644
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 NEW ORCHARD ROAD
+		CITY:			ARMONK
+		STATE:			NY
+		ZIP:			10504
+		BUSINESS PHONE:		9144991900
+
+	MAIL ADDRESS:	
+		STREET 1:		1 NEW ORCHARD RD
+		CITY:			ARMONK
+		STATE:			NY
+		ZIP:			10504
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ibm-20250204.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?ibm-20250204
+
+0000051143falseCHX00000511432025-02-042025-02-040000051143exch:XNYSus-gaap:CommonStockMember2025-02-042025-02-040000051143exch:XCHIus-gaap:CommonStockMember2025-02-042025-02-040000051143exch:XNYSibm:Notes2.875PercentDue2025Member2025-02-042025-02-040000051143exch:XNYSibm:Notes0.950PercentDue2025Member2025-02-042025-02-040000051143exch:XNYSibm:Notes0.300PercentDue2026Member2025-02-042025-02-040000051143exch:XNYSibm:Notes1.250PercentDue2027Member2025-02-042025-02-040000051143exch:XNYSibm:Notes3.375PercentDue2027Member2025-02-042025-02-040000051143exch:XNYSibm:Notes0.300PercentDue2028Member2025-02-042025-02-040000051143exch:XNYSibm:Notes1.750PercentDue2028Member2025-02-042025-02-040000051143exch:XNYSibm:Notes1.500PercentDue2029Member2025-02-042025-02-040000051143exch:XNYSibm:Notes0.875PercentDue2030Member2025-02-042025-02-040000051143exch:XNYSibm:Notes1.750PercentDue2031Member2025-02-042025-02-040000051143exch:XNYSibm:Notes3.625PercentDue2031Member2025-02-042025-02-040000051143exch:XNYSibm:Notes0.650PercentDue2032Member2025-02-042025-02-040000051143exch:XNYSibm:Notes1.250PercentDue2034Member2025-02-042025-02-040000051143exch:XNYSibm:Notes3.750PercentDue2035Member2025-02-042025-02-040000051143exch:XNYSibm:Notes4.875PercentDue2038Member2025-02-042025-02-040000051143exch:XNYSibm:Notes1.200PercentDue2040Member2025-02-042025-02-040000051143exch:XNYSibm:Notes4.000PercentDue2043Member2025-02-042025-02-040000051143exch:XNYSibm:Debentures7.00PercentDue2025Member2025-02-042025-02-040000051143exch:XNYSibm:Debentures6.22PercentDue2027Member2025-02-042025-02-040000051143exch:XNYSibm:Debentures6.50PercentDue2028Member2025-02-042025-02-040000051143exch:XNYSibm:Debentures5.875PercentDue2032Member2025-02-042025-02-040000051143exch:XNYSibm:Debentures7.00PercentDue2045Member2025-02-042025-02-040000051143exch:XNYSibm:Debentures7.125PercentDue2096Member2025-02-042025-02-04
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT PURSUANT TO SECTION 13 OR 15 (d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report: February 4, 2025
+
+(Date of earliest event reported)
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+New York 1-2360 13-0871985
+
+(State of Incorporation) (Commission File Number) (IRS employer Identification No.)
+
+One New Orchard Road
+
+Armonk, New York 10504
+
+(Address of principal executive offices) (Zip Code)
+
+914-499-1900
+
+(Registrants telephone number)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading symbol(s) Name of each exchange on which registered
+
+Capital stock, par value $.20 per share IBM New York Stock Exchange
+
+NYSE Chicago
+
+2.875% Notes due 2025 IBM 25A New York Stock Exchange
+
+0.950% Notes due 2025 IBM 25B New York Stock Exchange
+
+0.300% Notes due 2026 IBM 26B New York Stock Exchange
+
+1.250% Notes due 2027 IBM 27B New York Stock Exchange
+
+3.375% Notes due 2027 IBM 27F New York Stock Exchange
+
+0.300% Notes due 2028 IBM 28B New York Stock Exchange
+
+1.750% Notes due 2028 IBM 28A New York Stock Exchange
+
+1.500% Notes due 2029 IBM 29 New York Stock Exchange
+
+0.875% Notes due 2030 IBM 30A New York Stock Exchange
+
+1.750% Notes due 2031 IBM 31 New York Stock Exchange
+
+3.625% Notes due 2031 IBM 31B New York Stock Exchange
+
+0.650% Notes due 2032 IBM 32A New York Stock Exchange
+
+1.250% Notes due 2034 IBM 34 New York Stock Exchange
+
+3.750% Notes due 2035 IBM 35 New York Stock Exchange
+
+4.875% Notes due 2038 IBM 38 New York Stock Exchange
+
+1.200% Notes due 2040 IBM 40 New York Stock Exchange
+
+4.000% Notes due 2043 IBM 43 New York Stock Exchange
+
+7.00% Debentures due 2025 IBM 25 New York Stock Exchange
+
+6.22% Debentures due 2027 IBM 27 New York Stock Exchange
+
+6.50% Debentures due 2028 IBM 28 New York Stock Exchange
+
+5.875% Debentures due 2032 IBM 32D New York Stock Exchange
+
+7.00% Debentures due 2045 IBM 45 New York Stock Exchange
+
+7.125% Debentures due 2096 IBM 96 New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 7.01. Regulation FD Disclosure.
+
+On February 4, 2025, IBM held an Investor Day, hosted by IBM's Chairman, President and Chief Executive Officer, Arvind Krishna, IBM's Senior Vice President and Chief Financial Officer, Jim Kavanaugh, and other members of IBM's senior leadership team to discuss the company's strategy and key initiatives.
+
+Exhibit 99.1 to this Current Report on Form 8-K contains IBM's February 4, 2025 Investor Day presentation materials.
+
+In an effort to provide investors with additional information regarding the company's results as determined by generally accepted accounting principles (GAAP), the company has disclosed in the attached presentation materials certain non-GAAP information, which management believes provides useful information to investors. The rationale for management's use of non-GAAP measures is included in Exhibit 99.2 to this Form 8-K. Reconciliations of these non-GAAP financial measures to the most directly comparable financial measures calculated and presented in accordance with GAAP are included in the presentation materials, which are attached as Exhibit 99.1 to this Current Report on Form 8-K.
+
+These materials may contain forward-looking statements under the Private Securities Litigation Reform Act of 1995. These statements involve numerous factors that could cause actual results to differ materially. Additional information about those factors is contained in IBM's filings with the SEC, available from the SEC, IBM's web site or IBM's Investor Relations.
+
+The information in this Item 7.01, including the corresponding Exhibits 99.1 and 99.2, is being furnished with the Commission and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d)Exhibits
+
+The following exhibits are being furnished as part of this report:
+
+Exhibit No. Description of Exhibit
+
+99.1 
+
+Investor Day Presentation Materials, dated February 4, 2025
+
+99.2 
+
+Non-GAAP Metrics and Other Financial Information
+
+The following exhibit is being filed as part of this report:
+
+Exhibit No. Description of Exhibit
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL Document)
+
+IBMs web site (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/). IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted.
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Date: February 4, 2025 
+
+By: /s/ Nicols A. Fehring
+
+Nicols A. Fehring
+
+Vice President and Controller
+
+3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ibm-ex99_1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+ibm-ex99_1
+
+IBM Investor Day 2025 Exhibit 99.1 
+
+Todays Presenters Arvind Krishna Chairman, President & CEO Matt Hicks President & CEO, Red Hat Ric Lewis SVP, Infrastructure Rob Thomas SVP, Software and Chief Commercial Officer Jay Gambetta VP of Quantum, IBM Fellow Olympia McNerney Global Head of IR Mohamad Ali SVP, IBM Consulting James Kavanaugh SVP and CFO Ritika Gunnar GM, Data Platform 
+
+Agenda Opening Remarks Olympia McNerney Transformation and Vision Arvind Krishna AI Strategy Matt Hicks & Ritika Gunnar Software Rob Thomas Consulting Mohamad Ali Infrastructure Ric Lewis Break Quantum Jay Gambetta Financial Model James Kavanaugh Q&A 
+
+Forward-looking statements and non-GAAP information Certain comments made in this presentation may be characterized as forward looking under the Private Securities Litigation Reform Act of 1995. Forward- looking statements are based on the companys current assumptions regarding future business and financial performance. Those statements by their nature address matters that are uncertain to different degrees. Those statements involve a number of factors that could cause actual results to differ materially. Additional information concerning these factors is contained in the Companys filings with the SEC. Copies are available from the SEC, from the IBM website, or from IBM Investor Relations. Any forward-looking statement made during this presentation speaks only as of the date on which it is made. The company assumes no obligation to update or revise any forward-looking statements except as required by law; these charts and the associated remarks and comments are integrally related and are intended to be presented and understood together. In an effort to provide additional and useful information regarding the companys financial results and other financial information as determined by generally accepted accounting principles (GAAP), these materials contain certain non-GAAP information including operating earnings and other operating financial measures, free cash flow, free cash flow margin, free cash flow realization, post- dividend free cash flow, adjusted EBITDA and adjustments for currency. The company is unable to provide, without unreasonable efforts, a reconciliation to the nearest GAAP measure for certain forward-looking information. Refer to slide 100 for additional information regarding why it is impractical. From time to time, the company uses free cash flow margin, free cash flow realization and post-dividend free cash flow measures to evaluate its operating results. The rationale for managements use of other non-GAAP information included within is included as Exhibit 99.2 to the companys Form 8-K furnished to the SEC on February 4, 2025. The reconciliations of non-GAAP information to GAAP for IBMs historical financial results are included in the companys 8-K furnished on January 29, 2025 (2024 and 2023), on January 24, 2024 (2022), and the companys 10-K filed on February 22, 2022 (2021), and on February 23, 2021 (2020). The reconciliation of non-GAAP information to GAAP for IBMs full- year expectations of 2025 pre-tax income margin is included in the companys 8- K furnished on January 29, 2025. Additional reconciliations of non-GAAP information to GAAP for other measures noted within and as indicated on slide 100 are included on the slides entitled Non-GAAP supplemental materials in this presentation. To provide better transparency, the company also discusses management performance metrics including annual recurring revenue and annual bookings. The metrics are used to monitor the performance of the business and are viewed as useful decision-making information for management and stakeholders. The rationale for managements use of these performance metrics and their calculation, as well as other information including the definition of book of business, are included in Exhibit 99.2 to the companys Form 8-K furnished to the SEC on February 4, 2025. 4 
+
+Transformation and Vision Arvind Krishna Chairman, President and Chief Executive Officer 
+
+IBM is reshaping how businesses operate 93% of all Fortune 500 companies leverage IBMs hybrid cloud products and solutions >$5B AI book of business across Software and Consulting ~80% of IBMs revenue from clients who purchase across Software, Consulting, and Infrastructure Leading in hybrid cloud Leading in AI Leading as IBM All data as of end of 2024 Note 9 6 
+
+Delivered on our mid-term model targets Met revenue growth across all segments Exceeded profitability targets Achieved highest FCF margin in history in 2024 $63B 2024 revenue $12.7B 2024 free cash flow 7 All data as of end of 2024 Note 1 
+
+Our flywheel for growth Client Trust Incumbency over 100 years, powering mission-critical solutions Hybrid Cloud & AI Leadership The de facto platform for hybrid cloud; early leadership position in AI Domain Expertise Helping clients design, deploy, and drive ROI Ecosystem Multiplier Leveraging our extensive partner network Investment in Innovation Driving sustainable long-term growth 8 
+
+Our strategy is uniquely positioned around two transformative technological shifts new applications by 202821B+ 73% of companies use hybrid cloud today1 in annual productivity gains driven by AI by 20303$4.4T of all AI deployments will use containers by 2027475% Hybrid Cloud + AI 9 1 Flexera 2 1 Billion New Logical Applications, April 2024, IDC, Doc #US51953724 3 McKinsey 4 Gartner 
+
+Technology is the ultimate enabler of our clients growth 10 Business innovation Deploying new technology to evolve and scale for growth amidst disruption Operational efficiency Optimizing internal processes and resources to meet demands, including talent gaps Strategic flexibility Managing data and applications for resilience across distributed IT environments drives value for 
+
+IBMs leading solutions deliver value to clients 11 GenAI watsonx infused throughout, driving growth through productivity Hybrid Cloud Managing distributed IT environments Automation Data Domain Expertise IBM Z and Transaction Processing Optimizing for complexity and cost Eliminating complexity and driving insights Designing and accelerating business outcomes Supporting the most critical workloads IBM Consulting 
+
+Red Hat is the de facto standard for hybrid cloud Significant growth since acquisition announcement $1.7T Hybrid cloud opportunity1 Top 3 Market share in containers across cloud and on-prem2 1 Hybrid cloud software, hardware and IT services market in 2025, per IDC Black Book, December 2024 2 Worldwide Competitive Deployment Centric and Container Platforms, March 2024, IDC, Doc #US51922224 3 Refer to Exhibit 99.2 to the companys Form 8-K furnished to the SEC on February 4, 2025 for definition of ARR $6.5B in Red Hat 2024 revenue from ~$3B pre-acquisition >13x growth in OpenShift revenue to ~$1.4B ARR in 2024 3 ~8x growth in Ansible revenue to ~$500M ARR in 2024 3 $16B in Consulting bookings through 2024 12 
+
+Open Cost Efficient Hybrid Domain Expertise Driving rapid innovation leveraging the developer community Enterprise-ready fit for purpose models with 90% better cost efficiency Fulfilling and optimizing the need for sovereignty and flexibility Accelerating client adoption and experience Our AI strategy focuses on more transparent and efficient enterprise solutions 13 IBM Consulting 
+
+IBMs integrated portfolio addresses enterprise AI needs 14 
+
+Our approach is driving strong momentum in GenAI GenAI book of business, inception to date Note 9 15 
+
+Synergies across platforms accelerate our value to clients Hybrid cloud migration Data management Improved operational efficiency Modernized IT footprint Container-based architecture Application development Digital payment enablement Scalable customer experience Customized generative AI Data curation and governance Unprecedented fan experience Secure digital platform 16 
+
+Risk tolerance Fostering a culture of accountability and working with clients to take shared, calculated risks 2 Speed Empowering teams to accelerate innovation and delivery of solutions 1 Talent Strengthening recruiting and retention with revamped incentives and emphasis on technical skills 3 Weve created a culture that fosters growth and performance 17 
+
+Delivering a new era of innovation at IBM Increased R&D to 12% from 9%1 Accelerating innovation speed 1 Represents FY expense to revenue ratio, from 2020 (as-reported in 2020 10-K) to 2024 2 As of Q4, 2024 Note 6, 9 18 Infrastructure 120% z16 program to program growth2 Consulting >$4B GenAI bookings, inception to date Software Accelerated growth to 9% in 2024 
+
+75% Of acquisition spend on software ~1-2pts Points of revenue growth driven by acquisitions Augmented by a focused acquisition and divesture strategy July 2019 June 2021 August 2023 July 2024 Pending November 2021 February 2024 December 2024 November 2020 December 2022 Dates indicate transaction close Note 12 June 2022 November 2024 September 2024 19 Selected Divestitures & Partnerships Selected Acquisitions 
+
+Created an ecosystem multiplier through our partner network Managed Service Providers Distribution & Resell Partners Consultancies & System Integrators Developer Community Independent Software Vendors Ecosystem GenAI partners Strategic partners 20 
+
+Driving value through portfolio optimization and cost discipline 1 Annualized exit run rate 2 2020 data as-reported in 2020 10-K Note 2 PTI Margin Promoting focus and efficiency across our business Optimizing the portfolio with an emphasis on growth Infusing generative AI at scale as client zero Growing wallet share with experiential and technical sales Leveraging partners to expand market reach Executed on $3.5B in productivity savings in 20241 21 2 
+
+119% total shareholder returns, trailing three years2 ~75pts ahead of the S&P 500, trailing three years2 >$130B value created, trailing three years2,3 29 years of consecutive dividend increases Driving value for shareholders We are delivering sustainable revenue and free cash flow growth 1 2018-2020 using reported revenue in each reference years 10 -K 2 Shareholder return data represents trailing three years as of January 30, 2025 3 Value creation includes growth in market capitalization and dividends 4 FCF margin as of 2020, 2024, and 2025 Note 3, 5, 12, 13 15% 20% ~21% Source: CapIQ 22 1 Annualized revenue growth FCF Margin4 
+
+IBM is committed to maximizing value for shareholders A radically different company Focused Hybrid Cloud and AI portfolio aligned to client needs + a culture of growth and performance Accelerating revenue growth to 5%+ Proven repositioning, on path to accelerate growth Delivering FCF growth > revenue growth Ongoing productivity initiatives and operating leverage Returning capital to shareholders Dividend growth and financial flexibility for opportunistic share repurchase 23 Note 12 
+
+AI Strategy Matt Hicks Chief Executive Officer, Red Hat Ritika Gunnar General Manager, Data 
+
+Enterprise AI is an attractive AI market Total Enterprise AI spend ($B) Sizable and rapidly growing market1 despite early days of generative AI2 1 IDC Worldwide AI & Generative AI Spending Guide, September 2024, IDC, Doc #US52520724 2 BCG Wheres the Value in AI Oct 2024, N=1,000 25 of enterprises have experimented with GenAI 98% have scaled experiments into production 26% Yet only 
+
+Solving enterprise pain points will accelerate adoption 1 Customer Perspectives on AI-ready Infrastructure Priorities, March 2024, IDC, Doc #US51664624 2 Deloitte State of Generative AI in the Enterprise Q3 Aug 2024 3 IBM IBV The CEOs guide to generative AI Jul 2023 26 85% Companies seeking alternatives to large models Cost High technical and operational costs drive enterprises to seek cost efficient solutions 75% Companies investing more in data management due to GenAI Complexity Beyond models need data and apps across hybrid environments, with data and security as top challenges 71% Executives believe their teams lack appropriate GenAI skills Expertise Complexity integrating AI into business workflows requires technical and domain expertise 
+
+Open Cost Efficient Hybrid Domain Expertise Driving rapid innovation leveraging the developer community Enterprise-ready fit for purpose models with 90% better cost efficiency Fulfilling and optimizing the need for sovereignty and flexibility Accelerating client adoption and experience Our AI strategy focuses on more transparent and efficient enterprise solutions 27 
+
+Open: Driving rapid innovation leveraging the developer community 1 IDC Quarterly Enterprise Infrastructure Tracker, May 2024, IDC, Doc #US52098824 2 Stanford Institute for Human-Centered AI (2024). AI Index report 2024. Stanford University. 3 Refer to Exhibit 99.2 to the companys Form 8-K furnished to the SEC on February 4, 2025 for definition of ARR 28 Open has won platform markets before 66% of models released in 2024 were open-source2 Open accelerates innovation in AI $1.4B OpenShift ARR3 IBM & Red Hat know how to commercialize Enterprise Server Sales1 IBM Researchs deep capabilities in AI models and technology with Red Hats success in open technologies 
+
+Cost Efficient: Orders of magnitude better cost performance Analysis by IBM Research 29 ...running on the most economic AI stack Smaller open models delivering better performance at a fraction of the price... Granite 7B + InstructLab vs. ChatGPT 4 Turbo Use case: financial planning vs. Llama 3 70B Use case: accounting Performance 4% 6% 98% 75% Cost 
+
+Hybrid: Fulfilling sovereignty, optimizing for flexibility 1 IBM Report Mastering Hybrid Cloud, 2022 2 IBM Corporate Strategy analysis 30 Multiple silos drive IT and business complexity 84% 63% of executives struggle with eliminating operational silos of clients need to integrate data silos across multi-cloud architectures only IBM can build, deploy, and manage software for hybrid cloud and AI watsonx .ai | .data | .governance OpenShift AI RHEL AI watsonx accelerates productivity and runs anywhere built on Red Hats AI foundation + Neural Magic to train, inference, run on hybrid cloud at lower cost IBM Z IBM Storage Clouds GPUs Data Center CPUs 
+
+Domain Expertise: To drive client adoption and experience IBM Technology is directly embedding domain expertise Market forecast: Enterprise GenAI models with domain specificity1 to accelerate productivity and evolve workflows with watsonx agents and assistants 1 Gartner 31 IBM Consulting is delivering expertise to external clients and innovating internally to improve delivery with IBM Consulting Advantage 75K ~50% IBM Consultants with GenAI skill certifications Productivity gains via Consulting Advantage 
+
+IBMs integrated portfolio addresses enterprise AI needs 32 
+
+watsonx solves enterprise AI adoption challenges Automate Business Processes Solve the Enterprise GenAI Data Problem Empower Clients to Scale GenAI Take out complexity through GenAI-driven automation Only 1% of enterprise data is represented in models1 Govern and manage GenAI to achieve scale Accelerate innovation and drive productivity Infuse enterprise knowledge into GenAI workloads Manage GenAI workloads with trust and transparency watsonx Orchestrate watsonx.data watsonx.ai watsonx.governance 33 1 Analysis by IBM 
+
+Why industry leaders choose IBM watsonx watsonx 34 watsonx Assistant watsonx Granite models watsonx Client satisfaction scaling watsonx Assistant across 11M customer footprint Productivity projected from AI and Automation value creation Cost efficient easy-to-deploy Granite models Expertise in real-time insights for 700M+ global fans 
+
+Proof points of a winning strategy Market Traction IBM Multiplier >$5B AI book of business across Consulting and Software ~5-6x Software and Consulting multiplier for every $ of watsonx 1 Gartner 2024 Magic Quadrants for Gen AI Model Providers and AI Knowledge Management Apps/General Productivity 2 ROI achieved by Red Hat in twelve months Note 9 Client Zero 600% ROI using RHEL AI and OpenShift AI to reduce support cases and improve customer experience2 Industry Recognition Leader Gartner GenAI emerging magic quadrants1 35 
+
+Software Rob Thomas Senior Vice President, Software and Chief Commercial Officer 
+
+Track record of acceleration in Software ~80% recurring revenue in 2024 ~6pts organic growth in 2024 ~$1B GenAI book of business inception to date across Software 1 2020 figures using reported amounts in IBMs 2021 10-K Note 6, 7, 9 Software Revenue growth 20201 2024 17% 41% Software Rule of 40 20201 2024 2% 9% $23B $27B 37 
+
+Software makes technology your advantage of organizations believe hybrid environments are optimal for managing applications and data2 80%+ 73% of companies use hybrid cloud today1 of models in 2027 will be domain specific vs. just 1% in 2023350% of executives says AI will enable business model innovation485% IBM is the only company that can build, deploy and manage software on hybrid cloud and AI 1 Flexera 2 IBM Institute of Business Value, Mainframes as mainstays of digital transformation, (Oct 2024) 3 Gartner, 3 bold and actionable predictions for future of GenAI (April 2024) 4 IBM Institute of Business Value, 5 Trends for 2025 38 
+
+IBM is recognized as a leader in Hybrid Cloud and AI Gartner Magic Quadrant for Access Management API Management Augmented Data Quality Solutions Cloud AI Developer Services Cloud Financial Management Tools Container Management (Red Hat) Data Integration Tools Security Information and Event Management Service Orchestration and Automation Platforms We are a Leader in 9 Gartner Magic Quadrant reports from 2024 Source: Gartner, Magic Quadrant for Cloud Financial Management Tools, Dennis Smith, David Wright, Marco Meinardi, Ang Troy, Ken Rothenberger, 15 October 2024. GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally, and MAGIC QUADRANT is a registered trademark of Gartner, Inc. and/or its affiliates and are used herein with permission. All rights reserved. Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartners research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose. This graphic was published by Gartner, Inc. as part of a larger research document and should be evaluated in the context of the entire document. The Gartner document is available upon request from IBM. 39 2024 Gartner Magic Quadrant for Cloud Financial Management Tools 
+
+IBMs portfolio delivers end-to-end enterprise capabilities for Hybrid Cloud and AI Containers | Virtualization | DevOps Operating System | Applications Application Integration | Networking | Resiliency Asset Lifecycle Management | FinOps | Observability AI Assistants | AI Governance | AI Models Databases | Data Intelligence | Data Security | Data Lakehouse AI Code Assistant | Application Development Tools Performance Monitoring and Optimization Hybrid Cloud Automation Data Transaction Processing Modeled based on the new reported revenue categories which will be effective 1Q25 40 IBM Security 
+
+Our market leading products are fueling our growth 2024 Revenue Key drivers Revenue growth % Modeled based on the new reported revenue categories, which will be effective 1Q25 1 Gartner, How to Run Containers and Kubernetes in Production, 2024 Note 6, 11 9% total Software growth in 2024 41 Hybrid Cloud $6B+ 12% 95%+ of businesses will run containerized applications by 20291 Capitalize on virtualization opportunity Monetize AI opportunity through OpenShift AI and RHEL AI Automation $7B 10% Most comprehensive products for optimizing and managing technology investments AI fueling the need for automation across technology infrastructure Extending into software defined networking Data $6B 4% Building next generation open warehouse/lakehouse, leveraging watsonx.data Leading SaaS products with watsonx Orchestrate, Planning Analytics and OpenPages Making AI enterprise-ready with data quality, security, integration and streaming Transaction Processing $8B 10% New products for Mainframe automation and productivity tools Expanding workloads with Red Hat Security and identity requirements driving demand IBM Security 
+
+with strong momentum in Red Hat Significant wins in OpenShift Virtualization Red Hats market leading products drive growth Strong demand for operational efficiencies of standardizing on one operating system Taming operational complexity through automation RHELOpenShift Neural Magic adds advanced model optimization capabilities to our core OpenShift AI and RHEL AI products Ansible AI ~20% growth >20% growthHigh single-digit growth FY2024 revenue growth rates at actual rates 1 Refer to Exhibit 99.2 to the companys Form 8-K furnished to the SEC on February 4, 2025 for definition of ARR 2 Represents six-month revenue under contract Double-digit bookings growth for six consecutive quarters Mid-teens six-month revenue under contract (cRPO) growth2 $1.4B OpenShift ARR in 20241 42 
+
+Ansible Lightspeed Device Edge Granite 1.0 Apptio App Connect Hybrid Cloud Mesh SevOne AIOps StepZen Manta Data Lineage OpenPages watsonx.ai watsonx.data watsonx.gov watsonx Code Assistant Storage Ceph Storage Defender watsonx Code Assistant for Z Hybrid Cloud Automation Data Transaction Processing We have entered a new era of innovation Granite 3.0 Granite 2.0 Red Hat Enterprise Linux AI InstructLab API Connect Concert Maximo for Facilities Network Observability webMethods DataStage Data Security Center Guardium AI Security StreamSets watsonx Orchestrate with Agents IntelliMagic Test Accelerator for IBM Z watsonx Assistant for IBM Z Nokia Cloudband OpenShift AI EnviziTM ESG Suite watsonx Orchestrate watsonx Orders Data Observability Fusion z/OS Connect OpenShift Plus Instana Process Mining SevOne Turbonomic Watson Query Cloud Paks OpenShift Virtualization 2020 2021 2022 2023 2024 IBM software available on AWS and Azure 43Modeled based on the new reported revenue categories, which will be effective 1Q25 
+
+We have created an innovation culture in IBM AI and Tools One platform for SaaS, leveraging OpenShift AI for Code to accelerate development: 6% of code generated by AI today to 25%+ in the future Productivity and Speed Adopted industry leading productivity metrics: Development Frequency, Lead Time for Changes Driving client support productivity with automation Capacity and Locations Scaling development capacity across global lab footprint New labs (Kochi, India; Gandhinagar, India; Riyadh, Saudi Arabia) 44 
+
+IBM is a trusted partner for thousands of companies across the globe New logosLong time clients 45 
+
+And we are unlocking value for the enterprise 46 AI 33% increase in agent productivity AI-powered virtual assistant Hybrid Cloud >40% reduction in cost Modernized SAP infrastructure AI AI for payments Embedding watsonx in apps 
+
+Our go-to-market engine focuses on technical and experiential engagement to deliver value Go-to-market momentum Simplified model and incentives Invested in Client Engineering and Customer Success Focused on strategic partnerships and growth markets Client expansion Hybrid Cloud and AI synergies across the portfolio driving cross-sell and up-sell Modernized program for ecosystem partners to grow with our Software Targeted demand generation and digital sales to attract new clients to IBM 47 
+
+Build on early GenAI leadership with ~$1B book of business driving a ~5-6x watsonx multiplier opportunity Softwares role in IBMs flywheel for growth Focused portfolio around hybrid cloud and AI, delivering 9% growth in 2024 and accelerating Red Hat momentum through market share gains and AI + virtualization opportunity - with OpenShift driving a ~2-3x multiplier across IBM Incumbency and trust with 93% of the Fortune 500 using IBMs hybrid cloud products Extend leadership with investments in organic innovation, GTM transformation and synergistic M&A 48 Note 6, 9 
+
+Consulting Mohamad Ali Senior Vice President, Consulting 
+
+A leading global consultancy 75 115 266,000 135,000 100% >85 Countries that we serve our clients in1 Client Innovation Centers, Design Studios, Security Operations Centers, and Cyber Ranges as part of our Global Network2 IBM Technology and Strategic Partner certifications earned across Adobe, AWS, Microsoft, Oracle, Salesforce, SAP, and Workday2 Industry credentials earned2 Of top 10 banks, automotive, telecom, media and entertainment, consumer/ retail, and healthcare and life sciences companies are clients2 Leader rankings by industry analysts across our services portfolio2 Global reach Relationships and leadership Skills and expertise 1 Based on countries with 2024 consulting revenue 2 As of year end 2024 50 
+
+We meet our clients needs in a large, growing market Client imperatives Market growth 3-year CAGR Productivity Innovation Experience Security Source: IDC ICT Spending Guide July 2024, IDC Black Book November 2024, IDC Worldwide AI and Generative AI Spending Guide, 3-year CAGR 2025-2028 Growth Cost savings 51 +6% Business and IT Services +15% Hybrid Cloud Services +23% AI Services 
+
+Clients value our expertise to accelerate their digital transformation 75% of consulting buyers expect AI to have a positive impact on their use of consulting >$4B Generative AI Signings, inception-to-date AI optimism abounds 70% of buyers say the use of AI in consulting will make them buy from fewer, more trusted organizations Trust is central to success IBM Consulting leads in generative AI Source: 2024 IBV study of 400 C-level executives across 14 industries and 6 countries Note 9 52 
+
+Automation of a function Deliver standardized services through a platform We are pivoting fast to meet future needs as the market evolves People + AI Technology arbitrage Digitally transform core operating models with experts using assets Service as Software Yesterday Today Tomorrow IBM Consulting strategy Lead in Human + Digital labor by becoming offering-led, asset-based Consulting Advantage empowers and enables our people People Labor arbitrage Run technology and business processes with low-cost labor and automation 53 
+
+Strategy & Technology - $11B to accelerate transformation Intelligent Operations - $9B to run more efficiently Run application workflows and business processes Manage application, data, and hybrid cloud workloads Integrate security solutions to de-risk and prevent threats Advise on strategy to drive growth and efficiency Re-design and implement complex end-to-end business processes and applications Build and modernize applications and data on hybrid cloud Dollar values represent FY 2024 results modeled based on the new reported revenue categories, which will be effective 1Q25 AI Our services portfolio leverages deep expertise to capture market growth and AI opportunities 54 
+
+1 As of year end 2024 2 Democratizing Ansible Development for IBM CIO Using watsonx, IBM 2024 75K IBM Consultants earned GenAI certifications1 50+ AI client references1 Agents Applications Methods IBM Consulting Advantage is a first of its kind AI-powered delivery platform leveraging IBM and partner technologies Up to 50% Productivity gains on projects2 We are accelerating AI expertise and outcomes 55 
+
+Largest IBM Technology and Red Hat GSI IBM Consultants earned watsonx certifications 70K $16B Signings, inception (2019) through 4Q24 Strategic partnerships with leading technology platforms Key strategic partners each contributing $1B+ in annual revenue1 3 Growth through top clients and transformational engagements Top client revenue growth versus total Consulting from 2021-2024 Growth in large deals over $50M from 20212024 ~2.5x 2x 1 Based on FY 2024 revenue Our track record demonstrates our success 56 
+
+DeliveryValue Capture Align pricing with our unique value proposition and deep expertise Scale pricing models for digital labor and assets Enhance efficiency and quality with AI-powered assets and automation to deliver accelerated outcomes for our clients Productivity Invest in skills and certifications to drive utilization Balance onshore/offshore mix for exceptional client service Optimize talent and cost structure Taking action to increase profit margin 57 
+
+We are helping clients prepare for the future Were on a mission to shape the future of air travel at Riyadh Air. Partnering with IBM has been a game changer in accelerating our success, leveraging their AI productivity in delivery, and together were pushing the boundaries of innovation to create a transformed passenger experience that is more seamless, personalized, and sustainable. Adam Boukadida Chief Financial Officer Riyadh Air 58 
+
+Repositioned portfolio to align with IBMs growth vectors of hybrid cloud and AI; >$4B GenAI book of business Leading the way with human + digital labor a first of kind AI delivery platform leveraging IBM Technology Significant opportunity to grow penetration with strategic partners and use M&A to augment skills Tip of the spear driving scale and adoption of our platforms, pulling through Red Hat and IBM Technology Differentiated offerings, deep expertise, and integrated go-to-market driving market share expansion Consultings role in IBMs flywheel for growth 59 Note 9 
+
+Infrastructure Ric Lewis Senior Vice President, Infrastructure 
+
+IBM Z IBM Storage Infrastructure SupportIBM Power 70% 3 generations of continuous program-to- program growth of the worlds transactions by value run on IBM Z #1 in uptime for enterprise workloads on distributed compute architectures1 220K storage all-flash array systems deployed worldwide 4.5M incidents resolved yearly by IBM Infrastructure Support 35K loyal worldwide enterprise client base 1.5x market growth rate of Software Defined Storage2 2.2M incidents handled through AI and automation 1 ITIC survey of 1,900 C-level executives gives IBM Power a 99.9999%+ availability rating (<0.3 seconds of downtime annually) 2 Based on IBM internal revenue and market estimates per IDC Powering the worlds most critical workloads 61 Distributed Infrastructure 
+
+Investment in Innovation ~30% increase in development investment in growth areas Revamp of Business Model ~3pts margin expansion through rigorous product management Optimization of the Value Chain $1B+ in productivity savings from transformation of go-to- market, supply chain and operations Transformation of Culture Instilling a growth mindset, embracing change, collaborating across IBM, taking appropriate risk, and leaning in 2018-2021 2021-2024 ~(4%) ~+2% 2021 2024 ~20% growth ~3pt margin expansion 1 2019, 2020 and 2021 using reported revenue in IBMs 2021 10-K, 2019 revenue growth YTY modeled for 2021 segment realignment Note 3 Returning to growth with margin expansion Infrastructure Revenue Growth1 Infrastructure Segment Profit 62 
+
+Sustained Usage Growth ~3x installed capacity over the last decade Evolving IBM Z to meet client needs 250+ client identified AI use cases Program to program revenue growth *Cumulative revenue comparison over programs 2014 2019 2024 Installed MIPSStandard MIPS Specialty MIPS z13 z14 z15 z16 First 8 Qtrs Rest of Program Based on FY 2024 data + AI MIPS Building on IBM Z momentum 2x increase in new systems for resiliency ~3-4x Stack multiplier for every $ of IBM Z hardware 63 
+
+Execution Excellence Innovation for Growth Mainframe Storage CyberVault and Safeguarded copies End-to-end encryption Compliance and regulation Software Investment Ecosystem Inventory/Supply Chain Optimization Value Capture Distributed and Tape Computational storage Real-time ransomware detection Persistent long-term storage Software Defined Storage High-performance storage software to disrupt traditional arrays AI acceleration (Ceph, Scale) Integrated vector database processing (Content-Aware Storage) Growing Storage faster than the market 64 
+
+Enterprise AI Focus Targeted verticals Specific use cases Integrated value proposition Capturing AI infrastructure opportunities 65 
+
+66 Optimized AI pipeline with IBM Storage Low-cost, high-performance data access with IBM software defined storage Exascale supercomputing and AI capabilities across Europe Fraud prevention with AI on IBM Z Score 100% of transactions on fraud (<3ms, runtime execution) Step change reduction in false positives and improved customer experience AI-powered cancer diagnostics on IBM Power Advanced computational pathology for automated cancer diagnostics Protected customer data with quantum- safe encryption Helping our clients accelerate business outcomes 
+
+Build on IBM Z momentum through innovation to capitalize on incumbent workloads and data gravity Continue to take share in IBM Storage, capturing data- driven opportunities Expand solutions to address new AI market opportunities Delivering trust and incumbency, driving the rest of the IBM portfolio Infrastructures role in IBMs flywheel for growth 67 
+
+Quantum Jay Gambetta Vice President, Quantum and IBM Fellow 
+
+Quantum computing has the potential to create over $500B in value at tech maturity. - BCG Source: BCG, The Long-Term Forecast for Quantum Computing Still Looks Bright, 2024 69 
+
+Our Quantum Strategy Change client's business with quantum computing Quantum Industry, Technical and Consulting Services Create, apply, and integrate quantum capabilities into workflows Make Qiskit the de facto quantum software platform IBM Software Develop and enable quantum workflows across existing software tools and products, leveraging where the data resides Differentiate the computing service IBM Quantum Platform Delivers performant quantum computing services and tools to simplify development IBM Quantum Data Center IBM Quantum Client System 70 Quantum System Integrator Partners Team with partners and help clients prepare for the quantum advantage Quantum Software and SaaS Partners Build Qiskit, the world's most popular SW stack for quantum computing, to help partners and users compose efficient solutions Third-party Application and Circuit Functions 
+
+IBM has the most performant quantum computers Superconducting vs Ions Speed 400x-2,000x faster @ 500 shots & 56 Qubits Cost 1,200x-70,000x cheaper @ 500 shots & 56 Qubits Key factors What really matters when comparing execution on various hardware? Scale: Can I run the job? Quality: Was the result correct? Speed: How long does it take to get a result? Cost: How much money was I charged? Utility scale defined as proven to be able to run a circuit larger than can be simulated classically by brute-force. System size and error rates sourced from publicly available system data sheets and published research papers. 71 
+
+IBM has deployed 75+ systems since 2016 Today, we have 13 utility-scale quantum computers (100+ qubits) operational in Poughkeepsie, NY; our European data center; and in client locations around the world 72 
+
+IBM has deployed more quantum systems than the rest of the world combined and continues to provide the most access to systems Key factors What really matters when clients choose a system? Ease of Use: How to I get access to the system? Reliability: Is the system available round-the-clock? Performance: Can I do work beyond classical simulations? Source: Publicly available press releases and system data sheets published by listed companies 73 Externally Available Systems Deployed to Date 
+
+Our development roadmap Hardware Innovation Software Innovation Researchers Quantum Physicist Data Scientist Run quantum circuits on the IBM Quantum Platform Release multi- dimensional roadmap publicly with initial aim focused on scaling Enhancing quantum execution speed by 100x with Qiskit Runtime Bring dynamic circuits to unlock more computations Enhancing quantum execution speed by 5x with quantum serverless and Execution modes Improving quantum circuit quality and speed to allow 5K gates with parametric circuits Enhancing quantum execution speed and parallelization with partitioning and quantum modularity Improving quantum circuit quality to allow 7.5K gates Improving quantum circuit quality to allow 10K gates Improving quantum circuit quality to allow 15K gates Improving quantum circuit quality to allow 100M gates Beyond 2033, quantum- centric supercomputers will include 1000s of logical qubits unlocking the full power of quantum computing Platform Qiskit Code Assistant Qiskit Functions Service General purpose QC libraries Middleware Qiskit Serverless Qiskit Transpiler Service Resource Management Circuit Knitting x P Intelligent Orchestration Circuit libraries Qiskit Runtime Service QASM3 Dynamic circuits Execution Modes Falcon Benchmarking 27 qubits Eagle Benchmarking 127 qubits Heron (5K) Error Mitigation 5k gates 133 qubits Classical modular 133x3 = 399 qubits Flamingo (7.5K) Error Mitigation 7.5k gates 156 qubits Quantum modular 156x7 = 1092 qubits Flamingo (10K) Error Mitigation 10k gates 156 qubits Quantum modular 156x7 = 1092 qubits Flamingo (15K) Error Mitigation 15k gates 156 qubits Quantum modular 156x7 = 1092 qubits Starling (100M) Error correction 100M gates 200 qubits Error corrected modularity Falcon Demonstrate scaling with I/O routing with Bump bonds Hummingbird Eagle Demonstrate scaling with MLW and TSV Osprey Condor Flamingo Demonstrate scaling with modular connectors StarlingKookaburra Demonstrate scaling with nonlocal c-coupler Cockatoo Single system scaling and fridge capacity Flamingo (5K) Error Mitigation 5k gates 156 qubits Quantum modular 156x7 = 1092 qubits Heron Crossbill m- coupler Demonstrate path to improved quality with logical communication Early Canary 5 qubits Albatross 16 qubits Penguin 20 qubits Prototype 53 qubits IBM Quantum Experience Mapping Collection Specific Libraries Qiskit Circuit and operator API with compilation to multiple targets Application modules Modules for domain specific application and algorithm workflows Qiskit Runtime Performance and abstract through Primitives Qiskit Serverless Demonstrate concepts of quantum centric- supercomputing AI enhanced quantum Prototype demonstrations of AI enhanced circuit transpilation Resource management System partitioning to enable parallel execution Scalable circuit knitting Circuit partitioning with classical reconstruction at HPC scale Error correction decoder Demonstration of a quantum system with real-time error correction decoder Early Canary 5 qubits Albatross 16 qubits Penguin 20 qubits Prototype 53 qubits IBM Quantum Experience Demonstrate path to improved quality with logical memory 20162019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2033+ Innovation Roadmap Executed by IBM On target Demonstrate path to improved quality with logical gates Demonstrate scaling with multiplexing readout Enabling scaling with high density signal delivery Architecture based on tunable-couplers Blue Jay (1B) Error correction 1B gates 2000 qubits Error corrected modularity Egret Tunable coupler demonstration 74 
+
+Qiskit is the most popular open-source quantum SDK Key factors What really matters when choosing a development platform? Ease of use: Is there comprehensive documentation? Stability: Is the code base stable and updated on a regular cadence? Performance: Can I run my workloads fast? Source: Unitary Foundation 2024 Quantum Open Source Software Survey Full-stack Development Platforms Adoption 75 
+
+Qiskit is the most built- upon quantum platform Key factors What really matters when building upon a development platform? Ease of Use: Can I easily integrate the code base into my workflow? Extensibility: Can others use my workflow? Performance: Can my users run their workloads fast using my solution? Source: GitHub insights dependency graphs for PennyLaneAI/pennylane, quantumlib/Cirq, rigetti/pyquil, CQCL/tket, amazon- braket/amazon-braket-schemas-python, NVIDIA/cuQuantum, NVIDIA/cuda-quantum, dwavesystems/dwave-ocean-sdk. Qiskit data taken from GitHub Insights Dependency API, with duplicate entries within the Qiskit-terra package removed Data as of 01/22/25 76 Quantum SDK Number of Dependent Projects 
+
+IBM has the largest and strongest ecosystem advancing quantum computing Key factors What are the main benefits of being part of an ecosystem? Learning: Who can I partner with to accelerate development of needed skills? Collaboration: How do I collaborate with trusted leaders in quantum technology? Business: How can my partner help me derive value from quantum? The IBM Quantum Network has 280+ members including 77 Industry members 50+ Commercial Partners and Startups 55+ Academic and Research Institutions 170+ 
+
+IBM Quantum is approaching $1 billion of signings since inception1 2025 Demonstrate the quantum-centric data center with Qiskit + HPC 2026 Demonstrate quantum advantage 2027 Demonstrate a viable path to an error-corrected quantum computer 2028 Demonstrate the first error- corrected quantum computer 78 The next four years 1 Inception defined as 1Q17-4Q24 
+
+Financial Model James Kavanaugh Senior Vice President and Chief Financial Officer 
+
+~1pt Operating PTI margin expansion per year Revenue Acceleration Growth through Software-led, integrated platforms Higher Profitability Mix, productivity, and scale driving FCF growth > revenue Financial Flexibility Fueling innovation and capital return to shareholders 5%+ Sustainable revenue growth ~2-3pts FCF growth above revenue Our long-term value creation framework ~10% Software revenue growth 80Note 12 
+
+IBMs integrated strategy drives our value creation framework Client Trust ~80% of IBM revenue from clients who purchase from all three segments Hybrid Cloud & AI Leadership 93% of all Fortune 500 companies use IBMs hybrid cloud products and solutions >$5B GenAI bookings ITD Domain Expertise Top 10 companies in each of banking, automotive, telecom, media, retail, and healthcare work with IBM Consulting Investment in Innovation >$20B invested in R&D since 2022, accelerating organic growth Ecosystem Multiplier Building multiple $1B+ revenue partnerships All data as of end of 2024 Note 9 81 
+
+Hybrid Cloud Red Hat revenue ~2x and built a $16B Consulting book of business since acquisition announcement Generative AI >$5B GenAI bookings across Software and Consulting Software-led portfolio Software ~45% of IBM revenue in 2024 Productivity and Operating Leverage $3.5B annualized savings achieved from 2022 to 2024 And has repositioned us for accelerating growth and higher profitability 20201 2024 2-yr. Revenue CAGR (3%) 3% Gross Profit 49% 58% PTI Margin 10% 18% FCF Margin 15% 20% 1 2020 using reported amounts in 2020 10-K Note 2, 3, 4, 5, 9 82 
+
+Driving consistent total shareholder return outperformance Since Kyndryl Separation November 2021 Trailing 3-year Trailing 1-year Total shareholder return as of January 30, 2025 Source: CapIQ 83 
+
+Momentum across our business positions us for the future 1 IDC Black Book, November 2024, IDC; IDC AI and Generative AI Spending Guide, August 2024, IDC, Doc #US52520724 Note 3, 6, 9 84 
+
+Our 2025 guidance reflects the next evolution of our model 2025E Revenue 5%+ PTI Margin >0.5pts Adj. EBITDA Double-digit growth Tax Rate Mid-teens Free Cash Flow ~$13.5B Hybrid cloud platform accelerating Continued AI leadership across portfolio New IBM Z cycle driving full-stack growth Software mix shift and acceleration from innovation M&A scale and synergy realization Software Approaching double digits Infrastructure Mid-single digits Consulting Low single digits Note 10, 12, 13 85 
+
+Our revenue accelerators enable sustainable higher growth Note 3, 12, 13 86 Growth Accelerators Portfolio Mix Integrated Value Investment in Innovation 
+
+IBM is better positioned in higher growth end markets Higher growth revenue mix Transaction Processing Mid-single digits Software ~10% Hybrid Cloud Mid-teens Automation Low double digits Data Mid-to-high single digits Led by Software, approaching ~50% of the portfolio 20181 2024 Model Model 1 Data as-reported, under 2018 segment structure and C&CS data Information presented using new reported revenue categories, effective 1Q25 Note 12 87 
+
+Our integrated business accelerates client value and drives a multiplier effect on growth Hybrid Cloud GenAI IBM Z The only company that builds, deploys and manages software for Hybrid Cloud Enterprise AI that aligns advanced technology with domain expertise Infrastructure for mission critical workloads Full stack multiplier for every $ of OpenShift Software and Consulting multiplier for every $ of watsonx Stack multiplier for every $ of IBM Z hardware ~2-3x ~5-6x ~3-4x IBM Zwatsonx 88 
+
+Focused investment is driving long-term sustainable growth GenAI bookings, inception to date>$5B AI Solutions OpenShift ARR growth to $1.4B through 20242>13x Hybrid Cloud Growth in installed MIPS over the last decade, driving our stack multiplier3x Critical Infrastructure Quantum bookings, inception to date Approaching $1B Emerging Technologies R&D as % of revenue 1 2020 using reported amounts in 2020 10-K 2 Refer to Exhibit 99.2 to the companys Form 8-K furnished to the SEC on February 4, 2025 for definition of ARR Note 9 89 1 
+
+M&A ObjectivesM&A Principles M&A is a key enabler of our strategy Attractive financial profile, including FCF accretive in year 2 Drive compelling synergistic benefit across IBM Accelerate IBMs Hybrid Cloud and AI strategy Drive 1-2 points of sustainable revenue growth annually Software ~75% of spend Consulting ~25% of spend 90Note 12 
+
+Unique synergy and value creation potential amplifies our strategy Increased emphasis on integration efficiency is accelerating synergy realization, reducing operational risk Note: Bars represent modeled M&A financial profile blend of Software and Consulting Assumes inorganic capital allocation of 75% Software and 25% Consulting Operating PTI Margin excludes financing costs Go-to-market synergies Leverage IBMs global go-to-market reach Revenue Growth Operating PTI Margin Platform synergies Amplify value with IBMs complementary offerings Integrated value synergies IBMs integrated businesses drive adoption Operational synergies Optimize SG&A costs through IBM scale Includes integration costs Y5 Y1 -10% 20% Y5Y1 3.5x Synergies Standalone Synergies accelerate growth Efficiency grows margins Value creation leversM&A financial profile model 50% 50% 91Note 12 
+
+Track record of creating value through M&A Acquired July 2019 Positions IBM as the leading hybrid cloud provider Growth in OpenShift revenue to ~$1.4B ARR in 20241 Growth in bookings since acquisition Growth in revenue, including synergies, since acquisition >13x 25%+ 4x 3x#128 Acquired August 2023 Positions IBM as the leading provider of IT financial and operational insights Acquired February 2022 Positions IBM as a leading Microsoft services provider New countries entered since acquisition announcement, leveraging IBMs scale to generate ~50% of revenue from outside the US Cloudability recognized as a market leader, integrated with Turbonomic for best- in-class FinOps Average deal size has tripled and Neudesic clients have doubled since acquisition 92 1 Refer to Exhibit 99.2 to the companys Form 8-K furnished to the SEC on February 4, 2025 for definition of ARR 
+
+Continued runway for margin expansion Portfolio mix Software approaching ~50% Productivity Attractive ROI from innovation Scale and Efficiency G&A competitiveness 93 Delivered ~1pt per year Operating PTI Margin expansion from 2021 to 2024, well ahead of mid-term model Note 2, 10, 12 
+
+Multiple levers for sustained productivity and efficiency 94 Productivity savings 2024 exit run rate Initial goal: $2B Achieved: Productivity savings 2024 exit run rate $3.5BEnhancing talent utilization Optimizing service delivery Streamlining our supply chain Creating value through procurement Automating workflows with our market-leading AI Leveraging technology in digitization 
+
+Free cash flow driven by durable higher revenue growth Quality Driven by Adjusted EBITDA Growth 2-3 pts > revenue Realization Maintain >125% 95 FCF Margin 15% 18% 20% 21% Exited 2024 with our highest reported free cash flow margin in history Note 1, 5, 8, 12 
+
+Continued disciplined capital allocation Our financial model provides ample flexibility Adjusted EBITDA growth unlocks incremental flexibility Post-dividend free cash flow grew 40%+ from 2022-2024 Strategic Investment Invest organically and through disciplined acquisitions to strengthen leadership in Hybrid Cloud and AI Financial Flexibility EBITDA growth creates incremental flexibility while maintaining a strong investment grade balance sheet Shareholder Returns Continue modest dividend growth and reduce payout ratio creating potential for share repurchase over time 96 Post-dividend free cash flow is free cash flow minus dividends paid in each year Note 12, 14 
+
+IBM is committed to maximizing value for shareholders A radically different company Focused Hybrid Cloud and AI portfolio aligned to client needs + a culture of growth and performance Accelerating revenue growth to 5%+ Proven repositioning, on path to accelerate growth Delivering FCF growth > revenue growth Ongoing productivity initiatives and operating leverage Returning capital to shareholders Dividend growth and financial flexibility for opportunistic share repurchase 97 Note 12 
+
+Appendix 
+
+IBMs new reported revenue categories Segments 2024 Revenue 2024 Profit Margin Revenue categories Target growth Software $27B ~45% of total 32% Hybrid Cloud Automation Data Transaction Processing Mid-teens Low double digits Mid-to-high single digits Mid-single digits Consulting $21B ~33% of total 10% Strategy and Technology Intelligent Operations Market + Infrastructure $14B ~22% of total 18% Hybrid Infrastructure Infrastructure support ~1-3% 99Note 12 
+
+Notes 100 Note 1 Free cash flow is a non-GAAP measure. For additional information, please refer to slide 4. Note 2 Pre-tax income margin is operating and a non-GAAP measure. For additional information, please refer to slide 4. Note 3 2-year and 3-year CAGR are at constant currency and are non-GAAP measures. For additional information, please refer to slide 101 (2-year CAGR) and 104 (3-year CAGR). Note 4 Gross profit margin is operating and a non-GAAP measure. For additional information, please refer to slide 4. Note 5 Free cash flow margin equals full-year free cash flow divided by full-year revenue and is a non-GAAP measure. For additional information, please refer to slide 105. Note 6 Revenue growth rate shown is at constant currency and is a non-GAAP measure. For additional information, please refer to slide 4. Note 7 Rule of 40 equals year-to-year (YtY) revenue growth rate at constant currency plus full-year segment profit margin. The YtY revenue growth is at constant currency and is a non-GAAP measure. For additional information, please refer to slide 102. Note 8 Free cash flow realization equals free cash flow divided by operating net income. Note 9 Generative AI book of business includes Software transactional revenue, SaaS Annual Contract Value and Consulting signings. GenAI book of business for Software and Consulting is approximately ~$1B and >$4B respectively inception to date through 4Q24. Note 10 Forward looking pre-tax income margin is operating and is a non-GAAP measure. For additional information, please refer to slide 4. Note 11 2024 software revenue and growth rates are estimated based on the new reported revenue category structure effective 1Q25 and are at constant currency. Growth rates at constant currency are non-GAAP measures. For additional information, please refer to 103. Note 12 IBM is unable to provide, without unreasonable efforts, a reconciliation to the nearest GAAP measure for the following forward-looking measures: full-year 2025 expectations of Adjusted EBITDA, free cash flow and free cash flow margin and long-term model expectations of revenue growth at constant currency for total IBM, by segment, and by reported revenue category, operating pre-tax income margin, free cash flow, free cash flow realization and acquisition related activity. IBM cannot determine without unreasonable efforts the currency impact on long-term revenue growth at constant currency as it is dependent on long-term currency fluctuations and segment and reported revenue categories mix and concentration. Additionally, we cannot reasonably determine acquisition related revenue, profit contribution, or costs, including amortization of acquired intangibles, of future acquisitions not yet made. Please refer to Exhibit 99.2 to the companys Form 8-K furnished to the SEC on February 4, 2025 for information related to other forward-looking non-GAAP measures and why it is impractical to reconcile. Note 13 Forward looking 2025 FY revenue growth of 5%+ is at constant currency and is a non-GAAP measure. We expect constant currency impact of ~(2 pts). in 2025. For additional information, please refer to slide 4. Note 14 Post dividend free cash flow growth rate is calculated by taking the average of the last two years' growth in free cash flow post dividends paid and is a non-GAAP measure. For additional information, please refer to slide 106. 
+
+Non-GAAP reconciliation Reconciliation of 2-year revenue CAGR 101 2-year compound average revenue growth rate 2018-2020* GAAP @CC Total Revenue (4%) (3%) 2-year compound average revenue growth rate 2022-2024 GAAP @CC Total Revenue 2% 3% Consulting 2% 3% Infrastructure (4%) (3%) *Reported revenue in each respective years' 10-K The above reconciles the non-GAAP financial information contained in the "Transformation & Vision" and "Financial Model" discussion in the IBM Investor Day materials. See Exhibit 99.2 included in the companys Form 8-K furnished with the SEC on February 4, 2025, for additional information on the use of these non-GAAP financial measures. 
+
+102 Non-GAAP reconciliation Reconciliation of Software "Rule of 40" Software "Rule of 40" GAAP Revenue growth YtY + Segment profit margin Revenue growth YtY @CC + Segment profit margin FY 2024 40% 41% The above reconciles the non-GAAP financial information contained in the "Software" discussion in the IBM Investor Day materials. See Exhibit 99.2 included in the companys Form 8-K furnished with the SEC on February 4, 2025, for additional information on the use of these non-GAAP financial measures. 
+
+103 Non-GAAP reconciliation Reconciliation of Software reported revenue categories modeled growth - FY 2024 FY24 Yr/Yr* GAAP @CC Hybrid Cloud 11% 12% Automation 9% 10% Data 3% 4% Transaction Processing 9% 10% *Estimated using reported revenue categories effective January 1, 2025 The above reconciles the non-GAAP financial information contained in the "Software" discussion in the IBM Investor Day materials. See Exhibit 99.2 included in the companys Form 8-K furnished with the SEC on February 4, 2025, for additional information on the use of these non-GAAP financial measures. 
+
+104 Non-GAAP reconciliation Reconciliation of 3-year revenue CAGR 3-year compound average revenue growth rate 2021-2024 GAAP @CC Infrastructure (0%) 2% The above reconciles the non-GAAP financial information contained in the "Infrastructure" and "Financial Model" discussion in the IBM Investor Day materials. See Exhibit 99.2 included in the companys Form 8-K furnished with the SEC on February 4, 2025, for additional information on the use of these non-GAAP financial measures. 
+
+105 Non-GAAP reconciliation Reconciliation of free cash flow margin - FY 2020 & FY 2022-FY 2024 Operating cash flow as a % of GAAP revenue Free cash flow as a % of GAAP revenue 2020 25% 15% 2022 17% 15% 2023 23% 18% 2024 21% 20% The above reconciles the non-GAAP financial information contained in the "Transformation & Vision" and "Financial Model" discussion in the IBM Investor Day materials. Refer to "Forward-looking statements and non-GAAP information" slide in the IBM Investor Day materials, for additional information on the use of these non-GAAP financial measures. 
+
+106 Non-GAAP reconciliation Reconciliation of post-dividend free cash flow growth - FY 2022- FY 2024 FY 2024 FY 2023 FY 2022 Free cash flow* 12.7 11.2 9.3 Less: cash dividends paid 6.1 6.0 5.9 Free cash flow post dividend 6.6 5.2 3.4 Average annual post dividend growth YtY - 2022-2024** 40%+ * Cash from operations growth rate YtY for FY 2024 is (4%) and for FY 2023 is 34% **Calculated by taking the average of the last two years' growth in free cash flow post dividends paid The above reconciles the non-GAAP financial information contained in the "Financial Model" discussion in the IBM Investor Day materials. Refer to "Forward-looking statements and non-GAAP information" slide in the IBM Investor Day materials, for additional information on the use of these non-GAAP financial measures. 
+
+107 Copyright IBM Corporation 2025 IBM and the IBM logo are trademarks of IBM Corporation, registered in many jurisdictions worldwide. Other product and service names might be trademarks of IBM or other companies. A current list of IBM trademarks is available on ibm.com/trademark. Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States, and/or other countries. Intel and the Intel logo are trademarks or registered trademarks of Intel Corporation or its subsidiaries in the United States and other countries. Microsoft, Windows, and the Windows logo are trademarks of Microsoft Corporation in the United States, other countries, or both. Red Hat, OpenShift and Ansible are trademarks or registered trademarks of Red Hat, Inc. or its subsidiaries in the United States and other countries. Examples presented are illustrative only. Actual results will vary based on client configurations and conditions and, therefore, generally expected results cannot be provided. Not all offerings are available in every country in which IBM operates. Statements regarding IBM's future direction and intent are subject to change or withdrawal without notice, and represent goals and objectives only. This document is current as of the initial date of publication and may be changed by IBM at any time.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>ibminvestordaysupplemental.htm
+<DESCRIPTION>EX-99.2
+<TEXT>
+Document
+
+Exhibit 99.2
+
+Non-GAAP Metrics and Other Financial Information
+
+Operating (non-GAAP) Earnings Per Share and Related Income Statement Items
+
+In an effort to provide better transparency into the operational results of the business, supplementally, the company separates business results into operating and non-operating categories. Operating earnings from continuing operations is a non-GAAP measure that excludes the effects of certain acquisition-related charges and intangible asset amortization, expense resulting from basis differences on equity method investments, retirement-related costs and their related tax impacts. Due to the unique, non-recurring nature of the enactment of the U.S. Tax Cuts and Jobs Act (U.S. tax reform), the company characterizes the one-time provisional charge recorded in the fourth quarter of 2017 and adjustments to that charge as non-operating. Adjustments primarily include true-ups, accounting elections and any changes to regulations, laws, or audit adjustments that affect the recorded one-time charge. For acquisitions, operating (non-GAAP) earnings exclude the amortization of purchased intangible assets and acquisition-related charges such as in-process research and development, transaction costs, applicable retention, restructuring and related expenses, tax charges related to acquisition integration and pre-closing charges, such as financing costs. These charges are excluded as they may be inconsistent in amount and timing from period to period and are significantly impacted by the size, type and frequency of the companys acquisitions. Management has also characterized as non-operating expense, given its unique and temporary nature, the mark-to-market impact on the foreign exchange derivative contracts entered into prior to the acquisition of StreamSets and webMethods from Software AG, beginning in December 2023, to economically hedge the foreign currency exposure related to the purchase price of this acquisition. These derivative contracts expired by June 28, 2024. This impact was recorded in other (income) and expense in the Consolidated Income Statement and reflects the changes in fair value of these derivative contracts. All other spending for acquired companies is included in both earnings from continuing operations and in operating (non-GAAP) earnings. For retirement-related costs, the company characterizes certain items as operating and others as non-operating, consistent with GAAP. The company includes defined benefit plan and nonpension postretirement benefit plan service costs, multi-employer plan costs and the cost of defined contribution plans in operating earnings. Non-operating retirement-related costs include defined benefit plan and nonpension postretirement benefit plan amortization of prior service costs, interest cost, expected return on plan assets, amortized actuarial gains/losses, the impacts of any plan curtailments/settlements including the impact of the one-time, non-cash, pension settlement charges of $3.1 billion ($2.4 billion net of tax) resulting from the transfer to insurers of a portion of U.S. and non-U.S. defined benefit pension obligations and related plan assets in 2024 and pension insolvency costs and other costs. Non-operating retirement-related costs are primarily related to changes in pension plan assets and liabilities which are tied to financial market performance, and the company considers these costs to be outside of the operational performance of the business.
+
+Overall, the company believes that supplementally providing investors with a view of operating earnings as described above provides increased transparency and clarity into both the operational results of the business and the performance of the companys pension plans; improves visibility to management decisions and their impacts on operational performance; enables better comparison to peer companies; and allows the company to provide a long-term strategic view of the business going forward. In addition, these non-GAAP measures provide a perspective consistent with areas of interest the company routinely receives from investors and analysts. The companys reportable segment financial results reflect pre-tax operating earnings from continuing operations, consistent with the companys management and measurement system.
+
+Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization (EBITDA)
+
+Additionally, the company reports adjusted EBITDA which, in addition to the operating (non-GAAP) earnings adjustments described above, also excludes income/(loss) from discontinued operations, income tax expense, net interest expense, depreciation/amortization of non-acquired intangible assets including operating lease right-of-use assets, stock-based compensation, and certain other activity that is not reflective of the companys ongoing operational results such as workforce rebalancing charges and corporate gains and charges. The company uses adjusted EBITDA to measure its operating performance and believes that supplementally providing adjusted EBITDA will provide investors with additional transparency and clarity into how the companys operational profitability is driving its free cash flow results. 
+
+Free Cash Flow / Net Cash from Operating Activities Excluding IBM Financing Receivables
+
+The company uses free cash flow as a measure to evaluate its operating results, plan shareholder return levels, strategic investments and assess its ability and need to incur and service debt. The entire free cash flow amount is not necessarily available for discretionary expenditures. The company defines free cash flow as net cash from operating activities less the change in Financing receivables and net capital expenditures, including the investment in software and other asset sales (e.g., certain QRadar SaaS assets). A key objective of the Financing business is to generate strong returns on equity, and our Financing receivables are the basis for that growth. Accordingly, management considers Financing receivables as a profit-generating investment, not as working capital that should 
+
+be minimized for efficiency. Therefore, management presents both free cash flow and net cash from operating activities that exclude the effect of Financing receivables. Free cash flow guidance is derived using an estimate of profit, working capital and operational cash flows. Since the company views Financing receivables as a profit-generating investment which it seeks to maximize, it is not considered when formulating guidance for free cash flow and adjusted EBITDA. As a result, the company does not estimate a GAAP net cash from operations expectation metric.
+
+Constant Currency
+
+When the company refers to growth rates at constant currency or adjusts such growth rates for currency, it is done so that certain financial results can be viewed without the impact of fluctuations in foreign currency exchange rates, thereby facilitating period-to-period comparisons of its business performance. Financial results adjusted for currency are calculated by translating current period activity in local currency using the comparable prior year periods currency conversion rate. This approach is used for countries where the functional currency is the local currency. Generally, when the dollar either strengthens or weakens against other currencies, the growth at constant currency rates or adjusting for currency will be higher or lower than growth reported at actual exchange rates.
+
+Key Performance Indicators
+
+Annual Recurring Revenue (ARR):
+
+The ARR metric was updated in the first quarter of 2024 to reflect the company's organizational changes, as described in the Form 8-K furnished with the SEC on March 18, 2024, and to simplify the calculation. 
+
+ARR is a key performance metric management uses to assess the health and growth trajectory of our Hybrid Platform & Solutions business within the Software segment. ARR is calculated by using the current quarters recurring revenue and then multiplying that value by four. This value includes the following consumption models: (1) software subscription agreements, including committed term licenses, (2) as-a-service arrangements such as SaaS and PaaS, and (3) maintenance and support contracts. ARR should be viewed independently of revenue as this performance metric and its inputs may not represent revenue that will be recognized in future periods. 
+
+Red Hat Annual Bookings:
+
+Annual bookings is a key performance metric management uses in its assessment of a customer's commitment under Red Hat subscription and services contracts and provides an indication of forward-looking Red Hat revenue trajectory. It represents the value of a contract over a 12-month period, as of the date of contract signing. Annual bookings is calculated by taking the total subscription and service contract value divided by the number of days in the contract, multiplied by 365, plus the revenue recognized in the quarter for select cloud based offerings. Annual bookings should be viewed independently of revenue as this performance metric and its inputs may not represent the amount of revenue recognized in the period. For example, the conversion of annual bookings to revenue may vary based on types of services, customer decisions, start dates, and other factors. Therefore, annual bookings is not intended to represent current period revenue or revenue that will be recognized in future periods.
+
+Other Information
+
+Book of Business:
+
+For generative AI, book of business includes Software transactional revenue, SaaS Annual Contract Value and Consulting signings. Book of business inception to date, since second-quarter 2023, is about four-fifths consulting signings. Our book of business reflects the value we are delivering to clients in two ways. First, we are partnering with our clients to design and scale AI solutions, whether that be leveraging AI capabilities of IBM, our partners, or a combination. Second, we are utilizing generative AI solutions to improve delivery by developing new ways of working and driving productivity within our client contracts.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>4
+<FILENAME>ibm-20250204.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>5
+<FILENAME>ibm-20250204_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>6
+<FILENAME>ibm-20250204_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Class of Stock [Domain] 
+Class of Stock [Domain] 
+
+4.000% Notes due 2043 
+4.000% Notes due 2043 
+Notes bearing 4.000% due 2043. 
+
+1.500% Notes due 2029 
+1.500% Notes due 2029 
+Notes bearing 1.500% due 2029. 
+
+0.300% Notes due 2026 
+0.300% Notes due 2026 
+Notes bearing 0.300% due 2026. 
+
+0.950% Notes due 2025 
+0.950% Notes due 2025 
+Notes bearing 0.950% due 2025. 
+
+Entity Listings, Exchange [Axis] 
+Entity Listings, Exchange [Axis] 
+
+4.875% Notes due 2038 
+4.875% Notes due 2038 
+Notes bearing 4.875% due 2038. 
+
+Class of Stock [Axis] 
+Class of Stock [Axis] 
+
+1.250% Notes due 2034 
+1.250% Notes due 2034 
+Notes bearing 1.250% due 2034. 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Cover [Abstract] 
+
+Common Stock 
+Common Stock [Member] 
+
+Amendment Flag 
+Amendment Flag 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+1.250% Notes due 2027 
+1.250% Notes due 2027 
+Notes bearing 1.250% due 2027. 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+NEW YORK STOCK EXCHANGE, INC. 
+NEW YORK STOCK EXCHANGE, INC. [Member] 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+1.200% Notes due 2040 
+1.200% Notes due 2040 
+Notes bearing 1.200% due 2040. 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Exchange [Domain] 
+Exchange [Domain] 
+
+3.750% Notes due 2035 
+3.750% Notes due 2035 
+Notes bearing 3.750% due 2035. 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+3.625% Notes due 2031 
+3.625% Notes due 2031 
+Notes bearing 3.625% due 2031. 
+
+Document Period End Date 
+Document Period End Date 
+
+5.875% Debentures due 2032 
+5.875% Debentures due 2032 
+Debentures bearing 5.875% due 2032. 
+
+3.375% Notes due 2027 
+3.375% Notes due 2027 
+Notes bearing 3.375% due 2027. 
+
+Document Type 
+Document Type 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+NYSE CHICAGO, INC. 
+NYSE CHICAGO, INC. [Member] 
+
+0.650% Notes due 2032 
+0.650% Notes due 2032 
+Notes bearing 0.650% due 2032. 
+
+1.750% Notes due 2028 
+1.750% Notes due 2028 
+Notes bearing 1.750% due 2028. 
+
+Security Exchange Name 
+Security Exchange Name 
+
+1.750% Notes due 2031 
+1.750% Notes due 2031 
+Notes bearing 1.750% due 2031. 
+
+0.300% Notes due 2028 
+0.300% Notes due 2028 
+Notes bearing 0.300% due 2028. 
+
+Soliciting Material 
+Soliciting Material 
+
+7.125% Debentures due 2096 
+7.125% Debentures due 2096 
+Debentures bearing 7.125% due 2096. 
+
+City Area Code 
+City Area Code 
+
+6.50% Debentures due 2028 
+6.50% Debentures due 2028 
+Debentures bearing 6.50% due 2028. 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+0.875% Notes due 2030 
+0.875% Notes due 2030 
+Notes bearing 0.875% due 2030. 
+
+7.00% Debentures due 2045 
+7.00% Debentures due 2045 
+Debentures bearing 7.00% due 2045. 
+
+7.00% Debentures due 2025 
+7.00% Debentures due 2025 
+Debentures bearing 7.00% due 2025. 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Document Information [Line Items] 
+Document Information [Line Items] 
+
+Document Information [Table] 
+Document Information [Table] 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+6.22% Debentures due 2027 
+6.22% Debentures due 2027 
+Debentures bearing 6.22% due 2027. 
+
+2.875% Notes due 2025 
+2.875% Notes due 2025 
+Notes bearing 2.875% due 2025.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>7
+<FILENAME>ibm-20250204_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>ibm-ex99_1001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>ibm-ex99_1002.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>10
+<FILENAME>ibm-ex99_1003.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>11
+<FILENAME>ibm-ex99_1004.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>12
+<FILENAME>ibm-ex99_1005.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>13
+<FILENAME>ibm-ex99_1006.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>14
+<FILENAME>ibm-ex99_1007.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>15
+<FILENAME>ibm-ex99_1008.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>16
+<FILENAME>ibm-ex99_1009.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>17
+<FILENAME>ibm-ex99_1010.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>18
+<FILENAME>ibm-ex99_1011.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>19
+<FILENAME>ibm-ex99_1012.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>20
+<FILENAME>ibm-ex99_1013.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>21
+<FILENAME>ibm-ex99_1014.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>22
+<FILENAME>ibm-ex99_1015.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>23
+<FILENAME>ibm-ex99_1016.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>24
+<FILENAME>ibm-ex99_1017.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>25
+<FILENAME>ibm-ex99_1018.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>26
+<FILENAME>ibm-ex99_1019.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>27
+<FILENAME>ibm-ex99_1020.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>28
+<FILENAME>ibm-ex99_1021.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>29
+<FILENAME>ibm-ex99_1022.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>30
+<FILENAME>ibm-ex99_1023.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>31
+<FILENAME>ibm-ex99_1024.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>32
+<FILENAME>ibm-ex99_1025.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>33
+<FILENAME>ibm-ex99_1026.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>34
+<FILENAME>ibm-ex99_1027.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>35
+<FILENAME>ibm-ex99_1028.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>36
+<FILENAME>ibm-ex99_1029.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>37
+<FILENAME>ibm-ex99_1030.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>38
+<FILENAME>ibm-ex99_1031.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>39
+<FILENAME>ibm-ex99_1032.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>40
+<FILENAME>ibm-ex99_1033.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>41
+<FILENAME>ibm-ex99_1034.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>42
+<FILENAME>ibm-ex99_1035.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>43
+<FILENAME>ibm-ex99_1036.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>44
+<FILENAME>ibm-ex99_1037.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>45
+<FILENAME>ibm-ex99_1038.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>46
+<FILENAME>ibm-ex99_1039.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>47
+<FILENAME>ibm-ex99_1040.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>48
+<FILENAME>ibm-ex99_1041.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>49
+<FILENAME>ibm-ex99_1042.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>50
+<FILENAME>ibm-ex99_1043.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>51
+<FILENAME>ibm-ex99_1044.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>52
+<FILENAME>ibm-ex99_1045.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>53
+<FILENAME>ibm-ex99_1046.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>54
+<FILENAME>ibm-ex99_1047.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>55
+<FILENAME>ibm-ex99_1048.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>56
+<FILENAME>ibm-ex99_1049.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>57
+<FILENAME>ibm-ex99_1050.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>58
+<FILENAME>ibm-ex99_1051.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>59
+<FILENAME>ibm-ex99_1052.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>60
+<FILENAME>ibm-ex99_1053.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>61
+<FILENAME>ibm-ex99_1054.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>62
+<FILENAME>ibm-ex99_1055.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>63
+<FILENAME>ibm-ex99_1056.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>64
+<FILENAME>ibm-ex99_1057.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>65
+<FILENAME>ibm-ex99_1058.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>66
+<FILENAME>ibm-ex99_1059.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>67
+<FILENAME>ibm-ex99_1060.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>68
+<FILENAME>ibm-ex99_1061.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>69
+<FILENAME>ibm-ex99_1062.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>70
+<FILENAME>ibm-ex99_1063.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>71
+<FILENAME>ibm-ex99_1064.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>72
+<FILENAME>ibm-ex99_1065.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>73
+<FILENAME>ibm-ex99_1066.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>74
+<FILENAME>ibm-ex99_1067.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>75
+<FILENAME>ibm-ex99_1068.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>76
+<FILENAME>ibm-ex99_1069.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>77
+<FILENAME>ibm-ex99_1070.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>78
+<FILENAME>ibm-ex99_1071.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>79
+<FILENAME>ibm-ex99_1072.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>80
+<FILENAME>ibm-ex99_1073.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>81
+<FILENAME>ibm-ex99_1074.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>82
+<FILENAME>ibm-ex99_1075.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>83
+<FILENAME>ibm-ex99_1076.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>84
+<FILENAME>ibm-ex99_1077.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>85
+<FILENAME>ibm-ex99_1078.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>86
+<FILENAME>ibm-ex99_1079.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>87
+<FILENAME>ibm-ex99_1080.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>88
+<FILENAME>ibm-ex99_1081.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>89
+<FILENAME>ibm-ex99_1082.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>90
+<FILENAME>ibm-ex99_1083.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>91
+<FILENAME>ibm-ex99_1084.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>92
+<FILENAME>ibm-ex99_1085.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>93
+<FILENAME>ibm-ex99_1086.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>94
+<FILENAME>ibm-ex99_1087.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>95
+<FILENAME>ibm-ex99_1088.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>96
+<FILENAME>ibm-ex99_1089.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>97
+<FILENAME>ibm-ex99_1090.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>98
+<FILENAME>ibm-ex99_1091.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>99
+<FILENAME>ibm-ex99_1092.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>100
+<FILENAME>ibm-ex99_1093.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>101
+<FILENAME>ibm-ex99_1094.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>102
+<FILENAME>ibm-ex99_1095.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>103
+<FILENAME>ibm-ex99_1096.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>104
+<FILENAME>ibm-ex99_1097.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>105
+<FILENAME>ibm-ex99_1098.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>106
+<FILENAME>ibm-ex99_1099.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>107
+<FILENAME>ibm-ex99_1100.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>108
+<FILENAME>ibm-ex99_1101.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>109
+<FILENAME>ibm-ex99_1102.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>110
+<FILENAME>ibm-ex99_1103.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>111
+<FILENAME>ibm-ex99_1104.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>112
+<FILENAME>ibm-ex99_1105.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>113
+<FILENAME>ibm-ex99_1106.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>114
+<FILENAME>ibm-ex99_1107.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>115
+<FILENAME>ibm-ex99_1108.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>117
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 04, 2025
+
+Document Information [Line Items] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 04, 2025
+
+Entity Registrant Name INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+Entity Incorporation, State or Country Code NY
+
+Entity File Number 1-2360
+
+Entity Tax Identification Number 13-0871985
+
+Entity Address, Address Line One One New Orchard Road
+
+Entity Address, City or Town Armonk
+
+Entity Address, State or Province NY
+
+Entity Address, Postal Zip Code 10504
+
+City Area Code 914
+
+Local Phone Number 499-1900
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0000051143
+
+Amendment Flag false
+
+NEW YORK STOCK EXCHANGE, INC. | Common Stock 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security Capital stock, par value $.20 per share
+
+Trading Symbol IBM
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 2.875% Notes due 2025 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 2.875% Notes due 2025
+
+Trading Symbol IBM 25A
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 0.950% Notes due 2025 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 0.950% Notes due 2025
+
+Trading Symbol IBM 25B
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 0.300% Notes due 2026 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 0.300% Notes due 2026
+
+Trading Symbol IBM 26B
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 1.250% Notes due 2027 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 1.250% Notes due 2027
+
+Trading Symbol IBM 27B
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 3.375% Notes due 2027 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 3.375% Notes due 2027
+
+Trading Symbol IBM 27F
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 0.300% Notes due 2028 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 0.300% Notes due 2028
+
+Trading Symbol IBM 28B
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 1.750% Notes due 2028 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 1.750% Notes due 2028
+
+Trading Symbol IBM 28A
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 1.500% Notes due 2029 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 1.500% Notes due 2029
+
+Trading Symbol IBM 29
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 0.875% Notes due 2030 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 0.875% Notes due 2030
+
+Trading Symbol IBM 30A
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 1.750% Notes due 2031 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 1.750% Notes due 2031
+
+Trading Symbol IBM 31
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 3.625% Notes due 2031 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 3.625% Notes due 2031
+
+Trading Symbol IBM 31B
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 0.650% Notes due 2032 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 0.650% Notes due 2032
+
+Trading Symbol IBM 32A
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 1.250% Notes due 2034 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 1.250% Notes due 2034
+
+Trading Symbol IBM 34
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 3.750% Notes due 2035 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 3.750% Notes due 2035
+
+Trading Symbol IBM 35
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 4.875% Notes due 2038 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 4.875% Notes due 2038
+
+Trading Symbol IBM 38
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 1.200% Notes due 2040 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 1.200% Notes due 2040
+
+Trading Symbol IBM 40
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 4.000% Notes due 2043 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 4.000% Notes due 2043
+
+Trading Symbol IBM 43
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 7.00% Debentures due 2025 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 7.00% Debentures due 2025
+
+Trading Symbol IBM 25
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 6.22% Debentures due 2027 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 6.22% Debentures due 2027
+
+Trading Symbol IBM 27
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 6.50% Debentures due 2028 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 6.50% Debentures due 2028
+
+Trading Symbol IBM 28
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 5.875% Debentures due 2032 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 5.875% Debentures due 2032
+
+Trading Symbol IBM 32D
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 7.00% Debentures due 2045 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 7.00% Debentures due 2045
+
+Trading Symbol IBM 45
+
+Security Exchange Name NYSE
+
+NEW YORK STOCK EXCHANGE, INC. | 7.125% Debentures due 2096 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 7.125% Debentures due 2096
+
+Trading Symbol IBM 96
+
+Security Exchange Name NYSE
+
+NYSE CHICAGO, INC. | Common Stock 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security Capital stock, par value $.20 per share
+
+Trading Symbol IBM
+
+Security Exchange Name CHX
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentInformationLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: dei_EntityListingsExchangeAxis=exch_XNYS
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=us-gaap_CommonStockMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes2.875PercentDue2025Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes0.950PercentDue2025Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes0.300PercentDue2026Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes1.250PercentDue2027Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes3.375PercentDue2027Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes0.300PercentDue2028Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes1.750PercentDue2028Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes1.500PercentDue2029Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes0.875PercentDue2030Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes1.750PercentDue2031Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes3.625PercentDue2031Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes0.650PercentDue2032Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes1.250PercentDue2034Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes3.750PercentDue2035Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes4.875PercentDue2038Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes1.200PercentDue2040Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Notes4.000PercentDue2043Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Debentures7.00PercentDue2025Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Debentures6.22PercentDue2027Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Debentures6.50PercentDue2028Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Debentures5.875PercentDue2032Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Debentures7.00PercentDue2045Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=ibm_Debentures7.125PercentDue2096Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: dei_EntityListingsExchangeAxis=exch_XCHI
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>118
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>119
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>120
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>122
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+26 
+22 
+1 
+false 
+26 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://www.ibm.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+ibm-20250204.htm 
+ibm-20250204.xsd 
+ibm-20250204_def.xml 
+ibm-20250204_lab.xml 
+ibm-20250204_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>125
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>126
+<FILENAME>0000051143-25-000010-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>127
+<FILENAME>ibm-20250204_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0000051143 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+us-gaap:CommonStockMember 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+us-gaap:CommonStockMember 
+exch:XCHI 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes2.875PercentDue2025Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes0.950PercentDue2025Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes0.300PercentDue2026Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes1.250PercentDue2027Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes3.375PercentDue2027Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes0.300PercentDue2028Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes1.750PercentDue2028Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes1.500PercentDue2029Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes0.875PercentDue2030Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes1.750PercentDue2031Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes3.625PercentDue2031Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes0.650PercentDue2032Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes1.250PercentDue2034Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes3.750PercentDue2035Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes4.875PercentDue2038Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes1.200PercentDue2040Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Notes4.000PercentDue2043Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Debentures7.00PercentDue2025Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Debentures6.22PercentDue2027Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Debentures6.50PercentDue2028Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Debentures5.875PercentDue2032Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Debentures7.00PercentDue2045Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+
+ibm:Debentures7.125PercentDue2096Member 
+exch:XNYS 
+
+2025-02-04 
+2025-02-04 
+
+0000051143 
+false 
+CHX 
+8-K 
+2025-02-04 
+INTERNATIONAL BUSINESS MACHINES CORPORATION 
+NY 
+1-2360 
+13-0871985 
+One New Orchard Road 
+Armonk 
+NY 
+10504 
+914 
+499-1900 
+false 
+false 
+false 
+false 
+Capital stock, par value $.20 per share 
+Capital stock, par value $.20 per share 
+IBM 
+IBM 
+NYSE 
+2.875% Notes due 2025 
+IBM 25A 
+NYSE 
+0.950% Notes due 2025 
+IBM 25B 
+NYSE 
+0.300% Notes due 2026 
+IBM 26B 
+NYSE 
+1.250% Notes due 2027 
+IBM 27B 
+NYSE 
+3.375% Notes due 2027 
+IBM 27F 
+NYSE 
+0.300% Notes due 2028 
+IBM 28B 
+NYSE 
+1.750% Notes due 2028 
+IBM 28A 
+NYSE 
+1.500% Notes due 2029 
+IBM 29 
+NYSE 
+0.875% Notes due 2030 
+IBM 30A 
+NYSE 
+1.750% Notes due 2031 
+IBM 31 
+NYSE 
+3.625% Notes due 2031 
+IBM 31B 
+NYSE 
+0.650% Notes due 2032 
+IBM 32A 
+NYSE 
+1.250% Notes due 2034 
+IBM 34 
+NYSE 
+3.750% Notes due 2035 
+IBM 35 
+NYSE 
+4.875% Notes due 2038 
+IBM 38 
+NYSE 
+1.200% Notes due 2040 
+IBM 40 
+NYSE 
+4.000% Notes due 2043 
+IBM 43 
+NYSE 
+7.00% Debentures due 2025 
+IBM 25 
+NYSE 
+6.22% Debentures due 2027 
+IBM 27 
+NYSE 
+6.50% Debentures due 2028 
+IBM 28 
+NYSE 
+5.875% Debentures due 2032 
+IBM 32D 
+NYSE 
+7.00% Debentures due 2045 
+IBM 45 
+NYSE 
+7.125% Debentures due 2096 
+IBM 96 
+NYSE 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

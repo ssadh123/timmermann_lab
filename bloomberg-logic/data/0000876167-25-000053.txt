@@ -1,0 +1,1154 @@
+<SEC-DOCUMENT>0000876167-25-000053.txt : 20250331
+<SEC-HEADER>0000876167-25-000053.hdr.sgml : 20250331
+<ACCEPTANCE-DATETIME>20250331161158
+ACCESSION NUMBER:		0000876167-25-000053
+CONFORMED SUBMISSION TYPE:	8-K/A
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20241031
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250331
+DATE AS OF CHANGE:		20250331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PROGRESS SOFTWARE CORP /MA
+		CENTRAL INDEX KEY:			0000876167
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				042746201
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		8-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19417
+		FILM NUMBER:		25793353
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 WAYSIDE ROAD, SUITE 400
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+		BUSINESS PHONE:		781-280-4473
+
+	MAIL ADDRESS:	
+		STREET 1:		15 WAYSIDE ROAD, SUITE 400
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K/A
+<SEQUENCE>1
+<FILENAME>prgs-20241031.htm
+<DESCRIPTION>8-K/A
+<TEXT>
+xml version='1.0' encoding='ASCII'?prgs-20241031
+
+0000876167falsePROGRESS SOFTWARE CORP /MA00008761672024-10-312024-10-31
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K/A
+
+(Amendment No. 2)
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)October 31, 2024
+
+Progress Software Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 0-19417 04-2746201
+
+(State or other jurisdiction of incorporation or organization) (Commission file number) (I.R.S. Employer Identification No.)
+
+15 Wayside Road, Suite 400, Burlington, Massachusetts 01803
+
+(Address of principal executive offices) (Zip code)
+
+Registrants telephone number, including area code (781) 280-4000
+
+Not applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Common Stock, $0.01 par value per share PRGS The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+EXPLANATORY NOTE
+
+On January 10, 2025, Progress Software Corporation (the "Company") filed an amendment on Form 8-K/A ("Amendment No. 1") to the Current Report on Form 8-K filed by the Company with the U.S. Securities and Exchange Commission on October 31, 2024 (the "Original Filing" and together with Amendment No. 1 the "Prior 8-K Filing"). As disclosed in the Original Filing, the Company completed its previously announced purchase of the assets and assumption of certain of the liabilities that collectively comprise the ShareFile business ("ShareFile") on October 31, 2024. Amendment No. 1 was filed for the purpose of satisfying the Company's obligation to file the financial statements and pro forma financial information relating to the ShareFile acquisition pursuant to Item 9.01 of Form 8-K.
+
+This amendment to the Prior 8-K Filing ("Amendment No. 2") is being filed for the purpose of updating the pro forma financial information relating to the ShareFile acquisition to reflect the unaudited pro forma condensed combined statement of operations for the year ended November 30, 2024.
+
+This Amendment No. 2 should be read in conjunction with the Prior 8-K Filing. Except as set forth herein, no modifications have been made to information contained in the Prior 8-K Filing (including the exhibits thereto), and the Company has not updated any information contained therein to reflect events that have occurred since the date of the Prior 8-K Filing.
+
+Item 9.01. Financial Statements and Exhibits
+
+(b) Pro Forma Financial Information.
+
+The Company is filing the unaudited pro forma condensed combined statement of operations and explanatory notes for the year ended November 30, 2024, which give effect to the acquisition of ShareFile and the financing in respect thereof, as more fully set forth in such pro forma financial information. The unaudited pro forma condensed combined financial information, and the notes related thereto, are filed as Exhibit 99.1 and are incorporated herein by reference.
+
+(d) Exhibits.
+
+Exhibit No. Description
+
+99.1 
+
+Unaudited Pro Forma Condensed Combined Financial Information of Progress Software Corporation and ShareFile for the year ended November 30, 2024.
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: March 31, 2025 Progress Software Corporation
+
+By: /s/ ANTHONY FOLGER
+
+Anthony Folger
+
+Chief Financial Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit991-unauditedprofor.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Exhibit 99.1
+
+UNAUDITED PRO FORMA CONDENSED COMBINED STATEMENT OF OPERATIONS
+
+On September 9, 2024, Progress Software Corporation (Progress or the Company) and Cloud Software Group, Inc. and its subsidiaries (Cloud) entered into a definitive agreement (the Purchase Agreement) for the sale of certain assets and liabilities that comprise the ShareFile Business (ShareFile). The transaction between Progress and Cloud closed on October 31, 2024 for an aggregate purchase price of $875.0 million in cash, subject to a $25.0 million working capital credit and certain customary adjustments (the Purchase Price), and was funded through $730.0 million in borrowings under an existing $900.0 million revolving credit facility and cash on hand, resulting in a payment at closing of $852.7 million (the Acquisition). The following unaudited pro forma condensed combined Statement of Operations of Progress and ShareFile have been prepared to give effect to the Acquisition of ShareFile by the Company.
+
+The following unaudited pro forma condensed combined Statement of Operations is based on: (i) the audited historical consolidated Statement of Operations of Progress for the year ended November 30, 2024 (the fiscal year end of both Progress and ShareFile); (ii) the audited abbreviated Statement of Operations of ShareFile for the nine months ended September 1, 2024; and (iii) the unaudited Statement of Operations of ShareFile for the two months ended October 31, 2024. The unaudited pro forma condensed combined Statement of Operations for the year ended November 30, 2024 has been prepared to reflect the Acquisition as though it occurred on December 1, 2023, including the related financing.
+
+The Acquisition has been accounted for by using the acquisition method of accounting for the business combination. Accordingly, consideration paid by the Company to complete the Acquisition was allocated to ShareFiles assets and liabilities based upon their estimated fair values as of the date of completion of the Acquisition. The pro forma purchase price adjustments are preliminary, subject to further adjustments as additional information becomes available along with the completion of the purchase price allocation and as additional analyses are performed, and have been made solely for the purpose of providing the pro forma Statement of Operations presented below. The unaudited pro forma condensed combined Statement of Operations does not reflect any adjustment for costs of, or related liabilities for, any integration and similar activities, or benefits, including potential synergies that may be derived in future periods, from the Acquisition.
+
+The unaudited pro forma condensed combined Statement of Operations is provided for illustrative purposes only and does not purport to represent what the actual combined results of operations of the combined company would have been had the Acquisition and related financing occurred on the dates assumed, nor is the pro forma condensed combined Statement of Operations necessarily indicative of future combined results of operations. The unaudited pro forma condensed combined Statement of Operations is based upon available information and certain assumptions that the Company believes are reasonable, as described in the accompanying notes that should be read in conjunction with the pro forma condensed combined Statement of Operations. 
+
+The Unaudited Pro Forma Condensed Combined Statement of Operations have been compiled from and should be read in conjunction with the following sources:
+
+The Statement of Operations for Progress has been prepared in accordance with U.S. GAAP and derived from: (i) the Companys audited consolidated Statement of Operations for the fiscal year ended November 30, 2024, contained in the Companys Annual Report on Form 10-K filed with the Securities and Exchange Commission (SEC) on January 21, 2025.
+
+The Statement of Operations for ShareFile has derived from: (i) ShareFiles audited Statement of Revenues and Direct Expenses for the nine months ended September 1, 2024, attached as Exhibit 99.1 to the Companys Current Report on Form 8-K/A filed with the SEC on January 10, 2025; and (ii) the unaudited historical Statement of Operations of ShareFile for the two months ended October 31, 2024.
+
+1
+
+Unaudited Pro Forma Condensed Combined Statement of Operations
+
+For the Year Ended November 30, 2024
+
+(in thousands, except per share data) Progress Historical
+
+Twelve Months Ended 11/30/2024 ShareFile Historical
+
+Nine Months Ended 9/1/2024 ShareFile Historical
+
+Two Months Ended 10/31/2024 Transaction Accounting and Financing Adjustments Note Pro Forma
+
+Revenue: 
+
+Software licenses $ 249,331 $ $ $ $ 249,331 
+
+Maintenance and services 504,078 183,584 41,764 729,426 
+
+Total revenue 753,409 183,584 41,764 978,757 
+
+Costs of revenue: 
+
+Cost of software licenses 10,942 10,942 
+
+Cost of maintenance and services 90,318 73,075 16,239 (45,027) (a) 134,605 
+
+Amortization of acquired intangibles 29,222 15,583 (a) 44,805 
+
+Total costs of revenue 130,482 73,075 16,239 (29,444) 190,352 
+
+Gross profit 622,927 110,509 25,525 29,444 788,405 
+
+Operating expenses: 
+
+Sales and marketing 164,570 56,774 12,616 (23,073) (a) 210,887 
+
+Product development 146,342 32,435 7,208 185,985 
+
+General and administrative 89,518 16,994 3,764 110,276 
+
+Amortization of acquired intangibles 65,290 45,179 (a) 110,469 
+
+Restructuring expenses 10,454 9,802 2,178 22,434 
+
+Acquisition-related expenses 17,109 17,109 
+
+Cyber vulnerability response expenses, net 5,641 5,641 
+
+Total operating expenses 498,924 116,005 25,766 22,106 662,801 
+
+Income (loss) from operations 124,003 (5,496) (241) 7,338 125,604 
+
+Other (expense) income: 
+
+Interest expense (32,012) (44,706) (b) (76,718) 
+
+Interest income and other, net 4,734 4,734 
+
+Foreign currency loss, net (2,461) (2,461) 
+
+Total other expense, net (29,739) (44,706) (74,445) 
+
+Income (loss) before income taxes 94,264 (5,496) (241) (37,368) 51,159 
+
+Provision (benefit) for income taxes 25,826 (10,345) (c) 15,481 
+
+Net income (loss) $ 68,438 $ (5,496) $ (241) $ (27,023) $ 35,678 
+
+Earnings per share: 
+
+Basic $ 1.58 $ $ $ $ 0.82 
+
+Diluted $ 1.54 $ $ $ $ 0.80 
+
+Weighted average shares outstanding: 
+
+Basic 43,268 43,268 
+
+Diluted 44,427 44,427 
+
+See accompanying Notes to Unaudited Pro Forma Condensed Combined Statement of Operations.
+
+2
+
+Notes to Unaudited Pro Forma Condensed Combined Statement of Operations
+
+Note 1: Basis of Pro Forma Presentation and Transaction Summary
+
+The unaudited pro forma condensed combined Statement of Operations presents the pro forma results of operations of the combined company based upon the historical financial statements of the Company and the abbreviated financial statements of ShareFile, after giving effect to the Acquisition and adjustments described in these footnotes, and are intended to reflect the impact of the Acquisition on the Company. 
+
+The unaudited pro forma condensed combined Statement of Operations for the year ended November 30, 2024 gives effect to the Acquisition as though it had been consummated on December 1, 2023, including the related financing. The Company funded the Acquisition with $730.0 million in borrowings under an existing $900.0 million revolving credit facility and cash on hand, resulting in a payment at closing of $852.7 million.
+
+The Acquisition was accounted for using the acquisition method of accounting in accordance with Accounting Standard Codification 805 - Business Combinations, and the Companys cost to acquire ShareFile has been allocated to the assets acquired and liabilities assumed based upon respective preliminary estimate of fair values as of the date of the Acquisition using assumptions that the Companys management believes are reasonable given the information currently available. The process for estimating the fair values of identifiable intangible assets and certain tangible assets requires the use of significant estimates and assumptions, including estimating future cash flows and determining appropriate discount rates. The excess of the Purchase Price over the estimated amounts of net assets as of the effective date of the Acquisition was allocated to goodwill in accordance with the accounting guidance. The preliminary fair value estimates of the net assets acquired are based upon preliminary calculations and valuations, and those estimates and assumptions are subject to change as we obtain additional information for those estimates during the measurement period (up to one year from the acquisition date).
+
+The unaudited pro forma condensed combined Statement of Operations do not reflect the cost of any integration activities or benefits from the Acquisition and synergies that may be derived from any integration activities, both of which may have a material effect on Progress consolidated results of operations in periods following the completion of the Acquisition.
+
+The total estimated Purchase Price was allocated as follows:
+
+(in thousands) 
+
+Other current assets $ 3,574 
+
+Property, plant and equipment 51 
+
+Customer relationships 318,000 
+
+Purchased technology 119,000 
+
+Trade name 27,000 
+
+Right-of-use lease assets and other assets 5,548 
+
+Deferred tax assets 22,126 
+
+Short-term deferred revenue, net (89,341) 
+
+Short-term operating lease liabilities and other accrued liabilities (2,794) 
+
+Long-term deferred revenue, net (2,852) 
+
+Long-term operating lease liabilities (3,327) 
+
+Total identifiable net assets 396,985 
+
+Goodwill 455,717 
+
+Fair value of total consideration transferred $ 852,702 
+
+The preliminary fair value of the intangible assets has been estimated using the income approach in which the after-tax cash flows are discounted to present value. The cash flows are based on estimates used to price the Acquisition, and the discount rates applied were benchmarked with reference to the implied rate of return from the transaction model as well as the weighted average cost of capital. 
+
+Acquisition-related transaction costs (e.g., advisory, legal, valuation, and other professional fees) and related charges are not included as a component of consideration transferred, but are required to be expensed as incurred. During the fiscal year ended November 30, 2024, Progress incurred approximately $15.6 million of acquisition-related costs, which are included in acquisition-related expenses.
+
+3
+
+Note 2: Transaction Accounting and Financing Adjustments
+
+(a) Reflects the adjustment of ShareFiles historical identifiable intangible assets to their preliminary estimated fair values, including $318.0 million of customer relationships, $119.0 million of purchased technology, and $27.0 million of trade names, all of which were definite-lived intangible assets. For the purpose of determining pro forma amortization expense to be recorded in the unaudited pro forma condensed combined statements of operations, each identifiable intangible asset was assumed to have a useful life of seven years. For the eleven months ended October 31, 2024, ShareFile recognized $45.0 million of amortization expense in costs of maintenance and services and $23.1 million in sales and marketing expenses. 
+
+(b) Reflects proceeds of $730.0 million received from the existing $900.0 million revolving credit facility to partially fund the Acquisition. Additional interest expense incurred was calculated using an interest rate of 6.7%, which was the borrowing rate on the date of the transaction. The interest rate on the revolving credit facility adjusts monthly based on a reference to the Secured Overnight Financing Rate (SOFR). If the interest rates were to increase or decrease by 0.125% from the rate assumed, pro forma interest expense would change by approximately $0.9 million for the year ended November 30, 2024.
+
+(c) Reflects the adjustment to income tax expense on the results of operations of ShareFile and the pro forma adjustments for the eleven months ended October 31, 2024, using an estimated statutory income tax rate of 24.0% (federal and state). Income tax expense was not allocated to ShareFile in the pre-acquisition abbreviated statements of net revenues and direct expenses.
+
+4
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>prgs-20241031.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover Page 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>prgs-20241031_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover [Abstract] 
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Entity Address, Address Line Two 
+Entity Address, Address Line Two 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>prgs-20241031_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Cover Page
+
+Oct. 31, 2024
+
+Cover [Abstract] 
+
+Document Type 8-K/A
+
+Document Period End Date Oct. 31, 2024
+
+Entity Registrant Name PROGRESS SOFTWARE CORP /MA
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 0-19417
+
+Entity Tax Identification Number 04-2746201
+
+Entity Address, Address Line One 15 Wayside Road
+
+Entity Address, Address Line Two Suite 400
+
+Entity Address, City or Town Burlington
+
+Entity Address, State or Province MA
+
+Entity Address, Postal Zip Code 01803
+
+City Area Code 781
+
+Local Phone Number 280-4000
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, $0.01 par value per share
+
+Trading Symbol PRGS
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0000876167
+
+Amendment Flag false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+1 
+23 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover Page 
+Sheet 
+http://www.progress.com/role/CoverPage 
+Cover Page 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+prgs-20241031.htm 
+prgs-20241031.xsd 
+prgs-20241031_lab.xml 
+prgs-20241031_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0000876167-25-000053-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>prgs-20241031_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0000876167 
+
+2024-10-31 
+2024-10-31 
+
+0000876167 
+false 
+PROGRESS SOFTWARE CORP /MA 
+8-K/A 
+2024-10-31 
+DE 
+0-19417 
+04-2746201 
+15 Wayside Road 
+Suite 400 
+Burlington 
+MA 
+01803 
+781 
+280-4000 
+false 
+false 
+false 
+false 
+Common Stock, $0.01 par value per share 
+PRGS 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

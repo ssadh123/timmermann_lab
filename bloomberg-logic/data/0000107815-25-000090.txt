@@ -1,0 +1,1007 @@
+<SEC-DOCUMENT>0000107815-25-000090.txt : 20250117
+<SEC-HEADER>0000107815-25-000090.hdr.sgml : 20250117
+<ACCEPTANCE-DATETIME>20250117105524
+ACCESSION NUMBER:		0000107815-25-000090
+CONFORMED SUBMISSION TYPE:	8-K/A
+PUBLIC DOCUMENT COUNT:		13
+CONFORMED PERIOD OF REPORT:	20241017
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+FILED AS OF DATE:		20250117
+DATE AS OF CHANGE:		20250117
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WEC ENERGY GROUP, INC.
+		CENTRAL INDEX KEY:			0000783325
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC & OTHER SERVICES COMBINED [4931]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				391391525
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09057
+		FILM NUMBER:		25537469
+
+	BUSINESS ADDRESS:	
+		STREET 1:		231 W MICHIGAN ST
+		STREET 2:		P O BOX 1331
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53201
+		BUSINESS PHONE:		414-221-2345
+
+	MAIL ADDRESS:	
+		STREET 1:		231 WEST MICHIGAN STREET
+		STREET 2:		P O BOX 1331
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WISCONSIN ENERGY CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K/A
+<SEQUENCE>1
+<FILENAME>wec-20241017.htm
+<DESCRIPTION>8-K/A
+<TEXT>
+xml version='1.0' encoding='ASCII'?wec-20241017
+
+0000783325trueOn October 18, 2024, WEC Energy Group, Inc. (the Company) filed a Current Report on Form 8-K (the Original 8-K), which announced the appointment of Warner Baxter and John Lange to the Companys Board of Directors (the Board), effective January 1, 2025. At the time of the Original 8-K, the Board had not made a determination regarding any committee assignment for Mr. Baxter or Mr. Lange. This Amendment No. 1 on Form 8-K/A to the Original 8-K is being filed to disclose the committee assignments for Mr. Baxter and Mr. Lange. Except for the foregoing, this Amendment No. 1 does not amend any other disclosure reported in the Original 8-K.00007833252024-10-172024-10-17
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K/A
+
+(Amendment No. 1)
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of1934
+
+Date of report (Date of earliest event reported):
+
+October 17, 2024
+
+____________________
+
+Commission 
+
+File Number Registrant; State of Incorporation;
+
+Address; and Telephone Number IRS Employer
+
+Identification No.
+
+001-09057 WEC ENERGY GROUP, INC. 39-1391525
+
+(A Wisconsin Corporation)
+
+231 West Michigan Street
+
+P.O. Box 1331
+
+Milwaukee, WI53201
+
+(414) 221-2345
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Common Stock, $.01 Par Value WEC New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+1
+
+EXPLANATORY NOTE
+
+On October 18, 2024, WEC Energy Group, Inc. (the Company) filed a Current Report on Form 8-K (the Original 8-K), which announced the appointment of Warner Baxter and John Lange to the Companys Board of Directors (the Board), effective January 1, 2025. At the time of the Original 8-K, the Board had not made a determination regarding any committee assignment for Mr. Baxter or Mr. Lange. This Amendment No. 1 on Form 8-K/A to the Original 8-K is being filed to disclose the committee assignments for Mr. Baxter and Mr. Lange. Except for the foregoing, this Amendment No. 1 does not amend any other disclosure reported in the Original 8-K.
+
+ITEM 5.02 DEPARTURE OF DIRECTORS OR CERTAIN OFFICERS; ELECTION OF DIRECTORS; APPOINTMENT OF CERTAIN OFFICERS; COMPENSATORY ARRANGEMENTS OF CERTAIN OFFICERS.
+
+Effective January 16, 2025, the Board appointed Mr. Baxter to the Audit and Oversight Committee and Mr. Lange to the Finance Committee.
+
+2
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+WEC ENERGY GROUP, INC.
+
+(Registrant)
+
+/s/ William J. Guc
+
+Date: January 17, 2025 William J. Guc -- Vice President and Controller
+
+3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>2
+<FILENAME>wec-20241017.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover Page 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>3
+<FILENAME>wec-20241017_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Security Exchange Name 
+Security Exchange Name 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Amendment Description 
+Amendment Description 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Document Period End Date 
+Document Period End Date 
+
+Cover [Abstract] 
+Cover [Abstract] 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Soliciting Material 
+Soliciting Material 
+
+City Area Code 
+City Area Code 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Document Type 
+Document Type 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+Entity Address, Address Line Two 
+
+Entity Registrant Name 
+Entity Registrant Name
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>4
+<FILENAME>wec-20241017_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>6
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Cover Page
+
+Oct. 17, 2024
+
+Cover [Abstract] 
+
+Document Type 8-K/A
+
+Document Period End Date Oct. 17, 2024
+
+Entity File Number 001-09057
+
+Entity Registrant Name WEC ENERGY GROUP, INC.
+
+Entity Tax Identification Number 39-1391525
+
+Entity Incorporation, State or Country Code WI
+
+Entity Address, Address Line One 231 West Michigan Street
+
+Entity Address, Address Line Two P.O. Box 1331
+
+Entity Address, City or Town Milwaukee
+
+Entity Address, State or Province WI
+
+Entity Address, Postal Zip Code 53201
+
+City Area Code 414
+
+Local Phone Number 221-2345
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, $.01 Par Value
+
+Trading Symbol WEC
+
+Security Exchange Name NYSE
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0000783325
+
+Amendment Flag true
+
+Amendment Description On October 18, 2024, WEC Energy Group, Inc. (the Company) filed a Current Report on Form 8-K (the Original 8-K), which announced the appointment of Warner Baxter and John Lange to the Companys Board of Directors (the Board), effective January 1, 2025. At the time of the Original 8-K, the Board had not made a determination regarding any committee assignment for Mr. Baxter or Mr. Lange. This Amendment No. 1 on Form 8-K/A to the Original 8-K is being filed to disclose the committee assignments for Mr. Baxter and Mr. Lange. Except for the foregoing, this Amendment No. 1 does not amend any other disclosure reported in the Original 8-K.
+
+X
+
+- Definition
+
+Description of changes contained within amended document.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentDescription
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>7
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+1 
+24 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover Page 
+Sheet 
+http://www.wecenergygroup.com/role/CoverPage 
+Cover Page 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+wec-20241017.htm 
+wec-20241017.xsd 
+wec-20241017_lab.xml 
+wec-20241017_pre.xml 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>13
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>14
+<FILENAME>0000107815-25-000090-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>15
+<FILENAME>wec-20241017_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0000783325 
+
+2024-10-17 
+2024-10-17 
+
+0000783325 
+true 
+On October 18, 2024, WEC Energy Group, Inc. (the Company) filed a Current Report on Form 8-K (the Original 8-K), which announced the appointment of Warner Baxter and John Lange to the Companys Board of Directors (the Board), effective January 1, 2025. At the time of the Original 8-K, the Board had not made a determination regarding any committee assignment for Mr. Baxter or Mr. Lange. This Amendment No. 1 on Form 8-K/A to the Original 8-K is being filed to disclose the committee assignments for Mr. Baxter and Mr. Lange. Except for the foregoing, this Amendment No. 1 does not amend any other disclosure reported in the Original 8-K. 
+8-K/A 
+2024-10-17 
+001-09057 
+WEC ENERGY GROUP, INC. 
+39-1391525 
+WI 
+231 West Michigan Street 
+P.O. Box 1331 
+Milwaukee 
+WI 
+53201 
+414 
+221-2345 
+false 
+false 
+false 
+false 
+Common Stock, $.01 Par Value 
+WEC 
+NYSE 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

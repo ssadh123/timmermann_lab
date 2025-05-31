@@ -1,0 +1,1447 @@
+<SEC-DOCUMENT>0000817720-25-000009.txt : 20250206
+<SEC-HEADER>0000817720-25-000009.hdr.sgml : 20250206
+<ACCEPTANCE-DATETIME>20250206160759
+ACCESSION NUMBER:		0000817720-25-000009
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250206
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250206
+DATE AS OF CHANGE:		20250206
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SYNAPTICS Inc
+		CENTRAL INDEX KEY:			0000817720
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				770118518
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0626
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-49602
+		FILM NUMBER:		25597412
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1109 MCKAY DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95131-1706
+		BUSINESS PHONE:		408-904-1100
+
+	MAIL ADDRESS:	
+		STREET 1:		1109 MCKAY DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95131-1706
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SYNAPTICS INC
+		DATE OF NAME CHANGE:	20010216
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>syna-20250206.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?syna-20250206
+
+FALSE000081772000008177202025-02-062025-02-06
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+________________________________________________________
+
+FORM 8-K
+
+________________________________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 6, 2025
+
+________________________________________________________
+
+SYNAPTICS INCORPORATED
+
+(Exact name of Registrant as Specified in Its Charter)
+
+________________________________________________________
+
+Delaware 000-49602 77-0118518
+
+(State or Other Jurisdiction
+
+of Incorporation) (Commission File Number) 
+
+(IRS Employer
+
+Identification No.)
+
+1109 McKay Drive 
+
+San Jose, California 95131
+
+(Address of Principal Executive Offices) (Zip Code)
+
+Registrants Telephone Number, Including Area Code: (408)904-1100
+
+________________________________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+o Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class 
+
+Trading
+
+Symbol(s) 
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.001 per share SYNA NASDAQ Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 ( 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 ( 240.12b-2 of this chapter). 
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On February 6, 2025, Synaptics Incorporated (the "Company") issued a press release announcing its financial results for the fiscal quarter ended December 28, 2024, and posted supplemental earnings materials to the investor section of the Companys website at www.synaptics.com. A copy of the press release is furnished herewith as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+This information furnished pursuant to this Item 2.02, including Exhibit 99.1, shall not be deemed filed for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall it be incorporated by reference into any registration document or other document filed by the Company.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit Number 
+
+Description
+
+99.1 
+
+Press release from Synaptics Incorporated, dated February 6, 2025, titled Synaptics Reports Second Quarter Fiscal 2025 Results
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+SYNAPTICS INCORPORATED
+
+Date: February 6, 2025 By: /s/ Ken Rizvi
+
+Ken Rizvi
+
+Interim Chief Executive Officer and Chief Financial Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>syna-q2258kexx991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Exhibit 99.1
+
+Synaptics Reports Second Quarter Fiscal 2025 Results 
+
+Q225 Financial Results and Recent Business Highlights 
+
+Revenue of $267.2 million
+
+GAAP gross margin of 45.7 percent
+
+Non-GAAP gross margin of 53.6 percent
+
+GAAP diluted earnings per share of $0.05
+
+Non-GAAP diluted earnings per share of $0.92
+
+Signed a new agreement with Broadcom, accelerating our Edge AI strategy
+
+Repurchased approximately one million shares for $74.5 million
+
+SAN JOSE, Calif., February 6, 2025 Synaptics Incorporated (Nasdaq: SYNA) today reported financial results for its second quarter of fiscal 2025 ended December 28, 2024.
+
+Net revenue for the second quarter of fiscal 2025 was $267.2 million. GAAP net income for the second quarter of fiscal 2025 was $1.8 million, or $0.05 per diluted share. Non-GAAP net income for the second quarter of fiscal 2025 was $36.6 million, or $0.92 per diluted share. 
+
+We delivered another solid quarter, marking our third consecutive quarter of both sequential and year-over-year revenue growth. Core IoT products grew 63% year-over-year in the second quartera testament to our leadership in this rapidly expanding market. Additionally, our strategic transaction with Broadcom further strengthens our Core IoT position. This agreement, coupled with our ongoing organic growth, increases my confidence in the companys long-term growth potential, said Ken Rizvi, Synaptics Interim CEO and Chief Financial Officer.
+
+Business Outlook
+
+Ken Rizvi, added, We are seeing stable to improving trends in most of our end markets. While the fiscal third quarter is down sequentially due to seasonality, our guidance reflects continued year-over-year growth in our business. Our strong balance sheet and positive cash flow, positions us to capitalize on both organic and inorganic growth opportunities, while also returning capital to shareholders through share buybacks.
+
+The third quarter fiscal 2025 outlook information provided below is based on the companys current estimates and is not a guarantee of future performance. These statements are forward-looking and actual results may differ materially. Refer to the Cautionary Statement Regarding Forward-Looking Statements section below for information on the factors that could cause the Companys actual results to differ materially from these forward-looking statements.
+
+For the third quarter of fiscal 2025, the company expects: 
+
+GAAP 
+
+Non-GAAP Adjustment 
+
+Non-GAAP
+
+Revenue 
+
+$265M $15M N/A N/A
+
+Gross Margin* 
+
+45.2 percent 
+
+2.0 percent 
+
+$22M $1M 53.5 percent 1.0 percent
+
+Operating Expense** 
+
+$141M $3M 
+
+$40M $1M 
+
+$101M $2M
+
+Earnings (loss) per share*** 
+
+($0.47) $0.30 
+
+$1.32 $0.10 
+
+$0.85 $0.20
+
+* Projected Non-GAAP gross margin excludes $20.0 to $22.0 million acquisition and integration-related costs and $1.0 million share-based compensation. 
+
+** Projected Non-GAAP operating expense excludes $34.0 to $35.0 million share-based compensation, $1.0 to $2.0 million restructuring costs, and $4.0 million acquisition and integration related costs. 
+
+*** Projected Non-GAAP earnings (loss) per share excludes $0.89 to $0.92 share-based compensation, $0.03 to $0.05 restructuring costs, $0.60 to $0.65 acquisition and integration related costs, and ($0.20) other non-cash and Non-GAAP tax adjustments.
+
+Our outlook incorporates the effects of the companys recent asset acquisition from Broadcom. However, the company has not completed its assessment of the provisional fair values of the assets and liabilities, and therefore, our GAAP outlook does not reflect the impact of any differences between the carrying values and fair values of Broadcoms assets or liabilities, including share-based compensation and the impact of amortization of any identifiable intangible assets.
+
+Earnings Call and Supplementary Materials 
+
+The Synaptics second quarter fiscal 2025 teleconference and webcast is scheduled to begin at 2:00 p.m. PT (5:00 p.m. ET), on Thursday, February 6, 2025, during which the company may discuss forward-looking information. 
+
+Speaker: 
+
+Ken Rizvi, Interim CEO and Chief Financial Officer
+
+To participate on the live call, analysts and investors should pre-register at Synaptics Q2 FY2025 Earnings Call Registration.
+
+https://register.vevent.com/register/BI158a46a65d6743c6b0846d8242dcea87. Supplementary slides, a copy of the prepared remarks, and a live and archived webcast of the conference call will be accessible from the Investor Relations section of the companys website at https://investor.synaptics.com/.
+
+About Synaptics Incorporated: 
+
+Synaptics (Nasdaq: SYNA) is driving innovation in AI at the Edge, bringing AI closer to end users and transforming how we engage with intelligent connected devices, whether at home, at work, or on the move. As a go-to partner for forward-thinking product innovators, Synaptics powers the future with its cutting-edge Synaptics Astra AI-Native embedded compute, Veros wireless connectivity, and multimodal sensing solutions. Were making the digital experience smarter, faster, more intuitive, secure, and seamless. From touch, display, and biometrics to AI-driven wireless connectivity, video, vision, audio, speech, and security processing, Synaptics is the force behind the next generation of technology enhancing how we live, work, and play. Follow Synaptics on LinkedIn, X and Facebook, or visit synaptics.com. 
+
+Use of Non-GAAP Financial Information 
+
+In evaluating its business, Synaptics considers and uses Non-GAAP Net Income, which we define as net income excluding share-based compensation, acquisition-related costs, and certain other non-cash or recurring and non-recurring items the company does not believe are indicative of its core operating performance, as a supplemental measure of operating performance. Non-GAAP Net Income is not a measurement of the companys financial performance under GAAP and should not be considered as an alternative to GAAP Net Income. The company presents Non-GAAP Net Income because it considers it an important supplemental measure of its performance since it facilitates operating performance comparisons from period to period by eliminating potential differences in net income caused by the existence and timing of share-based compensation charges, acquisition and integration-related costs, restructuring costs, and certain other non-cash or recurring and non-recurring items. Non-GAAP Net Income has limitations as an analytical tool and should not be considered in isolation or as a substitute for the companys GAAP Net Income. The principal limitations of this measure are that it does not reflect the companys actual expenses and may thus have the effect of inflating its net income and net income per share as compared to its operating results reported under GAAP. In addition, the company presents components of Non-GAAP Net Income, such as Non-GAAP Gross Margin, Non-GAAP operating expenses and Non-GAAP operating margin, for similar reasons. 
+
+As presented in the Reconciliation of GAAP Financial Measures to Non-GAAP Financial Measures tables that follow, Non-GAAP Net Income and each of the other Non-GAAP financial measures excludes one or more of the following items: 
+
+Acquisition and integration-related costs 
+
+Acquisition and integration-related costs primarily consist of: 
+
+amortization of purchased intangibles, which include acquired intangibles such as developed technology, customer relationships, trademarks, backlog, licensed technology, patents, and in-process technology when post-acquisition development is determined to be substantively complete;
+
+inventory fair value adjustments affecting the carrying value of inventory acquired in an acquisition;
+
+transitory post-acquisition incentive programs negotiated in connection with an acquired business or designed to encourage post-acquisition retention of key employees; and 
+
+legal and consulting costs directly associated with acquisitions, potential acquisitions and refinancing costs, including non-recurring acquisition related costs and services. 
+
+These acquisition and integration-related costs are not factored into the companys evaluation of its ongoing business operating performance or potential acquisitions, as they are not considered as part of 
+
+the companys principal operations. Further, the amount of these costs can vary significantly from period to period based on the terms of an earn-out arrangement, revisions to assumptions that went into developing the estimate of the contingent consideration associated with an earn-out arrangement, the size and timing of an acquisition, the lives assigned to the acquired intangible assets, and the maturity of the business acquired. Excluding acquisition related costs from Non-GAAP measures provides investors with a basis to compare Synaptics against the performance of other companies without the variability and potential earnings volatility associated with purchase accounting and acquisition-related items. 
+
+Share-based compensation 
+
+Share-based compensation expense relates to employee equity award programs and the vesting of the underlying awards, which includes stock options, deferred stock units, market stock units, performance stock units, phantom stock units and the employee stock purchase plan. Share-based compensation settled with stock, which includes stock options, deferred stock units, market stock units, performance stock units and the employee stock purchase plan, is a non-cash expense, while share-based compensation settled with cash, which includes phantom stock units, is a cash expense. Settlement of all employee equity award programs, whether settled with cash or stock, varies in amount from period to period and is dependent on market forces that are often beyond the companys control. As a result, the company excludes share-based compensation from its internal operating forecasts and models. The company believes that Non-GAAP measures reflecting adjustments for share-based compensation provide investors with a basis to compare the companys principal operating performance against the performance of peer companies without the variability created by share-based compensation resulting from the variety of equity-linked compensatory awards used by other companies and the varying methodologies and assumptions used. 
+
+Intangible asset impairment charge
+
+Intangible asset impairment charge represent the excess carrying value of an indefinite-lived asset over its fair value. The intangible asset impairment charge is a non-cash charge. The company excludes intangible asset impairment charge from its internal operating forecasts and models when evaluating its ongoing business performance. The company believes that Non-GAAP measures, reflecting adjustments for intangible asset impairment charge, provide investors with a basis to compare the companys principal operating performance against the performance of other companies without the variability created by the intangible asset impairment charge.
+
+Restructuring costs 
+
+Restructuring costs are costs incurred to address cost structure inefficiencies of acquired or existing business operations and consist primarily of employee termination, asset disposal and office closure costs, including the reversal of such costs. As a result, the company excludes restructuring costs from its internal operating forecasts and models when evaluating its ongoing business performance. The company believes that Non-GAAP measures reflecting adjustments for restructuring costs provide investors with a basis to compare the companys principal operating performance against the performance of other companies without the variability created by restructuring costs designed to address cost structure inefficiencies of acquired or existing business operations. 
+
+Site remediation accrual
+
+Site remediation accrual represents an update to the estimated future costs associated with the ongoing planning and remediation of a site contamination project from an acquisition. As we evaluate progress on our ongoing remediation effort and as we work with governmental organizations to update our 
+
+remediation plan to meet the evolving guidelines, we estimate costs associated with plan revisions to determine if our liability has changed. Excluding the site remediation accrual from Non-GAAP measures provides investors with a basis to compare Synaptics against the performance of other companies without the variability associated with the site remediation accrual. 
+
+Legal settlement accruals and other
+
+Legal settlement accruals and other represent our estimated cost of settling legal claims and any obligations to indemnify a counterparty against third party claims that are unusual or infrequent. As a result, the company will exclude these settlement charges from its internal operating forecasts and models when evaluating its ongoing business performance. The company believes that non-GAAP measures reflecting an adjustment for settlement charges provide investors with a basis to compare the companys principal operating performance against the performance of other companies without the variability created by unusual or infrequent settlement accruals designed to address non-recurring or non-routine costs.
+
+Loss on early extinguishment of debt
+
+Loss on extinguishment of debt represents a non-cash item based on the difference in the carrying value of the debt and the fair value of the debt when extinguished. Loss on early extinguishment of debt is excluded from Non-GAAP results as it is non-cash. Excluding loss on early extinguishment of debt from Non-GAAP measures provides investors with a basis to compare Synaptics against the performance of other companies without the variability associated with loss on early extinguishment of debt. 
+
+Other non-cash items 
+
+Other non-cash items include non-cash amortization of debt discount and issuance costs. These items are excluded from Non-GAAP results as they are non-cash. Excluding other non-cash items from Non-GAAP measures provides investors with a basis to compare Synaptics against the performance of other companies without the variability associated with other non-cash items. 
+
+Non-GAAP tax adjustments 
+
+The company forecasts its long-term Non-GAAP tax rate in order to provide investors with improved long-term modeling accuracy and consistency across financial reporting periods by eliminating the effects of certain items in our Non-GAAP net income and Non-GAAP net income per share, including the type and amount of share-based compensation, the taxation of post-acquisition intercompany intellectual property cross-licensing or transfer transactions, and the impact of other acquisition items that may or may not be tax deductible. The company intends to evaluate its long-term Non-GAAP tax rate annually for significant events, including material tax law changes in the major tax jurisdictions in which the company operates, corporate organizational changes related to acquisitions or tax planning opportunities, and substantive changes in our geographic earnings mix. 
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This press release contains statements that are not historical facts but rather forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including, but not limited to, statements related to the companys current expectations and projections relating to its financial condition, results of operations, including the companys financial guidance for third quarter fiscal 2025, plans, objectives, future performance and business, including the expected benefits from the transaction with Broadcom. Such forward-looking statements may include words such as expect, anticipate, intend, believe, estimate, plan, target, strategy, continue, may, will, should, variations of such words, or other words and terms of similar meaning. All forward-looking statements are based upon the companys current expectations or various assumptions. The companys expectations and assumptions are expressed in good faith, and the company believes there is a reasonable basis for them. However, there can be no assurance that such forward-looking statements will materialize or prove to be correct as forward-looking statements are inherently subject to known and unknown risks, uncertainties and other factors which may cause actual future results, performance or achievements to differ materially from the future results, performance or achievements expressed in or implied by such forward-looking statements. Numerous risks, uncertainties and other factors may cause actual results to differ materially from those set out in the forward-looking statements, including risks related to the companys dependence on its solutions for the Core IoT and Enterprise and Automotive product applications market for a substantial portion of its revenue; the volatility of the companys net revenue from its solutions for Core IoT and Enterprise and Automotive product applications; the companys dependence on one or more large customers; the companys exposure to industry downturns and cyclicality in its target markets; the companys ability to successfully offer product solutions for new markets; the companys expectations regarding technology and strategic investments and the anticipated timing or benefits thereof; the companys ability to execute on its cost reduction initiatives and to achieve expected synergies and expense reductions; the companys ability to maintain and build relationships with its customers; the companys dependence on third parties to maintain satisfactory manufacturing yields and deliverable schedule; the companys indemnification obligations for any third party claims; the uncertainty surrounding macroeconomic factors in the United States, and globally, impacting the supply chain environment, inflationary pressure, workforce reductions, regional instabilities and hostilities (including the conflict in the Middle East), the companys ability to recruit and retain key personnel, the companys ability to realize anticipated benefits from the transaction with Broadcom, the companys ability to grow sales and expand into the serviceable wireless market as expected, and other risks as identified in the Risk Factors, Management Discussion and Analysis of Financial Condition and Results of Operations and Business sections of the companys most recent Annual Report on Form 10-K and the companys most recent Quarterly Report on Form 10-Q; and other risks as identified from time to time in the companys Securities and Exchange Commission reports. For any forward-looking statements contained in this press release, the company claims the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995, and the company assumes no obligation to update publicly or revise any forward-looking statements in light of new information or future events, except as required by law.
+
+Synaptics and the Synaptics logo are trademarks of Synaptics in the United States and/or other countries. All other marks are the property of their respective owners.
+
+For more information, please contact: 
+
+Munjal Shah
+
+Head of Investor Relations
+
++1-408-518-7639
+
+munjal.shah@synaptics.com
+
+SYNAPTICS INCORPORATED 
+
+CONDENSED CONSOLIDATED BALANCE SHEETS 
+
+(In millions) 
+
+(Unaudited) 
+
+December 2024 June 2024
+
+ASSETS 
+
+Current Assets: 
+
+Cash and cash equivalents $ 596.1 $ 876.9 
+
+Accounts receivable, net 146.5 142.4 
+
+Inventories, net 119.5 114.0 
+
+Prepaid expenses and other current assets 28.4 29.0 
+
+Total current assets 890.5 1,162.3 
+
+Property and equipment, net 75.3 75.5 
+
+Goodwill 819.9 816.4 
+
+Acquired intangibles, net 242.0 288.4 
+
+Deferred tax asset 368.5 345.6 
+
+Other non-current assets 131.3 136.8 
+
+Total assets $ 2,527.5 $ 2,825.0 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current Liabilities: 
+
+Accounts payable $ 84.0 $ 87.5 
+
+Accrued compensation 31.2 27.4 
+
+Other accrued liabilities 114.6 156.3 
+
+Current portion of long-term debt 6.0 
+
+Total current liabilities 229.8 277.2 
+
+Long-term debt 832.5 966.9 
+
+Other long-term liabilities 89.1 114.1 
+
+Total liabilities 1,151.4 1,358.2 
+
+Stockholders' Equity: 
+
+Common stock and additional paid-in capital 1,112.4 1,107.1 
+
+Treasury stock (952.7) (878.0) 
+
+Retained earnings 1,216.4 1,237.7 
+
+Total stockholders' equity 1,376.1 1,466.8 
+
+Total liabilities and stockholders' equity $ 2,527.5 $ 2,825.0 
+
+SYNAPTICS INCORPORATED
+
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+
+(In millions, except per share data)
+
+(Unaudited)
+
+Three Months Ended Six Months Ended
+
+December December
+
+2024 2023 2024 2023
+
+Net revenue $ 267.2 $ 237.0 $ 524.9 $ 474.7 
+
+Cost of revenue 145.0 128.0 281.8 258.6 
+
+Gross margin 122.2 109.0 243.1 216.1 
+
+Operating expenses: 
+
+Research and development 83.3 82.0 164.6 168.5 
+
+Selling, general, and administrative 49.5 39.7 99.5 82.0 
+
+Acquired intangibles amortization (1) 3.8 3.9 7.6 9.4 
+
+Restructuring costs (2) 0.8 1.3 15.0 9.3 
+
+Total operating expenses 137.4 126.9 286.7 269.2 
+
+Operating loss (15.2) (17.9) (43.6) (53.1) 
+
+Interest and other expense, net (4.3) (6.1) (10.2) (11.5) 
+
+Loss on early extinguishment of debt (6.5) (6.5) 
+
+Loss before benefit from income taxes (26.0) (24.0) (60.3) (64.6) 
+
+Benefit from income taxes (27.8) (15.0) (39.0) 
+
+Net income (loss) $ 1.8 $ (9.0) $ (21.3) $ (64.6) 
+
+Net income (loss) per share: 
+
+Basic $ 0.05 $ (0.23) $ (0.54) $ (1.66) 
+
+Diluted $ 0.05 $ (0.23) $ (0.54) $ (1.66) 
+
+Shares used in computing net income (loss): 
+
+Basic 39.7 39.2 39.7 38.9
+
+Diluted 39.8 39.2 39.7 38.9
+
+(1) These acquisition related costs consist primarily of amortization associated with certain acquired intangible assets.
+
+(2) Restructuring costs primarily include severance related costs associated with operational restructurings. 
+
+SYNAPTICS INCORPORATED
+
+Reconciliation of GAAP Financial Measures to Non-GAAP Financial Measures
+
+(In millions, except per share data)
+
+(Unaudited)
+
+Three Months Ended Six Months Ended
+
+December December
+
+2024 2023 2024 2023
+
+GAAP gross margin $ 122.2 $ 109.0 $ 243.1 $ 216.1 
+
+Acquisition and integration related costs 20.8 14.4 41.6 32.2 
+
+Share-based compensation 0.3 1.1 (2.4) 2.2 
+
+Non-GAAP gross margin $ 143.3 $ 124.5 $ 282.3 $ 250.5 
+
+GAAP gross margin - percentage of revenue 45.7 % 46.0 % 46.3 % 45.5 %
+
+Acquisition and integration related costs - percentage of revenue 7.8 % 6.1 % 7.9 % 6.8 %
+
+Share-based compensation - percentage of revenue 0.1 % 0.4 % (0.5 %) 0.5 %
+
+Non-GAAP gross margin - percentage of revenue 53.6 % 52.5 % 53.8 % 52.8 %
+
+GAAP research and development expense $ 83.3 $ 82.0 $ 164.6 $ 168.5 
+
+Share-based compensation (15.6) (15.5) (30.1) (30.7) 
+
+Non-GAAP research and development expense $ 67.7 $ 66.5 $ 134.5 $ 137.8 
+
+GAAP selling, general, and administrative expense $ 49.5 $ 39.7 99.5 82.0 
+
+Share-based compensation (18.7) (12.6) (34.1) (29.5) 
+
+Acquisition and integration related costs (1.4) (4.7) 
+
+Site remediation accrual (1.6) (1.6) 
+
+Legal settlement accruals and other (2.2) 
+
+Non-GAAP selling, general, and administrative expense $ 29.4 $ 25.5 $ 58.5 $ 50.9 
+
+GAAP operating loss $ (15.2) $ (17.9) $ (43.6) $ (53.1) 
+
+Acquisition and integration related costs 26.0 18.3 53.9 41.6 
+
+Share-based compensation 34.6 29.2 61.8 62.4 
+
+Legal settlement accruals and other 2.2 
+
+Restructuring costs 0.8 1.3 15.0 9.3 
+
+Site remediation accrual 1.6 1.6 
+
+Non-GAAP operating income $ 46.2 $ 32.5 $ 89.3 $ 61.8 
+
+GAAP net income (loss) $ 1.8 $ (9.0) $ (21.3) $ (64.6) 
+
+Acquisition and integration related costs 26.0 18.3 53.9 41.6 
+
+Share-based compensation 34.6 29.2 61.8 62.4 
+
+Restructuring costs 0.8 1.3 15.0 9.3 
+
+Site remediation accrual 1.6 1.6 
+
+Legal settlement accruals and other 2.2 
+
+Loss on early extinguishment of debt 6.5 6.5 
+
+Other non-cash items 0.6 0.7 1.2 1.3 
+
+Non-GAAP tax adjustments (33.7) (19.6) (50.2) (8.8) 
+
+Non-GAAP net income $ 36.6 $ 22.5 $ 69.1 $ 42.8 
+
+GAAP net income (loss) per share $ 0.05 $ (0.23) $ (0.54) $ (1.66) 
+
+Acquisition and integration related costs 0.65 0.47 1.36 1.07 
+
+Share-based compensation 0.87 0.74 1.56 1.60 
+
+Restructuring costs 0.02 0.03 0.38 0.24 
+
+Site remediation accrual 0.04 0.04 
+
+Legal settlement accruals and other 0.06 
+
+Loss on early extinguishment of debt 0.16 0.16 
+
+Other non-cash items 0.02 0.02 0.03 0.03 
+
+Non-GAAP tax adjustments (0.85) (0.50) (1.26) (0.23) 
+
+Share adjustment (0.02) 
+
+Non-GAAP net income per share - diluted $ 0.92 $ 0.57 $ 1.73 $ 1.09 
+
+SYNAPTICS INCORPORATED 
+
+CONDENSED CONSOLIDATED CASH FLOWS 
+
+(In millions) 
+
+(Unaudited) 
+
+Six Months Ended
+
+December 
+
+2024 2023
+
+Net loss $ (21.3) $ (64.6) 
+
+Non-cash operating items 97.3 128.3 
+
+Changes in working capital (64.6) 20.9 
+
+Net cash provided by operating activities 11.4 84.6 
+
+Acquisition of business, net of cash and cash equivalents acquired (0.8) 
+
+Purchase of intangible assets (13.5) 
+
+Purchases of short-term investments (16.6) 
+
+Advance payment on intangible assets (116.5) 
+
+Net proceeds from maturities and sales of short-term investments and other 23.9 
+
+Purchases of property and equipment (13.8) (17.1) 
+
+Net cash used in investing activities (14.6) (139.8) 
+
+Proceeds from issuance of convertible senior notes, net of issuance costs 439.5 
+
+Payment of debt issuance costs on convertible senior notes and revolving credit facility (4.4) 
+
+Payments for capped call transactions related to the convertible senior notes (49.9) 
+
+Repurchases of common stock, excluding excise taxes (74.5) 
+
+Equity compensation, net (6.6) (21.1) 
+
+Repayment of debt (583.5) (4.5) 
+
+Other 1.2 1.7 
+
+Net cash used in financing activities (278.2) (23.9) 
+
+Effect of exchange rate changes on cash and cash equivalents 0.6 0.5 
+
+Net decrease in cash and cash equivalents (280.8) (78.6) 
+
+Cash and cash equivalents, beginning of period 876.9 924.7 
+
+Cash and cash equivalents, end of period $ 596.1 $ 846.1
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>syna-20250206.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>syna-20250206_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>syna-20250206_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>logo1.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 06, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 06, 2025
+
+Registrant Name SYNAPTICS INCORPORATED
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 000-49602
+
+Entity Tax Identification Number 77-0118518
+
+Entity Address, Address Line One 1109 McKay Drive
+
+Entity Address, City or Town San Jose
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 95131
+
+City Area Code 408)
+
+Local Phone Number 904-1100
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, par value $0.001 per share
+
+Trading Symbol SYNA
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+Amendment Flag false
+
+Central Index Key 0000817720
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://www.synaptics.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+syna-20250206.htm 
+syna-20250206.xsd 
+syna-20250206_lab.xml 
+syna-20250206_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0000817720-25-000009-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>syna-20250206_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0000817720 
+
+2025-02-06 
+2025-02-06 
+
+false 
+0000817720 
+8-K 
+2025-02-06 
+SYNAPTICS INCORPORATED 
+DE 
+000-49602 
+77-0118518 
+1109 McKay Drive 
+San Jose 
+CA 
+95131 
+408) 
+904-1100 
+false 
+false 
+false 
+false 
+Common Stock, par value $0.001 per share 
+SYNA 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

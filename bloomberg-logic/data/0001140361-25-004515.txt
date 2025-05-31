@@ -1,0 +1,1825 @@
+<SEC-DOCUMENT>0001140361-25-004515.txt : 20250214
+<SEC-HEADER>0001140361-25-004515.hdr.sgml : 20250214
+<ACCEPTANCE-DATETIME>20250214100251
+ACCESSION NUMBER:		0001140361-25-004515
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		16
+CONFORMED PERIOD OF REPORT:	20250213
+ITEM INFORMATION:		Termination of a Material Definitive Agreement
+ITEM INFORMATION:		Completion of Acquisition or Disposition of Assets
+ITEM INFORMATION:		Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing
+ITEM INFORMATION:		Material Modifications to Rights of Security Holders
+ITEM INFORMATION:		Changes in Control of Registrant
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+ITEM INFORMATION:		Submission of Matters to a Vote of Security Holders
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250214
+DATE AS OF CHANGE:		20250214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ZUORA INC
+		CENTRAL INDEX KEY:			0001423774
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				205530976
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38451
+		FILM NUMBER:		25624302
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 REDWOOD SHORES PARKWAY
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+		BUSINESS PHONE:		888-976-9056
+
+	MAIL ADDRESS:	
+		STREET 1:		101 REDWOOD SHORES PARKWAY
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ef20043658_8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+false01-31000142377400014237742025-02-132025-02-13
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 13, 2025
+
+Zuora, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-38451
+
+20-5530976
+
+(State or Other Jurisdiction of Incorporation) 
+
+(Commission File Number) 
+
+(IRS Employer Identification No.)
+
+101 Redwood Shores Parkway,
+Redwood City, California 
+
+94065
+
+(Address of principal executive offices) 
+
+(Zip Code)
+
+Registrants telephone number, including area code: (888) 976-9056
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class 
+
+Trading Symbol(s) 
+
+Name of each exchange on which registered
+
+Class A common stock, par value $0.0001 per share
+
+ZUO
+
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging Growth Company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new
+or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Introductory Note
+
+This Current Report on Form 8-K is being filed in connection with the completion on February 14, 2025, of the transactions contemplated by the Agreement and Plan of
+Merger (the Merger Agreement), dated as of October 17, 2024, by and among Zuora, Inc., a Delaware corporation (the Company),
+Zodiac Purchaser, L.L.C., a Delaware corporation (Parent) and Zodiac Acquisition Sub, Inc., a Delaware corporation (Merger Sub).
+
+Pursuant to the terms and subject to the conditions set forth in the Merger Agreement, on February 14, 2025, Merger Sub merged with and into the Company (the Merger), with the Company
+surviving such merger as a wholly owned subsidiary of Parent (the Surviving Corporation). Parent and Merger Sub are indirectly controlled by private investment funds affiliated with
+Silver Lake Group, L.L.C. (Silver Lake). Silver Lake has entered into the transaction in partnership with an affiliate of GIC Pte. Ltd. (GIC).
+
+The description of the Merger Agreement and the transactions contemplated by the Merger Agreement (including, without limitation, the Merger) in this Current Report on
+Form 8-K (this Current Report) does not purport to be complete and is subject to and qualified in its entirety by reference to the full text of the Merger Agreement, a copy of which is
+attached hereto as Exhibit 2.1 and incorporated herein by reference.
+
+Item 1.02. 
+
+Termination of a Material Definitive Agreement.
+
+The information set forth in the Introductory Note and under Item 2.01 of this Current Report is incorporated herein by reference.
+
+Concurrently with the closing of the Merger, the Company terminated that certain Loan and Security Agreement, dated as of June 14, 2017 and as amended from time to time,
+by and between Silicon Valley Bank and the Company in accordance with its terms.
+
+Item 2.01. 
+
+Completion of Acquisition or Disposition of Assets.
+
+The information set forth in the Introductory Note of this Current Report is incorporated herein by reference.
+
+Immediately prior to the Effective Time (as defined below), Parent and the Company entered into that certain Repurchase Agreement, dated as of February 14, 2025, pursuant
+to which the Company repurchased from SLA II CM Zodiac Holdings, L.P. $103,066,756.62 aggregate principal amount of the Companys 3.95% / 5.50% Convertible Senior PIK Toggle Notes due March 31, 2029 (the Repurchased Notes) issued pursuant to the Indenture, dated as of March 24, 2022, between the Company and U.S. Bank Trust Company, National Association, as trustee, as amended and supplemented by the First Supplemental
+Indenture, dated as of September 22, 2023 and as further amended and supplemented from time to time, for an aggregate cash purchase price of $130,000,000. Upon such repurchase, the Repurchased Notes were cancelled.
+
+At the effective time of the Merger (the Effective Time), (a) Merger Sub merged with and
+into the Company, with the Company surviving the Merger as a wholly owned subsidiary of Parent, (b) each issued and outstanding share of Class A common stock of the Company, par value $0.0001 per share (the Company Class A Common Stock), and Class B common stock of the Company, par value $0.0001 per share (the Company Class B Common Stock, and together with the Company Class A Common Stock, the Company Common Stock) as of immediately prior to the Effective Time (other than any shares of
+Company Common Stock held in the treasury of the Company, any Rollover Shares (as defined below), any shares of Company Common Stock owned by Parent or Merger Sub, or any shares of Company Common Stock as to which appraisal rights have been
+properly exercised in accordance with Delaware law) was automatically cancelled and converted into the right to receive $10.00 in cash without interest (the Merger Consideration), (c)
+each share of Company Common Stock held in the treasury of the Company, each Rollover Share (as defined below) and any shares of Company Common Stock owned by Parent or Merger Sub immediately prior to the Effective Time were automatically canceled
+and ceased to exist and no consideration was delivered in exchange therefor and (d) each share of common stock of Merger Sub issued and outstanding immediately prior to the Effective Time was automatically converted into and became one fully paid,
+nonassessable share of common stock, par value $0.00001 per share, of the Surviving Corporation with the same rights, powers and privileges as the shares so converted and constitute the only outstanding shares of capital stock of the Surviving
+Corporation.
+
+Immediately prior to the Effective Time, (a) Tien Tzuo and certain of his affiliates (collectively, the CEO
+
+Parties) contributed to an indirect parent company of Parent shares of Company Common Stock with an aggregate value (based on the Merger Consideration) equal to approximately $70,000,000 in exchange for equity interests in such
+indirect parent company of Parent (such shares, the CEO Rollover Shares) and (b) certain members of management of the Company (the Rollover
+
+Management) contributed to an indirect parent company of Parent certain of their shares of Company Common Stock in exchange for equity interests in such indirect parent company of Parent (such shares, the Management Rollover Shares, and together with the CEO Rollover Shares, the Rollover Shares). As a result of the Merger, the Rollover Shares
+contributed to such parent company of Parent by the CEO Parties and the Rollover Management were automatically canceled, ceased to exist and no consideration was delivered in exchange thereof.
+
+Immediately prior to the Effective Time, each outstanding option to purchase Company Common Stock that was granted under any
+Company Stock Plan (as defined by the Merger Agreement) (Company Stock Option), whether or not vested and exercisable, that has a per share exercise price that is less than the Merger
+Consideration was cancelled and converted into the right to receive from Parent or the Surviving Corporation an amount in cash, without interest and subject to applicable withholding taxes, equal to the product obtained by multiplying (a) the
+excess of the Merger Consideration over the per share exercise price of such Company Stock Option, by (b) the number of shares of Company Common Stock issuable upon the exercise of such Company Stock Option immediately prior to the Effective Time.
+Immediately prior to the Effective Time, each outstanding Company Stock Option, whether or not vested and exercisable, that has a per share exercise price that is equal to or greater than the Merger Consideration was cancelled for no consideration.
+
+Immediately prior to the Effective Time, each outstanding award of restricted stock units covering shares Company Common Stock subject to vesting
+conditions based solely on continued employment or service that was granted under any Company Stock Plan (Company RSUs) was cancelled and converted into the right to receive from Parent
+or the Surviving Corporation an amount in cash, without interest and subject to applicable withholding taxes, equal to the product obtained by multiplying (a) the number of shares of Company Common Stock subject to such Company RSUs by (b) the
+Merger Consideration, with such amount vesting and becoming payable by the Surviving Corporation subject to and in accordance with the vesting schedule and other terms and conditions (including acceleration provisions) applicable to the
+corresponding Company RSU immediately prior to the Effective Time to which such payment relates.
+
+Immediately prior to the Effective Time, each outstanding award of restricted stock units subject, in whole or in part, to performance-vesting conditions,
+including performance goals or metrics, that was granted under any Company Stock Plan (Company PSUs) (other than Company PSUs that are forfeited in accordance with their terms if the
+applicable performance condition is not satisfied prior to the Effective Time) were cancelled and converted into the right to receive from Parent or the Surviving Corporation an amount in cash, without interest and subject to applicable withholding
+taxes, equal to the product obtained by multiplying (a) the number of shares of Company Common Stock subject to such Company PSUs immediately prior to the Effective Time, determined in accordance with the applicable award agreement governing such
+Company PSU by (b) the Merger Consideration, with such amount vesting and becoming payable by the Surviving Corporation subject to and in accordance with any applicable performance conditions, vesting schedule and other terms and conditions
+(including acceleration provisions) applicable to the corresponding Company PSU immediately prior to the Effective Time to which such payment relates.
+
+Immediately prior to the Effective Time, each Company Warrant (as defined by the Merger Agreement) that was outstanding and unexercised immediately prior
+to the Effective Time, ceased to represent a warrant exercisable for shares of Company Common Stock and was cancelled. Because the Merger Consideration was less than the exercise price of the Company Warrants, no holder of any Company Warrants is
+entitled to any payments in respect of the Company Warrants in the Merger.
+
+Item 3.01 
+
+Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.
+
+The information set forth in the Introductory Note and under Item 2.01 of this Current Report is incorporated herein by reference.
+
+On February 14, 2025, in connection with the completion of the Merger, the Company notified
+the New York Stock Exchange (the NYSE) that the Merger had been completed and requested that the NYSE suspend trading of the Company Class A Common Stock on the NYSE prior to the opening of trading on February 14, 2025. The Company has requested that the NYSE file a notification of removal from listing on
+Form 25 with the SEC with respect to the Company Class A Common Stock in
+order to effect the delisting of such shares from the NYSE. Such delisting will result in the deregistration of the Company Class A Common Stock under Section 12(b) of the Securities Exchange Act of 1934, as amended (the Exchange Act). The Company intends to file a Form 15 requesting the deregistration of
+the Company Class A Common Stock under Section 12(g) of the Exchange
+Act, which will suspend the Companys reporting obligations under Sections 13(a) and 15(d) of the Exchange Act with respect to the Company Class A Common Stock.
+
+Item 3.03 
+
+Material Modification to Rights of Security Holders.
+
+The information set forth in the Introductory Note and under Item 2.01, Item 3.01 and Item 5.03 of this Current Report is incorporated herein by
+reference.
+
+Pursuant to the Merger Agreement and in connection with the completion of the Merger, each share of Company Common Stock (except as described in Item 2.01
+of this Current Report) was automatically cancelled and converted into the right to receive the Merger Consideration.
+
+Item 5.01 Change in Control of Registrant.
+
+The information set forth in the Introductory Note and under Item 2.01 and Item 3.01 of this Current Report is incorporated herein by reference.
+
+As a result of the Merger, a change in control of the Company occurred, and the Company became a wholly owned subsidiary of Parent. In connection with the
+Merger, the aggregate purchase price paid for all outstanding shares of the Company (except as described in Item 2.01 of this Current Report) was approximately $1.7 billion. The funds used to complete the Merger and the transactions contemplated
+thereby were provided by equity contributions from funds managed by affiliates of Silver Lake and GIC, as well as third-party debt financing.
+
+Item 5.02 
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+The information set forth in the Introductory Note of this Current Report is incorporated herein by reference.
+
+In connection with the Merger, at the Effective Time, each of the directors of the Company (Tien Tzuo, Jason Pressman, Omar Abbosh, Sarah Bond, Laura
+Clayton McDonnell, Ken Goldman, Amy Guggenheim Shenkan, Tim Haley, John D. Harkey Jr. and Joe Osnoss) resigned as directors of the Company.
+
+Item 5.03 
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+Pursuant to the terms of the Merger Agreement, at the Effective Time, the certificate of incorporation of the Company, as in effect immediately prior to
+the Merger, was amended and restated to be in the form of the certificate of incorporation attached as Exhibit 3.1 to this Current Report, which is incorporated herein by reference.
+
+In addition, at the Effective Time, the bylaws of the Company, as in effect immediately prior to the Merger, were amended and restated to be in the form
+of the bylaws attached as Exhibit 3.2 to this Current Report, which are incorporated herein by reference.
+
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+
+The information set forth in the Introductory Note of this Current Report is incorporated herein by reference.
+
+On February 13, 2025, the Company held a special meeting of its stockholders (the Special Meeting) to vote on the proposals identified in the Companys definitive proxy statement filed with the SEC on December 31, 2024, as
+amended and supplemented, and first mailed to the Companys stockholders on or about December 31, 2024.
+
+As of December 31, 2024, the record date for the Special Meeting, there were 145,840,655
+shares of the Company Class A Common Stock and 8,639,794 shares of the Company Class B Common Stock outstanding. There were 100,305,177 shares of the Company Class A Common Stock and 8,532,815 shares of the Company Class B Common Stock present in person or represented by proxy at the Special Meeting,
+which constituted a quorum for the transaction of business. In deciding the proposals at the Special Meeting, each share of the Company Class A Common Stock represented one vote and each share of the Company Class B Common Stock represented ten
+votes. The final results for the votes regarding each proposal are set forth below.
+
+Proposal 1 (the Merger Proposal)was to consider and vote on the proposal to adopt the Merger Agreement. Approval of the Merger Proposal required the affirmative vote of (1) the holders of a majority of the voting power of the outstanding shares of capital stock
+of the Company entitled to vote thereon, voting as a single class (the Majority Vote), (2) the holders of a majority of the voting power of the outstanding shares of capital stock of
+the Company held by the Unaffiliated Company Stockholders (as defined in the Merger Agreement) entitled to vote thereon, voting as a single class (the Unaffiliated Stockholder Vote)
+(144,769,191 outstanding shares of Company Class A Common Stock and 1,511,850 outstanding shares of Company Class B Common Stock entitled to vote thereon), and (3) the holders of a majority of the outstanding shares of the Company Class A Common
+Stock and the Company Class B Common Stock entitled to vote thereon, each voting separately as a class (each, the Class A Vote and Class
+
+B Vote).
+
+For 
+
+Against 
+
+Abstain
+
+Majority Vote 
+
+171,176,623 
+
+6,610,286 
+
+7,846,418
+
+Unaffiliated Stockholder Vote 
+
+85,219,069 
+
+6,610,286 
+
+7,846,418
+
+Class A Vote 
+
+85,909,073 
+
+6,549,686 
+
+7,846,418
+
+Class B Vote 
+
+85,267,550 
+
+60,600 
+
+0
+
+The Merger Proposal was approved by the Companys stockholders at the Special Meeting.
+
+Proposal 2(the Compensation Proposal) was to consider and vote on the proposal to approve, on a non-binding, advisory
+basis, the compensation that will or may become payable by the Company to its named executive officers in connection with the Merger. Approval of the Compensation Proposal required the affirmative vote of the holders of a majority of the voting power of the Company Common Stock entitled to vote on such matter that were present in person or represented by proxy at the meeting and voted for or against the matter.
+
+For 
+
+Against 
+
+Abstain
+
+168,319,358 
+
+6,301,743 
+
+11,012,226
+
+The Compensation Proposal was approved by the Companys stockholders at the Special Meeting.
+
+Proposal 3(the Adjournment Proposal) was to consider and vote on the proposal to adjourn the Special Meeting, from time to
+time, to a later date or dates, if necessary or appropriate, to solicit additional proxies if there are insufficient votes to adopt the Merger Agreement at the time of the Special Meeting. Approval of the Adjournment Proposal required the affirmative vote of the holders of a majority of the voting power of the Company Common Stock entitled to vote on such matter that were present in person or represented by proxy at the meeting and voted for or against
+the matter.
+
+For 
+
+Against 
+
+Abstain
+
+167,167,026 
+
+10,386,943 
+
+8,079,358
+
+The Adjournment Proposal was approved by the Companys stockholders at the Special Meeting.
+
+Adjournment of the Special Meeting was not necessary or appropriate because there were sufficient votes at the time of the Special Meeting to approve the
+Merger Proposal.
+
+Item 8.01 Other Events.
+
+On February 14, 2025, the Company issued a press release announcing the completion of the Merger. A copy of this press release is attached as Exhibit 99.1
+and is incorporated herein by reference.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) 
+
+Exhibits.
+
+Exhibit No. 
+
+Description of Exhibit
+
+2.1 
+
+Agreement and Plan of Merger, dated as of October 17, 2024, by and among Zuora, Inc., Parent and Merger Sub (incorporated by reference to Exhibit 2.1 to the
+Companys Current Report on Form 8-K filed with the SEC on October 18, 2024).*
+
+10.1 
+
+Voting, Support and Rollover Agreement, dated as of October 17, 2024, by and among Zodiac Purchaser, L.L.C., Zodiac Holdco, L.L.C., Silver Lake
+Alpine II, L.P., Zuora,
+
+Inc., and the stockholders party thereto (incorporated by reference to Exhibit 10.1 to the Companys Current Report on Form 8-K filed with the SEC
+on October 18, 2024).
+
+3.1 
+
+Amended and Restated Certificate of Incorporation of Zuora, Inc., dated as of February 14, 2025.
+
+3.2 
+
+Second Amended and Restated Bylaws of Zuora, Inc., dated as of February 14, 2025.
+
+99.1 
+
+Press Release dated as of February 14, 2025.
+
+104 
+
+Cover Page Interactive Data file (embedded within the Inline XBRL document).
+
+* 
+
+All schedules to the Merger Agreement have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The Company hereby agrees to furnish supplementally
+a copy of any omitted schedule to the SEC upon request.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned hereunto duly authorized.
+
+Zuora, INC.
+
+(Registrant)
+
+Dated: February 14, 2025 By:
+
+/s/ Andrew M. Cohen
+
+Andrew M. Cohen
+
+Chief Legal Officer and Corporate Secretary
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.1
+<SEQUENCE>2
+<FILENAME>ef20043658_ex3-1.htm
+<DESCRIPTION>EXHIBIT 3.1
+<TEXT>
+Exhibit 3.1
+
+AMENDED AND RESTATED
+
+CERTIFICATE OF INCORPORATION
+
+of
+
+ZUORA, INC.
+
+FIRST: The name of the corporation is Zuora, Inc.
+
+SECOND: The address of the corporations registered office in the State of Delaware is: Corporation Trust Center, 1209 Orange Street, in the
+City of Wilmington, New Castle County, Delaware 19801. The name of the Corporations registered agent at such address is The Corporation Trust Company.
+
+THIRD: The purpose of the corporation is to engage in any lawful act or activity for which corporations may be organized under the Delaware
+General Corporation Law, as amended (the DGCL).
+
+FOURTH: The total number of shares of stock, which the
+Corporation shall have authority to issue, is one hundred thousand (100,000) shares of common stock, par value $0.00001 per share.
+
+FIFTH: The board of directors of the corporation is expressly
+authorized to adopt, amend or repeal the bylaws of the Corporation. Unless and except to the extent that the bylaws of the Corporation shall so require, the election of directors of the corporation need not be by written ballot.
+
+SIXTH: The duration of the corporation shall be perpetual.
+
+SEVENTH: Except as otherwise provided by the DGCL, no director of the corporation shall be personally liable to the corporation or its
+stockholders for monetary damages for breach of fiduciary duty as a director. Any repeal or modification of this Article SEVENTH by the stockholders of the corporation shall not adversely affect any right or protection of a director of the
+corporation existing at the time of such repeal or modification.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.2
+<SEQUENCE>3
+<FILENAME>ef20043658_ex3-2.htm
+<DESCRIPTION>EXHIBIT 3.2
+<TEXT>
+Exhibit 3.2
+
+ZUORA, INC.
+
+Incorporated under the Laws of the
+
+State of Delaware
+
+SECOND AMENDED AND RESTATED BYLAWS
+
+ARTICLE I
+
+OFFICES
+
+Zuora, Inc. (the Corporation) shall maintain a registered office in the State of
+Delaware. The Corporation may also have other offices at such places, either within or without the State of Delaware, as the Board of Directors may from time to time designate or the business of the Corporation may require.
+
+ARTICLE II
+
+STOCKHOLDERS
+
+Section 1. Annual Meeting: The annual meeting of stockholders for the election of
+directors and the transaction of any other business as may properly come before such meeting shall be held on such date, at such time and place as may be designated from time to time by the Board of Directors, and set forth in the notice of such
+meeting. At the annual meeting any business may be transacted and any corporate action may be taken, whether stated in the notice of meeting or not, except as otherwise expressly provided by statute or the Certificate of Incorporation of the
+Company, as amended from time to time (the Certificate of Incorporation).
+
+Section 2. Special Meetings: Special meetings of the stockholders for any purpose may
+be called at any time by the Board of Directors, the Chairman of the Board, or, if no Chairman has been elected, by the Chief Executive Officer, and shall be called by the Chairman of the Board or, if none, by the Chief Executive Officer at the
+request of the holders of shares of the issued and outstanding capital stock of the Corporation representing at least a majority of the votes entitled to be cast at a meeting of stockholders. Special meetings shall be held at such place or places
+within or without the State of Delaware as shall from time to time be designated by the Board of Directors and stated in the notice of such meeting. Only if so determined by the Board of Directors, in its sole discretion, a meeting of stockholders
+may be held not at any place, but may instead be held solely by means of remote communication, as provided in the General Corporation Law of the State of Delaware. At any special meeting any business may be transacted and any corporate action may
+be taken, whether stated in the notice of meeting or not, except as otherwise expressly provided by Law or the Certificate of Incorporation.
+
+Section 3. Notice of Meeting: Notice of the date, time and place of any stockholders'
+meeting, whether annual or special, shall be given to each stockholder entitled to vote thereat not less than ten (10) nor more than fifty (50) days prior to the date of such meeting, in the manner prescribed by Law. Notice of any adjourned
+meeting need not be given other than by announcement at the meeting so adjourned, unless otherwise ordered in connection with such adjournment. Such further notice, if any, shall be given as may be required by Law.
+
+Section 4. Waiver of Notice: Notice of meeting need not be given to any stockholder
+who submits a signed waiver of notice, in person or represented by proxy, whether before or after the meeting. The attendance of any stockholder at a meeting, in person or represented by proxy, without protesting prior to the conclusion of the
+meeting the lack of notice of such meeting, shall constitute a waiver of notice by such stockholder.
+
+Section 5. Quorum: Any number of stockholders, who are entitled to vote, who hold
+shares of the issued and outstanding capital stock of the Corporation representing at least a majority of the votes entitled to be cast at a meeting of stockholders and who shall be present in person or represented by proxy at any meeting duly
+called shall constitute a quorum for all purposes except as may otherwise be provided by Law or the Certificate of Incorporation.
+
+Section 6. Adjournment of Meeting: Whether or not a quorum is present, a meeting may
+be adjourned from time to time by the chairman of the meeting or by the affirmative vote of the stockholders present in person or represented by proxy and entitled to vote thereat holding shares representing at least a majority of the votes so
+present or represented and entitled to be cast (a Majority Vote), without notice other than by announcement at the meeting, until a quorum shall attend. Any meeting at which a quorum is
+present may also be adjourned in like manner and for such time or upon such call as may be determined by a Majority Vote. At any adjourned meeting at which a quorum shall be present, any business may be transacted and any corporate action may be
+taken which might have been transacted at the meeting as originally called. When a quorum is once present, it is not broken by the subsequent withdrawal or departure of any stockholder.
+
+Section 7. Voting: Each stockholder entitled to vote at any meeting may vote either
+in person or by proxy duly appointed. Each stockholder of a class or series of stock other than Common Stock shall on each matter submitted to a vote at each meeting of the stockholders be entitled to such number of votes for each share of such
+stock as may be fixed in the Certificate of Incorporation, and each stockholder of Common Stock shall on each matter submitted to a vote at each meeting of the stockholders be entitled to one vote for each share of Common Stock, in each case
+registered in his name on the books of the Corporation on the date fixed as a record date for the determination of its stockholders entitled to vote, as hereinafter provided. At all meetings of stockholders all matters, except as otherwise
+provided by Law, the Certificate of Incorporation or these Bylaws, shall be determined by a Majority Vote. Where a separate vote by class is required, a majority of the votes represented by the shares of the stockholders of such class present in
+person or represented by proxy and entitled to be cast thereon shall be the act of such class. Every proxy shall be revocable at the pleasure of the shareholder executing it, except in those cases where an irrevocable proxy is permitted by Law.
+
+Unless required by Law or the Certificate of Incorporation, or determined by the chairman of the meeting to be advisable, the vote on any question
+need not be by ballot. On a vote by ballot, each ballot shall state the number of shares voted.
+
+Section 8. Action by Stockholders Without a Meeting: Whenever, under the Delaware
+General Corporation Law, stockholders are required or permitted to take any action by vote, such action may be taken without a meeting upon consent in writing or by electronic transmission, setting forth the action so taken, signed by a majority of
+the holders of all outstanding shares entitled to vote thereon.
+
+2
+
+Section 9. List of Shareholders. The officer of the Corporation who has charge of the
+stock ledger of the Corporation shall prepare and make a list of the shareholders entitled to vote at each meeting of shareholders, and make such list available for examination, in the manner prescribed by Law.
+
+Section 10.Inspectors. The Board may, or if required by Law shall, appoint one
+or more inspectors to act at meeting of shareholders or any adjournment thereof, in the manner, and with the powers, duties and obligations, prescribed or permitted by Law.
+
+ARTICLE III
+
+DIRECTORS
+
+Section 1. Number and Qualifications: The Board of Directors shall not be less than
+one (1) and shall consist of such number as may be fixed from time to time by resolution of the Board of Directors. Any decrease in the number of directors shall be effective at the time of the next succeeding annual meeting of the stockholders
+unless there shall be vacancies in the Board of Directors in which case such decrease may become effective at any time prior to the next succeeding annual meeting to the extent of the number of such vacancies. All directors shall be at least
+eighteen years of age. The directors need not be stockholders.
+
+Section 2. Responsibilities: The general management of the affairs of the Corporation
+shall be vested in the Board of Directors, which may delegate to officers, employees and to committees of one (1) or more directors such powers and duties as it may from time to time see fit, subject to the limitations hereinafter set forth, and
+except as may otherwise be provided by Law.
+
+Section 3. Election and Term of Office: Except as otherwise provided by Law or the
+Certificate of Incorporation, the directors shall be elected at each meeting of the shareholders for the election of directors at which a quorum is present by a plurality of the votes cast at such election. If the election of directors shall not
+be held on the day designated by the Bylaws, the directors shall cause the same to be held as soon thereafter as may be convenient. The directors chosen at any annual meeting shall hold office except as hereinafter provided, until the next annual
+election and until the election and qualification of their successors.
+
+Section 4. Removal and Resignation of Directors: Any director may be removed from the
+Board of Directors, with or without cause, by a Majority Vote at any special meeting of the stockholders called for that purpose, and the office of such director shall forthwith become vacant. Any director may resign as a director or from
+membership in any committee of the Board at any time. Such resignation shall be made in writing or by electronic transmission and shall take effect at the time specified therein, and if no time be specified, at the time of its receipt by an
+officer of the Corporation. The acceptance of a resignation shall not be necessary to make it effective.
+
+3
+
+Section 5. Filling of Vacancies: Any vacancy among the directors, occurring from any
+cause whatsoever, may be filled by a majority of the remaining directors, though less than a quorum, provided, however, that the stockholders removing any director may at the same meeting fill the vacancy caused by such removal, and further
+provided, that if the directors fail to fill any such vacancy, the stockholders may fill such vacancy at the next annual meeting or at any special meeting called for that purpose. In case of any increase in the number of directors, the additional
+directors may be elected by the vote of a majority of the directors in office prior to such increase. Any person elected to fill a vacancy shall hold office, subject to the right of removal as herein before provided, until the next annual election
+and until the election and qualification of his or her successor.
+
+Section 6. Regular Meetings: The Board of Directors shall hold an annual meeting for
+the purpose of organization and the transaction of any business immediately after the annual meeting of the stockholders, provided a quorum is present. Other regular meetings may be held at such times as may be determined from time to time by
+resolution of the Board of Directors.
+
+Section 7. Special Meetings: Special meetings of the Board of Directors may be called
+at any time by the Chairman of the Board of Directors, if any, or by the Chief Executive Officer.
+
+Section 8. Notice and Place of Meetings: Meetings of the Board of Directors may be
+held without notice at such time and place as shall be designated by resolution of the Board of Directors. Notice of any special meeting shall be sufficiently given if mailed to each director at such director's residence or usual place of business
+at least two (2) days before the day on which the meeting is to be held, or, if sent to such director at such place by telegraph, facsimile, cable or electronic transmission, or delivered personally or by telephone not later than twenty-four (24)
+hours prior to the time at which the meeting is to be held. No notice of the annual meeting shall be required if held immediately after the annual meeting of the stockholders and if a quorum is present. Notice of meeting need not be given to any
+Director who submits a waiver of notice before or after the meeting, nor to any director who attends the meeting without protesting, at the beginning thereof, the lack of notice. Except as otherwise specifically required by Law or these Bylaws, a
+notice or waiver of notice of any regular or special meeting need not state the purposes of such meeting.
+
+Section 9. Business Transacted at Meetings: Any business may be transacted and any
+corporate action may be taken at any regular or special meeting of the Board of Directors at which a quorum shall be present, whether such business or proposed action be stated in the notice of such meeting or not, unless special notice of such
+business or proposed action shall be required by Law.
+
+Section 10. Quorum and Manner of Acting: A majority of the entire Board of Directors
+shall be necessary to constitute a quorum for the transaction of business, and the acts of a majority of the directors present at a meeting at which a quorum is present shall be the acts of the Board of Directors, unless otherwise provided by Law,
+the Certificate of Incorporation or these Bylaws. Whether or not a quorum is present at a meeting of the Board of Directors, a majority of the directors present may adjourn the meeting to such time and place as they may determine without notice
+other than an announcement at the meeting. The directors shall act only as a Board and the individual directors shall have no power as such unless expressly delegated by the Board or any duly constituted committee of the Board.
+
+4
+
+Section 11. Action Without a Meeting: Any action required or permitted to be taken by
+the Board of Directors or any committee thereof may be taken without a meeting if all members of the Board of Directors or the committee consent in writing or by electronic transmission to the adoption of a resolution authorizing the action. The
+resolution and the consents thereto in writing or by electronic transmission by the members of the Board of Directors or committee shall be filed with the minutes of the proceedings of the Board or committee.
+
+Section 12. Participation by Telephone: Any one or more members of the Board of
+Directors or any committee thereof may participate in a meeting of the Board of Directors or such committee by means of a conference telephone or other communications equipment allowing all persons participating in the meeting to hear each other. 
+Participation by such means shall constitute the presence of the person at the meeting.
+
+Section 13. Compensation: The Board of Directors may establish by resolution
+reasonable compensation for directors for services to the Corporation as a director, committee member or chairman of any committee and for attendance at each meeting of the Board of Directors or committee thereof. Nothing herein contained shall
+preclude any director from serving the Corporation in any other capacity, as an officer, agent or otherwise, and receiving compensation therefor.
+
+ARTICLE IV
+
+COMMITTEES
+
+Section 1. Executive Committee: The Board of Directors, by resolution passed by a
+majority of the entire Board of Directors, may designate one (1) or more directors to constitute an Executive Committee to hold office at the pleasure of the Board of Directors, which Committee shall, during the intervals between meetings of the
+Board of Directors, have and exercise all of the powers of the Board of Directors in the management of the business and affairs of the Corporation, subject only to such restrictions or limitations as the Board of Directors may from time to time
+specify, or as limited by Law, and shall have power to authorize the seal of the Corporation to be affixed to all instruments which may require it. Any member of the Executive Committee may be removed at any time, with or without cause, by a
+resolution of a majority of the entire Board of Directors. Any person ceasing to be a director shall ipso facto cease to be a member of the Executive Committee. Any vacancy
+in the Executive Committee occurring from any cause whatsoever may be filled from among the directors by a resolution of a majority of the entire Board of Directors.
+
+Section 2. Other Committees: The Board of Directors or any committee duly appointed
+by the Board of Directors may appoint other committees whose members are to be directors, and which committees shall exist for such time and have such powers and perform such duties as may from time to time be assigned to them by the Board of
+Directors or the committee appointing them. Any member of such a committee may be removed at any time, with or without cause, by the Board of Directors or the committee appointing such committee. Any vacancy in a committee occurring from any
+cause whatsoever may be filled by the Board of Directors or the committee appointing such committee.
+
+5
+
+Section 3. Powers of Committees. Any Executive Committee or other committee, to the
+extent allowed by Law and provided in the resolution establishing such committee or in the Bylaws, shall have and may exercise all the powers and authority of the Board of Directors in the management of the business and affairs of the Corporation,
+including the power to adopt a certificate of ownership and merger pursuant to Section 253 of the Delaware General Corporation Law, the authority to issue shares, and the authority to declare a dividend, except as limited by Delaware General
+Corporation Law or other applicable Law, but no such committee shall have the power or authority in reference to the following matters: (i) approving or adopting, or recommending to the stockholders, any action or matter expressly required by the
+Delaware General Corporation Law to be submitted to stockholders for approval or (ii) adopting, amending or repealing any Bylaw of the Corporation. All acts done by any committee within the scope of its powers and duties pursuant to these Bylaws
+and the resolutions adopted by the Board of Directors shall be deemed to be, and may be certified as being, done or conferred under authority of the Board of Directors. The Secretary or any Assistant Secretary is empowered to certify that any
+resolution duly adopted by any such committee is binding upon the Corporation and to execute and deliver such certifications from time to time as may be necessary or proper to the conduct of the business of the Corporation. The Board shall have
+power at any time to fill vacancies in, to change the membership of, or to dissolve any committee. Nothing herein shall be deemed to prevent the Board from appointing one or more committees consisting in whole or in part of persons who are not
+directors of the Corporation; provided, however, that any such committee shall not have nor exercise any authority of the Board.
+
+Section 4. Resignation: Any member of a committee may resign at any time. Such
+resignation shall be made in writing or by electronic transmission and shall take effect at the time specified therein, or, if no time be specified, at the time of its receipt by the Chairman of the Board, or if none, by the Chief Executive
+Officer, any President or the Secretary. The acceptance of a resignation shall not be necessary to make it effective unless so specified therein.
+
+Section 5. Quorum: A majority of the members of a committee shall constitute a
+quorum. The act of a majority of the members of a committee present at any meeting at which a quorum is present shall be the act of such committee. The members of a committee shall act only as a committee, and the individual members thereof shall
+have no powers as such.
+
+Section 6. Record of Proceedings: Each committee shall keep a record of its acts and
+proceedings, and shall report the same to the Board of Directors when and as required by the Board of Directors.
+
+Section 7. Organization, Meetings, Notices: A committee may hold its meetings at the
+principal office of the Corporation, or at any other place upon which a majority of the committee may at any time agree. Each committee may make such rules as it may deem expedient for the regulation and carrying on of its meetings and
+proceedings. Unless otherwise ordered by the Executive Committee, any notice of a meeting of such Committee may be given by the Secretary or by the Chairman of the Committee and shall be sufficiently given if mailed to each member at such member's
+residence or usual place of business at least five (5) days before the day on which the meeting is to be held, or, if sent to him at such place by telegraph, facsimile, cable or electronic transmission, or delivered personally or by telephone, not
+later than twenty-four (24) hours prior to the time at which the meeting is to be held. Notice of meeting need not be given to any member of a committee who submits a waiver of notice before or after the meeting, nor to any member who attends the
+meeting without protesting, at the beginning thereof, the lack of notice.
+
+6
+
+Section 8. Compensation: The members of any committee shall be entitled to such
+compensation as may be allowed them by resolution of the Board of Directors.
+
+ARTICLE V
+
+OFFICERS
+
+Section 1. Number: The officers of the Corporation shall be a Chief Executive
+Officer, Presidents, a Secretary and a Treasurer, and such Vice Presidents and other officers as may be appointed in accordance with the provisions of Section 3 of this Article V. The Board of Directors, in its discretion, may also elect a
+Chairman of the Board of Directors.
+
+Section 2. Election, Term of Office and Qualifications: The officers, except as provided in Section 3 of this Article V, shall be chosen by the Board of Directors. Each such officer shall, except as herein otherwise provided,
+hold office until the selection and qualification of his or her successor. The Chairman of the Board of Directors, if any, shall be a director of the Corporation, and should the Chairman cease to be a director, shall ipsofacto cease to be such Officer. Any two or more offices may be held by the same person, except the office of Secretary or as otherwise
+prohibited by Law.
+
+Section 3. Other Officers: Other officers, including without limitation, one or more
+Vice Presidents, Assistant Secretaries or Assistant Treasurers, may from time to time be appointed by the Board of Directors or committee thereof, which other officers shall have such powers and perform such duties as may be assigned to them by the
+Board of Directors or committee appointing them.
+
+Section 4. Removal of Officers: Any officer of the Corporation may be removed from
+office, with or without cause, by a vote of a majority of the Board of Directors.
+
+Section 5. Resignation: Any officer of the Corporation may resign at any time. Such
+resignation shall be in writing or by electronic transmission and shall take effect at the time specified therein, and if no time be specified, at the time of its receipt by an officer of the Corporation. The acceptance of a resignation shall not
+be necessary in order to make it effective.
+
+Section 6. Filling of Vacancies: A vacancy in any office shall be filled by the Board
+of Directors.
+
+Section 7. Compensation: The compensation of the officers shall be fixed by the Board
+of Directors or by any officer(s) or committee to whom such authority may be delegated by the Board of Directors.
+
+7
+
+Section 8. Chairman of the Board of Directors: The Chairman of the Board of
+Directors, if one is elected, shall be a director and may, but need not, be an employee of the Corporation or hold other offices in the Corporation. The Chairman shall preside at all meetings of the Board of Directors and of the stockholders at
+which he shall be present. The Chairman shall have power to call special meetings of the stockholders, the Board of Directors or of the Executive Committee at any time and shall have such power and perform such other duties as may from time to
+time be designated by the Board of Directors.
+
+Section 9. Chief Executive Officer. The Chief Executive Officer the Corporation shall, subject to the provisions of these by-laws and the control of the board of directors, have general and active management, direction, and supervision over the
+business of the Corporation and over its officers. He shall perform all duties incident to the office of chief executive and such other duties as from time to time may be assigned to him by the board of directors or as may be provided in these
+by-laws and shall, in the absence of the Chairman of the Board, perform and carry out the functions of the Chairman of the Board.The Chief Executive Officer
+shall designate the person or persons who shall exercise his powers and perform his duties in his absence or disability.
+
+Section 10. President: Each President shall perform all such duties as from time to time may be assigned by the board of Directors or the Chief Executive Officer. At the request of the Chief Executive Officer or in the absence of the Chief Executive Officer or
+in the event of the Chief Executive Officers inability or refusal to act, each President (and, if there shall be more than one, the Presidents in the order determined by the Board of Directors, or if there be no such determination, then the
+Presidents in the order of their appointment or if appointed simultaneously, the order in which their names appear in the instrument formalizing their appointment) shall perform the duties of the Chief Executive Officer, and when so acting, shall
+have the powers of and be subject to the restrictions placed upon the Chief Executive Officer in respect of the performance of such duties. 
+
+Section 11. Vice Chairman of the Board: One of the Vice Chairmen of the Board, if any
+are elected, shall, in the absence of the Chairman of the Board, preside at meetings of the stockholders and the Board of Directors. They shall have such powers and perform such duties as usually pertain to the office of Vice Chairman of the Board
+and such other powers and duties as may from time to time be assigned to them by the Board of Directors.
+
+Section 12. Vice Presidents: Each Senior Executive Vice President, Executive Vice
+President, Senior Vice President, First Vice President or Vice President shall have such powers and perform such duties as the Board of Directors or any President may from time to time prescribe, and shall perform such other duties as may be
+prescribed in these Bylaws.
+
+Section 13. Secretary: The Secretary shall attend all meetings of the Board of
+Directors and of the stockholders and record all votes and the minutes of all proceedings in a book to be kept for that purpose, and shall perform like duties for any committee appointed by the Board of Directors. The Secretary shall give or cause
+to be given notice of all meetings of stockholders and special meetings of the Board of Directors and shall perform such other duties as may be prescribed by the Board of Directors. The Secretary shall keep in safe custody the seal of the
+Corporation and affix it to any instrument when so authorized by the Board of Directors and may attest the affixing by his or her signature. The Board of Directors may give general authority to any other officer to affix the seal of the Corporation
+and to attest the affixing by his or her signature.
+
+8
+
+Section 14. Assistant Secretary: Any Assistant Secretary shall be empowered and
+authorized to perform all of the duties of the Secretary in the absence of the Secretary and shall perform such other duties and have such other powers as may be prescribed by the Board of Directors, the Secretary or these Bylaws.
+
+Section 15. Treasurer: The Treasurer shall have the custody of the corporate funds
+and securities and shall cause to be kept full and accurate accounts of receipts and disbursements in books belonging to the Corporation and shall deposit all monies and other valuable effects in the name and to the credit of the Corporation in
+such depositories as may be designated by persons authorized by the Board of Directors. The Treasurer shall disburse the funds of the Corporation as may be ordered by the Board of Directors, taking proper vouchers for such disbursements, and shall
+render to each President and the Directors at the regular meetings of the Board of Directors, or whenever they may require it, an account of all of the transactions effected by the Treasurer and of the financial condition of the Corporation. The
+Treasurer may be required to give bond for the faithful discharge of his or her duties. He or she shall generally perform all duties appertaining to the office of treasurer of a corporation and shall perform such other duties and have such other
+powers as may be prescribed by the Board of Directors or these Bylaws.
+
+Section 16. Assistant Treasurer: Any Assistant Treasurer shall be empowered and
+authorized to perform all the duties of the Treasurer in the absence of the Treasurer and shall perform such other duties and have such other powers as may be prescribed by the Board of Directors, the Treasurer or these Bylaws.
+
+Section 17. Other Officers. The Board of Directors may designate such other officers
+having such duties and powers as it may specify from time to time.
+
+ARTICLE VI
+
+CAPITAL STOCK
+
+Section 1. Issue of Certificates of Stock: Certificates of capital stock shall be in
+such form as shall be approved by the Board of Directors. They shall be numbered in the order of their issue, and shall be signed by the Chairman of the Board, if any, any President or any Vice President (or a comparable officer), and the
+Secretary, Assistant Secretary, Treasurer or any Assistant Treasurer, and the seal of the Corporation or a facsimile thereof shall be impressed, affixed or reproduced thereon. In case any officer or officers who shall have signed any such
+certificate or certificates shall cease to be such officer or officers of the Corporation, whether because of death, resignation or otherwise, before such certificate or certificates shall have been delivered by the Corporation, such certificate or
+certificates may nevertheless be adopted by the Corporation and be issued and delivered as though the person or persons who signed such certificate or certificates had not ceased to be such officer or officers of the Corporation.
+
+9
+
+Section 2. Registration and Transfer of Shares: The name of each person owning a
+share of the capital stock of the Corporation together with the number of shares held by such person, the numbers of the certificates covering such shares and the dates of issue of such certificates shall be registered on the records of the
+Corporation by the Secretary, Assistant Secretary, Treasurer or Assistant Treasurer. The shares of stock of the Corporation shall be transferable on the books of the Corporation by the holders thereof in person, or by their duly authorized
+attorneys or legal representatives, on surrender and cancellation of certificates for a like number of shares, accompanied by an assignment or power of transfer endorsed thereon or attached thereto, duly executed, and with such proof of the
+authenticity of the signature as the Corporation or its agents may reasonably require. A record shall be made of each transfer. The Board of Directors may make other and further rules and regulations concerning the transfer and registration of
+certificates for stock.
+
+Section 3. Lost, Destroyed and Mutilated Certificates: The holder of any stock of the
+Corporation shall immediately notify the Corporation of any loss, theft, destruction or mutilation of the certificates therefor. The Corporation may issue a new certificate of stock in the place of any certificate theretofore issued by it and
+alleged to have been lost, stolen or destroyed, and the Board of Directors may, in its discretion, require the owner of the lost, stolen or destroyed certificate, or his legal representatives, to advertise the same in such manner as the Board of
+Directors shall require and/or to give the Corporation a bond, in such sum not exceeding twice the value of the stock and with such surety or sureties as they may require, to indemnify it against any claim that may be made against it by reason of
+the issue of such new certificate and against all other liabilities arising therefrom, or may remit such owner to such remedy or remedies as such owner may have under the laws of the State of Delaware.
+
+ARTICLE VII
+
+DIVIDENDS AND SURPLUS
+
+Section 1. General Discretion of Directors: The Board of Directors shall have power
+to fix and vary the amount to be set aside or reserved as working capital of the Corporation, or as reserves, or for other proper purposes of the Corporation, and, subject to the requirements of the Certificate of Incorporation, to determine
+whether any part of the surplus or net profits of the Corporation shall be declared in dividends and paid to the stockholders, and to fix the date or dates for the payment of dividends. Dividends may be paid in cash, property or shares of capital
+stock.
+
+ARTICLE VIII
+
+MISCELLANEOUS PROVISIONS
+
+Section 1. Fiscal Year: The fiscal year of the Corporation shall end on the 31st day
+of December in each year, unless the Board of Directors shall otherwise determine.
+
+Section 2. Corporate Seal: The corporate seal shall be in such form as approved by
+the Board of Directors and may be altered at their pleasure. The corporate seal may be used by causing it or a facsimile thereof to be impressed, affixed or reproduced by the Secretary or Assistant Secretary.
+
+10
+
+Section 3. Notices: Except as otherwise expressly provided herein, any notice
+required by these Bylaws to be given shall be sufficient if given by depositing the same in a post-office or letter box in a sealed wrapper with a first-class postage prepaid stamp thereon and addressed to the person entitled thereto at such
+person's business or home address, as the same appears upon the books of the Corporation, or by telephoning, telegraphing, faxing or cabling the same to such person at such address; and such notice shall be deemed to be given at the time it is
+mailed, telegraphed, faxed or cabled.
+
+Section 4. Waiver of Notice: Any stockholder or director may at any time, by writing,
+by telegraph, by fax, by cable or by electronic transmission, waive any notice required to be given under these Bylaws, and if any stock-holder or director shall be present at any meeting, his presence shall constitute a waiver of such notice for
+such meeting, unless he protests his lack of notice by the end of the meeting.
+
+Section 5. Contracts, Checks, Drafts: Except as otherwise required by Law, the
+Certificate of Incorporation or these Bylaws, any contracts, promissory notes, bonds or other certificates or evidences of indebtedness of the Corporation, checks, drafts, bills of exchange or other orders for the payment of money out of the funds
+of the Corporation or other instruments may be executed and delivered in the name and on behalf of the Corporation by such persons as the Board of Directors or a duly authorized committee thereof may from time to time direct or as may be designated
+by any officer or officers of the Corporation to whom such power of designation may from time to time be delegated by the Board. Such authority may be general or confined to specific instances as the Board or such officer may determine. Unless
+authorized by the Board of Directors or expressly permitted by these Bylaws, any officer or agent or employee shall not have any power or authority to bind the Corporation by any contract or engagement or to pledge its credit or to render it
+pecuniarily liable for any purpose or to any amount.
+
+Section 6. Deposits: All funds of the Corporation shall be deposited from time to
+time to the credit of the Corporation in such bank or banks, trust companies or other depositories as persons authorized by the Board of Directors may select, and, for the purpose of such deposit, checks, drafts, and other orders for the payment of
+money which are payable to the order of the Corporation, may be endorsed for deposit, assigned and delivered by any officer of the Corporation, or by such agents of the Corporation, or by such person as the Board of Directors may authorize for that
+purpose.
+
+Section 7. Voting Stock of Subsidiary Corporations: Powers of attorney, proxies,
+waivers of notice of meetings, consents and other instruments relating to securities owned by the Corporation may be executed in the name of and on behalf of the Corporation by the Chairman of the Board, any President, the Secretary or a Vice
+President (or comparable officer). Any such officer may, in the name and on behalf of the Corporation, take all such action as the officer may deem advisable to vote in person or by proxy at any meeting of security holders of any corporation,
+company, partnership or other entity in which the Corporation may own securities, or to execute written consents in lieu thereof. At any such meeting, or in giving any such consent, the officer shall possess and may exercise any and all rights and
+powers incident to the ownership of such securities and which, as the owner thereof, the Corporation might have exercised and possessed if present. The Board of Directors may, by resolution, from time to time confer like powers upon any other
+person or persons.
+
+11
+
+Section 8.Cessation of Officership and Directorship: The authority granted by name to any individual shall immediately cease in the event that such individual ceases to be an officer or director of the Corporation or
+an affiliate thereof, unless otherwise provided by the Board of Directors.
+
+Section 9.Definitions. As used in these Bylaws, the term entire Board of Directors means the total number of directors which the Corporation would have if
+there were no vacancies; the term Law means the Delaware General Corporation Law and any other applicable law, rule or regulation and, to the extent binding on the Corporation, the
+constitutions, rules and regulations of any exchange on which securities of the Corporation are listed, or of which the Corporation is a member, or of any self-regulatory organization having jurisdiction or authority over the Corporation.
+
+ARTICLE IX
+
+INDEMNIFICATION
+
+Section 1.Indemnification of Officers and Directors. Each person who was or is made a party to, or is threatened to be made a party to, or is involved in any threatened, pending or completed action, suit or
+proceeding, whether civil, criminal, administrative, legislative or any other type whatsoever (a Proceeding), by reason of the fact that such person (or a person of whom such person
+is the legal representative), is or was a director or officer of the Corporation or, while serving as a director or officer of the Corporation, is or was serving at the request of the Corporation as a director, officer, employee, agent or
+trustee of another corporation, or of a partnership, joint venture, trust or other enterprise, including service with respect to employee benefit plans (for purposes of this Article IX, an Indemnitee),
+shall be indemnified and held harmless by the Corporation to the fullest extent permitted by the Delaware General Corporation Law as the same exists or may hereafter be amended (but, in the case of any such amendment, only to the extent that
+such amendment permits the Corporation to provide broader indemnification rights than such law permitted the Corporation to provide prior to such amendment), against all expenses, liability and loss (including attorneysfees, judgments, fines,
+ERISA excise taxes and penalties and amounts paid or to be paid in settlement) reasonably incurred or suffered by such Indemnitee in connection therewith, provided such Indemnitee acted in good faith and in a manner that the Indemnitee
+reasonably believed to be in or not opposed to the best interests of the Corporation, and, with respect to any criminal Proceeding, had no reasonable cause to believe the Indemnitees conduct was unlawful. Such indemnification shall continue as
+to an Indemnitee who has ceased to be a director or officer of the Corporation and shall inure to the benefit of such Indemniteesheirs, executors and administrators. Notwithstanding the foregoing, subject to Article IX, Section 5 of these
+Bylaws, the Corporation shall indemnify any such Indemnitee seeking indemnity in connection with a Proceeding (or part thereof) initiated by such Indemnitee only if such Proceeding (or part thereof) was authorized by the Board or such
+indemnification is authorized by an agreement approved by the Board of Directors.
+
+12
+
+Section 2.Advance of Expenses. The Corporation shall pay all expenses (including attorneysfees) incurred by an Indemnitee in defending any Proceeding in advance of its final disposition; provided, however, that if the Delaware
+General Corporation Law then so requires, the advancement of such expenses shall be made only upon delivery to the Corporation of an undertaking, by or on behalf of such Indemnitee, to repay such amounts if it shall ultimately be determined
+that such Indemnitee is not entitled to be indemnified under this Article IX or otherwise.
+
+Section 3.Non-Exclusivity of Rights. The rights conferred on any person in this Article IX shall not be exclusive of any other right that such person may have or hereafter acquire under any statute, provision of the Certificate
+of Incorporation, Bylaws, agreement, vote or consent of stockholders or disinterested directors, or otherwise. Additionally, nothing in this Article IX shall limit the ability of the Corporation, in its discretion, to indemnify or advance
+expenses to persons whom the Corporation is not obligated to indemnify or advance expenses pursuant to this Article IX.
+
+Section 4.Indemnification Contracts. The Board of Directors is authorized to cause the Corporation to enter into indemnification contracts with any director, officer, employee or agent of the Corporation, or any person serving
+at the request of the Corporation as a director, officer, employee, agent or trustee of another corporation, partnership, joint venture, trust or other enterprise, including employee benefit plans, providing indemnification or advancement
+rights to such person. Such rights may be greater than those provided in this Article IX.
+
+Section 5.Right of Indemnitee to Bring Suit. The following shall apply to the extent not in conflict with any indemnification contract provided for in Article IX, Section 4 of these Bylaws.
+
+5.1. Right to Bring Suit. If a claim under Article IX, Section 1 or 2 of these Bylaws
+is not paid in full by the Corporation within sixty (60) days after a written claim has been received by the Corporation, except in the case of a claim for an advancement of expenses, in which case the applicable period shall be twenty (20) days,
+the Indemnitee may at any time thereafter bring suit against the Corporation to recover the unpaid amount of the claim. If successful in whole or in part in any such suit, or in a suit brought by the Corporation to recover an advancement of
+expenses pursuant to the terms of an undertaking, the Indemnitee shall be entitled to be paid, to the fullest extent permitted by law, the expense of prosecuting or defending such suit. In any suit brought by the Indemnitee to enforce a right to
+indemnification hereunder (but not in a suit brought by the Indemnitee to enforce a right to an advancement of expenses) it shall be a defense that the Indemnitee has not met any applicable standard of conduct which makes it permissible under the
+Delaware General Corporation Law (or other applicable law) for the Corporation to indemnify the Indemnitee for the amount claimed.
+
+5.2. Effect of Determination. Neither the absence of a determination prior to the
+commencement of such suit that indemnification of the Indemnitee is proper in the circumstances because the Indemnitee has met the applicable standard of conduct set forth in applicable law, nor an actual determination that the Indemnitee has not
+met such applicable standard of conduct, shall create a presumption that the Indemnitee has not met the applicable standard of conduct or, in the case of such a suit brought by the Indemnitee, be a defense to such suit.
+
+13
+
+5.3. Burden of Proof. In any suit brought by the Indemnitee to enforce a right to
+indemnification or to an advancement of expenses hereunder, or brought by the Corporation to recover an advancement of expenses pursuant to the terms of an undertaking, the burden of proving that the Indemnitee is not entitled to be indemnified, or
+to such advancement of expenses, under this Article IX, or otherwise, shall be on the Corporation.
+
+Section 6.Nature of Rights. The rights conferred upon Indemnitees in this Article IX shall be contract rights and such rights shall continue as to an Indemnitee who has ceased to be a director, officer or trustee and shall inure
+to the benefit of the Indemnitees heirs, executors and administrators. Any amendment, repeal or modification of any provision of this Article IX that adversely affects any right of an Indemnitee or an Indemnitees successors shall be
+prospective only, and shall not adversely affect any right or protection conferred on a person pursuant to this Article IX with respect to any Proceeding involving any occurrence or alleged occurrence of any action or omission to act that took
+place prior to such amendment, repeal or modification.
+
+Section 7.Insurance. The Corporation may purchase and maintain insurance, at its expense, to protect itself and any director, officer, employee or agent of the Corporation or another corporation, partnership, joint venture,
+trust or other enterprise against any expense, liability or loss, whether or not the Corporation would have the power to indemnify such person against such expense, liability or loss under the Delaware General Corporation Law.
+
+Section 8.Severability. If this Article IX or any portion hereof shall be invalidated on any ground by any court of competent jurisdiction, then the Corporation shall nevertheless indemnify each director or officer and may
+indemnify each employee or agent of the Corporation as to costs, charges and expenses (including attorneys fees), judgments, fines and amounts paid in settlement with respect to any action, suit or proceeding, whether civil, criminal,
+administrative or investigative, including an action by or in the right of the Corporation, to the fullest extent permitted by any applicable portion of this Article IX that shall not have been invalidated and to the fullest extent permitted by
+applicable law.
+
+ARTICLE X
+
+AMENDMENTS
+
+The Board of Directors shall have the power to make, rescind, alter, amend and repeal these Bylaws; provided, however, that the stockholders shall
+have power to rescind, alter, amend or repeal any Bylaws made by the Board of Directors, and to enact Bylaws which if so expressed shall not be rescinded, altered, amended or repealed by the Board of Directors.
+
+14
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>4
+<FILENAME>ef20043658_ex99-1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+Exhibit 99.1
+
+Silver Lake and GIC Complete Acquisition of Zuora
+
+REDWOOD CITY, Calif. February 14, 2025 Zuora, Inc.,
+a leading monetization platform for modern business, today announced the completion of its acquisition by Silver Lake, the global leader in technology investing, in partnership with an affiliate of GIC Pte. Ltd. (GIC), for $10.00 per share
+in cash. With the completion of the acquisition, Zuoras Class A common stock will cease trading and the Company will no longer be listed on the New York Stock Exchange.
+
+Zuoras vision sparked the shift to the Subscription Economy that led to todays new world of recurring, usage-based and hybrid revenue models, said Tien Tzuo, Zuoras
+Founder, CEO and Chairman of the Board. Completing this transaction with Silver Lake and GIC is an important milestone in the next phase of our journey. With the support of both partners, we will continue to provide our customers with the
+market-leading technology necessary to transform their financial operations and power enterprise monetization at scale.
+
+We are pleased to continue our partnership with Zuora and its team of ZEOs as they enable customers globally with its leading monetization platform, said Joe Osnoss,
+Managing Partner at Silver Lake and Mike Widmann, Managing Director at Silver Lake. Zuoras capabilities are increasingly strategic to drive growth and simplicity in a highly dynamic technology environment for both enterprises and consumers.
+
+GIC is proud to partner with Zuora, a market leader and proven innovator, to meet the significant demand for its services in the Subscription Economy, said Choo Yong
+Cheen, Chief Investment Officer of Private Equity at GIC and Eric Wilmes, Head of Private Equity, Americas at GIC. Working alongside Zuoras management team and our partners at Silver Lake, we will be able to leverage our collective resources,
+experience, and long-term outlook to invest in Zuoras continued success and deliver on our shared vision for the future.
+
+Zuora stockholders voted to approve the transaction at the Companys Special Meeting of Stockholders on February 13, 2025.
+
+Advisors
+
+Qatalyst Partners served as the exclusive financial advisor to the Special Committee. Foros served as financial advisor to the Company. Goodwin Procter LLP served as
+legal counsel to the Special Committee and Freshfields US LLP served as legal counsel to the Company. Simpson Thacher & Bartlett LLP served as legal counsel to Silver Lake. Dechert LLP served as legal counsel to GIC. Sullivan & Cromwell LLP
+served as legal counsel to Mr. Tzuo.
+
+About Zuora, Inc.
+
+Zuora provides a leading monetization platform to build, run and grow a modern business through a dynamic mix of usage-based models, subscription bundles and everything
+in between. From pricing and packaging, to billing, payments and revenue recognition, Zuoras flexible, modular software solutions are designed to help companies evolve and scale monetization with demand. More than 1,000 customers around the world,
+including BMC Software, Box, Caterpillar, General Motors, The New York Times, Schneider Electric and Zoom use Zuoras unique combination of technology and expertise to transform their financial operations and how they go to market. Zuora is
+headquartered in Silicon Valley with offices in the Americas, EMEA and APAC. To learn more, please visit zuora.com.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This press release contains forward-looking statements, which are subject to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, including
+statements regarding the Companys acquisition and the Company no longer being listed on the New York Stock Exchange. These forward-looking statements involve risks and uncertainties. All statements other than statements of historical facts
+contained in this communication, including statements regarding the effects of the transaction, are forward-looking statements. In some cases, you can identify forward-looking statements because they contain words such as will, "continue" or the
+negative of these words or other similar terms or expressions that concern the Companys expectations, strategy, plans or intentions.
+
+Readers are cautioned that these forward-looking statements are only predictions and may differ materially from actual future events or results due to a variety of
+factors. Important factors that could cause actual outcomes or results to differ materially from the forward-looking statements include, but are not limited to the risk that disruptions from the transaction will harm the Companys business,
+including current plans and operations; the ability of the Company to retain and hire key personnel; potential adverse reactions or changes to business relationships resulting from the completion of the transaction; legislative, regulatory and
+economic developments affecting the Companys business; general economic and market developments and conditions; the legal, regulatory and tax regimes under which the Company operates; potential business uncertainty, including changes to existing
+business relationships; and unpredictability and severity of catastrophic events, including, but not limited to, acts of terrorism or outbreak of war or hostilities, as well as the Companys response to any of the aforementioned factors.
+
+For information regarding other factors that could cause the Companys results to vary from expectations, please see the Risk Factors section of the Companys periodic
+report filings with the SEC, including but not limited to our Form 10-Q filed with the SEC on December 9, 2024 and our Form 10-K filed with the SEC on March 26, 2024. These filings are available on the investor relations section of the Company's
+website at investor.zuora.com or on the SEC's website at www.sec.gov. The statements in this communication represent our current beliefs, estimates and assumptions as of the date of this communication. Subsequent events and developments may cause
+our views to change. The Company undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. These forward-looking statements should not be relied upon as
+representing our views as of any date subsequent to the date of this communication.
+
+About Silver Lake
+
+Silver Lake is a global technology investment firm, with more than $103 billion in combined assets under management and committed capital and a team of professionals
+based in North America, Europe and Asia. Silver Lakes portfolio companies collectively generate nearly $248 billion of revenue annually and employ approximately 444,000 people globally.
+
+About GIC
+
+GIC is a leading global investment firm established in 1981 to secure Singapores financial future. As the manager of Singapores foreign reserves, GIC takes a long-term,
+disciplined approach to investing and is uniquely positioned across a wide range of asset classes and active strategies globally. These include equities, fixed income, real estate, private equity, venture capital, and infrastructure. Its long-term
+approach, multi-asset capabilities, and global connectivity enable it to be an investor of choice. GIC seeks to add meaningful value to its investments. Headquartered in Singapore, GIC has a global talent force of over 2,300 people in 11 key
+financial cities and has investments in over 40 countries. For more information, please visit www.gic.com.sg.
+
+SOURCE: ZUORA, INC.
+
+Zuora Contacts
+
+Media Relations Contact:
+
+Margaret Juhnke
+
+press@zuora.com
+
+619-609-3919
+
+Eric Brielmann / Sharon Stern
+
+Zuora-JF@joelefrank.com
+
+212-355-4449
+
+Silver Lake Contacts
+
+Media Relations Contact:
+
+Matt Benson / Ginger Li
+
+mediainquiries@silverlake.com
+
+GIC Contact
+
+Media Relations Contact:
+
+Katy Conrad
+
+katyconrad@gic.com.sg
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>5
+<FILENAME>zuo-20250213.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA
+<TEXT>
+000100 - Document - Document and Entity Information 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>6
+<FILENAME>zuo-20250213_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE
+<TEXT>
+Cover [Abstract] 
+
+Document Type 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Amendment Flag 
+
+Document Fiscal Year Focus 
+
+Document Fiscal Period Focus 
+
+Document Period End Date 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity File Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Current Fiscal Year End Date 
+
+Entity Emerging Growth Company 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+City Area Code 
+
+Local Phone Number 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>7
+<FILENAME>zuo-20250213_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Document and Entity Information
+
+Feb. 13, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Feb. 13, 2025
+
+Current Fiscal Year End Date --01-31
+
+Entity File Number 001-38451
+
+Entity Registrant Name Zuora, Inc
+
+Entity Central Index Key 0001423774
+
+Entity Incorporation, State or Country Code DE
+
+Entity Tax Identification Number 20-5530976
+
+Entity Address, Address Line One 101 Redwood Shores Parkway
+
+Entity Address, City or Town Redwood City
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 94065
+
+City Area Code 888
+
+Local Phone Number 976-9056
+
+Title of 12(b) Security Class A common stock, par value $0.0001 per share
+
+Trading Symbol ZUO
+
+Security Exchange Name NYSE
+
+Entity Emerging Growth Company false
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+End date of current fiscal year in the format --MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_CurrentFiscalYearEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:gMonthDayItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>10
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+23 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+000100 - Document - Document and Entity Information 
+Sheet 
+http://zuora.com/role/DocumentAndEntityInformation 
+Document and Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+ef20043658_8k.htm 
+zuo-20250213.xsd 
+zuo-20250213_lab.xml 
+zuo-20250213_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>16
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>17
+<FILENAME>0001140361-25-004515-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>18
+<FILENAME>ef20043658_8k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001423774 
+
+2025-02-13 
+2025-02-13 
+
+false 
+--01-31 
+0001423774 
+8-K 
+2025-02-13 
+Zuora, Inc 
+DE 
+001-38451 
+20-5530976 
+101 Redwood Shores Parkway 
+Redwood City 
+CA 
+94065 
+888 
+976-9056 
+false 
+false 
+false 
+false 
+Class A common stock, par value $0.0001 per share 
+ZUO 
+NYSE 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

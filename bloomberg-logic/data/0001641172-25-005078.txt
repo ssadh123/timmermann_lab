@@ -1,0 +1,1476 @@
+<SEC-DOCUMENT>0001641172-25-005078.txt : 20250416
+<SEC-HEADER>0001641172-25-005078.hdr.sgml : 20250416
+<ACCEPTANCE-DATETIME>20250416165559
+ACCESSION NUMBER:		0001641172-25-005078
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250415
+ITEM INFORMATION:		Termination of a Material Definitive Agreement
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Changes in Control of Registrant
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250416
+DATE AS OF CHANGE:		20250416
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Xtant Medical Holdings, Inc.
+		CENTRAL INDEX KEY:			0001453593
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		EIN:				205313323
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34951
+		FILM NUMBER:		25843390
+
+	BUSINESS ADDRESS:	
+		STREET 1:		664 CRUISER LANE
+		CITY:			BELGRADE
+		STATE:			MT
+		ZIP:			59714
+		BUSINESS PHONE:		406-388-0480
+
+	MAIL ADDRESS:	
+		STREET 1:		664 CRUISER LANE
+		CITY:			BELGRADE
+		STATE:			MT
+		ZIP:			59714
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bacterin International Holdings, Inc.
+		DATE OF NAME CHANGE:	20100615
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	K KITZ INC
+		DATE OF NAME CHANGE:	20090108
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8-k.htm
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+false000145359300014535932025-04-152025-04-15iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+FORM
+8-K
+
+CURRENT
+REPORT
+
+Pursuant
+to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date
+of Report (Date of earliest event reported): April 15, 2025
+
+XTANT
+MEDICAL HOLDINGS, INC.
+
+(Exact
+name of registrant as specified in its charter)
+
+Delaware 001-34951 20-5313323
+
+(State
+or other jurisdiction
+
+of
+incorporation) 
+
+(Commission
+
+File
+Number) 
+
+(IRS
+Employer
+
+Identification
+No.)
+
+664 Cruiser Lane 
+
+Belgrade, Montana 59714
+
+(Address of principal executive offices) (Zip Code)
+
+(406)388-0480
+
+(Registrants
+telephone number, including area code)
+
+Not
+Applicable
+
+(Former
+name or former address, if changed since last report.)
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions:
+
+Written communications pursuant
+to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant
+to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications
+pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+Title
+of each class Trading
+Symbol(s) Name
+of each exchange on which registered
+
+Common
+stock, par value $0.000001 per share XTNT NYSE
+American LLC
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging
+growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+INTRODUCTORY
+NOTE
+
+As
+disclosed previously, on April 10, 2025, ROS Acquisition Offshore LP (ROS Acquisition), Royalty Opportunities S.r.l
+(ROS S.r.l) and OrbiMed Royalty Opportunities II, LP (ORO II and together with ROS Acquisition and
+ROS S.r.l, the Sellers), each of which are affiliates of OrbiMed Advisors LLC (OrbiMed Advisors)
+and collectively majority stockholders of Xtant Medical Holdings, Inc. (the Company), entered into a Stock Purchase Agreement
+(the Stock Purchase Agreement) with funds affiliated with Nantahala Capital Management, LLC (Nantahala),
+an existing stockholder of the Company, and certain other investors (together with Nantahala, the Purchasers), pursuant
+to which the Sellers agreed to sell to the Purchasers an aggregate of approximately 73.1 million shares (the Shares) of
+common stock, par value $0.000001 per share (the Common Stock), of the Company, at a per Share price of $0.42, subject
+to the terms and conditions contained in the Stock Purchase Agreement. The Company is not party to the Stock Purchase Agreement, which
+was privately negotiated amongst the Sellers and the Purchasers.
+
+The
+closing of the sale of the Shares pursuant to the Stock Purchase Agreement (the Transaction) occurred on April 15, 2025.
+To the Companys knowledge, based solely on beneficial ownership filings made with the Securities and Exchange Commission (the
+SEC), the Shares sold in the Transaction by the affiliates of OrbiMed Advisors constitute all of the issued and outstanding
+shares of Common Stock previously held by affiliates of OrbiMed Advisors, resulting in OrbiMed Advisors and its affiliates no longer
+being a stockholder of the Company. As the lead purchaser in the Transaction, Nantahala purchased 57.0 million Shares, which together
+with shares of Common Stock previously held by Nantahala, result in Nantahala holding shares of Common Stock representing 49.1% of the
+issued and outstanding shares of Common Stock. As previously disclosed, as part of the transaction, the Company amended its credit
+agreements with MidCap Financial Trust and MidCap Funding IV Trust to increase the Common Stock ownership threshold that triggers
+a Change in Control from 40% to 49.9% such that Nantahalas ownership percentage following the closing of the Transaction does
+not result in a Change in Control under the credit agreements solely by virtue of Nantahalas ownership.
+
+Also,
+as previously disclosed, to facilitate the Transaction, the Company entered into a registration rights agreement (the Registration
+Rights Agreement) with the Purchasers. Pursuant to the Registration Rights Agreement, the Company agreed to prepare and file a
+shelf resale registration statement (the Resale Registration Statement) with the Securities and Exchange Commission (the
+SEC) within 30 days of the date of the closing, for purposes of registering the resale of the Shares. Under the terms of
+the Registration Rights Agreement, the Company agreed to use commercially reasonable efforts to cause the Resale Registration Statement
+to be declared effective by the SEC within 60 days of the date of the closing (90 days in the event the Resale Registration Statement
+is reviewed by the SEC).
+
+Item
+1.02 Termination
+of a Material Definitive Agreement.
+
+The
+Company was party to an Investor Rights Agreement with ROS Acquisition and ORO II pursuant to which the Company had granted ROS Acquisition
+and ORO II certain governance and other rights, including director nomination rights, special approval rights, and rights of first refusal,
+so long as certain Common Stock ownership thresholds were maintained by ROS Acquisition and ORO II (such agreement, as amended, the Investor
+Rights Agreement). After the closing of the Transaction, on April 15, 2025, the Company provided ROS Acquisition and ORO II written
+notice that the Company is terminating the Investor Rights Agreement effective immediately in accordance with Article IV thereof, which
+provides that the Investor Rights Agreement shall terminate upon written notice of either the Company or ROS Acquisition and ORO II at
+such time as their Ownership Percentage (as defined in the Investor Rights Agreement) is less than 10%.
+
+Item
+2.02 Results
+of Operations and Financial Condition.
+
+In
+connection with the announcement of the closing of the Transaction on April 15, 2025, the Company disclosed preliminary, unaudited revenue
+for the quarter ended March 31, 2025. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form
+8-K and is incorporated herein by reference.
+
+The
+information in Item 2.02 of this report (including Exhibit 99.1) shall not be deemed filed for purposes of Section 18 of
+the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that section,
+nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended (the Securities Act),
+or the Exchange Act, except as expressly provided by specific reference in such a filing.
+
+Item
+5.01 Changes
+in Control of Registrant.
+
+Pursuant
+to the Transaction, as described in the Introductory Note hereto, which is incorporated by reference into this Item 5.01, the Purchasers
+completed the acquisition of the Shares from the Sellers, constituting 52.5% of the Common Stock outstanding as of April 15, 2025 for
+approximately $30.7 million, which the Company believes was funded out of the Purchasers personal funds. The consummation of the
+Transaction resulted in a change in control of the Company, as a result of which the Sellers own no shares of Common Stock and Nantahala
+gained effective control of the Company by virtue of holding approximately 49.1% of the Companys issued and outstanding Common
+Stock and being the largest stockholder of the Company.
+
+To
+the Companys knowledge, as a result of the Transaction, the following stockholders own more than 5% of the Companys issued
+and outstanding Common Stock:
+
+Name of
+
+Beneficial Owner Number of Shares of 
+
+Common Stock 
+
+Beneficially Owned(1) 
+
+Percent of
+
+Class(2) 
+
+Nantahala Capital Management, LLC(3) 68,394,000 49.1 %
+
+Altium Capital Management, LP(4) 14,525,511 (5) 10.0 %
+
+Lytton-Kambara Foundation(6) 9,463,442 7.0 %
+
+Gregory Vizirgianakis(7) 8,382,938 6.0 %
+
+Stavros G. Vizirgianakis(8) 7,700,454 5.5 %
+
+(1) The
+number of shares beneficially owned by each person is determined in accordance with the SECs
+rules and regulations, and the information is not necessarily indicative of beneficial ownership
+for any other purpose. Under the SECs rules and regulations, beneficial ownership
+includes any shares over which the individual has sole or shared voting power or investment
+power as well as any shares that the individual has the right to acquire within 60 days of
+April 15, 2025, through the exercise of any stock option, warrants, or other rights or the
+vesting of any stock awards. Except as otherwise indicated, and subject to applicable community
+property laws, the persons named in the table have sole voting and investment power with
+respect to all shares of Common Stock held by that person.
+
+(2) Percent
+of class is based on 139,308,913 shares of the Companys Common Stock outstanding as
+of April 15, 2025.
+
+(3) The
+Company
+provides the following additional information: the shares of Common Stock are beneficially
+owned by Nantahala Capital Partners Limited Partnership, a Massachusetts limited partnership
+(NCP) and Nantahala Capital Management, LLC, a Massachusetts limited
+liability company (Nantahala) through certain managed accounts and private
+funds including NCP (collectively, the Nantahala Investors). Nantahala serves
+as General Partner, Investment Manager, or Sub-Advisor to the Nantahala Investors. Wilmot B. Harkey and Daniel Mack
+are the principals and managing members of Nantahala. Mr. Harkey and Mr.
+Mack may be deemed, pursuant to Rule 13d-3 of the Securities Exchange Act of 1934,
+as amended, to be beneficial owners all of shares of Common Stock held
+by the Nantahala Investors. Mr. Harkey and Mr. Mack have shared dispositive
+power and voting power over the shares.
+
+(4) Based
+on information contained in a Schedule 13G filed with the SEC on February 13, 2024 and other
+information known to the Company. Altium Growth Fund, LP (the Fund), Altium
+Capital Management, LP, and Altium Growth GP, LLC each have shared dispositive power and
+voting power over the shares. The Fund is the record and direct beneficial owner of the shares.
+Altium Capital Management, LP is the investment adviser of, and may be deemed to beneficially
+own the shares owned by the Fund. Altium Growth GP, LLC is the general partner of, and may
+be deemed to beneficially own the shares owned by the Fund. The number of shares consists
+of 8,027,593 shares of Common Stock and 6,497,918 shares of Common Stock issuable upon exercise
+of a warrant (the Altium Warrant).
+
+(5) While
+the total number of shares of Common Stock issuable upon exercise of the Altium Warrant is
+reflected in this table, the Fund is not permitted to exercise such Altium Warrant to the
+extent that such exercise would result in the Fund and its affiliates beneficially owning
+more than 9.99% of the number of shares of the Common Stock outstanding immediately after
+giving effect to the issuance of shares of Common Stock issuable upon exercise of such warrants.
+The Fund has the right to increase this beneficial ownership limitation in its discretion
+on 61 days prior written notice to the Company.
+
+(6) Laurence Lytton has voting and investment control over the shares of Common Stock held by the Lytton-Kambara Foundation.
+
+(7) The
+number of shares consists of 7,289,744 shares of Common Stock and 1,093,194 shares of Common
+Stock issuable upon exercise of warrants.
+
+(8) The
+number of shares consists of 5,995,355 shares of Common Stock, 217,770 shares of Common Stock
+issuable upon settlement of deferred stock units, 42,345 shares of Common Stock issuable
+upon exercise of options and 1,444,984 shares of Common Stock issuable upon exercise of warrants.
+
+To
+the Companys knowledge, there are no arrangements or understandings among members of both the former and new control persons and
+their respective associates with respect to the election of directors or other matters. Additionally, there are no arrangements, known
+to the Company, including any pledge by any person of securities of the Company, the operation of which may at a subsequent date result
+in a change in control of the Company.
+
+Loss
+of Controlled Company Status
+
+Prior
+to the Transaction, the Company was a controlled company pursuant to Section 801(a) of the NYSE American Company Guide,
+meaning that over 50% of its voting power was held by an individual, a group or another company. As a controlled company, the Company
+was not required to comply with Section 802(a), Section 804 or Section 805 of the NYSE American Company Guide, which require a listed
+company to maintain: (1) a majority (or 50% in the case of a smaller reporting company) of independent directors; (2) a nominating committee
+comprised of solely independent directors or board nominations from solely the independent directors on a board; and (3) a compensation
+committee comprised of solely independent directors or executive compensation determinations made from solely the independent directors
+on a board, respectively.
+
+As
+a result of the Transaction, the Company believes, based on beneficial ownership filings made with the SEC and other information available
+to the Company, that the Company is no longer a controlled company within the meaning of the listing standards of the NYSE American.
+As previously disclosed, the Company currently maintains a Board of Directors comprised of a majority of independent directors and an
+Audit Committee, Compensation Committee and Nominating and Corporate Governance Committee comprised of solely independent directors.
+
+Item
+7.01 Regulation
+FD Disclosure.
+
+On
+April 16, 2025, the Company issued a press release announcing the closing of the Transaction. The full text of the press release is furnished
+as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+The
+information contained in this Item 7.01 and Exhibit 99.1 to this Current Report on Form 8-K shall not be deemed filed for
+purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated
+by reference in any filing under the Securities Act or the Exchange Act, except as expressly provided by specific reference in such a
+filing.
+
+Item
+8.01 Other
+Events.
+
+In
+light of the Transaction, the Company is supplementing the risk factors described in Part I, Item 1A of the Companys Annual Report
+on Form 10-K for the year ended December 31, 2024, as filed with the SEC on March 6, 2025, to add the following new risk factors:
+
+Nantahala
+owns a significant percentage of the Companys Common Stock and is able to exert significant control over matters subject to stockholder
+approval, preventing other stockholders and new investors from influencing significant corporate decisions.
+
+Nantahala
+owns approximately 49.1% of the Companys outstanding Common Stock as of April 15, 2025. Because of its significant share ownership,
+Nantahala has the ability to exert substantial influence over the Companys management and affairs and over substantially all matters
+requiring action by the Companys stockholders, including amendments to the Companys certificate of incorporation, bylaws,
+election and removal of directors, and approval of any significant corporate actions, including any merger, consolidation, or sale of
+all or substantially all of the Companys assets. This may prevent or discourage unsolicited acquisition proposals or offers for
+the Companys Common Stock. The interests of Nantahala may not be aligned with the interests of other stockholders. For example,
+Nantahala may have an interest in pursuing a sale of the Company, acquisitions, divestitures and other transactions or not pursuing such
+transactions that, in its judgment, could provide Nantahala liquidity or enhance or reduce its investment, even though such transactions
+might involve risks to the Company and other stockholders. This concentration of voting control could deprive other stockholders of an
+opportunity to receive a premium for their shares of Common Stock as part of a sale of the Company and ultimately might affect the market
+price of the Common Stock. In addition, this significant concentration of stock ownership may adversely affect the trading price of the
+Common Stock due to investors perception that conflicts of interest may exist or arise.
+
+The
+sale or availability for sale of substantial amounts of Common Stock, particularly following effectiveness of the Resale Registration
+Statement, could adversely affect the market price of the Common Stock.
+
+In
+a privately negotiated transaction, the Sellers sold to the Purchasers an aggregate of approximately 73.1 million shares of Common Stock,
+constituting 52.5% of the Common Stock outstanding as of April 15, 2025. Pursuant to the Registration Rights Agreement, the Company is
+obligated to file the Resale Registration Statement, upon the effectiveness of which these shares will be available for resale. Sales
+of substantial amounts of Common Stock in the public market, or the perception that these sales could occur particularly following effectiveness
+of the Resale Registration Statement, could adversely affect the market price of the Common Stock and could materially impair the Companys
+ability to raise capital through equity offerings in the future. The Company cannot predict what effect, if any, market sales of Shares
+held by the Purchasers or any other stockholder of the Company or the availability of the Shares for future resale will have on the market
+price of the Common Stock, although it is likely that such sales would have a material adverse impact on the trading price of the Common
+Stock, especially given the Companys low trading volume and low public float. If the trading price of the Companys Common
+Stock decreases to levels viewed to be abnormally low and no longer suitable for listing under the NYSE Americans listing standards,
+the NYSE American likely would commence delisting proceedings and immediately suspend trading in the Common Stock.
+
+Cautionary
+Statement Regarding Forward-Looking Statements
+
+The
+statements contained in this Current Report on Form 8-K that are not purely historical are forward-looking statements within the meaning
+of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include statements that are predictive in nature,
+that depend upon or refer to future events or conditions, or that include words such as may, would, will,
+intends, expects, plans, believes,
+continue, future, potential, similar expressions or the negative thereof, and the use of future
+dates. The Company cautions that its forward-looking statements by their nature involve risks and uncertainties, and actual results may
+differ materially depending on a variety of important factors, including, among others: the potential impacts of Nantahalas ownership
+of a significant percentage of the Common Stock on the Company and other stockholders; the potential impact of future sales of the Shares,
+or the perception that such sales may occur, on the market price of the Common Stock; and whether the Company will be able to comply
+with applicable NYSE American listing standards following the loss of its controlled company status and/or any decreases in the market
+price of the Common Stock that may result from future sales of the Shares. Additional risk factors are contained in the Companys
+Annual Report on Form 10-K for the year ended December 31, 2024 filed with the SEC on March 6, 2025 and subsequent SEC filings by the
+Company, including this Current Report on Form 8-K. Investors are encouraged to read the Companys filings with the SEC, available
+at www.sec.gov, for a discussion of these and other risks and uncertainties. The Company undertakes no obligation to release publicly
+any revisions to any forward-looking statements to reflect events or circumstances after the date hereof or to reflect the occurrence
+of unanticipated events, except as required by law. All forward-looking statements attributable to the Company or persons acting on its
+behalf are expressly qualified in their entirety by this cautionary statement.
+
+Item
+9.01 Financial
+Statements and Exhibits.
+
+(d)
+Exhibits.
+
+Exhibit
+No. Description
+
+10.1 
+
+Registration Rights Agreement, dated as of April 10, 2025, among Xtant Medical Holdings, Inc. and each of the several purchasers signatory thereto (filed as Exhibit 10.1 to the Companys Current Report on Form 8-K filed with the SEC on April 11, 2025 (SEC File No. 001-34951) and incorporated by reference herein).
+
+10.2 
+
+Amendment No. 2 to Amended and Restated Credit, Security and Guaranty Agreement (Term Loan), dated as of April 9, 2025, among Xtant Medical, Inc., Bacterin International, Inc., X-spine Systems, Inc., Surgalign SPV, Inc., and any additional borrower that hereafter becomes party thereto, Xtant Medical Holdings, Inc., as a guarantor, MidCap Financial Trust, as agent, and the other financial institutions or other entities from time to time parties thereto (filed as Exhibit 10.2 to the Companys Current Report on Form 8-K filed with the SEC on April 11, 2025 (SEC File No. 001-34951) and incorporated by reference herein)
+
+10.3 
+
+Amendment No. 2 to Amended and Restated Credit, Security and Guaranty Agreement (Revolving Loan), dated as of April 9, 2025, among Xtant Medical, Inc., Bacterin International, Inc., X-spine Systems, Inc., Surgalign SPV, Inc., and any additional borrower that hereafter becomes party thereto, Xtant Medical Holdings, Inc., as a guarantor, MidCap Funding IV Trust, as agent, and the other financial institutions or other entities from time to time parties thereto (filed as Exhibit 10.3 to the Companys Current Report on Form 8-K filed with the SEC on April 11, 2025 (SEC File No. 001-34951) and incorporated by reference herein)
+
+99.1 
+
+Press Release of Xtant Medical Holdings, Inc. dated April 16, 2025 entitled Xtant Medical Announces Secondary Private Sale of Existing Shares by OrbiMed and Preliminary First Quarter 2025 Revenue Growth of 18% to 19% (furnished herewith)
+
+104 
+
+Cover
+Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURE
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+XTANT MEDICAL HOLDINGS, INC.
+
+By: /s/ Scott Neils
+
+Scott Neils
+
+Chief Financial Officer
+
+Date:
+April 16, 2025
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ex99-1.htm
+<TEXT>
+Exhibit 99.1
+
+Xtant
+Medical Announces Secondary Private Sale of Existing Shares by OrbiMed and Preliminary First Quarter 2025 Revenue
+
+Growth
+of 18% to 19%
+
+Healthcare
+Focused Long-term Investors Support Strategic Vision
+
+Accelerating
+Shift to Higher-Margin Orthobiologics Supported by New Product Launches
+
+BELGRADE,
+Mont., April 16, 2025 Xtant Medical Holdings, Inc. (NYSE American: XTNT), a global medical technology company focused on
+surgical solutions for the treatment of spinal, orthopedic and woundcare disorders, today announced the completion of a secondary private
+sale of 73.1 million shares of Xtant common stock held by funds affiliated with OrbiMed Advisors LLC (OrbiMed) to several
+existing and new stockholders, led by Nantahala Capital Management LLC (Nantahala).
+
+Sean
+Browne, President and CEO of Xtant Medical, stated, We want to thank OrbiMed for its partnership and investment in Xtant over
+the years. As a result of the sale of OrbiMeds ownership position in Xtant, the investor rights agreement between Xtant
+and OrbiMed was terminated, which will provide Xtant greater strategic and operational flexibility going forward.
+
+Mr.
+Browne continued, We are pleased that this transaction has resulted in significant ownership by long-term, healthcare-focused
+investors who are aligned with our vision and fully committed to maximizing stockholder value. As we look ahead, we remain firmly focused
+on prioritizing profitability and achieving self-sustainability as the foundation of our long-term growth strategy. A key driver of this
+will be a continued shift toward our higher-margin orthobiologics and leveraging the capabilities of our Montana manufacturing facility
+to drive operational cost efficiencies. We have several new product launches planned in the near term that will further expand our offerings
+beyond spine, which we believe will help accelerate growth in 2025 and beyond.
+
+Dan
+Mack, Managing Member of Nantahala, commented, We are pleased to partner with Xtant at such an exciting moment. The companys
+innovative biologics and implant solutions address a clear and growing need in the healthcare space, particularly as demand increases
+for regenerative and cost-effective surgical solutions. We fully support Xtants increased strategic focus on orthobiologics, which
+we believe will maximize stockholder value.
+
+While
+Xtant was not a party to the securities purchase agreement and did not receive any proceeds from the transaction, Xtant has agreed to
+register the resale of the shares purchased by the investors with the Securities and Exchange Commission (SEC) on a Form
+S-1 registration statement to facilitate the transaction and assist OrbiMed in obtaining liquidity for its Xtant investment.
+
+Preliminary
+Revenue for Q1 2025
+
+The
+company also announced that it expects to report revenue for the first quarter of 2025 ranging between $32.8 million and $33.1
+million, representing 18% to 19% growth compared to first quarter 2024 revenue. The strong growth experienced in the first quarter
+of 2025 was driven by orthobiologics and licensing revenue.
+
+About
+Xtant Medical Holdings, Inc.
+
+Xtant
+Medicals mission of honoring the gift of donation so that our patients can live as full and complete a life as possible
+is the driving force behind our company. Xtant Medical Holdings, Inc. (www.xtantmedical.com) is a global medical technology company focused
+on the design, development, and commercialization of a comprehensive portfolio of orthobiologics and spinal implant systems to facilitate
+spinal fusion in complex spine, deformity and degenerative procedures. Xtant people are dedicated and talented, operating with the highest
+integrity to serve our customers.
+
+The
+symbols and denote trademarks and registered trademarks of Xtant Medical Holdings, Inc. or its affiliates, registered as
+indicated in the United States, and in other countries. All other trademarks and trade names referred to in this release are the property
+of their respective owners.
+
+Cautionary
+Statement Regarding Forward-Looking Statements
+
+This
+press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking
+statements include statements that are predictive in nature, that depend upon or refer to future events or conditions, or that include
+words such as intends, expects, anticipates, plans,
+believes, estimates, continue, future, will,
+potential, preliminary, similar expressions or the negative thereof, and the use of future dates. Forward-looking
+statements in this release include the Companys preliminary first quarter 2025 revenue and statements regarding the Companys
+shift toward higher-margin orthobiologics and leveraging the capabilities of its Montana manufacturing facility to drive operational
+cost efficiencies and several new product launches planned in the near term that will further expand its offerings beyond spine, which
+the Company believes will help accelerate growth in 2025 and beyond. The Company cautions that its forward-looking statements by their
+nature involve risks and uncertainties, and actual results may differ materially depending on a variety of important factors, including,
+among others: risk that the Companys actual first quarter 2025 revenue will deviate from its preliminary revenue results; its
+future operating results and financial performance; its ability to meets its 2025 revenue and other guidance; its ability to execute
+its strategic priorities and become operationally self-sustaining and less reliant on third-party manufacturers and suppliers; risks
+associated with its acquisitions and the integration of those businesses; anticipated continued shortages of stem cells which may adversely
+affect future revenues; its ability to implement successfully future growth initiatives and risks associated therewith; possible future
+impairment charges to long-lived assets and goodwill and write-downs of excess inventory; the ability to remain competitive; the ability
+to innovate, develop and introduce new products and the success of those products; the ability to engage and retain new and existing
+independent distributors and agents and qualified personnel and the Companys dependence on key independent agents for a significant
+portion of its revenue; the effect of labor and hospital staffing shortages on the Companys business, operating results and financial
+condition, especially when they affect key markets; the effect of tariffs, inflation, increased interest rates and other recessionary
+factors and supply chain disruptions; the effect of product sales mix changes on the Companys financial results; government and
+third-party coverage and reimbursement for Company products; the ability to obtain and maintain regulatory approvals and comply with
+government regulations; the effect of product recalls, defects and liability claims and other litigation to which the Company may be
+subject; the ability to license certain of the Companys intellectual property on commercially reasonable terms and to maintain
+any such licenses; the ability to obtain and protect Company intellectual property and proprietary rights and operate without infringing
+the rights of others; risks associated with the Companys clinical trials; international risks; the ability to service Company
+debt, comply with its debt covenants and access additional indebtedness; the ability to maintain sufficient liquidity to fund its operations
+and obtain financing on favorable terms or at all; and other factors. Additional risk factors are contained in the Companys Annual
+Report on Form 10-K for the year ended December 31, 2024 filed with the SEC on March 6, 2025. Investors are encouraged to read the Companys
+filings with the SEC, available at www.sec.gov, for a discussion of these and other risks and uncertainties. The Company undertakes no
+obligation to release publicly any revisions to any forward-looking statements to reflect events or circumstances after the date hereof
+or to reflect the occurrence of unanticipated events, except as required by law. All forward-looking statements attributable to the Company
+or persons acting on its behalf are expressly qualified in their entirety by this cautionary statement.
+
+Investor
+Relations Contact:
+
+Brett
+Maas
+
+Managing
+Partner, Hayden IR
+
+brett@haydenir.com
+
+(646)
+536-7331
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>xtnt-20250415.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>xtnt-20250415_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Cover [Abstract] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>xtnt-20250415_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>15
+<FILENAME>0001641172-25-005078-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>18
+<FILENAME>form8-k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001453593 
+
+2025-04-15 
+2025-04-15 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0001453593 
+8-K 
+2025-04-15 
+XTANT MEDICAL HOLDINGS, INC. 
+DE 
+001-34951 
+20-5313323 
+664 Cruiser Lane 
+Belgrade 
+MT 
+59714 
+(406) 
+388-0480 
+false 
+false 
+false 
+false 
+Common stock, par value $0.000001 per share 
+XTNT 
+NYSEAMER 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>19
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Cover
+
+Apr. 15, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Apr. 15, 2025
+
+Entity File Number 001-34951
+
+Entity Registrant Name XTANT
+MEDICAL HOLDINGS, INC.
+
+Entity Central Index Key 0001453593
+
+Entity Tax Identification Number 20-5313323
+
+Entity Incorporation, State or Country Code DE
+
+Entity Address, Address Line One 664 Cruiser Lane
+
+Entity Address, City or Town Belgrade
+
+Entity Address, State or Province MT
+
+Entity Address, Postal Zip Code 59714
+
+City Area Code (406)
+
+Local Phone Number 388-0480
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common
+stock, par value $0.000001 per share
+
+Trading Symbol XTNT
+
+Security Exchange Name NYSEAMER
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>20
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://xtantmedical.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+form8-k.htm 
+xtnt-20250415.xsd 
+xtnt-20250415_lab.xml 
+xtnt-20250415_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>22
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

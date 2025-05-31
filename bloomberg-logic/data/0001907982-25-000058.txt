@@ -1,0 +1,1770 @@
+<SEC-DOCUMENT>0001907982-25-000058.txt : 20250313
+<SEC-HEADER>0001907982-25-000058.hdr.sgml : 20250313
+<ACCEPTANCE-DATETIME>20250313070247
+ACCESSION NUMBER:		0001907982-25-000058
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		31
+CONFORMED PERIOD OF REPORT:	20250313
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250313
+DATE AS OF CHANGE:		20250313
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			D-Wave Quantum Inc.
+		CENTRAL INDEX KEY:			0001907982
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41468
+		FILM NUMBER:		25733806
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2650 EAST BAYSHORE ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94303
+		BUSINESS PHONE:		(604) 630-1428
+
+	MAIL ADDRESS:	
+		STREET 1:		3033 BETA AVENUE
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5G4M9
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>qbts-20250313.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?qbts-20250313
+
+0001907982FALSE00019079822025-03-132025-03-130001907982us-gaap:CommonStockMember2025-03-132025-03-130001907982us-gaap:WarrantMember2025-03-132025-03-13
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+_____________________________________________________________
+
+FORM 8-K
+
+_____________________________________________________________
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported): March 13, 2025
+
+_____________________________________________________________
+
+D-Wave Quantum Inc.
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+_____________________________________________________________
+
+Delaware 001-41468 88-1068854
+
+(State or other jurisdiction of incorporation or organization) (Commission File Number) (I.R.S. Employer Identification No.)
+
+2650 East Bayshore Road
+
+Palo Alto, California
+
+94303
+
+(Address of principal executive offices)
+
+(604) 630-1428
+
+(Registrants telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+_____________________________________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+o Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Common stock, par value $0.0001 per share QBTS New York Stock Exchange
+
+Warrants, each whole warrant exercisable for 1.4541326 shares of common stock at an exercise price of $11.50 QBTS.WT New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company x
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+o
+
+Item 2.02. Results of Operations and Financial Condition.
+
+On March 13, 2025, D-Wave Quantum Inc. (the Company) issued a press release announcing its financial results for the fiscal fourth quarter and full year ended December 31, 2024. A copy of the press release is furnished herewith as Exhibit 99.1 and incorporated herein by reference.
+
+In addition, on March 13, 2025, the Company posted on its website an investor presentation, which includes supplemental information relating to the Companys financial results for the fourth quarter and year ended December 31, 2024, as well as a business and product update. A copy of the presentation is furnished herewith as Exhibit 99.2 and incorporated herein by reference.
+
+The information contained in this Current Report on Form 8-K and in the accompanying exhibits are furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that section, and shall not be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act regardless of any general incorporation language in such filing, unless expressly incorporated by specific reference in such filing.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d)Exhibits
+
+Exhibit Number 
+
+Description
+
+99.1 
+
+Press Release issued by D-Wave Quantum Inc., dated March 13, 2025.
+
+99.2 
+
+Presentation, dated March 13, 2025.
+
+104 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: March 13, 2025 
+
+D-Wave Quantum Inc.
+
+By: 
+
+/s/ Alan Baratz 
+
+Name: 
+
+Alan Baratz
+
+Title: 
+
+President & Chief Executive Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>qbts-2025313xexx991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Exhibit 99.1
+
+D-Wave Reports Fourth Quarter and Year-End 2024 Results
+
+FY 2024 Bookings up 128% Year over Year
+
+Q4 Bookings up 502% Year over Year
+
+Current Cash Position Exceeds $300 Million
+
+PALO ALTO, Calif. March 13, 2025 D-Wave Quantum Inc., (NYSE: QBTS) (D-Wave or the Company) a leader in quantum computing systems, software, and services, today announced financial results for its fourth fiscal quarter and year ended December 31, 2024. 
+
+Every day D-Waves quantum technology is helping customers gain competitive advantages, discover new scientific breakthroughs, and fuel innovations that were previously unimaginable, said Dr. Alan Baratz, CEO of D-Wave. Our mission is unwavering - to help organizations realize the benefits of quantum computing now. With record bookings, a record cash position and an unequivocal demonstration of our quantum system outperforming classical on a real-world problem, our progress toward achieving that mission is clear.
+
+Recent Business and Technical Highlights
+
+Announced that D-Wave has demonstrated quantum computational supremacy over classical computation on a useful, real-world problem, with peer-reviewed publication of the research in the esteemed journal, Science. The research, which has relevance to customers problems in materials discovery, solved the complex materials simulation problem on D-Waves Advantage2TM annealing quantum computer prototype significantly faster and with far less power consumption than one of the worlds most powerful classical supercomputers.
+
+Introduced an on-premises systems offering to enable customers to push the boundaries of quantum-fueled experimentation, development and usage. Also announced that the Julich Supercomputing Centre is the first high-performance computing (HPC) center to purchase and own a D-Wave Advantage annealing quantum computing system. It is expected that D-Waves system will be connected to the JUPITER supercomputer, Europes first and only exascale HPC, to facilitate breakthroughs in AI and quantum optimization applications. 
+
+Announced the Quantum Uplift program to address customers disappointment with competitor quantum systems that have proven to be incapable of solving practical real-world problems and lack reliable uptime and availability. The program offers incentives to dissatisfied organizations toward the purchase of a D-Wave Advantage system that will enable them to pursue groundbreaking research and novel AI applications.
+
+Announced the calibration of a third 4,400 qubit Advantage2 processor. Compared with the current Advantage system, the Advantage2 processor delivers significant performance gains with doubled qubit coherence time, which drives faster time to solution; a 40% increase in energy scale for higher-quality solutions; and increased qubit connectivity from 15-way to 20-way, enabling solutions to larger, more complex problems.
+
+Worked with customers on a variety of quantum and hybrid quantum applications including: drug discovery with Japan Tobacco; insurance portfolio optimization with Leith, the technology and data factory of Unipol, a leading Italian insurance company; and optimization of police vehicle deployment with North Wales Police.
+
+Announced a commercial hybrid-quantum application built with Staque that simulates and optimizes movements of autonomous agriculture vehicles. The companies expect the application could have important benefits to farmers as they adopt autonomous agriculture machines in order to scale and increase the output of their fields, with quantum computing providing the analysis, speed, and accuracy to help maximize production and minimize costs.
+
+Announced a partnership with Carahsoft Technology Corp., enabling them to co-market D-Waves comprehensive solutions to the public sector through Carahsofts reseller network. These solutions include real-time access to the D-Wave AdvantageTM quantum computing systems through D-Waves LeapTM quantum cloud service, workforce training programs to upskill current public sector employees, and specialized support from D-Waves professional services team to develop applications for specific public sector use cases. 
+
+Initiated the Leap Quantum LaunchPad program designed to accelerate the exploration and development of quantum and hybrid-quantum applications. The program is structured as a free 3-month trial that provides access to D-Waves production-grade annealing quantum computers and the Leap real-time quantum cloud service as well as expert project support.
+
+Launched the new Quantum Realized brand campaign to showcase the benefits of todays quantum computing and presented a framework to help customers evaluate a quantum computing companys relative value. The campaign will span digital and print advertising channels, events, and the Companys sponsorship of the International Year of Quantum Science and Technology, an initiative that aims to raise public awareness about quantum computing. 
+
+Announced that Qubits 2025, the Companys annual user conference, will take place March 31, 2025 and April 1, 2025 in Scottsdale, Arizona. Themed Quantum Realized, the event will feature company executives, customers and industry thought leaders discussing the ways that D-Wave products are delivering tangible value today. Speakers include Charles Payne of Fox Businesss Making Money with Charles Payne, IDC, Davidson Technologies, Julich Supercomputing Center, Japan Tobacco, NTT DOCOMO, Pusan National University, Quantum Research Sciences, SAS, the University of Southern California and more.
+
+Announced record Bookings for the year ended December 31, 2024, of $23.9 million, an increase of $13.4 million, or 128%, from Bookings of $10.5 million for the year ended December 31, 2023, and fiscal 2024 fourth quarter Bookings of $18.3 million, an increase of $15.3 million, or 502% from the fiscal 2023 fourth quarter Bookings of $3.0 million.
+
+D-Waves consolidated cash balance totaled $178.0 million as of December 31, 2024 and is in excess of $300 million as of the date of this earnings press release.
+
+Financial Results for the Fiscal Year 2024
+
+Revenue: Revenue for the year ended December 31, 2024, was $8.8 million, essentially flat compared to revenue of $8.8 million for the year ended December 31, 2023. 
+
+Bookings1: Bookings for the year ended December 31, 2024, were $23.9 million, an increase of $13.4 million, or 128%, from Bookings of $10.5 million for the year ended December 31, 2023. 
+
+Customers: In comparing the year ended December 31, 2024 with the year ended December 31, 2023, D-Wave had: 
+
+A total of 135 customers compared with a total of 133 customers; 
+
+76 commercial customers compared with 78 commercial customers; 
+
+59 research institution and government customers compared with 55 research institution and government customers; and 
+
+28 Forbes Global 2000 customers compared with 27 Forbes Global 2000 customers constituting 37% of the total number of commercial customers.
+
+GAAP Gross Profit: GAAP gross profit for the year ended December 31, 2024 was $5.6 million, an increase of $1.0 million, or 20%, from $4.6 million of GAAP gross profit for the year ended December 31, 2023, with the increase due primarily to an increase in higher margin QCaaS revenue and lower stock-based compensation expense in cost of sales.
+
+GAAP Gross Margin: GAAP gross margin for the year ended December 31, 2024 was 63.0%, an increase of 10.2% from the 52.8% GAAP gross margin for the year ended December 31, 2023. 
+
+Non-GAAP Gross Profit2: Non-GAAP Gross Profit for the year ended December 31, 2024 was $6.4 million, an increase of $0.3 million, or 5%, from the Non-GAAP Gross Profit of $6.1 million for the year ended December 31, 2023. The difference between GAAP and Non-GAAP Gross Profit is limited to non-cash stock-based compensation and depreciation and amortization expenses that are excluded from the Non-GAAP gross profit.
+
+Non-GAAP Gross Margin2: Non-GAAP Gross Margin for the year ended December 31, 2024 was 72.8%, an increase of 3.0% from the 69.8% Non-GAAP Gross Margin for the year ended December 31, 2023. The difference between GAAP and Non-GAAP Gross Margin is limited to non-cash stock-based compensation and depreciation and amortization expenses that are excluded from the Non-GAAP gross margin.
+
+GAAP Operating Expenses: GAAP operating expenses for the year ended December 31, 2024 were $82.8 million, a decrease of $2.4 million, or 3% from GAAP operating expenses of $85.2 million for the year ended December 31, 2023, with the year-over-year decrease primarily driven by decreases of $5.6 million in non-cash stock-based compensation expense, $3.8 million in third party professional services and $1.0 million in insurance expenses, partially offset by increases in salaries and related personnel costs of $6.0 million related to incremental investments to support the Company's continued growth and expansion.
+
+Non-GAAP Adjusted Operating Expenses2: Non-GAAP Adjusted Operating Expenses for the year ended December 31, 2024 were $62.4 million, an increase of $2.0 million or 3% from Non-GAAP Adjusted Operating Expenses of $60.4 million for the year ended December 31, 2023, with the difference between GAAP and Non-GAAP Adjusted Operating Expenses being primarily non-cash stock-based compensation expense, non-recurring one-time expenses, and depreciation and amortization.
+
+Net Loss: Net loss for the year ended December 31, 2024 was $143.9 million, or $0.75 per share, an increase of $61.2 million, or $0.15 per share, from the net loss of $82.7 million or $0.60 per share, for the year ended December 31, 2023. The increase was primarily due to a $68.3 million non-cash, non-operating charge related to the remeasurement of the Company's warrant liability, that materially increased as a result of the significant price appreciation of the Company's warrants.
+
+Adjusted Net Loss2: Adjusted Net Loss for the year ended December 31, 2024, was $75.6 million, or $0.39 per share, a decrease of $7.3 million, or $0.21 per share, from an Adjusted Net Loss of $83.0 million, or $0.60 per share, for the year ended December 31, 2023, with the difference between Net Loss and Adjusted Net Loss being non-cash, non-operating charge related to the remeasurement of the Company's warrant liability.
+
+Adjusted EBITDA Loss2: The Adjusted EBITDA Loss for the year ended December 31, 2024 was $56.0 million, an increase of $1.7 million or 3% from the Adjusted EBITDA Loss of $54.3 million for the year ended December 31, 2023, with the increase due primarily to higher operating expenses, driven by the Companys increased investment in its go-to-market and research and development organizations.
+
+Fourth Quarter Fiscal 2024 Financial Highlights
+
+Revenue: Revenue for the fourth quarter of fiscal 2024 was $2.3 million, a decrease of $0.6 million, or 21%, from the fiscal 2023 fourth quarter revenue of $2.9 million. 
+
+Bookings1: Bookings for the fourth quarter of fiscal 2024 were a record $18.3 million, an increase of $15.3 million, or 502% from the fiscal 2023 fourth quarter Bookings of $3.0 million.
+
+GAAP Gross Profit: GAAP gross profit for the fourth quarter of fiscal 2024 was $1.5 million, a decrease of $0.5 million, or 25%, from the fiscal 2023 fourth quarter gross profit of $2.0 million, with the decrease due primarily to lower professional services revenue. 
+
+GAAP Gross Margin: GAAP gross margin for the fourth quarter of fiscal 2024 was 63.8%, a decrease of 3.9% from the fiscal 2023 fourth quarter GAAP gross margin of 67.7%.
+
+Non-GAAP Gross Profit2: Non-GAAP Gross Profit for the fourth quarter of fiscal 2024 was $1.7 million, a decrease of $0.6 million, or 28%, from the fiscal 2023 fourth quarter Non-GAAP Gross Profit of $2.3 million. The difference between GAAP and Non-GAAP gross profit is limited to non-cash stock-based compensation and depreciation and amortization expenses that are excluded from the Non-GAAP gross profit.
+
+Non-GAAP Gross Margin2: Non-GAAP Gross Margin for the fourth quarter of fiscal 2024 was 73.0%, a decrease of 7.2% from the fiscal 2023 fourth quarter Non-GAAP Gross Margin of 80.2%. The difference between GAAP and Non-GAAP Gross Margin is limited to non-cash stock-based compensation and depreciation and amortization expenses that are excluded from the Non-GAAP gross margin.
+
+GAAP Operating Expenses: GAAP operating expenses for the fourth quarter of fiscal 2024 were $21.7 million, an increase of $3.2 million, or 17%, from the fiscal 2023 fourth quarter GAAP operating expenses of $18.5 million with the increase driven primarily by an increase in personnel costs of $4.1 million, and fabrication costs of $0.6 million, partially offset by a decrease in third party professional fees of $1.2 million. 
+
+Non-GAAP Adjusted Operating Expenses2: Non-GAAP Adjusted Operating Expenses for the fourth quarter of fiscal 2024 were $17.0 million, an increase of $3.8 million, or 29% from the fiscal 2023 fourth quarter Non-GAAP Adjusted Operating Expenses of $13.2 million, with the difference between GAAP and Non-GAAP Adjusted Operating Expenses being primarily non-cash stock-based compensation expense, non-recurring one-time expenses, and depreciation and amortization.
+
+Net Loss: Net loss for the fourth quarter of fiscal 2024 was $86.1 million, an increase of $70.1 million, or 438%, from the fiscal 2023 fourth quarter net loss of $16.0 million. The increase was primarily due to a $68.3 million non-cash, non-operating charge related to the remeasurement of the warrant liability, that materially increased as a result of the significant price appreciation of the Company's warrants. Net loss per share for the fourth quarter of fiscal 2024 was $0.37 per share, an increase of $0.27 from the fiscal 2023 fourth quarter net loss of $0.10 per share.
+
+Adjusted Net Loss2: Adjusted Net Loss for the fourth quarter of fiscal 2024, was $17.8 million, or $0.08 per share, an increase of $1.5 million and a decrease of $0.03 per share, compared with an Adjusted Net Loss of $16.4 million, or $0.10 per share, for the fiscal 2023 fourth quarter, with the difference between Net Loss and Adjusted Net Loss being the non-cash, non-operating charge related to the remeasurement of the Company's warrant liability. 
+
+Adjusted EBITDA Loss2: Adjusted EBITDA Loss for the fourth quarter of fiscal 2024 was $15.3 million, an increase of $4.4 million, or 41%, from the fiscal 2023 fourth quarter Adjusted EBITDA Loss of $10.9 million, with the increase due primarily to lower revenue and higher operating expenses that were principally related to the Companys increased investment in its go-to-market and research and development organizations.
+
+Balance Sheet and Liquidity
+
+As of December 31, 2024, D-Waves consolidated cash balance totaled $178.0 million and, as of the date of this earnings press release, exceeded $300 million. During the fourth quarter of fiscal 2024, the Company raised $161.3 million in equity through its At-The-Market (ATM) and Equity Line of Credit (ELOC) common stock issuance programs and, during the current first quarter of fiscal 2025, the Company raised an additional $146.2 million under an ATM program for total net proceeds of $307.5 million. Of the $307.5 million, $295.4 million was raised under the ATM programs at an average price per share of $4.30 that was $0.08 higher than the corresponding Volume Weighted Average Price (VWAP) of $4.22 per share. In addition, the Company paid off the remaining balance of its $50 million secured term loan with PSPIB Unitas Investments II Inc. during the fourth quarter. 
+
+As of December 31, 2024, the Company had $37.8 million in available issuance capacity under the ELOC with Lincoln Park Capital Fund, LLC, with the investment commitment running through October 2025. D-Waves ability to raise additional funds under the ELOC is subject to a number of conditions including having a sufficient number of registered shares and D-Wave's stock price being above $1.00 per share. 
+
+First Quarter Fiscal Year 2025 Outlook
+
+We expect first quarter fiscal 2025 revenue to exceed $10 million with a significant portion of the first quarter revenue including revenue recognized from the sale of an Advantage annealing quantum computer.
+
+__________________
+
+1Bookings is an operating metric that is defined as customer orders received that are expected to generate net revenues in the future. We present the operational metric of Bookings because it reflects customers' demand for our products and services and to assist readers in analyzing our potential performance in future periods.
+
+2"Non-GAAP Gross Profit", "Non-GAAP Gross Margin", "Non-GAAP Adjusted Operating Expenses", Adjusted Net Loss, "Adjusted Net Loss per Share" and "Adjusted EBITDA Loss", are non-GAAP financial measures or metrics. Please see the discussion in the section Non-GAAP Financial Measures and the reconciliations included at the end of this press release.
+
+Earnings Conference Call
+
+In conjunction with this announcement, D-Wave will host a conference call on Thursday, March 13, 2025, at 8:00 a.m. (Eastern Time), to discuss the Companys financial results and business outlook. The live dial-in number is 1-800-717-1738 (domestic) or 1-646-307-1865 (international). Participating in the call will be Chief Executive Officer, Dr. Alan Baratz and Chief Financial Officer, John Markovich. 
+
+About D-Wave Quantum Inc.
+
+D-Wave is a leader in the development and delivery of quantum computing systems, software, and services. We are the worlds first commercial supplier of quantum computers, and the only company building both annealing and gate-model quantum computers. Our mission is to help customers realize the value of quantum, today. Our 5,000+ qubit Advantage quantum computers, the worlds largest, are available on-premises or via the cloud, supported by 99.9% availability and uptime. More than 100 organizations trust D-Wave with their toughest computational challenges. With over 200 million problems submitted to our Advantage systems and Advantage2 prototypes to date, our customers apply our technology to address use cases spanning optimization, artificial intelligence, research and more. Learn more about realizing the value of quantum computing today and how were shaping the quantum-driven industrial and societal advancements of tomorrow: www.dwavequantum.com.
+
+Non-GAAP Financial Measures 
+
+To supplement the financial information presented in accordance with GAAP, we use non-GAAP measures of certain components of financial performance. Each of Non-GAAP gross profit, Non-GAAP gross margin, Adjusted EBITDA loss, Adjusted Net Loss, Adjusted Net Loss per Share, and Non-GAAP adjusted operating expenses is a financial measure that is not required by or presented in accordance with GAAP. Management believes that each measure provides investors an additional meaningful method to evaluate certain aspects of such results period over period. The Company defines each of its non-GAAP financial measures as follows:
+
+Non-GAAP gross profit is defined as GAAP gross profit less non-cash stock-based compensation expense and depreciation and amortization expense. We use Non-GAAP gross profit to measure, understand and evaluate our core operating performance and trends and to develop short-term and long-term operating plans. 
+
+Non-GAAP gross margin is defined as GAAP gross margin less non-cash stock-based compensation expense and depreciation and amortization expense. We use Non-GAAP gross margin to measure, understand and evaluate our core business performance. 
+
+Adjusted EBITDA loss is defined as net loss before interest expense, income tax expense (benefit), depreciation and amortization expense, stock-based compensation, remeasurements of liability-classified warrants, and other non-recurring non-operating income and expenses. We use Adjusted EBITDA loss to measure the operating performance of our business, excluding specifically identified items that we do not believe directly reflect our core operations and may not be indicative of our recurring operations. 
+
+Adjusted Net Loss and Adjusted Net Loss per Share are defined as net loss and net loss per share excluding the impact of the non-cash, non-operating charges associated with the remeasurement of the Companys warrant liability.
+
+Non-GAAP adjusted operating expenses is defined as operating expenses before depreciation and amortization expense, non-recurring one-time expenses and non-cash stock-based compensation expense. We use Non-GAAP adjusted operating expenses to measure our operating expenses, excluding items we do not believe directly reflect our core operations. 
+
+The presentation of non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the financial results prepared in accordance with GAAP, and our presentation of non-GAAP measures may be different from non-GAAP measures used by other companies. For a reconciliation of these non.GAAP measures to the most directly comparable GAAP measures, please refer to the reconciliations below.
+
+Forward Looking Statements
+
+Certain statements in this press release are forward-looking, as defined in the Private Securities Litigation Reform Act of 1995. These statements involve risks, uncertainties, and other factors that may cause actual results to differ materially from the information expressed or implied by these forward-looking statements and may not be indicative of future results. These forward-looking statements are subject to a number of risks and uncertainties, including, among others, various factors beyond managements control, including the risks set forth under the heading Risk Factors discussed under the caption Item 1A. Risk Factors in Part I of our most recent Annual Report on Form 10-K or any updates discussed under the caption Item 1A. Risk Factors in Part II of our Quarterly Reports on Form 10-Q and in our other filings with the SEC. Undue reliance should not be placed on the forward-looking statements in this press release in making an investment decision, which are based on information available to us on the date hereof. We undertake no duty to update this information unless required by law.
+
+Contacts
+
+Investor Contact:
+
+Kevin Hunt
+
+ir@dwavesys.com
+
+Media Contact:
+
+Alex Daigle
+
+media@dwavesys.com
+
+D-Wave Quantum Inc.
+
+Consolidated Balance Sheets
+
+(Unaudited)
+
+December 31, December 31,
+
+(In thousands, except share and per share data) 2024 2023
+
+Assets 
+
+Current assets: 
+
+Cash and cash equivalents $ 177,980 $ 41,307 
+
+Trade accounts receivable, net of allowance for doubtful accounts of $176 and zero 1,420 1,652 
+
+Inventories 1,686 2,078 
+
+Prepaid expenses and other current assets 3,954 2,009 
+
+Total current assets 185,040 47,046 
+
+Property and equipment, net 4,133 2,551 
+
+Operating lease right-of-use assets 7,261 8,223 
+
+Intangible assets, net 490 179 
+
+Other non-current assets, net 2,929 1,357 
+
+Total assets $ 199,853 $ 59,356 
+
+Liabilities and stockholders' deficit 
+
+Current liabilities: 
+
+Trade accounts payable $ 815 $ 1,465 
+
+Accrued expenses and other current liabilities 8,784 5,343 
+
+Current portion of operating lease liabilities 1,512 1,374 
+
+Loans payable, net, current 348 399 
+
+Deferred revenue, current 18,686 2,669 
+
+Total current liabilities 30,145 11,250 
+
+Warrant liabilities 69,875 1,630 
+
+Operating lease liabilities, net of current portion 6,389 7,028 
+
+Loans payable, net, non-current (including $ and $31,400 as of December 31, 2024 and December 31, 2023, respectively, at fair value) 30,128 63,850 
+
+Deferred revenue, non-current 670 79 
+
+Total liabilities $ 137,207 $ 83,837 
+
+Commitments and contingencies 
+
+Stockholders' equity (deficit): 
+
+Common stock, par value $0.0001 per share; 675,000,000 shares authorized at both December 31, 2024 and December 31, 2023; 266,595,867 shares and 161,113,744 shares issued and outstanding as of December 31, 2024 and December 31, 2023, respectively. 27 16 
+
+Additional paid-in capital 700,069 469,081 
+
+Accumulated deficit (626,940) (483,061) 
+
+Accumulated other comprehensive loss (10,510) (10,517) 
+
+Total stockholders' equity (deficit) 62,646 (24,481) 
+
+Total liabilities and stockholders equity (deficit) $ 199,853 $ 59,356 
+
+D-Wave Quantum Inc.
+
+Consolidated Statements of Operations and Comprehensive Loss
+
+(Unaudited)
+
+Three Months Ended December 31, Year Ended December 31,
+
+(In thousands, except share and per share data) 2024 2023 2024 2023
+
+Revenue $ 2,309 $ 2,906 $ 8,827 $ 8,758 
+
+Cost of revenue 836 939 3,264 4,136 
+
+Total gross profit 1,473 1,967 5,563 4,622 
+
+Operating expenses: 
+
+Research and development 9,752 7,956 35,300 37,878 
+
+General and administrative 8,126 8,139 32,422 37,014 
+
+Sales and marketing 3,827 2,414 15,064 10,276 
+
+Total operating expenses 21,705 18,509 82,786 85,168 
+
+Loss from operations (20,232) (16,542) (77,223) (80,546) 
+
+Other income (expense), net: 
+
+Interest expense (417) 1,785 (3,897) (37) 
+
+Change in fair value of Term Loan (10) (716) (645) 640 
+
+Term Loan debt issuance costs (2,118) 
+
+Gain on investment in marketable securities 1,495 
+
+Change in fair value of warrant liabilities (68,264) 341 (68,245) 262 
+
+Other income (expense), net 2,846 (882) 4,636 (916) 
+
+Total other income (expense), net (65,845) 528 (66,656) (2,169) 
+
+Net loss $ (86,077) $ (16,014) $ (143,879) $ (82,715) 
+
+Net loss per share, basic and diluted $ (0.37) $ (0.10) $ (0.75) $ (0.60) 
+
+Weighted-average shares used in computing net loss per share, basic and diluted 232,997,043 158,869,112 192,129,049 137,993,736 
+
+Comprehensive loss: 
+
+Net loss $ (86,077) $ (16,014) $ (143,879) $ (82,715) 
+
+Foreign currency translation adjustment 89 (45) 7 (115) 
+
+Net comprehensive loss $ (85,988) $ (16,059) $ (143,872) $ (82,830) 
+
+D-Wave Quantum Inc.
+
+Consolidated Statements of Cash Flows
+
+(Unaudited)
+
+Year Ended December 31,
+
+(in thousands) 2024 2023 
+
+Cash flows from operating activities: 
+
+Net loss $ (143,879) $ (82,715) 
+
+Adjustments to reconcile net loss to cash used in operating activities: 
+
+Depreciation and amortization 1,109 1,054 
+
+Stock-based compensation 15,661 21,919 
+
+Amortization of operating right-of-use assets 823 791 
+
+Provision for excess and obsolete inventory 134 32 
+
+Non-cash interest expense, net of cash paid for PIK interest (1,441) (78) 
+
+Change in fair value of Warrant liabilities 68,245 (262) 
+
+Change in fair value of Term Loan 645 (640) 
+
+Debt issuance costs netted from Term Loan proceeds 993 
+
+Gain on marketable securities (1,495) 
+
+Unrealized foreign exchange loss (gain) (3,307) 955 
+
+Change in operating assets and liabilities: 
+
+Trade accounts receivable 137 (818) 
+
+Research incentives receivable 264 
+
+Inventories (215) (237) 
+
+Prepaid expenses and other current assets (1,580) 1,636 
+
+Trade accounts payable (570) (2,614) 
+
+Accrued expenses and other current liabilities 5,520 (1,374) 
+
+Deferred revenue 16,608 958 
+
+Operating lease liability 293 (510) 
+
+Other non-current assets, net 669 (3) 
+
+Net cash used in operating activities (42,643) (60,649) 
+
+Cash flows from investing activities: 
+
+Purchase of property and equipment (2,106) (583) 
+
+Purchase of convertible note (1,000) 
+
+Sales of marketable equity securities 254 
+
+Expenditures for internal-use software (289) (47) 
+
+Net cash used in investing activities (3,141) (630) 
+
+Cash flows from financing activities: 
+
+Proceeds from the issuance of common stock pursuant to the Lincoln Park Purchase Agreement 44,285 63,676 
+
+Proceeds from the issuance of common stock in at-the-market offerings, net of issuance costs of $278 169,906 
+
+Proceeds from the issuance of common stock upon exercise of stock options 1,347 1,897 
+
+Proceeds from common stock issued under the Employee Stock Purchase Plan 424 491 
+
+Proceeds from Term Loan 29,007 
+
+Proceeds from government assistance 2,996 
+
+Payment of tax withheld pursuant to stock-based compensation settlements (3,142) (416) 
+
+Short swing profit settlement 244 
+
+Repayments on Term Loan (30,000) 
+
+Repayments on TPC Loan (370) (374) 
+
+Repayment of promissory notes - related party (420) 
+
+Other debt payments (1,465) 
+
+Net cash provided by financing activities 182,450 95,636 
+
+Effect of exchange rate changes on cash and cash equivalents 7 (115) 
+
+Net increase in cash and cash equivalents 136,673 34,242 
+
+Cash and cash equivalents at beginning of period 41,307 7,065 
+
+Cash and cash equivalents at end of period $ 177,980 $ 41,307 
+
+D-Wave Quantum Inc.
+
+Reconciliation of Gross Profit to Non-GAAP Gross Profit
+
+Three Months Ended December 31, Year Ended December 31,
+
+(in thousands of U.S. dollars) 2024 2023 2024 2023
+
+Gross Profit $ 1,473 $ 1,967 $ 5,563 $ 4,622 
+
+Gross Margin 63.8 % 67.7 % 63.0 % 52.8 %
+
+Excluding: 
+
+Depreciation and Amortization (1) 54 54 218 218 
+
+Stock-based compensation (2) 159 310 647 1,272 
+
+Non-GAAP Gross Profit $ 1,686 $ 2,331 $ 6,428 $ 6,112 
+
+Non-GAAP Gross Margin 73.0 % 80.2 % 72.8 % 69.8 %
+
+(1)Depreciation and Amortization reflects the Depreciation and Amortization recorded in Cost of Revenue only, which differs from the total Depreciation and Amortization set forth in the Condensed Consolidated Statement of Cash Flows that also includes Depreciation and Amortization recorded in Operating Expenses.
+
+(2)Stock-based compensation reflects the stock-based compensation recorded in Cost of Revenue only, which differs from the total stock-based compensation set forth in the Condensed Consolidated Statement of Cash flows that also includes stock-based compensation recorded in Operating Expenses.
+
+D-Wave Quantum Inc.
+
+Reconciliation of Operating Expenses to Non-GAAP Operating Expenses
+
+Three Months Ended December 31, Year Ended December 31, 2024
+
+(in thousands of U.S. dollars) 2024 2023 2024 2023
+
+Operating expenses $ 21,705 $ 18,509 $ 82,786 $ 85,168 
+
+Excluding: 
+
+Depreciation and Amortization (1) (261) (153) (891) (817) 
+
+Stock-based compensation (2) (3,771) (4,248) (15,014) (20,647) 
+
+Non-recurring one time expenses (3) (651) (882) (4,437) (3,278) 
+
+Non-GAAP Adjusted Operating Expenses $ 17,022 $ 13,226 $ 62,444 $ 60,426 
+
+(1)Depreciation and Amortization reflects the Depreciation and Amortization recorded in the Operating Expenses only, which differs from the total Depreciation and Amortization set forth in the Condensed Consolidated Statement of Cash Flows that also includes Depreciation and Amortization recorded in Cost of Revenue.
+
+(2)Stock-based compensation reflects the stock-based compensation recorded in Operating Expenses only, which differs from the total stock-based compensation set forth in the Condensed Consolidated Statement of Cash flows that also includes stock-based compensation recorded in Cost of Revenue.
+
+(3)Non-recurring professional fees and provisions for credit losses, as well as legal, consulting, and accounting fees related to capital markets activities.
+
+D-Wave Quantum Inc.
+
+Reconciliation of Net Loss to Adjusted Net Loss
+
+Three Months Ended December 31, Year Ended December 31,
+
+(in thousands of U.S. dollars) 2024 2023 2024 2023
+
+Net loss $ (86,077) $ (16,014) $ (143,879) $ (82,715) 
+
+Net loss per share (basic and diluted) $ (0.37) $ (0.10) $ (0.75) $ (0.60) 
+
+Excluding: 
+
+Change in fair value of warrant liabilities 68,264 (341) 68,245 (262) 
+
+Adjusted net loss $ (17,813) $ (16,355) $ (75,634) $ (82,977) 
+
+Adjusted net loss per share (basic and diluted) $ (0.08) $ (0.10) $ (0.39) $ (0.60) 
+
+D-Wave Quantum Inc.
+
+Reconciliation of Net Loss to Adjusted EBITDA Loss
+
+Three Months Ended December 31, Year Ended December 31,
+
+(in thousands of U.S. dollars) 2024 2023 2024 2023
+
+Net loss $ (86,077) $ (16,014) $ (143,879) $ (82,715) 
+
+Excluding: 
+
+Depreciation and Amortization 315 207 1,109 1,035 
+
+Stock-based compensation 3,930 4,557 15,661 21,919 
+
+Interest expense (1) 417 (1,785) 3,897 37 
+
+Change in fair value of warrant liabilities 68,264 (341) 68,245 (262) 
+
+Term Loan debt issuance costs 2,118 
+
+Change in fair value of Term Loan 10 716 645 (640) 
+
+Gain on investment in marketable securities (1,495) 
+
+Other (income) expense, net (2) (2,846) 882 (4,636) 916 
+
+Non-recurring one time expenses (3) 651 882 4,437 3,278 
+
+Adjusted EBITDA Loss $ (15,336) $ (10,896) $ (56,016) $ (54,314) 
+
+(1)Interest expense primarily reflects the paid-in-kind interest associated with the term loan agreement with PSPIB Unitas Investments II Inc. entered into on April 13, 2023 and fully repaid on October 22, 2024, and interest and adjustments to accrued interest on the SIF Loan.
+
+(2)Other income (expense), net consists primarily of foreign exchange gains and losses and interest income earned from cash and cash equivalents.
+
+(3)Non-recurring professional fees and provisions for credit losses, as well as legal, consulting, and accounting fees related to capital markets activities.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>d-waveq42024investorpres.htm
+<DESCRIPTION>EX-99.2
+<TEXT>
+d-waveq42024investorpres
+
+1 Copyright D-Wave Q4 2024 Investor Presentation 
+
+2 Copyright D-Wave FORWARD-LOOKING STATEMENTS Certain statements in this presentation are forward-looking, as defined in the Private Securities Litigation Reform Act of 1995. These statements involve risks, uncertainties, and other factors that may cause actual results to differ materially from the information expressed or implied by these forward-looking statements and may not be indicative of future results. These forward-looking statements are subject to a number of risks and uncertainties, including, among others, various factors beyond managements control, including the risks set forth under the heading Risk Factors discussed under the caption Item 1A. Risk Factors in Part I of our most recent Annual Report on Form 10-K or any updates discussed under the caption Item 1A. Risk Factors in Part II of our Quarterly Reports on Form 10-Q and in our other filings with the SEC. Undue reliance should not be placed on the forward-looking statements in this presentation in making an investment decision, which are based on information available to us on the date hereof. We undertake no duty to update this information unless required by law. 
+
+3 Copyright D-Wave D-WAVE AT A GLANCE STRONG CUSTOMER BASE MARKET LEADER THOUGHT & TECHNICAL LEADERSHIP 43 PhDs 240+ U.S. granted patents 525+ granted & pending patents worldwide 60+% Annealing AND Gate Over 240 scientific papers published Quantum Annealing Fifth generation system 5000+ qubits Real-Time Quantum Cloud Quantum hybrid solvers 99% up-time Open-Source Python Tools Easily configurable Simplifies use of QC & HSS Customer PS On-Ramp From application eval to production deployment ESTABLISHED PRODUCT PORTFOLIO: Worlds largest Quantum Computer Accessible through production-grade cloud service Peer-reviewed publication of quantum supremacy GROWING COMMERCIAL ADOPTION: 1st commercial Quantum Computing company 30+ proven business use cases Initial applications moving into production HIGH-VALUE CONSULTATIVE SERVICES: 20+ successful POC engagements in 18 months Advisory services to aid in production deployment INDUSTRY PERSPECTIVE: We believe that todays quantum technology can play a key role in ensuring optimal and efficient construction and operation of buildings and are eager to use D-Waves quantum solutions in support of that effort. Dr. Reinhard Schlemmer, Member of the Board of VINCI Energies One of top 5 global quantum computing patent portfolios As of 2023; (Source: QED-C) 
+
+4 Copyright D-Wave BEYOND CLASSICAL: D-WAVE FIRST TO DEMONSTRATE QUANTUM SUPREMACY ON USEFUL, REAL-WORLD PROBLEM New landmark peer-reviewed paper published in Science, Beyond-Classical Computation in Quantum Simulation, unequivocally validates D-Wave achievement of the worlds first and only demonstration of quantum computational supremacy on a useful problem These problems cannot be solved by classical computers What took D-Waves system minutes would take a classical supercomputer nearly 1 million years and more than the worlds annual electricity consumption to solve 
+
+5 Copyright D-Wave NEW ON-PREMISES OFFERING INTRODUCED WITH FIRST ADVANTAGE SYSTEM PURCHASE BY JULICH SUPERCOMPUTING CENTRE Introduced an on-premises systems offering to enable customers to push the boundaries of quantum-fueled experimentation, development and usage Julich Supercomputing Centre is the first high-performance computing (HPC) center to purchase and own a D-Wave Advantage annealing quantum computing system It is expected that D-Waves system will be connected to the JUPITER supercomputer, Europes first and only exascale HPC, to facilitate breakthroughs in AI and quantum optimization applications D-Wave annealing quantum computer in the JUNIQ building at Forschungszentrum Jlich Copyright: Forschungszentrum Jlich / Sascha Kreklau 
+
+6 Copyright D-Wave QUANTUM UPLIFT PROGRAM OFFERS INCENTIVES TO ORGANIZATIONS DISSATISFIED WITH COMPETITIVE QUANTUM SYSTEMS Program to address organizations disappointment with competitor quantum systems that have proven to be incapable of solving practical real-world problems and lack reliable uptime and availability Offers incentives to dissatisfied organizations toward the purchase of a D-Wave Advantage system that will enable them to pursue groundbreaking research and novel AI applications 
+
+7 Copyright D-Wave NEW QUANTUM REALIZED BRAND CAMPAIGN SHOWCASES D-WAVES TANGIBLE AND DIFFERENTIATED VALUE Launched the new Quantum Realized brand campaign to showcase the benefits of todays quantum computing and presented a framework to help customers evaluate a quantum companys relative value Campaign will span digital and print advertising channels, events, and the companys sponsorship of the International Year of Quantum Science and Technology, an initiative that aims to raise public awareness about quantum computing 
+
+8 Copyright D-Wave RAPIDLY GROWING COLLECTION OF CUSTOMER APPLICATIONS TACKLING QUANTUM OPTIMIZATION AND QUANTUM AI USE CASES Worked with customers on a variety of quantum and hybrid quantum applications including: drug discovery with Japan Tobacco; insurance portfolio optimization with Leith, the technology and data factory of Unipol, a leading Italian insurance company; and optimization of police vehicle deployment with North Wales Police. Also announced commercial hybrid-quantum application built with Staque that simulates and optimizes movements of autonomous agriculture vehicles at scale 
+
+9 Copyright D-Wave RESELLER PARTNERSHIP WITH CARAHSOFT OPENS OPPORTUNITIES WITH PUBLIC SECTOR CUSTOMERS Announced a partnership with Carahsoft Technology Corp., enabling the companies to co-market D-Waves comprehensive solutions to the public sector through Carahsofts reseller network Solutions include real-time access to the D-Wave AdvantageTM quantum computing systems through D-Waves LeapTM quantum cloud service, workforce training programs to upskill current public sector employees, and specialized support from D-Waves professional services team to develop applications for specific public sector use cases 
+
+10 Copyright D-Wave LEAP QUANTUM LAUNCHPAD INTRODUCED TO ACCELERATE ADOPTION OF D-WAVE TECHNOLOGY Initiated the Leap Quantum LaunchPad program designed to accelerate the exploration and development of quantum and hybrid-quantum applications Program structured as a free 3-month trial that provides access to D-Waves production-grade annealing quantum computers and the Leap real-time quantum cloud service as well as expert project support 
+
+11 Copyright D-Wave QUBITS 2025 USER CONFERENCE TO HIGHLIGHT PRODUCT ROADMAP, SCIENTIFIC ADVANCEMENTS AND CUSTOMER SUCCESS STORIES Qubits 2025, the companys annual user conference, will take place March 31 and April 1 in Scottsdale, Arizona Themed Quantum Realized, the event will feature company executives, customers and industry thought leaders discussing the ways that D-Wave products are delivering tangible value today Speakers including Charles Payne of Fox Businesss Making Money with Charles Payne, IDC, Davidson Technologies, Julich Supercomputing Center, Japan Tobacco, NTT DOCOMO, Pusan National University, Quantum Research Sciences, SAS, the University of Southern California and more will share their groundbreaking work using D-Wave systems to solve real-world problems 
+
+12 Copyright D-Wave TBD APPLICATION BENCHMARKING D-WAVE IBM IONQ ~98% of optimal at problem size 320 ~75% of optimal at problem size 6 ~80% of optimal at problem size 10 Runs in a fraction of a second ~100x slower than QA ~10,000x slower than QA D-Wave annea ling quantum computers have long-te rm advantage in optimiza tion QED-C Benchmarking: https ://doi.org/10.1145/3678184 RELIABILITY AND AVAILABILITY 99.9%+ ava ilability of D-Wave Leap quantum cloud se rvice Real time access with no queue ing SOC2 Type 2 compliant Other cloud pla tforms: IonQ > 1 week average queue time* Rige tti < 70% Azure uptime* QuEra < 33% Brake t uptime* COMPUTATIONAL SUPREMACY D-Wave: Demons tra ted supremacy on important/useful problems Direct applica tion to materia ls s imula tion Google : Demons tra ted supremacy on contrived problem Random circuit sampling No practica l applica tion Same result for Quantinuum Xanadu: Cla imed supremacy but quickly class ica lly spoofed IonQ, Rige tti, Others : No credible supremacy cla ims 70+ revenue genera ting commercia l cus tomers Bus iness applica tions in production to improve opera tions IonQ/Rige tti revenue domina ted by a few government grants (As per public SEC Filings) COMMERCIAL APPLICATIONS QUANTUM REALIZED: ONLY BY D-WAVE * https://status.ionq.co/, https://rigetti.statuspage.io/, https://www.quera.com/aquila 
+
+13 Copyright D-Wave 2024 FINANCIAL UPDATE $- $10 $20 $30 $40 Q3-23 Q3-24 11-13-24 M IL LI O N S PAID IN FULL $31.1M Secured Debt $13.6M $- $100 $200 $300 $400 Q4-23 Q4-24 03-12-25 M IL LI O N S $41.3M $178.0M $300.0M+ Cash Position 0 50 100 150 2023 2024 133 Total # of Customers 135 Including 27 Forbes Global 2000 Including 28 Forbes Global 2000 $- $10 $20 Q4 2023 Q4 2024 M IL LI O N S Quarterly Bookings $18.3M $3.0M $- $10 $20 $30 FY 2023 FY 2024 M IL LI O N S - $10.5M $23.9M Annual Bookings $- $5 $10 Q4 2023 Q4 2024 M IL LI O N S - $4.6M $5.6M GAAP Gross Profit Financial information set forth above is unaudited 
+
+14 Copyright D-Wave D-WAVE INVESTMENT CONSIDERATIONS TECHNOLOGY LEADERSHIP Designed, developed and operating the worlds largest quantum computers Only company to achieve quantum supremacy on a useful, real-world problem One of top 5 global quantum computing patent portfolios ANNEALING ADVANTAGE Annealing quantum computers that outperform classical and gate model systems Developing both annealing and gate quantum computers CUSTOMER TRACTION Business applications in production Diverse commercial customer base Publicly disclosing the number of revenue- generating customers PRODUCTION-GRADE OFFERINGS Scalable production-grade commercial systems Service Level Agreements SOC2 Type 2 compliant 
+
+15 Copyright D-Wave
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>4
+<FILENAME>qbts-20250313.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>5
+<FILENAME>qbts-20250313_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>6
+<FILENAME>qbts-20250313_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Document Period End Date 
+Document Period End Date 
+
+Common Stock 
+Common Stock [Member] 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Class of Stock [Domain] 
+Class of Stock [Domain] 
+
+Soliciting Material 
+Soliciting Material 
+
+City Area Code 
+City Area Code 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Listings [Line Items] 
+Entity Listings [Line Items] 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Cover [Abstract] 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Warrant 
+Warrant [Member] 
+
+Entity Listings [Table] 
+Entity Listings [Table] 
+
+Document Type 
+Document Type 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Ex Transition Period 
+Entity Ex Transition Period 
+
+Class of Stock [Axis] 
+Class of Stock [Axis] 
+
+Entity File Number 
+Entity File Number 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Registrant Name 
+Entity Registrant Name
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>7
+<FILENAME>qbts-20250313_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>d-waveq42024investorpres001.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>d-waveq42024investorpres002.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>10
+<FILENAME>d-waveq42024investorpres003.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>11
+<FILENAME>d-waveq42024investorpres004.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>12
+<FILENAME>d-waveq42024investorpres005.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>13
+<FILENAME>d-waveq42024investorpres006.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>14
+<FILENAME>d-waveq42024investorpres007.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>15
+<FILENAME>d-waveq42024investorpres008.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>16
+<FILENAME>d-waveq42024investorpres009.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>17
+<FILENAME>d-waveq42024investorpres010.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>18
+<FILENAME>d-waveq42024investorpres011.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>19
+<FILENAME>d-waveq42024investorpres012.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>20
+<FILENAME>d-waveq42024investorpres013.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>21
+<FILENAME>d-waveq42024investorpres014.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>22
+<FILENAME>d-waveq42024investorpres015.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>24
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Mar. 13, 2025
+
+Entity Listings [Line Items] 
+
+Document Type 8-K
+
+Document Period End Date Mar. 13, 2025
+
+Entity Registrant Name D-Wave Quantum Inc.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-41468
+
+Entity Tax Identification Number 88-1068854
+
+Entity Address, Address Line One 2650 East Bayshore Road
+
+Entity Address, City or Town Palo Alto
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 94303
+
+City Area Code 604
+
+Local Phone Number 630-1428
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company true
+
+Entity Ex Transition Period false
+
+Entity Central Index Key 0001907982
+
+Amendment Flag false
+
+Common Stock 
+
+Entity Listings [Line Items] 
+
+Title of 12(b) Security Common stock, par value $0.0001 per share
+
+Trading Symbol QBTS
+
+Security Exchange Name NYSE
+
+Warrant 
+
+Entity Listings [Line Items] 
+
+Title of 12(b) Security Warrants, each whole warrant exercisable for 1.4541326 shares of common stock at an exercise price of $11.50
+
+Trading Symbol QBTS.WT
+
+Security Exchange Name NYSE
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 7A
+
+-Section B
+
+-Subsection 2
+
++ Details
+
+Name: dei_EntityExTransitionPeriod
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityListingsLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=us-gaap_CommonStockMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=us-gaap_WarrantMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>25
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>26
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>27
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>29
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+3 
+23 
+1 
+false 
+2 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://qbts.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+qbts-20250313.htm 
+qbts-20250313.xsd 
+qbts-20250313_def.xml 
+qbts-20250313_lab.xml 
+qbts-20250313_pre.xml 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>31
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>32
+<FILENAME>0001907982-25-000058-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>33
+<FILENAME>qbts-20250313_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001907982 
+
+2025-03-13 
+2025-03-13 
+
+0001907982 
+
+us-gaap:CommonStockMember 
+
+2025-03-13 
+2025-03-13 
+
+0001907982 
+
+us-gaap:WarrantMember 
+
+2025-03-13 
+2025-03-13 
+
+0001907982 
+false 
+8-K 
+2025-03-13 
+D-Wave Quantum Inc. 
+DE 
+001-41468 
+88-1068854 
+2650 East Bayshore Road 
+Palo Alto 
+CA 
+94303 
+604 
+630-1428 
+false 
+false 
+false 
+false 
+Common stock, par value $0.0001 per share 
+QBTS 
+NYSE 
+Warrants, each whole warrant exercisable for 1.4541326 shares of common stock at an exercise price of $11.50 
+QBTS.WT 
+NYSE 
+true 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,4455 @@
+<SEC-DOCUMENT>0000950170-25-029022.txt : 20250227
+<SEC-HEADER>0000950170-25-029022.hdr.sgml : 20250227
+<ACCEPTANCE-DATETIME>20250227160511
+ACCESSION NUMBER:		0000950170-25-029022
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		12
+CONFORMED PERIOD OF REPORT:	20250227
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250227
+DATE AS OF CHANGE:		20250227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NetApp, Inc.
+		CENTRAL INDEX KEY:			0001002047
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER STORAGE DEVICES [3572]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				770307520
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0426
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27130
+		FILM NUMBER:		25678638
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3060 OLSEN DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95128
+		BUSINESS PHONE:		4088226000
+
+	MAIL ADDRESS:	
+		STREET 1:		3060 OLSEN DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95128
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NETWORK APPLIANCE INC
+		DATE OF NAME CHANGE:	19951010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ntap-20250227.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?8-K
+
+0001002047false00010020472025-02-272025-02-27
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 27, 2025
+
+NetApp, Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware 
+
+0-27130 
+
+77-0307520
+
+(State or Other Jurisdiction
+
+of Incorporation) 
+
+(Commission File Number) 
+
+(IRS Employer
+
+Identification No.)
+
+3060 Olsen Drive 
+
+San Jose, California 
+
+95128
+
+(Address of Principal Executive Offices) 
+
+(Zip Code)
+
+Registrants Telephone Number, Including Area Code:(408)822-6000
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class 
+
+Trading
+
+Symbol(s) 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 Par Value 
+
+NTAP 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 ( 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 ( 240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On February 27, 2025, NetApp, Inc. ("NetApp" or the "Company") issued a press release reporting financial results for the third quarter ended January 24, 2025. The press release is furnished herewith as Exhibit 99.1, to this Current Report.
+
+NetApp is making reference to non-GAAP financial information in both the press release and the conference call. A reconciliation of these non-GAAP financial measures to the comparable GAAP financial measures is contained in the attached press release.
+
+The information contained herein and in the accompanying exhibits shall not be incorporated by reference into any filing of the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing, unless expressly incorporated by specific reference in such filing. The information in this report, including the exhibits hereto, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit No. 
+
+Description
+
+99.1 
+
+Press release, dated February 27, 2025, reporting earnings for the third quarter ended January 24, 2025
+
+104 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+NETAPP, INC.
+
+(Registrant)
+
+Date: 
+
+February 27, 2025 
+
+By: 
+
+/s/ Elizabeth O'Callahan
+
+Elizabeth O'Callahan
+
+Executive Vice President, Chief Legal Officer and Secretary
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ntap-ex99_1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+EX-99.1
+
+Exhibit 99.1
+
+NetApp Reports Third Quarter of Fiscal Year 2025 Results
+
+Net revenues of $1.64 billion for the third quarter
+
+All-flash array annualized net revenue run rate1 of $3.8 billion, an increase of 10% year-over-year
+
+First-party and marketplace cloud storage services revenue again grew more than 40% year-over-year
+
+Continued to deliver significant intelligent data infrastructure innovation with the launch of new all-flash NetApp AFF A-Series and C-Series systems, enhanced StorageGRID object storage capabilities, and expanded cloud storage offerings
+
+Third quarter GAAP operating margin of 22%; third quarter non-GAAP operating margin2 of 30%
+
+Third quarter GAAP net income per share3 of $1.44; third quarter non-GAAP net income per share2 of $1.91
+
+Returned $306 million to stockholders through share repurchases and cash dividends
+
+SAN JOSE, Calif.February 27, 2025NetApp (NASDAQ: NTAP), the intelligent data infrastructure company, today reported financial results for the third quarter of fiscal year 2025, which ended on January 24, 2025.
+
+The strength of our business model yielded operating margin ahead of and EPS in-line with expectations, despite Q3 top line performance below our standards, said George Kurian, chief executive officer. We are taking action to enhance our execution and improve our momentum. I remain confident in our position as the supplier of choice for AI and other data-driven workloads and our ability to achieve our long-term financial goals and deliver increasing shareholder value. Our portfolio has never been stronger, delivering a modern approach to hybrid, multicloud infrastructure and data management and giving customers the ability to leverage the power of their entire data estate simply, securely, and sustainably.
+
+Third Quarter of Fiscal Year 2025 Financial Results
+
+Net revenues: $1.64 billion, compared to $1.61 billion in the third quarter of fiscal year 2024; a year-over-year increase of 2%.
+
+o
+
+Hybrid Cloud segment revenue: $1.47 billion, compared to $1.46 billion in the third quarter of fiscal year 2024.
+
+o
+
+Public Cloud segment revenue: $174 million, compared to $151 million in the third quarter of fiscal year 2024.
+
+Billings2: $1.71 billion, compared to $1.69 billion in the third quarter of fiscal year 2024; a year-over-year increase of 2%. 
+
+All-flash array ARR: $3.8 billion, compared to $3.4 billion in the third quarter of fiscal year 2024; a year-over-year increase of 10%.
+
+Net income: GAAP net income of $299 million, compared to $313 million in the third quarter of fiscal year 2024; non-GAAP net incomeof $397 million, compared to $410 million in the third quarter of fiscal year 2024. 
+
+Earnings per share: GAAP net income per shareof $1.44, compared to $1.48 in the third quarter of fiscal year 2024; non-GAAP net income per share of $1.91, compared to $1.94 in the third quarter of fiscal year 2024. 
+
+Cash, cash equivalents and investments: $2.26 billion at the end of the third quarter of fiscal year 2025.
+
+Cash provided by operations: $385 million, compared to $484 million in the third quarter of fiscal year 2024.
+
+Share repurchases and dividends: Returned $306 million to stockholders through share repurchases and cash dividends.
+
+Fourth Quarter of Fiscal Year 2025 Financial Outlook
+
+The Company provided the following financial guidance for the fourth quarter of fiscal year 2025:
+
+Net revenues are expected to be in the range of: 
+
+$1.65 billion - $1.80 billion
+
+GAAP 
+
+Non-GAAP
+
+Earnings per share is expected to be in the range of: 
+
+$1.45 - $1.55 
+
+$1.84 - $1.94
+
+Full Fiscal Year 2025 Financial Outlook
+
+The Company provided the following update to financial guidance for the full fiscal year 2025:
+
+Net revenues are expected to be in the range of: 
+
+$6.49 billion - $6.64 billion
+
+GAAP 
+
+Non-GAAP
+
+Consolidated gross margins are expected to be approximately: 
+
+70% 
+
+71%
+
+Operating margins are expected to be in the range of: 
+
+20% - 20.5% 
+
+28% - 28.5%
+
+Earnings per share is expected to be in the range of: 
+
+$5.49 - $5.59 
+
+$7.17 - $7.27
+
+Dividend
+
+The next cash dividend of $0.52 per share is to be paid on April 23, 2025, to stockholders of record as of the close of business on April 4, 2025.
+
+Third Quarter of Fiscal Year 2025 Business Highlights 
+
+Leading Product Innovation
+
+NetApp introduced additional high-performance, unified data storage AFF A-Series entry and midrange platforms, which deliver advanced features for mission-critical workloads at affordable price points. 
+
+NetApp introduced new AFF C-Series systems aimed at providing greater value for general-purpose workloads and consolidating workloads across unified file, block, and object storage protocols while delivering industry-leading density and efficiency. 
+
+NetApp extended the StorageGRID SFG6112 system with support 60TB capacity flash drives, doubling the density of object deployments, reducing rack space, and lowering power and cooling costs. 
+
+NetApp updated StorageGRID software with improved scalability and flexibility for increased performance with small object workloads and mixed-media grids. 
+
+NetApp expanded the E-Series product family with the E4000 systems, providing simple high-performance SAN storage for backup, video surveillance, HPC, and AI-driven applications. 
+
+NetApp announced the general availability of NetApp Trident 24.10 software, enabling Kubernetes workloads to benefit from the scale, performance, availability, and advanced data protection features of NetApp ONTAP technology for both on-premises and cloud environments.
+
+NetApp BlueXP adds ransomware integration with Microsoft Sentinel and new workload management features. 
+
+NetApp continues to simplify data estate operations by enabling automated ONTAP and anti-ransomwareupdates throughBlueXP.
+
+Customer and Partner Momentum
+
+The San Francisco 49ers and NetApp announced a multiyear strategic partnership, designating NetApp as the Official Intelligent Data Infrastructure Partner. The partnership is helping the 49ers leverage intelligent data infrastructure to enhance business operations, beginning with a reimagined fan experience at Levis Stadium. 
+
+NetApp and Red Hat expanded their partnership to integrate NetApps intelligent data infrastructure with Red Hat OpenShift, enhancing flexibility for managing virtualized environments across on-premises and hybrid multicloud. 
+
+NetApp introduced on-premises enterprise storage arrays for AWS Outposts, enabling customers to manage external block data volumes directly through the AWS Management Console. 
+
+NetApp announced that Amazon FSx for NetApp ONTAP was certified for Siemens Teamcenter onAWS, bringing enhanced performance, scalability, and data management capabilities to product lifecycle management workloads in the cloud. 
+
+Microsoft Azure introduced Azure NetApp Files cool access support for large volumes, which significantly improves the effective price of storage by moving infrequently accessed data to a lower-cost tier. 
+
+Microsoft Azure updated Cloud Backup for Virtual Machines to integrate with Azure NetApp Files backup, enhancing data protection with a managed backup solution.
+
+NetApp announced the availability of NetApp Data Infrastructure Insights on the Azure Marketplace, offering streamlined infrastructure observability, automation, and real-time telemetry data to customers migrating to Azure. 
+
+NetApp received the Google Cloud Ready Regulated & Sovereignty Solutions Designation for the Google Cloud NetApp Volumes and Cloud Volumes ONTAP solutions. 
+
+Corporate News and Events
+
+NetApp announced it had entered into an agreement for the sale of its Spot by NetAppFinOps business toFlexera, reflecting NetApps focus and commitment to intelligent data infrastructure and long-term growth opportunities. 
+
+NetApp announced that it approved new near-term science-based emissions reduction targets verified by the Science-Based Targets initiative (SBTi), demonstrating the companys commitment to making sustainability a crucial component of its business resilience strategy. 
+
+NetApp released its second annual Data Complexity Report, which explores AIs impact on organizations in 2025 and beyond, offering insights for harnessing its potential while addressing associated complexities and risks. 
+
+NetApp and The Futurum Group released a report, Cloud, Complexity, AI: The Triple Threat Demanding New Cyber Resilience Strategies,analyzing the state of cybersecurity, evolving cyberthreats, and resilience strategies. 
+
+Executive Leadership Announcements 
+
+NetApp announced the appointment of Wissam Jabre as executive vice president and chief financial officer, effective March 10, 2025. Wissam brings over 20 years of experience leading finance organizations and a strong track record of value creation and disciplined operational management. 
+
+NetApp appointed Suhail Hasanain as the new regional director for the Middle East and Africa region,where he will be responsible for driving business growth and fostering strategic collaborations. 
+
+Awards and Recognition
+
+CRNnamed NetApp hybrid cloud an overall winner in the Hybrid Cloud Infrastructure category and NetApp AFF C-Series an overall winner in the Enterprise Storage category for its 2024 Products of the Year awards. 
+
+CEO George Kurian was named to the Silicon Valley Power 100 List by the Silicon Valley Business Journal, reflecting his impact on and influence in the region. 
+
+NetApp was listed in U.S. News Best Companies to Work For in the Semiconductors, Electronics and Equipment, Region, and Supporting Family Caregiving categories, reflecting the company's commitment to fostering a beneficial workplace. 
+
+NetApp ranked in Forbes 300 Most Trusted Companies in America list, which evaluates companies based on employee, customer and investor trust, and media sentiment. 
+
+NetApp was named one of the 50 Hottest Edge Hardware, Software and Services Companies by CRNas part of its 2024 Edge Computing 100 awards. 
+
+In its 2024 Scale-Out File Storage Radar, GigaOm listed NetApp ONTAP as a mature platform leader and fast mover.
+
+NetApp was listed as a finalist for the 2025 Sustainability in Tech awards for the Sustainability Champion Vendor category by CRN UK. 
+
+NetApp was named one of the 20 Coolest Cloud Storage Companies as part of CRNs 2025 Cloud 100 awards, highlighting the companys silo-free approach to storage, which combines unified data storage with enterprise-grade storage services natively embedded in the top cloud hyperscalers. 
+
+CRN named NetApp Senior GMT Program Manager Monica Scaglia to its 2024 Channel Women on the Rise list.
+
+Webcast and Conference Call Information
+
+NetApp will host a conference call to discuss these results today at 2:30 p.m. Pacific Time. To access the live webcast of this event, go to the NetApp Investor Relations website at investors.netapp.com. In addition, this press release, historical supplemental data tables, and other information related to the call will be posted on the Investor Relations website. An audio replay will be available on the website after 4:30 p.m. Pacific Time today.
+
+Safe Harbor Statement Under U.S. Private Securities Litigation Reform Act of 1995
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include, but are not limited to, all of the statements made in the Fourth Quarter of Fiscal Year 2025 Financial Outlook section and the Full Fiscal Year 2025 Financial Outlook section, and statements about our business, economic and market outlook, financial guidance, our overall future prospects, our ability to compete for AI and other data-driven workloads against our competitors, our ability to deliver a modern approach to hybrid, multicloud infrastructure and data management, and our ability to deliver increasing results and value for our stakeholders. Actual results may differ materially from these statements for a variety of reasons, including, without limitation, our ability to keep pace with the rapid industry, technological and market trends and changes in the markets in which we operate; our ability to execute our evolved cloud strategy and introduce and gain market acceptance for our products and services; our ability to maintain our customer, partner, supplier and contract manufacturer relationships on favorable terms and conditions; global political, macroeconomic and market conditions, including inflation, fluctuating interest rates, tariffs, changes in trade policy, regulations, monetary policy shifts, recession risks, and foreign exchange volatility and the resulting impact on demand for our products; the impact of new or ongoing geopolitical conflicts and sanctions; adoption or changes to laws, regulations standards or policies affecting our operations, products, services, the storage industry, or AI usage; material cybersecurity and other security breaches; the impact of supply chain disruptions on our business operations, financial performance and results of operations; changes and related uncertainty in U.S. government spending or policy; changes in overall technology spending by our customers; revenue seasonality; changes in laws or regulations, including those relating to privacy, data protection and information security; the timing of orders and their fulfilment; and our ability to manage our gross profit margins, including managing component costs. These and other equally important factors are described in reports and documents we file from time to time with the Securities and Exchange Commission, including the factors described under the sections titled Risk Factors in our most recently filed annual report on Form 10-K and quarterly report on Form 10-Q. We disclaim any obligation to update information contained in this press release whether as a result of new information, future events, or otherwise.
+
+###
+
+NetApp, the NetApp logo, and the marks listed at http://www.netapp.com/TM are trademarks of NetApp, Inc. All other marks are the property of their respective owners.
+
+Footnotes
+
+1All-flash array annualized net revenue run rate is determined by products and services revenue for the current quarter, multiplied by 4.
+
+2Refer to NetApp Usage of Non-GAAP Financial Information section below for explanations of consolidated non-GAAP gross margins, non-GAAP operating margins, non-GAAP net income, non-GAAP net income per share, free cash flow, and billings.
+
+3GAAP net income per share and non-GAAP net income per share are calculated using the diluted number of shares.
+
+NetApp Usage of Non-GAAP Financial Information
+
+To supplement NetApps condensed consolidated financial statement information presented in accordance with generally accepted accounting principles in the United States (GAAP), NetApp provides investors with certain non-GAAP measures, including, but not limited to, historical non-GAAP gross margins, non-GAAP operating margins, non-GAAP operating results, non-GAAP net income, non-GAAP effective tax rate, free cash flow, billings, and historical and projected non-GAAP earnings per diluted share.
+
+In prior periods, NetApp presented the hardware and software components of our GAAP product revenues to illustrate the significance and value of the Companys software. Because our revenue recognition policy under GAAP defines a configured storage system, inclusive of the operating system software essential to its functionality, as a single performance obligation, hardware and software components of our product revenues are considered non-GAAP measures.
+
+Effective in fiscal year 2025, NetApp no longer presents the non-GAAP hardware and software components of our product revenues, as management no longer considers them to be key financial measures. The Companys current strategy is expected to deliver investor value through growth in total revenues, including product revenues, while maintaining operational discipline to drive earnings leverage. While software continues to be the primary value driver of our products, NetApp is primarily focused on driving growth in total product revenues, through the sale of configured storage systems comprised of both hardware and software, with less focus on the pricing of each component.
+
+Additionally, the Company is considering potential opportunities to simplify pricing for certain products in the future, which may eliminate the existence of separate prices for hardware and software components and/or impact our ability to allocate between them.
+
+NetApp believes that the presentation of its non-GAAP measures, when shown in conjunction with the corresponding GAAP measures, provides useful information to investors and management regarding financial and business trends relating to its financial condition and results of operations. NetApps management uses non-GAAP measures in making operating decisions because it believes that the measurements provide meaningful supplemental information regarding NetApps ongoing operational performance.
+
+NetApp believes that the presentation of non-GAAP gross margins, non-GAAP operating margin, non-GAAP effective tax rate, non-GAAP net income, and non-GAAP earnings per share data, provides investors with supplemental metrics that assist in understanding current results and future prospects, earnings and profitability that are complementary to GAAP metrics. Each of these Non-GAAP metrics is defined as the applicable GAAP metric adjusted to exclude the items defined in A through I below, as applicable, while our Non-GAAP effective tax rate and Non-GAAP net income also reflect a non-GAAP tax provision, as described in item J below, instead of our GAAP tax provision. Non-GAAP net income per share is computed as Non-GAAP net income divided by the diluted number of shares for the applicable period.
+
+NetApp believes that the presentation of free cash flow, which it defines as the net cash provided by operating activities less cash used to acquire property and equipment, to be a liquidity measure that provides useful information to management and investors because it reflects cash that can be used to, among other things, invest in its business, make strategic acquisitions, repurchase common stock, and pay dividends on its common stock. As free cash flow is not a measure of liquidity calculated in accordance with GAAP, free cash flow should be considered in addition to, but not as a substitute for, the analysis provided in the statement of cash flows.
+
+NetApp approximates billings by adding net revenues as reported on our Condensed Consolidated Statements of Operations for the period to the change in total deferred revenue and financed unearned services revenue as reported on our Condensed Consolidated Statements of Cash Flows for the same period. Billings is a performance measure that NetApp believes provides useful information to management and investors because it approximates the amounts under purchase orders received by us during a given period that have been billed.
+
+Non-GAAP financial measures are used to: (1) measure company performance against historical results, (2) facilitate comparisons to our competitors operating results and (3) allow greater transparency with respect to information used by management in financial and operational decision making.
+
+NetApp excludes the following items from its non-GAAP measures when applicable:
+
+A. Amortization of intangible assets. NetApp records amortization of intangible assets that were acquired in connection with its business combinations. The amortization of intangible assets varies depending on the level of acquisition activity. Management finds it useful to exclude these charges to assess the appropriate level of various operating expenses to assist in budgeting, planning and forecasting future periods and in measuring operational performance.
+
+B. Stock-based compensation expenses. NetApp excludes stock-based compensation expenses from its non-GAAP measures primarily because the amount can fluctuate based on variables unrelated to the performance of the underlying business. While management views stock-based compensation as a key element of our employee retention and long-term incentives, we do not view it as an expense to be used in evaluating operational performance in any given period.
+
+C. Litigation settlements. NetApp may periodically incur charges or benefits related to litigation settlements. NetApp excludes these charges and benefits, when significant, because it does not believe they are reflective of ongoing business and operating results.
+
+D. Acquisition-related expenses. NetApp excludes acquisition-related expenses, including (a) due diligence, legal and other one-time integration charges and (b) write down of assets acquired that NetApp does not intend to use in its ongoing business, from its non-GAAP measures, primarily because they are not related to our ongoing business or cost base and, therefore, are less useful for future planning and forecasting.
+
+E. Restructuring charges. These charges consist of restructuring charges that are incurred based on the particular facts and circumstances of restructuring decisions, including employment and contractual settlement terms, and other related charges, and can vary in size and frequency. We therefore exclude them in our assessment of operational performance.
+
+F. Asset impairments. These are non-cash charges to write down assets when there is an indication that the asset has become impaired. Management finds it useful to exclude these non-cash charges due to the unpredictability of these events in its assessment of operational performance.
+
+G. Gains/losses on the sale or derecognition of assets. These are gains/losses from the sale of our properties and other transactions in which we transfer and/or lose control of assets to a third party. This is inclusive of third-party advisory, legal and other costs that result directly from and are essential to a sale transaction and that would not have been incurred had the decision to sell not been made. Management believes that these transactions do not reflect the results of our underlying, ongoing business and, therefore, are less useful for future planning and forecasting.
+
+H. Gains/losses on the sale of investments in equity securities. These are gains/losses from the sale of our investment in certain equity securities. Typically, such investments are sold as a result of a change in control of the underlying businesses. Management believes that these transactions do not reflect the results of our underlying, ongoing business and, therefore, are less useful for future planning and forecasting.
+
+I. Debt extinguishment costs. NetApp excludes certain non-recurring expenses incurred as a result of the early extinguishment of debt. Management believes such non-recurring costs do not reflect the results of its underlying, ongoing business and, therefore, are less useful for future planning and forecasting.
+
+J. Income tax adjustments. NetApps non-GAAP tax provision is based upon a projected annual non-GAAP effective tax rate for the first three quarters of the fiscal year and an actual non-GAAP tax provision for the fourth quarter of the fiscal year. The non-GAAP tax provision also excludes, when applicable, (a) tax charges or benefits in the current period that relate to one or more prior fiscal periods that are a result of events such as changes in tax legislation, authoritative guidance, income tax audit settlements, statute lapses and/or court decisions, (b) tax charges or benefits that are attributable to unusual or non-recurring book and/or tax accounting method changes, (c) tax charges or benefits that are a result of a non-routine foreign cash repatriation, (d) tax charges or benefits that are a result of infrequent restructuring of the Companys tax structure, (e) tax charges or benefits that are a result of a change in valuation allowance, and (f) tax charges or benefits resulting from the integration of intellectual property from acquisitions. Management believes that the use of non-GAAP tax provisions provides a more meaningful measure of the Companys operational performance.
+
+Non-GAAP measures are not in accordance with, or an alternative for, measures prepared in accordance with GAAP, and may be different from non-GAAP measures used by other companies. In addition, non-GAAP measures are not based on any comprehensive set of accounting rules or principles. NetApp believes that non-GAAP measures have limitations in that they do not reflect all of the amounts associated with the Companys results of operations as determined in accordance with GAAP and that these measures should only be used to evaluate the Companys results of operations in conjunction with the corresponding GAAP measures. NetApp management compensates for these limitations by analyzing current and projected results on a GAAP basis as well as a non-GAAP basis. The presentation of non-GAAP financial information is not meant to be considered in isolation or as a substitute for the directly comparable financial measures prepared in accordance with generally accepted accounting principles in the United States. The non-GAAP financial measures are meant to supplement, and be viewed in conjunction with, GAAP financial measures. A detailed reconciliation of our non-GAAP to GAAP results can be found herein.
+
+Constant Currency
+
+In periods in which the impacts of foreign currency exchange rate changes are significant, NetApp presents certain constant currency growth rates or quantifies the impact of foreign currency exchange rate changes on year-over-year fluctuations, including for net revenues, billings, and earnings. This constant currency information assumes the same foreign currency exchange rates that were in effect for the comparable prior-year period were used in translation of the current period results.
+
+About NetApp
+
+NetApp is the intelligent data infrastructure company, combining unified data storage, integrated data services, and CloudOps solutions to turn a world of disruption into opportunity for every customer. NetApp creates silo-free infrastructure, harnessing observability and AI to enable the industrys best data management. As the only enterprise-grade storage service natively embedded in the worlds biggest clouds, our data storage delivers seamless flexibility. In addition, our data services create a data advantage through superior cyber resilience, governance, and application agility. Our CloudOps solutions provide continuous optimization of performance and efficiency through observability and AI. No matter the data type, workload, or environment, with NetApp you can transform your data infrastructure to realize your business possibilities.
+
+Learn more at www.netapp.com or follow us on X, LinkedIn, Facebook, and Instagram.
+
+NETAPP, INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(In millions)
+
+(Unaudited)
+
+January 24, 
+
+2025 
+
+April 26,
+
+2024 
+
+ASSETS 
+
+Current assets: 
+
+Cash, cash equivalents and investments 
+
+$ 
+
+2,261 
+
+$ 
+
+3,252 
+
+Accounts receivable 
+
+898 
+
+1,007 
+
+Inventories 
+
+268 
+
+186 
+
+Other current assets 
+
+481 
+
+452 
+
+Total current assets 
+
+3,908 
+
+4,897 
+
+Property and equipment, net 
+
+567 
+
+604 
+
+Goodwill and purchased intangible assets, net 
+
+2,772 
+
+2,883 
+
+Other non-current assets 
+
+1,742 
+
+1,503 
+
+Total assets 
+
+$ 
+
+8,989 
+
+$ 
+
+9,887 
+
+LIABILITIES AND STOCKHOLDERS' EQUITY 
+
+Current liabilities: 
+
+Accounts payable 
+
+$ 
+
+434 
+
+$ 
+
+517 
+
+Accrued expenses 
+
+941 
+
+1,013 
+
+Current portion of long-term debt 
+
+750 
+
+400 
+
+Short-term deferred revenue and financed unearned services revenue 
+
+2,070 
+
+2,176 
+
+Total current liabilities 
+
+4,195 
+
+4,106 
+
+Long-term debt 
+
+1,244 
+
+1,992 
+
+Other long-term liabilities 
+
+503 
+
+585 
+
+Long-term deferred revenue and financed unearned services revenue 
+
+2,052 
+
+2,058 
+
+Total liabilities 
+
+7,994 
+
+8,741 
+
+Stockholders' equity 
+
+995 
+
+1,146 
+
+Total liabilities and stockholders' equity 
+
+$ 
+
+8,989 
+
+$ 
+
+9,887 
+
+NETAPP, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(In millions, except per share amounts)
+
+(Unaudited)
+
+Three Months Ended 
+
+Nine Months Ended 
+
+January 24, 
+
+2025 
+
+January 26, 
+
+2024 
+
+January 24, 
+
+2025 
+
+January 26, 
+
+2024 
+
+Net revenues: 
+
+Product 
+
+$ 
+
+758 
+
+$ 
+
+747 
+
+$ 
+
+2,195 
+
+$ 
+
+2,043 
+
+Services 
+
+883 
+
+859 
+
+2,645 
+
+2,557 
+
+Net revenues 
+
+1,641 
+
+1,606 
+
+4,840 
+
+4,600 
+
+Cost of revenues: 
+
+Cost of product 
+
+330 
+
+282 
+
+906 
+
+823 
+
+Cost of services 
+
+166 
+
+173 
+
+514 
+
+520 
+
+Total cost of revenues 
+
+496 
+
+455 
+
+1,420 
+
+1,343 
+
+Gross profit 
+
+1,145 
+
+1,151 
+
+3,420 
+
+3,257 
+
+Operating expenses: 
+
+Sales and marketing 
+
+451 
+
+439 
+
+1,407 
+
+1,368 
+
+Research and development 
+
+247 
+
+249 
+
+756 
+
+758 
+
+General and administrative 
+
+74 
+
+81 
+
+226 
+
+230 
+
+Restructuring charges 
+
+9 
+
+13 
+
+38 
+
+44 
+
+Acquisition-related expense 
+
+2 
+
+3 
+
+4 
+
+9 
+
+Total operating expenses 
+
+783 
+
+785 
+
+2,431 
+
+2,409 
+
+Income from operations 
+
+362 
+
+366 
+
+989 
+
+848 
+
+Other income, net 
+
+8 
+
+16 
+
+40 
+
+35 
+
+Income before income taxes 
+
+370 
+
+382 
+
+1,029 
+
+883 
+
+Provision for income taxes 
+
+71 
+
+69 
+
+183 
+
+188 
+
+Net income 
+
+$ 
+
+299 
+
+$ 
+
+313 
+
+$ 
+
+846 
+
+$ 
+
+695 
+
+Net income per share: 
+
+Basic 
+
+$ 
+
+1.47 
+
+$ 
+
+1.52 
+
+$ 
+
+4.13 
+
+$ 
+
+3.33 
+
+Diluted 
+
+$ 
+
+1.44 
+
+$ 
+
+1.48 
+
+$ 
+
+4.03 
+
+$ 
+
+3.26 
+
+Shares used in net income per share calculations: 
+
+Basic 
+
+204 
+
+206 
+
+205 
+
+209 
+
+Diluted 
+
+208 
+
+211 
+
+210 
+
+213 
+
+NETAPP, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(In millions)
+
+(Unaudited)
+
+Three Months Ended 
+
+Nine Months Ended 
+
+January 24, 
+
+2025 
+
+January 26, 
+
+2024 
+
+January 24, 
+
+2025 
+
+January 26, 
+
+2024 
+
+Cash flows from operating activities: 
+
+Net income 
+
+$ 
+
+299 
+
+$ 
+
+313 
+
+$ 
+
+846 
+
+$ 
+
+695 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation and amortization 
+
+64 
+
+63 
+
+190 
+
+191 
+
+Non-cash operating lease cost 
+
+10 
+
+11 
+
+31 
+
+34 
+
+Stock-based compensation 
+
+103 
+
+89 
+
+291 
+
+269 
+
+Deferred income taxes 
+
+(41 
+
+) 
+
+11 
+
+(110 
+
+) 
+
+(2 
+
+)
+
+Other items, net 
+
+(60 
+
+) 
+
+31 
+
+(25 
+
+) 
+
+4 
+
+Changes in assets and liabilities, net of acquisitions of businesses: 
+
+Accounts receivable 
+
+(34 
+
+) 
+
+10 
+
+104 
+
+195 
+
+Inventories 
+
+50 
+
+(9 
+
+) 
+
+(82 
+
+) 
+
+37 
+
+Accounts payable 
+
+(113 
+
+) 
+
+(11 
+
+) 
+
+(77 
+
+) 
+
+3 
+
+Accrued expenses 
+
+(10 
+
+) 
+
+(64 
+
+) 
+
+(94 
+
+) 
+
+(16 
+
+)
+
+Deferred revenue and financed unearned services revenue 
+
+72 
+
+81 
+
+(92 
+
+) 
+
+(160 
+
+)
+
+Long-term taxes payable 
+
+7 
+
+3 
+
+(84 
+
+) 
+
+(107 
+
+)
+
+Changes in other operating assets and liabilities, net 
+
+38 
+
+(44 
+
+) 
+
+(67 
+
+) 
+
+(71 
+
+)
+
+Net cash provided by operating activities 
+
+385 
+
+484 
+
+831 
+
+1,072 
+
+Cash flows from investing activities: 
+
+Redemptions (purchases) of investments, net 
+
+(7 
+
+) 
+
+(401 
+
+) 
+
+590 
+
+(329 
+
+)
+
+Purchases of property and equipment 
+
+(47 
+
+) 
+
+(36 
+
+) 
+
+(133 
+
+) 
+
+(109 
+
+)
+
+Other investing activities, net 
+
+1 
+
+3 
+
+Net cash (used in) provided by investing activities 
+
+(53 
+
+) 
+
+(437 
+
+) 
+
+460 
+
+(438 
+
+)
+
+Cash flows from financing activities: 
+
+Proceeds from issuance of common stock under employee stock award plans 
+
+53 
+
+48 
+
+108 
+
+100 
+
+Payments for taxes related to net share settlement of stock awards 
+
+(36 
+
+) 
+
+(23 
+
+) 
+
+(168 
+
+) 
+
+(108 
+
+)
+
+Repurchase of common stock 
+
+(200 
+
+) 
+
+(100 
+
+) 
+
+(900 
+
+) 
+
+(800 
+
+)
+
+Repayments and extinguishment of debt 
+
+(400 
+
+) 
+
+Dividends paid 
+
+(106 
+
+) 
+
+(103 
+
+) 
+
+(319 
+
+) 
+
+(312 
+
+)
+
+Net cash used in financing activities 
+
+(289 
+
+) 
+
+(178 
+
+) 
+
+(1,679 
+
+) 
+
+(1,120 
+
+)
+
+Effect of exchange rate changes on cash, cash equivalents and restricted cash 
+
+(12 
+
+) 
+
+16 
+
+(3 
+
+) 
+
+(10 
+
+)
+
+Net change in cash, cash equivalents and restricted cash 
+
+31 
+
+(115 
+
+) 
+
+(391 
+
+) 
+
+(496 
+
+)
+
+Cash, cash equivalents and restricted cash: 
+
+Beginning of period 
+
+1,487 
+
+1,941 
+
+1,909 
+
+2,322 
+
+End of period 
+
+$ 
+
+1,518 
+
+$ 
+
+1,826 
+
+$ 
+
+1,518 
+
+$ 
+
+1,826 
+
+NETAPP, INC. 
+
+SUPPLEMENTAL DATA 
+
+(In millions except net income per share, percentages, DSO, DPO and Inventory Turns) 
+
+(Unaudited) 
+
+Revenues by Segment 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+Product 
+
+$ 
+
+758 
+
+$ 
+
+768 
+
+$ 
+
+747 
+
+Support 
+
+621 
+
+635 
+
+631 
+
+Professional and Other Services 
+
+88 
+
+87 
+
+77 
+
+Hybrid Cloud Segment Net Revenues 
+
+1,467 
+
+1,490 
+
+1,455 
+
+Public Cloud Segment Net Revenues 
+
+174 
+
+168 
+
+151 
+
+Net Revenues 
+
+$ 
+
+1,641 
+
+$ 
+
+1,658 
+
+$ 
+
+1,606 
+
+Gross Profit by Segment 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+Product 
+
+$ 
+
+430 
+
+$ 
+
+463 
+
+$ 
+
+467 
+
+Support 
+
+573 
+
+584 
+
+582 
+
+Professional and Other Services 
+
+25 
+
+23 
+
+19 
+
+Hybrid Cloud Segment Gross Profit 
+
+1,028 
+
+1,070 
+
+1,068 
+
+Public Cloud Segment Gross Profit 
+
+133 
+
+124 
+
+99 
+
+Total Segments Gross Profit 
+
+1,161 
+
+1,194 
+
+1,167 
+
+Amortization of Intangible Assets 
+
+(8 
+
+) 
+
+(9 
+
+) 
+
+(9 
+
+)
+
+Stock-based Compensation 
+
+(8 
+
+) 
+
+(8 
+
+) 
+
+(7 
+
+)
+
+Unallocated Cost of Revenues 
+
+(16 
+
+) 
+
+(17 
+
+) 
+
+(16 
+
+)
+
+Gross Profit 
+
+$ 
+
+1,145 
+
+$ 
+
+1,177 
+
+$ 
+
+1,151 
+
+Gross Margin by Segment 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+Product 
+
+56.7 
+
+% 
+
+60.3 
+
+% 
+
+62.5 
+
+%
+
+Support 
+
+92.3 
+
+% 
+
+92.0 
+
+% 
+
+92.2 
+
+%
+
+Professional and Other Services 
+
+28.4 
+
+% 
+
+26.4 
+
+% 
+
+24.7 
+
+%
+
+Hybrid Cloud Segment Gross Margin 
+
+70.1 
+
+% 
+
+71.8 
+
+% 
+
+73.4 
+
+%
+
+Public Cloud Segment Gross Margin 
+
+76.4 
+
+% 
+
+73.8 
+
+% 
+
+65.6 
+
+%
+
+Geographic Mix 
+
+% of Q3 FY'25 
+
+% of Q2 FY'25 
+
+% of Q3 FY'24 
+
+Revenue 
+
+Revenue 
+
+Revenue 
+
+Americas 
+
+51 
+
+% 
+
+52 
+
+% 
+
+50 
+
+%
+
+Americas Commercial 
+
+41 
+
+% 
+
+38 
+
+% 
+
+41 
+
+%
+
+U.S. Public Sector 
+
+10 
+
+% 
+
+14 
+
+% 
+
+9 
+
+%
+
+EMEA 
+
+34 
+
+% 
+
+33 
+
+% 
+
+35 
+
+%
+
+Asia Pacific 
+
+15 
+
+% 
+
+15 
+
+% 
+
+15 
+
+%
+
+Pathways Mix 
+
+% of Q3 FY'25 
+
+% of Q2 FY'25 
+
+% of Q3 FY'24 
+
+Revenue 
+
+Revenue 
+
+Revenue 
+
+Direct 
+
+21 
+
+% 
+
+23 
+
+% 
+
+26 
+
+%
+
+Indirect 
+
+79 
+
+% 
+
+77 
+
+% 
+
+74 
+
+%
+
+Non-GAAP Income from Operations, Income before Income Taxes & Effective Tax Rate 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+Non-GAAP Income from Operations 
+
+$ 
+
+492 
+
+$ 
+
+475 
+
+$ 
+
+485 
+
+% of Net Revenues 
+
+30.0 
+
+% 
+
+28.6 
+
+% 
+
+30.2 
+
+%
+
+Non-GAAP Income before Income Taxes 
+
+$ 
+
+500 
+
+$ 
+
+493 
+
+$ 
+
+501 
+
+Non-GAAP Effective Tax Rate 
+
+20.6 
+
+% 
+
+20.5 
+
+% 
+
+18.2 
+
+%
+
+Non-GAAP Net Income 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+Non-GAAP Net Income 
+
+$ 
+
+397 
+
+$ 
+
+392 
+
+$ 
+
+410 
+
+Non-GAAP Weighted Average Common Shares Outstanding, Diluted 
+
+208 
+
+210 
+
+211 
+
+Non-GAAP Net Income per Share, Diluted 
+
+$ 
+
+1.91 
+
+$ 
+
+1.87 
+
+$ 
+
+1.94 
+
+Select Balance Sheet Items 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+Deferred Revenue and Financed Unearned Services Revenue 
+
+$ 
+
+4,122 
+
+$ 
+
+4,100 
+
+$ 
+
+4,127 
+
+DSO (days) 
+
+50 
+
+48 
+
+45 
+
+DPO (days) 
+
+80 
+
+105 
+
+79 
+
+Inventory Turns 
+
+7 
+
+6 
+
+14 
+
+Days sales outstanding (DSO) is defined as accounts receivable divided by net revenues, multiplied by the number of days in the quarter. 
+
+Days payables outstanding (DPO) is defined as accounts payable divided by cost of revenues, multiplied by the number of days in the quarter. 
+
+Inventory turns is defined as annualized cost of revenues divided by net inventories. 
+
+Select Cash Flow Statement Items 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+Net Cash Provided by Operating Activities 
+
+$ 
+
+385 
+
+$ 
+
+105 
+
+$ 
+
+484 
+
+Purchases of Property and Equipment 
+
+$ 
+
+47 
+
+$ 
+
+45 
+
+$ 
+
+36 
+
+Free Cash Flow 
+
+$ 
+
+338 
+
+$ 
+
+60 
+
+$ 
+
+448 
+
+Free Cash Flow as % of Net Revenues 
+
+20.6 
+
+% 
+
+3.6 
+
+% 
+
+27.9 
+
+%
+
+Free cash flow is a non-GAAP measure and is defined as net cash provided by operating activities less purchases of property and equipment. 
+
+Some items may not add or recalculate due to rounding. 
+
+NETAPP, INC. 
+
+RECONCILIATION OF GAAP TO NON-GAAP 
+
+INCOME STATEMENT INFORMATION 
+
+(In millions, except net income per share amounts) 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+NET INCOME 
+
+$ 
+
+299 
+
+$ 
+
+299 
+
+$ 
+
+313 
+
+Adjustments: 
+
+Amortization of intangible assets 
+
+13 
+
+14 
+
+14 
+
+Stock-based compensation 
+
+103 
+
+103 
+
+89 
+
+Restructuring charges 
+
+9 
+
+12 
+
+13 
+
+Acquisition-related expense 
+
+2 
+
+1 
+
+3 
+
+Gains/losses on the sale or derecognition of assets 
+
+3 
+
+3 
+
+Income tax effects 
+
+(32 
+
+) 
+
+(40 
+
+) 
+
+(22 
+
+)
+
+NON-GAAP NET INCOME 
+
+$ 
+
+397 
+
+$ 
+
+392 
+
+$ 
+
+410 
+
+COST OF REVENUES 
+
+$ 
+
+496 
+
+$ 
+
+481 
+
+$ 
+
+455 
+
+Adjustments: 
+
+Amortization of intangible assets 
+
+(8 
+
+) 
+
+(9 
+
+) 
+
+(9 
+
+)
+
+Stock-based compensation 
+
+(8 
+
+) 
+
+(8 
+
+) 
+
+(7 
+
+)
+
+NON-GAAP COST OF REVENUES 
+
+$ 
+
+480 
+
+$ 
+
+464 
+
+$ 
+
+439 
+
+COST OF PRODUCT REVENUES 
+
+$ 
+
+330 
+
+$ 
+
+307 
+
+$ 
+
+282 
+
+Adjustments: 
+
+Stock-based compensation 
+
+(2 
+
+) 
+
+(2 
+
+) 
+
+(2 
+
+)
+
+NON-GAAP COST OF PRODUCT REVENUES 
+
+$ 
+
+328 
+
+$ 
+
+305 
+
+$ 
+
+280 
+
+COST OF SERVICES REVENUES 
+
+$ 
+
+166 
+
+$ 
+
+174 
+
+$ 
+
+173 
+
+Adjustments: 
+
+Amortization of intangible assets 
+
+(8 
+
+) 
+
+(9 
+
+) 
+
+(9 
+
+)
+
+Stock-based compensation 
+
+(6 
+
+) 
+
+(6 
+
+) 
+
+(5 
+
+)
+
+NON-GAAP COST OF SERVICES REVENUES 
+
+$ 
+
+152 
+
+$ 
+
+159 
+
+$ 
+
+159 
+
+GROSS PROFIT 
+
+$ 
+
+1,145 
+
+$ 
+
+1,177 
+
+$ 
+
+1,151 
+
+Adjustments: 
+
+Amortization of intangible assets 
+
+8 
+
+9 
+
+9 
+
+Stock-based compensation 
+
+8 
+
+8 
+
+7 
+
+NON-GAAP GROSS PROFIT 
+
+$ 
+
+1,161 
+
+$ 
+
+1,194 
+
+$ 
+
+1,167 
+
+NETAPP, INC. 
+
+RECONCILIATION OF GAAP TO NON-GAAP 
+
+INCOME STATEMENT INFORMATION 
+
+(In millions, except net income per share amounts) 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+SALES AND MARKETING EXPENSES 
+
+$ 
+
+451 
+
+$ 
+
+485 
+
+$ 
+
+439 
+
+Adjustments: 
+
+Amortization of intangible assets 
+
+(5 
+
+) 
+
+(5 
+
+) 
+
+(5 
+
+)
+
+Stock-based compensation 
+
+(44 
+
+) 
+
+(43 
+
+) 
+
+(36 
+
+)
+
+NON-GAAP SALES AND MARKETING EXPENSES 
+
+$ 
+
+402 
+
+$ 
+
+437 
+
+$ 
+
+398 
+
+RESEARCH AND DEVELOPMENT EXPENSES 
+
+$ 
+
+247 
+
+$ 
+
+257 
+
+$ 
+
+249 
+
+Adjustments: 
+
+Stock-based compensation 
+
+(36 
+
+) 
+
+(37 
+
+) 
+
+(32 
+
+)
+
+NON-GAAP RESEARCH AND DEVELOPMENT EXPENSES 
+
+$ 
+
+211 
+
+$ 
+
+220 
+
+$ 
+
+217 
+
+GENERAL AND ADMINISTRATIVE EXPENSES 
+
+$ 
+
+74 
+
+$ 
+
+77 
+
+$ 
+
+81 
+
+Adjustments: 
+
+Stock-based compensation 
+
+(15 
+
+) 
+
+(15 
+
+) 
+
+(14 
+
+)
+
+Gains/losses on the sale or derecognition of assets 
+
+(3 
+
+) 
+
+NON-GAAP GENERAL AND ADMINISTRATIVE EXPENSES 
+
+$ 
+
+56 
+
+$ 
+
+62 
+
+$ 
+
+67 
+
+RESTRUCTURING CHARGES 
+
+$ 
+
+9 
+
+$ 
+
+12 
+
+$ 
+
+13 
+
+Adjustments: 
+
+Restructuring charges 
+
+(9 
+
+) 
+
+(12 
+
+) 
+
+(13 
+
+)
+
+NON-GAAP RESTRUCTURING CHARGES 
+
+$ 
+
+$ 
+
+$ 
+
+ACQUISITION-RELATED EXPENSE 
+
+$ 
+
+2 
+
+$ 
+
+1 
+
+$ 
+
+3 
+
+Adjustments: 
+
+Acquisition-related expense 
+
+(2 
+
+) 
+
+(1 
+
+) 
+
+(3 
+
+)
+
+NON-GAAP ACQUISITION-RELATED EXPENSE 
+
+$ 
+
+$ 
+
+$ 
+
+OPERATING EXPENSES 
+
+$ 
+
+783 
+
+$ 
+
+832 
+
+$ 
+
+785 
+
+Adjustments: 
+
+Amortization of intangible assets 
+
+(5 
+
+) 
+
+(5 
+
+) 
+
+(5 
+
+)
+
+Stock-based compensation 
+
+(95 
+
+) 
+
+(95 
+
+) 
+
+(82 
+
+)
+
+Restructuring charges 
+
+(9 
+
+) 
+
+(12 
+
+) 
+
+(13 
+
+)
+
+Acquisition-related expense 
+
+(2 
+
+) 
+
+(1 
+
+) 
+
+(3 
+
+)
+
+Gains/losses on the sale or derecognition of assets 
+
+(3 
+
+) 
+
+NON-GAAP OPERATING EXPENSES 
+
+$ 
+
+669 
+
+$ 
+
+719 
+
+$ 
+
+682 
+
+NETAPP, INC. 
+
+RECONCILIATION OF GAAP TO NON-GAAP 
+
+INCOME STATEMENT INFORMATION 
+
+(In millions, except net income per share amounts) 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+INCOME FROM OPERATIONS 
+
+$ 
+
+362 
+
+$ 
+
+345 
+
+$ 
+
+366 
+
+Adjustments: 
+
+Amortization of intangible assets 
+
+13 
+
+14 
+
+14 
+
+Stock-based compensation 
+
+103 
+
+103 
+
+89 
+
+Restructuring charges 
+
+9 
+
+12 
+
+13 
+
+Acquisition-related expense 
+
+2 
+
+1 
+
+3 
+
+Gains/losses on the sale or derecognition of assets 
+
+3 
+
+NON-GAAP INCOME FROM OPERATIONS 
+
+$ 
+
+492 
+
+$ 
+
+475 
+
+$ 
+
+485 
+
+OTHER INCOME, NET 
+
+$ 
+
+8 
+
+$ 
+
+15 
+
+$ 
+
+16 
+
+Adjustments: 
+
+Gains/losses on the sale or derecognition of assets 
+
+3 
+
+NON-GAAP OTHER INCOME, NET 
+
+$ 
+
+8 
+
+$ 
+
+18 
+
+$ 
+
+16 
+
+INCOME BEFORE INCOME TAXES 
+
+$ 
+
+370 
+
+$ 
+
+360 
+
+$ 
+
+382 
+
+Adjustments: 
+
+Amortization of intangible assets 
+
+13 
+
+14 
+
+14 
+
+Stock-based compensation 
+
+103 
+
+103 
+
+89 
+
+Restructuring charges 
+
+9 
+
+12 
+
+13 
+
+Acquisition-related expense 
+
+2 
+
+1 
+
+3 
+
+Gains/losses on the sale or derecognition of assets 
+
+3 
+
+3 
+
+NON-GAAP INCOME BEFORE INCOME TAXES 
+
+$ 
+
+500 
+
+$ 
+
+493 
+
+$ 
+
+501 
+
+PROVISION FOR INCOME TAXES 
+
+$ 
+
+71 
+
+$ 
+
+61 
+
+$ 
+
+69 
+
+Adjustments: 
+
+Income tax effects 
+
+32 
+
+40 
+
+22 
+
+NON-GAAP PROVISION FOR INCOME TAXES 
+
+$ 
+
+103 
+
+$ 
+
+101 
+
+$ 
+
+91 
+
+NET INCOME PER SHARE 
+
+$ 
+
+1.44 
+
+$ 
+
+1.42 
+
+$ 
+
+1.48 
+
+Adjustments: 
+
+Amortization of intangible assets 
+
+0.06 
+
+0.07 
+
+0.07 
+
+Stock-based compensation 
+
+0.50 
+
+0.49 
+
+0.42 
+
+Restructuring charges 
+
+0.04 
+
+0.06 
+
+0.06 
+
+Acquisition-related expense 
+
+0.01 
+
+0.01 
+
+Gains/losses on the sale or derecognition of assets 
+
+0.01 
+
+0.01 
+
+Income tax effects 
+
+(0.15 
+
+) 
+
+(0.19 
+
+) 
+
+(0.10 
+
+)
+
+NON-GAAP NET INCOME PER SHARE 
+
+$ 
+
+1.91 
+
+$ 
+
+1.87 
+
+$ 
+
+1.94 
+
+RECONCILIATION OF GAAP TO NON-GAAP 
+
+GROSS MARGIN 
+
+($ in millions) 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+Gross margin-GAAP 
+
+69.8 
+
+% 
+
+71.0 
+
+% 
+
+71.7 
+
+%
+
+Cost of revenues adjustments 
+
+0.9 
+
+% 
+
+1.0 
+
+% 
+
+1.0 
+
+%
+
+Gross margin-Non-GAAP 
+
+70.7 
+
+% 
+
+72.0 
+
+% 
+
+72.7 
+
+%
+
+GAAP cost of revenues 
+
+$ 
+
+496 
+
+$ 
+
+481 
+
+$ 
+
+455 
+
+Cost of revenues adjustments: 
+
+Amortization of intangible assets 
+
+(8 
+
+) 
+
+(9 
+
+) 
+
+(9 
+
+)
+
+Stock-based compensation 
+
+(8 
+
+) 
+
+(8 
+
+) 
+
+(7 
+
+)
+
+Non-GAAP cost of revenues 
+
+$ 
+
+480 
+
+$ 
+
+464 
+
+$ 
+
+439 
+
+Net revenues 
+
+$ 
+
+1,641 
+
+$ 
+
+1,658 
+
+$ 
+
+1,606 
+
+RECONCILIATION OF GAAP TO NON-GAAP 
+
+PRODUCT GROSS MARGIN 
+
+($ in millions) 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+Product gross margin-GAAP 
+
+56.5 
+
+% 
+
+60.0 
+
+% 
+
+62.2 
+
+%
+
+Cost of product revenues adjustments 
+
+0.2 
+
+% 
+
+0.3 
+
+% 
+
+0.3 
+
+%
+
+Product gross margin-Non-GAAP 
+
+56.7 
+
+% 
+
+60.3 
+
+% 
+
+62.5 
+
+%
+
+GAAP cost of product revenues 
+
+$ 
+
+330 
+
+$ 
+
+307 
+
+$ 
+
+282 
+
+Cost of product revenues adjustments: 
+
+Stock-based compensation 
+
+(2 
+
+) 
+
+(2 
+
+) 
+
+(2 
+
+)
+
+Non-GAAP cost of product revenues 
+
+$ 
+
+328 
+
+$ 
+
+305 
+
+$ 
+
+280 
+
+Product revenues 
+
+$ 
+
+758 
+
+$ 
+
+768 
+
+$ 
+
+747 
+
+RECONCILIATION OF GAAP TO NON-GAAP 
+
+SERVICES GROSS MARGIN 
+
+($ in millions) 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+Services gross margin-GAAP 
+
+81.2 
+
+% 
+
+80.4 
+
+% 
+
+79.9 
+
+%
+
+Cost of services revenues adjustments 
+
+1.6 
+
+% 
+
+1.7 
+
+% 
+
+1.6 
+
+%
+
+Services gross margin-Non-GAAP 
+
+82.8 
+
+% 
+
+82.1 
+
+% 
+
+81.5 
+
+%
+
+GAAP cost of services revenues 
+
+$ 
+
+166 
+
+$ 
+
+174 
+
+$ 
+
+173 
+
+Cost of services revenues adjustments: 
+
+Amortization of intangible assets 
+
+(8 
+
+) 
+
+(9 
+
+) 
+
+(9 
+
+)
+
+Stock-based compensation 
+
+(6 
+
+) 
+
+(6 
+
+) 
+
+(5 
+
+)
+
+Non-GAAP cost of services revenues 
+
+$ 
+
+152 
+
+$ 
+
+159 
+
+$ 
+
+159 
+
+Services revenues 
+
+$ 
+
+883 
+
+$ 
+
+890 
+
+$ 
+
+859 
+
+RECONCILIATION OF GAAP TO NON-GAAP 
+
+OPERATING MARGIN 
+
+($ in millions) 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+Operating margin-GAAP 
+
+22.1 
+
+% 
+
+20.8 
+
+% 
+
+22.8 
+
+%
+
+Adjustments: 
+
+7.9 
+
+% 
+
+7.8 
+
+% 
+
+7.4 
+
+%
+
+Operating margin-Non-GAAP 
+
+30.0 
+
+% 
+
+28.6 
+
+% 
+
+30.2 
+
+%
+
+GAAP income from operations 
+
+$ 
+
+362 
+
+$ 
+
+345 
+
+$ 
+
+366 
+
+Income from operations adjustments: 
+
+Amortization of intangible assets 
+
+13 
+
+14 
+
+14 
+
+Stock-based compensation 
+
+103 
+
+103 
+
+89 
+
+Restructuring charges 
+
+9 
+
+12 
+
+13 
+
+Acquisition-related expense 
+
+2 
+
+1 
+
+3 
+
+Gains/losses on the sale or derecognition of assets 
+
+3 
+
+Non-GAAP income from operations 
+
+$ 
+
+492 
+
+$ 
+
+475 
+
+$ 
+
+485 
+
+Net revenues 
+
+$ 
+
+1,641 
+
+$ 
+
+1,658 
+
+$ 
+
+1,606 
+
+RECONCILIATION OF GAAP TO NON-GAAP 
+
+EFFECTIVE TAX RATE 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+GAAP effective tax rate 
+
+19.2 
+
+% 
+
+16.9 
+
+% 
+
+18.1 
+
+%
+
+Adjustments: 
+
+Income tax effects 
+
+1.4 
+
+% 
+
+3.6 
+
+% 
+
+0.1 
+
+%
+
+Non-GAAP effective tax rate 
+
+20.6 
+
+% 
+
+20.5 
+
+% 
+
+18.2 
+
+%
+
+RECONCILIATION OF NET CASH PROVIDED BY OPERATING ACTIVITIES 
+
+TO FREE CASH FLOW (NON-GAAP) 
+
+(In millions) 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+Net cash provided by operating activities 
+
+$ 
+
+385 
+
+$ 
+
+105 
+
+$ 
+
+484 
+
+Purchases of property and equipment 
+
+(47 
+
+) 
+
+(45 
+
+) 
+
+(36 
+
+)
+
+Free cash flow 
+
+$ 
+
+338 
+
+$ 
+
+60 
+
+$ 
+
+448 
+
+RECONCILIATION OF NET REVENUES 
+
+TO BILLINGS (NON-GAAP) 
+
+(In millions) 
+
+Q3'FY25 
+
+Q2'FY25 
+
+Q3'FY24 
+
+Net revenues 
+
+$ 
+
+1,641 
+
+$ 
+
+1,658 
+
+$ 
+
+1,606 
+
+Change in deferred revenue and financed unearned services revenue* 
+
+72 
+
+(72 
+
+) 
+
+81 
+
+Billings 
+
+$ 
+
+1,713 
+
+$ 
+
+1,586 
+
+$ 
+
+1,687 
+
+* As reported on our Condensed Consolidated Statements of Cash Flows 
+
+NETAPP, INC.
+
+RECONCILIATION OF GAAP GUIDANCE TO NON-GAAP
+
+EXPRESSED AS EARNINGS PER SHARE
+
+FOURTH QUARTER FISCAL 2025
+
+Fourth Quarter
+
+Fiscal 2025
+
+GAAP Guidance - Net Income Per Share 
+
+$1.45 - $1.55
+
+Adjustments of Specific Items to Net Income 
+
+Per Share for the Fourth Quarter Fiscal 2025: 
+
+Amortization of intangible assets 
+
+$0.03
+
+Stock-based compensation expense 
+
+$0.48
+
+Income tax effects 
+
+($0.12)
+
+Total Adjustments 
+
+$0.39
+
+Non-GAAP Guidance - Net Income Per Share 
+
+$1.84 - $1.94
+
+Some items may not add or recalculate due to rounding.
+
+NETAPP, INC.
+
+RECONCILIATION OF GAAP GUIDANCE TO NON-GAAP
+
+Fiscal 2025
+
+Fiscal 2025
+
+Gross Margin - GAAP Guidance 
+
+~70%
+
+Adjustment: 
+
+Cost of revenues adjustments 
+
+1%
+
+Gross Margin - Non-GAAP Guidance 
+
+~71%
+
+Fiscal 2025
+
+Operating Margin - GAAP Guidance 
+
+20% - 20.5%
+
+Adjustments: 
+
+Amortization of intangible assets 
+
+1%
+
+Stock-based compensation expense 
+
+6%
+
+Restructuring charges 
+
+1%
+
+Operating Margin - Non-GAAP Guidance 
+
+28% - 28.5%
+
+Some items may not add or recalculate due to rounding.
+
+NETAPP, INC.
+
+RECONCILIATION OF GAAP GUIDANCE TO NON-GAAP
+
+EXPRESSED AS EARNINGS PER SHARE
+
+Fiscal 2025
+
+Fiscal 2025
+
+GAAP Guidance - Net Income Per Share 
+
+$5.49 - $5.59
+
+Adjustments of Specific Items to Net Income 
+
+Per Share for Fiscal 2025: 
+
+Amortization of intangible assets 
+
+$0.22
+
+Stock-based compensation expense 
+
+$1.86
+
+Restructuring charges 
+
+$0.18
+
+Acquisition-related expenses 
+
+$0.02
+
+Gains/losses on the sale or derecognition of assets 
+
+$0.03
+
+Income tax effects 
+
+($0.63)
+
+Total Adjustments 
+
+$1.68
+
+Non-GAAP Guidance - Net Income Per Share 
+
+$7.17 - $7.27
+
+Some items may not add or recalculate due to rounding.
+
+Contacts:
+
+(Press)
+
+Kenya Hayes
+
+1 703 589 7595
+
+kenya.hayes@netapp.com
+
+(Investors)
+
+Kris Newton
+
+1 408 822 3312
+
+kris.newton@netapp.com
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>ntap-20250227.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT
+<TEXT>
+100000 - Document - Document And Entity Information 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink 
+
+Cover [Abstract] 
+Amendment Flag 
+City Area Code 
+Document Period End Date 
+Document Type 
+Entity Address, Address Line One 
+Entity Address, City or Town 
+Entity Address, Postal Zip Code 
+Entity Address, State or Province 
+Entity Central Index Key 
+Entity Emerging Growth Company 
+Entity File Number 
+Entity Incorporation, State or Country Code 
+Entity Registrant Name 
+Entity Tax Identification Number 
+Local Phone Number 
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Tender Offer 
+Title of 12(b) Security 
+Security Exchange Name 
+Soliciting Material 
+Trading Symbol 
+Written Communications
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>5
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Document And Entity Information
+
+Feb. 27, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Feb. 27, 2025
+
+Entity Registrant Name NetApp, Inc.
+
+Entity Central Index Key 0001002047
+
+Entity Emerging Growth Company false
+
+Entity File Number 0-27130
+
+Entity Incorporation, State or Country Code DE
+
+Entity Tax Identification Number 77-0307520
+
+Entity Address, Address Line One 3060 Olsen Drive
+
+Entity Address, City or Town San Jose
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 95128
+
+City Area Code (408)
+
+Local Phone Number 822-6000
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, $0.001 Par Value
+
+Trading Symbol NTAP
+
+Security Exchange Name NASDAQ
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>6
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+100000 - Document - Document And Entity Information 
+Sheet 
+http://www.netapp.com/20250227/taxonomy/role/DocumentDocumentAndEntityInformation 
+Document And Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+ntap-20250227.htm 
+ntap-20250227.xsd 
+
+http://xbrl.sec.gov/dei/2024 
+
+false 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>12
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>13
+<FILENAME>0000950170-25-029022-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>ntap-20250227_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001002047 
+
+2025-02-27 
+2025-02-27 
+
+0001002047 
+false 
+8-K 
+2025-02-27 
+NetApp, Inc. 
+DE 
+0-27130 
+77-0307520 
+3060 Olsen Drive 
+San Jose 
+CA 
+95128 
+(408) 
+822-6000 
+false 
+false 
+false 
+false 
+Common Stock, $0.001 Par Value 
+NTAP 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

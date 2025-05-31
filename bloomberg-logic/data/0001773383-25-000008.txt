@@ -1,0 +1,1934 @@
+<SEC-DOCUMENT>0001773383-25-000008.txt : 20250130
+<SEC-HEADER>0001773383-25-000008.hdr.sgml : 20250130
+<ACCEPTANCE-DATETIME>20250130063303
+ACCESSION NUMBER:		0001773383-25-000008
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		18
+CONFORMED PERIOD OF REPORT:	20250130
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250130
+DATE AS OF CHANGE:		20250130
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Dynatrace, Inc.
+		CENTRAL INDEX KEY:			0001773383
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39010
+		FILM NUMBER:		25571089
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1601 TRAPELO ROAD, SUITE 116
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+		BUSINESS PHONE:		781-530-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		1601 TRAPELO ROAD, SUITE 116
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Dynatrace Holdings LLC
+		DATE OF NAME CHANGE:	20190410
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>dt-20250130.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?dt-20250130
+
+0001773383false00017733832025-01-302025-01-30
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 30, 2025
+
+DYNATRACE, INC.
+
+(Exact name of Registrant as specified in its charter)
+
+Delaware 
+
+001-39010 
+
+47-2386428
+
+(State or other jurisdiction of
+
+incorporation) 
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+1601 Trapelo Road, Suite 116 
+
+Waltham, Massachusetts 02451
+
+(Address of principal executive offices) 
+
+(Zip Code)
+
+(781) 530-1000
+
+Registrant's telephone number, including area code
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions (see General Instruction A.2. below):
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Common Stock, par value $0.001 per share DT New York Stock Exchange
+
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 2.02. Results of Operations and Financial Conditions.
+
+On January 30, 2025, Dynatrace, Inc. (the "Company") issued a press release announcing, and will hold a conference call to discuss, the Company's financial results and other information for the fiscal quarter ended December 31, 2024. The full text of the press release is furnished as Exhibit 99.1 to this report and incorporated into this Item 2.02 by reference.
+
+The information in this Item 2.02 of this Report on Form 8-K and Exhibits 99.1 and 99.2 attached hereto is intended to be furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+Item 9.01. Financial Statements and Exhibits. 
+
+(d) Exhibits 
+
+Exhibit
+
+No. Description
+
+99.1 
+
+Press Release issued by Dynatrace, Inc. dated January 30, 2025
+
+99.2 
+
+Dynatrace Investor Presentation Q3 FY25 Total ARR Expansion Trends
+
+104 Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: January 30, 2025 DYNATRACE, INC. 
+
+By: /s/ James Benson 
+
+Name: James Benson 
+
+Title: Executive Vice President, Chief Financial Officer & Treasurer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>fy25q3-earningsreleaseex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+EXHIBIT 99.1
+
+Dynatrace Reports Third Quarter Fiscal Year 2025 Financial Results
+
+Delivers ARR growth of 18% year-over-year on a constant currency basis
+
+Subscription Revenue growth of 21% on a constant currency basis
+
+Achieves GAAP Operating Margin of 11% and Non-GAAP Operating Margin of 30% 
+
+WALTHAM, Mass., January 30, 2025 - Dynatrace (NYSE: DT) today announced financial results for the third quarter of fiscal 2025 ended December 31, 2024. 
+
+"Our third quarter results exceeded guidance across all key operating metrics," said Rick McConnell, Chief Executive Officer of Dynatrace. "The explosion of data, along with its complexity, combined with the unprecedented requirements for speed and scale, are making modern digital ecosystems unmanageable. In a world where generative and now agentic AI workloads are ramping, the observability market has become mission critical for organizations to ensure high business resiliency and deliver exceptional customer experiences. Our leading AI-powered observability platform, combined with our ongoing innovation, provide us with a powerful advantage to capture the opportunity ahead."
+
+Third Quarter Fiscal 2025 Financial and Other Recent Business Highlights:
+
+All growth rates are compared to the third quarter of fiscal 2024, unless otherwise noted.
+
+Financial Highlights:
+
+ARR of $1,647 million, an increase of 16%, or 18% on a constant currency basis 
+
+Total Revenue of $436 million, an increase of 19%, or 20% on a constant currency basis
+
+Subscription Revenue of $417 million, an increase of 20%, or 21% on a constant currency basis
+
+GAAP Income from Operations of $47 million and Non-GAAP Income from Operations of $131 million 
+
+GAAP EPS of $1.191 and Non-GAAP EPS of $0.37, both on a dilutive basis
+
+Business Highlights:
+
+Industry recognition: Dynatrace received the following recognitions by third-party industry analysts:
+
+Named a Leader in both the Cloud-Native Observability and Security Quadrants in the 2024 ISG Provider Lens, Multi Public Cloud Solutions Report, for competitive strength and portfolio attractiveness. 
+
+Recognized as a Leader in the inaugural 2024 GigaOm Radar Report for Kubernetes Observability.
+
+Partner evolution: Dynatrace was named the 2024 AWS EMEA technology partner of the year for helping customers innovate faster, reduce costs and be more agile through cloud migration and modernization programs. In addition, Dynatrace became a member of the Microsoft Intelligent Security Association (MISA) based on our powerful integration with Microsofts SIEM solution, Microsoft Sentinel.
+
+Sustainability progress: We published our second annual Sustainability Report, which discusses our progress on environmental, social, and governance topics that are important to Dynatrace stakeholders. The report is posted on our website at www.dynatrace.com/company/sustainability/ and highlights third party limited assurance/verification of our fiscal year 2024 greenhouse gas emissions data, our new Global Inclusion Council, AI-related governance developments, and more.
+
+Share Repurchase Program
+
+During the third quarter, Dynatrace spent $40 million to repurchase 732,000 shares at an average price of $54.64 under its $500 million share repurchase program. From the inception of the program in May 2024 through December 31, 2024, Dynatrace has repurchased 2.7 million shares for $130 million at an average price of $48.89. 
+
+1During the third quarter, Dynatrace completed an intra-entity asset transfer of the global economic rights of intellectual property (IP) from a wholly-owned U.S. subsidiary to a wholly-owned Swiss subsidiary, more closely aligning IP rights with business operations. The transfer generated an income tax benefit of $320.9 million, or $1.06 per share on a dilutive basis.
+
+1
+
+Third Quarter 2025 Financial Highlights
+
+(Unaudited In thousands, except per share data)
+
+Three Months Ended December 31, 
+
+2024 2023 
+
+Key Operating Metric: 
+
+Annual recurring revenue (ARR) $ 1,647,412 $ 1,425,284 
+
+Year-over-Year Increase 16 % 
+
+Year-over-Year Increase - constant currency (*) 18 % 
+
+Revenue: 
+
+Total revenue $ 436,169 $ 365,096 
+
+Year-over-Year Increase 19 % 
+
+Year-over-Year Increase - constant currency (*) 20 % 
+
+Subscription revenue $ 417,207 $ 348,294 
+
+Year-over-Year Increase 20 % 
+
+Year-over-Year Increase - constant currency (*) 21 % 
+
+GAAP Financial Measures: 
+
+GAAP income from operations $ 47,464 $ 35,720 
+
+GAAP operating margin 11 % 10 % 
+
+GAAP net income (**) $ 361,752 $ 42,691 
+
+GAAP net income per share - diluted (**) $ 1.19 $ 0.14 
+
+GAAP shares outstanding - diluted 303,467 299,246 
+
+Net cash provided by operating activities $ 42,238 $ 75,657 
+
+Non-GAAP Financial Measures (*): 
+
+Non-GAAP income from operations $ 130,734 $ 104,636 
+
+Non-GAAP operating margin 30 % 29 % 
+
+Non-GAAP net income $ 111,679 $ 96,184 
+
+Non-GAAP net income per share - diluted $ 0.37 $ 0.32 
+
+Non-GAAP shares outstanding - diluted 303,467 299,246 
+
+Free cash flow $ 37,569 $ 67,357 
+
+* For additional information, please see the "Non-GAAP Financial Measures" and "Definitions - Non-GAAP and Other Metrics" sections of this press release.
+
+** For additional information, please see note 1 of this press release.
+
+2
+
+Financial Outlook
+
+Based on information available as of January 30, 2025, Dynatrace is issuing guidance for the fourth quarter and increasing its previous guidance for full year fiscal 2025 in the table below. 
+
+This guidance reflects foreign exchange rates as of December 31, 2024. We now expect foreign exchange to be a headwind of approximately $38 million on ARR and approximately $17 million on revenue for fiscal 2025 compared to ARR and revenue at constant currency. Given recent strengthening of the U.S. dollar, this represents an incremental headwind of approximately $28 million to ARR and $10 million to revenue. This guidance also excludes the impact of any share repurchases during the fourth quarter of fiscal 2025. 
+
+Growth rates for ARR, Total revenue, and Subscription revenue are presented in constant currency to provide better visibility into the underlying growth of the business.
+
+All growth rates below are compared to the fourth quarter and full year of fiscal 2024.
+
+(In millions, except per share data) Q4 Fiscal 2025 Guidance 
+
+Total revenue 
+
+$432 - $437 
+
+As reported 
+
+13% - 15% 
+
+Constant currency 
+
+16% - 17% 
+
+Subscription revenue 
+
+$410 - $415 
+
+As reported 
+
+14% - 15% 
+
+Constant currency 
+
+17% - 18% 
+
+Non-GAAP income from operations 
+
+$104 - $110 
+
+Non-GAAP operating margin 
+
+24% - 25% 
+
+Non-GAAP net income 
+
+$88 - $93 
+
+Non-GAAP net income per diluted share 
+
+$0.29 - $0.31 
+
+Diluted weighted average shares outstanding 
+
+304 - 305 
+
+(In millions, except per share data) 
+
+Current Guidance
+
+Fiscal 2025 
+
+Prior Guidance
+
+Fiscal 2025* Guidance Change 
+
+at Midpoint**
+
+ARR 
+
+$1,705 - $1,715 
+
+$1,720 - $1,735 $(18)
+
+As reported 
+
+13% - 14% 
+
+14% - 15% (100) bps
+
+Constant currency 
+
+16% - 16.5% 
+
+15% - 16% 75 bps
+
+Total revenue 
+
+$1,686 - $1,691 
+
+$1,665 - $1,675 $19
+
+As reported 
+
+18% 
+
+16% - 17% 150 bps
+
+Constant currency 
+
+19% 
+
+17% - 18% 150 bps
+
+Subscription revenue 
+
+$1,609 - $1,614 
+
+$1,590 - $1,600 $17
+
+As reported 
+
+18% - 19% 
+
+17% - 18% 100 bps
+
+Constant currency 
+
+20% 
+
+17% - 18% 250 bps
+
+Non-GAAP income from operations 
+
+$480 - $486 
+
+$466 - $474 $13
+
+Non-GAAP operating margin 
+
+28.5% - 28.75% 
+
+28% - 28.25% 50 bps
+
+Non-GAAP net income 
+
+$412 - $417 
+
+$396 - $404 $15
+
+Non-GAAP net income per diluted share 
+
+$1.36 - $1.37 
+
+$1.31 - $1.33 $0.05
+
+Diluted weighted average shares outstanding 
+
+303 - 304 
+
+303 - 305 (1)
+
+Free cash flow 
+
+$415 - $420 
+
+$393 - $404 $19
+
+Free cash flow margin 
+
+25% 
+
+23.5% - 24% 125 bps
+
+*Prior guidance was issued on November 7, 2024.
+
+**Guidance change at midpoint rounded to the nearest million.
+
+3
+
+Conference Call and Webcast Information
+
+Dynatrace will host a conference call and live webcast to discuss its results and business outlook for investors and analysts at 8:00 a.m. Eastern Time today, January 30, 2025. To access the conference call from the U.S. and Canada, dial (866) 405-1247, or internationally, dial (201) 689-8045 with conference ID# 13750856. The call will also be available live via webcast on the companys website, ir.dynatrace.com. 
+
+An audio replay of the call will also be available until 11:59 p.m. Eastern Time on April 30, 2025, by dialing (877) 660-6853 from the U.S. and Canada, or for international callers by dialing (201) 612-7415 and entering conference ID# 13750856. In addition, an archived webcast will be available at ir.dynatrace.com.
+
+We announce material financial information to our investors using our Investor Relations website, press releases, SEC filings and public conference calls and webcasts. We also use these channels to disclose information about the company, our planned financial and other announcements, attendance at upcoming investor and industry conferences, and for complying with our disclosure obligations under Regulation FD.
+
+Non-GAAP Financial Measures
+
+In addition to disclosing financial measures prepared in accordance with GAAP, this press release and the accompanying tables contain certain non-GAAP financial measures as defined by Regulation G, including non-GAAP income from operations, non-GAAP operating margin, non-GAAP net income, non-GAAP net income per diluted share, and free cash flow. We also use or discuss non-GAAP financial measures in conference calls, slide presentations and webcasts. 
+
+We use these non-GAAP financial measures for financial and operational decision-making purposes, and as a means to evaluate period-to-period comparisons and liquidity. We believe that these non-GAAP financial measures provide useful information about our operating results, enhance the overall understanding of past financial performance and allow for greater transparency with respect to metrics used by our management in its financial and operational decision-making. 
+
+The presentation of the non-GAAP financial measures is not intended to be considered in isolation or as a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP. Our non-GAAP financial measures may not provide information that is directly comparable to similarly titled metrics provided by other companies. 
+
+Non-GAAP financial measures are defined in this press release and the tables included in this press release include reconciliations of historical non-GAAP financial measures to their most directly comparable GAAP measures. 
+
+We also include non-GAAP financial measures in our financial outlook included in this press release. Reconciliations of forward-looking non-GAAP income from operations, non-GAAP net income, non-GAAP net income per diluted share, and free cash flow guidance to the most directly comparable GAAP measures are not available without unreasonable efforts due to the high variability, complexity, and low visibility with respect to the charges excluded from these non-GAAP measures; in particular, the measures and effects of share-based compensation expense, employer taxes and tax deductions specific to equity compensation awards that are directly impacted by future hiring, turnover and retention needs, as well as unpredictable fluctuations in our stock price. We expect the variability of the above charges to have a significant, and potentially unpredictable, impact on our future GAAP financial results. 
+
+Definitions - Non-GAAP and Other Metrics
+
+Annual Recurring Revenue (ARR) is defined as the daily revenue of all subscription agreements that are actively generating revenue as of the last day of the reporting period multiplied by 365. We exclude from our calculation of ARR any revenues derived from month-to-month agreements and/or product usage overage billings.
+
+Constant Currency amounts for ARR, Total Revenue and Subscription Revenue are presented to provide a framework for assessing how our underlying businesses performed excluding the effect of foreign exchange rate fluctuations. To present this information, current and comparative prior period results for entities reporting in currencies other than United States dollars are converted into United States dollars using the average exchange rates from the comparative period rather than the actual exchange rates in effect during the respective periods. All growth comparisons relate to the corresponding period in the last fiscal year. 
+
+4
+
+Non-GAAP Income from Operations is defined as GAAP income from operations adjusted for the following items: share-based compensation; employer payroll taxes on employee stock transactions; amortization of intangibles; transaction, restructuring and other non-recurring or unusual items that may arise from time to time. The related margin is non-GAAP income from operations expressed as a percentage of total revenue. 
+
+Non-GAAP Net Income is defined as GAAP net income adjusted for the following items: income tax expense/benefit; non-GAAP effective cash taxes; net interest expense and income; net cash received from and paid for interest; share-based compensation; employer payroll taxes on employee stock transactions, amortization of intangibles; gains and losses on currency translation; and transaction, restructuring and other non-recurring or unusual items that may arise from time to time. Non-GAAP net income per diluted share is calculated as non-GAAP net income divided by the diluted weighted average shares outstanding used to compute GAAP net income per diluted share. 
+
+Free Cash Flow is defined as the net cash provided by or used in operating activities less capital expenditures, reflected as purchase of property and equipment and capitalized software additions in our financial statements. The related margin is free cash flow expressed as a percentage of total revenue.
+
+About Dynatrace
+
+Dynatrace exists to make the world's software work perfectly. Our end-to-end platform combines broad and deep observability and continuous runtime application security with Davis hypermodal AI to provide answers and intelligent automation from data at an enormous scale. This enables innovators to modernize and automate cloud operations, deliver software faster and more securely, and ensure flawless digital experiences. That's why the world's largest organizations trust the Dynatrace platform to accelerate digital transformation.
+
+Cautionary Language Concerning Forward-Looking Statements 
+
+This press release includes certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including statements related to benefits that we believe organizations receive from using Dynatrace and our financial and business outlook, including our financial guidance for thefourth quarter and full year of fiscal 2025. These forward-looking statements include, but are not limited to, plans, objectives, expectations and intentions and other statements contained in this press release that are not historical facts and statements identified by words such as will, expects, anticipates, intends, plans, believes, seeks, estimates or words of similar meaning. These forward-looking statements reflect our current views about our plans, intentions, expectations, strategies and prospects, which are based on the information currently available to us and on assumptions we have made. Although we believe that our plans, intentions, expectations, strategies and prospects as reflected in or suggested by those forward-looking statements are reasonable, we can give no assurance that the plans, intentions, expectations or strategies will be attained or achieved. Furthermore, actual results may differ materially from those described in the forward-looking statements and will be affected by a variety of risks and factors that are beyond our control including, without limitation, our ability to maintain our revenue growth rates in future periods; market adoption of our product offerings; continued demand for, and spending on, our solutions; our ability to innovate and develop solutions that meet customer needs, including through Davis AI; the ability of our platform and solutions to effectively interoperate with customers IT infrastructures; our ability to acquire new customers and retain and expand our relationships with existing customers; our ability to expand our sales and marketing capabilities; our ability to compete; our ability to maintain successful relationships with partners; security breaches, other security incidents and any real or perceived errors, failures, defects or vulnerabilities in our solutions; our ability to protect our intellectual property; our ability to hire and retain necessary qualified employees to grow our business and expand our operations; our ability to successfully complete acquisitions and to integrate newly acquired businesses and offerings; the effect on our business of the macroeconomic environment, associated global economic conditions and geopolitical disruption; and other risks set forth under the caption Risk Factors in our Annual Report on Form 10-K, subsequent Quarterly Reports on Form 10-Q, and our other SEC filings. We assume no obligation to update any forward-looking statements contained in this document as a result of new information, future events or otherwise. 
+
+5
+
+DYNATRACE, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(Unaudited In thousands, except per share data)
+
+Three Months Ended
+
+December 31, Nine Months Ended
+
+December 31, 
+
+2024 2023 2024 2023 
+
+Revenue: 
+
+Subscription $ 417,207 $ 348,294 $ 1,198,593 $ 999,245 
+
+Service 18,962 16,802 54,925 50,437 
+
+Total revenue 436,169 365,096 1,253,518 1,049,682 
+
+Cost of revenue: 
+
+Cost of subscription 60,666 46,888 170,034 134,584 
+
+Cost of service 18,139 16,744 52,536 47,961 
+
+Amortization of acquired technology 3,756 4,237 12,528 12,035 
+
+Total cost of revenue 82,561 67,869 235,098 194,580 
+
+Gross profit 353,608 297,227 1,018,420 855,102 
+
+Operating expenses: 
+
+Research and development 98,343 80,102 281,287 220,468 
+
+Sales and marketing 154,472 132,723 443,802 385,445 
+
+General and administrative 49,354 43,231 143,285 127,074 
+
+Amortization of other intangibles 3,975 5,451 13,527 16,838 
+
+Total operating expenses 306,144 261,507 881,901 749,825 
+
+Income from operations 47,464 35,720 136,519 105,277 
+
+Interest income, net 11,726 10,605 37,351 26,260 
+
+Other expense, net (2,072) (3,901) (6,145) (6,724) 
+
+Income before income taxes 57,118 42,424 167,725 124,813 
+
+Income tax benefit (expense) 304,634 267 276,655 (8,125) 
+
+Net income $ 361,752 $ 42,691 $ 444,380 $ 116,688 
+
+Net income per share: 
+
+Basic $ 1.21 $ 0.14 $ 1.49 $ 0.40 
+
+Diluted $ 1.19 $ 0.14 $ 1.47 $ 0.39 
+
+Weighted average shares outstanding: 
+
+Basic 298,646 294,869 298,049 293,295 
+
+Diluted 303,467 299,246 302,815 298,335 
+
+UNAUDITED SHARE-BASED COMPENSATION 
+
+Three Months Ended
+
+December 31, Nine Months Ended
+
+December 31, 
+
+2024 2023 2024 2023 
+
+Cost of revenue $ 9,821 $ 6,975 $ 27,265 $ 19,660 
+
+Research and development 26,582 18,678 74,769 50,119 
+
+Sales and marketing 20,709 15,947 57,481 48,823 
+
+General and administrative 15,027 13,222 41,984 34,696 
+
+Total share-based compensation $ 72,139 $ 54,822 $ 201,499 $ 153,298 
+
+6
+
+DYNATRACE, INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(In thousands, except share and per share data)
+
+December 31, 2024 March 31, 2024
+
+(unaudited) 
+
+Assets 
+
+Current assets: 
+
+Cash and cash equivalents $ 907,482 $ 778,983 
+
+Short-term investments 100,225 57,891 
+
+Accounts receivable, net 391,578 602,739 
+
+Deferred commissions, current 102,811 98,935 
+
+Prepaid expenses and other current assets 73,130 66,749 
+
+Total current assets 1,575,226 1,605,297 
+
+Long-term investments 46,260 46,350 
+
+Property and equipment, net 49,426 53,325 
+
+Operating lease right-of-use assets, net 66,666 61,390 
+
+Goodwill 1,335,386 1,335,494 
+
+Intangible assets, net 23,351 50,995 
+
+Deferred tax assets, net 514,838 138,836 
+
+Deferred commissions, non-current 88,237 93,310 
+
+Other assets 35,715 24,782 
+
+Total assets $ 3,735,105 $ 3,409,779 
+
+Liabilities and shareholders' equity 
+
+Current liabilities: 
+
+Accounts payable $ 8,552 $ 21,410 
+
+Accrued expenses, current 213,130 233,675 
+
+Deferred revenue, current 812,892 987,953 
+
+Operating lease liabilities, current 13,995 15,513 
+
+Total current liabilities 1,048,569 1,258,551 
+
+Deferred revenue, non-current 54,940 62,308 
+
+Accrued expenses, non-current 16,533 18,404 
+
+Operating lease liabilities, non-current 61,216 54,013 
+
+Deferred tax liabilities 563 1,013 
+
+Total liabilities 1,181,821 1,394,289 
+
+Shareholders' equity: 
+
+Common shares, $0.001 par value, 600,000,000 shares authorized, 299,343,079 and 296,962,547 shares issued and outstanding at December 31, 2024 and March 31, 2024, respectively 299 297 
+
+Additional paid-in capital 2,340,470 2,249,349 
+
+Retained earnings (accumulated deficit) 245,623 (198,757) 
+
+Accumulated other comprehensive loss (33,108) (35,399) 
+
+Total shareholders' equity 2,553,284 2,015,490 
+
+Total liabilities and shareholders' equity $ 3,735,105 $ 3,409,779 
+
+7
+
+DYNATRACE, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(Unaudited In thousands)
+
+Nine Months Ended
+
+December 31,
+
+2024 2023
+
+Cash flows from operating activities: 
+
+Net income $ 444,380 $ 116,688 
+
+Adjustments to reconcile net income to cash provided by operations: 
+
+Depreciation 13,851 11,781 
+
+Amortization 27,603 29,067 
+
+Share-based compensation 201,499 153,298 
+
+Deferred income taxes (378,795) (49,579) 
+
+Other 4,135 7,016 
+
+Net change in operating assets and liabilities: 
+
+Accounts receivable 204,251 83,444 
+
+Deferred commissions (3,035) 874 
+
+Prepaid expenses and other assets (21,573) (27,437) 
+
+Accounts payable and accrued expenses (27,608) (24,022) 
+
+Operating leases, net 434 1,253 
+
+Deferred revenue (168,513) (55,946) 
+
+Net cash provided by operating activities 296,629 246,437 
+
+Cash flows from investing activities: 
+
+Purchase of property and equipment (11,540) (16,662) 
+
+Capitalized software additions (4,655) 
+
+Acquisition of a business, net of cash acquired (100) (32,297) 
+
+Purchases of investments (107,989) 
+
+Proceeds from sales and maturities of investments 68,145 
+
+Net cash used in investing activities (51,484) (53,614) 
+
+Cash flows from financing activities: 
+
+Payments of deferred consideration related to capitalized software additions (1,656) 
+
+Proceeds from employee stock purchase plan 21,159 19,472 
+
+Proceeds from exercise of stock options 14,903 24,205 
+
+Repurchases of common stock (130,100) 
+
+Taxes paid related to net share settlement of equity awards (16,338) 
+
+Net cash (used in) provided by financing activities (112,032) 43,677 
+
+Effect of exchange rates on cash and cash equivalents (4,614) (9,199) 
+
+Net increase in cash and cash equivalents 128,499 227,301 
+
+Cash and cash equivalents, beginning of period 778,983 555,348 
+
+Cash and cash equivalents, end of period $ 907,482 $ 782,649 
+
+8
+
+DYNATRACE, INC.
+
+GAAP to Non-GAAP Reconciliations
+
+(Unaudited - In thousands, except percentages)
+
+Three Months Ended December 31, 2024
+
+GAAP Share-based compensation Employer payroll taxes on employee stock transactions Amortization of intangibles Transaction, restructuring, and other Non-GAAP
+
+Non-GAAP income from operations:
+
+Cost of revenue $ 82,561 $ (9,821) $ (469) $ (3,756) $ $ 68,515 
+
+Gross profit 353,608 9,821 469 3,756 367,654 
+
+Gross margin 81 % 84 %
+
+Research and development 98,343 (26,582) (1,770) 69,991 
+
+Sales and marketing 154,472 (20,709) (756) (106) 132,901 
+
+General and administrative 49,354 (15,027) (299) 34,028 
+
+Amortization of other intangibles 3,975 (3,975) 
+
+Income from operations 47,464 72,139 3,294 7,731 106 130,734 
+
+Operating margin 11 % 30 %
+
+Three Months Ended December 31, 2023
+
+GAAP Share-based compensation Employer payroll taxes on employee stock transactions Amortization of intangibles Transaction, restructuring, and other Non-GAAP
+
+Non-GAAP income from operations:
+
+Cost of revenue $ 67,869 $ (6,975) $ (284) $ (4,237) $ $ 56,373 
+
+Gross profit 297,227 6,975 284 4,237 308,723 
+
+Gross margin 81 % 85 %
+
+Research and development 80,102 (18,678) (1,196) 60,228 
+
+Sales and marketing 132,723 (15,947) (1,029) 201 115,948 
+
+General and administrative 43,231 (13,222) (360) (1,738) 27,911 
+
+Amortization of other intangibles 5,451 (5,451) 
+
+Income from operations $ 35,720 $ 54,822 $ 2,869 $ 9,688 $ 1,537 $ 104,636 
+
+Operating margin 10 % 29 %
+
+9
+
+DYNATRACE, INC.
+
+GAAP to Non-GAAP Reconciliations
+
+(Unaudited - In thousands, except per share data)
+
+Three Months Ended December 31,
+
+2024 2023
+
+Non-GAAP net income: 
+
+Net income $ 361,752 $ 42,691 
+
+Income tax benefit (304,634) (267) 
+
+Non-GAAP effective cash tax (30,588) (18,516) 
+
+Interest income, net (11,726) (10,605) 
+
+Cash received from interest, net 11,533 10,064 
+
+Share-based compensation 72,139 54,822 
+
+Employer payroll taxes on employee stock transactions 3,294 2,869 
+
+Amortization of intangibles 7,731 9,688 
+
+Transaction, restructuring, and other 106 1,537 
+
+Loss on currency translation 2,072 3,901 
+
+Non-GAAP net income $ 111,679 $ 96,184 
+
+Share count: 
+
+Weighted-average shares outstanding - basic 298,646 294,869 
+
+Weighted-average shares outstanding - diluted 303,467 299,246 
+
+Shares used in non-GAAP per share calculations: 
+
+Weighted-average shares outstanding - basic 298,646 294,869 
+
+Weighted-average shares outstanding - diluted 303,467 299,246 
+
+Non-GAAP net income per share: 
+
+Net income per share - basic $ 1.21 $ 0.14 
+
+Net income per share - diluted $ 1.19 $ 0.14 
+
+Non-GAAP net income per share - basic $ 0.37 $ 0.33 
+
+Non-GAAP net income per share - diluted $ 0.37 $ 0.32 
+
+Three Months Ended December 31,
+
+2024 2023
+
+Free cash flow: 
+
+Net cash provided by operating activities $ 42,238 $ 75,657 
+
+Purchase of property and equipment (4,669) (3,645) 
+
+Capitalized software additions (4,655) 
+
+Free cash flow $ 37,569 $ 67,357 
+
+10
+
+DYNATRACE, INC. 
+
+GAAP to Non-GAAP Reconciliations
+
+(Unaudited - In thousands, except percentages)
+
+Nine Months Ended December 31, 2024
+
+GAAP Share-based compensation Employer payroll taxes on employee stock transactions Amortization of intangibles Transaction, restructuring, and other Non-GAAP
+
+Non-GAAP income from operations:
+
+Cost of revenue $ 235,098 $ (27,265) $ (1,786) $ (12,528) $ $ 193,519 
+
+Gross profit 1,018,420 27,265 1,786 12,528 1,059,999 
+
+Gross margin 81 % 85 %
+
+Research and development 281,287 (74,769) (5,484) (3) 201,031 
+
+Sales and marketing 443,802 (57,481) (2,989) (106) 383,226 
+
+General and administrative 143,285 (41,984) (1,215) 3 100,089 
+
+Amortization of other intangibles 13,527 (13,527) 
+
+Income from operations $ 136,519 $ 201,499 $ 11,474 $ 26,055 $ 106 $ 375,653 
+
+Operating margin 11 % 30 %
+
+Nine Months Ended December 31, 2023
+
+GAAP Share-based compensation Employer payroll taxes on employee stock transactions Amortization of intangibles Transaction, restructuring, and other Non-GAAP
+
+Non-GAAP income from operations:
+
+Cost of revenue $ 194,580 $ (19,660) $ (1,516) $ (12,035) $ $ 161,369 
+
+Gross profit 855,102 19,660 1,516 12,035 888,313 
+
+Gross margin 81 % 85 %
+
+Research and development 220,468 (50,119) (4,391) 165,958 
+
+Sales and marketing 385,445 (48,823) (3,341) 399 333,680 
+
+General and administrative 127,074 (34,696) (1,125) (5,724) 85,529 
+
+Amortization of other intangibles 16,838 (16,838) 
+
+Income from operations $ 105,277 $ 153,298 $ 10,373 $ 28,873 $ 5,325 $ 303,146 
+
+Operating margin 10 % 29 %
+
+11
+
+DYNATRACE, INC.
+
+GAAP to Non-GAAP Reconciliations
+
+(Unaudited - In thousands, except per share data)
+
+Nine Months Ended December 31,
+
+2024 2023
+
+Non-GAAP net income: 
+
+Net income $ 444,380 $ 116,688 
+
+Income tax (benefit) expense (276,655) 8,125 
+
+Non-GAAP effective cash tax (88,538) (58,986) 
+
+Interest income, net (37,351) (26,260) 
+
+Cash received from interest, net 36,151 24,556 
+
+Share-based compensation 201,499 153,298 
+
+Employer payroll taxes on employee stock transactions 11,474 10,373 
+
+Amortization of intangibles 26,055 28,873 
+
+Transaction, restructuring, and other 106 5,325 
+
+Loss on currency translation 6,145 6,724 
+
+Non-GAAP net income $ 323,266 $ 268,716 
+
+Share count: 
+
+Weighted-average shares outstanding - basic 298,049 293,295 
+
+Weighted-average shares outstanding - diluted 302,815 298,335 
+
+Shares used in non-GAAP per share calculations: 
+
+Weighted-average shares outstanding - basic 298,049 293,295 
+
+Weighted-average shares outstanding - diluted 302,815 298,335 
+
+Non-GAAP net income per share: 
+
+Net income per share - basic $ 1.49 $ 0.40 
+
+Net income per share - diluted $ 1.47 $ 0.39 
+
+Non-GAAP net income per share - basic $ 1.08 $ 0.92 
+
+Non-GAAP net income per share - diluted $ 1.07 $ 0.90 
+
+Nine Months Ended December 31,
+
+2024 2023
+
+Free cash flow: 
+
+Net cash provided by operating activities $ 296,629 $ 246,437 
+
+Purchase of property and equipment (11,540) (16,662) 
+
+Capitalized software additions (4,655) 
+
+Free cash flow $ 285,089 $ 225,120 
+
+12
+
+Contacts 
+
+Investors:
+
+Noelle Faris
+
+VP, Investor Relations
+
+Noelle.Faris@dynatrace.com
+
+Media Relations:
+
+Kristy Campbell
+
+VP, Brand and Communications
+
+Kristy.Campbell@dynatrace.com
+
+13
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>exhibit992-arrexpansiont.htm
+<DESCRIPTION>EX-99.2
+<TEXT>
+exhibit992-arrexpansiont
+
+v 1 Exhibit 99.2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>4
+<FILENAME>dt-20250130.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Document and Entity Information Document 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>5
+<FILENAME>dt-20250130_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>6
+<FILENAME>dt-20250130_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Class of Stock [Domain] 
+Class of Stock [Domain] 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entities [Table] 
+Entities [Table] 
+
+Entity Listings, Exchange [Axis] 
+Entity Listings, Exchange [Axis] 
+
+Class of Stock [Axis] 
+Class of Stock [Axis] 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Cover [Abstract] 
+Cover [Abstract] 
+
+City Area Code 
+City Area Code 
+
+Entity Information, Former Legal or Registered Name 
+Entity Information, Former Legal or Registered Name 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Amendment Flag 
+Amendment Flag 
+
+Address Type [Domain] 
+Address Type [Domain] 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Exchange [Domain] 
+Exchange [Domain] 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Document Period End Date 
+Document Period End Date 
+
+Entity Information [Line Items] 
+Entity Information [Line Items] 
+
+Document Type 
+Document Type 
+
+Entity Addresses, Address Type [Axis] 
+Entity Addresses, Address Type [Axis]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>7
+<FILENAME>dt-20250130_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>exhibit992-arrexpansiont001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>g668054g46h82.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Document and Entity Information Document
+
+Jan. 30, 2025
+
+Entity Information [Line Items] 
+
+Document Type 8-K
+
+Entity Registrant Name DYNATRACE, INC.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-39010
+
+Entity Address, Address Line One 1601 Trapelo Road, Suite 116
+
+Entity Address, State or Province MA
+
+Entity Address, Postal Zip Code 02451
+
+City Area Code 781
+
+Local Phone Number 530-1000
+
+Entity Information, Former Legal or Registered Name Not Applicable
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, par value $0.001 per share
+
+Trading Symbol DT
+
+Security Exchange Name NYSE
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0001773383
+
+Amendment Flag false
+
+Entity Tax Identification Number 47-2386428
+
+Entity Address, City or Town Waltham,
+
+Document Period End Date Jan. 30, 2025
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Former Legal or Registered Name of an entity+ References
+
+No definition available.+ Details
+
+Name: dei_EntityInformationFormerLegalOrRegisteredName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityInformationLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>12
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+1 
+23 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Document and Entity Information Document 
+Sheet 
+http://dynatrace.com/role/DocumentandEntityInformationDocument 
+Document and Entity Information Document 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+dt-20250130.htm 
+dt-20250130.xsd 
+dt-20250130_def.xml 
+dt-20250130_lab.xml 
+dt-20250130_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>18
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>19
+<FILENAME>0001773383-25-000008-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>20
+<FILENAME>dt-20250130_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001773383 
+
+2025-01-30 
+2025-01-30 
+
+0001773383 
+false 
+8-K 
+2025-01-30 
+DYNATRACE, INC. 
+DE 
+001-39010 
+47-2386428 
+1601 Trapelo Road, Suite 116 
+Waltham, 
+MA 
+02451 
+781 
+530-1000 
+Not Applicable 
+false 
+false 
+false 
+false 
+Common Stock, par value $0.001 per share 
+DT 
+NYSE 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,1395 @@
+<SEC-DOCUMENT>0001366868-25-000030.txt : 20250227
+<SEC-HEADER>0001366868-25-000030.hdr.sgml : 20250227
+<ACCEPTANCE-DATETIME>20250227161443
+ACCESSION NUMBER:		0001366868-25-000030
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250227
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250227
+DATE AS OF CHANGE:		20250227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Globalstar, Inc.
+		CENTRAL INDEX KEY:			0001366868
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATION SERVICES, NEC [4899]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				412116508
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33117
+		FILM NUMBER:		25678965
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1351 HOLIDAY SQUARE BLVD.,
+		CITY:			COVINGTON,
+		STATE:			LA
+		ZIP:			70433
+		BUSINESS PHONE:		408-933-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1351 HOLIDAY SQUARE BLVD.,
+		CITY:			COVINGTON,
+		STATE:			LA
+		ZIP:			70433
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>gsat-20250227.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?gsat-20250227
+
+0001366868FALSE00013668682025-02-272025-02-27
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+___________
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 27, 2025
+
+GLOBALSTAR, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-33117 41-2116508
+
+(State or Other Jurisdiction of Incorporation) (Commission
+
+File Number) (IRS Employer
+
+Identification No.)
+
+1351 Holiday Square Blvd.
+
+Covington, LA70433
+
+(Address of Principal Executive Offices)
+
+Registrants telephone number, including area code: (985) 335-1500
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Securities registered pursuant to section 12(b) of the Act: 
+
+Title of each class Trading Symbol Name of exchange on which registered
+
+Common Stock, par value $0.0001 per share GSAT The Nasdaq Stock Market LLC
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On February 27, 2025, Globalstar, Inc. (the "Company") issued a press release announcing the Company's financial and operating results for the three and twelve months ended December 31, 2024. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and incorporated herein by reference. 
+
+The information in this Current Report, including Exhibit 99.1, is furnished pursuant to the rules and regulations of the Securities and Exchange Commission and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934 (the Exchange Act) or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933 or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+99.1 
+
+Press release dated February 27, 2025
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+GLOBALSTAR, INC. 
+
+/s/ Dr. Paul E. Jacobs 
+
+Dr. Paul E. Jacobs 
+
+Chief Executive Officer 
+
+Date: February 27, 2025
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>gsat20241231-ex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+GLOBALSTAR ANNOUNCES 2024 FINANCIAL RESULTS
+
+Full year 2024 revenue increased 12% to a record $250.3 million, exceeding the high end of revenue guidance 
+
+Record annual service revenue for Commercial IoT, representing a 15%increase from the prior year
+
+On track to deliver scheduled milestones to support next phases of direct-to-cellular service
+
+Received $0.9 billion of the total $1.7 billion investment under the Updated Services Agreements announced in November 2024
+
+Uplisted to the Nasdaq Global Select Market on February 11, 2025, following effectiveness of a 1-for-15 reverse stock split 
+
+Covington, LA, February 27, 2025 -- Globalstar, Inc. (Nasdaq: GSAT) ("Globalstar" or the "Company") today announced its financial results for the fourth quarter and year ended December 31, 2024.
+
+"Globalstar reported strong fourth quarter and full year results, highlighted by a year-over-year revenue increase of 12%, marking an annual record. Net loss for the year was $63.2 million, driven predominantly by non-operating items such as a loss on extinguishment of debt and foreign currency loss. However, adjusted EBITDA* was a record $135.3 million in 2024, compared to $116.7 million for 2023. This increase was driven by strong revenue growth across our key service offerings. Looking ahead to 2025, we are reiterating our previously-issued financial guidance for the year, with revenue expected to be in the range of $260 million to $285 million, and adjusted EBITDA margin expected to be approximately 50%, impacted by incremental strategic investments in terrestrial network and other long-term growth initiatives, commented Rebecca Clary, Chief Financial Officer.
+
+Dr. Paul E. Jacobs, Chief Executive Officer, said, 2024 was a remarkable year for Globalstar as we executed well on several key initiatives that we believe will enable long-term, sustainable growth. We made important strides enhancing our product portfolio to address key end markets including consumer and government defense. This is highlighted through our recent partnership announcements with Parsons Corporation, Peiker Holding Company, and Liquid Intelligent Technologies. Furthermore, the recent expansion of our wholesale capacity arrangement demonstrates the importance of our network and we are pleased to further this relationship. 
+
+Dr. Jacobs continued, While 2024 was a success by many measures, there remains a massive opportunity in front of us. We expect to make continued progress on our recently announced partnerships, along with the advances in our XCOM RAN technology, which we demonstrated live for the first time at our analyst and investor day in December. Finally, I would like to thank all of our employees for their dedication and hard work throughout 2024.
+
+RECENT OPERATIONAL HIGHLIGHTS
+
+Executed an updated services agreementwith our wholesale capacity customer, which includes development of a new satellite constellation, expanded ground infrastructure and increased global MSS licensing (the "Expanded MSS Network") as described in more detail in our November 1, 2024 Form 8-K. Globalstar will retain 100% of all terrestrial, MSS and other revenue and will continue to allocate 85% of its current and future network capacity to render the satellite services to the customer across existing and new satellites. Globalstar reserved 15% of its network capacity to service our direct MSS customers.
+
+Announced an exclusive partnership with Parsons Corporation for public sector and defense applications and announced a successful demonstration of Parsons software-defined satellite communications solution using Globalstars Low Earth Orbit (LEO) satellite constellation. The proof of concept, which commenced in the first half of 2024, is progressing through the necessary steps to enter commercial service. This successful demonstration marks an important milestone as the first of its kind in North America. It unlocks previously thought impossible, new mission-critical solutions tailored for radio frequency-congested environments, setting a new standard for global communication services in complex and often challenging operating conditions.
+
+Commenced a strategic partnership with Peiker Holding GmbH to bring satellite-based emergency services and telematics capabilities to automotive original equipment manufacturers (OEMs). The partnership enables 
+
+* Adjusted EBITDA is a non-GAAP financial measure. For more information, refer to Reconciliation of GAAP Net Income (Loss) to Non-GAAP Adjusted EBITDA
+
+Peiker to represent Globalstar in Europe and support Globalstar not only with the introduction and distribution in the European market, but also acting as a technical support partner in relevant projects. In addition, Peiker will contribute its own product development resources and initiatives to optimize the performance of Globalstar technologies for other automotive applications.
+
+Received a 15-year renewal of Globalstars blanket mobile earth terminal authorization from the Federal Communications Commission. This radio station authorization provides our authority to operate numerous categories of mobile earth terminals with its U.S. and French-licensed NGSO satellites throughout the U.S. and its territories for our millions of users. 
+
+FOURTH QUARTER FINANCIAL REVIEW
+
+Revenue
+
+Total revenue for the fourth quarter of 2024 was $61.2 million, which was comprised of $57.7 million of service revenue and $3.5 million of revenue generated from subscriber equipment sales. Total revenue increased 17% from the prior year's fourth quarter due to higher service revenue.
+
+Higher service revenue of $8.7 million, or an increase of 18%, was due primarily to higher wholesale capacity services. This increase was due to fees earned related to certain expanded services that began in 2024, which are expected to continue as we provide services under the Updated Service Agreements. 
+
+Total subscriber driven revenue was down $1.3 million, due to continued, expected churn in the Duplex subscriber base as well as fewer gross activations for SPOT. Partially offsetting this decline was an 8% increase in Commercial IoT due to increases in both average subscribers and average revenue per user ("ARPU"). ARPU is a non-GAAP financial measure. For more information, refer to Schedule of Selected Operating Measures.
+
+Loss from Operations
+
+Loss from operations was $4.2 million during the fourth quarter of 2024, compared to $12.0 million during the prior year's fourth quarter. This improvement was due to higher revenue (as discussed above) offset partially by a slight increase in operating expenses. 
+
+Operating expenses were $65.4 million during the fourth quarter of 2024, compared to $64.4 million during the prior year's fourth quarter, representing an increase of $1.0 million, or 2%. Higher cost of services was offset partially by lower stock-based compensation. Higher cost of services resulted primarily from product development and network operating costs, such as personnel and maintenance costs. These network-related costs are necessary to support our new and upgraded global ground infrastructure; a significant portion of these costs are reimbursed to us, and this consideration is recognized as revenue. Stock-based compensation was lower during the fourth quarter of 2024, resulting from the timing of expenses associated with restricted stock units granted to certain executives in connection with the intellectual property license agreement (the License Agreement) with XCOM Labs, Inc. (now known as Virewirx, Inc.).
+
+Net Loss 
+
+Net loss was $50.2 million for the fourth quarter of 2024 compared to $15.1 million for the fourth quarter of 2023. In 2024, net loss was driven by a non-cash loss on extinguishment of debt associated with the paydown of the 2023 13% Notes as well as unfavorable changes in foreign currency exchange rates. Other items partially offset these unfavorable variances, including lower net interest expense (due to higher capitalized interest) and a loss on equity issuance associated with the warrants to purchase shares our common stock issued during the fourth quarter of 2023 that did not recur in 2024.
+
+Adjusted EBITDA
+
+Adjusted EBITDA increased to $30.4 million for the fourth quarter of 2024 from $25.1 million for the same period in 2023. This 21% increase was due to higher revenue of $8.8 million offset partially by a $3.5 million increase in operating expenses (both excluding adjustments for non-cash or non-recurring items). Adjusted EBITDA is a non-GAAP financial 
+
+2
+
+measure. For more information, refer to Reconciliation of GAAP Net Income (Loss) to Non-GAAP Adjusted EBITDA.
+
+ANNUAL FINANCIAL REVIEW
+
+Revenue
+
+Total revenue was $250.3 million during the twelve months ended December 31, 2024, which was comprised of $237.7 million of service revenue and $12.7 million of revenue generated from subscriber equipment sales. Total revenue increased 12% from 2023 and reached a record high for the Company. This increase was due to an increase in service revenue, offset partially by a decrease in revenue generated from subscriber equipment sales. 
+
+Service revenue increased $33.5 million, or 16%, during the twelve months ended December 31, 2024, compared to the same period in 2023. Consistent with the quarterly results discussed above, higher wholesale capacity revenue was the primary driver of this increase. Higher Commercial IoT subscribers and ARPU also positively impacted 2024 revenue. Record service revenue from Commercial IoT during 2024 reflects growth with existing and new customers. 2024 service revenue also reflects the positive impact from new revenue arrangements, including services associated with our agreement with Parsons Corporation for mission-critical governmental applications, as well as services associated with XCOM RAN installations during the year. Partially offsetting these positive revenue drivers were fewer Duplex and SPOT subscribers during 2024.
+
+Revenue generated from subscriber equipment sales decreased $7.0 million due primarily to the timing of sales of Commercial IoT devices as well as competitive pressure on sales of SPOT devices. Our pipeline for Commercial IoT sales opportunities remains strong, evidenced by a 35% increase in equipment sales volume on a consecutive quarter basis.
+
+Loss from Operations
+
+Loss from operations was $0.9 million during 2024 compared to $0.2 million during 2023. This variance was due to higher operating expenses, offset partially by an increase in revenue in 2024. Higher cost of services and stock-based compensation were the primary expense increases during 2024, offset partially by lower cost of subscriber equipment. 
+
+The drivers of higher cost of services are consistent with the quarterly discussion above, in addition to higher product development costs as well as non-cash costs associated with the Support Services Agreement (the SSA) that we entered into in August 2023 in connection with the XCOM License Agreement. The decrease in cost of subscriber equipment is generally consistent with the decrease in the related device sales revenue during 2024; however, it is also related to margin improvement due to the mix of products sold in each period as well as the cost improvement from moving our manufacturing from China to Vietnam, which reduced tariffs incurred for U.S. imports for a portion of 2024.
+
+Net Loss
+
+Net loss was $63.2 million for 2024 compared to $24.7 million for 2023. This variance was due primarily to a higher loss on extinguishment of debt and unfavorable fluctuations in foreign currency exchange rates. During 2023, the payoff of the 2019 Facility Agreement resulted in a loss on extinguishment of debt totaling $10.4 million; during 2024, the payoff of the 2023 13% Notes resulted in a loss on extinguishment of debt totaling $27.4 million. Other items offset these unfavorable variances, including lower net interest expense (due to higher capitalized interest) and a loss on equity issuance associated with the warrants to purchase shares of our common stock issued during the fourth quarter of 2023 that did not recur in 2024. 
+
+Adjusted EBITDA
+
+Adjusted EBITDA was $135.3 million in 2024, representing a margin of 54% and reaching a record high for the Company. This 16% increase from $116.7 million in 2023 was due to a $26.5 million increase in total revenue (for reasons previously discussed), offset partially by a $7.9 million increase in operating expenses (both excluding adjustments for non-cash or non-recurring items). Adjusted EBITDA is a non-GAAP financial measure. For more information, refer to Reconciliation of GAAP Net Income (Loss) to Non-GAAP Adjusted EBITDA.
+
+3
+
+Liquidity
+
+Cash and cash equivalents were $391.2 million as of December 31, 2024, compared to $56.7 million as of December 31, 2023. During 2024, net cash flows from operations of $439.2 million and net cash flows from financing activities of $157.2 million were used to fund capital expenditures of $260.6 million. 
+
+Operating cash flows include cash receipts from our customers, primarily from the performance of wholesale capacity services, as well as from subscribers for the purchase of equipment and satellite voice and data services. We use cash in operating activities primarily for network costs, personnel costs, inventory purchases and other general corporate expenditures. Investing outflows largely relate to network upgrades, including satellite construction and launch costs. Financing activities relate primarily to the 2021 and 2023 funding agreements with our largest customer, the issuance of the Customer Class B Units, as well as preferred stock dividend payments. 
+
+Cash flows during 2024 were significantly impacted by the Updated Services Agreements. Since the execution of the Updated Services Agreements in November 2024, the Company received cash payments from its customer totaling $689 million, including proceeds from the sale of Customer Class B Units (excluding in-kind contributions), proceeds from the issuance of the Current Debt Repayment that were used to pay off the 2023 13% Notes, and certain advance service payments under the Infrastructure Prepayment. A portion of the payments received was used to fund capital expenditures for the Extended MSS Network; the remaining amount of approximately $320 million was held in cash and cash equivalents as of December 31, 2024 and will be used in 2025 to procure infrastructure for the Extended MSS Network.
+
+The total principal amount of our debt was $417.5 million at December 31, 2024 and $398.7 million at December 31, 2023. This increase was due primarily to proceeds from the 2023 funding agreement and PIK interest payments made to the lenders of the 2023 13% Notes prior to their payoff, offset partially by scheduled recoupments pursuant to the 2021 funding agreement.
+
+FINANCIAL OUTLOOK
+
+We reiterate our financial outlook for 2025 as follows:
+
+Total revenue between $260 million and $285 million
+
+Adjusted EBITDA margin of approximately 50%
+
+CONFERENCE CALL INFORMATION
+
+The Company will host a conference call to discuss its results at 5:00 p.m. Eastern Time (ET) on Thursday, February 27, 2025. Details are as follows:
+
+Earnings Call: 
+
+The earnings call will be available via webcast from the following link.
+
+Webcast Link: https://edge.media-server.com/mmc/p/3tgt97ge
+
+To participate in the earnings call via teleconference or to participate in the live Q&A session, participants should register at the following link to receive an email containing the dial-in number and unique passcode.
+
+Participant Teleconference Registration Link: 
+
+https://register-conf.media-server.com/register/BI608b610878234bf895e07198bfd3d60b
+
+Audio Replay: 
+
+For those unable to participate in the live call, a replay of the webcast will be available in the Investor Relations section of the Company's website.
+
+4
+
+About Globalstar, Inc.
+
+Globalstar empowers its customers to connect, transmit, and communicate in smarter ways easily, quickly, securely, and affordably offering reliable satellite and terrestrial connectivity services as an international telecom infrastructure provider. The Companys Low Earth Orbit ("LEO") satellite constellation ensures secure data transmission for connecting and protecting assets, transmitting critical operational data, and saving lives for consumers, businesses, and government agencies across the globe. Globalstars terrestrial spectrum, Band 53, and its 5G variant, n53, offers carriers, cable companies, and system integrators a versatile, fully licensed channel for private networks with a growing ecosystem to improve customer wireless connectivity, while Globalstars XCOM RAN product offers significant capacity gains in dense wireless deployments. In addition to SPOT GPS messengers, Globalstar offers next-generation internet of things ("IoT") hardware and software products for efficiently tracking and monitoring assets, processing smart data at the edge, and managing analytics with cloud-based telematics solutions to drive safety, productivity, and profitability. 
+
+Note that all SPOT products described in this press release are the products of SPOT LLC, which is not affiliated in any manner with Spot Image of Toulouse, France or Spot Image Corporation of Chantilly, Virginia.
+
+For more information, visit www.globalstar.com.
+
+Investor Contact Information:
+
+Email: investorrelations@globalstar.com
+
+Safe Harbor Language for Globalstar Releases
+
+Certain statements contained in this press release other than purely historical information, including, but not limited to, our ability to meet our obligations and attain the anticipated benefits under the updated services agreements, expectations regarding future revenue, financial performance, financial condition, liquidity, projections, estimates and guidance, statements relating to our business plans, objectives and expected operating results, our anticipated financial resources, our ability to integrate the licensed technology into our current line of business, our expectations with respect to the pursuit of terrestrial spectrum authorities globally, the success of current and potential future applications for our terrestrial spectrum, the effects of the 1:15 reverse stock split and Nasdaq listing, and the assumptions upon which those statements are based, are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements generally are identified by the words believe, project, expect, anticipate, estimate, intend, strategy, plan, may, could, should, will, would, will be, will continue, will likely result, and similar expressions, although not all forward-looking statements contain these identifying words. These forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties which may cause actual results to differ materially from the forward-looking statements. Risks and uncertainties that could cause or contribute to such differences include, without limitation, those described under Item 1A. Risk Factors of the Companys most recent Annual Report on Form 10-K and in the Companys other filings with the SEC. The Company undertakes no obligation to update any of the forward-looking statements after the date of this press release to reflect actual results, future events or circumstances or changes in our assumptions, business plans or other changes.
+
+5
+
+GLOBALSTAR, INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(In thousands, except per share data)
+
+(unaudited)
+
+Three Months Ended Twelve Months Ended
+
+December 31, December 31,
+
+2024 2023 2024 2023
+
+Revenue: 
+
+Service revenue $ 57,681 $ 48,951 $ 237,689 $ 204,196 
+
+Subscriber equipment sales 3,496 3,458 12,660 19,612 
+
+Total revenue 61,177 52,409 250,349 223,808 
+
+Operating expenses: 
+
+Cost of services (exclusive of depreciation, amortization and accretion shown separately below) 19,102 15,561 73,160 53,499 
+
+Cost of subscriber equipment sales 2,548 2,544 9,287 15,973 
+
+Cost of subscriber equipment sales - reduction in the value of inventory 327 327 
+
+Marketing, general and administrative 11,996 11,615 43,434 43,458 
+
+Stock-based compensation 8,903 11,851 35,548 22,489 
+
+Reduction in the value of long-lived assets 20 328 556 363 
+
+Depreciation, amortization and accretion 22,530 22,503 88,986 88,191 
+
+Total operating expenses 65,426 64,402 251,298 223,973 
+
+Loss from operations (4,249) (11,993) (949) (165) 
+
+Other (expense) income: 
+
+Loss on extinguishment of debt (27,378) (27,378) (10,403) 
+
+Loss on equity issuance (5,010) (5,010) 
+
+Interest income and expense, net of amounts capitalized (3,261) (3,562) (13,562) (14,609) 
+
+Foreign currency (loss) gain (13,192) 5,068 (16,609) 4,862 
+
+Other (1,926) 1,357 (2,531) 1,730 
+
+Total other expense (45,757) (2,147) (60,080) (23,430) 
+
+Loss before income taxes (50,006) (14,140) (61,029) (23,595) 
+
+Income tax expense 213 938 2,135 1,123 
+
+Net loss $ (50,219) $ (15,078) $ (63,164) $ (24,718) 
+
+Net loss attributable to common shareholders $ (52,892) $ (17,751) $ (73,798) $ (35,323) 
+
+Loss per common share: 
+
+Basic (1) $ (0.42) $ (0.14) $ (0.59) $ (0.29) 
+
+Diluted (1) $ (0.42) $ (0.14) (0.59) (0.29) 
+
+Weighted-average shares outstanding: 
+
+Basic (1) 126,231 125,187 125,877 122,334 
+
+Diluted (1) 126,231 125,187 125,877 122,334 
+
+(1) The number of shares has been restated to reflect the 1:15 reverse stock split effectuated on February 10, 2025. 
+
+6
+
+GLOBALSTAR, INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(In thousands, except par value and share data)
+
+(unaudited)
+
+December 31,
+
+2024 2023
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents $ 391,164 $ 56,744 
+
+Accounts receivable, net of allowance for credit losses of $1,504 and $2,312, respectively 26,952 48,743 
+
+Inventory 10,741 14,582 
+
+Prepaid expenses and other current assets 18,714 22,584 
+
+Total current assets 447,571 142,653 
+
+Property and equipment, net 673,632 624,002 
+
+Operating lease right of use assets, net 31,835 34,164 
+
+Prepaid network costs 312,342 12,443 
+
+Derivative asset 108,799 1,295 
+
+Intangible and other assets, net of accumulated amortization of $7,625 and $12,385, respectively 136,058 109,752 
+
+Total assets $ 1,710,237 $ 924,309 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current liabilities: 
+
+Current portion of long-term debt $ 34,600 $ 34,600 
+
+Accounts payable and accrued expenses 29,677 28,985 
+
+Accrued network construction costs 15,613 58,187 
+
+Payables to affiliates 394 459 
+
+Deferred revenue, net 61,201 53,677 
+
+Total current liabilities 141,485 175,908 
+
+Long-term debt 476,822 325,700 
+
+Operating lease liabilities 26,256 29,244 
+
+Deferred revenue, net 288,171 3,213 
+
+Other non-current liabilities 418,620 11,265 
+
+Total non-current liabilities 1,209,869 369,422 
+
+Total liabilities 1,351,354 545,330 
+
+Stockholders equity: 
+
+Series A Perpetual Preferred Stock of $0.0001 par value; 300,000 shares authorized and 149,425 issued and outstanding at December 31, 2024 and 2023, respectively 
+
+Voting Common Stock of $0.0001 par value; 143,333,334 shares authorized; 126,424,799 and 125,412,979 shares issued and outstanding at December 31, 2024 and 2023, respectively (1) 13 13 
+
+Additional paid-in capital 2,473,564 2,438,878 
+
+Accumulated other comprehensive income 13,452 5,070 
+
+Retained deficit (2,128,146) (2,064,982) 
+
+Total stockholders equity 358,883 378,979 
+
+Total liabilities and stockholders equity $ 1,710,237 $ 924,309 
+
+(1) The number of shares has been restated to reflect the 1:15 reverse stock split effectuated on February 10, 2025. 
+
+7
+
+GLOBALSTAR, INC.
+
+RECONCILIATION OF GAAP NET LOSS TO NON-GAAP ADJUSTED EBITDA
+
+(In thousands)
+
+(unaudited)
+
+Three Months Ended Twelve Months Ended
+
+December 31, December 31,
+
+2024 2023 2024 2023
+
+Net loss $ (50,219) $ (15,078) $ (63,164) $ (24,718) 
+
+Interest income and expense, net 3,261 3,562 13,562 14,609 
+
+Derivative loss (gain) 1,247 (1,345) 2,097 (1,588) 
+
+Income tax expense 213 938 2,135 1,123 
+
+Depreciation, amortization, and accretion 22,530 22,503 88,986 88,191 
+
+EBITDA (1) (22,968) 10,580 43,616 77,617 
+
+Non-cash compensation 8,903 11,851 35,548 22,489 
+
+Foreign exchange and other 13,868 (5,080) 17,043 (5,314) 
+
+Reduction in value of inventory and long-lived assets 347 328 883 363 
+
+Non-cash expenses and transaction costs associated with the License Agreement (2) 2,250 2,406 7,671 6,149 
+
+Loss on extinguishment of debt 27,378 27,378 10,403 
+
+Transaction costs 597 3,202 
+
+Loss on equity issuance 5,010 5,010 
+
+Adjusted EBITDA (1) $ 30,375 $ 25,095 $ 135,341 $ 116,717 
+
+(1) EBITDA represents earnings before interest, income taxes, depreciation, amortization, accretion and derivative (gains)/losses. Adjusted EBITDA excludes non-cash compensation expense, reduction in the value of assets, foreign exchange (gains)/losses, and certain other non-cash or non-recurring charges as applicable. Management uses Adjusted EBITDA to manage the Company's business and to compare its results more closely to the results of its peers. EBITDA and Adjusted EBITDA do not represent and should not be considered as alternatives to GAAP measurements, such as net loss. These terms, as defined by us, may not be comparable to similarly titled measures used by other companies.
+
+The Company uses Adjusted EBITDA as a supplemental measurement of its operating performance. The Company believes it best reflects changes across time in the Company's performance, including the effects of pricing, cost control and other operational decisions. The Company's management uses Adjusted EBITDA for planning purposes, including the preparation of its annual operating budget. The Company believes that Adjusted EBITDA also is useful to investors because it is frequently used by securities analysts, investors and other interested parties in their evaluation of companies in similar industries. As indicated, Adjusted EBITDA does not include interest expense on borrowed money or depreciation expense on our capital assets or the payment of income taxes, which are necessary elements of the Company's operations. Because Adjusted EBITDA does not account for these expenses, its utility as a measure of the Company's operating performance has material limitations. Because of these limitations, the Company's management does not view Adjusted EBITDA in isolation and also uses other measurements, such as revenues and operating profit, to measure operating performance.
+
+(2) In connection with the License Agreement with XCOM, the Company entered into a Support Services Agreement (the SSA) with XCOM. Fees payable by Globalstar pursuant to the SSA were or may be paid in shares of its common stock. Costs also include the initial non-recurring costs associated with the transaction as well as non-cash intangible asset technology amortization associated with the initial purchase of certain intangible assets made in the form of Globalstar common stock.
+
+8
+
+GLOBALSTAR, INC.
+
+SCHEDULE OF SELECTED OPERATING METRICS
+
+(In thousands, except subscriber and ARPU data)
+
+(unaudited)
+
+Three Months Ended Twelve Months Ended 
+
+December 31, December 31,
+
+2024 2023 2024 2023
+
+Service revenue: 
+
+Subscriber services 
+
+Commercial IoT $ 6,442 $ 5,986 $ 26,245 $ 22,867 
+
+SPOT 10,074 10,481 41,140 44,184 
+
+Duplex 4,481 5,844 20,156 25,932 
+
+Wholesale capacity services 36,150 25,661 145,299 109,067 
+
+Government and other services 534 979 4,849 2,146 
+
+Total service revenue 57,681 48,951 237,689 204,196 
+
+Subscriber equipment sales 3,495 3,458 12,660 19,612 
+
+Total revenue $ 61,176 $ 52,409 $ 250,349 $ 223,808 
+
+Average Subscribers 
+
+Commercial IoT 514,918 492,143 509,452 481,859 
+
+SPOT 235,785 254,464 241,980 260,141 
+
+Duplex 24,853 31,338 27,033 33,884 
+
+Other 268 345 288 364 
+
+ARPU (1) 
+
+Commercial IoT $ 4.17 $ 4.05 $ 4.29 $ 3.95 
+
+SPOT 14.24 13.73 14.17 14.15 
+
+Duplex 60.10 62.16 62.14 63.78 
+
+(1) 
+
+ARPU measures service revenues per month divided by the average number of subscribers during that month. Average monthly revenue per user as so defined may not be similar to average monthly revenue per unit as defined by other companies in the Company's industry, is not a measurement under GAAP and should be considered in addition to, but not as a substitute for, the information contained in the Company's statement of operations. The Company believes that average monthly revenue per user provides useful information concerning the appeal of its rate plans and service offerings and its performance in attracting and retaining high value customers. 
+
+9
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>gsat-20250227.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>gsat-20250227_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Written Communications 
+Written Communications 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Local Phone Number 
+Local Phone Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Document Period End Date 
+Document Period End Date 
+
+Cover [Abstract] 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Soliciting Material 
+Soliciting Material 
+
+City Area Code 
+City Area Code 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Document Type 
+Document Type 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Registrant Name 
+Entity Registrant Name
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>gsat-20250227_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>globalstarlogo912022.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 27, 2025
+
+Cover [Abstract] 
+
+Entity Central Index Key 0001366868
+
+Amendment Flag false
+
+Document Type 8-K
+
+Document Period End Date Feb. 27, 2025
+
+Entity Registrant Name GLOBALSTAR, INC.
+
+Entity Address, Postal Zip Code 70433
+
+City Area Code 985
+
+Local Phone Number 335-1500
+
+Title of 12(b) Security Common Stock, par value $0.0001 per share
+
+Trading Symbol GSAT
+
+Security Exchange Name NASDAQ
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-33117
+
+Entity Tax Identification Number 41-2116508
+
+Entity Address, Address Line One 1351 Holiday Square Blvd.
+
+Entity Address, City or Town Covington
+
+Entity Address, State or Province LA
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://www.globalstar.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+gsat-20250227.htm 
+gsat-20250227.xsd 
+gsat-20250227_lab.xml 
+gsat-20250227_pre.xml 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001366868-25-000030-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>gsat-20250227_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001366868 
+
+2025-02-27 
+2025-02-27 
+
+0001366868 
+false 
+8-K 
+2025-02-27 
+GLOBALSTAR, INC. 
+DE 
+001-33117 
+41-2116508 
+1351 Holiday Square Blvd. 
+Covington 
+LA 
+70433 
+985 
+335-1500 
+Common Stock, par value $0.0001 per share 
+GSAT 
+NASDAQ 
+false 
+false 
+false 
+false 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

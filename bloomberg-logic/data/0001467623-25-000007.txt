@@ -1,0 +1,1662 @@
+<SEC-DOCUMENT>0001467623-25-000007.txt : 20250220
+<SEC-HEADER>0001467623-25-000007.hdr.sgml : 20250220
+<ACCEPTANCE-DATETIME>20250220160457
+ACCESSION NUMBER:		0001467623-25-000007
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20250220
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250220
+DATE AS OF CHANGE:		20250220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DROPBOX, INC.
+		CENTRAL INDEX KEY:			0001467623
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				260138832
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38434
+		FILM NUMBER:		25645222
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1800 OWENS STREET, SUITE 200
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94158
+		BUSINESS PHONE:		415-986-7057
+
+	MAIL ADDRESS:	
+		STREET 1:		1800 OWENS STREET, SUITE 200
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94158
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Dropbox, Inc.
+		DATE OF NAME CHANGE:	20140210
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Evenflow, Inc.
+		DATE OF NAME CHANGE:	20090702
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>dbx-20250220.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?dbx-20250220
+
+0001467623false00014676232025-02-202025-02-20
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549
+
+Form 8-K
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) 
+
+of the Securities Exchange Act of 1934
+
+February 20, 2025
+
+Date of Report (date of earliest event reported)
+
+DROPBOX, INC.
+
+(Exact name of Registrant as specified in its charter)
+
+Delaware 001-38434 26-0138832
+
+(State or other jurisdiction of incorporation) (Commission File Number) (I. R. S. Employer Identification No.)
+
+1800 Owens St.
+
+San Francisco, California94158
+
+(Address of principal executive offices)
+
+(415) 930-7766
+
+(Registrants telephone number, including area code) 
+
+N/A 
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of exchange on which registered 
+
+Class A Common Stock, par value $0.00001 per share DBX The NASDAQ Stock Market LLC 
+
+(Nasdaq Global Select Market) 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter). 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02 Results of Operations and Financial Condition
+
+On February 20, 2025, Dropbox, Inc. (Dropbox or the "Company") issued a press release and will hold a conference call announcing its financial results for the quarter and fiscal year ended December 31, 2024. A copy of the press release is attached as Exhibit 99.1 to this current report on Form 8-K and is incorporated by reference herein. 
+
+Item 7.01 Regulation FD Disclosure
+
+On February 20, 2025, Dropbox posted supplemental investor materials on its investors.dropbox.com website. Dropbox intends to use its investors.dropbox.com website as a means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD. 
+
+The information in this current report on Form 8-K and the exhibits attached hereto shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act) or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, regardless of any general incorporation language in such filing. 
+
+Item 9.01 Financial Statements and Exhibits
+
+(d) Exhibits:
+
+Exhibit No. Exhibit Description
+
+99.1 
+
+Press Release entitled "Dropbox Announces Fourth Quarter and Fiscal 2024 Results" dated February 20, 2025
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+Dated: February 20, 2025
+
+Dropbox, Inc.
+
+/s/ Timothy J. Regan
+
+Timothy J. Regan
+
+Chief Financial Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>q42024er-exhibit991q2xq4.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Dropbox Announces Fourth Quarter and Fiscal 2024 Results
+
+Fourth Quarter Revenue of $643.6 Million, up 1.4% year-over-year; on a constant currency basis, up 1.1% year-over-year
+
+GAAP Operating Margin of 13.7% and Non-GAAP Operating Margin of 36.9%
+
+Net Cash Provided by Operating Activities of $213.8 Million and Free Cash Flow of $210.5 Million
+
+Fiscal 2024 Revenue of $2.548 Billion, up 1.9% year-over-year; on a constant currency basis, up 1.7% year-over-year
+
+GAAP Operating Margin of 19.1% and Non-GAAP Operating Margin of 36.4%
+
+Net Cash Provided by Operating Activities of $894.1 Million and Free Cash Flow of $871.6 Million
+
+SAN FRANCISCO, Calif. - February 20, 2025 - Dropbox, Inc. (NASDAQ: DBX), today announced financial results for its fourth quarter and fiscal year ended December 31, 2024.
+
+We delivered solid results in 2024 and made a lot of progress bringing our AI-powered product, Dash for Business, to market and restructuring our core business to be even more efficient, said Dropbox Co-Founder and Chief Executive Officer Drew Houston. Looking ahead to 2025, well continue with our strategy of scaling Dash, simplifying and strengthening our profitable core business, and integrating Dash and FSS to deliver even greater value to our customers. While still early, the positive feedback from our Dash users has been encouraging, validating the need for practical AI-powered tools that solve real customer pain-points in finding and securing all their content.
+
+Fourth Quarter Fiscal 2024 Results
+
+Total revenue was $643.6 million, an increase of 1.4% from the same period last year. On a constant currency basis, year-over-year growth would have been 1.1%.(1) Total revenue increased $4.8 million quarter-over-quarter.
+
+Total ARR was $2.574 billion, an increase of 2.0% from the same period last year. On a constant currency basis, year-over-year growth would have been 1.3%.(2) Total ARR decreased $4.8 million quarter-over-quarter.
+
+Paying users was 18.22 million, as compared to 18.12 million for the same period last year. Average revenue per paying user was $140.06, as compared to $138.83 for the same period last year. Paying users decreased by 15,000 paying users quarter-over-quarter.
+
+GAAP gross margin was 81.2%, as compared to 80.8% for the same period last year. Non-GAAP gross margin was 83.1%, as compared to 82.3% for the same period last year. Effective January 1, 2024, the Company changed the estimate of the useful lives of certain infrastructure server and component assets, which are included in property and equipment, net and are depreciated through cost of revenue, from four to five years. The effect of this change in estimate during the three months ended December 31, 2024 was a reduction in depreciation expense of $4.3 million.(3)
+
+GAAP operating margin was 13.7%, as compared to 42.1% for the same period last year, partially due to $47.2 million in expenses related to the Company's reduction in workforce, such as severance, benefits and other related items, which were incurred in the fourth quarter of 2024. Additionally, in the fourth quarter of 2023, the Company recorded a net gain on real estate assets of $158.8 million related to the partial termination of the Company's lease for its San Francisco, California corporate headquarters. Non-GAAP operating margin was 36.9%, as compared to 32.2% for the same period last year. 
+
+GAAP net income was $102.8 million, as compared to $227.3 million for the same period last year, with the decrease due to expenses related to the reduction in workforce in the fourth quarter of 2024 and the aforementioned net gain on real estate assets recorded in the fourth quarter of 2023. Non-GAAP net income was $222.6 million, as compared to $170.8 million for the same period last year. 
+
+Net cash provided by operating activities was $213.8 million, as compared to $200.3 million for the same period last year. Free cash flow was $210.5 million, as compared to $190.3 million for the same period last year. Cash flows in the fourth quarter of 2024 included $47.2 million of expenditures relating to the reduction in workforce. For the fourth
+
+quarter of 2023, the Company paid $28.1 million for the aforementioned partial termination of the Company's lease for
+
+its San Francisco, California corporate headquarters. 
+
+GAAP diluted net income per share attributable to common stockholders was $0.34, as compared to $0.66 in the same period last year. Non-GAAP diluted net income per share attributable to common stockholders was $0.73, as compared to $0.50 in the same period last year.(4)
+
+Cash, cash equivalents and short-term investments ended at $1,594.2 million.
+
+During the quarter, the Company entered into a $2.0 billion private credit and guaranty agreement. This consisted of $1.0 billion in initial term loans that mature in 2029 and $1.0 billion in delayed draw term loan commitments that may be borrowed through 2026. After deducting the net costs of certain expenses, total net proceeds from term loan facility was $949.9 million.
+
+During the quarter, the Company repurchased approximately 12.5 million shares for $350.4 million.
+
+Share Repurchase Authorization
+
+On December 11, 2024, the Company announced the authorization of a new share repurchase program for the purchase of an additional $1.2 billion of its Class A common stock. Repurchases will be made from time-to-time, subject to general business and market conditions, other investment opportunities, and applicable legal requirements. Repurchases may be made through open market purchases or in privately negotiated transactions, including through Rule 10b5-1 plans.
+
+Full Year Fiscal 2024 Results
+
+Total revenue was $2.548 billion, an increase of 1.9% year over year. On a constant currency basis, year-over-year growth would have been 1.7%.(1)
+
+Average revenue per paying user was $140.23, as compared to $139.38 in the prior year. 
+
+GAAP gross margin was 82.5%, as compared to 80.9% in the prior year. Non-GAAP gross margin was 84.0%, as compared to 82.5% in the prior year. 
+
+GAAP operating margin was 19.1%, as compared to 21.5% in the prior year. Non-GAAP operating margin was 36.4%, as compared to 32.8% in the prior year.
+
+GAAP net income was $452.3 million, as compared to $453.6 million in the prior year. Non-GAAP net income was $803.8 million, as compared to $685.0 million in the prior year.
+
+Net cash provided by operating activities was $894.1 million as compared to $783.7 million in the prior year. Free cash flow was $871.6 million as compared to $759.4 million in the prior year. 
+
+GAAP diluted net income per share attributable to common stockholders was $1.40, as compared to $1.31 in the prior year. Non-GAAP diluted net income per share attributable to common stockholders was $2.49, as compared to $1.98 in the prior year.(5)
+
+In the fiscal year ended December 31, 2024, the Company repurchased approximately 49.5 million shares for $1.2 billion.
+
+(1) We calculate constant currency revenue growth rates by applying the prior period weighted average exchange rates to current period results.
+
+(2) We calculate total annual recurring revenue ("Total ARR") as the number of users who have active paid licenses for access to our platform as of the end of the period, multiplied by their annualized subscription price to our platform. We adjust our exchange rates used to calculate Total ARR on an annual basis, at the beginning of each fiscal year. We calculate constant currency Total ARR growth rates by applying the current period exchange rate to prior period results.
+
+(3)The impact from the change in our estimate was calculated based on assets that existed as of the effective date of the change and applying the revised estimated useful lives prospectively. 
+
+(4) GAAP and Non-GAAP diluted net income per share attributable to common stockholders is calculated based upon 306.8 million and 343.9 million diluted weighted-average shares of common stock for the three months ended December 31, 2024 and 2023, respectively. 
+
+(5) GAAP and Non-GAAP diluted net income per share attributable to common stockholders is calculated based upon 323.4 million and 345.6 million diluted weighted-average shares of common stock for the fiscal year ended December 31, 2024 and 2023, respectively. 
+
+Financial Outlook
+
+Dropbox will provide forward-looking guidance in connection with this quarterly earnings announcement on its conference call, webcast, and on its investor relations website at http://investors.dropbox.com.
+
+Conference Call Information
+
+Dropbox plans to host a conference call today to review its fourth quarter financial results and to discuss its financial outlook. This call is scheduled to begin at 2:00 p.m. PT / 5:00 p.m. ET and can be accessed by using the web link at http://investors.dropbox.com. 
+
+About Dropbox
+
+Dropbox is the one place to keep life organized and keep work moving. With more than 700 million registered users across approximately 180 countries, we're on a mission to design a more enlightened way of working. Dropbox is headquartered in San Francisco, CA, and has employees around the world. For more information on our mission and products, visit http://dropbox.com.
+
+Use of Non-GAAP Financial Measures
+
+Reconciliations of non-GAAP financial measures to the most directly comparable financial results as determined in accordance with GAAP are included at the end of this press release following the accompanying financial data. For a description of these non-GAAP financial measures, including the reasons management uses each measure, please see the section of the tables titled "About Non-GAAP Financial Measures."
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 including, among other things, our expectations regarding distributed work and artificial intelligence and machine learning trends, related market opportunities and our ability to capitalize on those opportunities, as well as our ability to improve shareholder returns. Words such as "believe," "may," "will," "estimate," "continue," "anticipate," "intend," "expect," "plans," and similar expressions are intended to identify forward-looking statements. We have based these forward-looking statements largely on our current expectations and projections about future events and financial trends that we believe may affect our business, financial condition, and results of operations. These forward-looking statements speak only as of the date of this press release and are subject to risks, uncertainties, and assumptions including, but not limited to: (i) our ability to retain and upgrade paying users, and increase our recurring revenue; (ii) our ability to attract new users or convert registered users to paying users; (iii) our expectations regarding general economic, political, and market trends and their respective impacts on our business; (iv) impacts to our financial results and business operations as a result of pricing and packaging changes to our subscription plans; (v) our future financial performance, including trends in revenue, costs of revenue, gross profit or gross margin, operating expenses, paying users, and free cash flow; (vi) our ability to achieve or maintain profitability; (vii) our liability or other potential legal, regulatory, or reputational consequences of any unauthorized access to our data or our users content, including through privacy and data security breaches; (viii) significant disruption of service on our platform or loss of content; (ix) any decline in demand for our platform or for content collaboration solutions in general; (x) changes in the interoperability of our platform across devices, operating systems, and third-party applications that we do not control; (xi) competition in our markets; (xii) our ability to respond to rapid technological changes, extend our platform, develop new features or products, or gain market acceptance for such new features or products; (xiii) our ability to improve quality and ease of adoption of our new and enhanced product experiences, features, and capabilities; (xiv) our ability to manage our growth or plan for future growth; (xv) our various acquisitions of businesses and the potential of such acquisitions to require significant management attention, disrupt our business, or dilute stockholder value; (xvi) our ability to attract, retain, integrate, and manage key and other highly qualified personnel, including as a result of our reduction in workforce announced in October 2024 or our Virtual First model with an increasingly distributed workforce; (xvii) our ability to realize the intended benefits of our workforce reduction announced in October 2024, (xviii) our capital allocation plans with respect to our stock repurchase program and other investments; and (xix) the dual class structure of our common stock and its effect of concentrating voting control with certain stockholders who held our capital stock prior to the completion of our initial public offering. Further information on risks that could affect Dropboxs results is included in our filings with the Securities and Exchange Commission ("SEC"), including our Form 10-Q for the quarter ended September 30, 2024. Additional information will be made available in our annual report on Form 10-K for the year ended December 31, 2024 and other reports that we may file with the SEC from time to time, which could cause actual results to vary from expectations. If the risks materialize or assumptions prove incorrect, actual results could differ materially from the results implied by these forward-looking statements. Dropbox assumes no 
+
+obligation to, and does not currently intend to, update any such forward-looking statements after the date of this release, except as required by applicable law.
+
+Dropbox, Inc.
+
+Condensed Consolidated Statements of Operations
+
+(In millions, except per share data)
+
+(Unaudited)
+
+Three Months Ended
+
+December 31, Twelve Months Ended 
+
+December 31,
+
+2024 2023 2024 2023
+
+Revenue $ 643.6 $ 635.0 $ 2,548.2 $ 2,501.6 
+
+Cost of revenue(1)(2) 120.8 122.0 445.1 478.5 
+
+Gross profit 522.8 513.0 2,103.1 2,023.1 
+
+Operating expenses: 
+
+Research and development(1)(2) 243.0 222.1 914.9 936.5 
+
+Sales and marketing(1)(2) 128.9 119.6 460.7 466.0 
+
+General and administrative(1)(2) 62.9 61.3 241.2 237.1 
+
+Net loss (gain) on real estate assets(3) 0.1 (157.4) 0.1 (155.2) 
+
+Total operating expenses 434.9 245.6 1,616.9 1,484.4 
+
+Income from operations 87.9 267.4 486.2 538.7 
+
+Interest income (expense), net (1.9) 6.8 13.9 19.4 
+
+Other income (expense), net 6.4 (1.9) 9.7 (3.7) 
+
+Income before income taxes 92.4 272.3 509.8 554.4 
+
+Benefit from (provision for) income taxes 10.4 (45.0) (57.5) (100.8) 
+
+Net income $ 102.8 $ 227.3 $ 452.3 $ 453.6 
+
+Basic net income per share $ 0.34 $ 0.67 $ 1.42 $ 1.33 
+
+Diluted net income per share $ 0.34 $ 0.66 $ 1.40 $ 1.31 
+
+Weighted-average shares used in computing net income per share attributable to common stockholders, basic 301.5 337.5 318.2 341.2 
+
+Weighted-average shares used in computing net income per share attributable to common stockholders, diluted 306.8 343.9 323.4 345.6 
+
+(1) Includes stock-based compensation expense as follows (in millions):
+
+Three Months Ended
+
+December 31, Twelve Months Ended 
+
+December 31,
+
+2024 2023 2024 2023
+
+Cost of revenue $ 5.9 $ 5.7 $ 22.9 $ 23.3 
+
+Research and development(4) 61.3 58.7 247.6 237.6 
+
+Sales and marketing 6.3 5.0 23.7 22.0 
+
+General and administrative 12.2 13.5 52.3 55.1 
+
+Total stock-based compensation $ 85.7 $ 82.9 $ 346.5 $ 338.0 
+
+(2) Includes expenses related to our reduction in workforce such as severance, benefits and other related items during the quarters ended and years ended December 31, 2024, and 2023.
+
+(3) Impairment charges related to real estate assets for the quarters ended and years ended December 31, 2024, and 2023. The quarter ended and year ended December 31, 2023 includes a one-time gain of $158.8 million related to the partial termination of our San Francisco, California corporate headquarters lease.
+
+(4) On March 15, 2023, the former President resigned, resulting in the reversal of $6.7 million in stock-based compensation expense. Of the total amount reversed, $4.4 million related to expense recognized prior to January 1, 2023. 
+
+Dropbox, Inc.
+
+Condensed Consolidated Balance Sheets
+
+(In millions)
+
+(Unaudited)
+
+As of
+
+December 31, 2024 December 31, 2023
+
+Assets 
+
+Current assets: 
+
+Cash and cash equivalents $ 1,328.3 $ 614.9 
+
+Short-term investments 265.9 741.1 
+
+Trade and other receivables, net 70.4 68.7 
+
+Prepaid expenses and other current assets 73.8 91.9 
+
+Total current assets 1,738.4 1,516.6 
+
+Property and equipment, net 358.8 309.2 
+
+Operating lease right-of-use asset 158.9 183.8 
+
+Intangible assets, net 54.9 58.1 
+
+Goodwill 442.8 402.2 
+
+Deferred tax assets 466.7 460.4 
+
+Other assets 104.7 53.2 
+
+Total assets $ 3,325.2 $ 2,983.5 
+
+Liabilities and stockholders' deficit 
+
+Current liabilities: 
+
+Accounts payable $ 36.5 $ 38.5 
+
+Accrued and other current liabilities 143.2 155.2 
+
+Accrued compensation and benefits 105.2 109.2 
+
+Operating lease liability 64.9 57.4 
+
+Finance lease obligation 123.3 116.2 
+
+Term loan, net, current 10.0 
+
+Deferred revenue 727.7 725.0 
+
+Total current liabilities 1,210.8 1,201.5 
+
+Operating lease liability, non-current 250.4 310.7 
+
+Finance lease obligation, non-current 203.5 168.5 
+
+Convertible senior notes, net, non-current 1,381.6 1,377.8 
+
+Term loan, net, non-current 962.9 
+
+Other non-current liabilities 68.4 90.8 
+
+Total liabilities 4,077.6 3,149.3 
+
+Stockholders' deficit: 
+
+Additional paid-in-capital 2,404.2 2,598.0 
+
+Accumulated deficit (3,146.5) (2,742.3) 
+
+Accumulated other comprehensive loss (10.1) (21.5) 
+
+Total stockholders' deficit (752.4) (165.8) 
+
+Total liabilities and stockholders' deficit $ 3,325.2 $ 2,983.5 
+
+Dropbox, Inc.
+
+Condensed Consolidated Statements of Cash Flows
+
+(In millions)
+
+(Unaudited)
+
+Three Months Ended
+
+December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+Cash flows from operating activities 
+
+Net income $ 102.8 $ 227.3 $ 452.3 $ 453.6 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation and amortization 38.2 43.0 137.3 170.0 
+
+Stock-based compensation 85.7 82.9 346.5 338.0 
+
+Net loss (gain) on real estate assets 0.1 (157.4) 0.1 (155.2) 
+
+Amortization of debt issuance costs 1.4 1.0 4.6 4.2 
+
+Net loss on equity investments 0.2 0.2 
+
+Amortization of deferred commissions 7.7 8.4 30.3 38.6 
+
+Non-cash operating lease expense 8.8 9.5 35.9 43.5 
+
+Deferred taxes (8.6) 26.7 (5.4) 38.4 
+
+Other 9.0 (2.9) 3.8 (0.6) 
+
+Changes in operating assets and liabilities: 
+
+Trade and other receivables, net (2.0) (3.9) (2.4) (14.5) 
+
+Prepaid expenses and other current assets 5.8 (17.1) (5.4) (41.1) 
+
+Other assets 3.1 16.8 6.4 23.3 
+
+Accounts payable (0.7) (6.2) (4.5) 1.2 
+
+Accrued and other current liabilities (12.4) (11.5) (24.7) (20.8) 
+
+Accrued compensation and benefits 15.1 22.6 (4.1) (22.6) 
+
+Deferred revenue (12.3) (9.9) 1.5 21.6 
+
+Other non-current liabilities (9.9) 9.1 (6.4) (1.5) 
+
+Operating lease liabilities (18.2) (11.0) (57.0) (65.4) 
+
+Tenant improvement allowance reimbursement 1.0 1.1 
+
+Cash paid for lease termination (28.1) (14.9) (28.1) 
+
+Net cash provided by operating activities 213.8 200.3 894.1 783.7 
+
+Cash flows from investing activities 
+
+Capital expenditures (3.3) (10.0) (22.5) (24.3) 
+
+Purchase of intangible assets (0.2) (0.3) 
+
+Business combinations, net of cash acquired (57.8) 
+
+Purchases of short-term investments (96.1) (62.3) (208.7) 
+
+Proceeds from sales of short-term investments 77.4 16.6 241.7 352.4 
+
+Proceeds from maturities of short-term investments 30.5 55.1 313.7 252.2 
+
+Other 9.2 12.4 31.2 23.9 
+
+Net cash provided by (used in) investing activities 113.8 (22.0) 443.8 395.2 
+
+Cash flows from financing activities 
+
+Proceeds from term loan facility 1,000.0 1,000.0 
+
+Payments of debt issuance costs (50.1) (50.1) (0.1) 
+
+Payments for taxes related to net share settlement of restricted stock units and awards (39.5) (34.5) (148.7) (135.1) 
+
+Proceeds from issuance of common stock, net of taxes withheld 0.6 0.1 0.9 2.5 
+
+Principal payments on finance lease obligations (33.2) (31.4) (129.4) (126.6) 
+
+Common stock repurchases (353.3) (106.2) (1,241.6) (539.9) 
+
+Payment of acquisition-related indemnification holdback (0.6) (17.7) 
+
+Net cash provided by (used in) financing activities 523.9 (172.0) (586.6) (799.2) 
+
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash (8.6) 4.3 (5.7) 2.4 
+
+Change in cash, cash equivalents, and restricted cash 842.9 10.6 745.6 382.1 
+
+Cash, cash equivalents, and restricted cash - beginning of period 517.6 604.3 614.9 232.8 
+
+Cash, cash equivalents, and restricted cash - end of period $ 1,360.5 $ 614.9 $ 1,360.5 $ 614.9 
+
+Supplemental cash flow data: 
+
+Property and equipment acquired under finance leases $ 51.2 $ 50.6 $ 171.6 $ 144.7 
+
+Dropbox, Inc.
+
+Three Months Ended December 31, 2024 
+
+Reconciliation of GAAP to Non-GAAP results
+
+(In millions, except for percentages, which may not foot due to rounding)
+
+(Unaudited)
+
+GAAP Stock-based compensation Acquisition-related and other expenses Intangibles amortization 
+
+Net loss (gain) on real estate assets(1) 
+
+Workforce reduction expense(2) Non-GAAP
+
+Cost of revenue $ 120.8 $ (5.9) $ $ (3.6) $ $ (2.4) $ 108.9 
+
+Cost of revenue margin 18.8 % (0.9 %) % (0.6 %) % (0.4 %) 16.9 %
+
+Gross profit 522.8 5.9 3.6 2.4 534.7 
+
+Gross margin 81.2 % 0.9 % % 0.6 % % 0.4 % 83.1 %
+
+Research and development 243.0 (61.3) (9.6) (29.7) 142.4 
+
+Research and development margin 37.8 % (9.5 %) (1.5 %) % % (4.6 %) 22.1 %
+
+Sales and marketing 128.9 (6.3) (3.2) (12.5) 106.9 
+
+Sales and marketing margin 20.0 % (1.0 %) % (0.5 %) % (1.9 %) 16.6 %
+
+General and administrative 62.9 (12.2) (0.1) (2.6) 48.0 
+
+General and administrative margin 9.8 % (1.9 %) % % % (0.4 %) 7.5 %
+
+Net loss (gain) on real estate assets 0.1 (0.1) 
+
+Net loss (gain) on real estate assets margin % % % % % % %
+
+Income from operations $ 87.9 $ 85.7 $ 9.7 $ 6.8 $ 0.1 $ 47.2 $ 237.4 
+
+Operating margin 13.7 % 13.3 % 1.5 % 1.1 % % 7.3 % 36.9 %
+
+(1) Includes impairment charges related to real estate assets. 
+
+(2) Includes expenses related to our 2024 reduction in workforce such as severance, benefits and other related items.
+
+Dropbox, Inc. 
+
+Three Months Ended December 31, 2023 
+
+Reconciliation of GAAP to Non-GAAP results
+
+(In millions, except for percentages, which may not foot due to rounding)
+
+(Unaudited)
+
+GAAP Stock-based compensation Acquisition-related and other expenses Intangibles amortization 
+
+Net (gain) loss on real estate assets (1) 
+
+Workforce reduction expense(2) Non-GAAP
+
+Cost of revenue $ 122.0 $ (5.7) $ $ (3.7) $ $ $ 112.6 
+
+Cost of revenue margin 19.2 % (0.9 %) % (0.6 %) % % 17.7 %
+
+Gross profit 513.0 5.7 3.7 522.4 
+
+Gross margin 80.8 % 0.9 % % 0.6 % % % 82.3 %
+
+Research and development 222.1 (58.7) (4.3) (0.2) 158.9 
+
+Research and development margin 35.0 % (9.2 %) (0.7 %) % % % 25.0 %
+
+Sales and marketing 119.6 (5.0) (3.4) (0.1) 111.1 
+
+Sales and marketing margin 18.8 % (0.8 %) % (0.5 %) % % 17.5 %
+
+General and administrative 61.3 (13.5) (0.1) 47.7 
+
+General and administrative margin 9.7 % (2.1 %) % % % % 7.5 %
+
+Net (gain) loss on real estate assets (157.4) 157.4 
+
+Net (gain) loss on real estate assets margin (24.8 %) % % % 24.8 % % %
+
+Income from operations $ 267.4 $ 82.9 $ 4.3 $ 7.1 $ (157.4) $ 0.4 $ 204.7 
+
+Operating margin 42.1 % 13.1 % 0.7 % 1.1 % (24.8 %) 0.1 % 32.2 %
+
+(1) Includes a one-time gain of $158.8million related to the partial termination of our lease for our San Francisco, California corporate
+
+headquarters and impairment charges related to real estate assets.
+
+(2) Includes expenses related to our 2023 reduction in workforce such as severance, benefits and other related items.
+
+Dropbox, Inc.
+
+Twelve Months Ended December 31, 2024 
+
+Reconciliation of GAAP to Non-GAAP results
+
+(In millions, except for percentages, which may not foot due to rounding)
+
+(Unaudited)
+
+GAAP Stock-based compensation Acquisition-related and other expenses Intangibles amortization 
+
+Net loss (gain) on real estate assets(1) 
+
+Workforce reduction expense(2) Non-GAAP
+
+Cost of revenue $ 445.1 $ (22.9) $ $ (13.1) $ $ (2.4) $ 406.7 
+
+Cost of revenue margin 17.5 % (0.9 %) % (0.5 %) % (0.1 %) 16.0 %
+
+Gross profit 2,103.1 22.9 13.1 2.4 2,141.5 
+
+Gross margin 82.5 % 0.9 % % 0.5 % % 0.1 % 84.0 %
+
+Research and development 914.9 (247.6) (19.5) (29.7) 618.1 
+
+Research and development margin 35.9 % (9.7 %) (0.8 %) % % (1.2 %) 24.3 %
+
+Sales and marketing 460.7 (23.7) (12.7) (12.5) 411.8 
+
+Sales and marketing margin 18.1 % (0.9 %) % (0.5 %) % (0.5 %) 16.2 %
+
+General and administrative 241.2 (52.3) (2.2) (2.6) 184.1 
+
+General and administrative margin 9.5 % (2.1 %) (0.1 %) % % (0.1 %) 7.2 %
+
+Net loss (gain) on real estate assets 0.1 (0.1) 
+
+Net loss (gain) on real estate assets margin % % % % % % %
+
+Income from operations $ 486.2 $ 346.5 $ 21.7 $ 25.8 $ 0.1 $ 47.2 $ 927.5 
+
+Operating margin 19.1 % 13.6 % 0.9 % 1.0 % % 1.9 % 36.4 %
+
+(1) Includes impairment charges related real estate assets. 
+
+(2) Includes expenses related to our 2024 reduction in workforce such as severance, benefits and other related items.
+
+Dropbox, Inc. 
+
+Twelve Months Ended December 31, 2023 
+
+Reconciliation of GAAP to Non-GAAP results
+
+(In millions, except for percentages, which may not foot due to rounding)
+
+(Unaudited)
+
+GAAP Stock-based compensation Acquisition-related and other expenses Intangibles amortization 
+
+Net (gain) loss on real estate assets(1) 
+
+Workforce reduction expense(2) Non-GAAP
+
+Cost of revenue $ 478.5 $ (23.3) $ $ (14.6) $ $ (2.9) $ 437.7 
+
+Cost of revenue margin 19.1 % (0.9 %) % (0.6 %) % (0.1 %) 17.5 %
+
+Gross profit 2,023.1 23.3 14.6 2.9 2,063.9 
+
+Gross margin 80.9 % 0.9 % % 0.6 % % 0.1 % 82.5 %
+
+Research and development 936.5 (237.6) (22.2) (27.8) 648.9 
+
+Research and development margin 37.4 % (9.5 %) (0.9 %) % % (1.1 %) 25.9 %
+
+Sales and marketing 466.0 (22.0) (8.3) (13.6) (6.7) 415.4 
+
+Sales and marketing margin 18.6 % (0.9 %) (0.3 %) (0.5 %) % (0.3 %) 16.6 %
+
+General and administrative 237.1 (55.1) (0.4) (1.9) 179.7 
+
+General and administrative margin 9.5 % (2.2 %) % % % (0.1 %) 7.2 %
+
+Net (gain) loss on real estate assets (155.2) 155.2 
+
+Net (gain) loss on real estate assets margin (6.2 %) % % % 6.2 % % %
+
+Income from operations $ 538.7 $ 338.0 $ 30.9 $ 28.2 $ (155.2) $ 39.3 $ 819.9 
+
+Operating margin 21.5 % 13.5 % 1.2 % 1.1 % (6.2 %) 1.6 % 32.8 %
+
+(1) Includes a one-time gain of $158.8million related to the partial termination of our lease for our San Francisco, California corporate
+
+headquarters and impairment charges related to real estate assets.
+
+(2) Includes expenses related to our 2023 reduction in workforce such as severance, benefits and other related items.
+
+Dropbox, Inc. 
+
+Three and Twelve Months Ended December 31, 2024 and 2023 
+
+Reconciliation of GAAP net income to Non-GAAP net income and Non-GAAP diluted net income per share
+
+(In millions, except per share data)
+
+(Unaudited)
+
+Three Months Ended
+
+December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+GAAP net income $ 102.8 $ 227.3 $ 452.3 $ 453.6 
+
+Stock-based compensation 85.7 82.9 346.5 338.0 
+
+Acquisition-related and other expenses 9.7 4.3 21.7 30.9 
+
+Amortization of acquired intangible assets 6.8 7.1 25.8 28.2 
+
+Net loss (gain) on real estate assets 0.1 (157.4) 0.1 (155.2) 
+
+Workforce reduction expense 47.2 0.4 47.2 39.3 
+
+Net loss on equity investments 0.2 0.2 
+
+Income tax effects of non-GAAP adjustments (29.9) 6.2 (90.0) (49.8) 
+
+Non-GAAP net income $ 222.6 $ 170.8 $ 803.8 $ 685.0 
+
+Non-GAAP diluted net income per share $ 0.73 $ 0.50 $ 2.49 $ 1.98 
+
+Weighted-average shares used to compute Non-GAAP diluted net income per share 306.8 343.9 323.4 345.6 
+
+Dropbox, Inc.
+
+Three and Twelve Months Ended December 31, 2024 and 2023 
+
+Reconciliation of free cash flow and supplemental cash flow disclosure
+
+(In millions, except for percentages)
+
+(Unaudited)
+
+Three Months Ended
+
+December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+Free cash flow reconciliation: 
+
+Net cash provided by operating activities $ 213.8 $ 200.3 $ 894.1 $ 783.7 
+
+Less: 
+
+Capital expenditures (3.3) (10.0) (22.5) (24.3) 
+
+Free cash flow $ 210.5 $ 190.3 $ 871.6 $ 759.4 
+
+Free cash flow margin 32.7 % 30.0 % 34.2 % 30.4 %
+
+Supplemental disclosures: 
+
+Key employee holdback payments related to acquisitions(1) $ 0.3 $ 0.5 $ 1.8 $ 22.4 
+
+Payments related to workforce reduction(2) $ 52.0 $ 0.4 $ 52.1 $ 39.3 
+
+Cash paid for lease termination(3) $ $ 28.1 $ 14.9 $ 28.1 
+
+(1) Includes payments related to employee holdbacks pertaining to our acquisitions. The related expenses are recognized within research and development expenses over the required service period during the year ended December 31, 2024.
+
+(2) Includes payments made related to our reductions in workforce such as severance, benefits, and other related items. During the year and quarter ended December 31, 2024, total cash payments included the accrued pro rata amount of annual employee bonus.
+
+(3) Includes payments made for the partial termination of our lease for our San Francisco, California corporate headquarters during the years ended December 31, 2024, and 2023 and the quarter ended December 31, 2023.
+
+About Non-GAAP Financial Measures
+
+To provide investors and others with additional information regarding Dropbox's results, we have disclosed the following non-GAAP financial measures: revenue growth and Total ARR growth excluding foreign exchange effect, which we refer to as on a constant currency basis, non-GAAP cost of revenue, non-GAAP gross profit, non-GAAP operating expenses (including research and development, sales and marketing and general and administrative), non-GAAP income from operations, non-GAAP net income, free cash flow ("FCF") and non-GAAP diluted net income per share. Dropbox has provided a reconciliation of each non-GAAP financial measure used in this earnings release to the most directly comparable GAAP financial measure. Non-GAAP cost of revenue, gross profit, operating expenses, income from operations, and net income differ from GAAP in that they exclude stock-based compensation expense, amortization of acquired intangible assets, other acquisition-related expenses, which include third-party diligence costs and expenses related to key employee holdback agreements, net gain or loss on real estate assets, expenses related to our reduction in workforce, net loss on equity investments and the income tax effect of the aforementioned adjustments. FCF differs from GAAP net cash provided by operating activities in that it treats capital expenditures as a reduction to net cash provided by operating activities. Free cash flow margin is calculated as FCF divided by revenue. In order to present revenue on a constant currency basis for the quarter ended December 31, 2024, Dropbox calculates constant currency revenue growth rates by applying the prior period weighted average exchange rates to current period results. Dropbox calculates constant currency Total ARR growth rates by applying the current period rate to prior period results. Dropbox presents constant currency information to provide a framework for assessing how our underlying business performed excluding the effect of foreign currency rate fluctuations.
+
+Dropbox's management uses these non-GAAP financial measures to understand and compare operating results across accounting periods, for internal budgeting and forecasting purposes, for short and long-term operating plans, and to evaluate Dropbox's financial performance and the ability to generate cash from operations. Management believes these non-GAAP financial measures reflect Dropbox's ongoing business in a manner that allows for meaningful period-to-period comparisons and analysis of trends in Dropbox's business, as they exclude expenses that are not reflective of ongoing operating results. Management also believes that these non-GAAP financial measures provide useful supplemental information to investors and others in understanding and evaluating Dropbox's operating results and future prospects in the same manner as management and in comparing financial results across accounting periods and to those of peer companies.
+
+We believe that the non-GAAP financial measures, non-GAAP cost of revenue, gross profit, operating expenses, income from operations, net income, and diluted net income per share are meaningful to investors because they help identify underlying trends in our business that could otherwise be masked by the effect of the expenses that we exclude.
+
+We believe that FCF is an indicator of our liquidity over the long term and provides useful information regarding cash provided by operating activities and cash used for investments in property and equipment required to maintain and grow our business. FCF is presented for supplemental informational purposes only and should not be considered a substitute for financial information presented in accordance with GAAP. FCF has limitations as an analytical tool, and it should not be considered in isolation or as a substitute for analysis of other GAAP financial measures, such as net cash provided by operating activities. Some of the limitations of FCF are that FCF does not reflect our future contractual commitments, excludes investments made to acquire assets under finance leases, includes capital expenditures, and may be calculated differently by other companies in our industry, limiting its usefulness as a comparative measure.
+
+The use of non-GAAP cost of revenue, gross profit, operating expenses, income from operations, net income, free cash flow, and diluted net income per share measures has certain limitations as they do not reflect all items of income, expense, and cash expenditures, as applicable, that affect Dropbox's operations. Dropbox mitigates these limitations by reconciling the non-GAAP financial measures to the most comparable GAAP financial measures. Additionally, we have provided supplemental disclosures in our reconciliation of net cash provided by operating activities to free cash flow to include expenses related to key employee holdback payments related to our various acquisitions, payments related to workforce reduction and cash paid for lease termination. These non-GAAP financial measures should be considered in addition to, not as a substitute for or in isolation from, measures prepared in accordance with GAAP. Further, these non-GAAP measures may differ from the non-GAAP information used by other companies, including peer companies, and therefore comparability may be limited. Management encourages investors and others to review Dropbox's financial information in its entirety and not rely on a single financial measure.
+
+Contacts
+
+Investors:
+
+Peter Stabler
+
+ir@dropbox.com
+
+or 
+
+Media:
+
+Maddy Pelton
+
+press@dropbox.com
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>dbx-20250220.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Document and Entity Information Document 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>dbx-20250220_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover [Abstract] 
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Amendment Flag 
+Amendment Flag 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>dbx-20250220_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Document and Entity Information Document
+
+Feb. 20, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 20, 2025
+
+Entity Registrant Name DROPBOX, INC.
+
+Entity Central Index Key 0001467623
+
+Amendment Flag false
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-38434
+
+Entity Tax Identification Number 26-0138832
+
+Entity Address, Address Line One 1800 Owens St.
+
+Entity Address, City or Town San Francisco
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 94158
+
+City Area Code 415
+
+Local Phone Number 930-7766
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Class A Common Stock, par value $0.00001 per share
+
+Trading Symbol DBX
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Document and Entity Information Document 
+Sheet 
+http://www.dropbox.com/role/DocumentandEntityInformationDocument 
+Document and Entity Information Document 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+dbx-20250220.htm 
+dbx-20250220.xsd 
+dbx-20250220_lab.xml 
+dbx-20250220_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>14
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>15
+<FILENAME>0001467623-25-000007-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>dbx-20250220_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001467623 
+
+2025-02-20 
+2025-02-20 
+
+0001467623 
+false 
+8-K 
+2025-02-20 
+DROPBOX, INC. 
+DE 
+001-38434 
+26-0138832 
+1800 Owens St. 
+San Francisco 
+CA 
+94158 
+415 
+930-7766 
+false 
+false 
+false 
+false 
+Class A Common Stock, par value $0.00001 per share 
+DBX 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

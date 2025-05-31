@@ -1,0 +1,1654 @@
+<SEC-DOCUMENT>0001834488-25-000039.txt : 20250303
+<SEC-HEADER>0001834488-25-000039.hdr.sgml : 20250303
+<ACCEPTANCE-DATETIME>20250303070521
+ACCESSION NUMBER:		0001834488-25-000039
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250303
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250303
+DATE AS OF CHANGE:		20250303
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			N-able, Inc.
+		CENTRAL INDEX KEY:			0001834488
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				854069861
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40297
+		FILM NUMBER:		25693738
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1209 ORANGE STREET
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+		BUSINESS PHONE:		5126829300
+
+	MAIL ADDRESS:	
+		STREET 1:		1209 ORANGE STREET
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	N-able, LLC
+		DATE OF NAME CHANGE:	20210323
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SWI Spinco, LLC
+		DATE OF NAME CHANGE:	20201202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>nabl-20250303.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?nabl-20250303
+
+0001834488False00018344882025-03-032025-03-03
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF
+
+THE SECURITIES EXCHANGE ACT OF 1934
+
+March 3, 2025
+
+Date of Report (Date of earliest event reported)
+
+N-able, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-40297 85-4069861
+
+(State or other jurisdiction
+
+of incorporation) (Commission
+
+File Number) (IRS Employer
+
+Identification No.)
+
+30 Corporate Drive
+
+Suite 400
+
+Burlington, Massachusetts01803
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code: (781) 328-6490
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class Trading Symbol Name of Each Exchange on Which Registered
+
+Common Stock, $0.001 par value NABL New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On March 3, 2025, N-able, Inc. (N-able) issued a press release regarding, and will hold a conference call announcing, its financial results for the fourth quarter and fiscal year ended December 31, 2024. A copy of N-able's press release is attached hereto as Exhibit 99.1.
+
+The information contained in this report shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liability of that section. The information in this report shall not be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+N-able refers to non-GAAP financial information in both the press release and the conference call. A reconciliation of these non-GAAP financial measures to the comparable GAAP financial measures is contained in the attached press release. 
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+
+Number Description
+
+99.1 
+
+Press release issued by N-able, Inc. dated March 3, 2025
+
+104 Cover Page Interactive Data File (formatted as Inline XBRL)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+N-able, Inc.
+
+Dated: March 3, 2025 By: /s/ Tim O'Brien
+
+Tim O'Brien
+
+Chief Financial Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>nabl-20241231x8kxex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Exhibit 99.1
+
+N-able Announces Fourth Quarter and Full-Year 2024 Results
+
+Exceeded Fourth Quarter Revenue Guidance, Delivering 7% Year-Over-Year Growth
+
+Full-Year 2025 Adjusted EBITDA Outlook of 27% to 28%
+
+Full-Year 2025 Constant Currency ARR Outlook of 7% to 9% Year-Over-Year Growth 
+
+BURLINGTON, Massachusetts - March 3, 2025 - N-able, Inc. (NYSE:NABL), a global software company helping IT services providers deliver security, data protection as-a-service and unified endpoint management, today reported results for its fourth quarter and full year ended December 31, 2024.
+
+We closed 2024 in a position of strength and we believe we are poised for even greater success in 2025, said N-able president and CEO John Pagliuca. Businesses everywhere need cyber-resilience, and we are investing to further our security leadership, deepen our channel partnerships, and deliver the critical protection our customers deserve. Our guide calls for over $500 million of ARR and strong profit margins. We are executing at scale with a durable business model. 
+
+N-able made considerable progress across the business in 2024, added N-able CFO Tim OBrien. Our product and go-to-market teams executed critical initiatives, the strategic acquisition of Adlumin expanded the aperture of our business, and we once again operated above the Rule of 40. We firmly believe we have the right pieces in place to win in our markets, and are investing to seize an expanding market opportunity and scale N-able to new heights.
+
+Fourth quarter 2024 financial highlights:
+
+Total revenue of $116.5 million, representing 7.5% year-over-year growth, or 7.5% year-over-year growth on a constant currency basis. 
+
+Subscription revenue of $115.0 million, representing 8.5% year-over-year growth, or 8.5% year-over-year growth on a constant currency basis.
+
+GAAP gross margin of 80.0% and non-GAAP gross margin of 82.3%.
+
+GAAP net income of $3.3 million, or $0.02 per diluted share, and non-GAAP net income of $18.8 million, or $0.10 per diluted share.
+
+Adjusted EBITDA of $38.1 million, representing an adjusted EBITDA margin of 32.7%.
+
+Full-year 2024 financial highlights:
+
+Total revenue of $466.1 million, representing 10.5% year-over-year growth, or 10.2% year-over-year growth on a constant currency basis. 
+
+Subscription revenue of $459.0 million, representing 11.4% year-over-year growth, or 11.1% year-over-year growth on a constant currency basis.
+
+Total ARR of $482.5 million, representing 8.6% year-over-year growth, or 10.3% year-over-year growth on a constant currency basis.
+
+GAAP gross margin of 82.7% and non-GAAP gross margin of 83.8%.
+
+GAAP net income of $31.0 million, or $0.16 per diluted share, and non-GAAP net income of $89.6 million, or $0.48 per diluted share.
+
+Adjusted EBITDA of $169.4 million, representing an adjusted EBITDA margin of 36.3%.
+
+For a reconciliation of our GAAP to non-GAAP results, please see the tables below. 
+
+Additional highlights for the fourth quarter of 2024 include:
+
+Nable acquires existing strategic partner Adlumin, adding cloud-native XDR and MDR capabilities to its end-to-end security and IT management platform. The acquisition will allow Nable to incorporate Adlumins innovative technology with Nables industry-leading platform that combines security, data protection-as-a-service and unified 
+
+endpoint management. This powerful combination positions Nable to deliver deeper insights and remediation across the entire IT environmentadvancing the evolution of Nables cybersecurity portfolio.
+
+N-able adds key hires to further strengthen its Channel strategy. The addition of Jonathan Bartholomew, Vice President of Channel Sales; Paul Monaghan, Vice President of EMEA Sales; and Andy Hudson, Vice President of International Marketing, underscore the expanding support Nable has for the rapidly growing IT services market and its multi-layered channel with an active presence in over 140 countries.
+
+Balance Sheet
+
+As of December 31, 2024, total cash and cash equivalents were $85.2 million and total debt, net of debt issuance costs, was $333.1 million. 
+
+The financial results included in this press release are preliminary and pending final review by the company and its external auditors. Financial results will not be final until N-able files its annual report on Form 10-K for the period. Information about N-able's use of non-GAAP financial measures is provided below under Non-GAAP Financial Measures. 
+
+Financial Outlook
+
+As of March 3, 2025, N-able is providing its financial outlook for the first quarter of 2025 and full-year 2025. The financial information below represents forward-looking non-GAAP financial information, including adjusted EBITDA. These non-GAAP financial measures exclude, among other items mentioned below, amortization of acquired intangible assets and developed technology, depreciation expense, income tax expense, interest expense, net, unrealized foreign currency (gains) losses, transaction related costs, spin-off costs, stock-based compensation expense and related employer-paid payroll taxes and restructuring and other costs. We have not reconciled our estimates of these non-GAAP financial measures to their most directly comparable GAAP measure as a result of uncertainty regarding, and the potential variability of, these excluded items in future periods. Accordingly, reconciliation is not available without unreasonable effort, although it is important to note that these excluded items could be material to our results computed in accordance with GAAP in future periods. Our reported results provide reconciliations of non-GAAP financial measures to their nearest GAAP equivalents. 
+
+The financial outlook provided below reflects N-able's expectations, as of the date of this release, regarding the impact on its business of changing foreign exchange rates and current macroeconomic dynamics.
+
+Financial Outlook for the First Quarter of 2025 
+
+N-able management currently expects to achieve the following results for the first quarter of 2025:
+
+Total revenue in the range of $115.0 to $116.0 million, representing approximately 1% to 2% year-over-year growth, or approximately 3% to 4% growth on a constant currency basis.
+
+Adjusted EBITDA in the range of $27.5 to $28.5 million, representing approximately 24% to 25% of total revenue.
+
+Financial Outlook for Full-Year 2025 
+
+N-able management currently expects to achieve the following results for the full-year 2025:
+
+Total ARR in the range of $514.0 to $522.0 million, representing 7% to 8% year-over-year growth, or approximately 7% to 9% growth on a constant currency basis.
+
+Total revenue in the range of $486.5 to $492.5 million, representing approximately 4% to 6% year-over-year growth, or approximately 6% to 8% growth on a constant currency basis.
+
+Adjusted EBITDA in the range of $132.0 to $138.0 million, representing approximately 27% to 28% of total revenue.
+
+Additional details on the company's outlook will be provided on the conference call.
+
+Conference Call and Webcast
+
+In conjunction with this announcement, N-able will host a conference call today to discuss its financial results, business and business outlook at 8:30 a.m. ET on March 3, 2025. A live webcast of the call will be available on the N-able Investor Relations website at http://investors.n-able.com. A replay of the webcast will be available on a temporary basis shortly after the event on the N-able Investor Relations website.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements, which are subject to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, including statements regarding our financial outlook for the fourth quarter and full-year 2024 and the impact of macroeconomic conditions on our business. These forward-looking statements are based on management's beliefs and assumptions and on information currently available to management. Forward-looking statements include all statements that are not historical facts and may be signified by terms such as aim, anticipate, believe, continue, expect, feel, intend, estimate, seek, plan, may, can, could, should, will, would or similar expressions and the negatives of those terms. Forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, performance or achievements to be materially and adversely different from any future results, performance or achievements expressed or implied by the forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, the following: (a) the impact of adverse economic conditions; (b) our ability to sell subscriptions to new customers, to sell additional solutions to our existing customers and to increase the usage of our solutions by our existing customers, as well as our ability to generate and maintain customer loyalty; (c) any decline in our renewal or net retention rates; (d) the possibility that general economic, political, legal and regulatory conditions and uncertainty may cause information technology spending to be reduced or purchasing decisions to be delayed, including as a result of inflation, actions taken by central banks to counter inflation, rising interest rates, war and political unrest, military conflict (including between Russia and Ukraine and in the Middle East), terrorism, sanctions, trade or other issues in the U.S. and internationally, including increased tariffs or trade wars, or other geopolitical events globally, or that such factors may otherwise harm our business, financial condition or results of operations; (e) any inability to generate significant volumes of high-quality sales leads from our digital marketing initiatives and convert such leads into new business at acceptable conversion rates; (f) any inability to successfully identify, complete and integrate acquisitions and manage our growth effectively; (g) any inability to resell third-party software or integrate third-party software into our solutions, or find suitable replacements for such third-party software; (h) risks associated with our international operations; (i) foreign exchange gains and losses related to expenses and sales denominated in currencies other than the functional currency of an associated entity; (j) risks that cyberattacks, including the cyberattack on SolarWinds Orion Software Platform and internal systems announced by SolarWinds in December 2020 (the Cyber Incident), and other security incidents may result in compromises or breaches of our, our customers, or their SMB and mid-market customers systems, the insertion of malicious code, malware, ransomware or other vulnerabilities into our, our customers, or their SMB and mid-market customers environments, the exploitation of vulnerabilities in our, our customers, or their SMB and mid-market customers security, the theft or misappropriation of our, our customers, or their SMB and mid-market customers proprietary and confidential information, and interference with our, our customers, or their SMB and mid-market customers operations, exposure to legal and other liabilities, higher customer and employee attrition and the loss of key personnel, negative impacts to our sales, renewals and upgrades and reputational harm and other serious negative consequences, any or all of which could materially harm our business; (k) our status as a controlled company; (l) our ability to attract and retain qualified employees and key personnel; (m) the timing and success of new product introductions and product upgrades by us or our competitors; (n) our ability to maintain or grow our brands, including the Adlumin brand; (o) our ability to protect and defend our intellectual property and not infringe upon others intellectual property; (p) the possibility that our operating income could fluctuate and may decline as a percentage of revenue as we make further expenditures to expand our operations in order to support growth in our business; (q) our indebtedness, including increased borrowing costs resulting from rising interest rates, potential restrictions on our operations and the impact of events of default; (r) our ability to operate our business internationally and increase sales of our solutions to our customers located outside of the United States; (s) risks related to our spin-off from SolarWinds into a newly created and separately-traded public company, including that the spin-off may not achieve some or all of any anticipated benefits with respect to our business; that the distribution, together with certain related transactions, may not qualify as a transaction that is generally tax-free for U.S. federal income tax purposes, which could result in N-able incurring significant tax liabilities, and, in certain circumstances, requiring us to indemnify SolarWinds for material taxes and other related amounts pursuant to indemnification obligations under the tax matters agreement; and (t) such other risks and uncertainties described more fully in documents filed with or furnished to the Securities and Exchange Commission, including the risk factors described in N-ables Annual Report on Form 10-K for the year ended December 31, 2023, that N-able filed with the SEC on February 29, 2024, and those that will be described in N-ables Annual Report on Form 10-K for the year ended December 31, 2024, that N-able anticipates filing on or about March 3, 2025. All information provided in this release is as of the date hereof and N-able undertakes no duty to update this information except as required by law.
+
+Non-GAAP Financial Measures
+
+In addition to financial measures prepared in accordance with GAAP, we use certain non-GAAP financial measures to clarify and enhance our understanding, and aid in the period-to-period comparison, of our performance. We believe that these non-GAAP financial measures provide supplemental information that is meaningful when assessing our operating performance because they exclude the impact of certain amounts that our management and board of directors do not consider part of core operating results when assessing our operational performance, allocating resources, preparing annual budgets and determining compensation. Accordingly, these non-GAAP financial measures may provide insight to investors into the motivation and decision-making of management in operating the business.
+
+N-able also believes that these non-GAAP financial measures are used by investors and securities analysts to (a) compare and evaluate its performance from period to period and (b) compare its performance to those of its competitors. These non-GAAP measures exclude certain items that can vary substantially from company to company depending upon their financing and accounting methods, the book value of their assets, their capital structures and the method by which their assets were acquired.
+
+As a result, these non-GAAP financial measures have limitations and should not be considered in isolation from, or as a substitute for, their most comparable GAAP measures. These non-GAAP financial measures are not prepared in accordance with GAAP, do not reflect a comprehensive system of accounting and may not be completely comparable to similarly titled measures of other companies due to potential differences in the exact method of calculation between companies. Certain items that are excluded from these non-GAAP financial measures can have a material impact on operating and net income. 
+
+N-able's management and board of directors compensate for these limitations by using these non-GAAP financial measures as supplements to GAAP financial measures and by reviewing the reconciliations of the non-GAAP financial measures to their most comparable GAAP financial measure. Set forth in the tables below are the corresponding GAAP financial measures for each non-GAAP financial measure presented. Investors are encouraged to review the reconciliations of these non-GAAP financial measures to their most comparable GAAP financial measures that are set forth in the tables below.
+
+Definitions of Non-GAAP and Other Metrics
+
+Annual Recurring Revenue (ARR). We calculate ARR by annualizing the recurring revenue and related usage revenue inclusive of discounts, excluding the impacts of credits and reserves, recognized during the last day of the reporting period from both long-term and month-to-month subscriptions. We believe ARR enhances the understanding of our business performance and the growth of our relationships with our customers.
+
+Non-GAAP Gross Margin, Non-GAAP Operating Income and Non-GAAP Operating Margin. We provide non-GAAP total cost of revenue, non-GAAP gross margin, non-GAAP operating expense and non-GAAP operating income and related non-GAAP gross and operating margins excluding such items as stock-based compensation expense and related employer-paid payroll taxes, amortization of acquired intangible assets, transaction related costs, spin-off costs and restructuring costs and other. We define non-GAAP gross and operating margins as non-GAAP gross profit and operating income divided by total revenue. Management believes these measures are useful for the following reasons:
+
+Stock-Based Compensation Expense and Related Employer-Paid Payroll Taxes. We provide non-GAAP information that excludes expenses related to stock-based compensation and related employer-paid payroll taxes associated with our employees participation in N-able's stock-based incentive compensation plans. We believe that the exclusion of stock-based compensation expense provides for a better comparison of our operating results to prior periods and to our peer companies as the calculations of stock-based compensation vary from period to period and company to company due to different valuation methodologies, subjective assumptions and the variety of award types. Employer-paid payroll taxes on stock-based compensation is dependent on our stock price and the timing of the taxable events related to the equity awards, over which our management has little control, and does not necessarily correlate to the core operation of our business. Because of these unique characteristics of stock-based compensation and related employer-paid payroll taxes, management excludes these expenses when analyzing the organizations business performance.
+
+Amortization of Acquired Technologies and Intangible Assets. We provide non-GAAP information that excludes expenses related to purchased technologies and intangible assets associated with our acquisitions. We believe that eliminating this expense from our non-GAAP measures is useful to investors because the amortization of acquired technologies and intangible assets can be inconsistent in amount and frequency and is significantly impacted by the timing and magnitude of our acquisition transactions, which also vary in frequency from period to period. Accordingly, we analyze the performance of our operations in each period without regard to such expenses.
+
+Transaction Related Costs.We exclude certain expense items resulting from proposed and completed acquisitions, dispositions and similar transactions, such as legal, accounting and advisory fees, changes in fair value of contingent consideration, costs related to integrating the acquired businesses, deferred compensation, severance and retention expense. We consider these adjustments, to some extent, to be unpredictable and dependent on a significant number of factors that are outside of our control. Furthermore, such proposed and completed transactions result in operating expenses that would not otherwise have been incurred by us in the normal course of our organic business operations. We believe that providing non-GAAP measures that exclude transaction related costs allows investors to better review and understand the historical and current results of our continuing operations and also facilitates comparisons to our historical results and results of peer companies with different transaction related activities, both with and without such adjustments.
+
+Spin-off Costs. We exclude certain expense items resulting from the spin-off into a newly created and separately traded public company. These costs include legal, accounting and advisory fees, system implementation costs and other incremental costs incurred by us related to the separation from SolarWinds. The spin-off transaction results in operating expenses that would not otherwise have been incurred by us in the normal course of our organic business operations. We believe that providing non-GAAP measures that exclude these costs facilitates a more meaningful evaluation of our operating performance and comparisons to our past operating performance.
+
+Restructuring Costs and Other. We provide non-GAAP information that excludes restructuring costs such as severance, certain employee relocation costs, and the estimated costs of exiting and terminating facility lease commitments, as they relate to our corporate restructuring and exit activities. These costs are inconsistent in amount and are significantly impacted by the timing and nature of these events. Therefore, although we may incur these types of expenses in the future, we believe that eliminating these costs for purposes of calculating the non-GAAP financial measures facilitates a more meaningful evaluation of our operating performance and comparisons to our past operating performance.
+
+Non-GAAP Net Income and Non-GAAP Net Income Per Diluted Share.We believe that the use of non-GAAP net income and non-GAAP net income per diluted share is helpful to our investors to clarify and enhance their understanding of past performance and future prospects. Non-GAAP net income is calculated as net income excluding the adjustments to non-GAAP gross profit and non-GAAP operating income and the income tax effect of the non-GAAP exclusions. We define non-GAAP net income per diluted share as non-GAAP net income divided by the weighted average outstanding common shares.
+
+Adjusted EBITDA and Adjusted EBITDA Margin.We regularly monitor adjusted EBITDA and adjusted EBITDA margin, as they are measures we use to assess our operating performance. We define adjusted EBITDA as net income or loss, excluding amortization of acquired intangible assets and developed technology, depreciation expense, income tax expense, interest expense, net, unrealized foreign currency (gains) losses, transaction related costs, spin-off costs, stock-based compensation expense and related employer-paid payroll taxes and restructuring and other costs. We define adjusted EBITDA margin as adjusted EBITDA divided by total revenue. Adjusted EBITDA has limitations as an analytical tool, and you should not consider it in isolation or as a substitute for analysis of our results as reported under GAAP. Some of these limitations include: although depreciation and amortization are non-cash charges, the assets being depreciated and amortized may have to be replaced in the future, and adjusted EBITDA does not reflect cash capital expenditure requirements for such replacements or for new capital expenditure requirements; adjusted EBITDA does not reflect changes in, or cash requirements for, our working capital needs; adjusted EBITDA does not reflect the significant interest expense, or the cash requirements necessary to service interest or principal payments, on our related party debt; adjusted EBITDA does not reflect tax payments that may represent a reduction in cash available to us; and other companies, including companies in our industry, may calculate adjusted EBITDA differently, which reduces its usefulness as a comparative measure.
+
+Non-GAAP Revenue on a Constant Currency Basis. We provide non-GAAP revenue on a constant currency basis to provide a framework for assessing our performance excluding the effect of foreign currency rate fluctuations. To present this information, current period results for revenue contracts denominated in currencies other than U.S. Dollars are converted into U.S. Dollars at the average exchange rates in effect during the corresponding prior period presented. We believe that providing non-GAAP revenue on a constant currency basis facilitates the comparison of non-GAAP revenue to prior periods.
+
+Unlevered Free Cash Flow.Unlevered free cash flow is a measure of our liquidity used by management to evaluate cash flow from operations, after the deduction of capital expenditures and prior to the impact of our capital structure, transaction related costs, restructuring costs, spin-off costs, employer-paid payroll taxes on stock awards and other one-time items, that can be used by us for strategic opportunities and strengthening our balance sheet. However, given our debt obligations, unlevered free cash flow does not represent residual cash flow available for discretionary expenses.
+
+About N-able
+
+N-able fuels IT services providers with powerful software solutions to monitor, manage, and secure their customers systems, data, and networks. Built on a scalable platform, we offer secure infrastructure and tools to simplify complex ecosystems, as well as resources to navigate evolving IT needs. We help partners excel at every stage of growth, protect their customers, and expand their offerings with an ever-increasing, flexible portfolio of integrations from leading technology providers. n-able.com
+
+2025 N-able, Inc. All rights reserved.
+
+Source: N-able, Inc.
+
+Category: Financial
+
+CONTACTS:
+
+Investors: Media:
+
+Griffin Gyr
+
+ir@n-able.com
+
+Kim Cecchini
+
+Phone: 202.391.5205
+
+pr@n-able.com
+
+N-able, Inc.
+
+Consolidated Balance Sheets
+
+(In thousands) 
+
+(Unaudited)
+
+December 31,
+
+2024 2023
+
+Assets 
+
+Current assets: 
+
+Cash and cash equivalents $ 85,196 $ 153,048 
+
+Accounts receivable, net of allowances of $886 and $1,171 as of December 31, 2024 and 2023, respectively 44,909 40,013 
+
+Income tax receivable 3,563 8,001 
+
+Recoverable taxes 24,157 12,116 
+
+Current contract assets 12,786 1,124 
+
+Prepaid and other current assets 13,312 10,489 
+
+Total current assets 183,923 224,791 
+
+Property and equipment, net 36,162 36,838 
+
+Operating lease right-of-use assets 27,998 32,067 
+
+Deferred taxes 2,026 1,087 
+
+Goodwill 977,013 838,497 
+
+Intangible assets, net 83,150 6,717 
+
+Other assets, net 28,575 22,794 
+
+Total assets $ 1,338,847 $ 1,162,791 
+
+Liabilities and stockholders' equity 
+
+Current liabilities: 
+
+Accounts payable $ 6,290 $ 5,239 
+
+Accrued liabilities and other 56,557 49,366 
+
+Current deferred consideration 44,023 
+
+Current operating lease liabilities 6,018 6,443 
+
+Income taxes payable 9,733 4,523 
+
+Current portion of deferred revenue 23,977 12,646 
+
+Current debt obligation 3,500 3,500 
+
+Total current liabilities 150,098 81,717 
+
+Long-term liabilities: 
+
+Deferred revenue, net of current portion 2,996 167 
+
+Non-current deferred taxes 3,448 1,820 
+
+Non-current operating lease liabilities 30,069 33,064 
+
+Long-term debt, net of current portion 329,606 331,509 
+
+Non-current deferred consideration 54,089 
+
+Other long-term liabilities 9,253 3,154 
+
+Total liabilities 579,559 451,431 
+
+Commitments and contingencies 
+
+Stockholders equity: 
+
+Common stock, $0.001 par value: 550,000,000 shares authorized and 187,528,505 and 183,220,689 shares issued and outstanding as of December 31, 2024 and 2023, respectively 187 183 
+
+Preferred stock, $0.001 par value: 50,000,000 shares authorized and no shares issued and outstanding as of December 31, 2024 and 2023, respectively 
+
+Additional paid-in capital 708,992 666,522 
+
+Accumulated other comprehensive (loss) income (21,095) 4,409 
+
+Retained earnings 71,204 40,246 
+
+Total stockholders' equity 759,288 711,360 
+
+Total liabilities and stockholders' equity $ 1,338,847 $ 1,162,791 
+
+N-able, Inc.
+
+Consolidated Statements of Operations
+
+(In thousands, except per share information)
+
+(Unaudited)
+
+Three Months Ended December 31, Twelve Months Ended December 31,
+
+2024 2023 2024 2023
+
+Revenue: 
+
+Subscription and other revenue $ 116,509 $ 108,415 $ 466,147 $ 421,880 
+
+Cost of revenue: 
+
+Cost of revenue 21,184 17,164 77,159 66,369 
+
+Amortization of acquired technologies 2,134 457 3,520 1,839 
+
+Total cost of revenue 23,318 17,621 80,679 68,208 
+
+Gross profit 93,191 90,794 385,468 353,672 
+
+Operating expenses: 
+
+Sales and marketing 34,632 33,579 135,592 134,691 
+
+Research and development 23,246 19,384 90,714 78,180 
+
+General and administrative 19,087 16,008 76,514 69,885 
+
+Amortization of acquired intangibles 234 12 278 597 
+
+Total operating expenses 77,199 68,983 303,098 283,353 
+
+Operating income 15,992 21,811 82,370 70,319 
+
+Other expense: 
+
+Interest expense, net (7,269) (7,720) (30,031) (30,252) 
+
+Other (expense) income, net (1,765) 2,690 1,931 4,259 
+
+Total other expense, net (9,034) (5,030) (28,100) (25,993) 
+
+Income before income taxes 6,958 16,781 54,270 44,326 
+
+Income tax expense 3,668 7,430 23,312 20,914 
+
+Net income $ 3,290 $ 9,351 $ 30,958 $ 23,412 
+
+Net income per share: 
+
+Basic earnings per share $ 0.02 $ 0.05 $ 0.17 $ 0.13 
+
+Diluted earnings per share $ 0.02 $ 0.05 $ 0.16 $ 0.13 
+
+Weighted-average shares used to compute net income per share: 
+
+Shares used in computation of basic earnings per share 186,571 183,072 185,277 182,371 
+
+Shares used in computation of diluted earnings per share 188,349 186,495 188,426 185,980 
+
+N-able, Inc.
+
+Consolidated Statements of Cash Flows
+
+(In thousands)
+
+(Unaudited)
+
+Three Months Ended December 31, Twelve Months Ended December 31, 2024
+
+2024 2023 2024 2023
+
+Cash flows from operating activities 
+
+Net income $ 3,290 $ 9,351 $ 30,958 $ 23,412 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation and amortization 7,948 5,481 25,725 21,623 
+
+Benefit from doubtful accounts (213) (546) (285) (159) 
+
+Stock-based compensation expense 10,488 10,677 45,351 43,570 
+
+Deferred taxes (2,041) 350 (1,952) 330 
+
+Amortization of debt issuance costs 400 404 1,598 1,601 
+
+Operating lease right-of-use assets, net 386 (500) 438 (1,550) 
+
+Loss (gain) on foreign currency exchange rates 2,009 (1,779) 2,702 358 
+
+Gain on contingent consideration (2,570) (485) (6,281) (1,443) 
+
+Deferred consideration expense 1,843 1,843 
+
+Loss on lease modification 4 1,063 
+
+Other non-cash expenses (247) 92 (263) 220 
+
+Changes in operating assets and liabilities, net of assets acquired and liabilities assumed in business combinations: 
+
+Accounts receivable (1,290) (939) (2,131) (7,060) 
+
+Income tax receivable 11,573 8,700 4,685 (174) 
+
+Recoverable taxes (3,227) (4,633) (12,965) (11,392) 
+
+Current contract assets 3,466 (417) (11,430) (894) 
+
+Prepaid expenses and other assets 3,478 2,248 (1,253) 1,463 
+
+Accounts payable (1,612) 1,451 (461) 1,833 
+
+Accrued liabilities and other 2,437 7,381 630 16,065 
+
+Income taxes payable (11,012) (6,525) 4,881 2,966 
+
+Deferred revenue 3,903 1,127 2,261 684 
+
+Other long-term assets (3,103) (68) (5,721) (1,274) 
+
+Other long-term liabilities 76 (150) 44 (90) 
+
+Net cash provided by operating activities 25,986 31,220 79,437 90,089 
+
+Cash flows from investing activities 
+
+Purchases of property and equipment (7,150) (3,293) (17,570) (13,780) 
+
+Purchases of intangible assets (991) (1,881) (6,157) (8,556) 
+
+Acquisitions, net of cash acquired (98,694) (98,694) 
+
+Net cash used in investing activities (106,835) (5,174) (122,421) (22,336) 
+
+Cash flows from financing activities 
+
+Payments of tax withholding obligations related to restricted stock units (2,324) (1,748) (20,489) (11,976) 
+
+Exercise of stock options 12 72 
+
+Proceeds from issuance of common stock under employee stock purchase plan 2,382 1,681 
+
+Deferred acquisition payments (600) (1,000) (1,450) 
+
+Repayments of borrowings from Credit Agreement (875) (875) (3,500) (3,500) 
+
+Net cash used in financing activities (3,199) (3,223) (22,595) (15,173) 
+
+Effect of exchange rate changes on cash and cash equivalents (5,201) 2,792 (2,273) 1,621 
+
+Net (decrease) increase in cash and cash equivalents (89,249) 25,615 (67,852) 54,201 
+
+Cash and cash equivalents 
+
+Beginning of period 174,445 127,433 153,048 98,847 
+
+End of period $ 85,196 $ 153,048 $ 85,196 $ 153,048 
+
+Supplemental disclosure of cash flow information: 
+
+Cash paid for interest $ 6,930 $ 7,318 $ 28,690 $ 28,437 
+
+Cash paid for income taxes $ 4,610 $ 3,888 $ 12,772 $ 14,934 
+
+Supplemental disclosure of non-cash activities: 
+
+Change in purchases of property, equipment and leasehold improvements included in accounts payable and accrued expenses $ 22 $ 175 $ 24 $ (378) 
+
+Right-of-use assets obtained in exchange for operating lease liabilities $ $ 2,805 $ 2,628 $ 5,123 
+
+Non-cash consideration exchanged in business combinations $ 14,678 $ $ 14,678 $ 
+
+N-able, Inc.
+
+Reconciliation of GAAP to Non-GAAP Financial Measures
+
+(In thousands, except per share information)
+
+(Unaudited)
+
+Three Months Ended December 31, Twelve Months Ended December 31,
+
+2024 2023 2024 2023
+
+GAAP cost of revenue $ 23,318 $ 17,621 $ 80,679 $ 68,208 
+
+Stock-based compensation expense and related employer-paid payroll taxes (411) (363) (1,715) (1,434) 
+
+Amortization of acquired technologies (2,134) (457) (3,520) (1,839) 
+
+Transaction related costs (28) (28) 
+
+Restructuring costs and other (76) (36) (76) (74) 
+
+Non-GAAP cost of revenue $ 20,669 $ 16,765 $ 75,340 $ 64,861 
+
+GAAP gross profit $ 93,191 $ 90,794 $ 385,468 $ 353,672 
+
+Stock-based compensation expense and related employer-paid payroll taxes 411 363 1,715 1,434 
+
+Amortization of acquired technologies 2,134 457 3,520 1,839 
+
+Transaction related costs 28 28 
+
+Restructuring costs and other 76 36 76 74 
+
+Non-GAAP gross profit $ 95,840 $ 91,650 $ 390,807 $ 357,019 
+
+GAAP sales and marketing expense $ 34,632 $ 33,579 $ 135,592 $ 134,691 
+
+Stock-based compensation expense and related employer-paid payroll taxes (3,689) (3,715) (15,836) (15,287) 
+
+Transaction related costs (154) 4 (213) (24) 
+
+Restructuring costs and other (165) (263) (583) (290) 
+
+Non-GAAP sales and marketing expense $ 30,624 $ 29,605 $ 118,960 $ 119,090 
+
+GAAP research and development expense $ 23,246 $ 19,384 $ 90,714 $ 78,180 
+
+Stock-based compensation expense and related employer-paid payroll taxes (2,634) (2,225) (10,886) (8,995) 
+
+Transaction related costs (285) (330) (8) 
+
+Restructuring costs and other (348) (87) (442) (926) 
+
+Non-GAAP research and development expense $ 19,979 $ 17,072 $ 79,056 $ 68,251 
+
+GAAP general and administrative expense $ 19,087 $ 16,008 $ 76,514 $ 69,885 
+
+Stock-based compensation expense and related employer-paid payroll taxes (4,058) (4,565) (19,304) (19,377) 
+
+Transaction related costs (1,967) 474 (3,575) 1,128 
+
+Restructuring costs and other (147) (109) (3,660) (823) 
+
+Spin-off costs (112) (51) (735) 
+
+Non-GAAP general and administrative expense $ 12,915 $ 11,696 $ 49,924 $ 50,078 
+
+GAAP operating income $ 15,992 $ 21,811 $ 82,370 $ 70,319 
+
+Amortization of acquired technologies 2,134 457 3,520 1,839 
+
+Amortization of acquired intangibles 234 12 278 597 
+
+Stock-based compensation expense and related employer-paid payroll taxes 10,791 10,868 47,741 45,093 
+
+Transaction related costs 2,434 (478) 4,146 (1,096) 
+
+Restructuring costs and other 736 495 4,761 2,113 
+
+Spin-off costs 112 51 735 
+
+Non-GAAP operating income $ 32,321 $ 33,277 $ 142,867 $ 119,600 
+
+GAAP operating margin 13.7 % 20.1 % 17.7 % 16.7 %
+
+Non-GAAP operating margin 27.7 % 30.7 % 30.6 % 28.3 %
+
+GAAP net income $ 3,290 $ 9,351 $ 30,958 $ 23,412 
+
+Amortization of acquired technologies 2,134 457 3,520 1,839 
+
+Amortization of acquired intangibles 234 12 278 597 
+
+Stock-based compensation expense and related employer-paid payroll taxes 10,791 10,868 47,741 45,093 
+
+Transaction related costs 2,434 (478) 4,146 (1,096) 
+
+Restructuring costs and other 736 495 4,761 2,113 
+
+Spin-off costs 112 51 735 
+
+Tax benefits associated with above adjustments (1) (781) (992) (1,885) (4,472) 
+
+Non-GAAP net income $ 18,838 $ 19,825 $ 89,570 $ 68,221 
+
+GAAP diluted earnings per share $ 0.02 $ 0.05 $ 0.16 $ 0.13 
+
+Non-GAAP diluted earnings per share $ 0.10 $ 0.11 $ 0.48 $ 0.37 
+
+Shares used in computation of diluted earnings per share: 188,349 186,495 188,426 185,980 
+
+_________________
+
+(1) The tax benefits associated with non-GAAP adjustments for the three and twelve months ended December 31 2024, and 2023, respectively, is calculated utilizing the Company's individual statutory tax rates for each impacted subsidiary.
+
+N-able, Inc.
+
+Reconciliation of GAAP Net Income to Adjusted EBITDA
+
+(In thousands)
+
+(Unaudited)
+
+Three Months Ended December 31, Twelve Months Ended December 31,
+
+2024 2023 2024 2023
+
+Net income $ 3,290 $ 9,351 $ 30,958 $ 23,412 
+
+Amortization 3,929 1,571 9,769 6,396 
+
+Depreciation 4,018 3,910 15,956 15,227 
+
+Income tax expense 3,668 7,430 23,312 20,914 
+
+Interest expense, net 7,269 7,720 30,031 30,252 
+
+Unrealized foreign currency losses (gains) 2,009 (1,779) 2,702 358 
+
+Transaction related costs 2,434 (478) 4,146 (1,096) 
+
+Spin-off costs 112 51 735 
+
+Stock-based compensation expense and related employer-paid payroll taxes 10,791 10,868 47,741 45,093 
+
+Restructuring costs and other 736 495 4,761 2,113 
+
+Adjusted EBITDA $ 38,144 $ 39,200 $ 169,427 $ 143,404 
+
+Adjusted EBITDA margin 32.7 % 36.2 % 36.3 % 34.0 %
+
+N-able, Inc.
+
+Reconciliation of GAAP Revenue to Non-GAAP Revenue on a Constant Currency Basis
+
+(In thousands, except percentages)
+
+(Unaudited)
+
+Three Months Ended December 31, Twelve Months Ended December 31,
+
+2024 2023 Growth Rate 2024 2023 Growth Rate
+
+GAAP subscription revenue $ 115,033 $ 106,067 8.5 % $ 458,961 $ 412,072 11.4 %
+
+Estimated foreign currency impact (1) 17 (1,048) (0.3) 
+
+Non-GAAP subscription revenue on a constant currency basis $ 115,050 $ 106,067 8.5 % $ 457,913 $ 412,072 11.1 %
+
+GAAP other revenue $ 1,476 $ 2,348 (37.1) % $ 7,186 $ 9,808 (26.7) %
+
+Estimated foreign currency impact (1) (1) 6 
+
+Non-GAAP other revenue on a constant currency basis $ 1,475 $ 2,348 (37.2) % $ 7,192 $ 9,808 (26.7) %
+
+GAAP subscription and other revenue $ 116,509 $ 108,415 7.5 % $ 466,147 $ 421,880 10.5 %
+
+Estimated foreign currency impact (1) 16 (1,042) (0.3) 
+
+Non-GAAP subscription and other revenue on a constant currency basis $ 116,525 $ 108,415 7.5 % $ 465,105 $ 421,880 10.2 %
+
+_________________
+
+(1) The estimated foreign currency impact is calculated using the average foreign currency exchange rates in the comparable prior year monthly periods and applying those rates to foreign-denominated revenue in the corresponding monthly periods for the three and twelve months ended December 31, 2024.
+
+N-able, Inc.
+
+Reconciliation of Unlevered Free Cash Flow
+
+(In thousands)
+
+(Unaudited)
+
+Three Months Ended December 31, Twelve Months Ended December 31,
+
+2024 2023 2024 2023
+
+Net cash provided by operating activities $ 25,986 $ 31,220 $ 79,437 $ 90,089 
+
+Purchases of property and equipment (7,150) (3,293) (17,570) (13,780) 
+
+Purchases of intangible assets (991) (1,881) (6,157) (8,556) 
+
+Free cash flow 17,845 26,046 55,710 67,753 
+
+Cash paid for interest, net of cash interest received 6,930 7,318 28,690 28,437 
+
+Cash paid for transaction related costs, restructuring costs, spin-off costs, employer-paid payroll taxes on stock awards and other one-time items 4,196 1,243 14,280 6,128 
+
+Unlevered free cash flow $ 28,971 $ 34,607 $ 98,680 $ 102,318
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>nabl-20250303.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - COVER PAGE COVER PAGE 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>nabl-20250303_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Security Exchange Name 
+Security Exchange Name 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Document Period End Date 
+Document Period End Date 
+
+Cover [Abstract] 
+Cover [Abstract] 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Soliciting Material 
+Soliciting Material 
+
+City Area Code 
+City Area Code 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Document Type 
+Document Type 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity Ex Transition Period 
+Entity Ex Transition Period 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+Entity Address, Address Line Two 
+
+Entity Registrant Name 
+Entity Registrant Name
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>nabl-20250303_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>n-ablelogoa.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+COVER PAGE COVER PAGE
+
+Mar. 03, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Mar. 03, 2025
+
+Entity Registrant Name N-able, Inc.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-40297
+
+Entity Tax Identification Number 85-4069861
+
+Entity Address, Address Line One 30 Corporate Drive
+
+Entity Address, Address Line Two Suite 400
+
+Entity Address, City or Town Burlington
+
+Entity Address, State or Province MA
+
+Entity Address, Postal Zip Code 01803
+
+City Area Code 781
+
+Local Phone Number 328-6490
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, $0.001 par value
+
+Trading Symbol NABL
+
+Security Exchange Name NYSE
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0001834488
+
+Amendment Flag false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+23 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - COVER PAGE COVER PAGE 
+Sheet 
+http://www.n-able.com/role/COVERPAGECOVERPAGE 
+COVER PAGE COVER PAGE 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+nabl-20250303.htm 
+nabl-20250303.xsd 
+nabl-20250303_lab.xml 
+nabl-20250303_pre.xml 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001834488-25-000039-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>nabl-20250303_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001834488 
+
+2025-03-03 
+2025-03-03 
+
+0001834488 
+false 
+8-K 
+2025-03-03 
+N-able, Inc. 
+DE 
+001-40297 
+85-4069861 
+30 Corporate Drive 
+Suite 400 
+Burlington 
+MA 
+01803 
+781 
+328-6490 
+false 
+false 
+false 
+false 
+Common Stock, $0.001 par value 
+NABL 
+NYSE 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

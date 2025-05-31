@@ -1,0 +1,2973 @@
+<SEC-DOCUMENT>0001558370-25-003260.txt : 20250319
+<SEC-HEADER>0001558370-25-003260.hdr.sgml : 20250319
+<ACCEPTANCE-DATETIME>20250319121629
+ACCESSION NUMBER:		0001558370-25-003260
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		85
+CONFORMED PERIOD OF REPORT:	20250319
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250319
+DATE AS OF CHANGE:		20250319
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vertex, Inc.
+		CENTRAL INDEX KEY:			0001806837
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				232081753
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39413
+		FILM NUMBER:		25751492
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2301 RENAISSANCE BOULEVARD
+		CITY:			KING OF PRUSSIA
+		STATE:			PA
+		ZIP:			19406
+		BUSINESS PHONE:		(800) 355-3500
+
+	MAIL ADDRESS:	
+		STREET 1:		2301 RENAISSANCE BOULEVARD
+		CITY:			KING OF PRUSSIA
+		STATE:			PA
+		ZIP:			19406
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>verx-20250319x8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+0001806837false00018068372025-03-192025-03-19
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported): March 19, 2025
+
+VERTEX, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 
+
+001-39413 
+
+23-2081753
+
+(State or other jurisdiction
+
+of incorporation or organization) 
+
+(Commission
+
+File Number) 
+
+(I.R.S. Employer
+
+Identification No.)
+
+2301 Renaissance Blvd.
+
+King of Prussia, Pennsylvania19406
+
+(Address of principal executive offices) (Zip Code)
+
+(800) 355-3500
+
+(Registrants telephone number, include area code)
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class 
+
+Trading Symbol(s) 
+
+Name of each exchange on which registered
+
+Class A Common Stock, $0.001 par value per share 
+
+VERX 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 7.01 Regulation FD Disclosure 
+
+On March 19, 2025, Vertex, Inc. (the "Company") hosted an Investor Day at its headquarters in Philadelphia, PA, which featured an investor presentation containing certain information and financial highlights about the Company and its industry. A copy of the investor presentation is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is available on the Companys website at https://ir.vertexinc.com/.
+
+Except for the investor presentation, information contained on, or accessible through, the Companys website is not a part of, and is not incorporated by reference in, this Current Report on Form 8-K. The information contained in the investor presentation itself is summary information only and it contains forward looking statements that are subject to risks and uncertainties, including those set forth in the Companys filings with the U.S. Securities and Exchange Commission.
+
+The information contained in this Item 7.01, including Exhibit 99.1 hereto, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing made by the Company under the Securities Act of 1933, as amended, or the Exchange Act, regardless of any general incorporation language in such filings, unless expressly incorporated by specific reference in such filing.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit
+
+No. 
+
+Description
+
+99.1 
+
+Vertex, Inc. Investor Presentation, dated March 19, 2025.
+
+104 
+
+Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VERTEX, INC.
+
+Date: March 19, 2025 
+
+By: 
+
+/s/ Bryan Rowland
+
+Name: 
+
+Bryan Rowland
+
+Title: 
+
+General Counsel and Secretary
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>verx-20250319xex99d1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Exhibit 99.1
+
+Driving Durable Growth by Solving Indirect Tax Complexity
+Investor Day | March 19, 2025
+
+2
+Safe Harbor
+Forward Looking Statements
+Any statements made in this presentation that are not statements of historical fact, including statements about our beliefs and expectations, are forward-looking statements and should be evaluated as such. Forward-looking statements include information concerning
+possible or assumed future results of operations, including descriptions of our business plan and strategies. Forward-looking statements are based on Vertex managements beliefs, as well as assumptions made by, and information currently available to, them. Because
+such statements are based on expectations as to future financial and operating results and are not statements of fact, actual results may differ materially from those projected. Factors which may cause actual results to differ materially from current expectations include,
+but are not limited to: our ability to attract new customers on a cost-effective basis and the extent to which existing customers renew and upgrade their subscriptions; our ability to sustain and expand revenues, maintain profitability, and to effectively manage our
+anticipated growth; our ability to maintain and expand our strategic relationships with third parties; and the other factors described under the heading Risk Factors in the Companys Annual Report on Form 10-K for the year ended December 31, 2024 as filed with the
+Securities Exchange Commission (SEC) and the Companys subsequent filings with the SEC. Copies of each filing may be obtained from the Company or the SEC. All forward-looking statements reflect our beliefs and assumptions only as of the date of this presentation.
+We undertake no obligation to update forward-looking statements to reflect future events or circumstances.
+Definitions of Certain Key Business Metrics
+Annual Recurring Revenue (ARR) We derive the vast majority of our revenues from recurring software subscriptions. We believe ARR provides us with visibility to our projected software subscription revenues in order to evaluate the health of our business. Because
+we recognize subscription revenues ratably, we believe investors can use ARR to measure our expansion of existing customer revenues, new customer activity, and as an indicator of future software subscription revenues. ARR is based on monthly recurring revenues
+(MRR) from software subscriptions for the most recent month at period end, multiplied by twelve. MRR is calculated by dividing the software subscription price, inclusive of discounts, by the number of subscription covered months. MRR only includes customers with
+MRR at the end of the last month of the measurement period.
+Net Revenue Retention Rate (NRR) We believe that our NRR provides insight into our ability to retain and grow revenues from our customers, as well as their potential long-term value to us. We also believe it demonstrates to investors our ability to expand existing
+customer revenues, which is one of our key growth strategies. Our NRR refers to the ARR expansion during the 12 months of a reporting period for all customers who were part of our customer base at the beginning of the reporting period. Our NRR calculation takes into
+account any revenues lost from departing customers or customers who have downgraded or reduced usage, as well as any revenue expansion from migrations, new licenses for additional products or contractual and usage-based price changes.
+Use and Reconciliation of Non-GAAP Financial Measures
+In addition to our results determined in accordance with accounting principles generally accepted in the U.S. (GAAP), we have calculated non-GAAP cost of revenues, non-GAAP gross profit, non-GAAP gross margin, non-GAAP research and development expense, non-GAAP selling and marketing expense, non-GAAP general and administrative expense, non-GAAP operating income, non-GAAP net income, non-GAAP diluted EPS, Adjusted EBITDA, Adjusted EBITDA margin, free cash flow and free cash flow margin, which are each non-GAAP financial measures. We have provided tabular reconciliations of each of these non-GAAP financial measures used in this presentation to its most directly comparable GAAP financial measure.
+Management uses these non-GAAP financial measures to understand and compare operating results across accounting periods, for internal budgeting and forecasting purposes, and to evaluate financial performance and liquidity. Our non-GAAP financial measures are
+presented as supplemental disclosure as we believe they provide useful information to investors and others in understanding and evaluating our results, prospects, and liquidity period-over-period without the impact of certain items that do not directly correlate to our
+operating performance and that may vary significantly from period to period for reasons unrelated to our operating performance, as well as comparing our financial results to those of other companies. Our definitions of these non-GAAP financial measures may differ
+from similarly titled measures presented by other companies and therefore comparability may be limited. In addition, other companies may not publish these or similar metrics. Thus, our non-GAAP financial measures should be considered in addition to, not as a
+substitute for, or in isolation from, the financial information prepared in accordance with GAAP financial measures, and should be read in conjunction with the consolidated financial statements included in our Annual Report on Form 10-K for the year ended December
+31, 2024 and in our other reports periodically filed with the SEC.
+Market & Industry Data
+Market data and industry information used throughout this presentation are based on managements knowledge of the industry and the good faith estimates of management. The Company also relied, to the extent available, upon managements review of independent
+industry surveys and publications and other publicly available information prepared by a number of third-party sources. All of the market data and industry information used in this presentation involves a number of assumptions and limitations, and you are cautioned
+not to give undue weight to such assumptions and resulting estimates. Although the Company believes that these sources are reliable, the Company cannot guarantee the accuracy or completeness of this information, and the Company has not independently verified
+this information. While the Company believes the estimated market position, market opportunity and market size information included in this presentation are generally reliable, such information, which is derived in part from managements estimates and beliefs, is
+inherently uncertain and imprecise. No representations or warranties are made by the Company, any of its affiliates or underwriters as to the accuracy of any such statements or projections. Projections, assumptions and estimates of the Companys future performance
+and the future performance of the industry in which the Company operates are necessarily subject to a high degree of uncertainty and risk due to a variety of factors, including those described above. These and other factors could cause results to differ materially from
+those expressed in the Companys estimates and beliefs and in the estimates prepared by independent parties.
+2
+
+3
+2025 Investor Day Agenda
+8:30 a.m ET Welcome & Agenda Joe Crivelli, Vice President of Investor Relations
+Company & Strategy Overview Driving Durable Growth by
+Solving Indirect Tax Complexity 8:35 a.m ET David DeStefano, President, CEO, Chairperson of the Board
+Strategic Outlook Building on a Strong Core
+& Executing Our Strategy 9:05 a.m ET Chirag Patel, Chief Strategy Officer
+Leading Commercial Position Positioned to Win with
+Multiple Layers of Growth 10:10 a.m ET Chris Jones, Chief Commercial Officer
+Well-Positioned for
+Durable Growth 11:00 a.m ET Financial Overview & Outlook John Schwab, Chief Financial Officer
+11:20 a.m ET Q&A Panel
+BREAK (15 MINUTES)
+End-to-End Platform with
+Unmatched Capabilities
+Sal Visca, CTO
+Uwe Sydon, SVP Product Management
+Michael Bernard, VP Chief Tax Officer
+9:25 a.m ET Product Solution Panel
+Moderated by Jeff Foucher
+Unparalleled Customer
+Value Proposition
+Dominic Zambrano, Senior Director - Tax, Comcast
+Maria Hevia Alvarez, Global Indirect Tax Deputy Leader, EY
+Jeff Craskey, VP Business Development, SAP
+10:30 a.m ET Customer / Partner Panel
+Moderated by Chris Jones
+
+4
+Company &
+Strategy Overview
+Driving Durable Growth by
+Solving Indirect Tax Complexity
+David DeStefano, President,
+CEO & Chairperson of the Board
+
+5
+Our North Star is to accelerate global
+commerce and empower businesses to
+transact, comply and grow with confidence
+by delivering a global, best-in-class,
+end-to-end indirect tax platform
+
+(1) Based on information as of December 31, 2024 6
+Global Leader in Tax Technology
+Proven Track Record of Driving Durable Growth at Scale
+~95%
+Gross Retention Rate (1)
+>60%
+Fortune 500
+33.5%
+Cloud Subscription CAGR
+2020-2024 (1)
+85%
+Subscription Revenue
+as % of Revenue (1)
+17.5%
+Annual Recurring Revenue CAGR
+2020-2024 (1)
+69%
+Scaled Customer Count Growth
+2020-2024 (1)
+Commerce Compliance
+
+(1) 2022 OECD Tax Database 7
+Indirect Taxes Encompass
+High Degree of Complexity
+THOUSANDS
+of taxing jurisdictions
+THOUSANDS
+of products and services
+In REAL-TIME
+spanning OMNICHANNEL platforms
+BILLIONS
+of transactions
+And ACROSS THE GLOBAL
+SUPPLY CHAIN
+$4.4T
+Global
+Indirect Tax
+Revenue(1)
+3.1X Greater Than
+Corporate Income
+Tax Revenue (1)
+
+Multiple Secular Growth Drivers
+Benefiting from Constant State of Change
+Business
+Complexity
+Globalization
+Product Expansion
+M&A
+Omnichannel
+Supply Chain
+Marketplaces
+Regulatory
+Change
+E-invoicing
+Real-time Reporting
+Digital Services
+Duties & Fees
+Audit
+Cross-Border
+Digital
+Transformation
+Technology Refresh
+Cloud Adoption
+SaaS
+IoT
+PayTech
+8
+
+9
+Unmatched End-to-End Indirect Tax Solutions
+Business ERP e-Commerce Marketplaces Procurement Point of Sale
+Tax Authorities CTC/E-invoicing Real-Time Reporting & Remittance Notices & Audit
+Compliance
+Report
+Comply
+Pay
+File
+Integration
+Access
+Read
+Configure
+Determination
+Determine
+Calculate
+Audit & Planning
+Retain
+Defend
+Plan
+Applications on the Vertex Cloud Platform
+Integrated Data Platform
+
+A Complete Ecosystem of Comprehensive Solutions
+10
+Applications
+Determination Compliance
+Services provide broad range
+of administrative, operational,
+and optimization support
+Implementation Services
+System Optimization Services
+Managed Services Outsourcing
+Supports every step of the tax
+determination process
+Vertex O Series
+Sales Tax
+Consumers Use Tax (CUT)
+Value Added Tax (VAT)
+Goods & Services Tax (GST)
+O Series Edge
+Vertex ERP Accelerators
+O Series for Retail
+Lat/Long Jurisdiction Locator
+Address Cleansing
+PLUS Tools for SAP ERP
+Streamlines returns and fillings
+to local tax authorities
+Certificate Center
+Sales and Use Tax Compliance
+Indirect Tax Returns North America
+VAT Compliance
+e-Invoicing
+Vertex for e-Commerce
+Vertex for Marketplaces
+Vertex Advantage Plus
+Vertex Validator
+Vertex Invoice IQ
+Unlocks the value of data
+to improve compliance and
+audit performance
+Vertex Data Integrity
+Vertex Indirect Tax Intelligence
+Integration Audit &
+Planning
+Vertex Solutions
+
+(1) Based on information as of December 31, 2024 11
+Comprehensive Tax Content Database
+Key Competitive Advantage
+Retail | Manufacturing | Communications Services | Medical/Healthcare | Lodging | Leasing | Construction | Banking | Services, & More
+Industry Specific Capabilities
+20,000+
+Global
+Jurisdictions (1)
+195
+Countries
+Supported (1)
+1 Billion+
+Tax Rates and Rules
+Continually Updated (1)
+AI Capabilities
+Strengthened with
+Humans In-the-Loop
+100+
+Tax Experts
+Worldwide (1)
+SSAE 18
+Certified Research
+Process
+
+Mission Critical Partner to
+Highly Attractive Customer Base
+Best-in-Class Solutions to Highly Complex Needs Drive Embedded Customer Relationships
+12
+(1) Vertex direct customers are based on the Vertex active customer list as of December 31, 2024
+(2) Top 10 companies within the Fortune 500 by industry are based on annual revenue as of December 31, 2024
+(3) Based on information as of December 31, 2024
+Top 50 Customers by ARR Have Average Tenure of 19 Years
+4,915(1) Direct Customers >60%(2) Of the Fortune 500 ~95%(3) GRR
+9
+of the Top 10
+Business Services
+7
+of the Top 10
+Communications
+& Transport
+8
+of the Top 10
+Financial Services
+8
+of the Top 10
+Manufacturing
+7
+of the Top 10
+Marketplaces
+6
+of the Top 10
+Retail
+6
+of the Top 10
+Wholesale Trade
+
+13
+Enabling Clients to Successfully Navigate Complexity
+Competitive Strengths Demonstrate Why Complex Customers Trust Vertex
+Enterprise Reliability & Scalability
+Powerful solutions optimized for complexity
+Vast and dynamic global tax content database
+Multi-cloud, deployment flexibility
+Embedded IP in key source systems
+Accelerators
+Proven Go-to-Market Success
+Strategic ERP and implementation
+partner alliances
+Frictionless integrations to power
+customer growth
+Strong customer references
+Why We
+Win
+Product & Platform Leadership
+A many-to-one platform
+Multiple tax types
+Robust AI capabilities
+Superior Services and Support
+Client-first mentality
+Industry recognized and highly
+differentiated support teams 
+
+14
+Consistent Growth Algorithm Drives Reliable Growth
+Sustainable Drivers leading to Long-term Revenue Growth of Mid to High Teens+
+Growth Algorithm New ARR
+~30%
+New Logo
+Growth
+95% GRR 109% NRR
+Consistently Delivering Value
+Realization Advantage
+~25%
+Price
+Expanding Usage
+~25%
+Growth
+ERP Migration +
+Key Partner Relationships
+Cross-sell, Up-sell,
+Cloud Conversions
+~50%
+~70% Expanding Existing Customers
+Focus of 20-23 Investments
+
+2020 Current Full Penetration
+15
+(1) Value as of December 31, 2020 and December 31, 2024
+(2) Based on management estimates
+Long Runway for Significant
+Growth with Loyal Install Base
+$130k
+~$300-400k(2)
+$75k
+Drivers
+Digital
+Transformation
+Business
+Complexity
+Regulatory
+Change
+Multiple tax types
+Compliance solutions
+CTC/e-invoicing
+Data Mgt & tools
+Average Revenue Per Customer
+AI innovations
+(1)
+
+Accomplishments Since IPO
+Built customer success organization
+Accelerated new product development through enhanced R&D
+Expanded markets and segments through disciplined M&A
+Tripled content libraries from 300MM to >1B
+Expanded partner ecosystem
+Expanded Euro direct sales force
+Upgraded corporate infrastructure
+16
+
+Investing for
+Accelerating
+Growth
+Continuing to Build-out
+Advantaged E2E
+Platform, Integrating AI
+17
+Data Management
+E-invoicing
+Tax Content
+Expansion
+& Delivery
+Monthly Close
+Automation
+Audit
+Management
+Integration Determination Compliance Audit & Planning
+
+18
+World Class Executive Leadership
+Team Delivering Results
+David DeStefano
+Chief Executive Officer
+John Schwab
+Chief Financial Officer
+Sal Visca
+Chief Technology Officer
+Chris Jones
+Chief Commercial Officer
+Chirag Patel
+Chief Strategy Officer
+Uwe Sydon
+Senior Vice President of
+Product Management
+Ann Hollins
+Chief People Officer
+Jeff Foucher
+Chief Marketing Officer
+Michael Bernard
+Chief Tax Officer
+
+Generate resilient, multi-layered growth underpinned by strong
+core. Perpetual change in business, commerce, regulation, and
+digitization drives ongoing demand for solutions
+Investment Thesis
+Established indirect tax industry leader uniquely positioned
+with significant competitive advantages
+Highly scalable, durable, recurring revenue model with
+attractive margins and long runway for mid-to-high teens
+growth and strong profitability
+Expanding ecosystem partnerships that have the potential
+to accelerate customer acquisition and growth
+Mission critical partner to highly loyal and attractive
+customer base with complex needs
+19
+
+20
+Strategic Outlook
+Building On A Strong Core
+& Executing Our Strategy
+Chirag Patel, Chief Strategy Officer
+
+Vertex Plays an Indispensable Role
+in Enabling Global Commerce
+Tax authorities are seeking new revenue sources
+Commerce is bigger, faster, and more complex than ever
+Business growth is impossible without compliance
+We are one of the few who can deliver at scale
+21
+
+22
+A Vast Addressable Market
+for Our Solutions
+Key Drivers
+$23 B $25 B+
+$7 B $10 B+
+Today 2028
+Indirect Tax TAM E-Invoicing TAM
+$30B
+$35B+
+Expanding regulatory
+requirements
+Growth in overall
+trade and commerce
+Heightened need for
+determination & compliance
+E-invoicing mandate
+growth and expansion
+NOTE: TAM is based on management estimates
+
+Complexity is a Growth Driver
+Product
+Range
+(narrow, wide)
+Business
+Model
+(C2C, B2C, B2B, B2G)
+Channel
+(wholesale, brick &
+mortar, eComm)
+Sales
+Footprint
+(local, regional,
+multi-region, global)
+Industry
+(retail, manufacturing,
+oil & gas, etc.)
+Transaction
+Systems
+(simple ERP,
+complex ERP, PoS,
+Procurement, etc.)
+Geographic
+Footprint
+(domestic,
+foreign)
+Buying
+Behavior
+(centralized,
+decentralized)
+CUSTOMER
+..
+.
+.
+23
+Business systems
+amplify compliance
+challenges
+Global operations require tax to
+sync across transaction systems,
+sales channels, and regulatory
+frameworks
+Indirect tax rules
+are ever-changing
+500,000+ global legislative
+changessince 2021 and over
+1 billion tax rules actively
+managed by Vertex
+Product taxability is
+highly variable
+Rules are not uniform, the same
+product is often taxed differently
+in different places
+
+24
+Our Strategy is Founded on Three Pillars
+Harnessing 40 years of trusted tax leadership to power the next phase of sustainable growth
+EXPAND AND DEEPEN OUR PARTNER AND ECOSYSTEM FOOTPRINT
+CUSTOMER PLATFORM
+EXPAND THE CORE
+Grow our geographic footprint
+and our mid-market customer
+segment
+2
+SCALE THE OFFERING
+Expand our platform
+capabilities to deliver superior
+product experiences
+3
+MAXIMIZE THE CORE
+Grow our core enterprise
+customer segment
+1
+
+25
+1
+Maximize
+the Core
+Leverage cloud ERP migrations to displace
+competitive or homegrown indirect tax solutions
+Grow share-of-wallet via cross-sell of use tax, VAT,
+compliance, e-invoicing, certificate mgmt., etc.
+Strengthen key influencer relationships within our
+customers & partners
+Capitalize on our tax relationships to target
+eCommerce business owners
+GROW ENTERPRISE CUSTOMER
+SEGMENT
+
+26
+ERP Cloud Migration Opportunity
+How were
+poised to win
+$1.8B
+TAM associated with
+ERP cloud migrations
+through 2028 (1)
+Strength of relationships with
+alliance and ecosystem partners
+Tight integrations with SAP and
+Oracle among our customers
+Meaningful ACV uplift realized
+from Vertex cloud migrations
+NOTE: Based on management estimates
+
+27
+2
+Extend global brand to further penetrate Europe
+Land with e-invoicing offering among global
+multinationals and expand into periodic reporting
+Grow the mid-market customer segment who have
+complex needs
+Focus efforts on deepening region and segment
+specific customer and partner relationships
+Expand
+the Core
+NEW GEOGRAPHIES
+AND CUSTOMER SEGMENTS
+
+E-Invoicing Opportunity
+28
+The market is highly fragmented, and
+our existing global customers needs
+are evolving
+We have unique access to tax data
+required to fulfill the mandates
+With the advent of e-invoicing, no opportunity to
+correct anymoreOnce you send it off, it's in the
+authorities' hands and clients worry any issues in
+determination cannot really be fixed or glossed over
+as part of the reporting process anymore
+Determination is 30% -> 50% in next 5 years due to
+flurry of e-invoicing mandates that will be a catalyst.
+Big 4 Accounting Firm
+While there are distinct buying units for each of the 60
+countries in which [company] is established, the goal is
+to fully shift all countries [to one provider] eventually.
+Director of Global Indirect Tax
+Compelling combined value prop
+with determination & compliance
+$7B
+TAM
+We have a solution built on a modern
+tech stack and a scalable network
+How were
+poised to win
+
+29
+3
+Expand end-to-end platform capabilities to address
+all aspects of the indirect tax workflow
+Launch tax data management offering
+Leverage AI to optimize workflows and
+commercialize new offerings
+Deliver an exceptional customer experience
+E2E PLATFORM; DATA
+MANAGEMENT; AI APPLICATIONS
+Scale the
+Offering
+
+30
+Our AI Strategy is Focused in Four Key Areas
+Internal
+Transformation
+Commercial
+Productivity
+(e.g., Marketing
+and Sales AI)
+General
+Productivity
+(e.g., General purpose /
+Function-specific co-pilots)
+Commercial
+Value
+Intelligent Tax
+Research
+(e.g., Accelerating new
+industry categories)
+New Offering
+Development
+(e.g., Smart Categorization)
+Select Investments
+AI-Enabled
+Customer Care
+(e.g., Intelligent
+self-service, etc.)
+Customer
+Experience
+Co-Pilots
+(e.g., Vertex Co-pilot,
+AI Foundation, Data Fabric)
+Partner
+Value
+Human In-The-Loop
+(e.g., IP sharing, co-developed AI offerings)
+Embedded
+Compliance
+(e.g., Connectors)
+Margins &
+Deal Velocity
+NRR & GRR
+(Cross-sell & Retention)
+ARR Growth
+(New Product & Market Expansion)
+GTM Acceleration & New
+Revenue Channels
+
+Corporate Development as a Growth Accelerator
+31
+Acquisitions
+Drive market &
+offering expansion
+Partnerships
+Accelerate go-to-market & cross-sell
+Investments
+Unlock innovation
+& insights
+
+Key Takeaways
+Uniquely positioned as a leader in the must-have indirect tax technology space
+Unmatched ability to address the complexities
+of tax providing durable competitive advantage
+Addressable market of $30 Billion for our
+products and services, and growing (1)
+A well-defined strategy to deliver sustainable
+growth over time accelerated by corporate
+development
+(1) Based on management estimates 32
+
+PRODUCT SOLUTION PANEL
+33
+End-to-End Platform with
+Unmatched Capabilities
+Moderated by Jeff Foucher
+Sal Visca
+Chief Technology Officer
+Uwe Sydon
+SVP Product Management
+Michael Bernard
+VP Chief Tax Officer
+
+BREAK
+15 MINUTES
+34
+
+Leading Commercial
+Position
+Positioned to Win with
+Multiple Layers of Growth
+Chris Jones, Chief Commercial Officer
+35
+
+36
+Accomplishments Since IPO:
+Expanded Markets and Competitive Differentiation
+(1) Vertex only; does not include Systax or ecosio
+2020 - 2024
+Invested in customer success function
+Expanded global partner ecosystem
+Added indirect sales:
+sell-with / sell-through models
+Increased sales capacity globally
+Enhanced long-standing relationships with SAP
+and Oracle with strong go-to-market initiatives
+Deepened relationships with Microsoft, NetSuite,
+Workday, Coupa, Salesforce, and Shopify
+Scaled Customer
+CAGR
+14.0%
+ARR CAGR (1)
+16.8%
+Average NRR
+109%
+AARPC CAGR (1)
+14.8%
+
+37
+Differentiated Products and Infrastructure
+Go-to-Market
+Growing business complexity
+M&A
+Omnichannel
+Geographic Expansion
+Growing tax complexity
+Home-grown legacy solutions
+System complexity
+Customer
+Challenges
+Technology
+Partners
+Alliance
+Partners
+System
+Integration
+Partners
+Large / High Complexity
+Mid-Market / High Complexity
+Europe: VAT / E-invoicing /
+US Presence
+Customers
+Best-in-class Core Product
+Complex Integration
+Know-How
+Comprehensive
+Content Database
+World Class Support
+and Engagement 
+
+38
+Go-to-Market Model Optimized for Customer
+Acquisition and Revenue Growth
+Field Sales
+Inside Sales
+Indirect Sales
+Strategic Accounts
+Customer Success
+Global Professional Services
+Partner Success
+Ecosystem Sales Customer Experience
+Tax & Accounting Firms
+Technology Partners
+System Integrators
+Customer Community
+LAND EXPAND
+
+39
+Global Customer Success
+Delivering Strong Growth in ARR Upsell & Cross Sell While Enhancing Efficiency
+Relationships Actions Outcomes
+$0
+$100
+$200
+$300
+$400
+Non CS CS
+2022 2023 2024
+ARR Growth within CS Headcount vs Closed
+Opportunities
+Upsell/Cross Sell Revenue
+per CS Resource
+0
+50
+100
+150
+200
+250
+2022 2023 2024
+Closed Opps Headcount
+$197,260 $225,926
+$401,333
+2022 2023 2024
+Investment in customer success leads to increasing revenue through upsell and cross-sell
+
+40
+Key Partnerships Fuel Our Sales Funnel
+GTM Initiatives
+Why They Partner with Vertex
+Dedicated Indirect Sales
+Engagement Teams
+Collaborative consulting approach
+with battle tested solutions and technical
+know-how around complex integrations
+Leverage broad professional services
+expertise built by the top accounting
+firms to drive omnichannel
+Vertex implementations
+Partner Enablement strategy to position
+partner ecosystem for success
+Robust product strategy aligned
+to key ecosystems
+Broad portfolio of reference accounts
+to enhance sales enablement
+Trust factor established
+throughout our 47-year history.
+Pre-built integrations and connectors that
+facilitate data flows with non-Vertex systems
+Broad suite of tools that simplify the
+life of the indirect tax professional
+Technology Partners
+Alliance and System
+Integration Partners
+
+41
+Broad Base of Referenceable Customers Spans Wide
+Range of Segments, Sectors, Geographies 
+
+42
+US Sales and
+Use Tax Proven
+Pipelines for Growth
+Competitive Advantages
+Industry validated solutions
+Superior tax content database
+Expansive partner ecosystem
+Capabilities to handle complex ecosystem integrations
+Digital transformation, e-commerce, procurement,
+subscription billing, and other transactional systems
+Go-to-Market Strategy
+Leverage partner ecosystem to drive new logo acquisition
+Tech partners, System Integrators, Alliance partners
+Continued maturity of Customer Success team
+Significant Market Opportunity
+Companies with in-house / partially vended solutions
+Expand customer usage of Vertex solutions
+Digital transformation, business model changes,
+regulatory pressure
+Determination Document Management Compliance
+Reporting Audit support Data Management
+
+43
+Value Added Tax
+(Europe, LATAM, and
+AsiaPac) Multiple
+Critical Channel
+Partners
+Competitive Advantages
+Global multi-national customer base
+End-to-end global solution with integrated e-invoicing
+functionality
+Established partnerships and model
+Go-to-Market Strategy
+Partner-first model - helping our alliance and SI partners
+build profitable practices
+Leverage SAP migration deadlines for continued pipeline
+generation
+E-commerce opportunity
+Significant Market Opportunity
+Companies using native ERP VAT calculation solutions, in-house tools, and disparate tax technologies
+Non-U.S. companies selling into the U.S.
+Continued proliferation of E-Invoicing mandates 
+
+44
+E-commerce:
+Accelerating
+Relationships with
+Partners and Platforms
+*Vertex Estimate
+Vertex revenue from E-commerce and
+marketplaces more than doubled in 2024
+Significant Market Opportunity
+Estimated $600 million TAM
+Competitive Advantages
+Omnichannel approach with wide breadth of solutions
+Revenue-based predictable pricing
+Global reach
+Flexibility to seamlessly connect with complex systems
+Go-to-Market Strategy
+Expanding with existing customers
+Direct relationships with largest key platforms
+Deep relationships in SI community
+Ecosystem Reach and Scale
+With integrations to the dominant applications enabling global
+commerce, we touch ~80% of global transaction volumes*
+
+45
+Multiple Drivers of New Logo Growth
+e-Invoicing:
+European SaaS software company
+preparing for the upcoming
+e-invoicing mandate in Germany.
+Additionally led to full-suite
+product sales.
+Winning vs. Competition:
+Major electric vehicle manufacturer
+switched from a competitive solution that
+was not capable of effectively supporting
+their growing business
+Global ERP Migration:
+Multinational materials manufacturer
+planning for an SAP S/4HANA migration
+in 2025; selected in part due to our
+extensive operations in Brazil
+Complex Mid-Market
+Opportunities
+Technology
+Evolution
+Attractive
+Geographies
+New
+Verticals
+2024
+Examples
+Sources of New Logo Additions
+
+46
+Customer Case Studies
+
+47
+Customer Journey Case Study:
+Diversified Manufacturer
+ARR Grew >10X Since 2018
+$185 $300 $334 $411
+$1,112
+$1,877 $1,878
+2018 2019 2020 2021 2022 2023 2024
+ARR by Product Line ($000s)
+Customer Description / Challenges
+Longstanding Vertex Customer early 00's
+Consolidation of ERP systems and ongoing Cloud transition
+Worldwide growth and M&A
+Vertex Solution / System Connections
+SAP ECC
+SAP S4 Hana
+SAP Ariba
+Oracle E-Business Suite
+eCommerce
+Major Cross-sells and Up-sells
+Consumer Use Tax (2019)
+LCR Dixon Tools (2019)
+Value Added Tax (2021)
+VAT Compliance (2024)
+Value-Added Results
+2018 ARR: $185,000
+2024 ARR: $1.9 M
+ARR CAGR: 47%
+Sales Tax Calculations
+Value Added Tax Calculation
+LCR Dixon Tools
+SAP Accelerator
+Consumer Use Tax Calculation
+Other Offerings
+Other Tools
+Payroll Tax Calculation
+
+48
+Customer Journey Case Study:
+Upscale Grocery Store Chain
+ARR Grew >20X Since Relationship Inception
+$32 $42 $62
+$435
+$480
+$663 $704
+2018 2019 2020 2021 2022 2023 2024
+Customer Description / Challenges
+Inception - 2018
+Initial Vertex relationship based on an e-commerce
+prepared meals pilot program
+Vertex Solution / System Connections
+SAP s4/Hana
+SAP Ariba
+Toshiba Global Commerce POS
+Proprietary in-house e-commerce
+platform
+Major Cross-sells and Up-sells
+Expansion of Sales
+Tax Calc (2021)
+Sales Tax Returns (2021)
+Edge (2022)
+Consumers Use
+Tax (2023)
+Value-Added Results
+2018 ARR: $32,000
+2024 ARR: $704,000
+ARR CAGR: 67%
+ARR by Product Line ($000s)
+Sales Tax Calculations
+Consumer Use Tax
+Other Offerings
+Edge
+Sale Tax Returns
+Other Tools
+
+Customer Journey Case Study:
+Consumer Delivery Company
+55% ARR CAGR Since Relationship Inception
+Customer Description / Challenges
+Inception - 2020
+Enhance compliance with global indirect taxes
+in preparation for IPO
+Support massive worldwide transaction growth
+Vertex Solution / System Connections
+Bespoke home-grown business platform processing 7-8
+billion transactions per year
+Major Cross-sells and Up-sells
+Sales Tax Calculation expansion (2021)
+Edge (2024)
+Value-Added Results
+2018 ARR: $803,000
+2024 ARR: $4.7 M
+ARR CAGR: 55%
+ARR by Product Line ($000s)
+49
+Sales Tax
+Other
+Hosting Fees
+Edge
+Value Added Tax
+$803
+$2,838 $2,984
+$3,325
+$4,658
+2020 2021 2022 2023 2024
+
+50
+Drivers of Future Success
+Provide customers with unrivaled support and
+engagement to maintain our industry-leading
+revenue retention metrics
+Execute on our leading go-to-market
+organization and platform
+Leverage status as partner of choice for our
+technology, alliance, and SI partners
+Seize on our opportunity from multiple
+secular growth drivers linked to perpetually
+evolving complexity
+
+CUSTOMER / PARTNER PANEL
+51
+Unparalleled Customer
+Value Proposition
+Moderated by Chris Jones
+Dominic Zambrano
+Senior Director - Tax, Comcast
+Maria Hevia Alvarez
+Global Indirect Tax Deputy Leader, EY
+Jeff Craskey
+VP Business Development, SAP
+
+52
+Financial
+Overview
+& Outlook
+Well
+-Positioned for
+Durable Growth
+John Schwab, CFO
+
+Last Major Recession
+$100 $109 $121 $130 $134 $144 $154 $165 $174 $188 $207 $225 $245 $272
+$322
+$375
+$426
+$492
+$572
+$666.8
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+53
+Consistent Long-term Revenue Growth
+Sustained Revenue Momentum Since Strategic Shift
+11% CAGR
+2005 2024
+15% CAGR
+2016 2024
+(1) 2005 through 2017 revenue from unaudited financial statements. Revenue starting in 2018 reflects application of ASC 606
+
+Well-Positioned for Durable Growth
+54
+Highly Recurring Revenue Model
+Consistent and Durable
+Growth at Scale
+Proven Ability to Drive Earnings
+Leverage
+Sustainable Growth Opportunities
+85% of revenue derived from long-term subscriptions
+Mission critical (1), best-in-class offering with 94-96% GRR (1)
+Runway for existing customer penetration + underlying transaction growth
+Multiple favorable secular drivers leading to new products, new logos
+Completed investment in 2023 in Go-to-Market, Customer Success
+Organization, New Products, and Corporate Infrastructure
+Accelerating earnings momentum in 2H23 and 2024
+Continued expansion of average revenue per customer
+New logo growth from expanding products and geographies
+Targeted bolt-on M&A
+Long-term tailwinds E-invoicing adoption and ERP conversions
+(1) Based on information as of December 31, 2024
+
+Cloud Subscription Revenue
+$316
+$370
+$431
+$513
+$603
+2020 2021 2022 2023 2024
+$87
+$127
+$169
+$215
+$276
+2020 2021 2022 2023 2024
+55
+Resilient Recurring Revenue
+Annual Recurring Revenue (ARR)
+Recurring revenue model with
+multiple levers for growth
+33.5% CAGR
+2020 2024
+17.5% CAGR
+2020 2024
+Cloud revenue growth
+of 29% in 2024
+
+56
+(1) Adjusted EBITDA and Adjusted EBITDA margin are non-GAAP financial measures; for a reconciliation non-GAAP measures to the nearest GAAP
+equivalent, see the Appendix
+Reaping the Rewards of Prudent Investments for Growth
+Increasing Earnings Leverage
+Prudent Investments in
+Growth and Innovation
+Accelerating
+Financial Momentum
+Adjusted EBITDA ($M) and margin
+Effective Development
+and Commercialization
+Earnings Leverage Phase
+$78.4 $78.0 $78.7
+$100.8
+$151.9
+20.9%
+18.3% 16.0% 17.6%
+22.8%
+15. 00%
+20. 00%
+25. 00%
+30. 00%
+35. 00%
+$0. 00
+$20 .00
+$40 .00
+$60 .00
+$80 .00
+$10 0.00
+$12 0.00
+$14 0.00
+$16 0.00
+$18 0.00
+$20 0.00
+2020 2021 2022 2023 2024
+Growth Investment Stage
+
+$49.6 $46.9
+$3.4 $6.1
+63.3% $77.7
+60.2%
+4.3% 6.1%
+51.2%
+-7.00%
+3.0 0%
+13. 00%
+23. 00%
+33. 00%
+43. 00%
+53. 00%
+63. 00%
+$0. 00
+$10 .00
+$20 .00
+$30 .00
+$40 .00
+$50 .00
+$60 .00
+$70 .00
+$80 .00
+2020 2021 2022 2023 2024
+57
+Increasing Free Cash Flow Generation
+Increasing FCF Accelerating
+Financial Momentum
+Free Cash Flow and Conversion ($M)(1)
+Increasing FCF Conversion
+Earnings Leverage Phase
+Growth Investment Stage
+(1) Free cash flow and free cash flow conversion are non-GAAP financial measures; for a reconciliation non-GAAP measures to the nearest GAAP
+equivalent, see the Appendix
+
+49% 50% 50% 49% 49% 50%
+27% 25% 25% 27% 27% 26%
+24% 25% 25% 24% 24% 24%
+2020 2021 2022 2023 2024 Average
+Cross-sell Price Entitlements
+67%
+71% 70%
+78%
+72% 72%
+33% 29% 30% 22% 28% 28%
+2020 2021 2022 2023 2024 Average
+Existing Customer New Logo
+58
+Consistency of New ARR Fuels Our Growth Algorithm
+Reliable, Resilient Growth Composition
+Existing
+Customer vs. New Logo Existing Customers
+~30% ~25%
+~70%
+~25%
+~50%
+100% 100%
+
+Selectively Targeting Accretive, Bolt-on M&A
+Acquisition Criteria
+59
+Complement and accelerate
+organic growth
+Provide complementary
+products and services
+Expand new market opportunities
+Accretive over short run with
+IRR > WACC
+M&A growth is supplemental to
+current long-term projections
+e-Invoicing / Continuous Transaction Control (CTC)
+is a key indirect tax pain point for global customers
+Enterprise customers will be most impacted by
+the proliferation of E-invoicing regulations
+Platform provides integrated approach to VAT
+compliance and e-invoicing that existing
+market solutions lack
+Vertex/ecosio solution enables seamless
+connection across end-to-end platform
+Leverages Vertexs strengths in automation
+and connection to partner ecosystems
+(SAP, Oracle, MS etc.)
+Performance aligned via earn-out mechanism
+Acquired additive AI capabilities from award-winning tax services and software firm in June 2024
+Software is designed to more effectively manage the complexity of tax mapping
+The acquisition will accelerate Vertexs AI innovation strategy to help global companies manage tax
+complexity with greater speed and scale
+e-Invoicing Acquisition:
+AI Acquisition: 
+
+Investment at
+a Glance ($M)
+60
+2024 2025 2026 Total Investment
+ecosio AEBITDA loss
+and R&D Investment
+Upfront Purchase Price
+Maximum Earn Out
+Total Acquisition Price
+Total ecosio Investment
+~$31.5
+$65
+$130
+$195
+$226.5
+$4.5(A) $18(E) $9(E)
+
+61
+Investing in Growth through R&D
+NOTE: Research and Development Expense is presented on a non-GAAP basis; for a reconciliation to GAAP, see the Appendix
+Continuing to Enhance the Platform through Innovation
+17.7% 17.1% 17.1% 17.6% 18.5%
+Expect to Remain in Similar Range
+Percent of Revenue
+Annual Research and Development Investment ($M) 
+
+62
+2025
+Financial
+Outlook
+1Q25 2025
+Total Revenue $175M to $178M $760M to $768M
+Cloud Revenue N/A Growth of 28%
+Adjusted EBITDA $33M to $36M $161M to $165M
+
+63
+Accelerating Financial Momentum:
+2028 Targets(*)
+*Excludes future M&A activity
+63
+Prior Long-Term Target 2028 Target
+Growth Drivers
+E-Invoicing solution
+contributing 7%-10% of
+revenue by 2028
+Other new products including
+Smart Categorization and Data
+Management
+Additional penetration of
+complex mid-market companies
+Profitability and
+Cash Flow Drivers
+Continued leverage
+from General & Administrative
+and Sales & Marketing 
+
+Disciplined Capital Allocation Framework
+Strategically Focused on Indirect Tax Lifecycle
+Capital Allocation Priorities
+64
+e-Invoicing
+Additional country coverage
+ecosio integration
+Other Organic
+Investments
+R&D/New Product Development
+Tax Content Enhancements
+Go-to-Market
+Targeted
+M&A
+Opportunistic
+bolt-on acquisitions
+Debt
+Repayment
+Convert 2029
+ecosio earn-out
+Return of Capital
+to Shareholders
+Opportunistic Buybacks
+
+65
+Key Takeaways
+2028 growth targets demonstrate clear
+path to consistent growth
+Highly attractive recurring revenue model,
+sticky customer relationships
+Durable growth algorithm delivering
+mid
+-high teen revenue growth
+Proven earnings leverage from disciplined
+investment cycle
+Disciplined capital allocation prioritizing
+targeted growth investment and bolt
+-on M&A 
+
+Q&A
+66
+
+THANK YOU
+67
+
+68
+Appendix
+
+Adjusted EBITDA and Adjusted EBITDA margin Reconciliation (1)
+(1) Adjusted EBITDA and Adjusted EBITDA margin are non-GAAP financial measures. The above table reconciles these non-GAAP financial measures to the most directly
+comparable GAAP financial measures. Refer to Form 10-K for the twelve months ended December 31, 2024 for additional information regarding the Companys use of
+these non-GAAP financial measures
+($ in Thousands)
+Adjusted EBITDA 2020 2021 2022 2023 2024
+Net Income (Loss) (75,081) (1,479) (12,304) (13,093) (52,729)
+Interest expense (benefit), net 3,111 984 2,048 4,164 (4,137)
+Income tax expense (benefit) (32,788) (2,447) 2,174 (8,581) 54,683
+Depreciation and amortization property and equipment 11,018 11,678 12,440 15,202 20,953
+Depreciation and amortization of capitalized software and
+acquired intangible assets cost of subscription revenues 21,021 32,291 44,934 54,048 59,302
+Amortization of acquired intangible assets - selling and
+marketing expense 176 813 3,779 2,641 2,478
+Amortization of cloud computing implementation costs 
+general and administrative - - - 2,570 4,007
+Stock-based compensation expense 147,904 26,160 19,729 33,919 47,425
+Severance expense 3,031 5,232 877 3,576 3,048
+Acquisition contingent consideration - - 2,300 1,549 (2,575)
+Litigation settlements - - 2,000 - -
+Change in fair value of acquisition contingent earn-outs - - - - 17,500
+Transaction costs - 4,748 696 4,853 2,032
+Adjusted EBITDA ($) $78,392 $77,980 $78,673 $100,848 $151,942
+Adjusted EBITDA Margin:
+Total revenues 374,665 425,548 491,624 572,387 666,776
+Adjusted EBITDA margin (%) 20.9% 18.3% 16.0% 17.6% 22.8%
+69
+
+Free Cash Flow and Free Cash Flow Conversion Reconciliation (1)
+($ in Thousands)
+Free Cash Flow: 2020 2021 2022 2023 2024
+Cash provided by operating activities 59,543 90,289 63,848 74,332 164,821
+Redemption of Converted SARs 22,889 - - - -
+Property and equipment additions (20,955) (31,706) (45,532) (49,261) (65,769)
+Capitalized software additions (11,850) (11,660) (14,888) (18,972) (21,344)
+Free cash flow ($) $49,627 $46,923 $3,428 $6,099 $77,708
+Free Cash Flow Conversion:
+Adjusted EBITDA 78,392 77,980 78,673 100,848 151,942
+Free cash flow conversion (%) 63.3% 60.2% 4.3% 6.1% 51.2%
+70
+(1) Free cash flow and free cash flow conversion are non-GAAP financial measures. The above table reconciles free cash flow to the most directly comparable GAAP
+financial measure, and provides the calculation for free cash flow conversion, which is determined by dividing free cash flow by Adjusted EBITDA for the respective periods.
+Refer to Form 10-K for the twelve months ended December 31, 2024 for additional information regarding the Companys use of free cash flow.
+
+Research & Development Expense Reconciliation (1)
+($ in Thousands)
+Non-GAAP Research and Development
+Expense: 2020 2021 2022 2023 2024
+Research and development expense 54,340 44,018 41,877 58,212 66,666
+Stock-based compensation expense (14,694) (2,620) (1,798) (5,994) (9,548)
+Transaction costs - - - - (723)
+Non-GAAP research and development expense ($) $39,646 $41,398 $40,079 $52,218 $56,395
+71 (1) The above table reconciles non-GAAP financial measures to the most directly comparable GAAP financial measures. Refer to Form 10-K for the twelve months ended
+December 31, 2024 for additional information regarding the Companys use of these non-GAAP financial measures
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>verx-20250319xex99d1g001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>verx-20250319xex99d1g002.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>verx-20250319xex99d1g003.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>verx-20250319xex99d1g004.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>verx-20250319xex99d1g005.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>verx-20250319xex99d1g006.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>verx-20250319xex99d1g007.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>10
+<FILENAME>verx-20250319xex99d1g008.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>11
+<FILENAME>verx-20250319xex99d1g009.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>12
+<FILENAME>verx-20250319xex99d1g010.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>13
+<FILENAME>verx-20250319xex99d1g011.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>14
+<FILENAME>verx-20250319xex99d1g012.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>15
+<FILENAME>verx-20250319xex99d1g013.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>16
+<FILENAME>verx-20250319xex99d1g014.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>17
+<FILENAME>verx-20250319xex99d1g015.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>18
+<FILENAME>verx-20250319xex99d1g016.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>19
+<FILENAME>verx-20250319xex99d1g017.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>20
+<FILENAME>verx-20250319xex99d1g018.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>21
+<FILENAME>verx-20250319xex99d1g019.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>22
+<FILENAME>verx-20250319xex99d1g020.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>23
+<FILENAME>verx-20250319xex99d1g021.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>24
+<FILENAME>verx-20250319xex99d1g022.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>25
+<FILENAME>verx-20250319xex99d1g023.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>26
+<FILENAME>verx-20250319xex99d1g024.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>27
+<FILENAME>verx-20250319xex99d1g025.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>28
+<FILENAME>verx-20250319xex99d1g026.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>29
+<FILENAME>verx-20250319xex99d1g027.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>30
+<FILENAME>verx-20250319xex99d1g028.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>31
+<FILENAME>verx-20250319xex99d1g029.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>32
+<FILENAME>verx-20250319xex99d1g030.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>33
+<FILENAME>verx-20250319xex99d1g031.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>34
+<FILENAME>verx-20250319xex99d1g032.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>35
+<FILENAME>verx-20250319xex99d1g033.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>36
+<FILENAME>verx-20250319xex99d1g034.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>37
+<FILENAME>verx-20250319xex99d1g035.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>38
+<FILENAME>verx-20250319xex99d1g036.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>39
+<FILENAME>verx-20250319xex99d1g037.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>40
+<FILENAME>verx-20250319xex99d1g038.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>41
+<FILENAME>verx-20250319xex99d1g039.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>42
+<FILENAME>verx-20250319xex99d1g040.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>43
+<FILENAME>verx-20250319xex99d1g041.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>44
+<FILENAME>verx-20250319xex99d1g042.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>45
+<FILENAME>verx-20250319xex99d1g043.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>46
+<FILENAME>verx-20250319xex99d1g044.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>47
+<FILENAME>verx-20250319xex99d1g045.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>48
+<FILENAME>verx-20250319xex99d1g046.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>49
+<FILENAME>verx-20250319xex99d1g047.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>50
+<FILENAME>verx-20250319xex99d1g048.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>51
+<FILENAME>verx-20250319xex99d1g049.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>52
+<FILENAME>verx-20250319xex99d1g050.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>53
+<FILENAME>verx-20250319xex99d1g051.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>54
+<FILENAME>verx-20250319xex99d1g052.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>55
+<FILENAME>verx-20250319xex99d1g053.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>56
+<FILENAME>verx-20250319xex99d1g054.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>57
+<FILENAME>verx-20250319xex99d1g055.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>58
+<FILENAME>verx-20250319xex99d1g056.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>59
+<FILENAME>verx-20250319xex99d1g057.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>60
+<FILENAME>verx-20250319xex99d1g058.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>61
+<FILENAME>verx-20250319xex99d1g059.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>62
+<FILENAME>verx-20250319xex99d1g060.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>63
+<FILENAME>verx-20250319xex99d1g061.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>64
+<FILENAME>verx-20250319xex99d1g062.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>65
+<FILENAME>verx-20250319xex99d1g063.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>66
+<FILENAME>verx-20250319xex99d1g064.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>67
+<FILENAME>verx-20250319xex99d1g065.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>68
+<FILENAME>verx-20250319xex99d1g066.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>69
+<FILENAME>verx-20250319xex99d1g067.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>70
+<FILENAME>verx-20250319xex99d1g068.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>71
+<FILENAME>verx-20250319xex99d1g069.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>72
+<FILENAME>verx-20250319xex99d1g070.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>73
+<FILENAME>verx-20250319xex99d1g071.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>74
+<FILENAME>verx-20250319.xsd
+<DESCRIPTION>EX-101.SCH
+<TEXT>
+00090 - Document - Document and Entity Information 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>75
+<FILENAME>verx-20250319_lab.xml
+<DESCRIPTION>EX-101.LAB
+<TEXT>
+Document and Entity Information [Abstract] 
+
+Document Type 
+
+Document Period End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Incorporation, State or Country Code 
+
+Entity Tax Identification Number 
+
+Entity Address State Or Province 
+
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+
+Entity Address, Postal Zip Code 
+
+City Area Code 
+
+Local Phone Number 
+
+Title of 12(b) Security 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Entity Emerging Growth Company 
+
+Entity Central Index Key 
+
+Amendment Flag
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>76
+<FILENAME>verx-20250319_pre.xml
+<DESCRIPTION>EX-101.PRE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>78
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Document and Entity Information
+
+Mar. 19, 2025
+
+Document and Entity Information [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Mar. 19, 2025
+
+Entity File Number 001-39413
+
+Entity Registrant Name VERTEX, INC.
+
+Entity Incorporation, State or Country Code DE
+
+Entity Tax Identification Number 23-2081753
+
+Entity Address State Or Province PA
+
+Entity Address, Address Line One 2301 Renaissance Blvd.
+
+Entity Address, City or Town King of Prussia
+
+Entity Address, Postal Zip Code 19406
+
+City Area Code 800
+
+Local Phone Number 355-3500
+
+Title of 12(b) Security Class A Common Stock, $0.001 par value per share
+
+Trading Symbol VERX
+
+Security Exchange Name NASDAQ
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0001806837
+
+Amendment Flag false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>79
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>80
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>81
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>83
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+00090 - Document - Document and Entity Information 
+Sheet 
+http://www.vertexinc.com/role/DocumentDocumentAndEntityInformation 
+Document and Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+verx-20250319.xsd 
+verx-20250319_lab.xml 
+verx-20250319_pre.xml 
+verx-20250319x8k.htm 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>85
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>86
+<FILENAME>0001558370-25-003260-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>87
+<FILENAME>verx-20250319x8k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001806837 
+
+2025-03-19 
+2025-03-19 
+
+0001806837 
+false 
+8-K 
+2025-03-19 
+VERTEX, INC. 
+DE 
+001-39413 
+23-2081753 
+2301 Renaissance Blvd. 
+King of Prussia 
+PA 
+19406 
+800 
+355-3500 
+false 
+false 
+false 
+false 
+Class A Common Stock, $0.001 par value per share 
+VERX 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

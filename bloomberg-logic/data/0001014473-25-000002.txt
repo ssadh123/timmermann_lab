@@ -1,0 +1,1284 @@
+<SEC-DOCUMENT>0001014473-25-000002.txt : 20250206
+<SEC-HEADER>0001014473-25-000002.hdr.sgml : 20250206
+<ACCEPTANCE-DATETIME>20250206160835
+ACCESSION NUMBER:		0001014473-25-000002
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250206
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250206
+DATE AS OF CHANGE:		20250206
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VERISIGN INC/CA
+		CENTRAL INDEX KEY:			0001014473
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING SERVICES [7371]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				943221585
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-23593
+		FILM NUMBER:		25597421
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12061 BLUEMONT WAY
+		STREET 2:		ATTN: GENERAL COUNSEL
+		CITY:			RESTON
+		STATE:			VA
+		ZIP:			20190
+		BUSINESS PHONE:		7039483200
+
+	MAIL ADDRESS:	
+		STREET 1:		12061 BLUEMONT WAY
+		STREET 2:		ATTN: GENERAL COUNSEL
+		CITY:			RESTON
+		STATE:			VA
+		ZIP:			20190
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>vrsn-20250206.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?vrsn-20250206
+
+VERISIGN INC/CA0001014473false00010144732025-02-062025-02-06
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 6, 2025
+
+VERISIGN, INC. 
+
+(Exact Name of Registrant as Specified in its Charter)
+
+Delaware
+
+(State or Other Jurisdiction of Incorporation)
+
+000-23593 
+
+94-3221585
+
+(Commission
+
+File Number) (IRS Employer
+
+Identification No.)
+
+12061 Bluemont Way, 
+
+Reston, Virginia 20190
+
+(Address of principal executive offices) (Zip Code)
+
+(703) 948-3200
+
+(Registrants Telephone Number, Including Area Code)
+
+Not applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Common Stock, $0.001 Par Value Per Share VRSN Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02. 
+
+Results of Operations and Financial Condition.
+
+On February 6, 2025, VeriSign, Inc. (the Company) announced its financial results for the fiscal quarter and year ended December 31, 2024. A copy of this press release is attached hereto as Exhibit 99.1.
+
+The Company is required to disclose annually the following non-guarantor subsidiary financial information pursuant to section 4.2(d) of the indentures governing the Companys senior notes due 2025 and 2027:
+
+As of December 31, 2024, the Companys non-guarantor subsidiaries collectively had (1) liabilities (excluding intercompany liabilities) of $509.0 million (15.1% of the Companys consolidated total liabilities), of which $424.2 million were deferred revenues, (2) assets (excluding intercompany assets) of $640.0 million (45.5% of the Companys consolidated total assets), of which $418.3 million were cash, cash equivalents and marketable securities and (3) assets (excluding cash, cash equivalents and marketable securities, and intercompany assets) of $221.7 million (27.5% of the Companys consolidated total assets, excluding cash, cash equivalents and marketable securities). 
+
+For the twelve months ended December 31, 2024, the Companys non-guarantor subsidiaries collectively had Adjusted EBITDA of $368.2 million (31.1% of the Companys consolidated Adjusted EBITDA), which includes intercompany transactions with the Company. Such intercompany transactions represent the majority of the Companys non-guarantor subsidiaries aggregate expenses. Intercompany transactions and allocations of revenues and costs between the parent and the non-guarantor subsidiaries can vary significantly. Therefore, the Company believes that period-to-period comparisons of Adjusted EBITDA of the Companys non-guarantor subsidiaries may not necessarily be meaningful.
+
+Adjusted EBITDA is a non-GAAP financial measure and is calculated in accordance with the terms of the indentures governing the Companys senior notes. Adjusted EBITDA refers to net income before interest, taxes, depreciation and amortization, stock-based compensation, and unrealized gain/loss on hedging agreements. Management believes that Adjusted EBITDA supplements the financial data prepared in accordance with GAAP by providing investors with additional information that allows them to have a clearer picture of the Companys operations and financial performance and the comparability of the Companys operating results from period to period. The presentation of this additional information is not meant to be considered in isolation nor as a substitute for results prepared in accordance with GAAP. The table below reconciles the Companys consolidated Net Income, which is the most directly comparable financial measure calculated and presented in accordance with GAAP, to the Companys consolidated non-GAAP Adjusted EBITDA for the year ended December 31, 2024.
+
+Year Ended
+
+December 31, 2024
+
+(in millions)
+
+Net Income $ 785.7 
+
+Interest expense 75.3 
+
+Income tax expense 236.2 
+
+Depreciation and amortization 36.9 
+
+Stock-based compensation 61.1 
+
+Unrealized gain on hedging agreements (9.9) 
+
+Non-GAAP Adjusted EBITDA $ 1,185.3 
+
+The information in this Item 2.02 of Form 8-K and the Exhibit attached hereto shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+Item 9.01. 
+
+Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+Number 
+
+Description
+
+99.1 
+
+Text of press release of VeriSign, Inc. issued on February 6, 2025.
+
+104 
+
+Inline XBRL for the cover page of this Current Report on Form 8-K
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VERISIGN, INC.
+
+Date: February 6, 2025 
+
+By: 
+
+/s/ Thomas C. Indelicarto
+
+Thomas C. Indelicarto
+
+Executive Vice President, General Counsel and Secretary
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>q42024earningsrelease.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Verisign Reports Fourth Quarter and Full Year 2024 Results
+
+RESTON, VA - Feb. 6, 2025 - VeriSign, Inc. (NASDAQ: VRSN), a global provider of critical internet infrastructure and domain name registry services, today reported financial results for the fourth quarter and full year 2024.
+
+Fourth Quarter Financial Results
+
+VeriSign, Inc. and subsidiaries (Verisign) reported revenue of $395 million for the fourth quarter of 2024, up 3.9 percent from the same quarter in 2023. Operating income was $264 million for the fourth quarter of 2024, compared to $256 million for the same quarter of 2023. Verisign reported net income of $191 million and diluted earnings per share (diluted EPS) of $2.00 for the fourth quarter of 2024, compared to net income of $265 million and diluted EPS of $2.60 for the same quarter in 2023. Net income for the fourth quarter of 2023 included the recognition of certain income tax benefits that were noted in the Q4 2023 earnings release issued on Feb. 8, 2024, which increased net income by $69.3 million and increased diluted EPS by $0.68. 
+
+2024 Financial Results
+
+Verisign reported revenue of $1.56 billion for 2024, up 4.3 percent from 2023. Operating income was $1.06 billion for 2024 compared to $1.00 billion in 2023. Verisign reported net income of $786 million and diluted EPS of $8.00 for 2024, compared to net income of $818 million and diluted EPS of $7.90 in 2023. Net income for the full year of 2023 included the recognition of certain income tax benefits, noted above, which increased net income by $69.3 million and increased diluted EPS by $0.67.
+
+In 2024 we extended our unparalleled record of uninterrupted availability for .com and .net resolution to more than 27 years. We also successfully renewed our .com registry agreement with ICANN and the Cooperative Agreement with the National Telecommunications and Information Administration, said Jim Bidzos, Executive Chairman and Chief Executive Officer.
+
+Financial Highlights
+
+Verisign ended 2024 with cash, cash equivalents, and marketable securities of $600 million, a decrease of $326 million from year-end 2023.
+
+Cash flow from operations was $232 million for the fourth quarter of 2024 and $903 million for the full year of 2024 compared with $204 million for the same quarter in 2023 and $854 million for the full year of 2023.
+
+Deferred revenues as of Dec. 31, 2024, totaled $1.30 billion, an increase of $58 million from year-end 2023. 
+
+During the fourth quarter of 2024, Verisign repurchased 1.4 million shares of its common stock for $260 million. During the full year of 2024, Verisign repurchased 6.6 million shares of its common stock for $1.21 billion. As of Dec. 31, 2024, there was $1.02 billion remaining for future share repurchases under the share repurchase program which has no expiration date. 
+
+Business Highlights
+
+On Nov. 27, 2024, Verisign announced the renewal of the .com Registry Agreement with the Internet Corporation for Assigned Names and Numbers (ICANN), pursuant to which Verisign will remain the sole registry operator for the .com registry through Nov. 30, 2030.
+
+On Nov. 29, 2024, the National Telecommunications and Information Administration (NTIA) announced the renewal of the Cooperative Agreement with Verisign for a six-year term.
+
+Verisign ended the fourth quarter of 2024 with 169.0 million .com and .netdomain name registrations in the domain name base, a 2.1 percent decrease from the end of the fourth quarter of 2023, and a net decrease of 0.5 million registrations during the fourth quarter of 2024.
+
+In the fourth quarter of 2024, Verisign processed 9.5 million new domain name registrations for .com and .net, as compared to 9.0 million for the same quarter in 2023.
+
+The final .com and .net renewal rate for the third quarter of 2024 was 72.2 percent compared to 73.5 percent for the same quarter in 2023. Renewal rates are not fully measurable until 45 days after the end of the quarter.
+
+Todays Conference Call
+
+Verisign will host a live conference call today at 4:30 p.m. (EST) to review the fourth quarter and full year 2024 results. The call will be accessible by direct dial at (888) 676-VRSN (U.S.) or (786) 789-4797 (international), conference ID: Verisign. A listen-only live web cast of the conference call and accompanying slide presentation will also be available at https://investor.verisign.com. An audio archive of the call will be available at https://investor.verisign.com/events.cfm. This news release and the financial information discussed on todays conference call are available at https://investor.verisign.com.
+
+About Verisign
+
+Verisign (NASDAQ: VRSN), a global provider of critical internet infrastructure and domain name registry services, enables internet navigation for many of the worlds most recognized domain names. Verisign helps enable the security, stability, and resiliency of the Domain Name System and the internet by providing root zone maintainer services, operating two of the 13 global internet root servers, and providing registration services and authoritative resolution for the .com and .net top-level domains, which support the majority of global e-commerce. To learn more please visit verisign.com.
+
+Statements in this announcement other than historical data and information constitute forward-looking statements within the meaning ofSection 27A of the Securities Act of 1933 as amended and Section 21E of the Securities Exchange Act of 1934 as amended. These statementsinvolve risks and uncertainties that could cause our actual results to differ materially from those stated or implied by such forward-lookingstatements. The potential risks and uncertainties include, among others, attempted security breaches, cyber-attacks, and DDoS attacks againstour systems and services; the introduction of undetected or unknown defects in our systems or services; vulnerabilities in the global routing system;systeminterruptionsorsystemfailures;damageor interruptionstoourdatacenters, data center systems or resolution systems;risksarisingfromouroperationofrootserversandourperformanceofthe Root Zone Maintainer functions; any loss or modification of our right to operate the .com and .net gTLDs; changes or challenges to thepricing provisions of the .com Registry Agreement; new or existing governmental laws and regulations in the U.S. or other applicable non-U.S.jurisdictions; new laws, regulations, directives or ICANN policies that require us to obtain and maintain personal information of registrants; economic, legal, regulatory, and political risks associated with our international operations; unfavorable changes in, or interpretations of, tax rules andregulations; risks from the adoption of ICANNs consensus and temporary policies, technical standards and other processes; the weakening of, changes to, the multi-stakeholder model of internet governance; the outcome of claims, lawsuits, audits or investigations; lower economic growth, particularly in China; our ability to compete in the highly competitive business environment in which we operate; changes ininternet practices and behavior and the adoption of substitute technologies, or the negative impact of wholesale price increases; our ability toexpand our services into developing and emerging economies; our ability to maintain strong relationships with registrars and their resellers;our ability to attract, retain and motivate highly skilled employees; and our ability to protect and enforce our intellectual property rights.More information about potential factors that could affect our business and financial results is included in our filings with the SEC, includingin our Annual Report on Form 10-K for the year ended Dec. 31, 2023, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and, when filed, our Annual Report on Form 10-K for the year ended Dec. 31, 2024. Verisignundertakesno obligation to update any of the forward-looking statementsafter the dateof thisannouncement.
+
+Contacts
+
+Investor Relations: David Atchley, datchley@verisign.com, 703-948-3447
+
+Media Relations: David McGuire, davmcguire@verisign.com, 703-948-3800
+
+2025 VeriSign, Inc. All rights reserved.VERISIGN, the VERISIGN logo, and other trademarks, service marks, and designs are registered or unregistered trademarks of VeriSign, Inc. and its subsidiaries in the United States and in foreign countries. All other trademarks are property of their respective owners.
+
+VERISIGN, INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(In millions, except par value)
+
+(Unaudited)
+
+December 31,
+
+2024 December 31,
+
+2023
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents $ 206.7 $ 240.1 
+
+Marketable securities 393.2 686.3 
+
+Other current assets 63.9 61.9 
+
+Total current assets 663.8 988.3 
+
+Property and equipment, net 224.5 233.2 
+
+Goodwill 52.5 52.5 
+
+Deferred tax assets 281.3 301.0 
+
+Deposits to acquire intangible assets 145.0 145.0 
+
+Other long-term assets 39.4 29.0 
+
+Total long-term assets 742.7 760.7 
+
+Total assets $ 1,406.5 $ 1,749.0 
+
+LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+Current liabilities: 
+
+Accounts payable and accrued liabilities $ 257.8 $ 257.4 
+
+Deferred revenues 973.5 931.1 
+
+Current senior notes 299.8 
+
+Total current liabilities 1,531.1 1,188.5 
+
+Long-term deferred revenues 330.7 315.0 
+
+Long-term senior notes 1,492.5 1,790.2 
+
+Long-term tax and other liabilities 10.1 36.3 
+
+Total long-term liabilities 1,833.3 2,141.5 
+
+Total liabilities 3,364.4 3,330.0 
+
+Commitments and contingencies 
+
+Stockholders deficit: 
+
+Preferred stockpar value $.001 per share; Authorized shares: 5.0; Issued and outstanding shares: none 
+
+Common stock and additional paid-in capitalpar value $.001 per share; Authorized shares: 1,000.0; Issued shares: 355.2 at December 31, 2024 and 354.9 at December 31, 2023; Outstanding shares: 95.0 at December 31, 2024 and 101.3 at December 31, 2023 10,645.3 11,808.0 
+
+Accumulated deficit (12,600.7) (13,386.4) 
+
+Accumulated other comprehensive loss (2.5) (2.6) 
+
+Total stockholders deficit (1,957.9) (1,581.0) 
+
+Total liabilities and stockholders deficit $ 1,406.5 $ 1,749.0 
+
+VERISIGN, INC.
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+(In millions, except per share data)
+
+(Unaudited)
+
+Three Months Ended December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+Revenues $ 395.4 $ 380.4 $ 1,557.4 $ 1,493.1 
+
+Costs and expenses: 
+
+Cost of revenues 48.4 48.5 191.4 197.3 
+
+Research and development 24.9 22.9 96.7 91.0 
+
+Selling, general and administrative 58.3 52.7 211.1 204.2 
+
+Total costs and expenses 131.6 124.1 499.2 492.5 
+
+Operating income 263.8 256.3 1,058.2 1,000.6 
+
+Interest expense (18.8) (18.8) (75.3) (75.3) 
+
+Non-operating income, net 3.1 14.1 39.0 51.2 
+
+Income before income taxes 248.1 251.6 1,021.9 976.5 
+
+Income tax (expense) benefit (56.6) 13.1 (236.2) (158.9) 
+
+Net income 191.5 264.7 785.7 817.6 
+
+Other comprehensive (loss) income (0.1) 0.4 0.1 0.1 
+
+Comprehensive income $ 191.4 $ 265.1 $ 785.8 $ 817.7 
+
+Earnings per share: 
+
+Basic $ 2.00 $ 2.60 $ 8.01 $ 7.91 
+
+Diluted $ 2.00 $ 2.60 $ 8.00 $ 7.90 
+
+Shares used to compute earnings per share 
+
+Basic 95.6 101.8 98.1 103.4 
+
+Diluted 95.7 102.0 98.2 103.5 
+
+VERISIGN, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(In millions)
+
+(Unaudited)
+
+Year Ended December 31,
+
+2024 2023
+
+Cash flows from operating activities: 
+
+Net income $ 785.7 $ 817.6 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation of property and equipment 36.9 44.1 
+
+Stock-based compensation expense 61.1 59.7 
+
+Amortization of discount on investments in debt securities (21.1) (27.8) 
+
+Other, net 3.6 3.3 
+
+Changes in operating assets and liabilities: 
+
+Other assets (12.4) (1.5) 
+
+Other liabilities (28.9) (2.2) 
+
+Deferred revenues 58.1 27.0 
+
+Net deferred income taxes 19.6 (66.4) 
+
+Net cash provided by operating activities 902.6 853.8 
+
+Cash flows from investing activities: 
+
+Proceeds from maturities and sales of marketable securities 1,195.1 1,278.9 
+
+Purchases of marketable securities (880.7) (1,330.5) 
+
+Purchases of property and equipment (28.1) (45.8) 
+
+Net cash provided by (used in) investing activities 286.3 (97.4) 
+
+Cash flows from financing activities: 
+
+Repurchases of common stock (1,225.6) (901.4) 
+
+Proceeds from employee stock purchase plan 12.3 12.3 
+
+Payment of excise tax on repurchases of common stock (8.2) 
+
+Other financing activities (0.7) 
+
+Net cash used in financing activities (1,221.5) (889.8) 
+
+Effect of exchange rate changes on cash, cash equivalents and restricted cash (0.8) (0.1) 
+
+Net decrease in cash, cash equivalents and restricted cash (33.4) (133.5) 
+
+Cash, cash equivalents, and restricted cash at beginning of period 245.5 379.0 
+
+Cash, cash equivalents, and restricted cash at end of period $ 212.1 $ 245.5 
+
+Supplemental cash flow disclosures: 
+
+Cash paid for interest $ 72.8 $ 72.8 
+
+Cash paid for income taxes, net of refunds received $ 230.5 $ 239.7
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>vrsn-20250206.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Document and Entity Information Document 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>vrsn-20250206_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Soliciting Material 
+Soliciting Material 
+
+Cover [Abstract] 
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+City Area Code 
+City Area Code 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Document Period End Date 
+Document Period End Date 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>vrsn-20250206_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>logovrsna01a08.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Document and Entity Information Document
+
+Feb. 06, 2025
+
+Cover [Abstract] 
+
+Local Phone Number 948-3200
+
+Document Type 8-K
+
+Entity Registrant Name VERISIGN INC/CA
+
+Entity Emerging Growth Company false
+
+Title of 12(b) Security Common Stock, $0.001 Par Value Per Share
+
+Pre-commencement Issuer Tender Offer false
+
+Pre-commencement Tender Offer false
+
+Soliciting Material false
+
+Written Communications false
+
+Entity Address, Address Line One 12061 Bluemont Way,
+
+Entity File Number 000-23593
+
+Entity Tax Identification Number 94-3221585
+
+Entity Address, City or Town Reston,
+
+Entity Address, State or Province VA
+
+Entity Address, Postal Zip Code 20190
+
+Trading Symbol VRSN
+
+Entity Central Index Key 0001014473
+
+Amendment Flag false
+
+Security Exchange Name NASDAQ
+
+Document Period End Date Feb. 06, 2025
+
+Entity Incorporation, State or Country Code DE
+
+City Area Code 703
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Document and Entity Information Document 
+Sheet 
+http://www.verisign.com/role/DocumentandEntityInformationDocument 
+Document and Entity Information Document 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+vrsn-20250206.htm 
+vrsn-20250206.xsd 
+vrsn-20250206_lab.xml 
+vrsn-20250206_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>16
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>17
+<FILENAME>0001014473-25-000002-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>18
+<FILENAME>vrsn-20250206_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001014473 
+
+2025-02-06 
+2025-02-06 
+
+VERISIGN INC/CA 
+0001014473 
+false 
+8-K 
+2025-02-06 
+DE 
+000-23593 
+94-3221585 
+12061 Bluemont Way, 
+Reston, 
+VA 
+20190 
+703 
+948-3200 
+false 
+false 
+false 
+false 
+Common Stock, $0.001 Par Value Per Share 
+VRSN 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

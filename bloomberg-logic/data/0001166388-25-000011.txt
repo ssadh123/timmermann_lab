@@ -1,0 +1,2235 @@
+<SEC-DOCUMENT>0001166388-25-000011.txt : 20250326
+<SEC-HEADER>0001166388-25-000011.hdr.sgml : 20250326
+<ACCEPTANCE-DATETIME>20250326160851
+ACCESSION NUMBER:		0001166388-25-000011
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250326
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250326
+DATE AS OF CHANGE:		20250326
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VERINT SYSTEMS INC
+		CENTRAL INDEX KEY:			0001166388
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				113200514
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34807
+		FILM NUMBER:		25773240
+
+	BUSINESS ADDRESS:	
+		STREET 1:		225 BROADHOLLOW ROAD
+		CITY:			MELVILLE
+		STATE:			NY
+		ZIP:			11747
+		BUSINESS PHONE:		6319629600
+
+	MAIL ADDRESS:	
+		STREET 1:		225 BROADHOLLOW ROAD
+		CITY:			MELVILLE
+		STATE:			NY
+		ZIP:			11747
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>vrnt-20250326.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?vrnt-20250326
+
+0001166388false00011663882025-03-262025-03-26
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+_________________________ 
+
+FORM 8-K
+
+_________________________ 
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 26, 2025
+
+_________________________ 
+
+Verint Systems Inc.
+
+(Exact name of registrant as specified in its charter)
+
+_________________________ 
+
+Delaware 
+
+001-34807 11-3200514
+
+(State or other jurisdiction
+
+of incorporation) (Commission File Number) (I.R.S. Employer
+
+Identification No.)
+
+225 Broadhollow Road
+
+Melville, New York 11747
+
+(Address of principal executive offices, and zip code)
+
+(631) 962-9600
+
+(Registrant's telephone number, including area code) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class 
+
+Trading Symbol(s) Name of each exchange on which registered
+
+Common Stock, $.001 par value per share VRNT The NASDAQ Stock Market, LLC
+
+(NASDAQ Global Select Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On March 26, 2025, Verint Systems Inc. ("Verint", the "Company", "we", "us", and "our") issued a press release providing selected financial information for the three months and year ended January 31, 2025, and its outlook. A copy of the press release is attached as Exhibit 99.1 hereto and is incorporated by reference into this Item 2.02 in its entirety.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit 
+
+Number Description
+
+99.1 
+
+Press Release of Verint Systems Inc., dated March 26, 2025
+
+104 Cover Page Interactive Data File (embedded within XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VERINT SYSTEMS INC. 
+
+Date: March 26, 2025 
+
+By: /s/ Grant Highlander
+
+Name: Grant Highlander
+
+Title: Chief Financial Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>january312025earningsrelea.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Exhibit 99.1
+
+Press Release
+
+Investor Relations Contact
+
+Matthew Frankel, CFA
+
+Verint Systems Inc.
+
+(631) 962-9600
+
+matthew.frankel@verint.com
+
+Verint Announces Q4 FYE 2025 Results 
+
+Q4 ARR Ahead of Guidance; Raising ARR Guidance for FYE 2026
+
+AI Momentum Drives Record Bookings; SaaS ACV Bookings from New Deals; Increases 30% Y-o-Y 
+
+Cash Generation and Cash Contribution Also Ahead of Guidance
+
+Revenue and Non-GAAP Diluted EPS Impacted by Unbundled SaaS Revenue
+
+MELVILLE, N.Y., March 26, 2025 - Verint(Nasdaq: VRNT), The CX Automation Company, today announced results for the three months and year ended January 31, 2025 (FYE 2025).
+
+"We are pleased to finish the year with strong AI momentum, overachieving our Q4 FYE 2025 ARR guidance by $8 million, and are raising our Q4 FYE 2026 ARR guidance. We are also pleased with our record SaaS ACV bookings from new deals, representing 30% growth year-over-year, and better than expected Bundled SaaS Revenue, representing 23% growth year-over-year. Behind our momentum is the strong ROI we deliver to our customers with AI business outcomes that are faster and stronger than any other vendor in our market. During FYE 2025, some of the largest brands in the world began to deploy Verint's AI powered bots and we expect them to expand their usage over time. As of today, more than 90 of the Fortune 500 are using Verint's AI-powered bots to automate workflows and many are already reporting strong AI business outcomes and expanding with us, said Dan Bodner, CEO and Chairman.
+
+Grant Highlander, CFO added, At our recent investor day, we discussed our plan to begin reporting subscription ARR, cash generation and cash contribution to help investors understand Verints growth on a ratable basis. I am pleased to report that in addition to overachieving ARR, we also overachieved our cash generation guidance by $8 million and our cash contribution guidance by $16 million. We believe a ratable view is a better way to understand the underlying growth trends in our business.
+
+Fourth Quarter Highlights
+
+Key operating and financial highlights are set forth below. The definitions of our operating and non-GAAP financial measures, and a reconciliation of non-GAAP financial measures to comparable GAAP measures are included at the end of this press release.
+
+(in millions, except as noted) Q4 FYE 2025
+
+Subscription ARR $712
+
+Year-over-Year(2) 5.2%
+
+Bundled SaaS ARR $328
+
+Year-over-Year 16.5%
+
+SaaS ACV From New Deals $32
+
+Year-over-Year 30.3%
+
+Cash Generation $913
+
+Cash Contribution $228
+
+Revenue(1) $254
+
+Diluted EPS (GAAP / non-GAAP) (1) $0.45 / $0.99
+
+(1) Revenue and Diluted EPS are impacted by ASC 606. 
+
+(2) Adjusted for the divestiture, which closed January 31, 2024.
+
+Highlander continued, In Q4, bundled SaaS revenue came in ahead of our guidance while unbundled SaaS revenue came in below. Looking back at unbundled SaaS dynamics, renewals came in line with our expectations and a few new unbundled deals did not materialize in the quarter. These deals were with existing customers and we expect these customers to continue to expand over time. As a result, revenue and non-GAAP diluted EPS came in below expectations and at the same time, ARR which represents a ratable view of the business, was strong and came in above expectations.
+
+In FYE 2026, we will provide guidance two ways. First, guidance for a ratable view of the business, including subscription ARR, cash generation, and cash contribution. Our ratable guidance will be provided with a narrow range +/- 1%. Second, we will continue to provide guidance for revenue and non-GAAP diluted EPS as we always have, but revenue will be with a wider range of +/- 3%.
+
+We expect the ARR momentum we experienced throughout last year to continue in our first quarter. Our outlook for Q1 is for another quarter of acceleration, with approximately 6% ARR growth year-over-year, Highlander concluded.
+
+FYE 2026 Outlook 
+
+Below is our guidance for the year ending January 31, 2026.
+
+(in millions) FYE 2026 Outlook
+
+Subscription ARR (as of Q4 FYE 2026) Increasing outlook from $760 million to $768 million +/- 1%, 
+
+reflecting 8% growth year-over-year
+
+Cash Generation $960 million +/- 1%
+
+Cash Contribution $246 million at mid-point of Cash Generation
+
+Revenue $960 million +/- 3%, 
+
+wider range reflects impact of ASC 606
+
+Non-GAAP Diluted EPS $2.93 at midpoint of revenue guidance
+
+Our non-GAAP outlook for three months ending April 30, 2025 and year ending January 31, 2026 excludes the following GAAP measure which we are able to quantify with reasonable certainty:
+
+Amortization of intangible assets of approximately $6 million and $24 million, for the three months ending April 30, 2025 and year ending January 31, 2026, respectively.
+
+Our non-GAAP outlook for the three months ending April 30, 2025 and year ending January 31, 2026 excludes the following GAAP measures for which we are able to provide a range of probable significance:
+
+Stock-based compensation expenses are expected to be between approximately $14 million and $17 million, and $64 million and $69 million, for the three months ending April 30, 2025 and year ending January 31, 2026, respectively, assuming market prices for our common stock approximately consistent with current levels.
+
+Our non-GAAP outlook does not include the potential impact of any in-process business acquisitions that may close after the date hereof, and, unless otherwise specified, reflects foreign currency exchange rates approximately consistent with current rates.
+
+We are unable, without unreasonable efforts, to provide a reconciliation for other GAAP measures which are excluded from our non-GAAP outlook, including the impact of future business acquisitions or acquisition expenses, future restructuring expenses, and non-GAAP income tax adjustments due to the level of unpredictability and uncertainty associated with these items. For these same reasons, we are unable to assess the probable significance of these excluded items. While historical results may not be indicative of future results, actual amounts for the three months and year ended January 31, 2025 and 2024 for the GAAP measures excluded from our non-GAAP outlook appear in Tables 2, 3, 4 and 5 of this press release.
+
+Q4 Conference Call Information
+
+We will conduct a conference call today at 4:30 p.m. ET to discuss our results for the three months and year ended January 31, 2025 and outlook. An online, real-time webcast of the conference call and webcast slides will be available on our website at www.verint.com. Participants may register for the call here to receive the dial-in numbers and unique PIN to access the call. Please join the call 5-10 minutes prior to the scheduled start time.
+
+About Non-GAAP Financial Measures
+
+This press release and the accompanying tables include non-GAAP financial measures. For a description of these non-GAAP financial measures, including the reasons management uses each measure, and reconciliations of non-GAAP financial measures presented for completed periods to the most directly comparable financial measures prepared in accordance with GAAP, please see the tables below as well as "Supplemental Information About Non-GAAP Financial Measures and Operating Metrics" at the end of this press release.
+
+About Verint Systems Inc.
+
+Verint (Nasdaq: VRNT) is a leader in customer experience ("CX") automation. The worlds most iconic brands including more than 80 of the Fortune 100 companies use the Verint Open Platform and our team of AI-powered bots to deliver tangible AI business outcomes across the enterprise.
+
+Verint. The CX Automation Company, is proud to be Certified by Great Place To Work. Learn more at Verint.com.
+
+Cautions About Forward-Looking Statements
+
+This press release contains forward-looking statements, including statements regarding expectations, predictions, views, opportunities, plans, strategies, beliefs, and statements of similar effect relating to Verint Systems Inc. These forward-looking statements are not guarantees of future performance and they are based on management's expectations that involve a number of known and unknown risks, uncertainties, assumptions, and other important factors, any of which could cause our actual results or conditions to differ materially from those expressed in or implied by the forward-looking statements. Some of the factors that could cause our actual results or conditions to differ materially from current expectations include, among others: uncertainties regarding the impact of changes in macroeconomic and/or global conditions, including as a result of slowdowns, recessions, economic instability, elevated interest rates, tightening credit markets, inflation, instability in the banking sector, political unrest, actual or threatened tariffs or trade wars, armed conflicts, epidemics or pandemics, or natural disasters, as well as the resulting impact on spending by customers or partners, on our business; risks that our customers or partners delay, downsize, cancel, or refrain from placing orders or renewing subscriptions or contracts, or are unable to honor contractual commitments or payment obligations due to challenges or uncertainties in their budgets, headcount, liquidity, or businesses or operations; risks associated with our ability to keep pace with technological advances, such as the advancement and proliferation of artificial intelligence (AI) and evolving industry standards and challenges, including: achieving, demonstrating, and maintaining the competitive differentiation of our solution platform; adapting to changing market potential from area to area within our markets; and successfully developing, launching, executing and driving demand for new and enhanced, innovative, high-quality products and services, while simultaneously preserving our legacy businesses and migrating away from areas of commoditization; risks due to aggressive competition in all of our markets and our ability to keep pace with competitors, some of whom 
+
+may be able to innovate or grow faster than us or may have greater resources than us, including in areas such as sales and marketing, brand recognition, technological innovation and development, and recruiting and retention; risks associated with our ability to properly execute on our software as a service ("SaaS") strategy, the increased importance of new subscriptions and renewals and associated term lengths, and risk of increased variability in our period-to-period results based on the mix, terms, and timing of our transactions; risks relating to our ability to properly identify and execute on growth or strategic initiatives, manage investments in our business and operations, and enhance our existing operations and infrastructure, including the proper prioritization and allocation of limited financial and other resources; risks associated with our ability to or costs to retain, recruit, and train qualified personnel and management in regions in which we operate either physically or remotely, including in areas of emerging technology such as AI, due to competition for talent, increased labor costs, applicable regulatory requirements, or otherwise; challenges associated with selling sophisticated solutions and cloud-based solutions, which may incorporate newer technologies, such as AI, whose adoption, value, and use-cases are still emerging (and may present risks of their own), including with respect to longer sales cycles, more complex sales processes and customer evaluation and approval processes, more complex contractual and information security requirements, and assisting customers in understanding and realizing the benefits of our solutions and technologies (including versus those of our competitors), as well as with developing, offering, implementing, and maintaining an enterprise-class, broad solution portfolio; risks that we may be unable to maintain, expand, or enable our relationships with partners as part of our growth strategy, including partners with whom we may overlap or compete, while avoiding excessive concentration with one or more partners; risks associated with our reliance on third-party suppliers, partners, or original equipment manufacturers (OEMs) for certain services, products, or components, including companies that may compete with us or work with our competitors; risks associated with our significant international operations, including exposure to regions subject to political or economic instability or hostilities, fluctuations in foreign exchange rates, inflation, increased financial accounting and reporting burdens and complexities, and challenges associated with a significant portion of our cash being held overseas; risks associated with a significant part of our business coming directly or indirectly from government contracts and associated procurement processes and regulatory requirements; risks associated with our ability to identify suitable targets for acquisition or investment or successfully compete for, consummate, and implement mergers and acquisitions, including risks associated with valuations, legacy liabilities, reputational considerations, capital constraints, costs and expenses, maintaining profitability levels, expansion into new areas, management distraction, post-acquisition integration activities, and potential asset impairments; risks associated with complex and changing domestic and foreign regulatory environments, including, among others, with respect to data privacy, AI, cyber/information security, government contracts, anti-corruption, trade compliance, climate change or other environmental, social and governance matters, tax, and labor matters, relating to our own operations, the products and services we offer, and/or the use of our solutions by our customers; risks associated with the development and use of AI, including regulatory, social, or ethical issues, as well as our ability to capitalize on and benefit from the advancement and proliferation of AI; risks associated with the mishandling or perceived mishandling of sensitive or confidential information and data, including personally identifiable information or other information that may belong to our customers or other third parties, including in connection with our SaaS or other hosted or managed services offerings or when we are asked to perform service or support; risks that our solutions or services, or those of third-party suppliers, partners, or OEMs which we use in or with our offerings or otherwise rely on, including third-party hosting platforms, may contain defects, develop operational problems, or be subject to security vulnerabilities or lapses, including cyber-attacks, information technology system breaches, failures, or disruptions; risks associated with our reliance on third parties to provide cloud hosting or certain other cloud-based services to us or our customers, including the risk of service disruptions, data breaches, or data loss or corruption; risks that our intellectual property ("IP") rights may not be adequate to protect our business or assets or that others may make claims on our IP, claim infringement on their IP rights, or claim a violation of their license rights, including relative to free or open source components we may use; risks associated with leverage resulting from our current debt position or our ability to incur additional debt, including with respect to liquidity considerations, covenant limitations and compliance, fluctuations in interest rates, dilution considerations (with respect to our convertible notes), and our ability to maintain our credit ratings; risks that we may experience liquidity or working capital issues and risks that financing or refinancing sources may be unavailable to us on reasonable terms or at all; risks associated with changing accounting principles or standards, tax laws and regulations, tax rates, and the continuing availability of expected tax benefits; risks relating to the adequacy of our existing infrastructure, systems, processes, policies, procedures, internal controls, and personnel, and our ability to successfully implement and maintain enhancements to the foregoing, for our current and future operations and reporting needs, including related risks of financial statement omissions, misstatements, restatements, or filing delays; risks associated with market volatility in the prices of our common stock and convertible notes based on our performance, third-party or market speculation or publications, or other factors, and risks associated with actions of activist stockholders; and risks associated with Apax Partners' significant ownership position and potential that its interests will not be aligned with those of our common stockholders. We assume no obligation to revise or update any forward-looking statement, except as otherwise required by law. For a detailed discussion of these risk factors, see our Annual Report on Form 10-K for the fiscal year ended January 31, 2025, when filed, and other filings we make with the SEC.
+
+VERINT, VERINT DA VINCI, VERINT OPEN CCAAS, THE CX AUTOMATION COMPANY, THE CUSTOMER ENGAGEMENT COMPANY, and THE ENGAGEMENT CAPACITY GAP are trademarks of Verint Systems Inc. or its subsidiaries. Verint and other parties may also have trademark rights in other terms used herein.
+
+Table 1
+
+VERINT SYSTEMS INC. AND SUBSIDIARIES
+
+Condensed Consolidated Statements of Operations
+
+(Unaudited)
+
+Three Months Ended 
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands, except per share data) 2025 2024 2025 2024
+
+Revenue: 
+
+Recurring $ 191,502 $ 210,693 $ 708,117 $ 699,248 
+
+Nonrecurring perpetual 36,316 25,750 108,521 99,853 
+
+Nonrecurring professional services and other 25,728 28,666 92,548 111,286 
+
+Total revenue 253,546 265,109 909,186 910,387 
+
+Cost of revenue: 
+
+Recurring 39,124 44,775 150,092 162,868 
+
+Nonrecurring perpetual 9,886 8,566 35,976 32,142 
+
+Nonrecurring professional services and other 15,790 19,331 68,304 74,968 
+
+Amortization of acquired technology 2,265 1,623 6,764 7,134 
+
+Total cost of revenue 67,065 74,295 261,136 277,112 
+
+Gross profit 186,481 190,814 648,050 633,275 
+
+Operating expenses: 
+
+Research and development, net 39,481 35,881 149,305 133,804 
+
+Selling, general and administrative 97,143 108,383 379,584 405,915 
+
+Amortization of other acquired intangible assets 3,533 6,343 12,774 25,371 
+
+Total operating expenses 140,157 150,607 541,663 565,090 
+
+Operating income 46,324 40,207 106,387 68,185 
+
+Other income (expense), net: 
+
+Interest income 1,353 1,504 6,601 6,944 
+
+Interest expense (2,410) (2,340) (10,133) (10,334) 
+
+Other income (expense), net 1,429 (3,582) (4,507) (3,523) 
+
+Total other income (expense), net 372 (4,418) (8,039) (6,913) 
+
+Income before provision for income taxes 46,696 35,789 98,348 61,272 
+
+Provision for income taxes 13,716 6,866 15,249 21,638 
+
+Net income 32,980 28,923 83,099 39,634 
+
+Net income attributable to noncontrolling interests 201 220 832 1,024 
+
+Net income attributable to Verint Systems Inc. 32,779 28,703 82,267 38,610 
+
+Dividends on preferred stock (4,000) (5,200) (17,280) (20,800) 
+
+Net income attributable to Verint Systems Inc. common shares $ 28,779 $ 23,503 $ 64,987 $ 17,810 
+
+Net income per common share attributable to Verint Systems Inc.: 
+
+Basic $ 0.46 $ 0.37 $ 1.05 $ 0.28 
+
+Diluted (1) $ 0.45 $ 0.37 $ 1.04 $ 0.28 
+
+Weighted-average common shares outstanding: 
+
+Basic 62,267 62,739 62,148 63,990 
+
+Diluted (1) 72,239 63,080 62,756 64,318 
+
+(1) EPS calculation includes the more dilutive of either preferred stock dividends or conversion of preferred stock shares. Conversion of the outstanding preferred shares was more dilutive in the three months ended January 31, 2025.
+
+Table 2
+
+VERINT SYSTEMS INC. AND SUBSIDIARIES
+
+Operating Metrics
+
+(Unaudited)
+
+Subscription ARR
+
+Year Ended
+
+January 31,
+
+(in thousands) 2025 2024
+
+Subscription ARR(1) $ 711,753 $ 676,631 
+
+Subscription ARR YoY(1) 5.2 % %
+
+Bundled SaaS ARR
+
+Year Ended
+
+January 31,
+
+(in thousands) 2025 2024
+
+Bundled SaaS ARR $ 327,961 $ 281,498 
+
+Bundled SaaS ARR YoY 16.5 % 6.7 %
+
+SaaS ACV From New Deals
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands) 2025 2024 2025 2024
+
+SaaS ACV From New Deals $ 32,482 $ 24,920 $ 98,354 $ 74,189 
+
+SaaS ACV From New Deals YoY 30.3 % 22.2 % 32.6 % (4.7) %
+
+Cash Generation and Cash Contribution
+
+Year Ended
+
+January 31,
+
+(in thousands) 2025 2024
+
+Subscription ARR(1) $ 711,753 $ 676,631
+
+Nonrecurring perpetual and nonrecurring professional services and other revenue 201,069 211,139
+
+Cash generation 912,822 887,770
+
+Non-GAAP cost of revenue and operating expenses(1)(2) 684,749 664,066
+
+Cash contribution $ 228,073 $ 223,704
+
+(1) Adjusted for the quality managed services divestiture, which closed January 31, 2024.
+
+(2) For a reconciliation of non-GAAP cost of revenue and operating expenses to the corresponding GAAP cost of revenue and operating expenses, refer to Tables 3 and 4.
+
+Table 3
+
+VERINT SYSTEMS INC. AND SUBSIDIARIES
+
+Reconciliation of GAAP to Non-GAAP Measures
+
+(Unaudited)
+
+Revenue
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands) 2025 2024 2025 2024
+
+Recurring revenue - GAAP $ 191,502 $ 210,693 $ 708,117 $ 699,248 
+
+Nonrecurring perpetual revenue - GAAP 36,316 25,750 108,521 99,853 
+
+Nonrecurring professional and other revenue - GAAP 25,728 28,666 92,548 111,286 
+
+Total GAAP revenue 253,546 265,109 909,186 910,387 
+
+Recurring revenue adjustments 111 1,100 
+
+Nonrecurring perpetual revenue adjustments 
+
+Nonrecurring professional and other revenue adjustments 
+
+Total revenue adjustments 111 1,100 
+
+Recurring revenue - non-GAAP 191,502 210,804 708,117 700,348 
+
+Nonrecurring perpetual revenue - non-GAAP 36,316 25,750 108,521 99,853 
+
+Nonrecurring professional and other revenue - non-GAAP 25,728 28,666 92,548 111,286 
+
+Total non-GAAP revenue $ 253,546 $ 265,220 $ 909,186 $ 911,487 
+
+SaaS Revenue
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands) 2025 2024 2025 2024
+
+Bundled SaaS revenue - GAAP $ 80,737 $ 65,756 $ 293,245 $ 250,526 
+
+Unbundled SaaS revenue - GAAP 81,122 102,832 289,363 264,302 
+
+SaaS revenue - GAAP 161,859 168,588 582,608 514,828
+
+SaaS revenue - GAAP YoY (4.0) % 28.6 % 13.2 % 15.9 %
+
+Estimated bundled SaaS revenue adjustments 109 1,069
+
+Estimated unbundled SaaS revenue adjustments 
+
+Estimated SaaS revenue adjustments 109 1,069
+
+Bundled SaaS revenue - non-GAAP 80,737 65,865 293,245 251,595
+
+Unbundled SaaS revenue - non-GAAP 81,122 102,832 289,363 264,302
+
+SaaS revenue - non-GAAP $ 161,859 $ 168,697 $ 582,608 $ 515,897
+
+SaaS revenue - non-GAAP YoY (4.1) % 28.2 % 12.9 % 15.4 %
+
+Gross Profit and Gross Margin
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands) 2025 2024 2025 2024
+
+Recurring cost of revenues $ 39,124 $ 44,775 $ 150,092 $ 162,868 
+
+Nonrecurring perpetual cost of revenues 9,886 8,566 35,976 32,142 
+
+Nonrecurring professional and other cost of revenues 15,790 19,331 68,304 74,968 
+
+Amortization of acquired technology 2,265 1,623 6,764 7,134 
+
+Total GAAP cost of revenue 67,065 74,295 261,136 277,112 
+
+GAAP gross profit 186,481 190,814 648,050 633,275 
+
+GAAP gross margin 73.5 % 72.0 % 71.3 % 69.6 %
+
+Revenue adjustments 111 1,100 
+
+Amortization of acquired technology 2,265 1,623 6,764 7,134 
+
+Stock-based compensation expenses 2,521 1,226 6,676 4,131 
+
+Acquisition and divestitures expenses (benefit), net 276 (236) 314 117 
+
+Restructuring expenses 1,299 4,665 2,145 6,112 
+
+Non-GAAP gross profit $ 192,842 $ 198,203 $ 663,949 $ 651,869 
+
+Non-GAAP gross margin 76.1 % 74.7 % 73.0 % 71.5 %
+
+Research and Development, net
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands) 2025 2024 2025 2024
+
+GAAP research and development, net $ 39,481 $ 35,881 $ 149,305 $ 133,804 
+
+As a percentage of GAAP revenue 15.6 % 13.5 % 16.4 % 14.7 %
+
+Stock-based compensation expenses (3,720) (3,100) (14,824) (11,918) 
+
+Acquisition and divestitures expenses, net (2,552) (20) (2,753) (116) 
+
+Restructuring expenses (1,072) (2) (3,065) (318) 
+
+IT facilities and infrastructure realignment (28) (1,676) 
+
+Non-GAAP research and development, net $ 32,137 $ 32,731 $ 128,663 $ 119,776 
+
+As a percentage of non-GAAP revenue 12.7 % 12.3 % 14.2 % 13.1 %
+
+Selling, General and Administrative Expenses
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands) 2025 2024 2025 2024
+
+GAAP selling, general and administrative expenses $ 97,143 $ 108,383 $ 379,584 $ 405,915 
+
+As a percentage of GAAP revenue 38.3 % 40.9 % 41.7 % 44.6 %
+
+Stock-based compensation expenses (12,541) (12,987) (57,129) (51,550) 
+
+Acquisition and divestitures expenses, net (5,798) (10,072) (7,895) (15,743) 
+
+Restructuring expenses (1,278) (1,243) (3,288) (4,580) 
+
+Accelerated lease costs (145) (5,407) 
+
+IT facilities and infrastructure realignment (1,377) (18,193) 
+
+Other adjustments (106) (178) (422) (995) 
+
+Non-GAAP selling, general and administrative expenses $ 77,420 $ 82,381 $ 310,850 $ 309,447 
+
+As a percentage of non-GAAP revenue 30.5 % 31.1 % 34.2 % 33.9 %
+
+Operating Income and Operating Margin
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands) 2025 2024 2025 2024
+
+GAAP operating income $ 46,324 $ 40,207 $ 106,387 $ 68,185 
+
+GAAP operating margin 18.3 % 15.2 % 11.7 % 7.5 %
+
+Revenue adjustments 111 1,100 
+
+Amortization of acquired technology 2,265 1,623 6,764 7,134 
+
+Amortization of other acquired intangible assets 3,533 6,343 12,774 25,371 
+
+Stock-based compensation expenses 18,782 17,313 78,629 67,599 
+
+Acquisition and divestitures expenses, net 8,626 9,856 10,962 15,976 
+
+Restructuring expenses 3,649 5,910 8,498 11,010 
+
+Accelerated lease costs 145 5,407 
+
+IT facilities and infrastructure realignment 1,405 19,869 
+
+Other adjustments 106 178 422 995 
+
+Non-GAAP operating income $ 83,285 $ 83,091 $ 224,436 $ 222,646 
+
+Non-GAAP operating margin 32.8 % 31.3 % 24.7 % 24.4 %
+
+Other Income (Expense), Net
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands) 2025 2024 2025 2024
+
+GAAP other income (expense), net $ 372 $ (4,418) $ (8,039) $ (6,913) 
+
+Losses on early retirements of debt 237 
+
+Acquisition and divestitures expenses, net (156) 
+
+Other adjustments 3 5,072 456 4,840 
+
+Non-GAAP other income (expense), net(1) $ 375 $ 654 $ (7,583) $ (1,992) 
+
+Provision for Income Taxes
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands) 2025 2024 2025 2024
+
+GAAP provision for income taxes $ 13,716 $ 6,866 $ 15,249 $ 21,638 
+
+GAAP effective income tax rate 29.4 % 19.2 % 15.5 % 35.3 %
+
+Non-GAAP income tax adjustments (1,876) (800) 11,848 (3,586) 
+
+Non-GAAP provision for income taxes $ 11,840 $ 6,066 $ 27,097 $ 18,052 
+
+Non-GAAP effective income tax rate 14.2 % 7.2 % 12.5 % 8.2 %
+
+Net Income Attributable to Verint Systems Inc. Common Shares
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands) 2025 2024 2025 2024
+
+GAAP net income attributable to Verint Systems Inc. common shares $ 28,779 $ 23,503 $ 64,987 $ 17,810 
+
+Revenue adjustments 111 1,100 
+
+Amortization of acquired technology 2,265 1,623 6,764 7,134 
+
+Amortization of other acquired intangible assets 3,533 6,343 12,774 25,371 
+
+Stock-based compensation expenses 18,782 17,313 78,629 67,599 
+
+Losses on early retirements of debt 237 
+
+Acquisition and divestitures expenses, net 8,626 9,856 10,962 15,820 
+
+Restructuring expenses 3,649 5,911 8,498 11,011 
+
+Accelerated lease costs 145 5,407 
+
+IT facilities and infrastructure realignment 1,405 19,869 
+
+Other adjustments 109 5,250 878 5,835 
+
+Non-GAAP tax adjustments 1,876 800 (11,848) 3,586 
+
+Dividends, reversed due to assumed conversion of preferred stock(3) 4,000 5,200 17,280 20,800 
+
+Total adjustments 42,840 53,957 123,937 183,769 
+
+Non-GAAP net income attributable to Verint Systems Inc. common shares $ 71,619 $ 77,460 $ 188,924 $ 201,579 
+
+Diluted Net Income Per Common Share Attributable to Verint Systems Inc.
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands, except per share data) 2025 2024 2025 2024
+
+GAAP diluted net income per common share attributable to Verint Systems Inc. $ 0.45 $ 0.37 $ 1.04 $ 0.28 
+
+Non-GAAP diluted net income per common share attributable to Verint Systems Inc.(3) $ 0.99 $ 1.07 $ 2.62 $ 2.73 
+
+GAAP weighted-average shares used in computing diluted net income per common share attributable to Verint Systems Inc. 72,239 63,080 62,756 64,318 
+
+Additional weighted-average shares applicable to non-GAAP diluted net income per common share attributable to Verint Systems Inc. 9,478 9,478 9,478 
+
+Non-GAAP diluted weighted-average shares used in computing net income per common share attributable to Verint Systems Inc.(3) 72,239 72,558 72,234 73,796 
+
+GAAP Net Income to Adjusted EBITDA
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands) 2025 2024 2025 2024
+
+GAAP net income $ 32,980 $ 28,923 $ 83,099 $ 39,634 
+
+As a percentage of GAAP revenue 13.0 % 10.9 % 9.1 % 4.4 %
+
+Provision for income taxes 13,716 6,866 15,249 21,638 
+
+Other (income) expense, net (372) 4,418 8,039 6,913 
+
+Depreciation and amortization(2) 11,721 13,576 44,628 68,970 
+
+Revenue adjustments 111 1,100 
+
+Stock-based compensation expenses 18,782 17,313 78,629 67,599 
+
+Acquisition and divestitures expenses, net 8,626 9,851 10,962 15,971 
+
+Restructuring expenses 3,639 5,914 8,467 10,921 
+
+Accelerated lease costs 145 5,407 
+
+IT facilities and infrastructure realignment 1,405 8,062 
+
+Other adjustments 106 178 422 995 
+
+Adjusted EBITDA $ 89,198 $ 88,700 $ 249,495 $ 247,210 
+
+As a percentage of non-GAAP revenue 35.2 % 33.4 % 27.4 % 27.1 %
+
+Gross Debt to Net Debt
+
+(in thousands) January 31,
+
+2025 January 31,
+
+2024
+
+Current maturities of long-term debt $ 100,000 $ 
+
+Long-term debt 312,753 410,965 
+
+Unamortized debt discounts and issuance costs 2,247 4,035 
+
+Gross debt 415,000 415,000 
+
+Less: 
+
+Cash and cash equivalents 215,707 241,400 
+
+Restricted cash and cash equivalents, and restricted bank time deposits 1,269 
+
+Short-term investments 1,344 686 
+
+Net debt, excluding long-term restricted cash, cash equivalents, time deposits, and investments 197,949 171,645 
+
+Long-term restricted cash, cash equivalents, time deposits, and investments 172 181 
+
+Net debt, including long-term restricted cash, cash equivalents, time deposits, and investments $ 197,777 171,464 
+
+Free Cash Flow
+
+Year Ended
+
+January 31,
+
+(in thousands) 2025 2024
+
+Net cash provided by operating activities $ 157,447 $ 150,642 
+
+Less: purchases of property and equipment 15,338 16,114 
+
+Less: cash paid for capitalized software development costs 12,228 9,623 
+
+Free Cash Flow $ 129,881 $ 124,905 
+
+(1) For the three months ended January 31, 2025, other income, net of $0.4 million was comprised of $1.4 million of interest and other income, net and $1.0 million of foreign exchange charges primarily related to balance sheet revaluations.
+
+(2) Adjusted for financing fee amortization.
+
+(3) EPS calculation includes the more dilutive of either preferred stock dividends or conversion of preferred stock shares. Conversion of the outstanding preferred shares was more dilutive in the three months and years ended January 31, 2025 and 2024. 
+
+Table 4
+
+VERINT SYSTEMS INC. AND SUBSIDIARIES
+
+Divested Quality Managed Service Offering ("Divested Offering")
+
+Reconciliation of Non-GAAP Divestiture Revenue, Cost of Revenue and Operating Expenses
+
+(Unaudited)
+
+Revenue
+
+Three Months Ended Year Ended
+
+(in thousands) April 30, 
+
+2023 July 31, 
+
+2023 October 31, 
+
+2023 January 31,
+
+2024 January 31,
+
+2024
+
+Total GAAP revenue $ 216,566 $ 210,165 $ 218,547 $ 265,109 $ 910,387 
+
+Revenue from divested offering 6,759 6,429 6,114 $ 5,946 25,248 
+
+Total GAAP revenue without divested offering $ 209,807 $ 203,736 $ 212,433 $ 259,163 $ 885,139 
+
+Total non-GAAP revenue $ 217,193 $ 210,407 $ 218,667 $ 265,220 $ 911,487 
+
+Revenue from divested offering 6,759 6,429 6,114 5,946 25,248 
+
+Total non-GAAP revenue without divested offering $ 210,434 $ 203,978 $ 212,553 $ 259,274 $ 886,239 
+
+Cost of Revenue
+
+Three Months Ended Year Ended
+
+(in thousands) April 30, 
+
+2023 July 31, 
+
+2023 October 31, 
+
+2023 January 31,
+
+2024 January 31,
+
+2024
+
+Total GAAP cost of revenue $ 68,403 $ 68,876 $ 65,538 $ 74,295 $ 277,112 
+
+Cost of revenue from divested offering 5,654 5,657 4,760 $ 8,469 24,540 
+
+Total GAAP cost of revenue without divested offering 62,749 63,219 60,778 65,826 252,572 
+
+Amortization of acquired technology 1,965 1,937 1,609 1,623 7,134 
+
+Stock-based compensation expenses 425 1,355 1,068 1,232 4,080 
+
+Acquisition and divestitures expenses, net 56 20 21 19 116 
+
+Restructuring expenses 256 1,001 27 697 1,981 
+
+Total non-GAAP cost of revenue without divested offering $ 60,047 $ 58,906 $ 58,053 $ 62,255 $ 239,261 
+
+Operating Expenses
+
+Three Months Ended Year Ended
+
+(in thousands) April 30, 
+
+2023 July 31, 
+
+2023 October 31, 
+
+2023 January 31,
+
+2024 January 31,
+
+2024
+
+Total GAAP operating expenses $ 139,391 $ 148,801 $ 126,291 $ 150,607 $ 565,090 
+
+Operating expenses from divested offering 1,450 1,703 1,189 $ 7,918 12,260 
+
+Total GAAP operating expenses without divested offering 137,941 147,098 125,102 142,689 552,830 
+
+Amortization of other acquired intangible assets 6,208 6,247 6,206 6,220 24,881 
+
+Stock-based compensation expenses 14,450 17,690 15,009 16,169 63,318 
+
+Acquisition and divestitures expenses (benefit), net 7,759 (1,805) (187) 3,854 9,621 
+
+Restructuring expenses 1,142 2,030 481 740 4,393 
+
+Accelerated lease costs 288 4,684 80 122 5,174 
+
+IT facilities and infrastructure realignment 2,779 13,541 1,934 1,389 19,643 
+
+Other adjustments 175 401 241 178 995 
+
+Total non-GAAP operating expenses without divested offering $ 105,140 $ 104,310 $ 101,338 $ 114,017 $ 424,805 
+
+Table 5
+
+VERINT SYSTEMS INC. AND SUBSIDIARIES
+
+GAAP to Non-GAAP Recurring, Nonrecurring Perpetual and Nonrecurring Professional Services and Other Gross Profit
+
+(Unaudited)
+
+Revenue
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands) 2025 2024 2025 2024
+
+Recurring revenue: 
+
+Bundled SaaS revenue $ 80,737 $ 65,756 $ 293,245 $ 250,526 
+
+Unbundled SaaS revenue 81,122 102,832 289,363 264,302 
+
+Total SaaS revenue 161,859 168,588 582,608 514,828 
+
+Optional managed services revenue 5,489 10,846 21,965 47,718 
+
+Support revenue 24,154 31,259 103,544 136,702 
+
+Total recurring revenue 191,502 210,693 708,117 699,248 
+
+Nonrecurring perpetual revenue 36,316 25,750 108,521 99,853 
+
+Nonrecurring professional services and other revenue 25,728 28,666 92,548 111,286 
+
+Total revenue $ 253,546 $ 265,109 $ 909,186 $ 910,387 
+
+Recurring Gross Profit 
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands) 2025 2024 2025 2024
+
+GAAP recurring revenue $ 191,502 $ 210,693 $ 708,117 $ 699,248 
+
+GAAP recurring cost of revenues 39,124 44,775 150,092 162,868 
+
+GAAP recurring gross profit 152,378 165,918 558,025 536,380 
+
+GAAP recurring gross margin 79.6 % 78.7 % 78.8 % 76.7 %
+
+Recurring revenue adjustments 111 1,100 
+
+Recurring stock-based compensation expenses 1,355 609 3,589 2,114 
+
+Recurring acquisition and divestitures expenses (benefit), net 206 (236) 244 117 
+
+Recurring restructuring expenses 651 4,076 677 5,009 
+
+Non-GAAP recurring gross profit $ 154,590 $ 170,478 $ 562,535 $ 544,720 
+
+Non-GAAP recurring gross margin 80.7 % 80.9 % 79.4 % 77.8 %
+
+Nonrecurring Perpetual Gross Profit
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands) 2025 2024 2025 2024
+
+GAAP nonrecurring perpetual revenue $ 36,316 $ 25,750 $ 108,521 $ 99,853 
+
+GAAP nonrecurring perpetual cost of revenues 9,886 8,566 35,976 32,142 
+
+GAAP nonrecurring perpetual gross profit 26,430 17,184 72,545 67,711 
+
+GAAP nonrecurring perpetual gross margin 72.8 % 66.7 % 66.8 % 67.8 %
+
+Nonrecurring perpetual stock-based compensation expenses 17 13 59 71 
+
+Nonrecurring perpetual restructuring expenses 1 14 
+
+Non-GAAP nonrecurring perpetual gross profit $ 26,448 $ 17,197 $ 72,618 $ 67,782 
+
+Non-GAAP nonrecurring perpetual gross margin 72.8 % 66.8 % 66.9 % 67.9 %
+
+Nonrecurring Professional Services and Other Gross Profit
+
+Three Months Ended
+
+January 31, Year Ended
+
+January 31,
+
+(in thousands) 2025 2024 2025 2024
+
+GAAP nonrecurring professional services and other revenue $ 25,728 $ 28,666 $ 92,548 $ 111,286 
+
+GAAP nonrecurring professional services and other cost of revenues 15,790 19,331 68,304 74,968 
+
+GAAP nonrecurring professional services and other gross profit 9,938 9,335 24,244 36,318 
+
+GAAP nonrecurring professional services and other gross margin 38.6 % 32.6 % 26.2 % 32.6 %
+
+Nonrecurring professional services and other stock-based compensation expenses 1,149 604 3,028 1,946 
+
+Nonrecurring professional and other acquisition expenses 70 70 
+
+Nonrecurring professional services and other restructuring expenses 647 589 1,454 1,103 
+
+Non-GAAP nonrecurring professional services and other gross profit $ 11,804 $ 10,528 $ 28,796 $ 39,367 
+
+Non-GAAP nonrecurring professional services and other gross margin 45.9 % 36.7 % 31.1 % 35.4 %
+
+Table 6
+
+VERINT SYSTEMS INC. AND SUBSIDIARIES
+
+Calculation of Change in Revenue on a Constant Currency Basis
+
+(Unaudited)
+
+GAAP Revenue(2) 
+
+Non-GAAP Revenue(3)
+
+(in thousands, except percentages) Three Months
+
+Ended Year
+
+Ended Three Months
+
+Ended Year
+
+Ended
+
+Revenue for the three months and year ended January 31, 2024 $ 265,109 $ 910,387 $ 265,220 $ 911,487 
+
+Revenue for the three months and year ended January 31, 2025 $ 253,546 $ 909,186 $ 253,546 $ 909,186 
+
+Revenue for the three months and year ended January 31, 2025 at constant currency(1) $ 255,000 $ 909,000 $ 255,000 $ 909,000 
+
+Reported period-over-period revenue growth (4.4) % (0.1) % (4.4) % (0.3) %
+
+% impact from change in foreign currency exchange rates 0.6 % (0.1) % 0.5 % %
+
+Constant currency period-over-period revenue growth (3.8) % (0.2) % (3.9) % (0.3) %
+
+(1) Revenue for the three months and year ended January 31, 2025 at constant currency is calculated by translating current-period GAAP or non-GAAP foreign currency revenue (as applicable) into U.S. dollars using average foreign currency exchange rates for the three months and year ended January 31, 2024 rather than actual current-period foreign currency exchange rates.
+
+(2) GAAP revenue denominated in non-U.S. dollars was 18% and 17% of our total GAAP revenue for the three months ended January 31, 2025 and 2024, respectively. Our combined GAAP cost of revenue and operating expenses denominated in non-U.S. dollars was 30% and 35% of our total combined GAAP cost of revenue and operating expenses for the three months ended January 31, 2025 and 2024, respectively. GAAP revenue denominated in non-U.S. dollars was 19% and 20% of our total GAAP revenue for the years ended January 31, 2025 and 2024, respectively. Our combined GAAP cost of revenue and operating expenses denominated in non-U.S. dollars was 31% and 32% of our total combined GAAP cost of revenue and operating expenses for the years ended January 31, 2025 and 2024, respectively
+
+(3) Non-GAAP revenue denominated in non-U.S. dollars was 18% of our total non-GAAP revenue for each of the three months ended January 31, 2025 and 2024. Our combined non-GAAP cost of revenue and operating expenses denominated in non-U.S. dollars was 33% and 36% of our total combined non-GAAP cost of revenue and operating expenses for the three months ended January 31, 2025 and 2024, respectively. Non-GAAP revenue denominated in non-U.S. dollars was 19% and 20% of our total non-GAAP revenue for the years ended January 31, 2025 and 2024, respectively. Our combined non-GAAP cost of revenue and operating expenses denominated in non-U.S. dollars was 34% and 35% of our total combined non-GAAP cost of revenue and operating expenses for the years ended January 31, 2025 and 2024, respectively.
+
+For further information see "Supplemental Information About Constant Currency" at the end of this press release.
+
+Table 7
+
+VERINT SYSTEMS INC. AND SUBSIDIARIES
+
+Condensed Consolidated Balance Sheets
+
+(Unaudited)
+
+January 31,
+
+(in thousands, except share and per share data) 2025 2024
+
+Assets 
+
+Current Assets: 
+
+Cash and cash equivalents $ 215,707 $ 241,400 
+
+Short-term investments 1,344 686 
+
+Accounts receivable, net of allowance for credit losses of $1.8 million and $1.2 million, respectively 203,113 190,461 
+
+Contract assets, net 91,605 66,913 
+
+Inventories 14,311 14,209 
+
+Prepaid expenses and other current assets 52,692 59,505 
+
+Total current assets 578,772 573,174 
+
+Property and equipment, net 48,708 47,704 
+
+Operating lease right-of-use assets, net 27,337 30,118 
+
+Goodwill 1,386,734 1,352,715 
+
+Intangible assets, net 80,538 57,466 
+
+Long-term deferred income taxes 27,819 25,697 
+
+Other assets 140,141 139,550 
+
+Total assets $ 2,290,049 $ 2,226,424 
+
+Liabilities, Temporary Equity, and Stockholders' Equity 
+
+Current Liabilities: 
+
+Accounts payable $ 25,457 $ 26,301 
+
+Accrued expenses and other current liabilities 138,187 137,433 
+
+Current maturities of long-term debt 100,000 
+
+Contract liabilities 255,039 254,437 
+
+Total current liabilities 518,683 418,171 
+
+Long-term debt 312,753 410,965 
+
+Long-term contract liabilities 13,018 10,581 
+
+Operating lease liabilities 29,094 32,100 
+
+Long-term deferred income taxes 9,306 9,555 
+
+Other liabilities 81,600 76,065 
+
+Total liabilities 964,454 957,437 
+
+Commitments and Contingencies 
+
+Temporary Equity: 
+
+Preferred Stock $0.001 par value; authorized 2,207,000 shares 
+
+Series A Preferred Stock; 200,000 shares issued and outstanding at January 31, 2025 and 2024, respectively; aggregate liquidation preference and current redemption value of $204,667 and $206,067 at January 31, 2025 and 2024, respectively. 200,628 200,628 
+
+Series B Preferred Stock; 200,000 shares issued and outstanding at January 31, 2025 and 2024, respectively; aggregate liquidation preference and current redemption value of $204,667 and $206,067 at January 31, 2025 and 2024, respectively. 235,693 235,693 
+
+Total temporary equity 436,321 436,321 
+
+Stockholders' Equity: 
+
+Common stock $0.001 par value; authorized 240,000,000 shares; issued 62,135,000 and 62,738,000; outstanding 62,135,000 and 62,738,000 shares at January 31, 2025 and 2024, respectively. 62 63 
+
+Additional paid-in capital 981,862 979,671 
+
+Retained earnings (accumulated deficit) 57,864 (6,723) 
+
+Accumulated other comprehensive loss (152,939) (142,962) 
+
+Total Verint Systems Inc. stockholders' equity 886,849 830,049 
+
+January 31,
+
+(in thousands, except share and per share data) 2025 2024
+
+Noncontrolling interests 2,425 2,617 
+
+Total stockholders' equity 889,274 832,666 
+
+Total liabilities, temporary equity, and stockholders' equity $ 2,290,049 $ 2,226,424 
+
+Table 8
+
+VERINT SYSTEMS INC. AND SUBSIDIARIES
+
+Condensed Consolidated Statements of Cash Flows
+
+(Unaudited)
+
+Year Ended January 31,
+
+(in thousands) 2025 2024
+
+Cash flows from operating activities: 
+
+Net income $ 83,099 $ 39,634 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation and amortization 47,128 71,485 
+
+Provision for credit losses 1,392 2,162 
+
+Stock-based compensation, excluding cash-settled awards 78,640 67,622 
+
+Benefit from deferred income taxes (3,938) (17,639) 
+
+Losses on early retirements of debt 237 
+
+Net (gains) losses on divested businesses (615) 9,541 
+
+Other non-cash items, net 2,830 5,347 
+
+Changes in operating assets and liabilities, net of effects of business combinations and divestitures: 
+
+Accounts receivable (7,722) (9,409) 
+
+Contract assets (24,988) (6,351) 
+
+Inventories (1) (1,812) 
+
+Prepaid expenses and other assets 4,016 35,027 
+
+Accounts payable and accrued expenses (17,964) (25,343) 
+
+Contract liabilities (5,517) (26,068) 
+
+Other liabilities 19 13,762 
+
+Other, net 1,068 (7,553) 
+
+Net cash provided by operating activities 157,447 150,642 
+
+Cash flows from investing activities: 
+
+Cash paid for asset acquisitions and business combinations, including adjustments, net of cash acquired (58,984) (3,997) 
+
+Divestitures, net of cash divested 3,189 (6,278) 
+
+Purchases of property and equipment (15,338) (16,114) 
+
+Purchases of investments (1,357) (4,094) 
+
+Maturities and sales of investments 668 4,083 
+
+Cash paid for capitalized software development costs (12,228) (9,623) 
+
+Other investing activities 9 (1,356) 
+
+Net cash used in investing activities (84,041) (37,379) 
+
+Cash flows from financing activities: 
+
+Proceeds from borrowings 100,000 
+
+Repayments of borrowings and other financing obligations (2,060) (103,084) 
+
+Distributions paid to noncontrolling interest (1,024) (766) 
+
+Purchases of treasury stock and common stock for retirement (72,324) (124,290) 
+
+Preferred stock dividend payments (20,080) (20,800) 
+
+Payments of contingent consideration for business combinations (financing portion) (4,176) (4,192) 
+
+Cash received for contingent consideration for business divestitures (financing portion) and other financing activities (20) (222) 
+
+Net cash used in financing activities (99,684) (153,354) 
+
+Foreign currency effects on cash, cash equivalents, restricted cash, and restricted cash equivalents (684) 599 
+
+Net decrease in cash, cash equivalents, restricted cash, and restricted cash equivalents (26,962) (39,492) 
+
+Cash, cash equivalents, restricted cash, and restricted cash equivalents, beginning of year 242,669 282,161 
+
+Cash, cash equivalents, restricted cash, and restricted cash equivalents, end of year $ 215,707 $ 242,669 
+
+Year Ended January 31,
+
+(in thousands) 2025 2024
+
+Reconciliation of cash, cash equivalents, restricted cash, and restricted cash equivalents at end of year to the consolidated balance sheets: 
+
+Cash and cash equivalents $ 215,707 $ 241,400 
+
+Restricted cash and cash equivalents included in prepaid expenses and other current assets 1,269 
+
+Restricted cash and cash equivalents included in other assets 
+
+Total cash, cash equivalents, restricted cash, and restricted cash equivalents $ 215,707 $ 242,669 
+
+Verint Systems Inc. and Subsidiaries
+
+Supplemental Information About Non-GAAP Financial Measures and Operating Metrics
+
+Non-GAAP Financial Measures
+
+This press release contains non-GAAP financial measures, consisting of non-GAAP revenue, non-GAAP recurring revenue, non-GAAP nonrecurring perpetual revenue, non-GAAP nonrecurring professional services and other revenue, non-GAAP SaaS revenue, non-GAAP bundled SaaS revenue, non-GAAP unbundled SaaS revenue, non-GAAP revenue from divested manual quality managed services, non-GAAP cost of revenue from divested manual quality managed services, non-GAAP recurring gross profit and gross margins, non-GAAP nonrecurring perpetual gross profit and gross margins, non-GAAP nonrecurring professional services and other gross profit and gross margins, non-GAAP gross profit and gross margins, non-GAAP research and development, net, non-GAAP selling, general and administrative expenses, non-GAAP operating expenses from divested manual quality managed services, non-GAAP operating income and operating margins, non-GAAP other income (expense), net, non-GAAP provision for (benefit from) income taxes and non-GAAP effective income tax rate, non-GAAP net income (loss) attributable to Verint Systems Inc. common shares, non-GAAP diluted net income (loss) per common share attributable to Verint Systems Inc., adjusted EBITDA and adjusted EBITDA as a percentage of non-GAAP revenue, net debt, free cash flow and constant currency measures. The tables above include a reconciliation of each non-GAAP financial measure for completed periods presented in this press release to the most directly comparable GAAP financial measure. 
+
+We believe these non-GAAP financial measures, used in conjunction with the corresponding GAAP measures, provide investors with useful supplemental information about the financial performance of our business by:
+
+facilitating the comparison of our financial results and business trends between periods, by excluding certain items that either can vary significantly in amount and frequency, are based upon subjective assumptions, or in certain cases are unplanned for or difficult to forecast,
+
+facilitating the comparison of our financial results and business trends with other technology companies who publish similar non-GAAP measures, and
+
+allowing investors to see and understand key supplementary metrics used by our management to run our business, including for budgeting and forecasting, resource allocation, and compensation matters.
+
+We also make these non-GAAP financial measures available because a number of our investors have informed us that they find this supplemental information useful.
+
+Non-GAAP financial measures should not be considered in isolation, as substitutes for, or superior to, comparable GAAP financial measures. The non-GAAP financial measures we present have limitations in that they do not reflect all of the amounts associated with our results of operations as determined in accordance with GAAP, and these non-GAAP financial measures should only be used to evaluate our results of operations in conjunction with the corresponding GAAP financial measures. These non-GAAP financial measures do not represent discretionary cash available to us to invest in the growth of our business, and we may in the future incur expenses similar to or in addition to the adjustments made in these non-GAAP financial measures. Other companies may calculate similar non-GAAP financial measures differently than we do, limiting their usefulness as comparative measures.
+
+Our non-GAAP financial measures are calculated by making the following adjustments to our GAAP financial measures: 
+
+Revenue adjustments. For acquisitions completed prior to February 1, 2023, we exclude from our non-GAAP revenue the impact of fair value adjustments required under previous GAAP guidance relating to SaaS services, optional managed services and customer support contracts acquired in a business acquisition, which would have otherwise been recognized on a stand-alone basis. Beginning February 1, 2023, we adopted accounting guidance which eliminates the fair value provision that resulted in the accounting adjustment on a prospective basis. We believe that it is useful for investors to understand the total amount of revenue that we and the acquired company would have recognized on a stand-alone basis under GAAP, absent the accounting adjustment associated with the business acquisition under prior accounting guidance. Our non-GAAP revenue also reflects certain adjustments from aligning an acquired companys revenue recognition policies to our policies. We believe that our non-GAAP revenue measure helps management and investors understand our revenue trends and serves as a useful measure of ongoing business performance.
+
+Amortization of acquired technology and other acquired intangible assets. When we acquire an entity, we are required under GAAP to record the fair values of the intangible assets of the acquired entity and amortize those 
+
+assets over their useful lives. We exclude the amortization of acquired intangible assets, including acquired technology, from our non-GAAP financial measures because they are inconsistent in amount and frequency and are significantly impacted by the timing and size of acquisitions. We also exclude these amounts to provide easier comparability of pre- and post-acquisition operating results.
+
+Stock-based compensation expenses. We exclude stock-based compensation expenses related to restricted stock unit and performance stock unit awards, stock bonus programs, bonus share programs, and other stock-based awards from our non-GAAP financial measures. We evaluate our performance both with and without these measures because stock-based compensation is typically a non-cash expense and can vary significantly over time based on the timing, size and nature of awards granted, and is influenced in part by certain factors which are generally beyond our control, such as the volatility of the price of our common stock. In addition, measurement of stock-based compensation is subject to varying valuation methodologies and subjective assumptions, and therefore we believe that excluding stock-based compensation from our non-GAAP financial measures allows for meaningful comparisons of our current operating results to our historical operating results and to other companies in our industry.
+
+Losses on early retirements of debt. We exclude from our non-GAAP financial measures losses on early retirements of debt attributable to refinancing or repaying our debt because we believe they are not reflective of our ongoing operations.
+
+Acquisition and divestitures expenses (benefit), net. In connection with acquisition activity (including with respect to acquisitions that are not consummated), we incur expenses (benefits), including legal, accounting, and other professional fees, integration costs, changes in the fair value of contingent consideration obligations, and other costs. Integration costs may consist of information technology expenses as systems are integrated across the combined entity, consulting expenses, marketing expenses, and professional fees, as well as non-cash charges to write-off or impair the value of redundant assets. In connection with divestiture activity, we exclude the gain or loss on divestiture as well as any expenses incurred, including legal, accounting, and other professional fees. We exclude these expenses from our non-GAAP financial measures because they are unpredictable, can vary based on the size and complexity of each transaction, and are unrelated to our continuing operations or to the continuing operations of the acquired businesses.
+
+Restructuring expenses (benefit). We exclude restructuring expenses (benefit) from our non-GAAP financial measures, which include employee termination costs, facility exit costs (except as included in accelerated lease costs and IT facilities and infrastructure realignment described below), certain professional fees, asset impairment charges (except as included in acquisition or IT facilities and infrastructure realignment), and other costs directly associated with resource realignments incurred in reaction to changing strategies or business conditions. All of these costs can vary significantly in amount and frequency based on the nature of the actions as well as the changing needs of our business and we believe that excluding them provides easier comparability of pre- and post-restructuring operating results.
+
+Accelerated lease costs. We exclude from our non-GAAP financial measures accelerated facility costs and associated accelerated lease expenses, including losses on terminations, due to the early termination or abandonment of certain office leases as a result of our move to a hybrid work model because these charges are not reflective of our ongoing business and operating results.
+
+IT facilities and infrastructure realignment. We exclude from our non-GAAP financial measures nonrecurring IT facilities and infrastructure realignment costs and other IT charges associated with modifying the workplace, including consolidating and/or migrating data centers and labs to the cloud, simplifying the corporate network, and one-time costs for implementing collaboration tools to enable our work from anywhere strategy, as well as asset impairment charges, accelerated depreciation and IT facility exit costs.
+
+Impairment charges and other adjustments. We exclude from our non-GAAP financial measures asset impairment charges (other than those already included within restructuring, acquisition, or IT facilities and realignment activity), rent expense for redundant facilities, gains or losses on sales of property, gains or losses on settlements of certain legal matters, and certain professional fees unrelated to our ongoing operations, all of which are unusual in nature and can vary significantly in amount and frequency. We also exclude from our non-GAAP financial measures separation expenses incurred in connection with the spin-off of our former Cyber Intelligence Solutions business, including third-party advisory, accounting, legal, tax, consulting, and other similar services related to the separation as well as costs associated with the operational separation of the two businesses, including those related to human resources, brand management, real estate, and information technology. Separation expenses also include incremental cash income taxes related to the reorganization of legal entities and operations in order to effect the 
+
+separation and other expense adjustments associated with a tax-related indemnification asset as a result of the spin-off. These costs were incremental to our normal operating expenses and were incurred solely as a result of the separation transaction. 
+
+Non-GAAP income tax adjustments. We exclude from our non-GAAP measures of net income attributable to Verint Systems Inc., our GAAP provision for (benefit from) income taxes and instead include a non-GAAP provision for income taxes, determined by applying a non-GAAP effective income tax rate to our income before provision for income taxes, as adjusted for the non-GAAP items described above. The non-GAAP effective income tax rate is generally based upon the income taxes we expect to pay in the reporting year. Our GAAP effective income tax rate can vary significantly from year to year as a result of tax law changes, settlements with tax authorities, changes in the geographic mix of earnings including acquisition activity, changes in the projected realizability of deferred tax assets, and other unusual or period-specific events, all of which can vary in size and frequency. We believe that our non-GAAP effective income tax rate removes much of this variability and facilitates meaningful comparisons of operating results across periods. Our non-GAAP effective income tax rate for the year ended January 31, 2025 is 12% and was 8% for the year ended January 31, 2024. We evaluate our non-GAAP effective income tax rate on an ongoing basis, and it can change from time to time. Our non-GAAP income tax rate can differ materially from our GAAP effective income tax rate.
+
+Definition of Certain Non-GAAP Financial Metrics
+
+Adjusted EBITDA is a non-GAAP measure defined as net income (loss) before interest expense, interest income, income taxes, depreciation expense, amortization expense, stock-based compensation expenses, revenue adjustments, restructuring expenses, acquisition expenses, accelerated lease costs, IT facilities and infrastructure realignment, and other expenses excluded from our non-GAAP financial measures as described above. We believe that adjusted EBITDA is also commonly used by investors to evaluate operating performance between companies because it helps reduce variability caused by differences in capital structures, income taxes, stock-based compensation expenses, accounting policies, and depreciation and amortization policies. Adjusted EBITDA is also used by credit rating agencies, lenders, and other parties to evaluate our creditworthiness.
+
+Net Debt is a non-GAAP measure defined as the sum of long-term and short-term debt on our consolidated balance sheet, excluding unamortized discounts and issuance costs, less the sum of cash and cash equivalents, restricted cash, restricted cash equivalents, restricted bank time deposits, and restricted investments (including long-term portions), and short-term investments. We use this non-GAAP financial measure to help evaluate our capital structure, financial leverage, and our ability to reduce debt and to fund investing and financing activities and believe that it provides useful information to investors.
+
+Free Cash Flow is a non-GAAP measure defined as GAAP cash provided by operating activities less our capital expenditures, which include purchases of property and equipment and capitalized software development costs.
+
+Recurring revenue, on both a GAAP and non-GAAP basis, is the portion of our revenue that we believe is likely to be renewed in the future, and primarily consists of SaaS revenue, optional managed services revenue and initial and renewal post contract support.
+
+Nonrecurring perpetual revenue, on both a GAAP and non-GAAP basis, primarily consists of our perpetual licenses and hardware.
+
+Nonrecurring professional services and other revenue, on both a GAAP and non-GAAP basis, primarily consists of our installation services, business advisory consulting and training services, and patent royalties.
+
+SaaS revenue, on both a GAAP and non-GAAP basis, includes bundled SaaS, software with standard managed services and unbundled SaaS (including associated support) that we account for as term licenses where managed services are purchased separately. 
+
+Supplemental Information About Constant Currency
+
+Because we operate on a global basis and transact business in many currencies, fluctuations in foreign currency exchange rates can affect our consolidated U.S. dollar operating results. To facilitate the assessment of our performance excluding the effect of foreign currency exchange rate fluctuations, we calculate our GAAP and non-GAAP revenue, cost of revenue, and operating expenses on both an as-reported basis and a constant currency 
+
+basis, allowing for comparison of results between periods as if foreign currency exchange rates had remained constant. We perform our constant currency calculations by translating current-period results into U.S. dollars using prior-period average foreign currency exchange rates or hedge rates, as applicable, rather than current period exchange rates. We believe that constant currency measures, which exclude the impact of changes in foreign currency exchange rates, facilitate the assessment of underlying business trends.
+
+Unless otherwise indicated, our financial outlook, which is provided on a non-GAAP basis, reflects foreign currency exchange rates approximately consistent with rates in effect when the outlook is provided.
+
+We also incur foreign exchange gains and losses resulting from the revaluation and settlement of monetary assets and liabilities that are denominated in currencies other than the entitys functional currency. Our financial outlook for diluted earnings per share includes net foreign exchange gains or losses incurred to date, if any, but does not include potential future gains or losses.
+
+Operating Metrics
+
+SaaS Annual Contract Value (ACV) (formerly known as New SaaS ACV) includes the annualized contract value of all new SaaS contracts received within the period; new unbundled SaaS contracts only include the license portion of those orders. In cases where SaaS is offered to partners through usage-based contracts, we include the incremental value of usage contracts over a rolling four quarters. Orders are only included in SaaS ACV with a completed customer contract signed by both parties before the end of the period. 
+
+SaaS ACV from New Deals represents SaaS ACV excluding the annual contract value of bundled contracts sold to customers converting from on-premises applications to the Verint Cloud within the reporting period. This metric also excludes the value of incremental licenses or expanded entitlements as part of the same contract.
+
+Subscription Annual Recurring Revenue (ARR) represents the annualized quarterly run-rate value of our active or signed subscription agreements at the end of the period and is comprised of the ARR calculated for our SaaS (see definition below), Support, and Optional Managed Services contracts. Under ASC Topic 606, Revenue from Contracts with Customers, we are required to recognize a significant portion of our Unbundled SaaS contracts at a point in time when the software is first made available to the customer, or at the beginning of the subscription term, despite the fact that our contracts typically call for billing these amounts annually or more frequently over the life of the subscription. This point-in-time recognition of a portion of our recurring revenue creates significant variability in the revenue recognized period to period based on the timing of the subscription start date and the subscription term and can create a significant difference between the timing of our revenue recognition and the actual customer billing under the contract. We use ARR to measure the underlying performance of our subscription-based contracts and mitigate the impact of this variability as ARR reduces fluctuations due to seasonality, contract term, and the sales mix of subscriptions. ARR should be viewed independently of revenue, and does not represent our revenue under ASC 606 on an annualized basis, as it is an operating metric that is impacted by contract start and end dates and renewal rates. ARR is not intended to be a replacement for forecasts of revenue and does not include revenue reported as nonrecurring revenue in our consolidated statement of operations. ARR does not have any standardized meaning and is therefore unlikely to be comparable to similarly titled measures presented by other companies. Investors should consider our ARR operating measure only in conjunction with our GAAP financial
+
+results.
+
+Bundled SaaS Annual Recurring Revenue (Bundled SaaS ARR) represents the annualized quarterly run-rate value of active or signed bundled SaaS contracts as of the end of a period. In the case of acquired contracts that allow for early termination, bundled SaaS ARR will reflect the annualized amount of committed contracts in the first quarter and then proportionally increase to the remaining amount of annualized ARR in the subsequent three quarters during the first year post acquisition. We use bundled SaaS ARR to identify the annual recurring value of customer contracts at the end of a reporting period and to monitor the growth of our recurring business on a ratable basis. Investors should consider our Bundled SaaS ARR operating measure only in conjunction with our GAAP financial results.
+
+Cash Generation represents the sum of ARR and nonrecurring perpetual and nonrecurring professional services and other revenue and provides an estimate of the cash-producing potential of our entire business.
+
+Cash Contribution is defined as Cash Generation less cost of revenue and operating expenses and helps assess how effectively we convert our revenue streams into cash.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>vrnt-20250326.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - DOCUMENT AND ENTITY INFORMATION 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>vrnt-20250326_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Security Exchange Name 
+Security Exchange Name 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Document Period End Date 
+Document Period End Date 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Soliciting Material 
+Soliciting Material 
+
+City Area Code 
+City Area Code 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Document and Entity Information [Abstract] 
+Document and Entity Information [Abstract] 
+Document and Entity Information [Abstract] 
+
+Document Type 
+Document Type 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Registrant Name 
+Entity Registrant Name
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>vrnt-20250326_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>verintlogobluehighresa08a.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+DOCUMENT AND ENTITY INFORMATION
+
+Mar. 26, 2025
+
+Document and Entity Information [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Mar. 26, 2025
+
+Entity Registrant Name Verint Systems Inc
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-34807
+
+Entity Tax Identification Number 11-3200514
+
+Entity Address, Address Line One 225 Broadhollow Road
+
+Entity Address, City or Town Melville,
+
+Entity Address, State or Province NY
+
+Entity Address, Postal Zip Code 11747
+
+City Area Code (631)
+
+Local Phone Number 962-9600
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, $.001 par value per share
+
+Trading Symbol VRNT
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0001166388
+
+Amendment Flag false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Document and Entity Information [Abstract]+ References
+
+No definition available.+ Details
+
+Name: vrnt_DocumentandEntityInformationAbstract
+
+Namespace Prefix: vrnt_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - DOCUMENT AND ENTITY INFORMATION 
+Sheet 
+http://www.verint.com/role/DOCUMENTANDENTITYINFORMATION 
+DOCUMENT AND ENTITY INFORMATION 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+vrnt-20250326.htm 
+vrnt-20250326.xsd 
+vrnt-20250326_lab.xml 
+vrnt-20250326_pre.xml 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001166388-25-000011-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>vrnt-20250326_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001166388 
+
+2025-03-26 
+2025-03-26 
+
+0001166388 
+false 
+8-K 
+2025-03-26 
+Verint Systems Inc 
+DE 
+001-34807 
+11-3200514 
+225 Broadhollow Road 
+Melville, 
+NY 
+11747 
+(631) 
+962-9600 
+false 
+false 
+false 
+false 
+Common Stock, $.001 par value per share 
+VRNT 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,1788 @@
+<SEC-DOCUMENT>0001810019-25-000013.txt : 20250220
+<SEC-HEADER>0001810019-25-000013.hdr.sgml : 20250220
+<ACCEPTANCE-DATETIME>20250220162022
+ACCESSION NUMBER:		0001810019-25-000013
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20250220
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250220
+DATE AS OF CHANGE:		20250220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rackspace Technology, Inc.
+		CENTRAL INDEX KEY:			0001810019
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				813369925
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39420
+		FILM NUMBER:		25645709
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 FANATICAL PLACE
+		STREET 2:		CITY OF WINDCREST
+		CITY:			SAN ANTONIO
+		STATE:			TX
+		ZIP:			78218
+		BUSINESS PHONE:		1-800-961-4454
+
+	MAIL ADDRESS:	
+		STREET 1:		1 FANATICAL PLACE
+		STREET 2:		CITY OF WINDCREST
+		CITY:			SAN ANTONIO
+		STATE:			TX
+		ZIP:			78218
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Rackspace Corp.
+		DATE OF NAME CHANGE:	20200417
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>rxt-20250220.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?rxt-20250220
+
+0001810019FALSE00018100192025-02-202025-02-20
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):February 20, 2025
+
+RACKSPACE TECHNOLOGY, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-39420 
+
+81-3369925
+
+(State of Incorporation) 
+
+(Commission File Number) 
+
+(I.R.S. Employer Identification No.)
+
+19122 US Highway 281N, Suite 128
+
+San Antonio, Texas78258
+
+(Address of principal executive offices, including zip code)
+
+1-800-961-4454
+
+(Registrant's telephone number, including area code)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class Trading Symbol(s) 
+
+Name of each exchange on which registered
+
+Common stock, par value $0.01 per share RXT The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR 240.12b-2).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02. Results of Operations and Financial Condition.
+
+On February 20, 2025, Rackspace Technology, Inc issued a press release announcing its financial results for the fiscal quarter and year ended December 31, 2024. A copy of the press release is attached hereto as Exhibit 99.1 and incorporated by reference herein.
+
+The information contained in this report, including Exhibit 99.1 attached hereto, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, regardless of any general incorporation language in such filings, unless expressly incorporated by specific reference in such filing.. 
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit Number Exhibit Description 
+
+99.1 
+
+Press Release dated February 20, 2025. 
+
+104 Cover Page Interactive Data File (formatted as Inline XBRL) 
+
+-2-
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+RACKSPACE TECHNOLOGY, INC.
+
+Date: February 20, 2025 By: /s/ Mark Marino
+
+Mark Marino
+
+Chief Financial Officer
+
+-3-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>rxt991_q42024.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Exhibit 99.1
+
+Rackspace Technology Reports Fourth Quarter and Full Year 2024 Results
+
+Fourth Quarter Revenue of $686 million, down 5% Year-over-Year; 2024 Revenue of $2,737 million, down 7% Year-over-Year
+
+Fourth Quarter Private Cloud Revenue of $269 million, down 6% Year-over-Year; 2024 Private Cloud Revenue of $1,055 million, down 13% Year-over-Year
+
+Fourth Quarter Public Cloud Revenue of $417 million, down 4% Year-over-Year; 2024 Public Cloud Revenue of $1,683 million down 3% Year-over-Year
+
+Fourth Quarter Cash Flow From Operating Activities of $54 million
+
+SAN ANTONIO, February 20, 2025 Rackspace Technology, Inc. (Nasdaq: RXT), a leading end-to-end, hybrid cloud and AI solutions company, today announced results for its fourth quarter and year ended December 31, 2024. 
+
+Amar Maletira, Chief Executive Officer, stated, We closed the year on a high note, exceeding guidance for fourth-quarter revenue, operating profit, and EPS. Our company achieved record-breaking quarterly sales bookingsthe highest since the inception of our two business units. Fiscal 2024 bookings grew 14% year-over-year, driven by strong sales execution across both units.
+
+Mr. Maletira added, I am proud of our steady execution across our three strategic priorities: operational turnaround, innovation, and capital structure optimization. With a solid foundation in place, we are well-positioned to accelerate our progress in 2025.
+
+Fourth Quarter 2024 Results
+
+Revenue was $686 million in the fourth quarter of 2024, a decrease of 5% on a reported and constant currency (1) basis as compared to revenue of $720 million in the fourth quarter of 2023. 
+
+Private Cloud revenue was $269 million in the fourth quarter of 2024, a decrease of 6% on a reported basis and 7% on a constant currency basis as compared to revenue of $286 million in the fourth quarter of 2023.
+
+Public Cloud revenue was $417 million in the fourth quarter of 2024, a decrease of 4% on a reported and constant currency basis as compared to revenue of $434 million in the fourth quarter of 2023.
+
+Loss from operations was $(29) million in the fourth quarter of 2024, compared to loss from operations of $(15) million in the fourth quarter of 2023.
+
+Net loss was $(60) million in the fourth quarter of 2024, compared to net income of $28 million in the fourth quarter of 2023. 
+
+Net loss per diluted share was $(0.26) in the fourth quarter of 2024, compared to net income per diluted share of $0.13 in the fourth quarter of 2023. 
+
+Non-GAAP Operating Profit was $39 million in the fourth quarter of 2024, a decrease of 13% compared to $45 million in the fourth quarter of 2023.
+
+-1-
+
+Non-GAAP Loss Per Share was $(0.02) in the fourth quarter of 2024, an increase of 50% as compared to Non-GAAP Loss Per Share of $(0.04) in the fourth quarter of 2023. 
+
+Capital expenditures were $27 million in the fourth quarter of 2024, compared to $38 million in the fourth quarter of 2023. 
+
+Full Year 2024 Results
+
+Revenue was $2,737 million in 2024, a decrease of 7% on a reported basis and 8% on a constancy currency basis as compared to revenue of $2,957 million in 2023. 
+
+Private Cloud revenue was $1,055 million in 2024, a decrease of 13% on a reported basis and 14% on a constant currency basis as compared to revenue of $1,214 million in 2023.
+
+Public Cloud revenue was $1,683 million in 2024, a decrease of 3% on a reported basis and 4% on a constancy currency basis as compared to revenue of $1,743 million in 2023.
+
+Loss from operations was $(909) million in 2024, compared to loss from operations of $(899) million in 2023.
+
+Net loss was $(863) million in 2024, compared to net loss of $(838) million in 2023.
+
+Net loss per diluted share was $(3.84) in 2024, compared to net loss per diluted share of $(3.89) in 2023.
+
+Non-GAAP Operating Profit was $106 million in 2024, a decrease of 33% compared to $157 million in 2023.
+
+Non-GAAP Loss Per Share was $(0.27) in 2024, a decrease of 13% as compared to Non-GAAP Loss Per Share of $(0.24) in 2023. 
+
+Capital expenditures were $136 million in 2024, compared to $181 million in 2023.
+
+As of December 31, 2024, we had cash and cash equivalents of $144 million with no balance outstanding on our New Revolving Credit Facility ($375 million of undrawn commitments).
+
+(1) Constant currency revenue and certain other measures in this release are non-GAAP financial measures. See Non-GAAP Financial Measures and the tables that accompany this release for definitions and reconciliations of these non-GAAP measures to the most comparable GAAP measures.
+
+-2-
+
+Financial Outlook
+
+Rackspace Technology is providing guidance as follows:
+
+Q1 2025 Guidance
+
+Revenue 
+
+$653 - $665 million
+
+Private Cloud Revenue 
+
+$247 - $253 million
+
+Public Cloud Revenue 
+
+$406 - $412 million
+
+Non-GAAP Operating Profit 
+
+$19 - $21 million
+
+Non-GAAP Loss Per Share ($0.07) - ($0.09)
+
+Non-GAAP Other Income (Expense) 
+
+($46) ($50) million
+
+Non-GAAP Tax Expense Rate 26%
+
+Non-GAAP Weighted Average Shares 
+
+245 million
+
+Information about Rackspace Technologys use of non-GAAP financial measures is provided below under Non-GAAP Financial Measures.
+
+Definitions of non-GAAP financial measures and the reconciliations to the most directly comparable measures in accordance with generally accepted accounting principles in the United States (GAAP) are provided in subsequent sections of this press release narrative and supplemental schedules. Rackspace Technology has not reconciled Non-GAAP Operating Profit, Non-GAAP Loss Per Share, Non-GAAP Other Income (Expense) or Non-GAAP Tax Expense Rate guidance to the most directly comparable GAAP measure because it does not provide guidance on GAAP net income (loss) or the reconciling items between these Non-GAAP measures and GAAP net income (loss) as a result of the uncertainty regarding, and the potential variability of, certain of these items, such as share-based compensation expense. Accordingly, a reconciliation of the non-GAAP financial measure guidance to the corresponding GAAP measure is not available without unreasonable effort. With respect to Non-GAAP Operating Profit, Non-GAAP Loss Per Share, Non-GAAP Other Income (Expense) and Non-GAAP Tax Expense Rate guidance, adjustments in future periods are generally expected to be similar to the kinds of charges and costs excluded from these Non-GAAP measures in prior periods, but the impact of such adjustments could be significant.
+
+Conference Call and Webcast
+
+Rackspace Technology will hold a conference call today, February 20, 2025, at 4:00pm CT / 5:00pm ET to discuss its fourth quarter and full year 2024 results. Interested parties may access the conference call as follows: 
+
+To listen to the live webcast or access the replay following the webcast, please visit our IR website at the following link: https://ir.rackspace.com/news-and-events/events-and-presentations.
+
+To obtain a dial-in number, please pre-register at the following link: 
+
+https://register.vevent.com/register/BIad56d9097db646978aea4b4bd013e646
+
+Registrants will receive dial-in information and a PIN allowing them to access the live call.
+
+-3-
+
+About Rackspace Technology
+
+Rackspace Technology is a leading end-to-end, hybrid cloud and AI solutions company. We can design, build, and operate our customers cloud environments across all major technology platforms, irrespective of technology stack or deployment model. We partner with our customers at every stage of their cloud journey, enabling them to modernize applications, build new products, and adopt innovative technologies.
+
+Forward-looking Statements
+
+Rackspace Technology has made statements in this press release and other reports, filings, and other public written and verbal announcements that are forward-looking and therefore subject to risks and uncertainties. All statements, other than statements of historical fact, included in this press release are, or could be, forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 and are made in reliance on the safe harbor protections provided thereunder. These forward-looking statements relate to anticipated financial performance, managements plans and objectives for future operations, business prospects, outcome of regulatory proceedings, market conditions, and other matters. Any forward-looking statement made in this press release speaks only as of the date on which it is made. We undertake no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future developments or otherwise. Forward-looking statements can be identified by various words such as expects, intends, will, anticipates, believes, confident, continue, propose, seeks, could, may, should, estimates, forecasts, might, goals, objectives, targets, planned, projects, and similar expressions. These forward-looking statements are based on managements current beliefs and assumptions and on information currently available to management. Rackspace Technology cautions that these statements are subject to risks and uncertainties, many of which are outside of our control, and could cause future events or results to be materially different from those stated or implied in this press release, including among others, risk factors that are described in Rackspace Technology, Inc.s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and other filings with the Securities and Exchange Commission, including the sections entitled Risk Factors and Managements Discussion and Analysis of Financial Condition and Results of Operations contained therein.
+
+Non-GAAP Financial Measures
+
+This press release includes several non-GAAP financial measures such as constant currency revenue, Non-GAAP Gross Profit, Non-GAAP Net Income (Loss), Non-GAAP Operating Profit, Adjusted EBITDA and Non-GAAP Earnings (Loss) Per Share. These non-GAAP financial measures exclude the impact of certain costs, losses and gains that are required to be included in our profit and loss measures under GAAP. Although we believe these measures are useful to investors and analysts for the same reasons they are useful to management, as described in the accompanying pages, these measures are not a substitute for, or superior to, GAAP financial measures or disclosures. Other companies may calculate similarly-titled non-GAAP measures differently, limiting their usefulness as comparative measures. We have reconciled each of these non-GAAP measures to the applicable most comparable GAAP measure in the accompanying pages.
+
+-4-
+
+Beginning in the fourth quarter of 2024, we have updated the presentation of our non-GAAP financial measures to no longer exclude certain cash compensation paid to employees who remain employed with Rackspace which were previously included in special bonuses and other compensation expenses and restructuring and transformation expenses line items of our reconciliations. Additionally, we have removed special bonuses and other compensation expenses line item and the remaining adjustments are now presented within restructuring and transformation expenses line item. All prior period Non-GAAP Gross Profit, Non-GAAP Net Income (Loss), Non-GAAP Operating Profit, Adjusted EBITDA and Non-GAAP Earnings (Loss) Per Share financial measures have been recasted to reflect current period presentation in the accompanying pages.
+
+IR Contact
+
+Sagar Hebbar
+
+Rackspace Technology Investor Relations
+
+ir@rackspace.com
+
+PR Contact
+
+Natalie Silva
+
+Rackspace Technology Corporate Communications
+
+publicrelations@rackspace.com
+
+-5-
+
+RACKSPACE TECHNOLOGY, INC.
+
+CONSOLIDATED RESULTS OF OPERATIONS
+
+(Unaudited)
+
+Three Months Ended December 31, Year-Over-Year Comparison
+
+2023 2024 
+
+(In millions, except % and per share data) Amount % Revenue Amount % Revenue Amount % Change
+
+Revenue $ 719.7 100.0 % $ 685.6 100.0 % $ (34.1) (4.7) %
+
+Cost of revenue (565.6) (78.6) % (553.9) (80.8) % 11.7 (2.1) %
+
+Gross profit 154.1 21.4 % 131.7 19.2 % (22.4) (14.5) %
+
+Selling, general and administrative expenses (165.5) (23.0) % (160.5) (23.4) % 5.0 (3.0) %
+
+Impairment of assets, net (3.8) (0.5) % % 3.8 (100.0) %
+
+Loss from operations (15.2) (2.1) % (28.8) (4.2) % (13.6) 89.5 %
+
+Other income (expense): 
+
+Interest expense (50.9) (7.1) % (17.9) (2.6) % 33.0 (64.8) %
+
+Gain (loss) on investments, net 0.1 0.0 % (0.1) (0.0) % (0.2) NM 
+
+Gain on debt extinguishment 108.2 15.0 % % (108.2) (100.0) %
+
+Other expense, net (4.7) (0.7) % (9.9) (1.4) % (5.2) 110.6 %
+
+Total other income (expense) 52.7 7.3 % (27.9) (4.1) % (80.6) NM 
+
+Income (loss) before income taxes 37.5 5.2 % (56.7) (8.3) % (94.2) NM 
+
+Provision for income taxes (9.5) (1.3) % (3.7) (0.6) % 5.8 (61.1) %
+
+Net income (loss) $ 28.0 3.9 % $ (60.4) (8.8) % $ (88.4) NM 
+
+Net earnings (loss) per share: 
+
+Basic $ 0.13 $ (0.26) 
+
+Diluted $ 0.13 $ (0.26) 
+
+Weighted average number of shares outstanding: 
+
+Basic 216.6 228.1 
+
+Diluted 219.6 228.1 
+
+NM = not meaningful.
+
+-6-
+
+RACKSPACE TECHNOLOGY, INC.
+
+CONSOLIDATED RESULTS OF OPERATIONS
+
+(Unaudited)
+
+Year Ended December 31, Year-Over-Year Comparison
+
+2023 2024 
+
+(In millions, except % and per share data) Amount % Revenue Amount % Revenue Amount % Change
+
+Revenue $ 2,957.1 100.0 % $ 2,737.1 100.0 % $ (220.0) (7.4) %
+
+Cost of revenue (2,328.3) (78.7) % (2,203.7) (80.5) % 124.6 (5.4) %
+
+Gross profit 628.8 21.3 % 533.4 19.5 % (95.4) (15.2) %
+
+Selling, general and administrative expenses (767.2) (25.9) % (707.6) (25.9) % 59.6 (7.8) %
+
+Impairment of goodwill (708.8) (24.0) % (714.9) (26.1) % (6.1) 0.9 %
+
+Impairment of assets, net (52.2) (1.8) % (20.0) (0.7) % 32.2 (61.7) %
+
+Loss from operations (899.4) (30.4) % (909.1) (33.2) % (9.7) 1.1 %
+
+Other income (expense): 
+
+Interest expense (221.6) (7.5) % (98.0) (3.6) % 123.6 (55.8) %
+
+Gain on investments, net 0.3 0.0 % 0.1 0.0 % (0.2) (66.7) %
+
+Gain on debt extinguishment, net of debt modification costs 271.3 9.2 % 147.2 5.4 % (124.1) (45.7) %
+
+Other expense, net (5.0) (0.2) % (21.7) (0.8) % (16.7) NM 
+
+Total other income (expense) 45.0 1.5 % 27.6 1.0 % (17.4) (38.7) %
+
+Loss before income taxes (854.4) (28.9) % (881.5) (32.2) % (27.1) 3.2 %
+
+Benefit for income taxes 16.6 0.6 % 18.9 0.7 % 2.3 13.9 %
+
+Net loss $ (837.8) (28.3) % $ (862.6) (31.5) % $ (24.8) 3.0 %
+
+Net loss per share: 
+
+Basic and diluted $ (3.89) $ (3.84) 
+
+Weighted average number of shares outstanding: 
+
+Basic and diluted 215.3 224.8 
+
+NM = not meaningful.
+
+-7-
+
+RACKSPACE TECHNOLOGY, INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(Unaudited)
+
+(In millions, except per share data) December 31,
+
+2023 December 31,
+
+2024
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents $ 196.8 $ 144.0 
+
+Accounts receivable, net allowance for credit losses and accrued customer credits of $20.1 and $27.0, respectively 339.7 298.8 
+
+Prepaid expenses 87.4 84.9 
+
+Other current assets 114.2 91.1 
+
+Total current assets 738.1 618.8 
+
+Property, equipment and software, net 608.8 601.0 
+
+Goodwill, net 1,452.4 735.7 
+
+Intangible assets, net 1,019.0 844.7 
+
+Operating right-of-use assets 126.3 134.6 
+
+Other non-current assets 151.6 116.2 
+
+Total assets $ 4,096.2 $ 3,051.0 
+
+LIABILITIES AND STOCKHOLDERS' DEFICIT 
+
+Current liabilities: 
+
+Accounts payable and accrued expenses $ 432.7 $ 389.6 
+
+Accrued compensation and benefits 72.2 96.7 
+
+Deferred revenue 78.8 84.2 
+
+Debt 23.0 29.2 
+
+Accrued interest 20.5 7.4 
+
+Operating lease liabilities 66.0 55.9 
+
+Finance lease liabilities 55.8 53.1 
+
+Financing obligations 14.0 16.4 
+
+Other current liabilities 36.5 34.1 
+
+Total current liabilities 799.5 766.6 
+
+Non-current liabilities: 
+
+Debt 2,839.6 2,756.4 
+
+Operating lease liabilities 74.6 77.8 
+
+Finance lease liabilities 308.0 293.1 
+
+Financing obligations 52.4 39.2 
+
+Deferred income taxes 79.2 31.5 
+
+Other non-current liabilities 97.4 95.0 
+
+Total liabilities 4,250.7 4,059.6 
+
+Commitments and Contingencies 
+
+Stockholders' deficit: 
+
+Preferred stock, $0.01 par value per share: 5.0 shares authorized; no shares issued or outstanding 
+
+Common stock, $0.01 par value per share: 1,495.0 shares authorized; 220.5 and 232.2 shares issued; 217.4 and 229.1 shares outstanding, respectively 2.2 2.3 
+
+Additional paid-in capital 2,638.2 2,682.8 
+
+Accumulated other comprehensive income 60.3 24.1 
+
+Accumulated deficit (2,824.2) (3,686.8) 
+
+Treasury stock, at cost; 3.1 shares held (31.0) (31.0) 
+
+Total stockholders' deficit (154.5) (1,008.6) 
+
+Total liabilities and stockholders' deficit $ 4,096.2 $ 3,051.0 
+
+-8-
+
+RACKSPACE TECHNOLOGY, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(Unaudited)
+
+Year Ended December 31,
+
+(In millions) 2023 2024
+
+Cash Flows From Operating Activities 
+
+Net loss $ (837.8) $ (862.6) 
+
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+
+Depreciation and amortization 369.7 295.4 
+
+Amortization of operating right-of-use assets 73.2 67.6 
+
+Deferred income taxes (41.9) (30.6) 
+
+Share-based compensation expense 65.4 63.4 
+
+Impairment of goodwill 708.8 714.9 
+
+Impairment of assets, net 52.2 20.0 
+
+Gain on debt extinguishment, net of debt modification costs (271.3) (147.2) 
+
+Unrealized loss on derivative contracts 15.5 
+
+Gain on investments, net (0.3) (0.1) 
+
+Provision for bad debts and accrued customer credits 9.0 19.5 
+
+Amortization of debt issuance costs and debt discount and premium 7.9 2.2 
+
+Third party fees paid in connection with the March 2024 Refinancing Transactions (31.7) 
+
+Non-cash fair value adjustments (1.0) (2.2) 
+
+Other operating activities 0.4 (6.5) 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable 275.1 20.5 
+
+Prepaid expenses and other current assets 24.6 10.5 
+
+Accounts payable, accrued expenses, and other current liabilities (44.2) (22.2) 
+
+Deferred revenue (5.8) 2.4 
+
+Operating lease liabilities (65.6) (82.8) 
+
+Other non-current assets and liabilities 41.0 9.4 
+
+Net cash provided by operating activities 374.9 39.9 
+
+Cash Flows From Investing Activities 
+
+Purchases of property, equipment and software (96.9) (111.1) 
+
+Proceeds from sale of headquarters 16.9 
+
+Other investing activities 0.9 7.6 
+
+Net cash used in investing activities (96.0) (86.6) 
+
+Cash Flows From Financing Activities 
+
+Proceeds from employee stock plans 1.3 0.9 
+
+Shares of common stock withheld for employee taxes (1.0) (4.3) 
+
+Proceeds from borrowings under long-term debt arrangements 50.0 275.0 
+
+Payments on long-term debt (241.9) (163.0) 
+
+Debt extinguishment costs (22.1) 
+
+Payments on financing component of interest rate swap (18.8) (17.3) 
+
+Principal payments of finance lease liabilities (79.7) (56.9) 
+
+Principal payments of financing obligations (22.7) (15.3) 
+
+Net cash used in financing activities (312.8) (3.0) 
+
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash 2.2 (3.0) 
+
+Decrease in cash, cash equivalents, and restricted cash (31.7) (52.7) 
+
+Cash, cash equivalents, and restricted cash at beginning of period 231.4 199.7 
+
+Cash, cash equivalents, and restricted cash at end of period $ 199.7 $ 147.0 
+
+-9-
+
+Supplemental Cash Flow Information 
+
+Cash payments for interest, net of amount capitalized $ 213.9 $ 103.6 
+
+Cash payments for income taxes, net of refunds $ 11.9 $ 10.8 
+
+Non-cash Investing and Financing Activities 
+
+Acquisition of property, equipment and software by finance leases $ 67.7 $ 40.8 
+
+Acquisition of property, equipment and software by financing obligations 25.0 4.4 
+
+Decrease in property, equipment and software accrued in liabilities (13.6) (9.9) 
+
+Other non-cash activity 5.3 (10.0) 
+
+Non-cash purchases of property, equipment and software $ 84.4 $ 25.3 
+
+-10-
+
+SEGMENT DATA
+
+(In millions, except %) Three Months Ended December 31, % Change
+
+Revenue by segment: 2023 2024 Actual 
+
+Constant Currency (a)
+
+Public Cloud $ 434.0 $ 417.0 (3.9) % (4.0) %
+
+Private Cloud 285.7 268.6 (6.0) % (6.7) %
+
+Total consolidated revenue $ 719.7 $ 685.6 (4.7) % (5.1) %
+
+(In millions, except %) Year Ended December 31, % Change
+
+Revenue by segment: 2023 2024 Actual 
+
+Constant Currency (a)
+
+Public Cloud $ 1,742.7 $ 1,682.6 (3.4) % (3.5) %
+
+Private Cloud 1,214.4 1,054.5 (13.2) % (13.6) %
+
+Total consolidated revenue $ 2,957.1 $ 2,737.1 (7.4) % (7.7) %
+
+(a) Refer to "Non-GAAP Financial Measures" in this section for further explanation and reconciliation.
+
+Three Months Ended December 31, Year-Over-Year Comparison
+
+(In millions, except %) 2023 2024 
+
+Segment operating profit (a): Amount % of Segment Revenue Amount % of Segment Revenue Amount % Change
+
+Public Cloud $ 25.3 5.8 % $ 9.9 2.4 % $ (15.4) (60.9) %
+
+Private Cloud 76.7 26.8 % 80.6 30.0 % 3.9 5.1 %
+
+Corporate functions (b) (57.1) (51.4) 5.7 (10.0) %
+
+Non-GAAP Operating Profit (c) $ 44.9 $ 39.1 $ (5.8) (12.9) %
+
+Year Ended December 31, Year-Over-Year Comparison
+
+(In millions, except %) 2023 2024 
+
+Segment operating profit (a): Amount % of Segment Revenue Amount % of Segment Revenue Amount % Change
+
+Public Cloud $ 81.8 4.7 % $ 44.2 2.6 % $ (37.6) (46.0) %
+
+Private Cloud 343.0 28.2 % 294.4 27.9 % (48.6) (14.2) %
+
+Corporate functions (b) (267.6) (233.0) 34.6 (12.9) %
+
+Non-GAAP Operating Profit (c) $ 157.2 $ 105.6 $ (51.6) (32.8) %
+
+(a) Segment revenue less expenses directly attributable to running the respective segments business. These expenses exclude centralized corporate function costs.
+
+(b) Costs that are not allocated to segments. These costs are related to centralized corporate functions that provide services to the segments in areas such as accounting, information technology, marketing, legal and human resources.
+
+(c) Refer to "Non-GAAP Financial Measures" in this section for further explanation and reconciliation.
+
+-11-
+
+NON-GAAP FINANCIAL MEASURES
+
+Constant Currency Revenue
+
+We use constant currency revenue as an additional metric for understanding and assessing our growth excluding the effect of foreign currency rate fluctuations on our international business operations. Constant currency information compares results between periods as if exchange rates had remained constant period over period and is calculated by translating the non-U.S. dollar income statement balances for the most current period to U.S. dollars using the average exchange rate from the comparative period rather than the actual exchange rates in effect during the respective period. We also believe this is an important metric to help investors evaluate our performance in comparison to prior periods.
+
+Three Months Ended December 31, 2023 Three Months Ended December 31, 2024 % Change
+
+(In millions, except %) Revenue Revenue 
+
+Foreign Currency Translation (a) Revenue in Constant Currency Actual Constant Currency
+
+Public Cloud $ 434.0 $ 417.0 $ (0.4) $ 416.6 (3.9) % (4.0) %
+
+Private Cloud 285.7 268.6 (2.2) 266.4 (6.0) % (6.7) %
+
+Total $ 719.7 $ 685.6 $ (2.6) $ 683.0 (4.7) % (5.1) %
+
+Year Ended December 31, 2023 Year Ended December 31, 2024 % Change
+
+(In millions, except %) Revenue Revenue 
+
+Foreign Currency Translation (a) Revenue in Constant Currency Actual Constant Currency
+
+Public Cloud $ 1,742.7 $ 1,682.6 $ (1.4) $ 1,681.2 (3.4) % (3.5) %
+
+Private Cloud 1,214.4 1,054.5 (5.6) 1,048.9 (13.2) % (13.6) %
+
+Total $ 2,957.1 $ 2,737.1 $ (7.0) $ 2,730.1 (7.4) % (7.7) %
+
+(a) The effect of foreign currency is calculated by translating current period results using the average exchange rate from the prior comparative period.
+
+Non-GAAP Gross Profit 
+
+We present Non-GAAP Gross Profit because we believe the measure is useful in analyzing trends in our underlying, recurring gross margins. We define Non-GAAP Gross Profit as gross profit, adjusted to exclude the impact of share-based compensation expense, purchase accounting-related effects, certain business transformation-related costs, and costs related to the Hosted Exchange incident. 
+
+Three Months Ended December 31, Year Ended December 31,
+
+(In millions) 2023 2024 2023 2024
+
+Gross profit $ 154.1 $ 131.7 $ 628.8 $ 533.4 
+
+Share-based compensation expense 1.7 1.7 9.1 7.6 
+
+Purchase accounting impact on expense (a) 0.7 0.3 2.6 1.8 
+
+Restructuring and transformation expenses (b) 1.0 7.5 17.9 19.8 
+
+Hosted Exchange incident expenses, net of proceeds received or expected to be received under our insurance coverage 0.3 
+
+Non-GAAP Gross Profit $ 157.5 $ 141.2 $ 658.7 $ 562.6 
+
+(a) Adjustment for the impact of purchase accounting from the November 2016 merger on expenses.
+
+(b) 
+
+Adjustment for the impact of business transformation and optimization activities, as well as associated severance, certain facility closure costs and lease termination expenses. Also includes payroll taxes associated with the exercise of stock options and vesting of restricted stock.
+
+-12-
+
+Non-GAAP Net Income (Loss), Non-GAAP Operating Profit and Adjusted EBITDA
+
+We present Non-GAAP Net Income (Loss), Non-GAAP Operating Profit and Adjusted EBITDA because they are a basis upon which management assesses our performance and we believe they are useful to evaluating our financial performance. We believe that excluding items from net income that may not be indicative of, or are unrelated to, our core operating results, and that may vary in frequency or magnitude, enhances the comparability of our results and provides a better baseline for analyzing trends in our business.
+
+We define Non-GAAP Net Income (Loss) as net income (loss) adjusted to exclude the impact of non-cash charges for share-based compensation, transaction-related costs and adjustments, restructuring and transformation charges, costs related to the Hosted Exchange incident, the amortization of acquired intangible assets, goodwill and asset impairment charges, costs related to the closure of a UK office, the interest expense impact from the refinancing transactions announced in March 2024 (the March 2024 Refinancing Transactions), and certain other non-operating, non-recurring or non-core gains and losses, as well as the tax effects of these non-GAAP adjustments.
+
+We define Non-GAAP Operating Profit as income (loss) from operations adjusted to exclude the impact of non-cash charges for share-based compensation, transaction-related costs and adjustments, restructuring and transformation charges, costs related to the Hosted Exchange incident, the amortization of acquired intangible assets, goodwill and asset impairment charges, costs related to the closure of a UK office, and certain other non-operating, non-recurring or non-core gains and losses.
+
+We define Adjusted EBITDA as net income (loss) adjusted to exclude the impact of non-cash charges for share-based compensation, transaction-related costs and adjustments, restructuring and transformation charges, costs related to the Hosted Exchange incident, costs related to the closure of a UK office, certain other non-operating, non-recurring or non-core gains and losses, interest expense, expenses for our Receivables Purchase Facility, income taxes, depreciation and amortization, and goodwill and asset impairment charges.
+
+Non-GAAP Operating Profit and Adjusted EBITDA are managements principal metrics for measuring our underlying financial performance. Non-GAAP Operating Profit and Adjusted EBITDA, along with other quantitative and qualitative information, are also the principal financial measures used by management and our Board in determining performance-based compensation for our management and key employees.
+
+These non-GAAP measures are not intended to imply that we would have generated higher income or avoided net losses if the November 2016 merger and the subsequent transactions and initiatives had not occurred. In the future we may incur expenses or charges such as those added back to calculate Non-GAAP Net Income (Loss), Non-GAAP Operating Profit or Adjusted EBITDA. Our presentation of Non-GAAP Net Income (Loss), Non-GAAP Operating Profit and Adjusted EBITDA should not be construed as an inference that our future results will be unaffected by these items. Other companies, including our peer companies, may calculate similarly-titled measures in a different manner from us, and therefore, our non-GAAP measures may not be comparable to similarly-tiled measures of other companies. Investors are cautioned against using these measures to the exclusion of our results in accordance with GAAP.
+
+-13-
+
+Net income (loss) reconciliation to Non-GAAP Net Loss
+
+Three Months Ended December 31, Year Ended December 31,
+
+(In millions) 2023 2024 2023 2024
+
+Net income (loss) $ 28.0 $ (60.4) $ (837.8) $ (862.6) 
+
+Share-based compensation expense 13.5 15.6 65.4 63.4 
+
+Transaction-related adjustments, net (a) 1.1 0.8 5.2 5.2 
+
+Restructuring and transformation expenses (b) 6.7 13.7 56.7 58.5 
+
+Hosted Exchange incident expenses, net of proceeds received or expected to be received under our insurance coverage (4.4) (0.3) (4.8) (1.4) 
+
+Impairment of goodwill 708.8 714.9 
+
+UK office closure (c) 12.1 
+
+Impairment of assets, net 3.8 52.2 20.0 
+
+Net (gain) loss on divestiture and investments (d) (0.1) 0.1 (0.3) (0.1) 
+
+Gain on debt extinguishment, net of debt modification costs (108.2) (271.3) (147.2) 
+
+Interest expense impact from the March 2024 Refinancing Transactions (e) (22.3) (72.9) 
+
+Other adjustments (f) (1.3) 5.0 (1.0) 1.2 
+
+Amortization of intangible assets (g) 39.4 38.1 161.0 154.1 
+
+Tax effect of non-GAAP adjustments (h) 12.6 5.3 1.7 3.4 
+
+Non-GAAP Net Loss $ (8.9) $ (4.4) $ (52.1) $ (63.5) 
+
+Loss from operations reconciliation to Non-GAAP Operating Profit
+
+Three Months Ended December 31, Year Ended December 31,
+
+(In millions) 2023 2024 2023 2024
+
+Loss from operations $ (15.2) $ (28.8) $ (899.4) $ (909.1) 
+
+Share-based compensation expense 13.5 15.6 65.4 63.4 
+
+Transaction-related adjustments, net (a) 1.1 0.8 5.2 5.2 
+
+Restructuring and transformation expenses (b) 6.7 13.7 56.7 58.5 
+
+Hosted Exchange incident expenses, net of proceeds received or expected to be received under our insurance coverage (4.4) (0.3) (4.8) (1.4) 
+
+Impairment of goodwill 708.8 714.9 
+
+UK office closure (c) 12.1 
+
+Impairment of assets, net 3.8 52.2 20.0 
+
+Amortization of intangible assets (g) 39.4 38.1 161.0 154.1 
+
+Non-GAAP Operating Profit $ 44.9 $ 39.1 $ 157.2 $ 105.6 
+
+-14-
+
+Net income (loss) reconciliation to Adjusted EBITDA
+
+Three Months Ended December 31, Year Ended December 31,
+
+(In millions) 2023 2024 2023 2024
+
+Net income (loss) $ 28.0 $ (60.4) $ (837.8) $ (862.6) 
+
+Share-based compensation expense 13.5 15.6 65.4 63.4 
+
+Transaction-related adjustments, net (a) 1.1 0.8 5.2 5.2 
+
+Restructuring and transformation expenses (b) 6.7 13.7 56.7 58.5 
+
+Hosted Exchange incident expenses, net of proceeds received or expected to be received under our insurance coverage (4.4) (0.3) (4.8) (1.4) 
+
+Impairment of goodwill 708.8 714.9 
+
+UK office closure (c) 12.1 
+
+Impairment of assets, net 3.8 52.2 20.0 
+
+Net (gain) loss on divestiture and investments (d) (0.1) 0.1 (0.3) (0.1) 
+
+Gain on debt extinguishment, net of debt modification costs (108.2) (271.3) (147.2) 
+
+Other expense, net (i) 4.7 9.9 5.0 21.7 
+
+Interest expense 50.9 17.9 221.6 98.0 
+
+Provision (benefit) for income taxes 9.5 3.7 (16.6) (18.9) 
+
+Depreciation and amortization (j) 87.2 72.7 366.4 293.3 
+
+Adjusted EBITDA $ 92.7 $ 73.7 $ 362.6 $ 244.8 
+
+(a) 
+
+Includes legal, professional, accounting and other advisory fees related to acquisitions, integration costs of acquired businesses, purchase accounting adjustments, and exploratory acquisition and divestiture costs and expenses related to financing activities.
+
+(b) 
+
+Includes consulting and advisory fees related to business transformation and optimization activities, as well as associated severance, certain facility closure costs and lease termination expenses. Also includes payroll taxes associated with the exercise of stock options and vesting of restricted stock. The year ended December 31, 2024 also includes a $9.0 million Master Economic Incentives Agreement early termination fee associated with the sale of our corporate headquarters in March 2024.
+
+(c) Expense recognized related to the closure of a UK office that we exited in the second quarter of 2023 prior to the lease end date.
+
+(d) Includes gains and losses on investment and from dispositions.
+
+(e) Interest expense impact due to the accounting for contractual interest payments on debt instruments entered into as part of the March 2024 Refinancing Transactions, which reduced interest expense relative to contractual interest cost.
+
+(f) Primarily consists of foreign currency gains and losses. 
+
+(g) All of our intangible assets are attributable to acquisitions, including the November 2016 merger.
+
+(h) We utilize an estimated structural long-term non-GAAP tax rate in order to provide consistency across reporting periods, removing the effect of non-recurring tax adjustments, which include but are not limited to tax rate changes, U.S. tax reform, share-based compensation, audit conclusions and changes to valuation allowances. We used a structural non-GAAP tax rate of 26% for all periods which reflects the removal of the tax effect of non-GAAP pre-tax adjustments and non-recurring tax adjustments on a year-over-year basis. The non-GAAP tax rate could be subject to change for a variety of reasons, including the rapidly evolving global tax environment, significant changes in our geographic earnings mix including due to acquisition activity, or other changes to our strategy or business operations. We will re-evaluate our long-term non-GAAP tax rate as appropriate. We believe that making these adjustments facilitates a better evaluation of our current operating performance and comparisons to prior periods.
+
+(i) Primarily consists of foreign currency gains and losses and expense related to our Receivables Purchase Facility.
+
+(j) Excludes accelerated depreciation expense related to facility closures.
+
+-15-
+
+Non-GAAP Earnings (Loss) Per Share
+
+We define Non-GAAP Earnings (Loss) per Share as Non-GAAP Net Income (Loss) divided by our GAAP weighted average number of shares outstanding for the period on a diluted basis and further adjusted for the weighted average number of shares associated with securities which are anti-dilutive to GAAP loss per share but dilutive to Non-GAAP Earnings (Loss) per Share. Management uses Non-GAAP Earnings (Loss) per Share to evaluate the performance of our business on a comparable basis from period to period, including by adjusting for the impact of the issuance of shares that would be dilutive to Non-GAAP Earnings (Loss) per Share.
+
+Three Months Ended December 31, Year Ended December 31,
+
+(In millions, except per share amounts) 2023 2024 2023 2024
+
+Net income (loss) attributable to common stockholders $ 28.0 $ (60.4) $ (837.8) $ (862.6) 
+
+Non-GAAP Net Loss $ (8.9) $ (4.4) $ (52.1) $ (63.5) 
+
+Weighted average number of shares - Diluted 219.6 228.1 215.3 224.8 
+
+Effect of dilutive securities (a) 11.2 3.1 10.7 
+
+Non-GAAP weighted average number of shares - Diluted 219.6 239.3 218.4 235.5 
+
+Net earnings (loss) per share - Diluted $ 0.13 $ (0.26) $ (3.89) $ (3.84) 
+
+Per share impacts of adjustments to net income (loss) (b) (0.17) 0.25 3.65 3.55 
+
+Per share impacts of shares dilutive after adjustments to net income (loss) (a) 0.00 (0.01) 0.00 0.02 
+
+Non-GAAP Loss Per Share $ (0.04) $ (0.02) $ (0.24) $ (0.27) 
+
+(a) Reflects impact of awards that would have been anti-dilutive to net loss per share, and therefore not included in the calculation, but would be dilutive to Non-GAAP Earnings (Loss) Per Share and are therefore included in the share count for purposes of this non-GAAP measure. Potential common share equivalents consist of shares issuable upon the exercise of stock options, vesting of restricted stock units (including performance-based restricted stock units) or purchases under the Employee Stock Purchase Plan, as well as contingent shares associated with our acquisition of Datapipe Parent, Inc. Certain of our potential common share equivalents are contingent on certain investment funds managed by affiliates of Apollo Global Management, Inc. achieving pre-established performance targets based on a multiple of their invested capital, which are included in the denominator for the entire period if such shares would be issuable as of the end of the reporting period assuming the end of the reporting period was the end of the contingency period. 
+
+(b) 
+
+Reflects the aggregate adjustments made to reconcile Non-GAAP Net Loss to our net income (loss), as noted in the above table, divided by the GAAP diluted number of shares outstanding for the relevant period.
+
+-16-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>rxt-20250220.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>rxt-20250220_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Entity Address, Address Line Two 
+Entity Address, Address Line Two 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>rxt-20250220_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 20, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 20, 2025
+
+Entity Registrant Name RACKSPACE TECHNOLOGY, INC.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-39420
+
+Entity Tax Identification Number 81-3369925
+
+Entity Address, Address Line One 19122 US Highway 281N
+
+Entity Address, Address Line Two Suite 128
+
+Entity Address, City or Town San Antonio
+
+Entity Address, State or Province TX
+
+Entity Address, Postal Zip Code 78258
+
+City Area Code 800
+
+Local Phone Number 961-4454
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common stock, par value $0.01 per share
+
+Trading Symbol RXT
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0001810019
+
+Amendment Flag false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+23 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://wackspace.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+rxt-20250220.htm 
+rxt-20250220.xsd 
+rxt-20250220_lab.xml 
+rxt-20250220_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>14
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>15
+<FILENAME>0001810019-25-000013-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>rxt-20250220_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001810019 
+
+2025-02-20 
+2025-02-20 
+
+0001810019 
+false 
+8-K 
+2025-02-20 
+RACKSPACE TECHNOLOGY, INC. 
+DE 
+001-39420 
+81-3369925 
+19122 US Highway 281N 
+Suite 128 
+San Antonio 
+TX 
+78258 
+800 
+961-4454 
+false 
+false 
+false 
+false 
+Common stock, par value $0.01 per share 
+RXT 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

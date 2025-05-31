@@ -1,0 +1,1131 @@
+<SEC-DOCUMENT>0001193125-25-011455.txt : 20250123
+<SEC-HEADER>0001193125-25-011455.hdr.sgml : 20250123
+<ACCEPTANCE-DATETIME>20250123160822
+ACCESSION NUMBER:		0001193125-25-011455
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20250121
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+ITEM INFORMATION:		Submission of Matters to a Vote of Security Holders
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250123
+DATE AS OF CHANGE:		20250123
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICROSTRATEGY Inc
+		CENTRAL INDEX KEY:			0001050446
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				510323571
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24435
+		FILM NUMBER:		25550170
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1850 TOWERS CRESCENT PLAZA
+		CITY:			TYSONS CORNER
+		STATE:			VA
+		ZIP:			22182
+		BUSINESS PHONE:		703-848-8600
+
+	MAIL ADDRESS:	
+		STREET 1:		1850 TOWERS CRESCENT PLAZA
+		CITY:			TYSONS CORNER
+		STATE:			VA
+		ZIP:			22182
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MICROSTRATEGY INC
+		DATE OF NAME CHANGE:	19971126
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d934980d8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?8-K
+
+MICROSTRATEGY Incfalse0001050446--12-3100010504462025-01-212025-01-21
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported): January 21, 2025
+
+MICROSTRATEGY INCORPORATED
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 0-24435 51-0323571
+
+(State or other jurisdiction
+
+of incorporation) 
+
+(Commission
+
+File Number) 
+
+(I.R.S. Employer
+
+Identification No.)
+
+1850 Towers Crescent Plaza
+
+Tysons Corner, Virginia 22182
+
+(Address of principal executive offices) (Zip Code)
+
+Registrants telephone number, including area code: (703)848-8600
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class 
+
+Trading
+
+Symbol 
+
+Name of Each Exchange
+
+on which Registered
+
+Class A common stock, par value $0.001 per share MSTR The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 5.02. 
+
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. 
+
+On January 21, 2025, the stockholders of MicroStrategy Incorporated (the Company) approved an amendment (the 2024 Plan Amendment) to the MicroStrategy Incorporated 2023 Equity Incentive Plan (the Original Plan and, such plan, as amended by the 2024 Plan Amendment, the Amended Plan) at the Companys 2025 Special Meeting of Stockholders (the Special Meeting). The 2024 Plan Amendment had been previously adopted by the Board of Directors of the Company (the Board), subject to stockholder approval, on December 20, 2024. The 2024 Plan Amendment amended the Original Plan to provide that, beginning on December 20, 2024, each non-employee director who is newly appointed to the Board shall automatically receive, upon the date of such directors initial appointment to the Board, equity awards having an aggregate fair value equal to $2,000,000, one-half of which ($1,000,000) will consist of a non-statutory stock option and one-half of which ($1,000,000) will consist of restricted stock units, with each award vesting annually in equal installments over four years. No other amendments were made to the Original Plan. 
+
+A more detailed description of the 2024 Plan Amendment and the Amended Plan is contained on pages 13 to 24 of the Companys definitive proxy statement on Schedule 14A (the Proxy Statement), which was filed with the Securities and Exchange Commission on January 3, 2025, and incorporated herein by reference. A complete copy of the Amended Plan is included as Appendix D to the Proxy Statement and is also incorporated herein by reference. 
+
+Item 5.03. 
+
+Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year. 
+
+On January 22, 2025, the Company filed with the Secretary of State of the State of Delaware an amendment (the Certificate of Amendment) to the Companys Second Restated Certificate of Incorporation to (i) increase the number of authorized shares of Class A common stock (Class A Common Stock), par value $0.001 per share, from 330,000,000 to 10,330,000,000; (ii) increase the number of authorized shares of preferred stock (Preferred Stock), par value $0.001 per share, from 5,000,000 to 1,005,000,000; and (iii) correspondingly increase the total number of authorized shares of capital stock (which is the sum of the authorized number of Class A Common Stock, Class B common stock, par value $0.001 per share, and Preferred Stock) from 500,000,000 to 11,500,000,000 shares of capital stock. The Certificate of Amendment became effective on January 22, 2025 upon filing with the Secretary of State of Delaware. 
+
+The foregoing summary does not purport to be complete and is qualified in its entirety by reference to the full text of the Certificate of Amendment, which is attached as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated herein by reference. 
+
+Item 5.07. 
+
+Submission of Matters to a Vote of Security Holders. 
+
+On January 21, 2025, the Company held the Special Meeting. A summary of the matters voted upon by stockholders at the Special Meeting is set forth below: 
+
+Proposal 1. The Common Stock Amendment Proposal 
+
+The Companys stockholders approved and adopted an amendment to Article Four of the Second Restated Certificate of Incorporation of MicroStrategy Incorporated to increase the number of authorized shares of Class A Common Stock from 330,000,000 shares to 10,330,000,000 shares (Proposal 1). The final voting results for Proposal 1 are as follows: 
+
+Votes For Votes Against Abstentions Broker Non-Votes
+
+234,937,922 37,896,858 356,581 
+
+Proposal 2. The Preferred Stock Amendment Proposal 
+
+The Companys stockholders approved and adopted an amendment to Article Four of the Second Restated Certificate of Incorporation of MicroStrategy Incorporated to increase the number of authorized shares of Preferred Stock from 5,000,000 shares to 1,005,000,000 shares (Proposal 2). The final voting results for Proposal 2 are as follows: 
+
+Votes For Votes Against Abstentions Broker Non-Votes
+
+234,572,276 38,228,847 390,238 
+
+Proposal 3. The 2024 Plan Amendment Proposal 
+
+The Companys stockholders approved and adopted an amendment to the MicroStrategy Incorporated 2023 Equity Incentive Plan to provide for automatic equity award grants to new directors upon their appointment to the Board of Directors (Proposal 3). The final voting results for Proposal 3 are as follows: 
+
+Votes For Votes Against Abstentions Broker Non-Votes
+
+239,311,116 32,991,507 888,738 
+
+Proposal 4. The Adjournment Proposal 
+
+In connection with the Special Meeting, the Company also solicited proxies with respect to a proposal to approve one or more proposals to adjourn the Special Meeting if necessary to solicit additional proxies if there are insufficient votes at the time of the Special Meeting to approve Proposal 1, Proposal 2 and/or Proposal 3 (Proposal 4). Proposal 4 was approved by the requisite votes of the Companys stockholders. However, adjournment of the Special Meeting was deemed unnecessary because there was a quorum present and there was a sufficient number of shares of the Companys common stock present at the time of the Special Meeting to approve Proposal 1, Proposal 2 and Proposal 3. The final voting results for Proposal 4 are as follows: 
+
+Votes For Votes Against Abstentions Broker Non-Votes
+
+235,437,541 36,987,025 766,795 
+
+Item 9.01. 
+
+Financial Statements and Exhibits. 
+
+(d) Exhibits 
+
+Exhibit
+
+No. 
+
+Description
+
+3.1 Certificate of Amendment to the MicroStrategy Incorporated Second Restated Certificate of Incorporation. 
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+Date: January 23, 2025 
+
+MicroStrategy Incorporated
+
+(Registrant)
+
+By: 
+
+/s/ W. Ming Shao
+
+Name: W. Ming Shao
+
+Title: Executive Vice President & General Counsel
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.1
+<SEQUENCE>2
+<FILENAME>d934980dex31.htm
+<DESCRIPTION>EX-3.1
+<TEXT>
+EX-3.1
+
+Exhibit 3.1 
+
+CERTIFICATE OF AMENDMENT 
+
+TO 
+
+SECOND RESTATED
+CERTIFICATE OF INCORPORATION 
+
+OF 
+
+MICROSTRATEGY INCORPORATED 
+
+Pursuant to Section 242 of the 
+
+General Corporation Law of the State of Delaware
+
+MicroStrategy Incorporated (hereinafter called the Corporation), a corporation organized and existing under and by virtue of the
+General Corporation Law of the State of Delaware, does hereby certify as follows: 
+
+FIRST: A resolution was duly adopted by the Board of
+Directors of the Corporation pursuant to Section 242 of the General Corporation Law of the State of Delaware setting forth an amendment to the Second Restated Certificate of Incorporation of the Corporation and declaring said amendment to be
+advisable. The stockholders of the Corporation duly approved and adopted said proposed amendment at a meeting of stockholders in accordance with Section 242 of the General Corporation Law of the State of Delaware. The resolution setting forth
+the amendment is as follows: 
+
+RESOLVED: That Article Four of the Second Restated Certificate of Incorporation of the Corporation be and
+hereby is deleted in its entirety and the following is inserted in lieu thereof: 
+
+ARTICLE FOUR 
+
+CAPITAL STRUCTURE 
+
+The total number of shares of
+capital stock which the corporation shall have the authority to issue is 11,500,000,000 shares, consisting of three classes of capital stock: 
+
+(a) 
+
+10,330,000,000 shares of Class A Common Stock, par value $0.001 per share (the Class A Common
+Stock); 
+
+(b) 
+
+165,000,000 shares of Class B Common Stock, par value $0.001 per share (the Class B Common
+Stock) (the Class A Common Stock and the Class B Common Stock are collectively referred to as the Common Stock); and 
+
+(c) 
+
+1,005,000,000 shares of Preferred Stock, par value $0.001 per share (the Preferred Stock).
+
+*** 
+
+IN WITNESS WHEREOF, this Certificate of Amendment has been executed by a duly authorized
+officer of the Corporation on this 22nd day of January, 2025. 
+
+MICROSTRATEGY INCORPORATED
+
+By: 
+
+/s/ Phong Le
+
+Name: Phong Le
+
+Title: President & Chief Executive Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>mstr-20250121.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA
+<TEXT>
+100000 - Document - Document and Entity Information 
+link:calculationLink 
+link:presentationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>mstr-20250121_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE
+<TEXT>
+Cover [Abstract] 
+Cover [Abstract] 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Current Fiscal Year End Date 
+Current Fiscal Year End Date 
+
+Document Type 
+Document Type 
+
+Document Period End Date 
+Document Period End Date 
+
+Entity Incorporation State Country Code 
+Entity Incorporation State Country Code 
+
+Entity File Number 
+Entity File Number 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+City Area Code 
+City Area Code 
+
+Local Phone Number 
+Local Phone Number 
+
+Written Communications 
+Written Communications 
+
+Soliciting Material 
+Soliciting Material 
+
+Pre Commencement Tender Offer 
+Pre Commencement Tender Offer 
+
+Pre Commencement Issuer Tender Offer 
+Pre Commencement Issuer Tender Offer 
+
+Security 12b Title 
+Security 12b Title 
+
+Trading Symbol 
+Trading Symbol 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>mstr-20250121_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Document and Entity Information
+
+Jan. 21, 2025
+
+Cover [Abstract] 
+
+Entity Registrant Name MICROSTRATEGY Inc
+
+Amendment Flag false
+
+Entity Central Index Key 0001050446
+
+Current Fiscal Year End Date --12-31
+
+Document Type 8-K
+
+Document Period End Date Jan. 21, 2025
+
+Entity Incorporation State Country Code DE
+
+Entity File Number 0-24435
+
+Entity Tax Identification Number 51-0323571
+
+Entity Address, Address Line One 1850 Towers Crescent Plaza
+
+Entity Address, City or Town Tysons Corner
+
+Entity Address, State or Province VA
+
+Entity Address, Postal Zip Code 22182
+
+City Area Code (703)
+
+Local Phone Number 848-8600
+
+Written Communications false
+
+Soliciting Material false
+
+Pre Commencement Tender Offer false
+
+Pre Commencement Issuer Tender Offer false
+
+Security 12b Title Class A common stock, par value $0.001 per share
+
+Trading Symbol MSTR
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+End date of current fiscal year in the format --MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_CurrentFiscalYearEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:gMonthDayItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+1 
+23 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+100000 - Document - Document and Entity Information 
+Sheet 
+http://www.microstrategy.com//20250121/taxonomy/role/DocumentDocumentAndEntityInformation 
+Document and Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+d934980d8k.htm 
+mstr-20250121.xsd 
+mstr-20250121_lab.xml 
+mstr-20250121_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001193125-25-011455-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>d934980d8k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001050446 
+
+2025-01-21 
+2025-01-21 
+
+MICROSTRATEGY Inc 
+false 
+0001050446 
+--12-31 
+8-K 
+2025-01-21 
+DE 
+0-24435 
+51-0323571 
+1850 Towers Crescent Plaza 
+Tysons Corner 
+VA 
+22182 
+(703) 
+848-8600 
+false 
+false 
+false 
+false 
+Class A common stock, par value $0.001 per share 
+MSTR 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

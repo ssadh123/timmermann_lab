@@ -1,0 +1,1071 @@
+<SEC-DOCUMENT>0001663577-25-000033.txt : 20250123
+<SEC-HEADER>0001663577-25-000033.hdr.sgml : 20250123
+<ACCEPTANCE-DATETIME>20250123152044
+ACCESSION NUMBER:		0001663577-25-000033
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20250123
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250123
+DATE AS OF CHANGE:		20250123
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SKINVISIBLE, INC.
+		CENTRAL INDEX KEY:			0001085277
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				880344219
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25911
+		FILM NUMBER:		25549670
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6320 S SANDHILL ROAD
+		STREET 2:		UNIT 9
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89120
+		BUSINESS PHONE:		702-433-7154
+
+	MAIL ADDRESS:	
+		STREET 1:		6320 S SANDHILL ROAD
+		STREET 2:		UNIT 9
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89120
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SKINVISIBLE INC
+		DATE OF NAME CHANGE:	19990428
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>skvi8k_012325.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?Skinvisible, Inc. - Form 8-K - May 29, 2024
+
+false000108527700010852772025-01-232025-01-23iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+____________________
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF
+
+THE SECURITIES EXCHANGE ACT OF 1934
+
+Date
+of Report (Date of earliest event reported): January
+23, 2025
+
+Skinvisible, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Nevada 000-25911 88-0344219
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number) (I.R.S. Employer Identification No.)
+
+6320
+South Sandhill RoadUnit9, Las Vegas,
+NV 89120
+
+(Address of principal executive offices) (Zip Code)
+
+Registrants telephone
+number, including area code: 702-433-7154
+
+___________________________________________________
+
+(Former name or former address, if changed since
+last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously
+satisfy the filing obligation of the registrant under any of the following provisions:
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17CFR 230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act: None.
+
+Indicate by check mark whether the registrant is an emerging growth company
+as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934
+(240.12b-2 of this chapter).
+
+Emerging growth company [ ]
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. [ ]
+
+SECTION 7 Regulation FD Disclosure
+
+Item 7.01 Regulation FD Disclosure
+
+On January 23, 2025, Skinvisible, Inc. (the Company) issued
+a press release concerning achievements in 2024 and 2025, with its license agreement with Quoin Pharmaceuticals and Quoin Pharmaceuticals
+progress in treating Netherton Syndrome. A copy of the Companys press release is furnished as Exhibit 99.1 hereto and is incorporated
+by reference.
+
+The information contained in this Item, including the exhibit attached
+hereto, is being furnished and shall not be deemed filed for any purpose, and shall not be deemed incorporated by reference
+in any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, regardless of any general
+incorporation language in any such filing.
+
+SECTION 9 Financial Statements and Exhibits
+
+Item 9.01 Financial Statements and Exhibits. 
+
+Exhibit No. Description
+
+99.1 Press release, dated January 23, 2025
+
+2 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Skinvisible, Inc.
+
+/s/ Terry Howlett
+
+Terry Howlett
+
+Chief Executive Officer
+
+Date: January 23, 2025
+
+3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>2
+<FILENAME>skvi-20250123.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>3
+<FILENAME>skvi-20250123_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Cover [Abstract] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>4
+<FILENAME>skvi-20250123_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>5
+<FILENAME>ex99_1.htm
+<DESCRIPTION>PRESS RELEASE, DATED JANUARY 23, 2025
+<TEXT>
+Skinvisible Reports Licensee
+Success in Netherton Syndrome Clinical Studies
+
+Topic:
+
+Company Update
+
+Thursday, 23 January 2025 05:30
+AM
+
+LAS VEGAS, NV / ACCESS
+Newswire / January 23, 2025 / Skinvisible Pharmaceuticals, Inc. ("Skinvisible" or "the Company"), (OTCQB:SKVI),
+an innovative topical and transdermal pharmaceutical research and development company, with proprietary Invisicare drug delivery
+technology, today announces significant achievements in 2024 and 2025, through its licensee Quoin Pharmaceuticals' progress in Netherton
+Syndrome treatment.
+
+Skinvisible granted Quoin an
+exclusive, royalty-bearing license to its technology for use in select rare skin diseases and for the right to use its proprietary formula
+for Netherton Syndrome. Netherton Syndrome is a hereditary disorder affecting the skin, hair, and immune system, currently lacking an
+approved treatment or cure. Quoin is responsible for obtaining all FDA and other regulatory body approvals necessary to market the products
+in the US and other countries. Upon the successful completion of FDA or EU approval, Skinvisible is entitled to receive a milestone payment
+of $5 million and ongoing royalties from sales.
+
+LICENSEE CLINICAL AND
+REGULATORY SUCCESS:
+
+Skinvisible's licensee, Quoin
+Pharmaceuticals, Inc. (NASDAQ:QNRX) reported multiple positive developments for QRX003, which utilizes Skinvisible's Invisicare technology
+and its formulation for the rare skin disease: Netherton Syndrome:
+
+Key Recent Developments:
+
+FDA clearance for Netherton Syndrome "whole body" study at Northwestern University
+
+Significant clinical improvements in both open label and pediatric studies including subject's
+disease classification improved from "severe" to "mild" after 6 weeks dosing
+
+No adverse events or safety concerns reported to date from each of Quoin's ongoing clinical studies
+in Netherton Syndrome subjects
+
+International expansion of studies to UK, Ireland, and Saudi Arabia
+
+Netherton Syndrome product QRX003 with Invisicare delivery technology licensed in 60 countries
+
+"We anticipate a
+significant milestone with our licensee potentially receiving the first FDA approval for a formulation using our Invisicare delivery
+technology," said Terry Howlett, President and CEO of Skinvisible. "This validates our strategy of developing innovative topical
+and transdermal therapeutics for other indications. As our licensee advances their clinical trials, we remain committed to supporting
+their efforts to bring this groundbreaking treatment to Netherton Syndrome patients worldwide."
+
+Along with its ongoing research
+and development, Skinvisible continues to actively seek strategic partnerships with pharmaceutical and biotech companies to bring topical
+and transdermal Invisicare formulations to the market including the first transdermal obesity therapies and explore broader applications
+of its delivery platform with other small molecules.
+
+For more information on Skinvisible
+Pharmaceuticals, partnerships and investment opportunities, please contact info@skinvisible.com.
+
+About Skinvisible Pharmaceuticals,
+Inc.
+
+Skinvisible Pharmaceuticals,
+a wholly-owned subsidiary of Skinvisible, Inc., is a pioneering research and development company specializing in licensing proprietary
+topical and transdermal formulations utilizing its patented polymer skin delivery system; Invisicare. This innovative technology provides
+life-cycle management and distinctive enhancements for both topical and transdermal delivery products. Invisicare formulated as a lotion
+or cream, effectively adheres active ingredients to the skin facilitating a controlled release of the active to and/or through the skin
+and into the blood stream over time. Skinvisible has recently developed formulations for the potential treatment of obesity, along with
+over forty dermatology related conditions including rare skin disorders. For further details, please visit www.skinvisible.com.
+
+Forward-Looking
+Statements: This press release contains 'forward looking' statements within the meaning of Section 21A of the Securities
+Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, and are subject to the safe harbors created
+thereby including with respect to the possible development of any such products, the acceptance of any such products in the market place,
+the size of any such markets, the ability of any product candidates to be approved by the U.S. Food and Drug Administration among others.
+Such statements involve certain risks and uncertainties associated with an emerging company. Actual results could differ materially from
+those projected in the forward-looking statements as a result of risk factors discussed in Skinvisible, Inc. reports on file with the
+U.S. Securities and Exchange Commission (including, but not limited to, a report on Form
+10Q for the period ending September 30, 2024).
+
+###
+
+Contact:
+
+Strategic Partnerships: Doreen McMorran - doreen@invisicare.com
+
+Corporate Inquiries: info@skinvisible.com
+
+Website: www.skinvisible.com
+
+SOURCE: Skinvisible,
+Inc.
+
+2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Cover
+
+Jan. 23, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Jan. 23, 2025
+
+Entity File Number 000-25911
+
+Entity Registrant Name Skinvisible, Inc.
+
+Entity Central Index Key 0001085277
+
+Entity Tax Identification Number 88-0344219
+
+Entity Incorporation, State or Country Code NV
+
+Entity Address, Address Line One 6320
+South Sandhill Road
+
+Entity Address, Address Line Two Unit
+
+Entity Address, City or Town Las Vegas
+
+Entity Address, State or Province NV
+
+Entity Address, Postal Zip Code 89120
+
+City Area Code 702
+
+Local Phone Number 433-7154
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+1 
+20 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://skinvisible.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+skvi-20250123.xsd 
+skvi-20250123_lab.xml 
+skvi-20250123_pre.xml 
+skvi8k_012325.htm 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>14
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>15
+<FILENAME>0001663577-25-000033-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>skvi8k_012325_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001085277 
+
+2025-01-23 
+2025-01-23 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0001085277 
+8-K 
+2025-01-23 
+Skinvisible, Inc. 
+NV 
+000-25911 
+88-0344219 
+6320 South Sandhill Road 
+Unit 
+Las Vegas 
+NV 
+89120 
+702 
+433-7154 
+false 
+false 
+false 
+false 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

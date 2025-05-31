@@ -1,0 +1,1265 @@
+<SEC-DOCUMENT>0001773383-25-000042.txt : 20250422
+<SEC-HEADER>0001773383-25-000042.hdr.sgml : 20250422
+<ACCEPTANCE-DATETIME>20250422080217
+ACCESSION NUMBER:		0001773383-25-000042
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		18
+CONFORMED PERIOD OF REPORT:	20250421
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250422
+DATE AS OF CHANGE:		20250422
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Dynatrace, Inc.
+		CENTRAL INDEX KEY:			0001773383
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				000000000
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39010
+		FILM NUMBER:		25855002
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1601 TRAPELO ROAD, SUITE 116
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+		BUSINESS PHONE:		781-530-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		1601 TRAPELO ROAD, SUITE 116
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Dynatrace Holdings LLC
+		DATE OF NAME CHANGE:	20190410
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>dt-20250421.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?dt-20250421
+
+0001773383false00017733832025-04-212025-04-21
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 21, 2025
+
+DYNATRACE, INC.
+
+(Exact name of Registrant as specified in its charter)
+
+Delaware 
+
+001-39010 
+
+47-2386428
+
+(State or other jurisdiction of
+
+incorporation) 
+
+(Commission
+
+File Number)
+
+(I.R.S. Employer
+
+Identification No.)
+
+1601 Trapelo Road, Suite 116 
+
+Waltham, Massachusetts 02451
+
+(Address of principal executive offices) 
+
+(Zip Code)
+
+(781) 530-1000
+
+Registrant's telephone number, including area code
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions (see General Instruction A.2. below):
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Common Stock, par value $0.001 per share DT New York Stock Exchange
+
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 5.02. Departure of Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On April 21, 2025, Matthias Dollentz-Scharer and a subsidiary of Dynatrace, Inc. (the Company) entered into a transition and termination agreement reflecting their mutual agreement for Mr. Dollentz-Scharer to terminate his employment and step down as the Company's Executive Vice President, Chief Customer Officer (the Transition and Termination Agreement). The terms of the Transition and Termination Agreement include: (i) Mr. Dollentz-Scharer will continue to serve as the Companys Chief Customer Officer until May 12, 2025 (the Transition Date), any earlier Prior Termination Date (as defined in the Transition and Termination Agreement), or such earlier date that the Companys new Chief Customer Officer commences employment (the Earlier Transition Date); (ii) for the period between the Transition Date or the Earlier Transition Date through June 30, 2025 or an earlier Prior Termination Date, Mr. Dollentz-Scharer will continue providing services to a subsidiary of the Company as an Executive Advisor and will serve in such capacity and provide such transition assistance as the Companys Chief Executive Officer or new Chief Customer Officer may reasonably request; and (iii) until September 30, 2025 (the expected termination date of his service relationship) or an earlier Prior Termination Date, Mr. Dollentz-Scharer will be paid his current base salary (including a pro-rated 13th and 14th month salary, as are customarily paid in Austria, where Mr. Dollentz-Scharer is located), receive a payout for his short-term incentive award for the Company's fiscal year 2025 in accordance with the terms and conditions of such award, and continue to vest in his outstanding equity awards in accordance with the terms and conditions of such awards. The Transition and Termination Agreement includes Mr. Dollentz-Scharer's confirmation of a non-competition provision for a 12 month period after termination of employment included in his current Employment Contract (as defined in the Transition and Termination Agreement) and includes other standard provisions contained in agreements of this nature, including confidentiality, non-disparagement, cooperation, and an agreement related to future claims, with such qualifications and exceptions as set forth in the Transition and Termination Agreement.The foregoing summary does not purport to be complete and is qualified in its entirety by the Transition and Termination Agreement, a copy of which is attached hereto as Exhibit 10.1 and is incorporated herein by reference.
+
+Item 7.01. Regulation FD Disclosure.
+
+On April 22, 2025, the Company issued a press release announcing the appointment of Steve McMahon as its new Chief Customer Officer, effective on May 12, 2025. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is hereby incorporated herein by reference.
+
+The information set forth in this Item 7.01 and in the press release attached hereto as Exhibit 99.1 is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+
+Item 9.01. Financial Statements and Exhibits. 
+
+(d) Exhibits 
+
+Exhibit
+
+No. Description
+
+10.1 
+
+Transition and Termination Agreement between Matthias Dollentz-Scharer and Dynatrace Austria GmbH dated April 21, 2025
+
+99.1 
+
+Press Release issued by Dynatrace, Inc. dated April 22, 2025
+
+104 Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: April 22, 2025 DYNATRACE, INC. 
+
+By: /s/ Nicole Fitzpatrick 
+
+Name: Nicole Fitzpatrick 
+
+Title: Executive Vice President, Chief Legal Officer & Secretary
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>exhibit101-transitionandte.htm
+<DESCRIPTION>EX-10.1
+<TEXT>
+Document
+
+EXHIBIT 10.1
+
+Dynatrace Austria GmbH 
+
+Am Fnfundzwanziger Turm 20
+
+4020 Linz, Austria
+
++43 732 908 208 
+
+austria@dynatrace.com, www.dynatrace.com
+
+TRANSITION AND TERMINATION AGREEMENT 
+
+by and between
+
+Dynatrace Austria GmbH
+
+Am Fnfundzwanziger Turm 20
+
+4020 Linz, Austria
+
+(the "Employer")
+
+and
+
+Mag. Matthias Dollentz-Scharer
+
+[********]
+
+[********], Austria
+
+(the "Employee")
+
+The Employer and the Employee are collectively referred to as the "Parties"
+
+and individually as a "Party"
+
+- 2 -
+
+I.Preamble
+
+The Employee has informed the Employer of his wish to terminate his employment relationship. To provide a seamless transition, the Parties have agreed to mutually terminate the employment relationship through this Transition and Termination Agreement (this "Agreement"). 
+
+1Termination of Employment
+
+1.1 The Employer and the Employee hereby agree to mutually terminate the existing employment relationship with effect as of 30 September 2025 (the "Termination Date"), subject to the provisions of this Agreement. 
+
+1.2 For the avoidance of doubt, the Employer's right to terminate the employment relationship with immediate effect for good cause remains unaffected by this Agreement. Further, the Employee may terminate the employment relationship prior to the Termination Date observing the contractual notice period of three months with effect as of the last day of each calendar month (in either case, such earlier actual date, the "Prior Termination Date"). 
+
+2Transition Period
+
+2.1Following the execution of this Agreement, the Employee's departure will be announced externally as required by Dynatrace, Inc. (the ultimate parent company of the Employer) and internally within the Dynatrace group of companies (collectively, Dynatrace) by a communication sent out by Dynatrace after consultation with the Employee on the date and wording of this communication. The Parties currently plan for such announcement and communication to occur on or prior to 12 May 2025.
+
+2.2The Employee will continue in his role as Executive Vice President, Chief Customer Officer ("CCO") until 12 May 2025 (the "Transition Date") or an earlier Prior Termination Date. If a new CCO is hired and commences their employment with Dynatrace prior to the Transition Date, the Employee will continue in his role as CCO until the new CCO commences employment (the "Earlier Transition Date"). 
+
+2.3 For the period between the Transition Date or the Earlier Transition Date through 30 June 2025, or an earlier Prior Termination Date, the Employee will act in an Executive Advisor capacity for the Employer. In this capacity, the Employee shall serve in such capacity and provide such transition assistance as Dynatraces Chief Executive Officer or the New CCO may reasonably request. The Employee will cease to be an officer of Dynatrace, Inc. and a director of one of its subsidiaries no later than 30 June 2025 or an earlier Prior Termination Date.
+
+- 3 -
+
+3Holiday
+
+3.1 The Employee will consume his unused vacation days during the period from 1 July 2025 to the Termination Date or an earlier Prior Termination Date. Any open holiday entitlement left after the consumption of these vacation days (if any) will be settled with the final account.
+
+3.2 If the employment agreement ends prior to the commencement of the holiday, according to item 3.1 any open holiday entitlements (if any) will be settled with the final account.
+
+4Compensation
+
+4.1The Employee shall receive his current monthly remuneration until the Termination Date or an earlier Prior Termination Date, including a pro-rated 13th and 14th month salary based on the number of calendar days of his completed employment service.
+
+4.2The Employer shall reimburse Employee for any outstanding, reasonable business expenses that Employee has incurred up to the Termination Date or earlier Prior Termination Date in accordance with Dynatraces Global Travel and Expense Policy.
+
+4.3The Employee shall receive a payout for his short-term incentive award for Dynatraces fiscal year 2025 (i.e., 1 April 2024 31 March 2025) in accordance with Item IV.3 of the Employment Contract between the Employee and the Employer dated 19 September 2019 (the "Employment Contract") and subject to the applicable terms and conditions of such award. The Employee and Employer expressly agree that the Employee is not entitled to any incentive compensation, short-term or long-term, for Dynatraces fiscal year 2026 (i.e., 1 April 2025 31 March 2026).
+
+4.4Upon payment of these amounts, (a) any and all premium or bonus entitlements of the Employee, especially all entitlements in connection with incentive compensation, as well as any other remuneration payments, shall be fully compensated; and (b) the Employee shall have no claim whatsoever against the Employer or any of its affiliated companies related to further payments.
+
+4.5It is explicitly stated that the employment relationship is subject to the "new severance payment system" in accordance with the Company Employee and Self-Employed Pension Act (BMSVG). With this, the Employer shall not be obliged to any statutory severance payment vis--vis the Employee as a result of the termination of employment.
+
+- 4 -
+
+5Equity Awards
+
+5.1Up to the Termination Date or an earlier Prior Termination Date, the Employee will continue to vest in his outstanding equity awards in accordance with the terms and conditions of the applicable Dynatrace equity incentive plan(s) and the applicable award agreement(s) (collectively, the "Equity Documents"). For the avoidance of doubt, the Parties expressly agree that no additional rights will arise or vest after the Termination Date or an earlier Prior Termination Date. 
+
+6Post-contractual obligations
+
+6.1The Employee confirms that he is obliged to comply with the following post-contractual non-competition and non-enticement clauses as set out in Item IX, Sections 1 and 2 of the Employment Contract:
+
+The Employee is obliged not to engage in any dependent or self-employed activity during his employment as well as the following 12 months after termination of employment in the branch of business of the Employer without his written consent. The Employee is also obliged not to participate, directly or indirectly, in a business engaged in the business of the Employer. This shall not apply to Employee's ownership of not more than 5 % of the outstanding stock of a public company.
+
+Furthermore, the Employee is obliged not to contact or hire customers or employees of the Employer for the purpose of initiating business during his employment as well as the following 12 months after termination of employment. In particular, the Employee is prohibited from employing or engaging employees of the Employer in any form whatsoever.
+
+6.2The Employee shall not in any way discredit in public, through the media, particularly social media, or otherwise, the Employer or any of the Employer's or affiliated companies' present or former staff, present or former management, present or former directors, present, former, or prospective customers or suppliers or any of their business dealings in a way that could be expected to have a negative impact on the businesses of the Employer or its affiliated companies.
+
+6.3During and after the Employees employment, the Employee shall cooperate fully with the Employer and its affiliated companies in (a) the defense or prosecution of any claims or actions now in existence or which may be brought in the future against or on behalf of the Employer or any of its affiliated companies which relate to events or occurrences that transpired while the Employee was employed by the Employer; and (b) the investigation, whether internal or external, of any matters about which the Employer believes the Employee may have knowledge or information. The Employees full cooperation in connection with such claims, actions or investigations shall include, but not be limited to, being available to meet with counsel to answer questions or to prepare for discovery or trial and to act as a witness on behalf of the Employer or any of its affiliated companies at mutually convenient times. During and after the Employees employment, the Employee also shall cooperate fully with the Employer and any of its affiliated 
+
+- 5 -
+
+companies in connection with any investigation or review of any federal, state or local regulatory authority as any such investigation or review relates to events or occurrences that transpired while the Employee was employed by the Employer. The Employer shall reimburse the Employee for any reasonable out-of-pocket expenses incurred in connection with the Employees performance of obligations pursuant to this Item 6.3. The Employer agrees further that if the Employee is required to devote twenty (20) hours or more to fulfill the obligations set forth in this Item 6.3 after the Termination Date or an earlier Prior Termination Date (the Threshold Cooperation), it will compensate the Employee for time spent by the Employee at the request of the Employer beyond the Threshold Cooperation at an hourly rate derived from Employees base salary at the time of his Termination Date (or an earlier Prior Termination Date, as applicable), divided by 2,002, except that no such compensation shall be provided for time spent testifying, responding to a subpoena, or otherwise participating in any legal, regulatory or administrative proceeding. Nothing in this Item 6.3 shall be construed to limit the Employees legal obligations or rights in any such proceeding. 
+
+6.4Nothing in this Agreement or otherwise limits the Employees (a) obligation to testify truthfully in any legal proceeding; (b) right to file a charge or complaint with any federal agency or any local governmental agency or commission (together, a Government Agency); or (c) ability to communicate with any Government Agency or otherwise participate in any investigation or proceeding that may be conducted by any Government Agency. If the Employee files any charge or complaint with any Government Agency and if the Government Agency pursues any claim on the Employees behalf, or if any other third party pursues any claim on the Employees behalf, the Employee waives any right to monetary or other individualized relief (either individually or as part of any collective or class action); provided that nothing in this Agreement limits any right the Employee may have to receive a whistleblower award or bounty for information provided to the U.S. Securities and Exchange Commission.
+
+6.5The Parties expressly agree that (a) in case of a violation of the post-contractual obligations under this Item 6, the Employer has the right to assert legal claims arising from such violation (e.g., inter alia actual damages or injunctive relief); (b) the contractual penalty agreed in Item IX, Section 3 of the Employment Contract is revoked (i.e., no contractual penalty may be claimed in case of a violation of post-contractual obligations); and (c) the Employee is not entitled to any payments in order to comply with the post-contractual obligations under this Item 6.
+
+7Return of Property
+
+7.1Unless otherwise agreed with the Employer, the Employee hereby agrees to return to the Employer, on or prior to the Termination Date or an earlier Prior Termination Date, any and all Dynatrace property, including, without limitation, his computer equipment, software, keys and access cards, credit cards, files and any documents (including computerized data and any copies made of any computerized data or software) containing information concerning Dynatrace, its 
+
+- 6 -
+
+business or its business relationships, without altering or deleting any Dynatrace customer, partner, or supplier information. Notwithstanding the foregoing, the Employee will be permitted to keep his Dynatrace-issued laptop and mobile phone so long as the Dynatrace IT team can effectively create a mirror image of each of the laptop and the mobile phone (without prior deletions or alterations) and then wipe all data off and remove it from Dynatraces information systems before transferring possession to the Employee. Further, Dynatrace will take reasonable steps to allow the Employee to retain his phone number on a personal phone contract. Consistent with Dynatraces Data Protection Policy and Employers data retention practices, Employees emails and folders will be archived.
+
+8Confidentiality
+
+8.1The Employee confirms his continuing confidentiality obligations as set forth in Item VIII of the Employment Contract after the Termination Date or an earlier Prior Termination Date. This obligation to confidentiality shall particularly include any and all knowledge acquired about any trade and business secrets as well as any further information in connection with any matters of interest for the Employer and its affiliated companies. 
+
+8.2The Employee further agrees to maintain confidentiality with respect to the content of this Termination Agreement. 
+
+9Miscellaneous
+
+9.1Upon the fulfillment of the rights and obligations arising out of this Agreement, any and all claims of the Employee towards the Employer, any of the Employer's affiliated companies or present or former staff, management and directors of the Employer or any of the Employer's affiliated companies arising from the Employees employment relationship shall be deemed settled and compensated. Notwithstanding the foregoing, the previous sentence does not affect the Employees rights, if any, to indemnification by the Employer or Dynatrace, Inc. pursuant to their respective organizational documents or, if applicable, the Indemnification Agreement entered into by and between the Employee and Dynatrace, Inc., or coverage, if any, under applicable directors and officers insurance policies maintained by Dynatrace, Inc.
+
+9.2The Employer has not made any representations to the Employee concerning any possible tax consequences of any payments made pursuant to this Agreement (i.e., no privileged taxation was promised to the Employee).
+
+9.3If any one or more provisions of this Agreement are or become void, this shall not have any effect on the validity of the remaining provisions. The Parties shall be obliged to replace the void provision with one that reflects the economic purpose of the void provision the closest. The same shall apply for any gaps or omissions.
+
+- 7 -
+
+9.4For the sake of clarity, the Parties expressly stipulate that the regulations set out in Item XI of the Employment Contract do not apply since the Employee wishes to terminate his employment relationship without cause and the Employee is not entitled to assert any rights in this regard.
+
+9.5No waiver of any provision of this Agreement shall be effective unless made in writing and signed by the waiving Party. The failure of the Employer to require the performance of any term or obligation of this Agreement, or the waiver by the Employer of any breach of this Agreement shall not prevent any subsequent enforcement of such term or obligation or be deemed a waiver of any subsequent breach. This Agreement may not be modified or amended except in a writing signed by both the Employee and a duly authorized individual of the Employer.
+
+9.6This Agreement shall be construed under and be governed in all respects by the laws of Austria. 
+
+9.7Neither the Employee nor the Employer may make any assignment of this Agreement or any interest in it, by operation of law or otherwise, without the prior written consent of the other; provided, however, that the Employer may assign its rights and obligations under this Agreement without the Employees consent to any affiliate or to any person or entity with whom the Employer shall hereafter effect a reorganization or consolidation, into which the Employer merges or to whom it transfers all or substantially all of its properties or assets. This Agreement shall inure to the benefit of and be binding upon the Employee and the Employer, and each of the Employees and the Employers respective successors, executors, administrators, heirs and permitted assigns. In the event of the Employees death after the Employees termination of employment but prior to the completion by the Employer of all payments due to the Employee under this Agreement, the Employer shall continue such payments to the Employees beneficiary designated in writing to the Employer prior to the Employees death (or to the Employees estate, if the Employee fails to make such designation).
+
+9.8For the avoidance of doubt, delivery of a signed version of this Agreement by electronic mail in portable document format (.pdf) or by any other electronic means intended to preserve the original graphic and pictorial appearance of a document as well as a simple electronic signature, has the same effect as a wet signature of this Agreement (i.e., this Agreement may be validly concluded by such means).
+
+Linz, Austria, 21 April 2025
+
+/s/ Veronika Leibetseder/s/ Matthias Dollentz-Scharer
+
+Veronika Leibetseder Mag. Matthias Dollentz-Scharer
+
+for Dynatrace Austria GmbH
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>exhibit991-pressreleasedat.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+EXHIBIT 99.1
+
+DYNATRACE ANNOUNCES CHIEF CUSTOMER OFFICER TRANSITION 
+
+Steve McMahon named next Chief Customer Officer, transitioning from Matthias Dollentz-Scharer
+
+WALTHAM, Mass., April 22, 2025 -Dynatrace (NYSE: DT), the leading AI-powered observability platform, today announced that Steve McMahon will join Dynatrace as its new Chief Customer Officer effective May 12, 2025. Matthias Dollentz-Scharer plans to retire from the role after over 10 years with the company and will stay on in an advisory capacity through September 30, 2025.
+
+Dynatrace is redefining observability for the worlds largest and most innovative organizations, and Steves appointment as Chief Customer Officer of Dynatrace will help us continue our deep commitment to delivering significant customer value, adoption, and success, said Rick McConnell, Chief Executive Officer of Dynatrace. He brings more than 25 years of expertise in developing programs to drive exceptional customer experience and productivity.
+
+McMahon is currently Chief Customer Success Officer at Zscaler, where he leads a team of technical support and professional services experts, account managers, architects, and engineers focused on customer adoption, deployment, and utilization of the full portfolio. Prior to Zscaler, McMahon ran Customer Success, Operations and served as Chief Information Officer at CrowdStrike. He also held various leadership positions at Splunk, including Chief Information Officer. Before joining Splunk, McMahon spent nearly 15 years at Cisco primarily leading customer-focused teams. He also served in the United States Navy and received a Bachelor of Arts in Economics from Yale University. 
+
+Im excited to join Dynatrace, a company that drives exceptional customer value through its industry-leading observability platform, said McMahon. Todays digital businesses are flooded with data and growing complexity. Dynatrace delivers the insights and visibility required to optimize and scale so customers can realize the greatest possible ROI from their technology investments. Building upon the strong customer success foundation that is already in place, I am excited to play a key role in driving Dynatraces long-term growth ambitions.
+
+On behalf of the Dynatrace team, I want to express our deepest gratitude to Matthias for his countless and long-lasting contributions to our success over the last decade, continued McConnell. His thoughtful leadership and dedication have been instrumental in building a world-class customer success organization, positioning Dynatrace well for the future.
+
+About Dynatrace
+
+Dynatrace is advancing observability for todays digital businesses, helping to transform the complexity of modern digital ecosystems into powerful business assets. By leveraging AI-powered insights, Dynatrace enables organizations to analyze, automate, and innovate faster to drive their business forward. To learn more about how Dynatrace can help your business, visit www.dynatrace.com, visit our blog and follow us on LinkedIn and X @dynatrace.
+
+1
+
+Cautionary Language Concerning Forward-Looking Statements 
+
+This press release includes certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including statements regarding the executive transition and expected benefits to Dynatrace from Steve McMahons appointment and his related experience. These forward-looking statements include all statements that are not historical facts and statements identified by words such as will, expects, anticipates, intends, plans, believes, seeks, estimates, and words of similar meaning. These forward-looking statements reflect our current views about our plans, intentions, expectations, strategies, and prospects, which are based on the information currently available to us and on assumptions we have made. Although we believe that our plans, intentions, expectations, strategies, and prospects as reflected in or suggested by those forward-looking statements are reasonable, we can give no assurance that the plans, intentions, expectations, or strategies will be attained or achieved. Actual results may differ materially from those described in the forward-looking statements and will be affected by a variety of risks and factors that are beyond our control, including the risks set forth under the caption Risk Factors in our Annual Report on Form 10-K, subsequent Quarterly Reports on Form 10-Q, and our other SEC filings. We assume no obligation to update any forward-looking statements contained in this document as a result of new information, future events, or otherwise.
+
+Contacts 
+
+Investors:
+
+Noelle Faris
+
+VP, Investor Relations
+
+Noelle.Faris@dynatrace.com
+
+Media Relations:
+
+Dynatrace PR Team
+
+pr-team@dynatrace.com
+
+2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>4
+<FILENAME>dt-20250421.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Document and Entity Information Document 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>5
+<FILENAME>dt-20250421_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>6
+<FILENAME>dt-20250421_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Class of Stock [Domain] 
+Class of Stock [Domain] 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entities [Table] 
+Entities [Table] 
+
+Entity Listings, Exchange [Axis] 
+Entity Listings, Exchange [Axis] 
+
+Class of Stock [Axis] 
+Class of Stock [Axis] 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Cover [Abstract] 
+Cover [Abstract] 
+
+City Area Code 
+City Area Code 
+
+Entity Information, Former Legal or Registered Name 
+Entity Information, Former Legal or Registered Name 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Amendment Flag 
+Amendment Flag 
+
+Address Type [Domain] 
+Address Type [Domain] 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Exchange [Domain] 
+Exchange [Domain] 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Document Period End Date 
+Document Period End Date 
+
+Entity Information [Line Items] 
+Entity Information [Line Items] 
+
+Document Type 
+Document Type 
+
+Entity Addresses, Address Type [Axis] 
+Entity Addresses, Address Type [Axis]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>7
+<FILENAME>dt-20250421_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>dynatracelogo-agreement.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>image_0a.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Document and Entity Information Document
+
+Apr. 21, 2025
+
+Entity Information [Line Items] 
+
+Document Type 8-K
+
+Entity Registrant Name DYNATRACE, INC.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-39010
+
+Entity Address, Address Line One 1601 Trapelo Road, Suite 116
+
+Entity Address, State or Province MA
+
+Entity Address, Postal Zip Code 02451
+
+City Area Code 781
+
+Local Phone Number 530-1000
+
+Entity Information, Former Legal or Registered Name Not Applicable
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, par value $0.001 per share
+
+Trading Symbol DT
+
+Security Exchange Name NYSE
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0001773383
+
+Amendment Flag false
+
+Entity Tax Identification Number 47-2386428
+
+Entity Address, City or Town Waltham,
+
+Document Period End Date Apr. 21, 2025
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Former Legal or Registered Name of an entity+ References
+
+No definition available.+ Details
+
+Name: dei_EntityInformationFormerLegalOrRegisteredName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityInformationLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>12
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+1 
+23 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Document and Entity Information Document 
+Sheet 
+http://dynatrace.com/role/DocumentandEntityInformationDocument 
+Document and Entity Information Document 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+dt-20250421.htm 
+dt-20250421.xsd 
+dt-20250421_def.xml 
+dt-20250421_lab.xml 
+dt-20250421_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>18
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>19
+<FILENAME>0001773383-25-000042-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>20
+<FILENAME>dt-20250421_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001773383 
+
+2025-04-21 
+2025-04-21 
+
+0001773383 
+false 
+8-K 
+2025-04-21 
+DYNATRACE, INC. 
+DE 
+001-39010 
+47-2386428 
+1601 Trapelo Road, Suite 116 
+Waltham, 
+MA 
+02451 
+781 
+530-1000 
+Not Applicable 
+false 
+false 
+false 
+false 
+Common Stock, par value $0.001 per share 
+DT 
+NYSE 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

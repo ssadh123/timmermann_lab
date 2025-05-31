@@ -1,0 +1,4458 @@
+<SEC-DOCUMENT>0000072971-25-000101.txt : 20250411
+<SEC-HEADER>0000072971-25-000101.hdr.sgml : 20250411
+<ACCEPTANCE-DATETIME>20250411064502
+ACCESSION NUMBER:		0000072971-25-000101
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		40
+CONFORMED PERIOD OF REPORT:	20250411
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250411
+DATE AS OF CHANGE:		20250411
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WELLS FARGO & COMPANY/MN
+		CENTRAL INDEX KEY:			0000072971
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				410449260
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02979
+		FILM NUMBER:		25829812
+
+	BUSINESS ADDRESS:	
+		STREET 1:		333 MARKET STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+		BUSINESS PHONE:		8008693557
+
+	MAIL ADDRESS:	
+		STREET 1:		333 MARKET STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WELLS FARGO & CO/MN
+		DATE OF NAME CHANGE:	19981103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NORWEST CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NORTHWEST BANCORPORATION
+		DATE OF NAME CHANGE:	19830516
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>wfc-20250411.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?wfc-20250411
+
+WELLS FARGO & COMPANY/MN0000072971falseNYSE00000729712025-04-112025-04-110000072971us-gaap:CommonStockMember2025-04-112025-04-110000072971wfc:A7.5NonCumulativePerpetualConvertibleClassAPreferredStockSeriesLMember2025-04-112025-04-110000072971wfc:NonCumulativePerpetualClassAPreferredStockSeriesYMember2025-04-112025-04-110000072971wfc:NonCumulativePerpetualClassAPreferredStockSeriesZMember2025-04-112025-04-110000072971wfc:NonCumulativePerpetualClassAPreferredStockSeriesAAMember2025-04-112025-04-110000072971wfc:NonCumulativePerpetualClassAPreferredStockSeriesCCMember2025-04-112025-04-110000072971wfc:NonCumulativePerpetualClassAPreferredStockSeriesDDMember2025-04-112025-04-110000072971wfc:GuaranteeofMediumTermNotesSeriesAdueOctober302028ofWellsFargoFinanceLLCMember2025-04-112025-04-11
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (date of earliest event reported): April 11, 2025
+
+WELLS FARGO & COMPANY 
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-02979 No. 41-0449260
+
+(State or Other Jurisdiction
+
+of Incorporation) (Commission File
+
+Number) (IRS Employer
+
+Identification No.)
+
+420 Montgomery Street, San Francisco, California94104
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant's telephone number, including area code: 1-415-371-2921
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class 
+
+Trading Symbol 
+
+Name of Each Exchange 
+
+on Which Registered
+
+Common Stock, par value $1-2/3 
+
+WFC 
+
+New York Stock
+
+Exchange 
+
+(NYSE)
+
+7.5% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L 
+
+WFC.PRL 
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y 
+
+WFC.PRY 
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z 
+
+WFC.PRZ 
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA 
+
+WFC.PRA 
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series CC 
+
+WFC.PRC 
+
+NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD 
+
+WFC.PRD 
+
+NYSE
+
+Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC 
+
+WFC/28A 
+
+NYSE
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act (17 CFR 230.405) or Rule 12b-2 of the Exchange Act (17 CFR 240.12b2).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On April 11, 2025, Wells Fargo & Company (the Company) issued a news release regarding its results of operations and financial condition for the quarter ended March 31, 2025, and posted on its website its 1Q25 Quarterly Supplement, which contains certain additional information about the Companys financial results for the quarter ended March 31, 2025. The news release is included as Exhibit 99.1 and the 1Q25 Quarterly Supplement is included as Exhibit 99.2 to this report, and each is incorporated by reference into this Item 2.02. The information included in Exhibit 99.1 and Exhibit 99.2 is considered to be filed for purposes of Section 18 under the Securities Exchange Act of 1934.
+
+Item 7.01 Regulation FD Disclosure.
+
+On April 11, 2025, the Company intends to host a live conference call that will also be available by webcast to discuss the Companys first quarter 2025 financial results and other matters relating to the Company. In connection therewith, the Company has posted on its website presentation materials containing certain historical and forward-looking information relating to the Company. The presentation materials are included as Exhibit 99.3 to this report and are incorporated by reference into this Item 7.01. Exhibit 99.3 shall not be considered filed for purposes of Section 18 under the Securities Exchange Act of 1934 and shall not be deemed to be incorporated by reference into the filings of the Company under the Securities Act of 1933.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No. Description Location
+
+99.1 
+
+News Release dated April 11, 2025 Filed herewith
+
+99.2 
+
+1Q25 Quarterly Supplement Filed herewith
+
+99.3 
+
+Presentation Materials 1Q25 Financial Results Furnished herewith
+
+104 Cover Page Interactive Data File 
+
+Embedded within the Inline XBRL document
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: April 11, 2025 WELLS FARGO & COMPANY
+
+By: /s/ MUNEERA S. CARR
+
+Muneera S. Carr
+
+Executive Vice President,
+
+Chief Accounting Officer and Controller
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>wfc1qer04-11x25ex991xrelea.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+Document
+
+Exhibit 99.1 
+
+News Release | April 11, 2025
+
+Wells Fargo Reports First Quarter 2025 Net Income of $4.9 billion, or $1.39 per Diluted Share 
+
+Company-wide Financial Summary 
+
+Quarter ended 
+
+Mar 31,
+
+2025 Mar 31,
+
+2024 
+
+Selected Income Statement Data
+
+($ in millions except per share amounts) 
+
+Total revenue $ 20,149 20,863 
+
+Noninterest expense 13,891 14,338 
+
+Provision for credit losses1 932 938 
+
+Net income 4,894 4,619 
+
+Diluted earnings per common share 1.39 1.20 
+
+Selected Balance Sheet Data
+
+($ in billions) 
+
+Average loans $ 908.2 928.1 
+
+Average deposits 1,339.3 1,341.6 
+
+CET12 11.1 % 11.2 
+
+Performance Metrics 
+
+ROE3 11.5 % 10.5 
+
+ROTCE4 13.6 12.3 
+
+Operating Segments and Other Highlights
+
+Quarter ended Mar 31, 2025 
+
+% Change from
+
+($ in billions) Mar 31,
+
+2025 Dec 31,
+
+2024 Mar 31,
+
+2024
+
+Average loans 
+
+Consumer Banking and Lending $ 318.1 (1) % (4) 
+
+Commercial Banking 223.8 1 
+
+Corporate and Investment Banking 277.3 1 (2) 
+
+Wealth and Investment Management 84.3 1 2 
+
+Average deposits 
+
+Consumer Banking and Lending 778.6 1 1 
+
+Commercial Banking 182.9 (1) 11 
+
+Corporate and Investment Banking 203.9 (1) 11 
+
+Wealth and Investment Management 123.4 4 22 
+
+Capital
+
+Repurchased 44.5 million shares, or $3.5 billion, of common stock in first quarter 2025
+
+First quarter 2025 results included:
+
+$313 million, or $0.09 per share, of discrete tax benefits related to the resolution of prior period matters
+
+$263 million, or $0.06 per share, gain on the previously announced sale of the non-agency third-party servicing segment of our commercial mortgage servicing business
+
+$(149) million, or $(0.03) per share, of losses on debt securities related to a repositioning of the investment portfolio
+
+Chief Executive Officer Charlie Scharf commented, We produced solid results with diluted earnings per share increasing 16% from a year ago reflecting fee-based revenue growth across many of our core businesses, continued expense discipline, improved credit results, and an 8% reduction in diluted common shares as we continued to return capital to shareholders. I am excited about the momentum we are building across our businesses as we work to build one of the most respected financial institutions in the country.
+
+This quarter was an important proof point regarding our prior comments about our confidence in our progress on our risk and control work. Five consent orders were closed this past quarter and eleven have been closed since 2019. These recent closures reflect that we have completed much of the common risk and control infrastructure work across the company that is required by other orders. Im incredibly proud of the work done by our teams and remain confident that we will complete the work needed to close our other open consent orders, Scharf added. 
+
+We support the administrations willingness to look at barriers to fair trade for the United States, though there are certainly risks associated with such significant actions. Timely resolution which benefits the U.S. would be good for businesses, consumers, and the markets. We expect continued volatility and uncertainty and are prepared for a slower economic environment in 2025, but the actual outcome will be dependent on the results and timing of the policy changes. We and our customers come into the current environment from a position of strength that should serve us well. We are prepared for a variety of outcomes, our focus is unwavering, and we will continue transforming Wells Fargo by investing to build a well-controlled, faster-growing and a higher-returning company while we work to better serve our customers and become more efficient, Scharf concluded.
+
+Endnotes are presented on page 9. 
+
+Financial results reported in this document are preliminary. Final financial results and other disclosures will be reported in our Quarterly Report on Form 10-Q for the quarter ended March 31, 2025, and may differ materially from the results and disclosures in this document due to, among other things, the completion of final review procedures, the occurrence of subsequent events, or the discovery of additional information.
+
+Selected Company-wide Financial Information
+
+Quarter ended Mar 31, 2025 
+
+% Change from 
+
+Mar 31,
+
+2025 Dec 31,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+Earnings ($ in millions except per share amounts) 
+
+Net interest income $ 11,495 11,836 12,227 (3) % (6) 
+
+Noninterest income 8,654 8,542 8,636 1 
+
+Total revenue 20,149 20,378 20,863 (1) (3) 
+
+Net charge-offs 1,009 1,188 1,157 (15) (13) 
+
+Change in the allowance for credit losses (77) (93) (219) 17 65 
+
+Provision for credit losses1 932 1,095 938 (15) (1) 
+
+Noninterest expense 13,891 13,900 14,338 (3) 
+
+Income tax expense 522 120 964 335 (46) 
+
+Wells Fargo net income $ 4,894 5,079 4,619 (4) 6 
+
+Diluted earnings per common share 1.39 1.43 1.20 (3) 16 
+
+Balance Sheet Data (average) ($ in billions) 
+
+Loans $ 908.2 906.4 928.1 (2) 
+
+Deposits 1,339.3 1,353.8 1,341.6 (1) 
+
+Assets 1,919.7 1,918.5 1,917.0 
+
+Financial Ratios 
+
+Return on assets (ROA) 1.03 % 1.05 0.97 
+
+Return on equity (ROE) 11.5 11.7 10.5 
+
+Return on average tangible common equity (ROTCE)2 13.6 13.9 12.3 
+
+Efficiency ratio3 69 68 69 
+
+Net interest margin on a taxable-equivalent basis 2.67 2.70 2.81 
+
+NM Not meaningful
+
+First Quarter 2025 vs. First Quarter 2024
+
+Net interest income decreased 6%, driven by the impact of lower interest rates on floating rate assets, deposit mix and pricing changes, lower loan balances, and one fewer day in the quarter, partially offset by lower market funding
+
+Noninterest income was stable and included a gain on the sale of our commercial non-agency third-party servicing business, an increase in asset-based fees in Wealth and Investment Management on higher market valuations, and higher investment banking fees, partially offset by lower results from our venture capital investments, higher net losses on debt securities related to a repositioning of the investment portfolio, and lower net gains from trading in our Markets business
+
+Noninterest expense decreased3%, driven by lower operating losses, lower Federal Deposit Insurance Corporation (FDIC) assessments, as first quarter 2024 included a $284 million FDIC special assessment, as well as the impact of efficiency initiatives. These decreases were partially offset by higher revenue-related compensation expense predominantly in Wealth and Investment Management and higher technology and equipment expense
+
+Provision for credit losses in first quarter 2025 included a decrease in the allowance for credit losses, reflecting a lower allowance for commercial real estate loans on lower loan balances, partially offset by a higher allowance for commercial and industrial loans
+
+Income tax expense in first quarter 2025 included $313 million of discrete tax benefits related to the resolution of
+
+prior period matters
+
+Endnotes are presented on page 9. 
+
+2 
+
+Selected Company-wide Capital and Liquidity Information
+
+Quarter ended
+
+($ in billions) Mar 31,
+
+2025 Dec 31,
+
+2024 Mar 31,
+
+2024
+
+Capital: 
+
+Total equity $ 182.9 181.1 182.7 
+
+Common stockholders equity 162.6 160.7 162.5 
+
+Tangible common equity1 137.8 135.6 137.2 
+
+Common Equity Tier 1 (CET1) ratio2 11.1 % 11.1 11.2 
+
+Total loss absorbing capacity (TLAC) ratio3 25.1 24.8 25.1 
+
+Supplementary Leverage Ratio (SLR)4 6.8 6.7 6.9 
+
+Liquidity: 
+
+Liquidity Coverage Ratio (LCR)5 125 % 125 126 
+
+Selected Company-wide Loan Credit Information
+
+Quarter ended
+
+($ in millions) Mar 31,
+
+2025 Dec 31,
+
+2024 Mar 31,
+
+2024
+
+Net loan charge-offs $ 1,009 1,211 1,149 
+
+Net loan charge-offs as a % of average total loans (annualized) 0.45 % 0.53 0.50 
+
+Total nonaccrual loans $ 7,978 7,730 8,075 
+
+As a % of total loans 0.87 % 0.85 0.88 
+
+Total nonperforming assets $ 8,225 7,936 8,240 
+
+As a % of total loans 0.90 % 0.87 0.89 
+
+Allowance for credit losses for loans $ 14,552 14,636 14,862 
+
+As a % of total loans 1.59 % 1.60 1.61 
+
+First Quarter 2025 vs. Fourth Quarter 2024
+
+Commercial net loan charge-offs as a percentage of average loans were 0.16% (annualized), down from 0.30%, driven by lower commercial real estate net loan charge-offs, predominantly in the office portfolio. The consumer net loan charge-off rate increased slightly to 0.86% (annualized), up from 0.85%
+
+Nonperforming assets were up $289 million, or 4%, primarily driven by higher commercial and industrial nonaccrual loans
+
+Endnotes are presented on page 9. 
+
+3 
+
+Operating Segment Performance
+
+Consumer Banking and Lending offers diversified financial products and services for consumers and small businesses with annual sales generally up to $10 million. These financial products and services include checking and savings accounts, credit and debit cards, as well as home, auto, personal, and small business lending.
+
+Selected Financial Information 
+
+Quarter ended Mar 31, 2025 
+
+% Change from
+
+Mar 31,
+
+2025 Dec 31,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024
+
+Earnings (in millions) 
+
+Consumer, Small and Business Banking $ 5,981 6,067 6,092 (1) % (2) 
+
+Consumer Lending: 
+
+Home Lending 866 854 864 1 
+
+Credit Card 1,524 1,489 1,496 2 2 
+
+Auto 237 263 300 (10) (21) 
+
+Personal Lending 305 307 339 (1) (10) 
+
+Total revenue 8,913 8,980 9,091 (1) (2) 
+
+Provision for credit losses 739 911 788 (19) (6) 
+
+Noninterest expense 5,928 5,925 6,024 (2) 
+
+Net income $ 1,689 1,602 1,706 5 (1) 
+
+Average balances (in billions) 
+
+Loans $ 318.1 321.4 329.7 (1) (4) 
+
+Deposits 778.6 773.6 773.2 1 1 
+
+First Quarter 2025 vs. First Quarter 2024
+
+Revenue decreased 2%
+
+Consumer, Small and Business Banking was down 2% driven by higher deposit costs, reflecting the impact of customer migration to higher yielding deposit products, partially offset by higher deposit balances
+
+Home Lending was stable and included higher mortgage banking fees and lower net interest income on lower loan balances
+
+Credit Card was up 2% driven by higher loan balances, partially offset by lower card fees
+
+Auto was down 21% due to lower loan balances and loan spread compression
+
+Personal Lending was down 10% driven by lower loan balances
+
+Noninterest expense decreased 2% driven by lower operating losses and the impact of efficiency initiatives, partially offset by higher branch personnel and occupancy expense, reflecting investments in our branch network
+
+4
+
+Commercial Banking provides financial solutions to private, family owned and certain public companies. Products and services include banking and credit products across multiple industry sectors and municipalities, secured lending and lease products, and treasury management.
+
+Selected Financial Information 
+
+Quarter ended Mar 31, 2025 
+
+% Change from
+
+Mar 31,
+
+2025 Dec 31,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024
+
+Earnings (in millions) 
+
+Net interest income $ 1,977 2,248 2,278 (12) % (13) 
+
+Noninterest income 948 923 874 3 8 
+
+Total revenue 2,925 3,171 3,152 (8) (7) 
+
+Provision for credit losses 187 33 143 467 31 
+
+Noninterest expense 1,670 1,525 1,679 10 (1) 
+
+Net income $ 794 1,203 986 (34) (19) 
+
+Average balances (in billions) 
+
+Loans $ 223.8 221.8 223.9 1 
+
+Deposits 182.9 184.3 164.0 (1) 11 
+
+First Quarter 2025 vs. First Quarter 2024
+
+Revenue decreased 7%
+
+Net interest income was down 13% due to the impact of lower interest rates, partially offset by lower deposit pricing and higher deposit balances
+
+Noninterest income was up 8% driven by higher treasury management fees, higher revenue from tax credit investments, and an increase in investment banking fees, partially offset by lower lease income and lower results from equity investments
+
+Noninterest expense decreased 1% driven by lower personnel expense reflecting the impact of efficiency initiatives, partially offset by higher operating costs
+
+5
+
+Corporate and Investment Banking delivers a suite of capital markets, banking and financial products and services to corporate, commercial real estate, government and institutional clients globally. Products and services include corporate banking, investment banking, treasury management, commercial real estate lending and servicing, equity and fixed income solutions, as well as sales, trading, and research capabilities.
+
+Selected Financial Information
+
+Quarter ended Mar 31, 2025 
+
+% Change from
+
+Mar 31,
+
+2025 Dec 31,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024
+
+Earnings (in millions) 
+
+Banking: 
+
+Lending $ 618 691 681 (11) % (9) 
+
+Treasury Management and Payments 618 644 686 (4) (10) 
+
+Investment Banking 534 491 474 9 13 
+
+Total Banking 1,770 1,826 1,841 (3) (4) 
+
+Commercial Real Estate 1,449 1,274 1,223 14 18 
+
+Markets: 
+
+Fixed Income, Currencies, and Commodities (FICC) 1,382 1,179 1,359 17 2 
+
+Equities 448 385 450 16 
+
+Credit Adjustment (CVA/DVA/FVA) and Other (3) (71) 19 96 NM
+
+Total Markets 1,827 1,493 1,828 22 
+
+Other 18 20 90 (10) (80) 
+
+Total revenue 5,064 4,613 4,982 10 2 
+
+Provision for credit losses 205 5 (100) (100) 
+
+Noninterest expense 2,476 2,300 2,330 8 6 
+
+Net income $ 1,941 1,580 1,981 23 (2) 
+
+Average balances (in billions) 
+
+Loans $ 277.3 274.0 283.2 1 (2) 
+
+Deposits 203.9 205.1 183.3 (1) 11 
+
+NM Not meaningful
+
+First Quarter 2025 vs. First Quarter 2024
+
+Revenue increased 2%
+
+Banking was down 4% driven by the impact of lower interest rates, partially offset by lower deposit pricing and higher investment banking revenue on increased activity in debt capital markets
+
+Commercial Real Estate was up 18% due to a gain on the sale of our commercial non-agency third-party servicing business, as well as increased capital markets activity and higher revenue in our low-income housing business, partially offset by lower loan balances and the impact of lower interest rates
+
+Markets was stable and included higher revenue in commodities and foreign exchange and lower results in structured products and credit trading
+
+Noninterest expense increased 6% driven by higher operating costs and an increase in incentive compensation expense, partially offset by the impact of efficiency initiatives
+
+6
+
+Wealth and Investment Management provides personalized wealth management, brokerage, financial planning, lending, private banking, trust and fiduciary products and services to affluent, high-net worth and ultra-high-net worth clients. We operate through financial advisors in our brokerage and wealth offices, consumer bank branches, independent offices, and digitally through WellsTrade and Intuitive Investor.
+
+Selected Financial Information
+
+Quarter ended Mar 31, 2025 
+
+% Change from
+
+To be updated Mar 31,
+
+2025 Dec 31,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024
+
+Earnings (in millions) 
+
+Net interest income $ 826 856 869 (4) % (5) 
+
+Noninterest income 3,048 3,102 2,873 (2) 6 
+
+Total revenue 3,874 3,958 3,742 (2) 4 
+
+Provision for credit losses 11 (27) 3 141 267 
+
+Noninterest expense 3,360 3,307 3,230 2 4 
+
+Net income $ 392 508 381 (23) 3 
+
+Total client assets (in billions) 2,233 2,293 2,186 (3) 2 
+
+Average balances (in billions) 
+
+Loans $ 84.3 83.6 82.5 1 2 
+
+Deposits 123.4 118.3 101.5 4 22 
+
+First Quarter 2025 vs. First Quarter 2024
+
+Revenue increased 4%
+
+Net interest income was down 5% driven by higher deposit costs, partially offset by higher deposit and loan balances
+
+Noninterest income was up 6% on higher asset-based fees driven by an increase in market valuations
+
+Noninterest expense increased 4% due to higher revenue-related compensation expense, partially offset by the impact of efficiency initiatives
+
+7
+
+Corporate includes corporate treasury and enterprise functions, net of expense allocations, in support of the reportable operating segments (including funds transfer pricing, capital, and liquidity), as well as our investment portfolio and venture capital and private equity investments. Corporate also includes certain lines of business that management has determined are no longer consistent with the long-term strategic goals of the Company as well as results for previously divested businesses.
+
+Selected Financial Information
+
+Quarter ended Mar 31, 2025 
+
+% Change from
+
+Mar 31,
+
+2025 Dec 31,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024
+
+Earnings (in millions) 
+
+Net interest income $ 36 (264) 32 114 % 13 
+
+Noninterest income (213) 368 291 NM NM
+
+Total revenue (177) 104 323 NM NM
+
+Provision for credit losses (5) (27) (1) 81 NM
+
+Noninterest expense 457 843 1,075 (46) (57) 
+
+Net income (loss) $ 78 186 (435) (58) 118 
+
+NM Not meaningful
+
+First Quarter 2025 vs. First Quarter 2024
+
+Revenue decreased reflecting lower results from our venture capital investments and higher net losses on debt securities related to a repositioning of the investment portfolio
+
+Noninterest expense decreased reflecting lower FDIC assessments, as first quarter 2024 included a $284 million FDIC special assessment, and lower operating losses
+
+8
+
+Endnotes
+
+Page 1 Company-wide Financial Summary
+
+1.Includes provision for credit losses for loans, debt securities, and other financial assets.
+
+2.Represents our Common Equity Tier 1 (CET1) ratio calculated under the Standardized Approach, which is our binding CET1 ratio. See table on page 27 of the 1Q25 Quarterly Supplement for more information on CET1. CET1 for March 31, 2025, is a preliminary estimate.
+
+3.Return on equity (ROE) represents Wells Fargo net income applicable to common stock divided by average common stockholders equity.
+
+4.Tangible common equity and return on average tangible common equity (ROTCE) are non-GAAP financial measures. For additional information, including a corresponding reconciliation to GAAP financial measures, see the Tangible Common Equity tables on pages 25-26 of the 1Q25 Quarterly Supplement.
+
+Page 2 Selected Company-wide Financial Information
+
+1.Includes provision for credit losses for loans, debt securities, and other financial assets.
+
+2.Tangible common equity and return on average tangible common equity (ROTCE) are non-GAAP financial measures. For additional information, including a corresponding reconciliation to GAAP financial measures, see the Tangible Common Equity tables on pages 25-26 of the 1Q25 Quarterly Supplement.
+
+3.The efficiency ratio is noninterest expense divided by total revenue (net interest income and noninterest income).
+
+Page 3 Selected Company-wide Capital and Liquidity Information
+
+1.Tangible common equity is a non-GAAP financial measure. For additional information, including a corresponding reconciliation to GAAP financial measures, see the Tangible Common Equity tables on pages 25-26 of the 1Q25 Quarterly Supplement.
+
+2.Represents our CET1 ratio calculated under the Standardized Approach, which is our binding CET1 ratio. See table on page 27 of the 1Q25 Quarterly Supplement for more information on CET1. CET1 for March 31, 2025, is a preliminary estimate.
+
+3.Represents TLAC divided by risk-weighted assets (RWAs), which is our binding TLAC ratio, determined by using the greater of RWAs under the Standardized and Advanced Approaches. TLAC for March 31, 2025, is a preliminary estimate.
+
+4.SLR for March 31, 2025, is a preliminary estimate.
+
+5.Represents average high-quality liquid assets divided by average projected net cash outflows, as each is defined under the LCR rule. LCR for March 31, 2025, is a preliminary estimate.
+
+Conference Call
+
+The Company will host a live conference call on Friday, April 11, at 10:00 a.m. ET. You may listen to the call by dialing 1-888-673-9782 (U.S. and Canada) or 312-470-7126 (International/U.S. Toll) and enter passcode: 8320644#. The call will also be available online at https://www.wellsfargo.com/about/investor-relations/quarterly-earnings/ and
+
+https://metroconnections-events.com/wf1Qearnings25.
+
+A replay of the conference call will be available from approximately 1:00 p.m. ET on Friday, April 11 through
+
+Friday, April 25. Please dial 1-866-360-7722 (U.S. and Canada) or 203-369-0174 (International/U.S. Toll) and enter passcode: 6785#. The replay will also be available online at
+
+https://www.wellsfargo.com/about/investor-relations/quarterly-earnings/ and
+
+https://metroconnections-events.com/wf1Qearnings25.
+
+9
+
+Forward-Looking Statements 
+
+This document contains forward-looking statements. In addition, we may make forward-looking statements in our other documents filed or furnished with the Securities and Exchange Commission, and our management may make forward-looking statements orally to analysts, investors, representatives of the media and others. Forward-looking statements can be identified by words such as anticipates, intends, plans, seeks, believes, estimates, expects, target, projects, outlook, forecast, will, may, could, should, can and similar references to future periods. In particular, forward-looking statements include, but are not limited to, statements we make about: (i) the future operating or financial performance of the Company or any of its businesses, including our outlook for future growth; (ii) our expectations regarding noninterest expense and our efficiency ratio; (iii) future credit quality and performance, including our expectations regarding future loan losses, our allowance for credit losses, and the economic scenarios considered to develop the allowance; (iv) our expectations regarding net interest income and net interest margin; (v) loan growth or the reduction or mitigation of risk in our loan portfolios; (vi) future capital or liquidity levels, ratios or targets; (vii) the expected outcome and impact of legal, regulatory and legislative developments, as well as our expectations regarding compliance therewith; (viii) future common stock dividends, common share repurchases and other uses of capital; (ix) our targeted range for return on assets, return on equity, and return on tangible common equity; (x) expectations regarding our effective income tax rate; (xi) the outcome of contingencies, such as legal actions; (xii) environmental, social and governance related goals or commitments; and (xiii) the Companys plans, objectives and strategies.
+
+Forward-looking statements are not based on historical facts but instead represent our current expectations and assumptions regarding our business, the economy and other future conditions. Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks and changes in circumstances that are difficult to predict. Our actual results may differ materially from those contemplated by the forward-looking statements. We caution you, therefore, against relying on any of these forward-looking statements. They are neither statements of historical fact nor guarantees or assurances of future performance. While there is no assurance that any list of risks and uncertainties or risk factors is complete, important factors that could cause actual results to differ materially from those in the forward-looking statements include the following, without limitation: 
+
+current and future economic and market conditions, including the effects of declines in housing prices, high unemployment rates, declines in commercial real estate prices, U.S. fiscal debt, budget and tax matters, geopolitical matters, and any slowdown in global economic growth;
+
+our capital and liquidity requirements (including under regulatory capital standards, such as the Basel III capital standards) and our ability to generate capital internally or raise capital on favorable terms;
+
+current, pending or future legislation or regulation that could have a negative effect on our revenue and businesses, including rules and regulations relating to bank products and financial services;
+
+our ability to realize any efficiency ratio or expense target as part of our expense management initiatives, including as a result of business and economic cyclicality, seasonality, changes in our business composition and operating environment, growth in our businesses and/or acquisitions, and unexpected expenses relating to, among other things, litigation and regulatory matters;
+
+the effect of the current interest rate environment or changes in interest rates or in the level or composition of our assets or liabilities on our net interest income and net interest margin;
+
+significant turbulence or a disruption in the capital or financial markets, which could result in, among other things, a reduction in the availability of funding or increased funding costs, a reduction in our ability to sell or securitize loans, and declines in asset values and/or recognition of impairment of securities held in our debt securities and equity securities portfolios;
+
+the effect of a fall in stock market prices on our investment banking business and our fee income from our brokerage and wealth management businesses;
+
+negative effects from instances where customers may have experienced financial harm, including on our legal, operational and compliance costs, our ability to engage in certain business activities or offer certain products or services, our ability to keep and attract customers, our ability to attract and retain qualified employees, and our reputation;
+
+regulatory matters, including the failure to resolve outstanding matters on a timely basis and the potential impact of new matters, litigation, or other legal actions, which may result in, among other things, additional costs, fines, penalties, restrictions on our business activities, reputational harm, or other adverse consequences;
+
+a failure in or breach of our operational or security systems or infrastructure, or those of our third-party vendors or other service providers, including as a result of cyberattacks;
+
+the effect of changes in the level of checking or savings account deposits on our funding costs and net interest margin;
+
+fiscal and monetary policies of the Federal Reserve Board;
+
+10
+
+changes to tax laws, regulations, and guidance as well as the effect of discrete items on our effective income tax rate;
+
+our ability to develop and execute effective business plans and strategies; and
+
+the other risk factors and uncertainties described under Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2024.
+
+In addition to the above factors, we also caution that the amount and timing of any future common stock dividends or repurchases will depend on the earnings, cash requirements and financial condition of the Company, the impact to our balance sheet of expected customer activity, our capital requirements and long-term targeted capital structure, the results of supervisory stress tests, market conditions (including the trading price of our stock), regulatory and legal considerations, including regulatory requirements under the Federal Reserve Boards capital plan rule, and other factors deemed relevant by the Company, and may be subject to regulatory approval or conditions. 
+
+For additional information about factors that could cause actual results to differ materially from our expectations, refer to our reports filed with the Securities and Exchange Commission, including the discussion under Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2024, as filed with the Securities and Exchange Commission and available on its website at www.sec.gov1.
+
+Any forward-looking statement made by us speaks only as of the date on which it is made. Factors or events that could cause our actual results to differ may emerge from time to time, and it is not possible for us to predict all of them. We undertake no obligation to publicly update any forward-looking statement, whether as a result of new information, future developments or otherwise, except as may be required by law.
+
+Forward-looking Non-GAAP Financial Measures. From time to time management may discuss forward-looking non-GAAP financial measures, such as forward-looking estimates or targets for return on average tangible common equity. We are unable to provide a reconciliation of forward-looking non-GAAP financial measures to their most directly comparable GAAP financial measures because we are unable to provide, without unreasonable effort, a meaningful or accurate calculation or estimation of amounts that would be necessary for the reconciliation due to the complexity and inherent difficulty in forecasting and quantifying future amounts or when they may occur. Such unavailable information could be significant to future results.
+
+1 We do not control this website. Wells Fargo has provided this link for your convenience, but does not endorse and is not responsible for the content, links, privacy policy, or security policy of this website.
+
+11
+
+About Wells Fargo
+
+Wells Fargo & Company (NYSE: WFC) is a leading financial services company that has approximately $1.95 trillion in assets. We provide a diversified set of banking, investment and mortgage products and services, as well as consumer and commercial finance, through our four reportable operating segments: Consumer Banking and Lending, Commercial Banking, Corporate and Investment Banking, and Wealth & Investment Management. Wells Fargo ranked No. 34 on Fortunes 2024 rankings of Americas largest corporations. 
+
+Contact Information
+
+Media
+
+Beth Richek, 980-308-1568
+
+beth.richek@wellsfargo.com
+
+or
+
+Investor Relations
+
+John M. Campbell, 415-396-0523
+
+john.m.campbell@wellsfargo.com
+
+# # #
+
+12
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>wfc1qer04-11x25ex992xsuppl.htm
+<DESCRIPTION>EXHIBIT 99.2
+<TEXT>
+Document
+
+Exhibit 99.2
+
+1Q25 Quarterly Supplement
+
+Wells Fargo & Company and Subsidiaries
+
+QUARTERLY FINANCIAL DATA
+
+TABLE OF CONTENTS
+
+Page
+
+Consolidated Results 
+
+Summary Financial Data 
+
+3
+
+Consolidated Statement of Income 
+
+5
+
+Consolidated Balance Sheet 
+
+6
+
+Average Balances and Interest Rates (Taxable-Equivalent Basis) 
+
+7
+
+Reportable Operating Segment Results 
+
+Combined Segment Results 
+
+8
+
+Consumer Banking and Lending 
+
+9
+
+Commercial Banking 
+
+11
+
+Corporate and Investment Banking 
+
+13
+
+Wealth and Investment Management 
+
+15
+
+Corporate 
+
+16
+
+Credit-Related Information 
+
+Consolidated Loans Outstanding Period-End Balances, Average Balances, and Average Interest Rates 
+
+17
+
+Net Loan Charge-offs 
+
+18
+
+Changes in Allowance for Credit Losses for Loans 
+
+19
+
+Allocation of the Allowance for Credit Losses for Loans 
+
+20
+
+Nonperforming Assets (Nonaccrual Loans and Foreclosed Assets) 
+
+21
+
+Commercial and Industrial Loans and Lease Financing by Industry 
+
+22
+
+Commercial Real Estate Loans by Property Type 
+
+23
+
+Trading Activities 
+
+Net Interest Income and Net Gains from Trading Activities 
+
+24
+
+Equity 
+
+Tangible Common Equity 
+
+25
+
+Risk-Based Capital Ratios Under Basel III 
+
+27
+
+Financial results reported in this document are preliminary. Final financial results and other disclosures will be reported in our Quarterly Report on Form 10-Q for the quarter ended March 31, 2025, and may differ materially from the results and disclosures in this document due to, among other things, the completion of final review procedures, the occurrence of subsequent events, or the discovery of additional information.
+
+Wells Fargo & Company and Subsidiaries
+
+SUMMARY FINANCIAL DATA
+
+Quarter ended Mar 31, 2025 
+
+% Change from 
+
+(in millions, except ratios and per share amounts) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+Selected Income Statement Data 
+
+Total revenue $ 20,149 20,378 20,366 20,689 20,863 (1) % (3) 
+
+Noninterest expense 13,891 13,900 13,067 13,293 14,338 (3) 
+
+Pre-tax pre-provision profit (PTPP) (1) 6,258 6,478 7,299 7,396 6,525 (3) (4) 
+
+Provision for credit losses (2) 932 1,095 1,065 1,236 938 (15) (1) 
+
+Wells Fargo net income 4,894 5,079 5,114 4,910 4,619 (4) 6 
+
+Wells Fargo net income applicable to common stock 4,616 4,801 4,852 4,640 4,313 (4) 7 
+
+Common Share Data 
+
+Diluted earnings per common share 1.39 1.43 1.42 1.33 1.20 (3) 16 
+
+Dividends declared per common share 0.40 0.40 0.40 0.35 0.35 14 
+
+Common shares outstanding 3,261.7 3,288.9 3,345.5 3,402.7 3,501.7 (1) (7) 
+
+Average common shares outstanding 3,280.4 3,312.8 3,384.8 3,448.3 3,560.1 (1) (8) 
+
+Diluted average common shares outstanding 3,321.6 3,360.7 3,425.1 3,486.2 3,600.1 (1) (8) 
+
+Book value per common share (3) $ 49.86 48.85 49.26 47.01 46.40 2 7 
+
+Tangible book value per common share (3)(4) 42.24 41.24 41.76 39.57 39.17 2 8 
+
+Selected Equity Data (period-end) 
+
+Total equity 182,906 181,066 185,011 178,148 182,674 1 
+
+Common stockholders' equity 162,627 160,656 164,801 159,963 162,481 1 
+
+Tangible common equity (4) 137,776 135,628 139,711 134,660 137,163 2 
+
+Performance Ratios 
+
+Return on average assets (ROA) (5) 1.03 % 1.05 1.06 1.03 0.97 
+
+Return on average equity (ROE) (6) 11.5 11.7 11.7 11.5 10.5 
+
+Return on average tangible common equity (ROTCE) (4) 13.6 13.9 13.9 13.7 12.3 
+
+Efficiency ratio (7) 69 68 64 64 69 
+
+Net interest margin on a taxable-equivalent basis 2.67 2.70 2.67 2.75 2.81 
+
+Average deposit cost 1.58 1.73 1.91 1.84 1.74 
+
+(1)Pre-tax pre-provision profit (PTPP) is total revenue less noninterest expense. Management believes that PTPP is a useful financial measure because it enables investors and others to assess the Companys ability to generate capital to cover credit losses through a credit cycle.
+
+(2)Includes provision for credit losses for loans, debt securities, and other financial assets.
+
+(3)Book value per common share is common stockholders' equity divided by common shares outstanding. Tangible book value per common share is tangible common equity divided by common shares outstanding.
+
+(4)Tangible common equity, tangible book value per common share, and return on average tangible common equity are non-GAAP financial measures. For additional information, including a corresponding reconciliation to GAAP financial measures, see the Tangible Common Equity tables on pages 25 and 26.
+
+(5)Represents Wells Fargo net income divided by average assets.
+
+(6)Represents Wells Fargo net income applicable to common stock divided by average common stockholders equity.
+
+(7)The efficiency ratio is noninterest expense divided by total revenue (net interest income and noninterest income).
+
+-3-
+
+Wells Fargo & Company and Subsidiaries
+
+SUMMARY FINANCIAL DATA (continued)
+
+Quarter ended Mar 31, 2025 
+
+% Change from 
+
+($ in millions, unless otherwise noted) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+Selected Balance Sheet Data (average) 
+
+Loans $ 908,182 906,353 910,255 916,977 928,075 % (2) 
+
+Assets 1,919,661 1,918,536 1,916,612 1,914,647 1,916,974 
+
+Deposits 1,339,328 1,353,836 1,341,680 1,346,478 1,341,628 (1) 
+
+Selected Balance Sheet Data (period-end) 
+
+Debt securities 528,493 519,131 529,832 520,254 506,280 2 4 
+
+Loans 913,842 912,745 909,711 917,907 922,784 (1) 
+
+Allowance for credit losses for loans 14,552 14,636 14,739 14,789 14,862 (1) (2) 
+
+Equity securities 63,601 60,644 59,771 60,763 59,556 5 7 
+
+Assets 1,950,311 1,929,845 1,922,125 1,940,073 1,959,153 1 
+
+Deposits 1,361,728 1,371,804 1,349,646 1,365,894 1,383,147 (1) (2) 
+
+Headcount (#) (period-end) 215,367 217,502 220,167 222,544 224,824 (1) (4) 
+
+Capital and other metrics (1) 
+
+Risk-based capital ratios and components (2): 
+
+Standardized Approach: 
+
+Common Equity Tier 1 (CET1) 11.1 % 11.1 11.3 11.0 11.2 
+
+Tier 1 capital 12.6 12.6 12.8 12.3 12.7 
+
+Total capital 15.2 15.2 15.5 15.0 15.4 
+
+Risk-weighted assets (RWAs) (in billions) $ 1,223.4 1,216.1 1,219.9 1,219.5 1,221.6 1 
+
+Advanced Approach: 
+
+Common Equity Tier 1 (CET1) 12.7 % 12.4 12.7 12.3 12.4 
+
+Tier 1 capital 14.5 14.1 14.4 13.8 14.1 
+
+Total capital 16.5 16.1 16.4 15.8 16.2 
+
+Risk-weighted assets (RWAs) (in billions) $ 1,065.0 1,085.0 1,089.3 1,093.0 1,099.6 (2) (3) 
+
+Tier 1 leverage ratio 8.1 % 8.1 8.3 8.0 8.2 
+
+Supplementary Leverage Ratio (SLR) 6.8 6.7 6.9 6.7 6.9 
+
+Total Loss Absorbing Capacity (TLAC) Ratio (3) 25.1 24.8 25.3 24.8 25.1 
+
+Liquidity Coverage Ratio (LCR) (4) 125 125 127 124 126 
+
+(1)Ratios and metrics for March 31, 2025, are preliminary estimates.
+
+(2)See the table on page 27 for more information on CET1, tier 1 capital, and total capital. 
+
+(3)Represents TLAC divided by risk-weighted assets (RWAs), which is our binding TLAC ratio, determined by using the greater of RWAs under the Standardized and Advanced Approaches.
+
+(4)Represents average high-quality liquid assets divided by average projected net cash outflows, as each is defined under the LCR rule.
+
+-4-
+
+Wells Fargo & Company and Subsidiaries
+
+CONSOLIDATED STATEMENT OF INCOME
+
+Quarter ended Mar 31, 2025 
+
+% Change from 
+
+(in millions, except per share amounts) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+Interest income $ 20,973 22,055 22,998 22,884 22,840 (5) % (8) 
+
+Interest expense 9,478 10,219 11,308 10,961 10,613 (7) (11) 
+
+Net interest income 11,495 11,836 11,690 11,923 12,227 (3) (6) 
+
+Noninterest income 
+
+Deposit-related fees 1,269 1,237 1,299 1,249 1,230 3 3 
+
+Lending-related fees 364 388 376 369 367 (6) (1) 
+
+Investment advisory and other asset-based fees 2,536 2,566 2,463 2,415 2,331 (1) 9 
+
+Commissions and brokerage services fees 638 635 646 614 626 2 
+
+Investment banking fees 775 725 672 641 627 7 24 
+
+Card fees 1,044 1,084 1,096 1,101 1,061 (4) (2) 
+
+Mortgage banking 332 294 280 243 230 13 44 
+
+Net gains from trading activities 1,373 950 1,438 1,442 1,454 45 (6) 
+
+Net losses from debt securities (147) (448) (447) (25) 67 NM 
+
+Net gains (losses) from equity securities (343) 715 257 80 18 NM NM 
+
+Lease income 272 241 277 292 421 13 (35) 
+
+Other 541 155 319 320 296 249 83 
+
+Total noninterest income 8,654 8,542 8,676 8,766 8,636 1 
+
+Total revenue 20,149 20,378 20,366 20,689 20,863 (1) (3) 
+
+Provision for credit losses (1) 932 1,095 1,065 1,236 938 (15) (1) 
+
+Noninterest expense 
+
+Personnel 9,474 9,071 8,591 8,575 9,492 4 
+
+Technology, telecommunications and equipment 1,223 1,282 1,142 1,106 1,053 (5) 16 
+
+Occupancy 761 789 786 763 714 (4) 7 
+
+Operating losses 143 338 293 493 633 (58) (77) 
+
+Professional and outside services 1,038 1,237 1,130 1,139 1,101 (16) (6) 
+
+Leases (2) 157 158 152 159 164 (1) (4) 
+
+Advertising and promotion 181 243 205 224 197 (26) (8) 
+
+Other 914 782 768 834 984 17 (7) 
+
+Total noninterest expense 13,891 13,900 13,067 13,293 14,338 (3) 
+
+Income before income tax expense 5,326 5,383 6,234 6,160 5,587 (1) (5) 
+
+Income tax expense 522 120 1,064 1,251 964 335 (46) 
+
+Net income before noncontrolling interests 4,804 5,263 5,170 4,909 4,623 (9) 4 
+
+Less: Net income (loss) from noncontrolling interests (90) 184 56 (1) 4 NM NM 
+
+Wells Fargo net income $ 4,894 5,079 5,114 4,910 4,619 (4) % 6 
+
+Less: Preferred stock dividends and other 278 278 262 270 306 (9) 
+
+Wells Fargo net income applicable to common stock $ 4,616 4,801 4,852 4,640 4,313 (4) % 7 
+
+Per share information 
+
+Earnings per common share $ 1.41 1.45 1.43 1.35 1.21 (3) % 17 
+
+Diluted earnings per common share 1.39 1.43 1.42 1.33 1.20 (3) 16 
+
+NM Not meaningful
+
+(1)Includes provision for credit losses for loans, debt securities, and other financial assets.
+
+(2)Represents expenses for assets we lease to customers.
+
+-5-
+
+Wells Fargo & Company and Subsidiaries
+
+CONSOLIDATED BALANCE SHEET
+
+Mar 31, 2025 
+
+% Change from
+
+(in millions) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024
+
+Assets 
+
+Cash and due from banks $ 35,256 37,080 33,530 32,701 30,180 (5) % 17 
+
+Interest-earning deposits with banks 142,309 166,281 152,016 199,322 239,467 (14) (41) 
+
+Federal funds sold and securities purchased under resale agreements 126,830 105,330 105,390 82,259 68,751 20 84 
+
+Debt securities: 
+
+Trading, at fair value 125,037 121,205 120,677 120,766 109,324 3 14 
+
+Available-for-sale, at fair value 176,229 162,978 166,004 148,752 138,245 8 27 
+
+Held-to-maturity, at amortized cost 227,227 234,948 243,151 250,736 258,711 (3) (12) 
+
+Loans held for sale 6,431 6,260 7,275 7,312 5,473 3 18 
+
+Loans 913,842 912,745 909,711 917,907 922,784 (1) 
+
+Allowance for loan losses (14,029) (14,183) (14,330) (14,360) (14,421) 1 3 
+
+Net loans 899,813 898,562 895,381 903,547 908,363 (1) 
+
+Mortgage servicing rights 7,180 7,779 7,493 8,027 8,248 (8) (13) 
+
+Premises and equipment, net 10,357 10,297 9,955 9,648 9,426 1 10 
+
+Goodwill 25,066 25,167 25,173 25,172 25,173 
+
+Derivative assets 18,518 20,012 17,721 18,721 17,653 (7) 5 
+
+Equity securities 63,601 60,644 59,771 60,763 59,556 5 7 
+
+Other assets 86,457 73,302 78,588 72,347 80,583 18 7 
+
+Total assets $ 1,950,311 1,929,845 1,922,125 1,940,073 1,959,153 1 
+
+Liabilities 
+
+Noninterest-bearing deposits $ 377,443 383,616 370,005 348,525 356,162 (2) 6 
+
+Interest-bearing deposits 984,285 988,188 979,641 1,017,369 1,026,985 (4) 
+
+Total deposits 1,361,728 1,371,804 1,349,646 1,365,894 1,383,147 (1) (2) 
+
+Short-term borrowings 139,776 108,806 111,894 118,834 109,014 28 28 
+
+Derivative liabilities 11,109 16,335 11,390 16,237 17,116 (32) (35) 
+
+Accrued expenses and other liabilities 81,132 78,756 82,169 81,824 79,438 3 2 
+
+Long-term debt 173,660 173,078 182,015 179,136 187,764 (8) 
+
+Total liabilities 1,767,405 1,748,779 1,737,114 1,761,925 1,776,479 1 (1) 
+
+Equity 
+
+Wells Fargo stockholders equity: 
+
+Preferred stock 18,608 18,608 18,608 16,608 18,608 
+
+Common stock $1-2/3 par value, authorized 9,000,000,000 shares; issued 5,481,811,474 shares 9,136 9,136 9,136 9,136 9,136 
+
+Additional paid-in capital 60,275 60,817 60,623 60,373 60,131 (1) 
+
+Retained earnings 217,405 214,198 210,749 207,281 203,870 1 7 
+
+Accumulated other comprehensive loss (9,998) (12,176) (8,372) (12,721) (12,546) 18 20 
+
+Treasury stock (1) (114,336) (111,463) (107,479) (104,247) (98,256) (3) (16) 
+
+Total Wells Fargo stockholders equity 181,090 179,120 183,265 176,430 180,943 1 
+
+Noncontrolling interests 1,816 1,946 1,746 1,718 1,731 (7) 5 
+
+Total equity 182,906 181,066 185,011 178,148 182,674 1 
+
+Total liabilities and equity $ 1,950,311 1,929,845 1,922,125 1,940,073 1,959,153 1 
+
+(1)Number of shares of treasury stock were 2,220,135,208, 2,192,867,645, 2,136,319,281, 2,079,100,421, and 1,980,132,879 at March 31, 2025, and December 31, September 30, June 30, and March 31, 2024, respectively.
+
+-6-
+
+Wells Fargo & Company and Subsidiaries
+
+AVERAGE BALANCES AND INTEREST RATES (TAXABLE-EQUIVALENT BASIS) (1)
+
+Quarter ended Mar 31, 2025 
+
+% Change from 
+
+($ in millions) Mar 31, 2025 Dec 31, 2024 Sep 30, 2024 Jun 30, 2024 Mar 31, 2024 Dec 31, 2024 Mar 31, 2024 
+
+Average Balances 
+
+Assets 
+
+Interest-earning deposits with banks $ 150,855 171,100 182,219 196,436 207,568 (12) % (27) 
+
+Federal funds sold and securities purchased under resale agreements 101,175 93,294 81,549 71,769 69,719 8 45 
+
+Trading debt securities 134,951 127,639 125,083 120,590 112,170 6 20 
+
+Available-for-sale debt securities 175,550 168,511 160,729 150,024 139,986 4 25 
+
+Held-to-maturity debt securities 233,952 242,961 250,010 258,631 264,755 (4) (12) 
+
+Loans held for sale 7,589 7,210 7,032 7,091 5,835 5 30 
+
+Loans 908,182 906,353 910,255 916,977 928,075 (2) 
+
+Equity securities 29,267 29,211 27,480 26,332 21,350 37 
+
+Other interest-earning assets 10,796 10,079 9,711 8,128 8,940 7 21 
+
+Total interest-earning assets 1,752,317 1,756,358 1,754,068 1,755,978 1,758,398 
+
+Total noninterest-earning assets 167,344 162,178 162,544 158,669 158,576 3 6 
+
+Total assets $ 1,919,661 1,918,536 1,916,612 1,914,647 1,916,974 
+
+Liabilities 
+
+Interest-bearing deposits $ 972,927 984,438 986,206 1,006,806 996,874 (1) (2) 
+
+Short-term borrowings 127,892 109,178 109,902 106,685 94,988 17 35 
+
+Long-term debt 173,052 175,414 183,586 182,201 197,116 (1) (12) 
+
+Other interest-bearing liabilities 39,249 36,245 34,735 34,613 32,821 8 20 
+
+Total interest-bearing liabilities 1,313,120 1,305,275 1,314,429 1,330,305 1,321,799 1 (1) 
+
+Noninterest-bearing deposits 366,401 369,398 355,474 339,672 344,754 (1) 6 
+
+Other noninterest-bearing liabilities 56,782 60,930 62,341 63,118 63,752 (7) (11) 
+
+Total liabilities 1,736,303 1,735,603 1,732,244 1,733,095 1,730,305 
+
+Total equity 183,358 182,933 184,368 181,552 186,669 (2) 
+
+Total liabilities and equity $ 1,919,661 1,918,536 1,916,612 1,914,647 1,916,974 
+
+Average Interest Rates 
+
+Interest-earning assets 
+
+Interest-earning deposits with banks 3.96 % 4.36 4.95 5.05 4.99 
+
+Federal funds sold and securities purchased under resale agreements 4.26 4.66 5.24 5.27 5.28 
+
+Trading debt securities 4.13 4.16 4.25 4.14 4.08 
+
+Available-for-sale debt securities 4.48 4.45 4.33 4.21 3.99 
+
+Held-to-maturity debt securities 2.41 2.51 2.57 2.64 2.70 
+
+Loans held for sale 6.20 6.38 7.33 7.53 7.82 
+
+Loans 5.96 6.16 6.41 6.40 6.38 
+
+Equity securities 2.01 2.40 2.26 2.99 2.82 
+
+Other interest-earning assets 4.15 4.73 5.12 5.42 5.14 
+
+Total interest-earning assets 4.85 5.02 5.24 5.25 5.24 
+
+Interest-bearing liabilities 
+
+Interest-bearing deposits 2.17 2.37 2.60 2.46 2.34 
+
+Short-term borrowings 4.32 4.67 5.20 5.19 5.16 
+
+Long-term debt 5.97 6.35 6.89 6.95 6.80 
+
+Other interest-bearing liabilities 3.33 3.01 3.05 3.13 2.88 
+
+Total interest-bearing liabilities 2.92 3.12 3.43 3.31 3.22 
+
+Interest rate spread on a taxable-equivalent basis (2) 1.93 1.90 1.81 1.94 2.02 
+
+Net interest margin on a taxable-equivalent basis (2) 2.67 2.70 2.67 2.75 2.81 
+
+(1)The average balance amounts represent amortized costs. The average interest rates are based on interest income or expense amounts for the period and are annualized, if applicable. Interest rates include the effects of hedge and risk management activities associated with the respective asset and liability categories.
+
+(2)Includes taxable-equivalent adjustments of $77 million, $78 million, $84 million, $89 million, and $89 million for the quarters ended March 31, 2025, and December 31, September 30, June 30, and March 31, 2024, respectively, predominantly related to tax-exempt income on certain loans and securities. The federal statutory tax rate utilized was 21% for the periods presented.
+
+-7-
+
+Wells Fargo & Company and Subsidiaries
+
+COMBINED SEGMENT RESULTS (1) 
+
+Quarter ended March 31, 2025
+
+(in millions) Consumer Banking and Lending Commercial Banking Corporate and Investment Banking Wealth and Investment Management Corporate (2) Reconciling Items (3) Consolidated
+
+Company
+
+Net interest income $ 6,943 1,977 1,790 826 36 (77) 11,495 
+
+Noninterest income 1,970 948 3,274 3,048 (213) (373) 8,654 
+
+Total revenue 8,913 2,925 5,064 3,874 (177) (450) 20,149 
+
+Provision for credit losses 739 187 11 (5) 932 
+
+Noninterest expense 5,928 1,670 2,476 3,360 457 13,891 
+
+Income (loss) before income tax expense (benefit) 2,246 1,068 2,588 503 (629) (450) 5,326 
+
+Income tax expense (benefit) 557 272 647 111 (615) (450) 522 
+
+Net income (loss) before noncontrolling interests 1,689 796 1,941 392 (14) 4,804 
+
+Less: Net income (loss) from noncontrolling interests 2 (92) (90) 
+
+Net income $ 1,689 794 1,941 392 78 4,894 
+
+Quarter ended December 31, 2024
+
+Net interest income $ 7,020 2,248 2,054 856 (264) (78) 11,836 
+
+Noninterest income 1,960 923 2,559 3,102 368 (370) 8,542 
+
+Total revenue 8,980 3,171 4,613 3,958 104 (448) 20,378 
+
+Provision for credit losses 911 33 205 (27) (27) 1,095 
+
+Noninterest expense 5,925 1,525 2,300 3,307 843 13,900 
+
+Income (loss) before income tax expense (benefit) 2,144 1,613 2,108 678 (712) (448) 5,383 
+
+Income tax expense (benefit) 542 408 528 170 (1,080) (448) 120 
+
+Net income before noncontrolling interests 1,602 1,205 1,580 508 368 5,263 
+
+Less: Net income from noncontrolling interests 2 182 184 
+
+Net income $ 1,602 1,203 1,580 508 186 5,079 
+
+Quarter ended March 31, 2024
+
+Net interest income $ 7,110 2,278 2,027 869 32 (89) 12,227 
+
+Noninterest income 1,981 874 2,955 2,873 291 (338) 8,636 
+
+Total revenue 9,091 3,152 4,982 3,742 323 (427) 20,863 
+
+Provision for credit losses 788 143 5 3 (1) 938 
+
+Noninterest expense 6,024 1,679 2,330 3,230 1,075 14,338 
+
+Income (loss) before income tax expense (benefit) 2,279 1,330 2,647 509 (751) (427) 5,587 
+
+Income tax expense (benefit) 573 341 666 128 (317) (427) 964 
+
+Net income (loss) before noncontrolling interests 1,706 989 1,981 381 (434) 4,623 
+
+Less: Net income from noncontrolling interests 3 1 4 
+
+Net income (loss) $ 1,706 986 1,981 381 (435) 4,619 
+
+(1)The management reporting process is based on U.S. GAAP and includes specific adjustments, such as for funds transfer pricing for asset/liability management, shared revenues and expenses, and taxable-equivalent adjustments to consistently reflect income from taxable and tax-exempt sources, which allows management to assess performance across the operating segments. We define our operating segments by type of product and customer segment. 
+
+(2)All other business activities that are not included in the reportable operating segments have been included in Corporate. Corporate includes corporate treasury and enterprise functions, net of expense allocations, in support of the reportable operating segments (including funds transfer pricing, capital, and liquidity), as well as our investment portfolio and venture capital and private equity investments. Corporate also includes certain lines of business that management has determined are no longer consistent with the long-term strategic goals of the Company as well as results for previously divested businesses.
+
+(3)Taxable-equivalent adjustments related to tax-exempt income on certain loans and debt securities are included in net interest income, while taxable-equivalent adjustments related to income tax credits for affordable housing and renewable energy investments are included in noninterest income, in each case with corresponding impacts to income tax expense (benefit). Adjustments are included in Corporate, Commercial Banking, and Corporate and Investment Banking and are eliminated to reconcile to the Companys consolidated financial results.
+
+-8-
+
+Wells Fargo & Company and Subsidiaries
+
+CONSUMER BANKING AND LENDING SEGMENT
+
+Quarter ended Mar 31, 2025 
+
+% Change from 
+
+($ in millions) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+Income Statement 
+
+Net interest income $ 6,943 7,020 7,149 7,024 7,110 (1) % (2) 
+
+Noninterest income: 
+
+Deposit-related fees 651 657 710 690 677 (1) (4) 
+
+Card fees 978 1,019 1,031 1,036 990 (4) (1) 
+
+Mortgage banking 222 185 137 135 193 20 15 
+
+Other 119 99 97 121 121 20 (2) 
+
+Total noninterest income 1,970 1,960 1,975 1,982 1,981 1 (1) 
+
+Total revenue 8,913 8,980 9,124 9,006 9,091 (1) (2) 
+
+Net charge-offs 877 887 871 907 881 (1) 
+
+Change in the allowance for credit losses (138) 24 59 25 (93) NM (48) 
+
+Provision for credit losses 739 911 930 932 788 (19) (6) 
+
+Noninterest expense 5,928 5,925 5,624 5,701 6,024 (2) 
+
+Income before income tax expense 2,246 2,144 2,570 2,373 2,279 5 (1) 
+
+Income tax expense 557 542 646 596 573 3 (3) 
+
+Net income $ 1,689 1,602 1,924 1,777 1,706 5 (1) 
+
+Revenue by Line of Business 
+
+Consumer, Small and Business Banking $ 5,981 6,067 6,222 6,129 6,092 (1) (2) 
+
+Consumer Lending: 
+
+Home Lending 866 854 842 823 864 1 
+
+Credit Card 1,524 1,489 1,471 1,452 1,496 2 2 
+
+Auto 237 263 273 282 300 (10) (21) 
+
+Personal Lending 305 307 316 320 339 (1) (10) 
+
+Total revenue $ 8,913 8,980 9,124 9,006 9,091 (1) (2) 
+
+Selected Balance Sheet Data (average) 
+
+Loans by Line of Business: 
+
+Consumer, Small and Business Banking $ 6,034 6,105 6,230 6,370 6,465 (1) (7) 
+
+Consumer Lending: 
+
+Home Lending 205,507 207,780 209,825 211,994 214,335 (1) (4) 
+
+Credit Card 50,109 50,243 49,141 47,463 46,412 8 
+
+Auto 42,498 43,005 43,949 45,650 47,621 (1) (11) 
+
+Personal Lending 13,902 14,291 14,470 14,462 14,896 (3) (7) 
+
+Total loans $ 318,050 321,424 323,615 325,939 329,729 (1) (4) 
+
+Total deposits 778,601 773,631 773,554 778,228 773,248 1 1 
+
+Allocated capital 45,500 45,500 45,500 45,500 45,500 
+
+Selected Balance Sheet Data (period-end) 
+
+Loans by Line of Business: 
+
+Consumer, Small and Business Banking $ 6,144 6,256 6,372 6,513 6,584 (2) (7) 
+
+Consumer Lending: 
+
+Home Lending 204,656 207,022 209,083 211,172 213,289 (1) (4) 
+
+Credit Card 49,518 50,992 49,521 48,400 46,867 (3) 6 
+
+Auto 41,999 42,914 43,356 44,780 46,692 (2) (10) 
+
+Personal Lending 13,656 14,246 14,413 14,495 14,575 (4) (6) 
+
+Total loans $ 315,973 321,430 322,745 325,360 328,007 (2) (4) 
+
+Total deposits 798,841 783,490 775,745 781,817 794,160 2 1 
+
+NM Not meaningful
+
+-9-
+
+Wells Fargo & Company and Subsidiaries
+
+CONSUMER BANKING AND LENDING SEGMENT (continued)
+
+Quarter ended Mar 31, 2025 
+
+% Change from 
+
+($ in millions, unless otherwise noted) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+Selected Metrics 
+
+Consumer Banking and Lending: 
+
+Return on allocated capital (1) 14.5 % 13.4 16.3 15.1 14.5 
+
+Efficiency ratio (2) 67 66 62 63 66 
+
+Retail bank branches (#, period-end) 4,155 4,177 4,196 4,227 4,247 (1) % (2) 
+
+Digital active customers (# in millions, period-end) (3) 36.7 36.0 35.8 35.6 35.5 2 3 
+
+Mobile active customers (# in millions, period-end) (3) 31.8 31.4 31.2 30.8 30.5 1 4 
+
+Consumer, Small and Business Banking: 
+
+Deposit spread (4) 2.47 % 2.46 2.52 2.50 2.53 
+
+Debit card purchase volume ($ in billions) (5) $ 126.0 131.0 126.8 128.2 121.5 (4) 4 
+
+Debit card purchase transactions (# in millions) (5) 2,486 2,622 2,585 2,581 2,442 (5) 2 
+
+Home Lending: 
+
+Mortgage banking: 
+
+Net servicing income $ 181 128 114 89 91 41 99 
+
+Net gains on mortgage loan originations/sales 41 57 23 46 102 (28) (60) 
+
+Total mortgage banking $ 222 185 137 135 193 20 15 
+
+Mortgage loan originations ($ in billions) $ 4.4 5.9 5.5 5.3 3.5 (25) 26 
+
+% of originations held for sale (HFS) 38.2 % 40.3 41.0 38.6 43.5 
+
+Third party mortgage loans serviced ($ in billions, period-end) (6) $ 471.1 486.9 499.1 512.8 527.5 (3) (11) 
+
+Mortgage servicing rights (MSR) carrying value (period-end) 6,536 6,844 6,544 7,061 7,249 (5) (10) 
+
+Home lending loans 30+ days delinquency rate (period-end) (7)(8)(9) 0.29 % 0.29 0.30 0.33 0.30 
+
+Credit Card: 
+
+Credit card purchase volume ($ in billions) (5) $ 42.5 45.1 43.4 42.9 39.1 (6) 9 
+
+Credit card new accounts (# in thousands) 554 486 615 677 651 14 (15) 
+
+Credit card loans 30+ days delinquency rate (period-end) (8)(9) 2.82 % 2.91 2.87 2.71 2.92 
+
+Credit card loans 90+ days delinquency rate (period-end) (8)(9) 1.46 1.51 1.43 1.40 1.55 
+
+Auto: 
+
+Auto loan originations ($ in billions) $ 4.6 5.0 4.1 3.7 4.1 (8) 12 
+
+Auto loans 30+ days delinquency rate (period-end) (8)(9) 1.87 % 2.31 2.28 2.31 2.36 
+
+(1)Return on allocated capital is segment net income (loss) applicable to common stock divided by segment average allocated capital. Segment net income (loss) applicable to common stock is segment net income (loss) less allocated preferred stock dividends. 
+
+(2)Efficiency ratio is segment noninterest expense divided by segment total revenue (net interest income and noninterest income).
+
+(3)Digital and mobile active customers is the number of consumer and small business customers who have logged on via a digital or mobile device, respectively, in the prior 90 days. Digital active customers includes both online and mobile customers.
+
+(4)Deposit spread is (i) the internal funds transfer pricing credit on segment deposits minus interest paid to customers for segment deposits, divided by (ii) average segment deposits.
+
+(5)Reflects combined activity for consumer and small business customers.
+
+(6)Excludes residential mortgage loans subserviced for others.
+
+(7)Excludes residential mortgage loans that are insured or guaranteed by U.S. government agencies.
+
+(8)Excludes loans held for sale.
+
+(9)Delinquency balances exclude nonaccrual loans.
+
+-10-
+
+Wells Fargo & Company and Subsidiaries
+
+COMMERCIAL BANKING SEGMENT
+
+Quarter ended Mar 31, 2025 
+
+% Change from 
+
+($ in millions) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+Income Statement 
+
+Net interest income $ 1,977 2,248 2,289 2,281 2,278 (12) % (13) 
+
+Noninterest income: 
+
+Deposit-related fees 335 303 303 290 284 11 18 
+
+Lending-related fees 136 140 138 139 138 (3) (1) 
+
+Lease income 123 124 126 133 149 (1) (17) 
+
+Other 354 356 477 279 303 (1) 17 
+
+Total noninterest income 948 923 1,044 841 874 3 8 
+
+Total revenue 2,925 3,171 3,333 3,122 3,152 (8) (7) 
+
+Net charge-offs 41 111 50 97 75 (63) (45) 
+
+Change in the allowance for credit losses 146 (78) 35 (68) 68 287 115 
+
+Provision for credit losses 187 33 85 29 143 467 31 
+
+Noninterest expense 1,670 1,525 1,480 1,506 1,679 10 (1) 
+
+Income before income tax expense 1,068 1,613 1,768 1,587 1,330 (34) (20) 
+
+Income tax expense 272 408 448 402 341 (33) (20) 
+
+Less: Net income from noncontrolling interests 2 2 2 3 3 (33) 
+
+Net income $ 794 1,203 1,318 1,182 986 (34) (19) 
+
+Revenue by Product 
+
+Lending and leasing $ 1,267 1,291 1,293 1,308 1,309 (2) (3) 
+
+Treasury management and payments 1,260 1,423 1,434 1,412 1,421 (11) (11) 
+
+Other 398 457 606 402 422 (13) (6) 
+
+Total revenue $ 2,925 3,171 3,333 3,122 3,152 (8) (7) 
+
+Selected Metrics 
+
+Return on allocated capital 11.4 % 17.4 19.2 17.3 14.3 
+
+Efficiency ratio 57 48 44 48 53 
+
+-11-
+
+Wells Fargo & Company and Subsidiaries
+
+COMMERCIAL BANKING SEGMENT (continued)
+
+Quarter ended Mar 31, 2025 
+
+% Change from 
+
+($ in millions) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+Selected Balance Sheet Data (average) 
+
+Loans: 
+
+Commercial and industrial $ 164,113 162,060 161,967 164,027 163,273 1 % 1 
+
+Commercial real estate 44,598 44,555 44,756 44,990 45,296 (2) 
+
+Lease financing and other 15,093 15,180 15,393 15,406 15,352 (1) (2) 
+
+Total loans $ 223,804 221,795 222,116 224,423 223,921 1 
+
+Total deposits 182,859 184,293 173,158 166,892 164,027 (1) 11 
+
+Allocated capital 26,000 26,000 26,000 26,000 26,000 
+
+Selected Balance Sheet Data (period-end) 
+
+Loans: 
+
+Commercial and industrial $ 168,369 163,464 163,878 165,878 166,842 3 1 
+
+Commercial real estate 44,788 44,506 44,715 44,978 45,292 1 (1) 
+
+Lease financing and other 15,109 15,348 15,406 15,617 15,526 (2) (3) 
+
+Total loans $ 228,266 223,318 223,999 226,473 227,660 2 
+
+Total deposits 181,469 188,650 178,406 168,979 168,547 (4) 8 
+
+-12-
+
+Wells Fargo & Company and Subsidiaries
+
+CORPORATE AND INVESTMENT BANKING SEGMENT 
+
+Quarter ended Mar 31, 2025 
+
+% Change from 
+
+($ in millions) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+Income Statement 
+
+Net interest income $ 1,790 2,054 1,909 1,945 2,027 (13) % (12) 
+
+Noninterest income: 
+
+Deposit-related fees 275 269 279 263 262 2 5 
+
+Lending-related fees 201 221 213 205 203 (9) (1) 
+
+Investment banking fees 765 726 668 634 647 5 18 
+
+Net gains from trading activities 1,347 933 1,366 1,387 1,405 44 (4) 
+
+Other 686 410 476 404 438 67 57 
+
+Total noninterest income 3,274 2,559 3,002 2,893 2,955 28 11 
+
+Total revenue 5,064 4,613 4,911 4,838 4,982 10 2 
+
+Net charge-offs 97 214 196 303 196 (55) (51) 
+
+Change in the allowance for credit losses (97) (9) (170) (18) (191) NM 49 
+
+Provision for credit losses 205 26 285 5 (100) (100) 
+
+Noninterest expense 2,476 2,300 2,229 2,170 2,330 8 6 
+
+Income before income tax expense 2,588 2,108 2,656 2,383 2,647 23 (2) 
+
+Income tax expense 647 528 664 598 666 23 (3) 
+
+Net income $ 1,941 1,580 1,992 1,785 1,981 23 (2) 
+
+Revenue by Line of Business 
+
+Banking: 
+
+Lending $ 618 691 698 688 681 (11) (9) 
+
+Treasury Management and Payments 618 644 695 687 686 (4) (10) 
+
+Investment Banking 534 491 419 430 474 9 13 
+
+Total Banking 1,770 1,826 1,812 1,805 1,841 (3) (4) 
+
+Commercial Real Estate 1,449 1,274 1,364 1,283 1,223 14 18 
+
+Markets: 
+
+Fixed Income, Currencies, and Commodities (FICC) 1,382 1,179 1,327 1,228 1,359 17 2 
+
+Equities 448 385 396 558 450 16 
+
+Credit Adjustment (CVA/DVA/FVA) and Other (1) (3) (71) 31 7 19 96 NM 
+
+Total Markets 1,827 1,493 1,754 1,793 1,828 22 
+
+Other 18 20 (19) (43) 90 (10) (80) 
+
+Total revenue $ 5,064 4,613 4,911 4,838 4,982 10 2 
+
+Selected Metrics 
+
+Return on allocated capital 17.0 % 13.4 17.1 15.4 17.2 
+
+Efficiency ratio 49 50 45 45 47 
+
+NM Not meaningful
+
+(1)In fourth quarter 2024, we implemented a change to incorporate funding valuation adjustments (FVA) for our derivatives, which resulted in a loss of $85 million.
+
+-13-
+
+Wells Fargo & Company and Subsidiaries
+
+CORPORATE AND INVESTMENT BANKING SEGMENT (continued)
+
+Quarter ended Mar 31, 2025 
+
+% Change from 
+
+($ in millions) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+Selected Balance Sheet Data (average) 
+
+Loans: 
+
+Commercial and industrial $ 192,654 185,677 183,255 180,789 185,432 4 % 4 
+
+Commercial real estate 84,633 88,285 91,963 94,998 97,811 (4) (13) 
+
+Total loans $ 277,287 273,962 275,218 275,787 283,243 1 (2) 
+
+Loans by Line of Business: 
+
+Banking $ 86,528 85,722 86,548 86,130 90,897 1 (5) 
+
+Commercial Real Estate 117,318 119,414 124,056 128,107 131,709 (2) (11) 
+
+Markets 73,441 68,826 64,614 61,550 60,637 7 21 
+
+Total loans $ 277,287 273,962 275,218 275,787 283,243 1 (2) 
+
+Trading-related assets: 
+
+Trading account securities $ 151,483 144,903 140,501 136,101 121,347 5 25 
+
+Reverse repurchase agreements/securities borrowed 97,171 87,517 74,041 64,896 62,856 11 55 
+
+Derivative assets 19,688 20,254 19,668 18,552 17,033 (3) 16 
+
+Total trading-related assets $ 268,342 252,674 234,210 219,549 201,236 6 33 
+
+Total assets 611,037 588,154 574,697 558,063 550,933 4 11 
+
+Total deposits 203,914 205,077 194,315 187,545 183,273 (1) 11 
+
+Allocated capital 44,000 44,000 44,000 44,000 44,000 
+
+Selected Balance Sheet Data (period-end) 
+
+Loans: 
+
+Commercial and industrial $ 197,142 192,573 183,341 181,441 178,986 2 10 
+
+Commercial real estate 83,522 86,107 90,382 93,889 96,611 (3) (14) 
+
+Total loans $ 280,664 278,680 273,723 275,330 275,597 1 2 
+
+Loans by Line of Business: 
+
+Banking $ 88,239 86,328 88,221 84,054 86,066 2 3 
+
+Commercial Real Estate 116,051 117,213 121,238 126,080 129,627 (1) (10) 
+
+Markets 76,374 75,139 64,264 65,196 59,904 2 27 
+
+Total loans $ 280,664 278,680 273,723 275,330 275,597 1 2 
+
+Trading-related assets: 
+
+Trading account securities $ 150,401 142,727 144,148 140,928 133,079 5 13 
+
+Reverse repurchase agreements/securities borrowed 122,875 96,470 83,562 70,615 62,019 27 98 
+
+Derivative assets 18,883 21,332 17,906 19,186 17,726 (11) 7 
+
+Total trading-related assets $ 292,159 260,529 245,616 230,729 212,824 12 37 
+
+Total assets 632,478 597,278 583,144 565,334 553,105 6 14 
+
+Total deposits 209,200 212,948 199,700 200,920 195,969 (2) 7 
+
+-14-
+
+Wells Fargo & Company and Subsidiaries
+
+WEALTH AND INVESTMENT MANAGEMENT SEGMENT
+
+Quarter ended Mar 31, 2025 
+
+% Change from 
+
+($ in millions, unless otherwise noted) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+Income Statement 
+
+Net interest income $ 826 856 842 906 869 (4) % (5) 
+
+Noninterest income: 
+
+Investment advisory and other asset-based fees 2,474 2,504 2,406 2,357 2,267 (1) 9 
+
+Commissions and brokerage services fees 534 539 548 521 545 (1) (2) 
+
+Other 40 59 82 74 61 (32) (34) 
+
+Total noninterest income 3,048 3,102 3,036 2,952 2,873 (2) 6 
+
+Total revenue 3,874 3,958 3,878 3,858 3,742 (2) 4 
+
+Net charge-offs (6) (1) (5) (2) 6 NM NM 
+
+Change in the allowance for credit losses 17 (26) 21 (12) (3) 165 667 
+
+Provision for credit losses 11 (27) 16 (14) 3 141 267 
+
+Noninterest expense 3,360 3,307 3,154 3,193 3,230 2 4 
+
+Income before income tax expense 503 678 708 679 509 (26) (1) 
+
+Income tax expense 111 170 179 195 128 (35) (13) 
+
+Net income $ 392 508 529 484 381 (23) 3 
+
+Selected Metrics 
+
+Return on allocated capital 23.6 % 30.2 31.5 29.0 22.7 
+
+Efficiency ratio 87 84 81 83 86 
+
+Client assets ($ in billions, period-end): 
+
+Advisory assets $ 980 998 993 945 939 (2) 4 
+
+Other brokerage assets and deposits 1,253 1,295 1,301 1,255 1,247 (3) 
+
+Total client assets $ 2,233 2,293 2,294 2,200 2,186 (3) 2 
+
+Selected Balance Sheet Data (average) 
+
+Total loans $ 84,344 83,570 82,797 83,166 82,483 1 2 
+
+Total deposits 123,378 118,327 107,991 102,843 101,474 4 22 
+
+Allocated capital 6,500 6,500 6,500 6,500 6,500 
+
+Selected Balance Sheet Data (period-end) 
+
+Total loans $ 84,444 84,340 83,023 83,338 82,999 2 
+
+Total deposits 124,582 127,008 112,472 103,722 102,478 (2) 22 
+
+NM Not meaningful
+
+-15-
+
+Wells Fargo & Company and Subsidiaries
+
+CORPORATE (1)
+
+Quarter ended Mar 31, 2025 
+
+% Change from 
+
+($ in millions) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+Income Statement 
+
+Net interest income $ 36 (264) (415) (144) 32 114 % 13 
+
+Noninterest income (213) 368 78 392 291 NM NM 
+
+Total revenue (177) 104 (337) 248 323 NM NM 
+
+Net charge-offs (23) (1) (2) (1) 100 100 
+
+Change in the allowance for credit losses (5) (4) 9 6 (25) NM 
+
+Provision for credit losses (5) (27) 8 4 (1) 81 NM 
+
+Noninterest expense 457 843 580 723 1,075 (46) (57) 
+
+Loss before income tax benefit (629) (712) (925) (479) (751) 12 16 
+
+Income tax benefit (615) (1,080) (330) (157) (317) 43 (94) 
+
+Less: Net income (loss) from noncontrolling interests (92) 182 54 (4) 1 NM NM 
+
+Net income (loss) $ 78 186 (649) (318) (435) (58) 118 
+
+Selected Balance Sheet Data (average) 
+
+Available-for-sale debt securities $ 161,430 153,969 147,093 131,822 122,794 5 31 
+
+Held-to-maturity debt securities 226,714 235,661 242,621 251,100 257,088 (4) (12) 
+
+Equity securities 15,398 15,027 15,216 15,571 15,958 2 (4) 
+
+Total assets 618,339 639,324 648,930 656,535 663,483 (3) (7) 
+
+Total deposits 50,576 72,508 92,662 110,970 119,606 (30) (58) 
+
+Selected Balance Sheet Data (period-end) 
+
+Available-for-sale debt securities $ 167,634 154,397 157,042 138,087 127,084 9 32 
+
+Held-to-maturity debt securities 224,111 231,892 240,174 247,746 255,761 (3) (12) 
+
+Equity securities 15,138 15,437 14,861 15,297 15,798 (2) (4) 
+
+Total assets 621,445 633,799 642,618 670,494 699,401 (2) (11) 
+
+Total deposits 47,636 59,708 83,323 110,456 121,993 (20) (61) 
+
+NM Not meaningful
+
+(1)All other business activities that are not included in the reportable operating segments have been included in Corporate. Corporate includes corporate treasury and enterprise functions, net of expense allocations, in support of the reportable operating segments (including funds transfer pricing, capital, and liquidity), as well as our investment portfolio and venture capital and private equity investments. Corporate also includes certain lines of business that management has determined are no longer consistent with the long-term strategic goals of the Company as well as results for previously divested businesses.
+
+-16-
+
+Wells Fargo & Company and Subsidiaries
+
+CONSOLIDATED LOANS OUTSTANDING PERIOD-END BALANCES, AVERAGE BALANCES, AND AVERAGE INTEREST RATES
+
+Quarter ended Mar 31, 2025 
+
+$ Change from
+
+($ in millions) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024
+
+Period-End Loans 
+
+Commercial and industrial $ 390,533 381,241 372,750 374,588 372,963 9,292 17,570 
+
+Commercial real estate 134,035 136,505 141,410 145,318 148,786 (2,470) (14,751) 
+
+Lease financing 16,131 16,413 16,482 16,705 16,579 (282) (448) 
+
+Total commercial 540,699 534,159 530,642 536,611 538,328 6,540 2,371 
+
+Residential mortgage 247,613 250,269 252,676 255,085 257,622 (2,656) (10,009) 
+
+Credit card 54,608 56,542 55,046 53,756 52,035 (1,934) 2,573 
+
+Auto 41,482 42,367 42,815 44,280 46,202 (885) (4,720) 
+
+Other consumer 29,440 29,408 28,532 28,175 28,597 32 843 
+
+Total consumer 373,143 378,586 379,069 381,296 384,456 (5,443) (11,313) 
+
+Total loans $ 913,842 912,745 909,711 917,907 922,784 1,097 (8,942) 
+
+Average Loans 
+
+Commercial and industrial $ 381,702 372,848 370,911 371,514 375,593 8,854 6,109 
+
+Commercial real estate 135,271 139,111 143,187 146,750 150,083 (3,840) (14,812) 
+
+Lease financing 16,182 16,301 16,529 16,519 16,363 (119) (181) 
+
+Total commercial 533,155 528,260 530,627 534,783 542,039 4,895 (8,884) 
+
+Residential mortgage 248,739 251,256 253,667 256,189 259,053 (2,517) (10,314) 
+
+Credit card 55,363 55,699 54,580 52,642 51,708 (336) 3,655 
+
+Auto 41,967 42,466 43,430 45,164 47,114 (499) (5,147) 
+
+Other consumer 28,958 28,672 27,951 28,199 28,161 286 797 
+
+Total consumer 375,027 378,093 379,628 382,194 386,036 (3,066) (11,009) 
+
+Total loans $ 908,182 906,353 910,255 916,977 928,075 1,829 (19,893) 
+
+Average Interest Rates 
+
+Commercial and industrial 6.34 % 6.73 7.16 7.22 7.18 
+
+Commercial real estate 6.19 6.52 6.90 6.93 6.94 
+
+Lease financing 5.78 5.77 5.68 5.47 5.34 
+
+Total commercial 6.28 6.65 7.05 7.08 7.06 
+
+Residential mortgage 3.68 3.68 3.67 3.65 3.61 
+
+Credit card 12.74 12.53 12.73 12.75 13.14 
+
+Auto 5.33 5.29 5.22 5.09 4.98 
+
+Other consumer 7.61 7.97 8.56 8.56 8.62 
+
+Total consumer 5.51 5.48 5.51 5.43 5.42 
+
+Total loans 5.96 6.16 6.41 6.40 6.38 
+
+-17-
+
+Wells Fargo & Company and Subsidiaries
+
+NET LOAN CHARGE-OFFS
+
+Quarter ended 
+
+Mar 31, 2025 Dec 31, 2024 Sep 30, 2024 Jun 30, 2024 Mar 31, 2024 Mar 31, 2025 
+
+$ Change from 
+
+($ in millions) Net loan 
+
+charge-offs As a % of average loans (1) Net loan 
+
+charge-offs As a % of average loans (1) Net loan 
+
+charge-offs As a % of average loans (1) Net loan 
+
+charge-offs As a % of average loans (1) Net loan 
+
+charge-offs As a % of average loans (1) Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+By product: 
+
+Commercial and industrial $ 108 0.11 % $ 132 0.14 % $ 129 0.14 % $ 188 0.20 % $ 148 0.16 % $ (24) (40) 
+
+Commercial real estate 95 0.28 261 0.74 184 0.51 271 0.74 187 0.50 (166) (92) 
+
+Lease financing 8 0.20 10 0.23 10 0.25 9 0.21 6 0.13 (2) 2 
+
+Total commercial 211 0.16 403 0.30 323 0.24 468 0.35 341 0.25 (192) (130) 
+
+Residential mortgage (15) (0.02) (14) (0.02) (23) (0.04) (19) (0.03) (13) (0.02) (1) (2) 
+
+Credit card 650 4.76 628 4.49 601 4.38 649 4.96 577 4.48 22 73 
+
+Auto 64 0.62 82 0.77 83 0.76 79 0.70 112 0.96 (18) (48) 
+
+Other consumer 99 1.39 112 1.56 127 1.82 124 1.77 132 1.88 (13) (33) 
+
+Total consumer 798 0.86 808 0.85 788 0.83 833 0.88 808 0.84 (10) (10) 
+
+Total net loan charge-offs $ 1,009 0.45 % $ 1,211 0.53 % $ 1,111 0.49 % $ 1,301 0.57 % $ 1,149 0.50 % $ (202) (140) 
+
+By segment: 
+
+Consumer Banking and Lending $ 877 1.12 % $ 887 1.10 % $ 871 1.07 % $ 907 1.12 % $ 881 1.07 % $ (10) (4) 
+
+Commercial Banking 41 0.07 111 0.20 50 0.09 94 0.17 75 0.13 (70) (34) 
+
+Corporate and Investing Banking 97 0.14 214 0.31 196 0.28 303 0.44 188 0.27 (117) (91) 
+
+Wealth and Investment Management (6) (0.03) (1) (5) (0.02) (2) (0.01) 6 0.03 (5) (12) 
+
+Corporate (1) (0.06) (1) (0.05) (1) (0.05) 1 
+
+Total net loan charge-offs $ 1,009 0.45 % $ 1,211 0.53 % $ 1,111 0.49 % $ 1,301 0.57 % $ 1,149 0.50 % $ (202) (140) 
+
+(1)Quarterly net loan charge-offs (recoveries) as a percentage of average loans are annualized.
+
+-18-
+
+Wells Fargo & Company and Subsidiaries
+
+CHANGES IN ALLOWANCE FOR CREDIT LOSSES FOR LOANS
+
+Quarter ended Mar 31, 2025 
+
+$ Change from 
+
+($ in millions) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+Balance, beginning of period $ 14,636 14,739 14,789 14,862 15,088 (103) (452) 
+
+Provision for credit losses for loans 925 1,116 1,059 1,229 926 (191) (1) 
+
+Net loan charge-offs: 
+
+Commercial and industrial (108) (132) (129) (188) (148) 24 40 
+
+Commercial real estate (95) (261) (184) (271) (187) 166 92 
+
+Lease financing (8) (10) (10) (9) (6) 2 (2) 
+
+Total commercial (211) (403) (323) (468) (341) 192 130 
+
+Residential mortgage 15 14 23 19 13 1 2 
+
+Credit card (650) (628) (601) (649) (577) (22) (73) 
+
+Auto (64) (82) (83) (79) (112) 18 48 
+
+Other consumer (99) (112) (127) (124) (132) 13 33 
+
+Total consumer (798) (808) (788) (833) (808) 10 10 
+
+Net loan charge-offs (1,009) (1,211) (1,111) (1,301) (1,149) 202 140 
+
+Other (8) 2 (1) (3) 8 3 
+
+Balance, end of period $ 14,552 14,636 14,739 14,789 14,862 (84) (310) 
+
+Components: 
+
+Allowance for loan losses $ 14,029 14,183 14,330 14,360 14,421 (154) (392) 
+
+Allowance for unfunded credit commitments 523 453 409 429 441 70 82 
+
+Allowance for credit losses for loans $ 14,552 14,636 14,739 14,789 14,862 (84) (310) 
+
+Ratio of allowance for loan losses to total net loan charge-offs (annualized) 3.43x 2.95 3.24 2.74 3.12 
+
+Allowance for loan losses as a percentage of: 
+
+Total loans 1.54 % 1.55 1.58 1.56 1.56 
+
+Nonaccrual loans 176 183 175 170 179 
+
+Allowance for credit losses for loans as a percentage of: 
+
+Total loans 1.59 1.60 1.62 1.61 1.61 
+
+Nonaccrual loans 182 189 180 175 184 
+
+-19-
+
+Wells Fargo & Company and Subsidiaries
+
+ALLOCATION OF ALLOWANCE FOR CREDIT LOSSES FOR LOANS
+
+Mar 31, 2025 Dec 31, 2024 Sep 30, 2024 Jun 30, 2024 Mar 31, 2024
+
+($ in millions) ACL ACL
+
+as %
+
+of loan
+
+class ACL ACL
+
+as %
+
+of loan
+
+class ACL ACL
+
+as %
+
+of loan
+
+class ACL ACL
+
+as %
+
+of loan
+
+class ACL ACL
+
+as %
+
+of loan
+
+class
+
+By product: 
+
+Commercial and industrial $ 4,331 1.11 % $ 4,151 1.09 % $ 4,230 1.13 % $ 4,276 1.14 % $ 4,332 1.16 %
+
+Commercial real estate 3,365 2.51 3,583 2.62 3,653 2.58 3,754 2.58 3,782 2.54 
+
+Lease financing 234 1.45 212 1.29 209 1.27 206 1.23 203 1.22 
+
+Total commercial 7,930 1.47 7,946 1.49 8,092 1.52 8,236 1.53 8,317 1.54 
+
+Residential mortgage (1) 542 0.22 541 0.22 542 0.21 521 0.20 596 0.23 
+
+Credit card 4,840 8.86 4,869 8.61 4,704 8.55 4,517 8.40 4,321 8.30 
+
+Auto 629 1.52 636 1.50 726 1.70 804 1.82 894 1.93 
+
+Other consumer 611 2.08 644 2.19 675 2.37 711 2.52 734 2.57 
+
+Total consumer 6,622 1.77 6,690 1.77 6,647 1.75 6,553 1.72 6,545 1.70 
+
+Total allowance for credit losses for loans $ 14,552 1.59 % $ 14,636 1.60 % $ 14,739 1.62 % $ 14,789 1.61 % $ 14,862 1.61 %
+
+By segment: 
+
+Consumer Banking and Lending $ 7,332 2.32 % $ 7,470 2.32 % $ 7,445 2.31 % $ 7,386 2.27 % $ 7,361 2.24 %
+
+Commercial Banking 2,509 1.10 2,364 1.06 2,443 1.09 2,408 1.06 2,472 1.09 
+
+Corporate and Investing Banking 4,444 1.58 4,551 1.63 4,573 1.67 4,738 1.72 4,758 1.73 
+
+Wealth and Investment Management 258 0.31 241 0.29 266 0.32 245 0.29 258 0.31 
+
+Corporate 9 0.20 10 0.20 12 0.19 12 0.16 13 0.15 
+
+Total allowance for credit losses for loans $ 14,552 1.59 % $ 14,636 1.60 % $ 14,739 1.62 % $ 14,789 1.61 % $ 14,862 1.61 %
+
+(1)Includes negative allowance for expected recoveries of amounts previously charged off.
+
+-20-
+
+Wells Fargo & Company and Subsidiaries
+
+NONPERFORMING ASSETS (NONACCRUAL LOANS AND FORECLOSED ASSETS)
+
+Mar 31, 2025 Dec 31, 2024 Sep 30, 2024 Jun 30, 2024 Mar 31, 2024 Mar 31, 2025 
+
+$ Change from
+
+($ in millions) Balance % of
+
+total
+
+loans Balance % of
+
+total
+
+loans Balance % of
+
+total
+
+loans Balance % of
+
+total
+
+loans Balance % of
+
+total
+
+loans Dec 31,
+
+2024 Mar 31,
+
+2024
+
+By product: 
+
+Nonaccrual loans: 
+
+Commercial and industrial $ 969 0.25 % $ 763 0.20 % $ 743 0.20 % $ 754 0.20 % $ 750 0.20 % $ 206 219 
+
+Commercial real estate 3,836 2.86 3,771 2.76 4,115 2.91 4,321 2.97 3,913 2.63 65 (77) 
+
+Lease financing 78 0.48 84 0.51 94 0.57 86 0.51 76 0.46 (6) 2 
+
+Total commercial 4,883 0.90 4,618 0.86 4,952 0.93 5,161 0.96 4,739 0.88 265 144 
+
+Residential mortgage (1) 2,982 1.20 2,991 1.20 3,086 1.22 3,135 1.23 3,193 1.24 (9) (211) 
+
+Auto 83 0.20 89 0.21 99 0.23 103 0.23 109 0.24 (6) (26) 
+
+Other consumer 30 0.10 32 0.11 35 0.12 35 0.12 34 0.12 (2) (4) 
+
+Total consumer 3,095 0.83 3,112 0.82 3,220 0.85 3,273 0.86 3,336 0.87 (17) (241) 
+
+Total nonaccrual loans 7,978 0.87 7,730 0.85 8,172 0.90 8,434 0.92 8,075 0.88 248 (97) 
+
+Foreclosed assets 247 206 212 216 165 41 82 
+
+Total nonperforming assets $ 8,225 0.90 % $ 7,936 0.87 % $ 8,384 0.92 % $ 8,650 0.94 % $ 8,240 0.89 % $ 289 (15) 
+
+By segment: 
+
+Consumer Banking and Lending $ 3,011 0.95 % $ 3,029 0.94 % $ 3,144 0.97 % $ 3,194 0.98 % $ 3,240 0.99 % $ (18) (229) 
+
+Commercial Banking 1,536 0.67 1,173 0.53 1,120 0.50 980 0.43 932 0.41 363 604 
+
+Corporate and Investing Banking 3,442 1.23 3,508 1.26 3,912 1.43 4,265 1.55 3,831 1.39 (66) (389) 
+
+Wealth and Investment Management 236 0.28 226 0.27 208 0.25 211 0.25 237 0.29 10 (1) 
+
+Corporate 
+
+Total nonperforming assets $ 8,225 0.90 % $ 7,936 0.87 % $ 8,384 0.92 % $ 8,650 0.94 % $ 8,240 0.89 % $ 289 (15) 
+
+(1)Residential mortgage loans are not placed on nonaccrual status when they are insured or guaranteed by U.S. government agencies, such as the Federal Housing Administration or the Department of Veterans Affairs.
+
+-21-
+
+Wells Fargo & Company and Subsidiaries
+
+COMMERCIAL AND INDUSTRIAL LOANS AND LEASE FINANCING BY INDUSTRY
+
+Mar 31, 2025 Dec 31, 2024 Mar 31, 2024
+
+($ in millions) Nonaccrual
+
+loans Loans outstanding balance % of
+
+total
+
+loans Total commitments (1) Nonaccrual
+
+loans Loans outstanding balance % of
+
+total
+
+loans Total commitments (1) Nonaccrual
+
+loans Loans outstanding balance % of
+
+total
+
+loans Total commitments (1)
+
+Financials except banks $ 16 162,485 18 % $ 260,237 $ 24 156,831 17 % $ 255,576 $ 40 140,105 15 % $ 230,518 
+
+Technology, telecom and media 68 23,259 3 60,552 106 23,590 3 61,813 95 25,021 3 63,450 
+
+Real estate and construction 95 25,411 3 54,272 92 24,839 3 52,741 64 25,800 3 54,633 
+
+Equipment, machinery and parts manufacturing 31 25,563 3 50,572 35 25,135 3 51,150 35 25,914 3 48,633 
+
+Retail 268 18,623 2 45,408 91 17,709 2 43,374 59 19,841 2 48,926 
+
+Materials and commodities 119 14,476 2 33,883 100 13,624 1 37,365 86 15,301 2 38,653 
+
+Food and beverage manufacturing 9 16,316 2 32,215 9 16,665 2 35,079 20 16,321 2 33,212 
+
+Auto related 7 16,505 2 31,013 8 16,507 2 30,537 11 15,669 2 29,298 
+
+Oil, gas and pipelines 3 10,950 1 30,638 3 10,503 1 30,486 30 10,125 1 32,316 
+
+Health care and pharmaceuticals 62 13,590 1 30,564 27 13,620 1 30,726 69 15,001 2 29,857 
+
+Commercial services 88 11,148 1 27,462 78 11,152 1 26,968 43 10,813 1 26,054 
+
+Diversified or miscellaneous 10 10,295 1 25,897 9 9,115 * 22,847 52 9,191 * 22,072 
+
+Utilities 1 7,030 * 25,221 6,641 * 24,735 1 7,020 * 24,515 
+
+Entertainment and recreation 42 13,786 2 24,967 53 12,672 1 19,691 20 13,830 1 19,837 
+
+Insurance and fiduciaries 1 5,456 * 16,832 2 4,368 * 15,753 1 5,230 * 16,482 
+
+Transportation services 149 9,418 1 16,563 154 9,560 1 16,477 133 8,956 * 15,901 
+
+Government and education 29 6,179 * 12,659 29 5,897 * 11,711 24 5,320 * 11,471 
+
+Agribusiness 36 6,013 * 10,665 13 6,349 * 11,225 17 6,476 * 11,927 
+
+Consumer services 13 3,150 * 7,499 14 3,121 * 7,165 26 3,208 * 7,388 
+
+Other 7,011 * 10,679 9,756 * 14,223 10,400 * 15,405 
+
+Total $ 1,047 406,664 44 % $ 807,798 $ 847 397,654 44 % $ 799,642 $ 826 389,542 42 % $ 780,548 
+
+*Less than 1%.
+
+(1)Total commitments consists of loans outstanding plus unfunded credit commitments, excluding issued letters of credit and discretionary amounts where our approval or consent is required prior to any loan funding or commitment increase.
+
+-22-
+
+Wells Fargo & Company and Subsidiaries
+
+COMMERCIAL REAL ESTATE LOANS BY PROPERTY TYPE (1)
+
+Mar 31, 2025 Dec 31, 2024 Mar 31, 2024
+
+($ in millions) Nonaccrual
+
+loans Loans outstanding balance % of
+
+total
+
+loans Total commitments (2) Nonaccrual
+
+loans Loans outstanding balance % of
+
+total
+
+loans Total commitments (2) Nonaccrual
+
+loans Loans outstanding balance % of
+
+total
+
+loans Total commitments (2)
+
+Apartments $ 352 39,537 4 % $ 43,808 $ 85 39,758 4 % $ 44,783 $ 46 42,680 5 % $ 50,220 
+
+Office 2,897 26,415 3 27,611 3,136 27,380 3 28,768 3,136 30,477 3 32,725 
+
+Industrial/warehouse 67 23,286 3 25,576 74 24,038 3 26,178 26 25,734 3 27,972 
+
+Hotel/motel 239 11,606 1 12,004 190 11,506 1 12,015 186 12,523 1 13,239 
+
+Retail (excluding shopping center) 145 11,296 1 11,915 161 11,345 1 11,951 264 11,480 1 12,220 
+
+Shopping center 97 7,969 * 8,404 93 8,113 * 8,571 177 8,661 * 9,263 
+
+Institutional 13 5,095 * 5,365 12 5,186 * 5,524 41 5,795 * 6,284 
+
+Mixed use properties 18 2,342 * 2,719 18 2,316 * 2,427 27 2,971 * 3,095 
+
+Mobile home park 8 2,194 * 2,331 2,273 * 2,376 2,122 * 2,297 
+
+Storage facility 1,828 * 2,050 2,088 * 2,240 2,744 * 2,964 
+
+Other 2,467 * 3,859 2 2,502 * 4,177 10 3,599 * 5,521 
+
+Total $ 3,836 134,035 15 % $ 145,642 $ 3,771 136,505 15 % $ 149,010 $ 3,913 148,786 16 % $ 165,800 
+
+*Less than 1%.
+
+(1)Our commercial real estate (CRE) loan portfolio is comprised of CRE mortgage and CRE construction loans. 
+
+(2)Total commitments consists of loans outstanding plus unfunded credit commitments, excluding issued letters of credit.
+
+-23-
+
+Wells Fargo & Company and Subsidiaries
+
+NET INTEREST INCOME AND NET GAINS FROM TRADING ACTIVITIES (1)
+
+Quarter ended Mar 31, 2025 
+
+% Change from 
+
+($ in millions) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+Interest income $ 1,521 1,476 1,453 1,369 1,243 3 % 22 
+
+Interest expense 293 270 211 212 181 9 62 
+
+Total net interest income 1,228 1,206 1,242 1,157 1,062 2 16 
+
+Net gains from trading activities 1,373 950 1,438 1,442 1,454 45 (6) 
+
+Total trading-related net interest and noninterest income $ 2,601 2,156 2,680 2,599 2,516 21 3 
+
+(1)Provides net interest income and noninterest income earned from trading assets and liabilities, which are measured at fair value through earnings. 
+
+-24-
+
+Wells Fargo & Company and Subsidiaries 
+
+TANGIBLE COMMON EQUITY
+
+We also evaluate our business based on certain ratios that utilize tangible common equity. Tangible common equity is a non-GAAP financial measure and represents total equity less preferred equity, noncontrolling interests, goodwill, certain identifiable intangible assets (other than MSRs) and goodwill and other intangibles on investments in consolidated portfolio companies, net of applicable deferred taxes. The ratios are (i) tangible book value per common share, which represents tangible common equity divided by common shares outstanding; and (ii) return on average tangible common equity (ROTCE), which represents our annualized earnings as a percentage of tangible common equity. The methodology of determining tangible common equity may differ among companies. Management believes that tangible book value per common share and return on average tangible common equity, which utilize tangible common equity, are useful financial measures because they enable management, investors, and others to assess the Companys use of equity.
+
+The tables below provide a reconciliation of these non-GAAP financial measures to GAAP financial measures.
+
+Mar 31, 2025 
+
+% Change from
+
+($ in millions) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024
+
+Tangible book value per common share: 
+
+Total equity $ 182,906 181,066 185,011 178,148 182,674 1 % 
+
+Adjustments: 
+
+Preferred stock (18,608) (18,608) (18,608) (16,608) (18,608) 
+
+Additional paid-in capital on preferred stock 145 144 144 141 146 1 (1) 
+
+Noncontrolling interests (1,816) (1,946) (1,746) (1,718) (1,731) 7 (5) 
+
+Total common stockholders' equity (A) 162,627 160,656 164,801 159,963 162,481 1 
+
+Adjustments: 
+
+Goodwill (25,066) (25,167) (25,173) (25,172) (25,173) 
+
+Certain identifiable intangible assets (other than MSRs) (65) (73) (85) (96) (107) 11 39 
+
+Goodwill and other intangibles on investments in consolidated portfolio companies (included in other assets) (674) (735) (772) (968) (965) 8 30 
+
+Applicable deferred taxes related to goodwill and other intangible assets (1) 954 947 940 933 927 1 3 
+
+Tangible common equity (B) $ 137,776 135,628 139,711 134,660 137,163 2 
+
+Common shares outstanding (C) 3,261.7 3,288.9 3,345.5 3,402.7 3,501.7 (1) (7) 
+
+Book value per common share (A)/(C) $ 49.86 48.85 49.26 47.01 46.40 2 7 
+
+Tangible book value per common share (B)/(C) 42.24 41.24 41.76 39.57 39.17 2 8 
+
+(1)Determined by applying the combined federal statutory rate and composite state income tax rates to the difference between book and tax basis of the respective goodwill and intangible assets at period-end. 
+
+-25-
+
+Wells Fargo & Company and Subsidiaries 
+
+TANGIBLE COMMON EQUITY (continued) 
+
+Quarter ended Mar 31, 2025 
+
+% Change from 
+
+($ in millions) Mar 31,
+
+2025 Dec 31,
+
+2024 Sep 30,
+
+2024 Jun 30,
+
+2024 Mar 31,
+
+2024 Dec 31,
+
+2024 Mar 31,
+
+2024 
+
+Return on average tangible common equity: 
+
+Net income applicable to common stock (A) $ 4,616 4,801 4,852 4,640 4,313 (4) % 7 
+
+Average total equity 183,358 182,933 184,368 181,552 186,669 (2) 
+
+Adjustments: 
+
+Preferred stock (18,608) (18,608) (18,129) (18,300) (19,291) 4 
+
+Additional paid-in capital on preferred stock 145 144 143 145 155 1 (6) 
+
+Noncontrolling interests (1,894) (1,803) (1,748) (1,743) (1,710) (5) (11) 
+
+Average common stockholders equity (B) 163,001 162,666 164,634 161,654 165,823 (2) 
+
+Adjustments: 
+
+Goodwill (25,135) (25,170) (25,172) (25,172) (25,174) 
+
+Certain identifiable intangible assets (other than MSRs) (69) (78) (89) (101) (112) 12 38 
+
+Goodwill and other intangibles on investments in consolidated portfolio companies (included in other assets) (734) (772) (965) (965) (879) 5 16 
+
+Applicable deferred taxes related to goodwill and other intangible assets (1) 952 945 938 931 924 1 3 
+
+Average tangible common equity (C) $ 138,015 137,591 139,346 136,347 140,582 (2) 
+
+Return on average common stockholders equity (ROE) (annualized) (A)/(B) 11.5 % 11.7 11.7 11.5 10.5 
+
+Return on average tangible common equity (ROTCE) (annualized) (A)/(C) 13.6 13.9 13.9 13.7 12.3 
+
+(1)Determined by applying the combined federal statutory rate and composite state income tax rates to the difference between book and tax basis of the respective goodwill and intangible assets at period-end. 
+
+-26-
+
+Wells Fargo & Company and Subsidiaries 
+
+RISK-BASED CAPITAL RATIOS UNDER BASEL III (1)
+
+Estimated 
+
+($ in billions) Mar 31, 2025 Dec 31, 2024 Sep 30, 2024 Jun 30, 2024 Mar 31, 2024 
+
+Total equity $ 182.9 181.1 185.0 178.1 182.7 
+
+Adjustments: 
+
+Preferred stock (18.6) (18.6) (18.6) (16.6) (18.6) 
+
+Additional paid-in capital on preferred stock 0.1 0.1 0.1 0.2 0.1 
+
+Noncontrolling interests (1.8) (1.9) (1.7) (1.7) (1.7) 
+
+Total common stockholders' equity 162.6 160.7 164.8 160.0 162.5 
+
+Adjustments: 
+
+Goodwill (25.1) (25.2) (25.2) (25.2) (25.2) 
+
+Certain identifiable intangible assets (other than MSRs) (0.1) (0.1) (0.1) (0.1) (0.1) 
+
+Goodwill and other intangibles on investments in consolidated portfolio companies (included in other assets) (0.7) (0.7) (0.8) (1.0) (1.0) 
+
+Applicable deferred taxes related to goodwill and other intangible assets (2) 1.0 0.9 0.9 0.9 0.9 
+
+Other (2.1) (1.0) (1.3) (0.4) (0.4) 
+
+Common Equity Tier 1 under the Standardized and Advanced Approaches (A) 135.6 134.6 138.3 134.2 136.7 
+
+Preferred stock 18.6 18.6 18.6 16.6 18.6 
+
+Additional paid-in capital on preferred stock (0.1) (0.1) (0.1) (0.2) (0.1) 
+
+Other (0.2) (0.2) (0.2) (0.1) (0.3) 
+
+Total Tier 1 capital under the Standardized and Advanced Approaches (B) 153.9 152.9 156.6 150.5 154.9 
+
+Long-term debt and other instruments qualifying as Tier 2 17.6 17.6 17.7 18.3 19.0 
+
+Qualifying allowance for credit losses (3) 14.4 14.5 14.6 14.7 14.7 
+
+Other (0.4) (0.3) (0.4) (0.3) (0.5) 
+
+Total Tier 2 capital under the Standardized Approach 
+
+(C) 31.6 31.8 31.9 32.7 33.2 
+
+Total qualifying capital under the Standardized Approach 
+
+(B)+(C) $ 185.5 184.7 188.5 183.2 188.1 
+
+Long-term debt and other instruments qualifying as Tier 2 17.6 17.6 17.7 18.3 19.0 
+
+Qualifying allowance for credit losses (3) 4.3 4.3 4.3 4.4 4.4 
+
+Other (0.4) (0.3) (0.4) (0.3) (0.5) 
+
+Total Tier 2 capital under the Advanced Approach (D) 21.5 21.6 21.6 22.4 22.9 
+
+Total qualifying capital under the Advanced Approach 
+
+(B)+(D) $ 175.4 174.5 178.2 172.9 177.8 
+
+Total risk-weighted assets (RWAs) under the Standardized Approach (E) $ 1,223.4 1,216.1 1,219.9 1,219.5 1,221.6 
+
+Total RWAs under the Advanced Approach (F) $ 1,065.0 1,085.0 1,089.3 1,093.0 1,099.6 
+
+Ratios under the Standardized Approach: 
+
+Common Equity Tier 1 (A)/(E) 11.1 % 11.1 11.3 11.0 11.2 
+
+Tier 1 capital (B)/(E) 12.6 12.6 12.8 12.3 12.7 
+
+Total capital 
+
+(B)+(C)/(E) 15.2 15.2 15.5 15.0 15.4 
+
+Ratios under the Advanced Approach: 
+
+Common Equity Tier 1 (A)/(F) 12.7 % 12.4 12.7 12.3 12.4 
+
+Tier 1 capital (B)/(F) 14.5 14.1 14.4 13.8 14.1 
+
+Total capital 
+
+(B)+(D)/(F) 16.5 16.1 16.4 15.8 16.2 
+
+(1)The Basel III capital rules provide for two capital frameworks (the Standardized Approach and the Advanced Approach applicable to certain institutions), and we must calculate our CET1, Tier 1 and total capital ratios under both approaches.
+
+(2)Determined by applying the combined federal statutory rate and composite state income tax rates to the difference between book and tax basis of the respective goodwill and intangible assets at period-end.
+
+(3)Differences between the approaches are driven by the qualifying amounts of ACL includable in Tier 2 capital. Under the Advanced Approach, eligible credit reserves represented by the amount of qualifying ACL in excess of expected credit losses (using regulatory definitions) is limited to 0.60% of Advanced credit RWAs, whereas the Standardized Approach includes ACL in Tier 2 capital up to 1.25% of Standardized credit RWAs. Under both approaches, any excess ACL is deducted from the respective total RWAs.
+
+-27-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>4
+<FILENAME>ex993-wellsfargo1q25pres.htm
+<DESCRIPTION>EXHIBIT 99.3
+<TEXT>
+ex993-wellsfargo1q25pres
+
+2025 Wells Fargo Bank, N.A. All rights reserved. 1Q25 Financial Results April 11, 2025 Exhibit 99.3 
+
+21Q25 Financial Results 1Q25 results Financial Results ROE: 11.5% ROTCE: 13.6%1 Efficiency ratio: 69%2 Credit Quality Capital and Liquidity CET1 ratio: 11.1%5 LCR: 125%6 TLAC ratio: 25.1%7 Provision for credit losses4 of $932 million Total net loan charge-offs of $1.0 billion, down $140 million, with net loan charge-offs of 0.45% of average loans (annualized) Allowance for credit losses for loans of $14.6 billion, down 2% Common Equity Tier 1 (CET1) capital5 of $135.6 billion CET1 ratio5 of 11.1% under the Standardized Approach Liquidity coverage ratio (LCR)6 of 125% Net income of $4.9 billion, or $1.39 per diluted common share, included: Revenue of $20.1 billion, down 3% Net interest income of $11.5 billion, down 6% Noninterest income of $8.7 billion, up slightly Noninterest expense of $13.9 billion, down 3% Pre-tax pre-provision profit3 of $6.3 billion, down 4% Effective income tax rate of 9.6% and included $313 million of discrete tax benefits Average loans of $908.2 billion, down 2% Average deposits of $1.3 trillion, down slightly Comparisons in the bullet points are for 1Q25 versus 1Q24, unless otherwise noted. Endnotes are presented starting on page 17. ($ in millions, except EPS) Pre-tax Income EPS Discrete tax benefits related to the resolution of prior period matters $313 $0.09 Gain on the previously announced sale of the non-agency third party servicing segment of our commercial mortgage servicing business 263 0.06 Losses on debt securities related to a repositioning of the investment portfolio (149) (0.03) 
+
+31Q25 Financial Results 1Q25 earnings Quarter ended $ Change from $ in millions, except per share data 1Q25 4Q24 1Q24 4Q24 1Q24 Net interest income $11,495 11,836 12,227 ($341) (732) Noninterest income 8,654 8,542 8,636 112 18 Total revenue 20,149 20,378 20,863 (229) (714) Net charge-offs 1,009 1,188 1,157 (179) (148) Change in the allowance for credit losses (77) (93) (219) 16 142 Provision for credit losses1 932 1,095 938 (163) (6) Noninterest expense 13,891 13,900 14,338 (9) (447) Pre-tax income 5,326 5,383 5,587 (57) (261) Income tax expense 522 120 964 402 (442) Effective income tax rate (%) 9.6 % 2.3 17.3 733 bps (763) Net income $4,894 5,079 4,619 ($185) 275 Diluted earnings per common share $1.39 1.43 1.20 ($0.04) 0.19 Diluted average common shares (# mm) 3,321.6 3,360.7 3,600.1 (39) (279) Return on equity (ROE) 11.5 % 11.7 10.5 (26) bps 103 Return on average tangible common equity (ROTCE)2 13.6 13.9 12.3 (32) 122 Efficiency ratio 69 68 69 73 22 Endnotes are presented starting on page 17. 
+
+41Q25 Financial Results Net Interest Income ($ in millions) 12,227 11,923 11,690 11,836 11,495 Net Interest Margin (NIM) on a taxable-equivalent basis 1Q24 2Q24 3Q24 4Q24 1Q25 2.67% Net interest income Net interest income down $732 million, or 6%, from 1Q24 driven by the impact of lower interest rates on floating rate assets, deposit mix and pricing changes, lower loan balances, and one fewer day in the quarter, partially offset by lower market funding Net interest income down $341 million, or 3%, from 4Q24 driven by two fewer days in the quarter and the impact of lower interest rates on floating rate assets, partially offset by deposit pricing, lower market funding, and higher commercial loan balances 2.81% 2.75% 2.67% 2.70% 1 Endnotes are presented starting on page 17. 
+
+51Q25 Financial Results Loans and deposits Average loans down 2% year-over-year (YoY) driven by declines in commercial real estate and residential mortgage loans; up $1.8 billion from 4Q24 driven by commercial & industrial loans Total average loan yield of 5.96%, down 42 bps YoY and down 20 bps from 4Q24 reflecting the impact of lower interest rates Period-end loans down $9.0 billion, or 1%, YoY and up $1.1 billion from 4Q24 Average deposits down $2.3 billion YoY; down 1% from 4Q24 on a reduction in higher cost CDs issued by Corporate Treasury and declines in wholesale deposits, partially offset by higher consumer deposits Period-end deposits down 2% YoY and down 1% from 4Q24 Average Loans Outstanding ($ in billions) 928.1 917.0 910.3 906.4 908.2 542.1 534.8 530.6 528.3 533.2 386.0 382.2 379.7 378.1 375.0 Total Average Loan Yield Consumer Loans Commercial Loans 1Q24 2Q24 3Q24 4Q24 1Q25 6.38% 6.40% 6.41% 6.16% 5.96% Period-End Deposits ($ in billions) 1Q25 vs 4Q24 vs 1Q24 Consumer Banking and Lending $798.8 2 % 1 % Commercial Banking 181.5 (4) 8 Corporate and Investment Banking 209.2 (2) 7 Wealth and Investment Management 124.6 (2) 22 Corporate 47.6 (20) (61) Total deposits $1,361.7 (1) % (2) % Average deposit cost 1.58 % (0.15) (0.16) 1,341.6 1,346.5 1,341.7 1,353.8 1,339.3 773.2 778.2 773.6 773.6 778.6 164.0 166.9 173.2 184.3 182.9 183.3 187.5 194.3 205.1 203.9 101.5 102.8 108.0 118.3 123.4 119.6 111.1 92.6 72.5 Corporate Wealth and Investment Management Corporate and Investment Banking Commercial Banking Consumer Banking and Lending 1Q24 2Q24 3Q24 4Q24 1Q25 Period-End Loans Outstanding ($ in billions) 1Q25 vs 4Q24 vs 1Q24 Commercial $540.7 1 % % Consumer 373.1 (1) (3) Total loans $913.8 % (1) % Average Deposits ($ in billions) 50.5 
+
+61Q25 Financial Results Noninterest Income ($ in millions) 8,636 8,766 8,676 8,542 8,654 940 935 686 957 655 1,061 1,101 1,096 1,084 1,044 627 641 672 725 775 1,454 1,442 1,438 950 1,373 1,597 1,618 1,675 1,625 1,633 2,957 3,029 3,109 3,201 3,174 Investment advisory fees and brokerage commissions Deposit and lending-related fees Net gains from trading activities Investment banking fees Card fees All other 1Q24 2Q24 3Q24 4Q24 1Q25 Noninterest income stable with 1Q24 Investment advisory fees and brokerage commissions1 up $217 million, or 7%, driven by higher asset-based fees reflecting higher market valuations Net gains from trading activities down $81 million, or 6%, and included lower revenue from credit trading and mortgage trading, partially offset by higher commodities trading and FX revenue Investment banking fees up $148 million, or 24%, on increased activity in debt capital markets All other2 down $285 million and included: $361 million lower net equity gains (losses) driven by lower results from our venture capital investments $149 million of losses on debt securities related to a repositioning of the investment portfolio $263 million gain on sale of our commercial non-agency third party servicing business Noninterest income up $112 million, or 1%, from 4Q24 Net gains from trading activities up 45% reflecting higher customer activity across most asset classes, as well as seasonality; 4Q24 also included an $(85) million impact from the change to incorporate funding valuation adjustments (FVA) on derivatives Investment banking fees up $50 million, or 7%, on increased activity in debt capital markets All other2 down $302 million driven by lower results from our venture capital investments Noninterest income 2 1 Endnotes are presented starting on page 17. 
+
+71Q25 Financial Results 14,338 13,293 13,067 13,900 13,891 3,929 4,173 4,246 4,521 4,251 9,492 8,575 8,591 8,424 9,474 Operating Losses FDIC Special Assessment Personnel Expense Non-personnel Expense 1Q24 2Q24 3Q24 4Q24 1Q25 Noninterest expense Noninterest expense down $447 million, or 3%, from 1Q24 Operating losses down $490 million FDIC special assessment2 down $261 million Personnel expense down $18 million on the impact of efficiency initiatives, partially offset by higher revenue-related compensation expense and higher retirement-eligible employee stock compensation expense Non-personnel expense up $322 million, or 8%, and included higher technology and equipment expense and occupancy expense, partially offset by the impact of efficiency initiatives Noninterest expense stable with 4Q24 Operating losses down $195 million Personnel expense up $403 million on seasonal personnel expense and annual merit increases Non-personnel expense down $270 million, or 6%, and included lower professional and outside services expense, advertising and promotion expense, and technology and equipment expense Noninterest Expense ($ in millions) Headcount (Period-end, '000s) 1Q24 2Q24 3Q24 4Q24 1Q25 225 223 220 218 215 338 293493 633 Endnotes are presented starting on page 17. (30)(63) 52 284 6471 1 143 23 
+
+81Q25 Financial Results 938 1,236 1,065 1,095 932 1,149 1,301 1,111 1,211 1,009 Provision for Credit Losses Net Loan Charge-offs Net Loan Charge-off Ratio 1Q24 2Q24 3Q24 4Q24 1Q25 Credit quality: net loan charge-offs Commercial net loan charge-offs down $192 million to 16 bps of average loans (annualized) reflecting a $166 million decrease in commercial real estate (CRE) net loan charge-offs CRE net loan charge-offs of $95 million, or 28 bps of average loans (annualized), predominantly driven by CRE office net loan charge-offs Consumer net loan charge-offs down $10 million to 86 bps of average loans (annualized) on a decline in auto and other consumer net loan charge-offs, partially offset by an increase in credit card net loan charge-offs reflecting seasonality Nonperforming assets of $8.2 billion, up $289 million, or 4%, primarily driven by a $206 million increase in commercial & industrial nonaccrual loans Provision for Credit Losses1 and Net Loan Charge-offs ($ in millions) Comparisons in the bullet points are for 1Q25 versus 4Q24. Endnotes are presented starting on page 17. 0.50% 0.57% 0.53%0.49% 1 0.45% 
+
+91Q25 Financial Results Credit quality: allowance for credit losses for loans Allowance for Credit Losses for Loans ($ in millions) Allowance for credit losses (ACL) for loans down $84 million reflecting a lower allowance for commercial real estate loans on lower loan balances, partially offset by a higher allowance for commercial and industrial loans Allowance coverage for total loans down 2 bps from 1Q24 and down 1 bp from 4Q24 CRE office ACL of $2.1 billion, down $191 million CRE office ACL as a % of loans of 7.9%, down from 8.3% Corporate and Investment Banking (CIB) CRE office ACL as a % of loans of 11.2%, down from 12.0% CRE nonaccrual loans of $3.8 billion, up $65 million, or 2%, and included a $239 million decrease in CRE office nonaccrual loans 14,862 14,789 14,739 14,636 14,552 8,317 8,236 8,092 7,946 7,930 6,545 6,553 6,647 6,690 6,622 Commercial Consumer Allowance coverage for total loans 1Q24 2Q24 3Q24 4Q24 1Q25 1.61%1.61% 1.62% 1.60% 1.59% 1 CRE Allowance for Credit Losses (ACL) and Nonaccrual Loans, as of 3/31/25 ($ in millions) Allowance for Credit Losses Loans Outstanding ACL as a % of Loans Nonaccrual Loans CIB CRE Office $1,869 16,619 11.2% $2,730 All other CRE Office 225 9,796 2.3 167 Total CRE Office 2,094 26,415 7.9 2,897 All other CRE 1,271 107,620 1.2 939 Total CRE $3,365 134,035 2.5% $3,836 Comparisons in the bullet points are for 1Q25 versus 4Q24, unless otherwise noted. 
+
+101Q25 Financial Results Capital and liquidity Capital Position Common Equity Tier 1 (CET1) ratio1 of 11.1% at March 31, 2025 CET1 ratio down 10 bps from 1Q24 and stable with 4Q24 An increase in accumulated other comprehensive income driven by lower interest rates had a 14 bps impact on the CET1 ratio versus 4Q24 Capital Return $3.5 billion in gross common stock repurchases, or 44.5 million shares, in 1Q25; period-end common shares outstanding down 240.0 million, or 7%, from 1Q24 1Q25 common stock dividend of $0.40 per share with $1.3 billion in common stock dividends paid Total Loss Absorbing Capacity (TLAC) As of March 31, 2025, our TLAC as a percentage of total risk-weighted assets3 was 25.1% compared with the required minimum of 21.5% Liquidity Position Strong liquidity position with a 1Q25 LCR4 of 125% which remained above our regulatory minimum of 100% 11.2% 11.0% 11.3% 11.1% 11.1% 1Q24 2Q24 3Q24 4Q24 1Q25 Estimated 9.8% Regulatory Minimum and Buffers2 Common Equity Tier 1 Ratio under the Standardized Approach1 Endnotes are presented starting on page 17. 
+
+111Q25 Financial Results Total revenue down 2% YoY and down 1% from 4Q24 CSBB down 2% YoY driven by lower net interest income; down 1% from 4Q24 on lower net interest income and seasonally lower debit card fees Credit Card up 2% YoY reflecting higher loan balances, partially offset by lower card fees Auto down 21% YoY and down 10% from 4Q24 driven by lower loan balances and loan spread compression Personal Lending down 10% YoY driven by lower loan balances Noninterest expense down 2% YoY reflecting lower operating losses and the impact of efficiency initiatives, partially offset by higher branch personnel expense and occupancy expense, reflecting investments in our branch network Consumer Banking and Lending (CBL) Summary Financials $ in millions (mm) 1Q25 vs. 4Q24 vs. 1Q24 Revenue by line of business: Consumer, Small and Business Banking (CSBB) $5,981 ($86) (111) Consumer Lending: Home Lending 866 12 2 Credit Card 1,524 35 28 Auto 237 (26) (63) Personal Lending 305 (2) (34) Total revenue 8,913 (67) (178) Provision for credit losses 739 (172) (49) Noninterest expense 5,928 3 (96) Pre-tax income 2,246 102 (33) Net income $1,689 $87 (17) Selected Metrics and Average Balances $ in billions 1Q25 4Q24 1Q24 Return on allocated capital1 14.5 % 13.4 14.5 Efficiency ratio2 67 66 66 Average loans $318.1 321.4 329.7 Average deposits 778.6 773.6 773.2 Retail bank branches (#, period-end) 4,155 4,177 4,247 Mobile active customers3 (# in mm, period-end) 31.8 31.4 30.5 Other Selected Metrics $ in billions 1Q25 4Q24 1Q24 Debit card purchase volume4 $126.0 131.0 121.5 Average Home Lending loans 205.5 207.8 214.3 Mortgage loan originations 4.4 5.9 3.5 Average Credit Card loans 50.1 50.2 46.4 Credit Card purchase volume4 42.5 45.1 39.1 Credit Card new accounts (# in thousands) 554 486 651 Average Auto loans $42.5 43.0 47.6 Auto loan originations 4.6 5.0 4.1 Endnotes are presented starting on page 17. 
+
+121Q25 Financial Results Commercial Banking (CB) Total revenue down 7% YoY and down 8% from 4Q24 Net interest income down 13% YoY driven by the impact of lower interest rates, partially offset by lower deposit pricing and higher deposit balances; down 12% from 4Q24 driven by the impact of lower interest rates, partially offset by lower deposit pricing Noninterest income up 8% YoY on higher treasury management fees, higher revenue from tax credit investments, and an increase in investment banking fees, partially offset by lower results from equity investments Noninterest expense down 1% YoY; up 10% from 4Q24 driven by seasonal personnel expenses and higher operating costs Summary Financials $ in millions 1Q25 vs. 4Q24 vs. 1Q24 Earnings Net interest income $1,977 ($271) (301) Noninterest income 948 25 74 Total revenue 2,925 (246) (227) Provision for credit losses 187 154 44 Noninterest expense 1,670 145 (9) Pre-tax income 1,068 (545) (262) Net income $794 ($409) (192) Selected Metrics 1Q25 4Q24 1Q24 Return on allocated capital 11.4 % 17.4 14.3 Efficiency ratio 57 48 53 Average balances ($ in billions) Loans $223.8 221.8 223.9 Deposits 182.9 184.3 164.0 
+
+131Q25 Financial Results Corporate and Investment Banking (CIB) Total revenue up 2% YoY and up 10% from 4Q24 Banking revenue down 4% YoY driven by the impact of lower interest rates, partially offset by lower deposit pricing and higher investment banking revenue on increased activity in debt capital markets Commercial Real Estate revenue up 14% from 4Q24 driven by the $263 million gain on sale of our non-agency third party servicing business, as well as higher revenue in our low-income housing business and increased capital markets activity, partially offset by the impact of lower loan balances and interest rates Markets revenue up 22% from 4Q24 reflecting seasonality and higher trading activity across most asset classes Noninterest expense up 6% YoY driven by higher operating costs and incentive compensation expense, partially offset by the impact of efficiency initiatives; up 8% from 4Q24 driven by seasonal personnel expense Summary Financials $ in millions 1Q25 vs. 4Q24 vs. 1Q24 Revenue by line of business: Banking: Lending $618 ($73) (63) Treasury Management and Payments 618 (26) (68) Investment Banking 534 43 60 Total Banking 1,770 (56) (71) Commercial Real Estate 1,449 175 226 Markets: Fixed Income, Currencies and Commodities (FICC) 1,382 203 23 Equities 448 63 (2) Credit Adjustment (CVA/DVA/FVA) and Other (3) 68 (22) Total Markets 1,827 334 (1) Other 18 (2) (72) Total revenue 5,064 451 82 Provision for credit losses (205) (5) Noninterest expense 2,476 176 146 Pre-tax income 2,588 480 (59) Net income $1,941 $361 (40) Selected Metrics 1Q25 4Q24 1Q24 Return on allocated capital 17.0 % 13.4 17.2 Efficiency ratio 49 50 47 Average Balances ($ in billions) Loans by line of business 1Q25 4Q24 1Q24 Banking $86.5 85.7 90.9 Commercial Real Estate 117.4 119.4 131.7 Markets 73.4 68.8 60.6 Total loans $277.3 273.9 283.2 Deposits 203.9 205.1 183.3 Trading-related assets 268.3 252.7 201.2 
+
+141Q25 Financial Results Wealth and Investment Management (WIM) Summary Financials $ in millions 1Q25 vs. 4Q24 vs. 1Q24 Net interest income $826 ($30) (43) Noninterest income 3,048 (54) 175 Total revenue 3,874 (84) 132 Provision for credit losses 11 38 8 Noninterest expense 3,360 53 130 Pre-tax income 503 (175) (6) Net income $392 ($116) 11 Selected Metrics $ in billions 1Q25 4Q24 1Q24 Return on allocated capital 23.6 % 30.2 22.7 Efficiency ratio 87 84 86 Average loans $84.3 83.6 82.5 Average deposits 123.4 118.3 101.5 Client assets Advisory assets 980 998 939 Other brokerage assets and deposits 1,253 1,295 1,247 Total client assets $2,233 2,293 2,186 Total revenue up 4% YoY and down 2% from 4Q24 Net interest income down 5% YoY driven by higher deposit costs, partially offset by higher deposit and loan balances; down 4% from 4Q24 driven by the impact of lower interest rates Noninterest income up 6% YoY on higher asset-based fees driven by an increase in market valuations; down 2% from 4Q24 largely due to lower asset-based fees Noninterest expense up 4% YoY on higher revenue-related compensation, partially offset by the impact of efficiency initiatives; up 2% from 4Q24 driven by seasonal personnel expense 
+
+151Q25 Financial Results Corporate Revenue decreased YoY reflecting lower results from our venture capital investments and higher net losses on debt securities related to a repositioning of the investment portfolio Noninterest expense down YoY reflecting lower FDIC assessments, as 1Q24 included a $284 million FDIC special assessment, and lower operating losses Summary Financials $ in millions 1Q25 vs. 4Q24 vs. 1Q24 Net interest income $36 $300 4 Noninterest income (213) (581) (504) Total revenue (177) (281) (500) Provision for credit losses (5) 22 (4) Noninterest expense 457 (386) (618) Pre-tax loss (629) 83 122 Income tax benefit (615) 465 (298) Less: Net loss from noncontrolling interests (92) (274) (93) Net income $78 ($108) 513 
+
+161Q25 Financial Results Outlook Expect 2025 net interest income to be ~1% to 3% higher than in 2024, unchanged from prior guidance Net interest income performance will ultimately be determined by a variety of factors, many of which are uncertain, including the absolute level of rates and the shape of the yield curve; deposit balances, mix and pricing; and loan demand Net Interest Income Noninterest Expense Expect 2025 noninterest expense to be ~$54.2 billion, unchanged from prior guidance 
+
+171Q25 Financial Results Endnotes Page 2 1Q25 results 1. Tangible common equity and return on average tangible common equity (ROTCE) are non-GAAP financial measures. For additional information, including a corresponding reconciliation to GAAP financial measures, see the Tangible Common Equity table on page 19. 2. The efficiency ratio is noninterest expense divided by total revenue (net interest income and noninterest income). 3. Pre-tax pre-provision profit (PTPP) is total revenue less noninterest expense. Management believes that PTPP is a useful financial measure because it enables investors and others to assess the Company's ability to generate capital to cover credit losses through a credit cycle. 4. Includes provision for credit losses for loans, debt securities, and other financial assets. 5. The Common Equity Tier 1 (CET1) ratio calculated under the Standardized Approach is our binding CET1 ratio. See page 20 for additional information regarding CET1 capital and ratios. CET1 for March 31, 2025, is a preliminary estimate. 6. Liquidity coverage ratio (LCR) represents average high-quality liquid assets divided by average projected net cash outflows, as each is defined under the LCR rule. LCR for March 31, 2025, is a preliminary estimate. 7. Represents total loss absorbing capacity (TLAC) divided by risk-weighted assets (RWAs), which is our binding TLAC ratio, determined by using the greater of RWAs under the Standardized and Advanced Approaches. TLAC for March 31, 2025, is a preliminary estimate. Page 3 1Q25 earnings 1. Includes provision for credit losses for loans, debt securities, and other financial assets. 2. Tangible common equity and return on average tangible common equity (ROTCE) are non-GAAP financial measures. For additional information, including a corresponding reconciliation to GAAP financial measures, see the Tangible Common Equity table on page 19. Page 4 Net interest income 1. Includes taxable-equivalent adjustments predominantly related to tax-exempt income on certain loans and securities. Page 6 Noninterest income 1. Investment advisory fees and brokerage commissions includes investment advisory and other asset-based fees and commissions and brokerage services fees. 2. All other includes mortgage banking, net losses from debt securities, net gains (losses) from equity securities, lease income, and other. Page 7 Noninterest expense 1. 4Q24 total personnel expense of $9.1 billion included $647 million of severance expense. 2. Federal Deposit Insurance Corporation (FDIC) special assessment expense reflects updates provided by the FDIC on losses to the deposit insurance fund. 
+
+181Q25 Financial Results Page 8 Credit quality: net loan charge-offs 1. Includes provision for credit losses for loans, debt securities, and other financial assets. Page 10 Capital and liquidity 1. The Common Equity Tier 1 (CET1) ratio calculated under the Standardized Approach is our binding CET1 ratio. See page 20 for additional information regarding CET1 capital and ratios. 1Q25 CET1 is a preliminary estimate. 2. Includes a 4.50% minimum requirement, a stress capital buffer of 3.80%, and a G-SIB capital surcharge of 1.50%. 3. Represents total loss absorbing capacity (TLAC) divided by risk-weighted assets (RWAs), which is our binding TLAC ratio, determined by using the greater of RWAs under the Standardized and Advanced Approaches. TLAC is a preliminary estimate. 4. Liquidity coverage ratio (LCR) represents average high-quality liquid assets divided by average projected net cash outflows, as each is defined under the LCR rule. 1Q25 LCR is a preliminary estimate. Page 11 Consumer Banking and Lending 1. Return on allocated capital is segment net income (loss) applicable to common stock divided by segment average allocated capital. Segment net income (loss) applicable to common stock is segment net income (loss) less allocated preferred stock dividends. 2. Efficiency ratio is segment noninterest expense divided by segment total revenue. 3. Mobile active customers is the number of consumer and small business customers who have logged on via a mobile device in the prior 90 days. 4. Reflects combined activity for consumer and small business customers. Endnotes (continued) 
+
+191Q25 Financial Results Tangible Common Equity Wells Fargo & Company and Subsidiaries TANGIBLE COMMON EQUITY We also evaluate our business based on certain ratios that utilize tangible common equity. Tangible common equity is a non-GAAP financial measure and represents total equity less preferred equity, noncontrolling interests, goodwill, certain identifiable intangible assets (other than MSRs) and goodwill and other intangibles on investments in consolidated portfolio companies, net of applicable deferred taxes. One of these ratios is return on average tangible common equity (ROTCE), which represents our annualized earnings as a percentage of tangible common equity. The methodology of determining tangible common equity may differ among companies. Management believes that return on average tangible common equity, which utilizes tangible common equity, is a useful financial measure because it enables management, investors, and others to assess the Companys use of equity. The table below provides a reconciliation of this non-GAAP financial measure to GAAP financial measures. Quarter ended ($ in millions) Mar 31, 2025 Dec 31, 2024 Sep 30, 2024 Jun 30, 2024 Mar 31, 2024 Return on average tangible common equity: Net income applicable to common stock (A) $4,616 4,801 4,852 4,640 4,313 Average total equity 183,358 182,933 184,368 181,552 186,669 Adjustments: Preferred stock (18,608) (18,608) (18,129) (18,300) (19,291) Additional paid-in capital on preferred stock 145 144 143 145 155 Noncontrolling interests (1,894) (1,803) (1,748) (1,743) (1,710) Average common stockholders equity (B) 163,001 162,666 164,634 161,654 165,823 Adjustments: Goodwill (25,135) (25,170) (25,172) (25,172) (25,174) Certain identifiable intangible assets (other than MSRs) (69) (78) (89) (101) (112) Goodwill and other intangibles on investments in consolidated portfolio companies (included in other assets) (734) (772) (965) (965) (879) Applicable deferred taxes related to goodwill and other intangible assets1 952 945 938 931 924 Average tangible common equity (C) $138,015 137,591 139,346 136,347 140,582 Return on average common stockholders equity (ROE) (annualized) (A)/(B) 11.5 % 11.7 11.7 11.5 10.5 Return on average tangible common equity (ROTCE) (annualized) (A)/(C) 13.6 13.9 13.9 13.7 12.3 1. Determined by applying the combined federal statutory rate and composite state income tax rates to the difference between book and tax basis of the respective goodwill and intangible assets at period-end. 
+
+201Q25 Financial Results 1. The Basel III capital rules provide for two capital frameworks (the Standardized Approach and the Advanced Approach applicable to certain institutions), and we must calculate our CET1, Tier 1 and total capital ratios under both approaches. 2. Determined by applying the combined federal statutory rate and composite state income tax rates to the difference between book and tax basis of the respective goodwill and intangible assets at period-end. Common Equity Tier 1 under Basel III Wells Fargo & Company and Subsidiaries RISK-BASED CAPITAL RATIOS UNDER BASEL III1 Estimated ($ in billions) Mar 31, 2025 Dec 31, 2024 Sep 30, 2024 Jun 30, 2024 Mar 31, 2024 Total equity $182.9 181.1 185.0 178.1 182.7 Adjustments: Preferred stock (18.6) (18.6) (18.6) (16.6) (18.6) Additional paid-in capital on preferred stock 0.1 0.1 0.1 0.2 0.1 Noncontrolling interests (1.8) (1.9) (1.7) (1.7) (1.7) Total common stockholders' equity 162.6 160.7 164.8 160.0 162.5 Adjustments: Goodwill (25.1) (25.2) (25.2) (25.2) (25.2) Certain identifiable intangible assets (other than MSRs) (0.1) (0.1) (0.1) (0.1) (0.1) Goodwill and other intangibles on investments in consolidated portfolio companies (included in other assets) (0.7) (0.7) (0.8) (1.0) (1.0) Applicable deferred taxes related to goodwill and other intangible assets2 1.0 0.9 0.9 0.9 0.9 Other (2.1) (1.0) (1.3) (0.4) (0.4) Common Equity Tier 1 (A) $135.6 134.6 138.3 134.2 136.7 Total risk-weighted assets (RWAs) under the Standardized Approach (B) 1,223.4 1,216.1 1,219.9 1,219.5 1,221.6 Total RWAs under the Advanced Approach (C) 1,065.0 1,085.0 1,089.3 1,093.0 1,099.6 Common Equity Tier 1 to total RWAs under the Standardized Approach (A)/(B) 11.1 % 11.1 11.3 11.0 11.2 Common Equity Tier 1 to total RWAs under the Advanced Approach (A)/(C) 12.7 12.4 12.7 12.3 12.4 
+
+211Q25 Financial Results Disclaimer and forward-looking statements Financial results reported in this document are preliminary. Final financial results and other disclosures will be reported in our Quarterly Report on Form 10-Q for the quarter ended March 31, 2025, and may differ materially from the results and disclosures in this document due to, among other things, the completion of final review procedures, the occurrence of subsequent events, or the discovery of additional information. This document contains forward-looking statements. In addition, we may make forward-looking statements in our other documents filed or furnished with the Securities and Exchange Commission, and our management may make forward-looking statements orally to analysts, investors, representatives of the media and others. Forward-looking statements can be identified by words such as anticipates, intends, plans, seeks, believes, estimates, expects, target, projects, outlook, forecast, will, may, could, should, can and similar references to future periods. In particular, forward-looking statements include, but are not limited to, statements we make about: (i) the future operating or financial performance of the Company or any of its businesses, including our outlook for future growth; (ii) our expectations regarding noninterest expense and our efficiency ratio; (iii) future credit quality and performance, including our expectations regarding future loan losses, our allowance for credit losses, and the economic scenarios considered to develop the allowance; (iv) our expectations regarding net interest income and net interest margin; (v) loan growth or the reduction or mitigation of risk in our loan portfolios; (vi) future capital or liquidity levels, ratios or targets; (vii) the expected outcome and impact of legal, regulatory and legislative developments, as well as our expectations regarding compliance therewith; (viii) future common stock dividends, common share repurchases and other uses of capital; (ix) our targeted range for return on assets, return on equity, and return on tangible common equity; (x) expectations regarding our effective income tax rate; (xi) the outcome of contingencies, such as legal actions; (xii) environmental, social and governance related goals or commitments; and (xiii) the Companys plans, objectives and strategies. Forward-looking statements are not based on historical facts but instead represent our current expectations and assumptions regarding our business, the economy and other future conditions. Investors are urged to not unduly rely on forward-looking statements as actual results may differ materially from expectations. Forward-looking statements speak only as of the date made, and we do not undertake to update them to reflect changes or events that occur after that date. For additional information about factors that could cause actual results to differ materially from our expectations, refer to the Forward-Looking Statements discussion in Wells Fargos press release announcing our first quarter 2025 results and in our most recent Quarterly Report on Form 10-Q, as well as to Wells Fargos other reports filed with the Securities and Exchange Commission, including the discussion under Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2024.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>5
+<FILENAME>wfc-20250411.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Document and Entity Information Document 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>6
+<FILENAME>wfc-20250411_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>7
+<FILENAME>wfc-20250411_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Class of Stock [Domain] 
+Class of Stock [Domain] 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entities [Table] 
+Entities [Table] 
+
+Class of Stock [Axis] 
+Class of Stock [Axis] 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z 
+Non-Cumulative Perpetual Class A Preferred Stock, Series Z [Member] 
+Non-Cumulative Perpetual Class A Preferred Stock, Series Z [Member] 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Cover [Abstract] 
+Cover [Abstract] 
+
+City Area Code 
+City Area Code 
+
+Common Stock, par value $1-2/3 
+Common Stock [Member] 
+
+Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC [Member] 
+Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC [Member] 
+Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC [Member] 
+
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA 
+Non-Cumulative Perpetual Class A Preferred Stock, Series AA [Member] 
+Non-Cumulative Perpetual Class A Preferred Stock, Series AA 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Amendment Flag 
+Amendment Flag 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD 
+Non-Cumulative Perpetual Class A Preferred Stock, Series DD [Member] 
+Non-Cumulative Perpetual Class A Preferred Stock, Series DD 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series CC 
+Non-Cumulative Perpetual Class A Preferred Stock, Series CC [Member] 
+Non-Cumulative Perpetual Class A Preferred Stock, Series CC 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+7.5% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L [Member] 
+7.5% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L [Member] 
+7.5% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L [Member] 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y 
+Non-Cumulative Perpetual Class A Preferred Stock, Series Y [Member] 
+Non-Cumulative Perpetual Class A Preferred Stock, Series Y [Member] 
+
+Document Period End Date 
+Document Period End Date 
+
+Entity Information [Line Items] 
+Entity Information [Line Items] 
+
+Document Type 
+Document Type
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>8
+<FILENAME>wfc-20250411_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>erwellsfargoimagea061a.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>10
+<FILENAME>erwellsfargoimagea06a.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>11
+<FILENAME>ex993-wellsfargo1q25pres001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>12
+<FILENAME>ex993-wellsfargo1q25pres002.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>13
+<FILENAME>ex993-wellsfargo1q25pres003.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>14
+<FILENAME>ex993-wellsfargo1q25pres004.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>15
+<FILENAME>ex993-wellsfargo1q25pres005.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>16
+<FILENAME>ex993-wellsfargo1q25pres006.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>17
+<FILENAME>ex993-wellsfargo1q25pres007.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>18
+<FILENAME>ex993-wellsfargo1q25pres008.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>19
+<FILENAME>ex993-wellsfargo1q25pres009.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>20
+<FILENAME>ex993-wellsfargo1q25pres010.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>21
+<FILENAME>ex993-wellsfargo1q25pres011.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>22
+<FILENAME>ex993-wellsfargo1q25pres012.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>23
+<FILENAME>ex993-wellsfargo1q25pres013.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>24
+<FILENAME>ex993-wellsfargo1q25pres014.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>25
+<FILENAME>ex993-wellsfargo1q25pres015.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>26
+<FILENAME>ex993-wellsfargo1q25pres016.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>27
+<FILENAME>ex993-wellsfargo1q25pres017.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>28
+<FILENAME>ex993-wellsfargo1q25pres018.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>29
+<FILENAME>ex993-wellsfargo1q25pres019.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>30
+<FILENAME>ex993-wellsfargo1q25pres020.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>31
+<FILENAME>ex993-wellsfargo1q25pres021.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>33
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Document and Entity Information Document
+
+Apr. 11, 2025
+
+Entity Information [Line Items] 
+
+Document Type 8-K
+
+Document Period End Date Apr. 11, 2025
+
+Entity Registrant Name WELLS FARGO & COMPANY/MN
+
+Entity Central Index Key 0000072971
+
+Amendment Flag false
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-02979
+
+Entity Tax Identification Number 41-0449260
+
+Entity Address, Address Line One 420 Montgomery Street
+
+Entity Address, City or Town San Francisco
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 94104
+
+City Area Code 415
+
+Local Phone Number 371-2921
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+Common Stock, par value $1-2/3 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Common Stock, par value $1-2/3
+
+Trading Symbol WFC
+
+Security Exchange Name NYSE
+
+7.5% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L [Member] 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 7.5% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L
+
+Trading Symbol WFC.PRL
+
+Security Exchange Name NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y
+
+Trading Symbol WFC.PRY
+
+Security Exchange Name NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z
+
+Trading Symbol WFC.PRZ
+
+Security Exchange Name NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA
+
+Trading Symbol WFC.PRA
+
+Security Exchange Name NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series CC 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series CC
+
+Trading Symbol WFC.PRC
+
+Security Exchange Name NYSE
+
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD
+
+Trading Symbol WFC.PRD
+
+Security Exchange Name NYSE
+
+Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC [Member] 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC
+
+Trading Symbol WFC/28A
+
+Security Exchange Name NYSE
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityInformationLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=us-gaap_CommonStockMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=wfc_A7.5NonCumulativePerpetualConvertibleClassAPreferredStockSeriesLMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=wfc_NonCumulativePerpetualClassAPreferredStockSeriesYMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=wfc_NonCumulativePerpetualClassAPreferredStockSeriesZMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=wfc_NonCumulativePerpetualClassAPreferredStockSeriesAAMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=wfc_NonCumulativePerpetualClassAPreferredStockSeriesCCMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=wfc_NonCumulativePerpetualClassAPreferredStockSeriesDDMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=wfc_GuaranteeofMediumTermNotesSeriesAdueOctober302028ofWellsFargoFinanceLLCMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>34
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>35
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>36
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>38
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+9 
+22 
+1 
+false 
+8 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Document and Entity Information Document 
+Sheet 
+http://www.wellsfargo.com/role/DocumentandEntityInformationDocument 
+Document and Entity Information Document 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+wfc-20250411.htm 
+wfc-20250411.xsd 
+wfc-20250411_def.xml 
+wfc-20250411_lab.xml 
+wfc-20250411_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>41
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>42
+<FILENAME>0000072971-25-000101-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>43
+<FILENAME>wfc-20250411_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0000072971 
+
+2025-04-11 
+2025-04-11 
+
+0000072971 
+
+us-gaap:CommonStockMember 
+
+2025-04-11 
+2025-04-11 
+
+0000072971 
+
+wfc:A7.5NonCumulativePerpetualConvertibleClassAPreferredStockSeriesLMember 
+
+2025-04-11 
+2025-04-11 
+
+0000072971 
+
+wfc:NonCumulativePerpetualClassAPreferredStockSeriesYMember 
+
+2025-04-11 
+2025-04-11 
+
+0000072971 
+
+wfc:NonCumulativePerpetualClassAPreferredStockSeriesZMember 
+
+2025-04-11 
+2025-04-11 
+
+0000072971 
+
+wfc:NonCumulativePerpetualClassAPreferredStockSeriesAAMember 
+
+2025-04-11 
+2025-04-11 
+
+0000072971 
+
+wfc:NonCumulativePerpetualClassAPreferredStockSeriesCCMember 
+
+2025-04-11 
+2025-04-11 
+
+0000072971 
+
+wfc:NonCumulativePerpetualClassAPreferredStockSeriesDDMember 
+
+2025-04-11 
+2025-04-11 
+
+0000072971 
+
+wfc:GuaranteeofMediumTermNotesSeriesAdueOctober302028ofWellsFargoFinanceLLCMember 
+
+2025-04-11 
+2025-04-11 
+
+WELLS FARGO & COMPANY/MN 
+0000072971 
+false 
+NYSE 
+8-K 
+2025-04-11 
+DE 
+001-02979 
+41-0449260 
+420 Montgomery Street 
+San Francisco 
+CA 
+94104 
+415 
+371-2921 
+false 
+false 
+false 
+false 
+Common Stock, par value $1-2/3 
+WFC 
+NYSE 
+7.5% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L 
+WFC.PRL 
+NYSE 
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y 
+WFC.PRY 
+NYSE 
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z 
+WFC.PRZ 
+NYSE 
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series AA 
+WFC.PRA 
+NYSE 
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series CC 
+WFC.PRC 
+NYSE 
+Depositary Shares, each representing a 1/1000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series DD 
+WFC.PRD 
+NYSE 
+Guarantee of Medium-Term Notes, Series A, due October 30, 2028 of Wells Fargo Finance LLC 
+WFC/28A 
+NYSE 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

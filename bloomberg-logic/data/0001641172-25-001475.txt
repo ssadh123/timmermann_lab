@@ -1,0 +1,1530 @@
+<SEC-DOCUMENT>0001641172-25-001475.txt : 20250331
+<SEC-HEADER>0001641172-25-001475.hdr.sgml : 20250331
+<ACCEPTANCE-DATETIME>20250331070528
+ACCESSION NUMBER:		0001641172-25-001475
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250331
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250331
+DATE AS OF CHANGE:		20250331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NORTECH SYSTEMS INC
+		CENTRAL INDEX KEY:			0000722313
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPONENTS, NEC [3679]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				411681094
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-13257
+		FILM NUMBER:		25788817
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7550 MERIDIAN CIRCLE N
+		STREET 2:		SUITE 150
+		CITY:			MAPLE GROVE
+		STATE:			MN
+		ZIP:			55369
+		BUSINESS PHONE:		952-345-2244
+
+	MAIL ADDRESS:	
+		STREET 1:		7550 MERIDIAN CIRCLE N
+		STREET 2:		SUITE 150
+		CITY:			MAPLE GROVE
+		STATE:			MN
+		ZIP:			55369
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DSC NORTECH INC
+		DATE OF NAME CHANGE:	19901217
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DIGIGRAPHIC SYSTEMS CORP
+		DATE OF NAME CHANGE:	19881113
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8-k.htm
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+false000072231300007223132025-03-312025-03-31iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+FORM
+8-K
+
+CURRENT
+REPORT PURSUANT
+
+TO
+SECTION 13 OR 15(d) OF THE
+
+SECURITIES
+EXCHANGE ACT OF 1934
+
+Date
+of Report (Date of earliest event reported): March 31, 2025
+
+NORTECH
+SYSTEMS INCORPORATED
+
+(Exact
+name of registrant as specified in charter)
+
+Minnesota 0-13257 41-1681094
+
+(State
+or other jurisdiction (Commission IRS
+Employer
+
+of
+incorporation) File
+Number) Identification
+No.)
+
+7550
+Meridian Circle N, Maple Grove, MN55369
+
+(Address
+of principal executive offices)
+
+(952)345-2244
+
+(Registrants
+telephone number, including area code)
+
+Not
+Applicable
+
+(Former
+name or former address, if changed from last report)
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2. below):
+
+Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement
+communications pursuant to Rule 14-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240. 13e-4(c))
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+Title
+of each class: Trading
+Symbol(s) Name
+of each exchange on which registered:
+
+Common
+Stock, par value $.01 per share NSYS NASDAQ
+Capital Market
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging
+growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item
+2.02 Results of Operations and Financial Condition
+
+The
+Registrant issued a news release on March 31, 2025, entitled Nortech Systems Reports Fourth Quarter Results regarding its
+consolidated results and financial condition for the fourth quarter ended December 31, 2024. A copy of this news release is attached
+hereto as Exhibit 99.1.
+
+Item
+9.01 Financial Statements and Exhibits
+
+99.1 News
+Release dated March 31, 2025 (furnished)
+
+104 Cover
+Page Interactive Data File (embedded within the Inline XBRL document)
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+Date:
+March 31, 2025
+
+Nortech
+Systems Incorporated
+
+(Registrant)
+
+/s/
+Andrew D. C. LaFrence
+
+Andrew
+D. C. LaFrence
+
+Chief
+Financial Officer and SVP Finance
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ex99-1.htm
+<TEXT>
+Exhibit
+99.1
+
+Nortech
+Systems Reports Fourth Quarter Results 
+
+MINNEAPOLIS
+March 31, 2025 Nortech Systems Incorporated (Nasdaq: NSYS) (Nortech or the Company), a leading
+provider of engineering and manufacturing solutions for complex electromedical and electromechanical products serving the medical, industrial
+and defense markets, reported financial results for the fourth quarter ended December 31, 2024.
+
+2024
+Q4 Highlights:
+
+Net
+sales of $28.6 million
+
+Net
+loss of ($1.5) million, or ($0.54) per diluted share
+
+Adjusted
+earnings before interest, taxes, depreciation, and amortization (EBITDA) of ($585) thousand loss
+
+90-day
+backlog of $26.5 million as of December 31, 2024
+
+Management
+Commentary 
+
+Fourth
+quarter net sales were unexpectedly impacted by the timing of our defense customers approvals for transfers from our closed Blue
+Earth facility to our Bemidji plant. This unforeseen delay includes additional protocols and requirements that we must complete before
+receiving customer approval for these transfers. We anticipate clearing the majority of this approval backlog during the second quarter
+of 2025, said Jay D. Miller, President and CEO of Nortech. Despite this short-term challenge, we remain very optimistic
+about the long-term prospects of our business.
+
+We
+have just completed a significant restructuring of our back office and plant operations to better serve our customers by delivering high-quality
+products and services on-time with shorter lead times, Miller noted. We are incredibly proud of the resiliency and dedication
+demonstrated by our team throughout the third and fourth quarters of 2024. Their hard work and adaptability have enabled us to consolidate
+the Companys North American footprint and move customer programs to manufacturing locations that better fit our customers
+needs. These strategic moves are designed to better scale the business, improve efficiency, and reduce our ongoing cost structure. Our
+investments in research and development, particularly in fiber optics technologies, and our commitment to continuous improvement, position
+us well for long-term growth and success. We are also proactively monitoring the shifting regulatory environment, trade policies and
+uncertainties in the current geopolitical environment, which may significantly impact our global business operations.
+
+Summary
+Financial Information
+
+The
+following table provides summary financial information comparing the fourth quarter 2024 (Q4 2024) financial results to
+the same quarter in 2023 (Q4 2023) as well as the year ended December 31, 2024 (2024) information to the
+same period in 2023 (2023).
+
+($ in thousands) Q4 2024 Q4 2023 % Change 2024 2023 % Change 
+
+Net sales $ 28,620 $ 36,054 (20.6 )% $ 128,133 $ 139,332 (8.0 )%
+
+Gross profit $ 2,822 $ 6,827 (58.7 )% $ 16,722 $ 23,104 (27.6 )%
+
+Operating expenses $ 4,049 $ 4,150 (2.4 )% $ 16,917 $ 17,151 (1.4 )%
+
+Net (loss) income $ (1,478 ) $ 4,352 (134.0 )% $ (1,295 ) $ 6,874 (118.8 )%
+
+EBITDA $ (889 ) $ 3,188 (127.9 )% $ 1,543 $ 8,003 (80.7 )%
+
+Adjusted EBITDA $ (585 ) $ 3,188 (118.4 )% $ 2,114 $ 8,003 (73.6 )%
+
+Conference
+Call
+
+The
+Company will hold a live conference call and webcast at 3:30 p.m. central time on Monday, March 31, to discuss the Companys
+2024 fourth quarter results. The call will be hosted by Jay D. Miller, Chief Executive Officer and President and Andrew D. C. LaFrence,
+Chief Financial Officer. To access the live audio conference call, US participants may call 888-506-0062 and international participants
+may call 973-528-0011. Participant Access Code: 277848. Participants may also access the call via webcast at: https://www.webcaster4.com/Webcast/Page/2814/51665.
+
+###
+
+About
+Nortech Systems Incorporated
+
+Nortech
+Systems is a leading provider of design and manufacturing solutions for complex electromedical devices, electromechanical systems, assemblies,
+and components. Nortech primarily serves the medical imaging, medical device, aerospace & defense, and industrial markets. Its design
+services span concept development to commercial design, and include medical device, software, electrical, mechanical, and biomedical
+engineering. Its manufacturing and supply chain capabilities are vertically integrated around wire, cable, and interconnect assemblies,
+printed circuit board assemblies, as well as system-level assembly, integration, and final test. Headquartered in Maple Grove, Minn.,
+Nortech currently has six manufacturing locations and design centers across the U.S., Latin America, and Asia. Nortech Systems is traded
+on the NASDAQ Stock Market under the symbol NSYS. Nortechs website is www.nortechsys.com.
+
+Forward-Looking
+Statements
+
+This
+press release contains forward-looking statements made pursuant to the safe harbor provision of the Private Securities Litigation Reform
+Act of 1995 including without limitation statements regarding future financial results, gaining approval of customers relating to moving
+production from one facility to another Company-owned facility, strengthening of customer relationships, achieving long-term strategic
+goals, effects of restructuring and consolidating manufacturing facilities, sustained long-term health and growth, ability to scale our
+business, reducing cost structure and optimism about customer pipeline. While this release is based on managements best judgment
+and current expectations, actual results may differ materially from those expressed or implied and involve a number of risks and uncertainties.
+Important factors that could cause actual results to differ materially from the forward-looking statements include, without limitation:
+(1) commodity cost increases coupled with challenges in raising prices and/or customer pressure to reduce prices; (2) supply chain disruptions
+leading to shortages of critical components; (3) volatility in market conditions which may affect demand for the Companys products;
+(4) increased competition and/or reduced demand; (5) changes in the reliability and efficiency of operating facilities or those of third
+parties; (6) risks related to the availability of labor; (7) the unanticipated loss of any key member of senior management; (8) geopolitical,
+economic, financial and business conditions; (9) the Companys ability to steadily improve manufacturing output and product quality;
+(10) the impact of global health epidemics on our customers, employees, manufacturing facilities, suppliers, the capital markets and
+our financial condition; or (11) challenges with customers with respect to moving production from one facility to another Company-owned
+facility. Some of the above-mentioned factors are described in further detail in the section entitled Risk Factors in our
+annual and quarterly reports, as applicable. You should assume the information appearing in this document is accurate only as of the
+date hereof, or as otherwise specified, as our business, financial condition, results of operations and prospects may have changed since
+such date. Except as required by applicable law, including the securities laws of the United States and the rules and regulations of
+the United States Securities and Exchange Commission, we undertake no obligation to publicly update or revise any forward-looking statement,
+whether as a result of new information, future events or otherwise, to reflect actual results or changes in factors or assumptions affecting
+such forward-looking statements.
+
+Reconciliation
+of Generally Accepted Accounting Principles (GAAP) Measures to Non-GAAP Financial Measure
+
+EBITDA
+is a non-GAAP financial measure used by management that we believe provides useful information to investors because it reflects ongoing
+performance excluding certain non-recurring items during comparable periods and facilitates comparisons between peer companies since
+interest, taxes, depreciation, and amortization can differ greatly between different organizations as a result of differing capital structures
+and tax strategies. EBITDA is defined as net income (loss) plus interest expense, plus income tax expense plus depreciation expense and
+amortization expense. EBITDA should be considered in addition to, not as a substitute for, or superior to, financial measures calculated
+in accordance with GAAP. Adjusted EBITDA reflects the impact of restructuring and non-recurring items. EBITDA and Adjusted EBITDA are
+not a measurement of our financial performance under GAAP and should not be considered an alternative to net sales or net income, as
+applicable, or any other performance measures derived in accordance with GAAP and may not be comparable to other similarly titled measures
+of other businesses. EBITDA and Adjusted EBITDA have limitations as an analytical metric, and you should not consider it in isolation
+or as a substitute for analysis of our operating results as reported under GAAP.
+
+NORTECH
+SYSTEMS INCORPORATED AND SUBSIDIARIES
+
+CONDENSED
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE (LOSS) INCOME
+
+(IN
+THOUSANDS, EXCEPT SHARE DATA)
+
+THREE MONTHS ENDED TWELVE MONTHS ENDED 
+
+DECEMBER 31, DECEMBER 31, 
+
+2024 2023 2024 2023 
+
+Net sales $ 28,620 $ 36,054 $ 128,133 $ 139,332 
+
+Cost of goods sold 25,798 29,227 111,411 116,228 
+
+Gross profit 2,822 6,827 16,722 23,104 
+
+Operating expenses 
+
+Selling 841 832 3,446 3,598 
+
+General and administrative 2,606 3,026 11,709 12,354 
+
+Research and development 298 292 1,191 1,199 
+
+Restructuring charges 304 - 571 - 
+
+Total operating expenses 4,049 4,150 16,917 17,151 
+
+(Loss) income from operations (1,227 ) 2,677 (195 ) 5,953 
+
+Other expense 
+
+Interest expense (196 ) (122 ) (744 ) (487 )
+
+(Loss) income before income taxes (1,423 ) 2,555 (939 ) 5,466 
+
+Income tax expense (benefit) 55 (1,797 ) 356 (1,408 )
+
+Net (loss) income $ (1,478 ) $ 4,352 $ (1,295 ) $ 6,874 
+
+Net (loss) income per common share: 
+
+Basic (in dollars per share) $ (0.54 ) $ 1.59 $ (0.47 ) $ 2.53 
+
+Weighted average number of common shares outstanding - basic (in shares) 2,756,943 2,739,848 2,755,041 2,722,135 
+
+Diluted (in dollars per share) $ (0.54 ) $ 1.51 $ (0.47 ) $ 2.38 
+
+Weighted average number of common shares outstanding - diluted (in shares) 2,756,943 2,879,654 2,755,041 2,885,879 
+
+Other comprehensive (loss) income 
+
+Foreign currency translation (310 ) 156 (445 ) (162 )
+
+Comprehensive (loss) income, net of tax $ (1,788 ) $ 4,508 $ (1,740 ) $ 6,712 
+
+NORTECH
+SYSTEMS INCORPORATED AND SUBSIDIARIES
+
+CONDENSED
+CONSOLIDATED BALANCE SHEETS
+
+AS
+OF DECEMBER 31, 2024 AND DECEMBER 31, 2023
+
+(IN
+THOUSANDS, EXCEPT SHARE DATA)
+
+DECEMBER 31, 2024 DECEMBER 31, 2023 
+
+ASSETS 
+
+Current assets: 
+
+Cash $ 916 $ 960 
+
+Restricted cash - 715 
+
+Accounts receivable, less allowances of $196 and $358 14,875 19,279 
+
+Inventories, net 21,638 21,660 
+
+Contract assets 13,792 14,481 
+
+Prepaid assets and other assets 4,094 1,698 
+
+Total current assets 55,315 58,793 
+
+Property and equipment, net 6,232 6,513 
+
+Operating lease assets 8,139 6,917 
+
+Deferred tax assets 2,575 2,641 
+
+Other intangible assets, net 174 263 
+
+Total assets $ 72,435 $ 75,127 
+
+LIABILITIES AND SHAREHOLDERS EQUITY 
+
+Current liabilities: 
+
+Accounts payable $ 11,582 $ 15,924 
+
+Accrued payroll and commissions 1,841 4,138 
+
+Customer deposits 5,140 4,068 
+
+Current portion of operating leases 1,175 1,033 
+
+Current portion of finance lease obligations 143 356 
+
+Other accrued liabilities 1,547 1,063 
+
+Total current liabilities 21,428 26,582 
+
+Long-term liabilities: 
+
+Long-term line of credit 8,634 5,815 
+
+Long-term operating lease obligations, net of current portion 7,773 6,763 
+
+Long-term finance lease obligations, net of current portion 311 209 
+
+Other long-term liabilities 284 414 
+
+Total long-term liabilities 17,002 13,201 
+
+Total liabilities 38,430 39,783 
+
+Shareholders equity: 
+
+Preferred stock, $1 par value; 1,000,000 shares authorized; 250,000 shares issued and outstanding 250 250 
+
+Common stock - $0.01 par value; 9,000,000 shares authorized; 2,760,793 and 2,740,178 shares issued and outstanding, respectively 28 27 
+
+Additional paid-in capital 17,329 16,929 
+
+Accumulated other comprehensive loss (977 ) (532 )
+
+Retained earnings 17,375 18,670 
+
+Total shareholders equity 34,005 35,344 
+
+Total liabilities and shareholders equity $ 72,435 $ 75,127 
+
+NORTECH
+SYSTEMS INCORPORATED AND SUBSIDIARIES
+
+CONDENSED
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(IN
+THOUSANDS)
+
+DECEMBER 31, 
+
+2024 2023 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net (loss) income $ (1,295 ) $ 6,874 
+
+Adjustments to reconcile net (loss) income to net cash (used
+in) provided by operating activities: 
+
+Depreciation 1,649 1,891 
+
+Amortization 89 159 
+
+Compensation on stock-based awards 461 423 
+
+Deferred taxes (12 ) (2,362 )
+
+Change in accounts receivable allowances (162 ) 24 
+
+Change in inventory reserves 280 26 
+
+Gain on disposal of property and equipment (23 ) - 
+
+Changes in current operating items 
+
+Accounts receivable 4,405 (3,432 )
+
+Employee retention credit receivable - 2,650 
+
+Inventories (400 ) 716 
+
+Contract assets 689 (4,514 )
+
+Prepaid expenses (2,049 ) (147 )
+
+Income taxes (333 ) (832 )
+
+Accounts payable (3,956 ) 483 
+
+Accrued payroll and commissions (2,289 ) (661 )
+
+Customer deposits 1,071 553 
+
+Other accrued liabilities (375 ) (82 )
+
+Net cash (used in) provided by operating activities (2,250 ) 1,769 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Proceeds from sale of property and equipment 7 - 
+
+Purchases of property and equipment (1,270 ) (1,284 )
+
+Net cash used in investing activities (1,263 ) (1,284 )
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Proceeds from line of credit 129,793 124,552 
+
+Payments to line of credit (126,944 ) (125,602 )
+
+Proceeds from notes payable 345 - 
+
+Principal payments on financing leases (367 ) (390 )
+
+Share repurchases (100 ) - 
+
+Stock option exercises 38 159 
+
+Net cash provided by (used in) financing activities 2,765 (1,281 )
+
+Effect of exchange rate changes on cash (11 ) (10 )
+
+Net change in cash and cash equivalents (759 ) (806 )
+
+Cash and cash equivalents - beginning of year 1,675 2,481 
+
+Cash and cash equivalents - end of year $ 916 $ 1,675 
+
+Reconciliation of cash and restricted cash reported within the consolidated balance sheets: 
+
+Cash $ 916 $ 960 
+
+Restricted cash - 715 
+
+Total cash and restricted cash reported in the consolidated statements of cash flows $ 916 $ 1,675 
+
+THREE MONTHS ENDED
+
+December 31, 
+
+TWELVE MONTHS ENDED
+
+December 31, 
+
+2024 2023 2024 2023 
+
+RECONCILIATION OF NET (LOSS) INCOME TO EBITDA 
+
+($ in thousands) 
+
+Net (loss) income $ (1,478 ) $ 4,352 $ (1,295 ) $ 6,874 
+
+Interest 196 122 744 487 
+
+Taxes 55 (1,797 ) 356 (1,408 )
+
+Depreciation 333 471 1,649 1,891 
+
+Amortization 5 40 89 159 
+
+EBITDA (889 ) 3,188 1,543 8,003 
+
+Restructuring charges 304 - 571 - 
+
+ADJUSTED EBITDA $ (585 ) $ 3,188 $ 2,114 $ 8,003 
+
+There
+were no material adjustments to EBITDA in 2023.
+
+Adjustment
+to EBITDA in 2024 includes ($ in thousands):
+
+In
+the second quarter of 2024, we announced the closure of our Blue Earth, Minnesota facility by the end of 2024. In connection with
+this action, we incurred $304 thousand and $571 thousand of retention bonus and other expenses in the quarter and year
+ended December 31, 2024, respectively, which expense amount is not included in Adjusted EBITDA.
+
+($
+in millions) Last Twelve Months (LTM) Ended in Quarter 
+
+Q4 2021 Q1 2022 Q2 2022 Q3 2022 Q4 2022 Q1 2023 Q2 2023 Q3 2023 Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024 
+
+Net Sales $ 115.2 $ 123.8 $ 126.1 $ 132.0 $ 134.1 $ 138.3 $ 140.8 $ 138.9 $ 139.3 $ 138.7 $ 137.5 $ 135.6 $ 128.1 
+
+Gross Profit $ - Adjusted 11.2 13.7 15.1 18.1 20.5 21.9 22.4 21.4 23.1 23.1 22.2 20.7 16.7 
+
+Gross Margin % - Adjusted 9.7 % 11.0 % 12.0 % 13.7 % 15.3 % 15.8 % 15.9 % 15.4 % 16.6 % 16.6 % 16.1 % 14.9 % 13.1 %
+
+EBITDA - Adjusted $ (0.2 ) $ 1.9 $ 2.5 $ 4.2 $ 5.8 $ 6.7 $ 6.8 $ 6.0 $ 8.0 $ 8.1 $ 7.3 $ 5.9 $ 2.1 
+
+Contact
+
+Andrew
+D. C. LaFrence
+
+Chief
+Financial Officer and Senior Vice President of Finance
+
+alafrence@nortechsys.com
+
+952-345-2243
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>ex99-1_001.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>4
+<FILENAME>nsys-20250331.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>nsys-20250331_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Cover [Abstract] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>nsys-20250331_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Cover
+
+Mar. 31, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Mar. 31, 2025
+
+Entity File Number 0-13257
+
+Entity Registrant Name NORTECH
+SYSTEMS INCORPORATED
+
+Entity Central Index Key 0000722313
+
+Entity Tax Identification Number 41-1681094
+
+Entity Incorporation, State or Country Code MN
+
+Entity Address, Address Line One 7550
+Meridian Circle N
+
+Entity Address, City or Town Maple Grove
+
+Entity Address, State or Province MN
+
+Entity Address, Postal Zip Code 55369
+
+City Area Code (952)
+
+Local Phone Number 345-2244
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common
+Stock, par value $.01 per share
+
+Trading Symbol NSYS
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://nortechsys.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+form8-k.htm 
+nsys-20250331.xsd 
+nsys-20250331_lab.xml 
+nsys-20250331_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001641172-25-001475-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>form8-k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0000722313 
+
+2025-03-31 
+2025-03-31 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0000722313 
+8-K 
+2025-03-31 
+NORTECH SYSTEMS INCORPORATED 
+MN 
+0-13257 
+41-1681094 
+7550 Meridian Circle N 
+Maple Grove 
+MN 
+55369 
+(952) 
+345-2244 
+false 
+false 
+false 
+false 
+Common Stock, par value $.01 per share 
+NSYS 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

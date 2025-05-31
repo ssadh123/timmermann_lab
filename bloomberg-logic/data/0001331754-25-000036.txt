@@ -1,0 +1,956 @@
+<SEC-DOCUMENT>0001331754-25-000036.txt : 20250213
+<SEC-HEADER>0001331754-25-000036.hdr.sgml : 20250213
+<ACCEPTANCE-DATETIME>20250213090222
+ACCESSION NUMBER:		0001331754-25-000036
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20250210
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+FILED AS OF DATE:		20250213
+DATE AS OF CHANGE:		20250213
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Federal Home Loan Bank of Indianapolis
+		CENTRAL INDEX KEY:			0001331754
+		STANDARD INDUSTRIAL CLASSIFICATION:	FEDERAL & FEDERALLY-SPONSORED CREDIT AGENCIES [6111]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				356001443
+		STATE OF INCORPORATION:			X1
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-51404
+		FILM NUMBER:		25617447
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8250 WOODFIELD CROSSING BOULEVARD
+		CITY:			INDIANAPOLIS
+		STATE:			IN
+		ZIP:			46240
+		BUSINESS PHONE:		317-465-0200
+
+	MAIL ADDRESS:	
+		STREET 1:		8250 WOODFIELD CROSSING BOULEVARD
+		CITY:			INDIANAPOLIS
+		STATE:			IN
+		ZIP:			46240
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>fhlbi-20250210.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?fhlbi-20250210
+
+FALSE000133175400013317542025-02-102025-02-10
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+______________________________
+
+FORM 8-K
+
+______________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported): (February 10, 2025)
+
+_____________________________
+
+FEDERAL HOME LOAN BANK OF INDIANAPOLIS
+
+(EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+______________________________
+
+Federally Chartered 
+
+000-51404
+
+35-6001443
+
+Corporation of the United States
+
+(State or other jurisdiction of
+
+incorporation) (Commission File Number) 
+
+(IRS Employer Identification No.)
+
+8250 Woodfield Crossing Blvd.
+
+IndianapolisIN46240
+
+(Address of Principal Executive Offices, including Zip Code)
+
+(317)465-0200
+
+(Registrant's Telephone Number, Including Area Code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report.)
+
+___________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below):
+
+o Written communications pursuant to Rule 425 under the Securities Act
+
+o Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+
+o Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act
+
+o Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+None None None
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter). 
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+
+The Federal Home Loan Bank of Indianapolis (we) has or will become the primary obligor on the settlement date for certain consolidated obligation bonds committed to be issued by the Federal Home Loan Banks (the FHLBanks), with maturities of one year or more. The following table sets forth certain details of the relevant bonds.
+
+Trade Date CUSIP Settlement Date Maturity Date Next Pay Date 
+
+Call Type1 
+
+Call Style2 
+
+Rate Type/ Rate Sub-Type3,4 Next Call/Amort Date Coupon Percent FHLBank Par ($)
+
+2/10/2025 3130B52T4 2/12/2025 2/12/2027 5/12/2025 Non-Callable Variable Single Index Floater $ 250,000,000 
+
+2/11/2025 3130B52X5 2/18/2025 2/18/2027 5/19/2025 Non-Callable Variable Single Index Floater $ 250,000,000 
+
+2/11/2025 3130B53X4 2/18/2025 5/18/2026 5/19/2025 Non-Callable Variable Single Index Floater $ 250,000,000 
+
+2/11/2025 3130B54F2 2/19/2025 2/19/2027 8/19/2025 Optional Principal Redemption Bermudan Fixed Constant 8/19/2025 4.550 $ 50,000,000 
+
+(1) Call/Amortization Type Description:
+
+Optional Principal Redemption Bonds (Callable Bonds) may be redeemed by the FHLBank in whole or in part at its discretion on predetermined call dates, according to the terms of the bond.
+
+Indexed Amortizing Notes (Indexed Principal Redemption Bonds) repay principal based on a predetermined amortization schedule or formula that is linked to the level of a certain index, according to the terms of the bond.
+
+Scheduled Amortizing Notes repay principal based on a predetermined amortization schedule, according to the terms of the bond.
+
+(2) Call Style Description:
+
+Indicates whether the bond is redeemable at the option of the FHLBank, and if so redeemable, the type of redemption provision. The types of redemption provisions are:
+
+American Bonds are redeemable continuously on and after the first redemption date until maturity.
+
+Bermudan Bonds are redeemable on specified recurring dates on and after the first redemption date until maturity.
+
+European Bonds are redeemable on a particular date only.
+
+Canary Bonds are redeemable on specified recurring dates on and after the first redemption date until a specified date prior to maturity.
+
+Multi-European Bonds are redeemable on particular dates only.
+
+(3) Rate Type Description:
+
+Conversion Bonds have coupons that convert from fixed to variable, or variable to fixed, or a mix of capped coupons and non-capped coupons, or from one variable type to another, or from one U.S. or other currency index to another, according to the terms of the bond.
+
+Fixed Bonds generally pay interest at constant fixed rates over the life of the bond, according to the terms of the bond.
+
+Variable Bonds may pay interest at different rates over the life of the bond, according to the terms of the bond.
+
+(4) Rate Sub-Type Description:
+
+Constant Bonds generally pay interest at fixed rates over the life of the bond, according to the terms of the bond.
+
+Step Down bonds generally pay interest at decreasing fixed rates for specified intervals over the life of the bond, according to the terms of the bond.
+
+Step Up bonds generally pay interest at increasing fixed rates for specified intervals over the life of the bond, according to the terms of the bond.
+
+Step Up/Down bonds generally pay interest at various fixed rates for specified intervals over the life of the bond, according to the terms of the bond.
+
+Capped Floater bonds have an interest rate that cannot exceed a stated or calculated ceiling, according to the terms of the bond.
+
+Stepped Floater bonds pay interest based on an increasing spread over an index, according to the terms of the bond.
+
+Range bonds may pay interest at different rates depending upon whether a specified index is inside or outside a specified range, according to the terms of the bond.
+
+Single Index Floater Bonds pay interest at a rate that increases as an index rises and decreases as an index declines, according to the terms of the bond.
+
+Ratchet Floater bonds pay interest subject to increasing floors, according to the terms of the bond, such that subsequent coupons may not be lower than the previous coupon.
+
+Consolidated Obligations
+
+Consolidated obligations consist of bonds and discount notes and are the joint and several obligations of the FHLBanks. Consolidated obligations are [MA1] not guaranteed by the United States government. 
+
+We may elect to change our method of reporting information on the issuance or assumption of consolidated obligations at any time. In reviewing this report, please note: 
+
+we do not purport to disclose the complete set of terms and conditions of the relevant bonds;
+
+a reader will not be able to track changes in the total consolidated obligations outstanding for which we are the primary obligor because we exclude consolidated obligations which have a maturity of one year or less and do not provide information regarding the specific use of the proceeds from their issuances, which proceeds may be used, among other things, to satisfy called or maturing consolidated obligations; and
+
+the principal amounts of the relevant bonds represent their par amounts, which may not correspond to the amounts reported in our financial statements prepared in accordance with generally accepted accounting principles contained in our periodic reports filed with the Securities and Exchange Commission, because the par amounts do not account for, among other possible reasons, any discounts, premiums or concessions.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: February 13, 2025 
+
+FEDERAL HOME LOAN BANK OF INDIANAPOLIS
+
+By: /s/LANA D. BUCHMAN
+
+Lana D. Buchman
+
+Associate Director, Financial Reporting
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>2
+<FILENAME>fhlbi-20250210.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>3
+<FILENAME>fhlbi-20250210_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>fhlbi-20250210_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Information [Line Items] 
+Entity Information [Line Items] 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Document Period End Date 
+Document Period End Date 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Soliciting Material 
+Soliciting Material 
+
+City Area Code 
+City Area Code 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Document Type 
+Document Type 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entities [Table] 
+Entities [Table] 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Registrant Name 
+Entity Registrant Name
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>fhlbi-20250210_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 10, 2025
+
+Entity Information [Line Items] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 10, 2025
+
+Entity Registrant Name FEDERAL HOME LOAN BANK OF INDIANAPOLIS
+
+Entity Central Index Key 0001331754
+
+Entity File Number 000-51404
+
+Entity Tax Identification Number 35-6001443
+
+Entity Address, Address Line One 8250 Woodfield Crossing Blvd.
+
+Entity Address, City or Town Indianapolis
+
+Entity Incorporation, State or Country Code X1
+
+Entity Address, State or Province IN
+
+Entity Address, Postal Zip Code 46240
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+City Area Code (317)
+
+Entity Emerging Growth Company false
+
+Local Phone Number 465-0200
+
+Amendment Flag false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityInformationLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+19 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://www.fhlbi.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+fhlbi-20250210.htm 
+fhlbi-20250210.xsd 
+fhlbi-20250210_def.xml 
+fhlbi-20250210_lab.xml 
+fhlbi-20250210_pre.xml 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>14
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>15
+<FILENAME>0001331754-25-000036-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>fhlbi-20250210_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001331754 
+
+2025-02-10 
+2025-02-10 
+
+false 
+0001331754 
+8-K 
+2025-02-10 
+FEDERAL HOME LOAN BANK OF INDIANAPOLIS 
+000-51404 
+35-6001443 
+X1 
+8250 Woodfield Crossing Blvd. 
+Indianapolis 
+IN 
+IN 
+46240 
+(317) 
+465-0200 
+false 
+false 
+false 
+false 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

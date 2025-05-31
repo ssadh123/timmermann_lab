@@ -1,0 +1,1729 @@
+<SEC-DOCUMENT>0001660280-25-000010.txt : 20250205
+<SEC-HEADER>0001660280-25-000010.hdr.sgml : 20250205
+<ACCEPTANCE-DATETIME>20250205160819
+ACCESSION NUMBER:		0001660280-25-000010
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20250205
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250205
+DATE AS OF CHANGE:		20250205
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tenable Holdings, Inc.
+		CENTRAL INDEX KEY:			0001660280
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				475580846
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38600
+		FILM NUMBER:		25593309
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6100 MERRIWEATHER DRIVE
+		CITY:			COLUMBIA
+		STATE:			MD
+		ZIP:			21044
+		BUSINESS PHONE:		410-872-0555
+
+	MAIL ADDRESS:	
+		STREET 1:		6100 MERRIWEATHER DRIVE
+		CITY:			COLUMBIA
+		STATE:			MD
+		ZIP:			21044
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>tenb-20250205.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?tenb-20250205
+
+0001660280false00016602802025-02-052025-02-05
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+__________________
+
+FORM 8-K
+
+__________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):February 5, 2025
+
+__________________
+
+TENABLE HOLDINGS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+__________________
+
+Delaware 001-38600 47-5580846
+
+(State or other jurisdiction of incorporation or organization) (Commission File Number) (I.R.S. Employer Identification Number)
+
+6100 Merriweather Drive, Columbia, Maryland, 21044
+
+(Address of principal executive offices, including zip code)
+
+(410) 872-0555
+
+(Registrants telephone number, including area code)
+
+__________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Common Stock, par value $0.01 per share TENB The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On February 5, 2025, Tenable Holdings, Inc. (the "Company") reported financial results for the quarter and full year ended December 31, 2024. A copy of the press release is furnished as Exhibit 99.1 to this report and incorporated by reference.
+
+The information in this Item 2.02 of this Current Report on 8-K (including Exhibit 99.1) is furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information shall not be deemed incorporated by reference into any other filing with the Securities and Exchange Commission made by the Company, whether made before or after todays date, regardless of any general incorporation language in such filing, except as shall be expressly set forth by specific references in such filing.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit Number Description
+
+99.1 
+
+Press release "Tenable Announces Fourth Quarter and Full Year 2024 Financial Results"
+
+101.SCH Inline XBRL Taxonomy Extension Schema Document.
+
+101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document.
+
+101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+
+104 
+
+The cover page from Tenable's 8-K filed on February 5, 2025, formatted in Inline XBRL.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+TENABLE HOLDINGS, INC.
+
+Date: February 5, 2025 By: /s/ Michelle VonderHaar
+
+Michelle VonderHaar
+
+Chief Legal Officer and Corporate Secretary
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>q42024financialresults-ear.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Tenable Announces Fourth Quarter and Full Year 2024 Financial Results
+
+Fourth quarter revenue of $235.7 million, up 11% year-over-year; full year revenue of $900.0 million, up 13% year-over-year.
+
+Fourth quarter calculated current billings of $302.2 million, up 11% year-over-year; full year calculated current billings of $969.5 million, up 11% year-over-year.
+
+Full year net cash provided by operating activities of $217.5 million; full year unlevered free cash flow of $237.8 million.
+
+COLUMBIA, Maryland, February 5, 2025 Tenable Holdings, Inc. (Tenable) (Nasdaq: TENB), the exposure management company, today announced financial results for the quarter and year ended December 31, 2024.
+
+"We are very pleased with the results for the quarter as we delivered better-than-expected CCB, revenue, operating income, EPS and unlevered free cash flow," said Steve Vintz, Co-CEO and CFO of Tenable. "Our outperformance was driven by strong traction in cloud and Tenable One as customers look to secure cloud and get a holistic view of their environment."
+
+"We continue to drive incredible value for our customers resulting in a strong quarter for six-figure additions, many of which were Tenable One deals," said Mark Thurmond, Co-CEO and COO of Tenable. "We are winning marquee, large deals with our exposure management products and are laser focused on continuing to deliver on our customer-driven roadmap." 
+
+Fourth Quarter 2024 Financial Highlights
+
+Revenue was $235.7 million, an 11% increase year-over-year.
+
+Calculated current billings was $302.2 million, an 11% increase year-over-year.
+
+GAAP income from operations was $13.0 million, compared to a loss of $14.3 million in the fourth quarter of 2023.
+
+Non-GAAP income from operations was $59.4 million, compared to $36.1 million in the fourth quarter of 2023. 
+
+GAAP net income was $1.9 million, compared to a loss of $21.6 million in the fourth quarter of 2023.
+
+GAAP diluted earnings per share was $0.02, compared to a loss per share of$0.19 in the fourth quarter of 2023.
+
+Non-GAAP net income was $50.7 million, compared to $30.2 million in the fourth quarter of 2023.
+
+Non-GAAP diluted earnings per share was $0.41, compared to $0.25 in the fourth quarter of 2023.
+
+Net cash provided by operating activities was $81.1 million, compared to $38.5 million in the fourth quarter of 2023.
+
+Unlevered free cash flow was $85.7 million, compared to $43.3 million in the fourth quarter of 2023.
+
+Repurchased 1.2 million shares of our common stock for $50.0 million.
+
+Full Year 2024 Financial Highlights
+
+Revenue was $900.0 million, a 13% increase year-over-year.
+
+Calculated current billings was $969.5 million, an 11% increase year-over-year.
+
+GAAP loss from operations was $6.9 million, compared to $52.2 million in 2023.
+
+Non-GAAP income from operations was $184.1 million, compared to $121.0 million in 2023. 
+
+GAAP net loss was $36.3 million, compared to $78.3 million in 2023.
+
+GAAP net loss per share was $0.31, compared to $0.68 in 2023.
+
+Non-GAAP net income was $158.6 million, compared to $97.2 million in 2023.
+
+Non-GAAP diluted earnings per share was $1.29, compared to $0.80 in 2023.
+
+Cash and cash equivalents and short-term investments were $577.2 million at December 31, 2024, compared to $474.0 million at December 31, 2023.
+
+Net cash provided by operating activities was $217.5 million, compared to $149.9 million in 2023.
+
+Unlevered free cash flow was $237.8 million, compared to $175.4 million in 2023.
+
+Repurchased 2.3 millionshares of our common stock for $100.0 million.
+
+1
+
+Recent Business Highlights
+
+Added 485 new enterprise platform customers and 135 net new six-figure customers.
+
+Announced our intent to acquire exposure management company Vulcan Cyber Ltd., whose capabilities will augment our industry-leading Exposure Management platform, adding enhanced visibility, extended third-party data flows, superior risk prioritization, and optimized remediation.
+
+Launched Tenable Patch Management, an autonomous patch management solution built to quickly and effectively close vulnerability exposures.
+
+Integrated Tenable Vulnerability Intelligence into Tenable Security Center and enhanced the solutions risk prioritization and web application scanning features to streamline vulnerability analysis and response.
+
+Published the 2024 Tenable Cloud Risk Report examining the critical risks at play in modern cloud environments. The report reflects findings by the Tenable Cloud Research team based on telemetry from millions of cloud resources across multiple public cloud repositories.
+
+Financial Outlook
+
+Our financial outlook excludes the impact of the potential acquisition of Vulcan Cyber, which we expect to close shortly.
+
+For the first quarter of 2025, we currently expect:
+
+Revenue in the range of $232.0 million to $234.0 million.
+
+Non-GAAP income from operations in the range of $42.0 million to $44.0 million.
+
+Non-GAAP net income in the range of $35.0 million to $37.0 million, assuming interest income of $5.2 million, interest expense of $7.0 million and a provision for income taxes of $3.6 million.
+
+Non-GAAP diluted earnings per share in the range of $0.28 to $0.30.
+
+124.0 million diluted weighted average shares outstanding.
+
+For the year ending December 31, 2025, we currently expect:
+
+Calculated current billings in the range of $1.040 billion to $1.055 billion.
+
+Revenue in the range of $971.0 million to $981.0 million.
+
+Non-GAAP income from operations in the range of $213.0 million to $223.0 million.
+
+Non-GAAP net income in the range of $189.0 million to $199.0 million, assuming interest income of $21.0 million, interest expense of $28.3 million and a provision for income taxes of $13.4 million.
+
+Non-GAAP diluted earnings per share in the range of $1.52 to $1.60.
+
+124.5 million diluted weighted average shares outstanding.
+
+Unlevered free cash flow in the range of $285.0 million to $295.0 million.
+
+Conference Call Information
+
+Tenable will host a conference call today, February 5, 2025, at 4:30 p.m. Eastern Time to discuss its financial results. The conference call can be accessed at 877-407-9716 (U.S.) and 201-493-6779 (international). A live webcast of the event will be available on the Tenable Investor Relations website at https://investors.tenable.com. An archived replay of the live broadcast will be available on the Investor Relations page of the website following the call.
+
+About Tenable
+
+Tenable is the exposure management company, exposing and closing the cybersecurity gaps that erode business value, reputation and trust. The companys AI-powered exposure management platform radically unifies security visibility, insight and action across the attack surface, equipping modern organizations to protect against attacks from IT infrastructure to cloud environments to critical infrastructure and everywhere in between. By protecting enterprises from security exposure, Tenable reduces business risk for approximately 44,000 customers around the globe. Learn more at tenable.com. 
+
+2
+
+Contact Information
+
+Investor Relations
+
+investors@tenable.com
+
+Media Relations
+
+tenablepr@tenable.com
+
+Forward-Looking Statements
+
+This press release includes forward-looking statements within the meaning of the "safe harbor" provisions of the Private Securities Litigation Reform Act of 1995. All statements contained in this press release other than statements of historical fact, including statements regarding our future results of operations and financial position, our platform's ability to help protect enterprises from security exposure and streamline vulnerability analysis and response, business strategy and plans and objectives for future operations, are forward-looking statements and represent our views as of the date of this press release. The words anticipate, "believe, continue, estimate, expect, intend, may, will and similar expressions are intended to identify forward-looking statements. We have based these forward-looking statements on our current expectations and projections about future events and financial trends that we believe may affect our financial condition, results of operations, business strategy, short-term and long-term business operations and objectives and financial needs. These forward-looking statements are subject to a number of assumptions and risks and uncertainties, many of which involve factors or circumstances that are beyond our control that could affect our financial results. These risks and uncertainties are detailed in the sections titled "Risk Factors" and "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our Annual Report on Form 10-K for the year ended December 31, 2023, our Quarterly Report on Form 10-Q for the quarter ended September 30, 2024 and other filings that we make from time to time with the SEC, which are available on the SEC's website at sec.gov. Moreover, we operate in a very competitive and rapidly changing environment. New risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. In light of these risks, uncertainties and assumptions, the future events and trends discussed in this press release may not occur and actual results could differ materially and adversely from those anticipated or implied in any forward-looking statements. Except as required by law, we are under no obligation to update these forward-looking statements subsequent to the date of this press release, or to update the reasons if actual results differ materially from those anticipated in the forward-looking statements.
+
+Non-GAAP Financial Measures
+
+To supplement our consolidated financial statements, which are prepared and presented in accordance with GAAP, we use certain non-GAAP financial measures, as described below, to understand and evaluate our core operating performance. These non-GAAP financial measures, which may be different than similarly titled measures used by other companies, are presented to enhance the overall understanding of our financial performance and should not be considered a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP. 
+
+We believe that these non-GAAP financial measures provide useful information about our financial performance, enhance the overall understanding of our past performance and future prospects and allow for greater transparency with respect to important metrics used by management for financial and operational decision-making. We include these non-GAAP financial measures to present our financial performance using a management view and because we believe that these measures provide an additional comparison of our core financial performance over multiple periods with other companies in our industry.
+
+Reconciliations of non-GAAP financial measures to the most directly comparable GAAP financial measures are included in the financial tables accompanying this press release. 
+
+Calculated Current Billings: We define calculated current billings, a non-GAAP financial measure, as total revenue recognized in a period plus the change in current deferred revenue in the corresponding period. We believe that calculated current billings is a key metric to measure our periodic performance. Given that most of our customers pay in advance (including multi-year contracts), but we generally recognize the related revenue ratably over time, we use calculated current billings to measure and monitor our ability to provide our business with the working capital generated by upfront payments from our customers. We believe that calculated current billings, which excludes deferred revenue for 
+
+3
+
+periods beyond twelve months in a customers contractual term, more closely correlates with annual contract value and that the variability in total billings, depending on the timing of large multi-year contracts and the preference for annual billing versus multi-year upfront billing, may distort growth in one period over another. 
+
+Free Cash Flow and Unlevered Free Cash Flow: We define free cash flow, a non-GAAP financial measure, as net cash provided by operating activities less purchases of property and equipment and capitalized software development costs. We believe free cash flow is an important liquidity measure of the cash that is available (if any), after purchases of property and equipment and capitalized software development costs, for investment in our business and to make acquisitions. We believe that free cash flow is useful as a liquidity measure because it measures our ability to generate cash. We define unlevered free cash flow as free cash flow plus cash paid for interest and other financing costs. We believe unlevered free cash flow is useful as a liquidity measure as it measures the cash that is available to invest in our business and meet our current debt obligations and future financing needs. However, given our debt obligations, non-cancelable commitments and other contractual obligations, unlevered free cash flow does not represent residual cash flow available for discretionary expenses.
+
+Non-GAAP Income from Operations and Non-GAAP Operating Margin: We define these non-GAAP financial measures as their respective GAAP measures, excluding the effect of stock-based compensation, acquisition-related expenses, restructuring expenses, costs related to the intra-entity asset transfers resulting from the internal restructuring of legal entities, and amortization of acquired intangible assets. Acquisition-related expenses include transaction and integration expenses, as well as costs related to the intercompany transfer of acquired intellectual property. Restructuring expenses include non-ordinary course severance, employee related benefits, and other charges to reorganize business operations. We believe that the exclusion of these expenses provides for a useful comparison of our operating results to prior periods and to our peer companies, which commonly exclude restructuring expenses.
+
+Non-GAAP Net Income and Non-GAAP Earnings Per Share: We define non-GAAP net income as GAAP net income (loss), excluding the effect of stock-based compensation, acquisition-related expenses, restructuring expenses and amortization of acquired intangible assets, including the applicable tax impacts. In addition, we exclude the tax impact and related costs of intra-entity asset transfers resulting from the internal restructuring of legal entities as well as deferred income tax benefits recognized in connection with acquisitions. We use non-GAAP net income to calculate non-GAAP earnings per share.
+
+Non-GAAP Gross Profit and Non-GAAP Gross Margin: We define non-GAAP gross profit as GAAP gross profit, excluding the effect of stock-based compensation and amortization of acquired intangible assets. Non-GAAP gross margin is defined as non-GAAP gross profit as a percentage of revenue. 
+
+Non-GAAP Sales and Marketing Expense, Non-GAAP Research and Development Expense and Non-GAAP General and Administrative Expense: We define these non-GAAP measures as their respective GAAP measures, excluding stock-based compensation, acquisition-related expenses and costs related to intra-entity asset transfers resulting from the internal restructuring of legal entities.
+
+4
+
+TENABLE HOLDINGS, INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(unaudited)
+
+Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+(in thousands, except per share data) 2024 2023 2024 2023
+
+Revenue $ 235,731 $ 213,306 $ 900,021 $ 798,710 
+
+Cost of revenue(1) 51,439 48,803 199,668 183,577 
+
+Gross profit 184,292 164,503 700,353 615,133 
+
+Operating expenses: 
+
+Sales and marketing(1) 95,348 103,700 395,385 393,450 
+
+Research and development(1) 44,728 40,083 181,624 153,163 
+
+General and administrative(1) 31,241 30,567 124,130 116,181 
+
+Restructuring 4,499 6,070 4,499 
+
+Total operating expenses 171,317 178,849 707,209 667,293 
+
+Income (loss) from operations 12,975 (14,346) (6,856) (52,160) 
+
+Interest income 5,738 5,377 23,325 24,700 
+
+Interest expense (7,587) (8,131) (31,920) (31,339) 
+
+Other expense, net (2,577) (609) (3,435) (8,602) 
+
+Income (loss) before income taxes 8,549 (17,709) (18,886) (67,401) 
+
+Provision for income taxes 6,681 3,939 17,415 10,883 
+
+Net income (loss) $ 1,868 $ (21,648) $ (36,301) $ (78,284) 
+
+Net earnings (loss) per share: 
+
+Basic $ 0.02 $ (0.19) $ (0.31) $ (0.68) 
+
+Diluted $ 0.02 $ (0.19) $ (0.31) $ (0.68) 
+
+Weighted-average shares used to compute net earnings (loss) per share: 
+
+Basic 119,748 116,717 118,789 115,408 
+
+Diluted 123,853 116,717 118,789 115,408 
+
+_______________
+
+(1) Includes stock-based compensation as follows:
+
+Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+2024 2023 2024 2023
+
+Cost of revenue $ 3,191 $ 2,705 $ 12,677 $ 11,247 
+
+Sales and marketing 15,210 14,700 62,727 61,322 
+
+Research and development 12,261 9,354 47,656 37,225 
+
+General and administrative 10,052 9,756 40,455 35,533 
+
+Total stock-based compensation $ 40,714 $ 36,515 $ 163,515 $ 145,327 
+
+5
+
+TENABLE HOLDINGS, INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(unaudited)
+
+December 31,
+
+(in thousands, except per share data) 2024 2023
+
+Assets 
+
+Current assets: 
+
+Cash and cash equivalents $ 328,647 $ 237,132 
+
+Short-term investments 248,547 236,840 
+
+Accounts receivable (net of allowance for doubtful accounts of $525 and $470 at December 31, 2024 and 2023, respectively) 258,734 220,060 
+
+Deferred commissions 51,791 49,559 
+
+Prepaid expenses and other current assets 53,026 61,882 
+
+Total current assets 940,745 805,473 
+
+Property and equipment, net 39,265 45,436 
+
+Deferred commissions (net of current portion) 67,914 72,394 
+
+Operating lease right-of-use assets 45,139 34,835 
+
+Acquired intangible assets, net 94,461 107,017 
+
+Goodwill 541,292 518,539 
+
+Other assets 13,303 23,177 
+
+Total assets $ 1,742,119 $ 1,606,871 
+
+Liabilities and Stockholders' Equity 
+
+Current liabilities: 
+
+Accounts payable and accrued expenses $ 19,981 $ 16,941 
+
+Accrued compensation 55,784 66,492 
+
+Deferred revenue 650,372 580,779 
+
+Operating lease liabilities 6,801 5,971 
+
+Other current liabilities 5,154 5,655 
+
+Total current liabilities 738,092 675,838 
+
+Deferred revenue (net of current portion) 182,815 169,718 
+
+Term loan, net of issuance costs (net of current portion) 356,705 359,281 
+
+Operating lease liabilities (net of current portion) 56,224 48,058 
+
+Other liabilities 8,329 7,632 
+
+Total liabilities 1,342,165 1,260,527 
+
+Stockholders equity: 
+
+Common stock (par value: $0.01; 500,000 shares authorized, 122,371 and 117,504 shares issued at December 31, 2024 and 2023, respectively) 1,224 1,175 
+
+Additional paid-in capital 1,374,659 1,185,100 
+
+Treasury stock (at cost: 2,673 and 356 shares at December 31, 2024 and 2023, respectively) (114,911) (14,934) 
+
+Accumulated other comprehensive income 318 38 
+
+Accumulated deficit (861,336) (825,035) 
+
+Total stockholders equity 399,954 346,344 
+
+Total liabilities and stockholders' equity $ 1,742,119 $ 1,606,871 
+
+6
+
+TENABLE HOLDINGS, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(unaudited)
+
+Year Ended December 31,
+
+(in thousands) 2024 2023
+
+Cash flows from operating activities: 
+
+Net loss $ (36,301) $ (78,284) 
+
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+
+Depreciation and amortization 33,209 27,108 
+
+Stock-based compensation 163,515 145,327 
+
+Net accretion of discounts and amortization of premiums on short-term investments (7,595) (8,323) 
+
+Amortization of debt issuance costs 1,353 1,267 
+
+(Gain) loss on other investments (1,452) 5,617 
+
+Restructuring 4,528 
+
+Other 6,507 2,179 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable (38,730) (30,042) 
+
+Prepaid expenses and other assets 26,170 1,689 
+
+Accounts payable, accrued expenses and accrued compensation (8,257) 7,071 
+
+Deferred revenue 82,581 81,755 
+
+Other current and noncurrent liabilities (8,052) (5,509) 
+
+Net cash provided by operating activities 217,476 149,855 
+
+Cash flows from investing activities: 
+
+Purchases of property and equipment (4,247) (1,704) 
+
+Capitalized software development costs (6,451) (7,052) 
+
+Purchases of short-term investments (287,797) (278,209) 
+
+Sales and maturities of short-term investments 283,964 317,651 
+
+Proceeds from other investments 3,512 
+
+Purchases of other investments (1,250) 
+
+Business combinations, net of cash acquired (29,162) (243,301) 
+
+Net cash used in investing activities (41,431) (212,615) 
+
+Cash flows from financing activities: 
+
+Payments on term loan (3,750) (3,750) 
+
+Proceeds from stock issued in connection with the employee stock purchase plan 16,262 16,224 
+
+Proceeds from the exercise of stock options 8,064 3,501 
+
+Purchase of treasury stock (99,977) (14,934) 
+
+Other financing activities 210 
+
+Net cash (used in) provided by financing activities (79,401) 1,251 
+
+Effect of exchange rate changes on cash and cash equivalents and restricted cash (5,129) (2,225) 
+
+Net increase (decrease) in cash and cash equivalents and restricted cash 91,515 (63,734) 
+
+Cash and cash equivalents and restricted cash at beginning of year 237,132 300,866 
+
+Cash and cash equivalents and restricted cash at end of year $ 328,647 $ 237,132 
+
+7
+
+TENABLE HOLDINGS, INC.
+
+REVENUE COMPONENTS AND RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES
+
+(unaudited)
+
+Revenue Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+(in thousands) 2024 2023 2024 2023
+
+Subscription revenue $ 215,932 $ 193,880 $ 824,659 $ 725,013 
+
+Perpetual license and maintenance revenue 11,833 12,194 47,774 48,729 
+
+Professional services and other revenue 7,966 7,232 27,588 24,968 
+
+Revenue(1) $ 235,731 $ 213,306 $ 900,021 $ 798,710 
+
+_______________
+
+(1)Recurring revenue, which includes revenue from subscription arrangements for software (both recognized ratably over the subscription term and upon delivery) and cloud-based solutions and maintenance associated with perpetual licenses, represented 95% and 96% of revenue, respectively, in the three months and year ended December 31, 2024 and 95% of revenue in the three months and year ended December 31, 2023. 
+
+Calculated Current Billings Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+(in thousands) 2024 2023 2024 2023
+
+Revenue $ 235,731 $ 213,306 $ 900,021 $ 798,710 
+
+Deferred revenue (current), end of period 650,372 580,779 650,372 580,779 
+
+Deferred revenue (current), beginning of period(1) (583,940) (522,449) (580,887) (506,192) 
+
+Calculated current billings $ 302,163 $ 271,636 $ 969,506 $ 873,297 
+
+_______________
+
+(1)Deferred revenue (current), beginning of period for the three months ended December 31, 2023 and years ended December 31, 2024 and 2023 includes $4.1 million, $0.1 million and $4.1 million, respectively, related to acquired deferred revenue.
+
+Remaining Performance Obligations At December 31,
+
+(in thousands) 2024 2023
+
+Remaining performance obligations, short-term $ 660,647 $ 595,053 
+
+Remaining performance obligations, long-term 206,879 179,955 
+
+Remaining performance obligations $ 867,526 $ 775,008 
+
+Free Cash Flow and Unlevered Free Cash Flow Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+(in thousands) 2024 2023 2024 2023
+
+Net cash provided by operating activities $ 81,119 $ 38,505 $ 217,476 $ 149,855 
+
+Purchases of property and equipment (2,323) (405) (4,247) (1,704) 
+
+Capitalized software development costs (521) (2,345) (6,451) (7,052) 
+
+Free cash flow 78,275 35,755 206,778 141,099 
+
+Cash paid for interest and other financing costs 7,472 7,537 30,977 34,323 
+
+Unlevered free cash flow $ 85,747 $ 43,292 $ 237,755 $ 175,422 
+
+8
+
+Free cash flow and unlevered free cash flow for the periods presented were impacted by:
+
+Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+(in thousands) 2024 2023 2024 2023
+
+Employee stock purchase plan activity $ 5,267 $ 3,584 $ (1,016) $ 1,077 
+
+Acquisition-related expenses (170) (8,506) (1,496) (9,336) 
+
+Restructuring (5,911) 
+
+Tax payment on intra-entity asset transfer(1) (1,232) (1,232) ________________
+
+(1)The tax payment on intra-entity asset transfer includes $0.3 million of interest that is included in cash paid for interest and other financing costs.
+
+Non-GAAP Income from Operations and Non-GAAP Operating Margin Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+(dollars in thousands) 2024 2023 2024 2023
+
+Income (loss) from operations $ 12,975 $ (14,346) $ (6,856) $ (52,160) 
+
+Stock-based compensation 40,714 36,515 163,515 145,327 
+
+Acquisition-related expenses 648 4,744 1,932 9,472 
+
+Restructuring 4,499 6,070 4,499 
+
+Amortization of acquired intangible assets 5,014 4,651 19,457 13,859 
+
+Non-GAAP income from operations $ 59,351 $ 36,063 $ 184,118 $ 120,997 
+
+Operating margin 6 % (7) % (1) % (7) %
+
+Non-GAAP operating margin 25 % 17 % 20 % 15 %
+
+9
+
+Non-GAAP Net Income and Non-GAAP Earnings Per Share Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+(in thousands, except per share data) 2024 2023 2024 2023
+
+Net income (loss) $ 1,868 $ (21,648) $ (36,301) $ (78,284) 
+
+Stock-based compensation 40,714 36,515 163,515 145,327 
+
+Tax impact of stock-based compensation(1) 1,219 971 2,845 2,017 
+
+Acquisition-related expenses(2) 648 4,744 1,932 9,472 
+
+Restructuring(2) 4,499 6,070 4,499 
+
+Amortization of acquired intangible assets(3) 5,014 4,651 19,457 13,859 
+
+Tax impact of acquisitions (31) 426 (161) 265 
+
+Tax impact of intra-entity asset transfer(4) 1,232 1,232 
+
+Non-GAAP net income $ 50,664 $ 30,158 $ 158,589 $ 97,155 
+
+Net earnings (loss) per share, diluted $ 0.02 $ (0.19) $ (0.31) $ (0.68) 
+
+Stock-based compensation 0.33 0.31 1.38 1.25 
+
+Tax impact of stock-based compensation(1) 0.01 0.01 0.03 0.02 
+
+Acquisition-related expenses(2) 0.04 0.02 0.08 
+
+Restructuring(2) 0.04 0.05 0.04 
+
+Amortization of acquired intangible assets(3) 0.04 0.04 0.16 0.11 
+
+Tax impact of acquisitions 
+
+Tax impact of intra-entity asset transfer(4) 0.01 0.01 
+
+Adjustment to diluted earnings per share(5) (0.05) (0.02) 
+
+Non-GAAP earnings per share, diluted $ 0.41 $ 0.25 $ 1.29 $ 0.80 
+
+Weighted-average shares used to compute GAAP net earnings (loss) per share, diluted 123,853 116,717 118,789 115,408
+
+Weighted-average shares used to compute non-GAAP earnings per share, diluted 123,853 122,023 123,370 120,714
+
+________________
+
+(1) The tax impact of stock-based compensation is based on the tax treatment for the applicable tax jurisdictions.
+
+(2) The tax impact of acquisition-related expenses and restructuring charges are not material.
+
+(3) The tax impact of the amortization of acquired intangible assets is included in the tax impact of acquisitions.
+
+(4) The tax impact of the intra-entity asset transfer is additional tax incurred related to the 2021 internal restructuring of Indegy.
+
+(5) An adjustment to reconcile GAAP net loss per share, which excludes potentially dilutive shares, to non-GAAP earnings per share, which includes potentially dilutive shares, when applicable.
+
+Non-GAAP Gross Profit and Non-GAAP Gross Margin Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+(dollars in thousands) 2024 2023 2024 2023
+
+Gross profit $ 184,292 $ 164,503 $ 700,353 $ 615,133 
+
+Stock-based compensation 3,191 2,705 12,677 11,247 
+
+Amortization of acquired intangible assets 5,014 4,651 19,457 13,859 
+
+Non-GAAP gross profit $ 192,497 $ 171,859 $ 732,487 $ 640,239 
+
+Gross margin 78 % 77 % 78 % 77 %
+
+Non-GAAP gross margin 82 % 81 % 81 % 80 %
+
+10
+
+Non-GAAP Sales and Marketing Expense Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+(dollars in thousands) 2024 2023 2024 2023
+
+Sales and marketing expense $ 95,348 $ 103,700 $ 395,385 $ 393,450 
+
+Less: Stock-based compensation 15,210 14,700 62,727 61,322 
+
+Less: Acquisition-related expenses 512 52 512 
+
+Non-GAAP sales and marketing expense $ 80,138 $ 88,488 $ 332,606 $ 331,616 
+
+Non-GAAP sales and marketing expense % of revenue 34 % 41 % 37 % 42 %
+
+Non-GAAP Research and Development Expense Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+(dollars in thousands) 2024 2023 2024 2023
+
+Research and development expense $ 44,728 $ 40,083 $ 181,624 $ 153,163 
+
+Less: Stock-based compensation 12,261 9,354 47,656 37,225 
+
+Less: Acquisition-related expenses 2,880 (20) 2,880 
+
+Non-GAAP research and development expense $ 32,467 $ 27,849 $ 133,988 $ 113,058 
+
+Non-GAAP research and development expense % of revenue 14 % 13 % 15 % 14 %
+
+Non-GAAP General and Administrative Expense Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+(dollars in thousands) 2024 2023 2024 2023
+
+General and administrative expense $ 31,241 $ 30,567 $ 124,130 $ 116,181 
+
+Less: Stock-based compensation 10,052 9,756 40,455 35,533 
+
+Less: Acquisition-related expenses 648 1,352 1,900 6,080 
+
+Non-GAAP general and administrative expense $ 20,541 $ 19,459 $ 81,775 $ 74,568 
+
+Non-GAAP general and administrative expense % of revenue 9 % 9 % 9 % 9 %
+
+11
+
+The following adjustments to reconcile forecasted non-GAAP income from operations, non-GAAP net income, non-GAAP earnings per share, free cash flow and unlevered free cash flow are subject to a number of uncertainties and assumptions, each of which are inherently difficult to forecast. As a result, actual adjustments and GAAP results may differ materially. 
+
+Forecasted Non-GAAP Income from Operations Three Months Ending
+
+March 31, 2025 Year Ending
+
+December 31, 2025
+
+(in millions) Low High Low High
+
+Forecasted (loss) income from operations $ (18.0) $ (16.0) $ 3.0 $ 13.0 
+
+Forecasted stock-based compensation 55.0 55.0 190.0 190.0 
+
+Forecasted amortization of acquired intangible assets 5.0 5.0 20.0 20.0 
+
+Forecasted non-GAAP income from operations $ 42.0 $ 44.0 $ 213.0 $ 223.0 
+
+Forecasted Non-GAAP Net Income and Non-GAAP Earnings Per Share Three Months Ending
+
+March 31, 2025 Year Ending
+
+December 31, 2025
+
+(in millions, except per share data) Low High Low High
+
+Forecasted net loss(1) $ (26.0) $ (24.0) $ (26.0) $ (16.0) 
+
+Forecasted stock-based compensation 55.0 55.0 190.0 190.0 
+
+Forecasted tax impact of stock-based compensation 1.0 1.0 5.0 5.0 
+
+Forecasted amortization of acquired intangible assets 5.0 5.0 20.0 20.0 
+
+Forecasted non-GAAP net income $ 35.0 $ 37.0 $ 189.0 $ 199.0 
+
+Forecasted net loss per share, diluted(1) $ (0.22) $ (0.20) $ (0.21) $ (0.13) 
+
+Forecasted stock-based compensation 0.46 0.46 1.57 1.57 
+
+Forecasted tax impact of stock-based compensation 0.01 0.01 0.04 0.04 
+
+Forecasted amortization of acquired intangible assets 0.04 0.04 0.16 0.16 
+
+Adjustment to diluted earnings per share(2) (0.01) (0.01) (0.04) (0.04) 
+
+Forecasted non-GAAP earnings per share, diluted $ 0.28 $ 0.30 $ 1.52 $ 1.60 
+
+Forecasted weighted-average shares used to compute GAAP net loss per share, diluted 120.5 120.5 121.0 121.0
+
+Forecasted weighted-average shares used to compute non-GAAP earnings per share, diluted 124.0 124.0 124.5 124.5
+
+________________
+
+(1) The forecasted GAAP net loss assumes income tax expense of $4.6 million and $18.4 million in the three months ending March 31, 2025 and year ending December 31, 2025, respectively.
+
+(2) Adjustment to reconcile GAAP net loss per share, which excludes potentially dilutive shares, to non-GAAP earnings per share, which includes potentially dilutive shares.
+
+Forecasted Free Cash Flow and Unlevered Free Cash Flow Year Ending
+
+December 31, 2025
+
+(in millions) Low High
+
+Forecasted net cash provided by operating activities $ 278.0 $ 288.0 
+
+Forecasted purchases of property and equipment (17.0) (17.0) 
+
+Forecasted capitalized software development costs (3.0) (3.0) 
+
+Forecasted free cash flow 258.0 268.0 
+
+Forecasted cash paid for interest and other financing costs 27.0 27.0 
+
+Forecasted unlevered free cash flow $ 285.0 $ 295.0 
+
+12
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>tenb-20250205.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover Page Document 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>tenb-20250205_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover [Abstract] 
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Amendment Flag 
+Amendment Flag 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>tenb-20250205_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover Page Document
+
+Feb. 05, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 05, 2025
+
+Entity Registrant Name TENABLE HOLDINGS, INC.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-38600
+
+Entity Address, Address Line One 6100 Merriweather Drive
+
+Entity Address, City or Town Columbia
+
+Entity Address, State or Province MD
+
+Entity Address, Postal Zip Code 21044
+
+City Area Code 410
+
+Local Phone Number 872-0555
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, par value $0.01 per share
+
+Trading Symbol TENB
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0001660280
+
+Amendment Flag false
+
+Entity Tax Identification Number 47-5580846
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover Page Document 
+Sheet 
+http://www.tenable.com/role/CoverPageDocument 
+Cover Page Document 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+tenb-20250205.htm 
+tenb-20250205.xsd 
+tenb-20250205_lab.xml 
+tenb-20250205_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>14
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>15
+<FILENAME>0001660280-25-000010-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>tenb-20250205_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001660280 
+
+2025-02-05 
+2025-02-05 
+
+0001660280 
+false 
+8-K 
+2025-02-05 
+TENABLE HOLDINGS, INC. 
+DE 
+001-38600 
+47-5580846 
+6100 Merriweather Drive 
+Columbia 
+MD 
+21044 
+410 
+872-0555 
+false 
+false 
+false 
+false 
+Common Stock, par value $0.01 per share 
+TENB 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

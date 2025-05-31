@@ -1,0 +1,3604 @@
+<SEC-DOCUMENT>0000950170-25-023738.txt : 20250220
+<SEC-HEADER>0000950170-25-023738.hdr.sgml : 20250220
+<ACCEPTANCE-DATETIME>20250220071106
+ACCESSION NUMBER:		0000950170-25-023738
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		12
+CONFORMED PERIOD OF REPORT:	20250220
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250220
+DATE AS OF CHANGE:		20250220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BigCommerce Holdings, Inc.
+		CENTRAL INDEX KEY:			0001626450
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				462707656
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39423
+		FILM NUMBER:		25643254
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11305 FOUR POINTS DR, BLDG 2, SUITE 100
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78726
+		BUSINESS PHONE:		1-888-699-8911
+
+	MAIL ADDRESS:	
+		STREET 1:		11305 FOUR POINTS DR, BLDG 2, SUITE 100
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78726
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>bigc-20250220.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?8-K
+
+0001626450false00016264502025-02-202025-02-20
+
+su
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM 8-K
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):February 20, 2025
+
+BigCommerce Holdings, Inc.
+
+(Exact name of registrant as specified in charter)
+
+Delaware 
+
+001-39423 
+
+46-2707656
+
+(State or Other Jurisdiction of
+
+Incorporation) 
+
+(Commission File Number) 
+
+(I.R.S. Employer Identification
+
+Number)
+
+11305 Four Points Drive
+
+Building II, Suite 100
+
+Austin, Texas78726
+
+(Address of principal executive offices, including zip code)
+
+(512)865-4500
+
+(Registrants telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class 
+
+Trading Symbol(s) 
+
+Name of each exchange on which registered
+
+Series 1 Common Stock, $ 0.0001 par value per share 
+
+BIGC 
+
+The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On February 20, 2025, BigCommerce Holdings, Inc. (the Company) issued a press release announcing financial results for its fiscal quarter and fiscal year ended December 31, 2024. The press release contains forward-looking statements regarding the Company, and includes cautionary statements identifying important factors that could cause actual results to differ materially from those anticipated. A copy of the press release issued February 20, 2025 is furnished herewith as Exhibit 99.1.
+
+The information set forth in this Item 2.02, including Exhibit 99.1, is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934 or otherwise subject to the liability of that Section, nor shall such information be deemed to be incorporated by reference in any registration statement or other document filed under the Securities Act of 1933 or the Securities Exchange Act of 1934, except as otherwise stated in such filing.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit No. 
+
+Description
+
+99.1 
+
+Press Release issued by BigCommerce Holdings, Inc. dated February 20, 2025.
+
+104 
+
+Cover page interactive data file (embedded within the inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+BigCommerce Holdings, Inc.
+
+Date: February 20, 2025 
+
+By: 
+
+/s/ Hubert Ban
+
+Hubert Ban
+
+Senior Vice President
+
+(Principal Accounting Officer)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>bigc-ex99_1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+EX-99.1
+
+Exhibit 99.1
+
+BigCommerce Announces Fourth Quarter and Fiscal Year 2024 Financial Results
+
+Full-Year Total Revenue of $332.9 Million, an Increase of 8% Versus Prior Year. Total ARR of $349.6 Million, an Increase of 4% Versus Prior Year. Enterprise ARR of $261.6 Million, an Increase of 7% Versus Prior Year. Full-Year Operating Cash Flow of $26.3M
+
+AUSTIN, Texas February 20, 2025 BigCommerce Holdings, Inc. (BigCommerce or the Company) (Nasdaq: BIGC), a leading provider of open, composable commerce solutions for B2C and B2B brands and retailers, today announced financial results for its fourth quarter and fiscal year ended December 31, 2024.
+
+Over the last several months, we have focused on executing our go-to-market transformation, aligning our strategy, structure and messaging to reflect the full power of BigCommerce, said Travis Hess, CEO of BigCommerce. Transformations like this are not easy, and I am encouraged by the progress, feedback and traction we are seeing, and I am energized by the path ahead. I took on this role because of my belief in what BigCommerce is today and, more importantly, where we can take commerce into the future as a leader in modern commerce with a differentiated approach, a world-class team and an immense market opportunity.
+
+Fourth Quarter Financial Highlights:
+
+Total revenue was $87.0 million, up 3% compared to the fourth quarter of 2023. 
+
+Total annual revenue run-rate ("ARR") as of December 31, 2024 was $349.6 million, up 4% compared to December 31, 2023.
+
+Subscription solutions revenue was $62.3 million, up 3% compared to the fourth quarter of 2023.
+
+ARR from accounts with at least one enterprise plan (collectively, "Enterprise Accounts") was $261.6 million as of December 31, 2024, up 7% from December 31, 2023. 
+
+ARR from Enterprise Accounts as a percent of total ARR was 75% as of December 31, 2024, compared to 73% as of December 31, 2023.
+
+GAAP gross margin was 78%, compared to 77% in the fourth quarter of 2023. Non-GAAP gross margin was 78%, compared to 79% in the fourth quarter of 2023.
+
+Other Key Business Metrics
+
+Number of enterprise accounts was 5,884, down 2% compared to the fourth quarter of 2023. 
+
+Average revenue per account (ARPA) of enterprise accounts was $44,458 up 9% compared to the fourth quarter of 2023. 
+
+Revenue in the Americas grew by 4% compared to the fourth quarter of 2023. 
+
+Revenue in EMEA grew by 5% and revenue in APAC declined by 1% compared to the fourth quarter of 2023. 
+
+.
+
+Loss from Operations and Non-GAAP Operating Income (Loss)
+
+GAAP loss from operations was ($0.8) million, compared to ($5.7) million in the fourth quarter of 2023. 
+
+Included in GAAP loss from operations was a restructuring charge of $1.2 million, including but not limited to the 2024 Restructuring. 
+
+Non-GAAP operating income was $10.1 million, compared to $5.4 million in the fourth quarter of 2023. 
+
+Exhibit 99.1
+
+Net Income (Loss) and Earnings Per Share
+
+GAAP net loss was ($2.4) million, compared to ($3.2) million in the fourth quarter of 2023. 
+
+Non-GAAP net income was $8.4 million or 10% of revenue, compared to $7.9 million or 9% of revenue in the fourth quarter of 2023. 
+
+GAAP basic net loss per share was ($0.03) based on 78.4 million shares of common stock, compared to ($0.04) based on 76.2 million shares of common stock in the fourth quarter of 2023. 
+
+Non-GAAP basic net income per share was $0.11 based on 78.4 million of shares, compared to $0.10 based on 76.2 million shares in the fourth quarter of 2023.
+
+Non-GAAP diluted net income per share was $0.11 based on 80.1 million shares of dilutive shares, compared to $0.09 based on 83.7 million dilutive shares in the fourth quarter of 2023. 
+
+Adjusted EBITDA
+
+Adjusted EBITDA was $11.0 million, compared to $6.5 million in the fourth quarter of 2023.
+
+Cash
+
+Cash, cash equivalents, restricted cash, and marketable securities totaled $179.6 million as of December 31, 2024. 
+
+For the three months ended December 31, 2024, net cash provided by operating activities was $12.4 million, compared to $13.3 million provided by operating activities for the same period in 2023. The Company reported free cash flow was $11.6 million in the three months ended December 31, 2024.
+
+Debt
+
+As of December 31, 2024 the Company had $63.1 million in outstanding aggregate principal amount of its 2026 Convertible Notes, and $150.0 million in outstanding aggregate principal amount of its 2028 Convertible Notes. Subsequent to year end the Company repurchased approximately $59.0 million in principal amount of the 2026 Convertible notes for $54.0 million in cash. The Company's total outstanding debt is approximately $154.1 million. 
+
+Fiscal Year 2024 Financial Highlights:
+
+Total revenue was $332.9 million, up 8% compared to fiscal year 2023. 
+
+Subscription solutions revenue was $247.9 million, up 8% compared to fiscal year 2023. 
+
+GAAP gross margin was 77%, compared to 76% in fiscal year 2023. Non-GAAP gross margin was 78%, for both fiscal year 2024 and 2023.
+
+Operating Loss and Non-GAAP Operating Income (Loss)
+
+GAAP operating loss was ($41.7) million, compared to ($72.4) million in fiscal year 2023. 
+
+Included in GAAP loss from operations was a restructuring charge of $13.7 million, including but not limited to the 2024 Restructuring.
+
+Non-GAAP operating income (loss) was $19.5 million, compared to ($5.7) million in fiscal year 2023. 
+
+Net Income (Loss) and Earnings Per Share
+
+Exhibit 99.1
+
+GAAP net loss was ($27.0) million, compared to ($64.7) million in fiscal year 2023. 
+
+Non-GAAP net income was $22.0 million or 7% of revenue, compared to $2.1 million or 1% of revenue in fiscal year 2023. 
+
+GAAP net loss per share was ($0.35) based on 77.6 million shares of common stock, compared to ($0.86) based on 75.1 million shares of common stock in fiscal year 2023. 
+
+Non-GAAP diluted net income per share was $0.28 based on 79.4 million shares of dilutive shares, compared to $0.03 based on 82.9 million dilutive shares in fiscal year 2023.
+
+Adjusted EBITDA
+
+Adjusted EBITDA was $23.5 million, compared to ($1.6) million in fiscal year 2023.
+
+Cash
+
+For the twelve months ended December 31, 2024, net cash provided by operating activities was $26.3 million, compared to ($24.2) million used in operating activities for the same period in 2023. The Company reported free cash flow of $22.5 million for the year ended December 31, 2024. 
+
+Business Highlights:
+
+Corporate Highlights
+
+The Company made several additions to its leadership team. In January, Michelle Suzuki joined as BigCommerces Chief Marketing Officer, Rob Walter joined as Chief Revenue Officer, and Marcus Groff started as Senior Vice President of Engineering. In November, Tracy Turner joined as Senior Vice President of Revenue Operations.
+
+BigCommerce and its customers achieved another successful Cyber Week, the eleventh in a row with 100% uptime on the platform. Customers on BigCommerce experienced a 26% increase, year over year, in gross merchandise value (GMV) during the five-day period from November 28 through December 2. BigCommerce merchants also saw total orders increase 13% and average order value rise 11%, year over year. 
+
+Customer Highlights
+
+4Patriots, a family-founded company that sells emergency preparedness products, launched a new headless ecommerce store with BigCommerce, utilizing BigCommerce APIs and open source checkout to run a custom tax app, offer their own installment plans to customers, and provide one-click, post-purchase upsell opportunities.
+
+Lube-Tech, a longstanding engine fluid brand, partnered with BigCommerce agency partner Codal to launch their first of three enterprise-level stores. They incorporated StagingPro to mirror sandbox and production stores.
+
+ABC Fine Wine & Spirits, a retail chain that specializes in wine, spirits, and beer, launched a new online storefront featuring custom pickup and delivery options implemented by BigCommerce partner Irish Titan. 
+
+Bunzl, a leading distributor in the food processing industry since 1883, launched their ecommerce store using BigCommerces B2B Edition, assisted by BigCommerce partner Groove Commerce. 
+
+Witmer Public Safety Group successfully launched four online stores for firefighters, EMTs, and police officers, and more on BigCommerce's B2B Edition and using the platform's Multi-Storefront functionality. Designed by BigCommerce partner Jamersan, the sites are integrated with Witmer's 
+
+Exhibit 99.1
+
+NetSuite ERP and leverage Algolia's search technology, resulting in a robust online experience for customers and increased uptimes.
+
+Partner Highlights
+
+We finalized a new global preferred partnership with payments provider Klarna to provide buy now, pay later services to merchants on the BigCommerce platform, helping them optimize checkout and conversion.
+
+Q1 and 2025 Financial Outlook:
+
+For the first quarter of 2025, we currently expect:
+
+Total revenue between $81.2 million to $83.2 million.
+
+Non-GAAP operating income is expected to be between $4 million to $5 million.
+
+For the full year 2025, we currently expect:
+
+Total revenue between $342.1 million and $350.1 million.
+
+Non-GAAP operating income between $20 million and $24 million.
+
+Our first quarter and 2025 financial outlook is based on a number of assumptions that are subject to change and many of which are outside our control. If actual results vary from these assumptions, our expectations may change. There can be no assurance that we will achieve these results.
+
+We do not provide guidance for loss from operations, the most directly comparable GAAP measure to Non-GAAP operating income (loss), and similarly cannot provide a reconciliation between its forecasted Non-GAAP operating income (loss) and Non-GAAP income (loss) per share and these comparable GAAP measures without unreasonable effort due to the unavailability of reliable estimates for certain items. These items are not within our control and may vary greatly between periods and could significantly impact future financial results.
+
+Conference Call Information
+
+BigCommerce will host a conference call and webcast at 7:00 a.m. CT (8:00 a.m. ET) on Thursday, February 20, 2025, to discuss its financial results and business highlights. The conference call can be accessed by dialing (833) 634-1254 from the United States and Canada or (412) 317-6012 internationally and requesting to join the BigCommerce conference call. The live webcast of the conference call can be accessed from BigCommerces investor relations website at http://investors.bigcommerce.com.
+
+Following the completion of the call through 11:59 p.m. ET on Thursday, February 27, 2025, a telephone replay will be available by dialing (877) 344-7529 from the United States, (855) 669-9658 from Canada or (412) 317-0088 internationally with conference ID 9139950. A webcast replay will also be available at http://investors.bigcommerce.com for 12 months.
+
+About BigCommerce
+
+BigCommerce (Nasdaq: BIGC) is a leading open SaaS and composable ecommerce platform that empowers brands, retailers, manufacturers and distributors of all sizes to build, innovate and grow their businesses online. BigCommerce provides its customers sophisticated professional-grade functionality, customization and performance with simplicity and ease-of-use. Tens of thousands of B2C and B2B companies across 150 countries and numerous industries rely on BigCommerce, including Coldwater Creek, Harvey Nichols, King Arthur Baking Co., MKM Building Supplies, United Aqua Group and Uplift Desk. For more information, please visit www.bigcommerce.com or follow us on X and LinkedIn.
+
+Exhibit 99.1
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. In some cases, you can identify forward-looking statements by terms such as anticipate, believe, estimate, expect, intend, outlook, may, might, plan, project, will, would, should, could, can, predict, potential, strategy, target, explore, continue, or the negative of these terms, and similar expressions intended to identify forward-looking statements. However, not all forward-looking statements contain these identifying words. These statements may relate to our market size and growth strategy, our estimated and projected costs, margins, revenue, expenditures and customer and financial growth rates, our Q1 and fiscal 2025 financial outlook, our plans and objectives for future operations, growth, initiatives or strategies. By their nature, these statements are subject to numerous uncertainties and risks, including factors beyond our control, that could cause actual results, performance or achievement to differ materially and adversely from those anticipated or implied in the forward-looking statements. These assumptions, uncertainties and risks include that, among others, the anticipated benefits and opportunities related to the 2024 Restructure may not be realized or may take longer to realize than expected, our ability to pay the interest and principal on our indebtedness depends upon cash flows generated by our operating performance, our business would be harmed by any decline in new customers, renewals or upgrades, our limited operating history makes it difficult to evaluate our prospects and future results of operations, we operate in competitive markets, we may not be able to sustain our revenue growth rate in the future, our business would be harmed by any significant interruptions, delays or outages in services from our platform or certain social media platforms, and a cybersecurity-related attack, significant data breach or disruption of the information technology systems or networks could negatively affect our business. Additional risks and uncertainties that could cause actual outcomes and results to differ materially from those contemplated by the forward-looking statements are included under the caption Risk Factors and elsewhere in our filings with the Securities and Exchange Commission (the SEC), including our Annual Report on Form 10-K for the year ended December 31, 2023 and the future quarterly and current reports that we file with the SEC. Forward-looking statements speak only as of the date the statements are made and are based on information available to BigCommerce at the time those statements are made and/or management's good faith belief as of that time with respect to future events. BigCommerce assumes no obligation to update forward-looking statements to reflect events or circumstances after the date they were made, except as required by law.
+
+Use of Non-GAAP Financial Measures
+
+We have provided in this press release certain financial information that has not been prepared in accordance with generally accepted accounting principles in the United States (GAAP). Our management uses these Non-GAAP financial measures internally in analyzing our financial results and believes that use of these Non-GAAP financial measures is useful to investors as an additional tool to evaluate ongoing operating results and trends and in comparing our financial results with other companies in our industry, many of which present similar Non-GAAP financial measures. Non-GAAP financial measures are not meant to be considered in isolation or as a substitute for comparable financial measures prepared in accordance with GAAP and should be read only in conjunction with our consolidated financial statements prepared in accordance with GAAP. A reconciliation of our historical Non-GAAP financial measures to the most directly comparable GAAP measures has been provided in the financial statement tables included in this press release, and investors are encouraged to review these reconciliations.
+
+Annual Revenue Run-Rate
+
+We calculate annual revenue run-rate (ARR) at the end of each month as the sum of: (1) contractual monthly recurring revenue at the end of the period, which includes platform subscription fees, invoiced growth adjustments, feed management subscription fees, recurring professional services revenue, and other recurring revenue, multiplied by twelve to prospectively annualize recurring revenue, and (2) the sum of the trailing twelve-month non-recurring
+
+Exhibit 99.1
+
+and variable revenue, which includes one-time partner integrations, one-time fees, payments revenue share, and any other revenue that is non-recurring and variable.
+
+Enterprise Account Metrics
+
+To measure the effectiveness of our ability to execute against our growth strategy, we calculate ARR attributable to Enterprise Accounts. We define Enterprise Accounts as accounts with at least one unique Enterprise plan subscription or an enterprise level feed management subscription. These accounts may have more than one Enterprise plan or a combination of Enterprise plans and non-enterprise plans.
+
+Average Revenue Per Account
+
+We calculate ARPA for accounts in the Enterprise cohort at the end of a period by including customer-billed revenue and an allocation of partner and services revenue, where applicable. We allocate partner revenue, where applicable, primarily based on each customers share of GMV processed through that partners solution. For partner revenue that is not directly linked to customer usage of a partners solution, we allocate such revenue based on each customers share of total platform GMV. Each accounts partner revenue allocation is calculated by taking the accounts trailing twelve-month partner revenue, then dividing by twelve to create a monthly average to apply to the applicable period in order to normalize ARPA for seasonality.
+
+Adjusted EBITDA
+
+We define Adjusted EBITDA as our net loss, excluding the impact of stock-based compensation expense and related payroll tax costs, amortization of intangible assets, acquisition related costs, restructuring charges, depreciation, gain on convertible note extinguishment, interest income, interest expense, other expense, and our provision or benefit for income taxes. Acquisition related costs include contingent compensation arrangements entered into in connection with acquisitions and achieved earnout related to an acquisition.
+
+Restructuring charges include severance benefits, right-of-use asset impairments, lease termination gain, software impairments, accelerated depreciation and amortization, and professional services costs.
+
+Depreciation includes depreciation expenses related to the Company's fixed assets.
+
+The most directly comparable GAAP measure is net loss.
+
+Non-GAAP Operating Income (Loss)
+
+We define Non-GAAP Operating Income (Loss) as our GAAP Loss from operations, excluding the impact of stock-based compensation expense and related payroll tax costs, amortization of intangible assets, acquisition-related costs, and restructuring charges. The most directly comparable GAAP measure is our loss from operations.
+
+Non-GAAP Net Income (Loss)
+
+We define Non-GAAP Net Income (Loss) as our GAAP net loss, excluding the impact of stock-based compensation expense and related payroll tax costs, amortization of intangible assets, acquisition-related costs, restructuring charges, and gain on convertible notes extinguishment. The most directly comparable GAAP measure is our net loss.
+
+Non-GAAP Basic and Dilutive Net Income (Loss) per Share
+
+Exhibit 99.1
+
+We define Non-GAAP Basic Net Income (Loss) per Share as our Non-GAAP net income (loss), defined above, divided by our basic and diluted GAAP weighted average shares outstanding. The most directly comparable GAAP measure is our basic net loss per share.
+
+Free Cash Flow
+
+We define Free Cash Flow as our GAAP cash flow provided by (used in) operating activities less our GAAP purchases of property and equipment (Capital Expenditures). The most directly comparable GAAP measure is our cash flow provided by (used in) operating activities.
+
+Media Relations Contact Investor Relations Contact
+
+Brad Hem Tyler Duncan
+
+PR@BigCommerce.comInvestorRelations@BigCommerce.com
+
+Exhibit 99.1
+
+Consolidated Balance Sheets
+
+(in thousands)
+
+December 31, 
+
+December 31, 
+
+2024 
+
+2023 
+
+Assets 
+
+Current assets 
+
+Cash and cash equivalents 
+
+$ 
+
+88,877 
+
+$ 
+
+71,719 
+
+Restricted cash 
+
+1,479 
+
+1,126 
+
+Marketable securities 
+
+89,283 
+
+198,415 
+
+Accounts receivable, net 
+
+48,117 
+
+37,713 
+
+Prepaid expenses and other assets, net 
+
+14,641 
+
+24,733 
+
+Deferred commissions 
+
+8,822 
+
+8,280 
+
+Total current assets 
+
+251,219 
+
+341,986 
+
+Property and equipment, net 
+
+9,128 
+
+10,233 
+
+Operating lease, right-of-use-assets, net 
+
+1,993 
+
+4,405 
+
+Prepaid expenses and other assets, net of current portion 
+
+3,146 
+
+1,240 
+
+Deferred commissions, net of current portion 
+
+5,559 
+
+7,056 
+
+Intangible assets, net 
+
+17,317 
+
+27,052 
+
+Goodwill 
+
+51,927 
+
+52,086 
+
+Total assets 
+
+$ 
+
+340,289 
+
+$ 
+
+444,058 
+
+Liabilities and stockholders equity 
+
+Current liabilities 
+
+Accounts payable 
+
+$ 
+
+7,018 
+
+$ 
+
+7,982 
+
+Accrued liabilities 
+
+3,194 
+
+2,652 
+
+Deferred revenue 
+
+46,590 
+
+32,242 
+
+Operating lease liabilities 
+
+2,438 
+
+2,542 
+
+Other liabilities 
+
+28,766 
+
+25,332 
+
+Total current liabilities 
+
+88,006 
+
+70,750 
+
+Convertible notes 
+
+216,466 
+
+339,614 
+
+Operating lease liabilities, net of current portion 
+
+1,680 
+
+7,610 
+
+Other liabilities, net of current portion 
+
+768 
+
+551 
+
+Total liabilities 
+
+306,920 
+
+418,525 
+
+Commitments and contingencies (Note 8) 
+
+Stockholders equity 
+
+Common stock, $0.0001 par value; 500,000 shares authorized at December 31, 2024 and 2023, respectively; 78,573 and 76,410 shares issued and outstanding at December 31, 2024 and 2023, respectively. 
+
+7 
+
+7 
+
+Additional paid-in capital 
+
+654,905 
+
+620,021 
+
+Accumulated other comprehensive income 
+
+145 
+
+163 
+
+Accumulated deficit 
+
+(621,688 
+
+) 
+
+(594,658 
+
+)
+
+Total stockholders equity 
+
+33,369 
+
+25,533 
+
+Total liabilities and stockholders' equity 
+
+$ 
+
+340,289 
+
+$ 
+
+444,058 
+
+Exhibit 99.1
+
+Consolidated Statements of Operations
+
+(in thousands, except per share amounts)
+
+(unaudited)
+
+Three months ended
+
+December 31, 
+
+Year ended
+
+December 31, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+Revenue 
+
+$ 
+
+87,028 
+
+$ 
+
+84,149 
+
+$ 
+
+332,927 
+
+$ 
+
+309,394 
+
+Cost of revenue (1) 
+
+19,476 
+
+18,946 
+
+77,589 
+
+74,202 
+
+Gross profit 
+
+67,552 
+
+65,203 
+
+255,338 
+
+235,192 
+
+Operating expenses: (1) 
+
+Sales and marketing 
+
+29,605 
+
+34,332 
+
+129,602 
+
+140,230 
+
+Research and development 
+
+19,763 
+
+19,509 
+
+80,879 
+
+83,460 
+
+General and administrative 
+
+14,994 
+
+13,574 
+
+61,794 
+
+58,838 
+
+Amortization of intangible assets 
+
+2,383 
+
+2,323 
+
+9,736 
+
+8,422 
+
+Acquisition related costs 
+
+333 
+
+935 
+
+1,334 
+
+10,252 
+
+Restructuring charges 
+
+1,225 
+
+219 
+
+13,677 
+
+6,434 
+
+Total operating expenses 
+
+68,303 
+
+70,892 
+
+297,022 
+
+307,636 
+
+Loss from operations 
+
+(751 
+
+) 
+
+(5,689 
+
+) 
+
+(41,684 
+
+) 
+
+(72,444 
+
+)
+
+Gain on convertible note extinguishment 
+
+0 
+
+0 
+
+12,110 
+
+0 
+
+Interest income 
+
+1,761 
+
+3,183 
+
+10,568 
+
+11,493 
+
+Interest expense 
+
+(2,703 
+
+) 
+
+(719 
+
+) 
+
+(6,051 
+
+) 
+
+(2,884 
+
+)
+
+Other expenses 
+
+(373 
+
+) 
+
+(503 
+
+) 
+
+(958 
+
+) 
+
+(836 
+
+)
+
+Loss before provision for income taxes 
+
+(2,066 
+
+) 
+
+(3,728 
+
+) 
+
+(26,015 
+
+) 
+
+(64,671 
+
+)
+
+Benefit (provision) for income taxes 
+
+(324 
+
+) 
+
+552 
+
+(1,015 
+
+) 
+
+0 
+
+Net loss 
+
+$ 
+
+(2,390 
+
+) 
+
+$ 
+
+(3,176 
+
+) 
+
+$ 
+
+(27,030 
+
+) 
+
+$ 
+
+(64,671 
+
+)
+
+Basic net loss per share 
+
+$ 
+
+(0.03 
+
+) 
+
+$ 
+
+(0.04 
+
+) 
+
+$ 
+
+(0.35 
+
+) 
+
+$ 
+
+(0.86 
+
+)
+
+Shares used to compute basic net loss per share 
+
+78,438 
+
+76,226 
+
+77,600 
+
+75,143 
+
+(1) Amounts include stock-based compensation expense and associated payroll tax costs, as follows:
+
+Three months ended 
+
+December 31, 
+
+Year ended 
+
+December 31, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+Cost of revenue 
+
+$ 
+
+735 
+
+$ 
+
+1,147 
+
+$ 
+
+3,533 
+
+$ 
+
+4,949 
+
+Sales and marketing 
+
+920 
+
+3,415 
+
+9,252 
+
+13,474 
+
+Research and development 
+
+3,099 
+
+1,908 
+
+13,614 
+
+13,478 
+
+General and administrative 
+
+2,141 
+
+1,105 
+
+10,000 
+
+9,785 
+
+Exhibit 99.1
+
+Consolidated Statements of Cash Flows
+
+(in thousands)
+
+(unaudited)
+
+Three months ended December 31, 
+
+Year ended 
+
+December 31, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+Cash flows from operating activities 
+
+Net loss 
+
+$ 
+
+(2,390 
+
+) 
+
+$ 
+
+(3,176 
+
+) 
+
+$ 
+
+(27,030 
+
+) 
+
+$ 
+
+(64,671 
+
+)
+
+Adjustments to reconcile net loss to net cash provided by (used in) operating activities: 
+
+Depreciation and amortization expense 
+
+3,329 
+
+3,500 
+
+13,811 
+
+12,480 
+
+Amortization of discount on convertible note 
+
+244 
+
+496 
+
+1,582 
+
+1,976 
+
+Amortization of premium on convertible note 
+
+(396 
+
+) 
+
+0 
+
+(636 
+
+) 
+
+0 
+
+Stock-based compensation expense 
+
+6,821 
+
+7,635 
+
+35,377 
+
+41,185 
+
+Provision for expected credit losses 
+
+206 
+
+(656 
+
+) 
+
+3,208 
+
+805 
+
+Real estate and internal-use software charges 
+
+502 
+
+70 
+
+3,533 
+
+70 
+
+Gain on lease modification 
+
+0 
+
+0 
+
+(988 
+
+) 
+
+0 
+
+Gain on convertible note extinguishment 
+
+0 
+
+0 
+
+(12,110 
+
+) 
+
+0 
+
+Other 
+
+6 
+
+(5 
+
+) 
+
+(31 
+
+) 
+
+167 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable 
+
+(5,273 
+
+) 
+
+534 
+
+(14,206 
+
+) 
+
+(3,877 
+
+)
+
+Prepaid expenses and other assets 
+
+5,477 
+
+4,581 
+
+6,493 
+
+2,063 
+
+Deferred commissions 
+
+757 
+
+(354 
+
+) 
+
+955 
+
+(2,128 
+
+)
+
+Accounts payable 
+
+(672 
+
+) 
+
+1,710 
+
+(895 
+
+) 
+
+962 
+
+Accrued and other liabilities 
+
+3,511 
+
+(1,083 
+
+) 
+
+2,843 
+
+(25,836 
+
+)
+
+Deferred revenue 
+
+238 
+
+27 
+
+14,348 
+
+12,561 
+
+Net cash provided by (used in) operating activities 
+
+12,360 
+
+13,279 
+
+26,254 
+
+(24,243 
+
+)
+
+Cash flows from investing activities: 
+
+Cash paid for acquisition 
+
+0 
+
+(7,891 
+
+) 
+
+(100 
+
+) 
+
+(7,891 
+
+)
+
+Purchase of property, equipment, leasehold improvements and capitalized internal-use software 
+
+(787 
+
+) 
+
+(1,043 
+
+) 
+
+(3,721 
+
+) 
+
+(4,179 
+
+)
+
+Maturity of marketable securities 
+
+53,603 
+
+36,960 
+
+205,238 
+
+243,167 
+
+Purchase of marketable securities 
+
+(10,167 
+
+) 
+
+(39,207 
+
+) 
+
+(96,124 
+
+) 
+
+(228,281 
+
+)
+
+Net cash provided by (used in) investing activities 
+
+42,649 
+
+(11,181 
+
+) 
+
+105,293 
+
+2,816 
+
+Cash flows from financing activities: 
+
+Proceeds from exercise of stock options 
+
+225 
+
+136 
+
+1,708 
+
+3,849 
+
+Taxes paid related to net share settlement of stock options 
+
+(38 
+
+) 
+
+(12 
+
+) 
+
+(2,449 
+
+) 
+
+(3,294 
+
+)
+
+Holdback payments related to business combination 
+
+(1,000 
+
+) 
+
+0 
+
+(1,000 
+
+) 
+
+0 
+
+Proceeds from financing obligation 
+
+0 
+
+0 
+
+0 
+
+1,081 
+
+Payment of convertible note issuance costs 
+
+(656 
+
+) 
+
+0 
+
+(3,176 
+
+) 
+
+0 
+
+Repayment of convertible notes and financing obligation 
+
+(139 
+
+) 
+
+(263 
+
+) 
+
+(109,119 
+
+) 
+
+(394 
+
+)
+
+Net cash provided by (used in) financing activities 
+
+(1,608 
+
+) 
+
+(139 
+
+) 
+
+(114,036 
+
+) 
+
+1,242 
+
+Net change in cash and cash equivalents and restricted cash 
+
+53,401 
+
+1,959 
+
+17,511 
+
+(20,185 
+
+)
+
+Cash and cash equivalents and restricted cash, beginning of period 
+
+36,955 
+
+70,886 
+
+72,845 
+
+93,030 
+
+Cash and cash equivalents and restricted cash, end of period 
+
+$ 
+
+90,356 
+
+$ 
+
+72,845 
+
+$ 
+
+90,356 
+
+$ 
+
+72,845 
+
+Supplemental cash flow information: 
+
+Cash paid for interest 
+
+$ 
+
+3 
+
+$ 
+
+21 
+
+$ 
+
+2,466 
+
+$ 
+
+894 
+
+Cash paid for taxes 
+
+$ 
+
+106 
+
+$ 
+
+242 
+
+$ 
+
+381 
+
+$ 
+
+583 
+
+Noncash investing and financing activities: 
+
+Changes in capital additions, accrued but not paid 
+
+$ 
+
+84 
+
+$ 
+
+168 
+
+$ 
+
+84 
+
+$ 
+
+168 
+
+Fair value of shares issued as consideration for business combinations 
+
+$ 
+
+0 
+
+$ 
+
+496 
+
+$ 
+
+248 
+
+$ 
+
+1,417 
+
+Principal amount of 2028 Convertible Notes exchanged 
+
+$ 
+
+0 
+
+$ 
+
+0 
+
+$ 
+
+150,000 
+
+$ 
+
+0 
+
+Exhibit 99.1
+
+Disaggregated Revenue:
+
+Three months ended 
+
+December 31, 
+
+Year ended 
+
+December 31, 
+
+(in thousands) 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+Subscription solutions 
+
+$ 
+
+62,288 
+
+$ 
+
+60,613 
+
+$ 
+
+247,870 
+
+$ 
+
+229,265 
+
+Partner and services 
+
+24,740 
+
+23,536 
+
+85,057 
+
+80,129 
+
+Revenue 
+
+$ 
+
+87,028 
+
+$ 
+
+84,149 
+
+$ 
+
+332,927 
+
+$ 
+
+309,394 
+
+Revenue by Geography:
+
+Three months ended 
+
+December 31, 
+
+Year ended 
+
+December 31, 
+
+(in thousands) 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+Revenue: 
+
+Americas U.S. 
+
+$ 
+
+66,078 
+
+$ 
+
+64,055 
+
+$ 
+
+253,484 
+
+$ 
+
+236,502 
+
+Americas other (1) 
+
+4,217 
+
+3,837 
+
+15,662 
+
+14,103 
+
+EMEA 
+
+9,994 
+
+9,475 
+
+38,031 
+
+34,661 
+
+APAC 
+
+6,739 
+
+6,782 
+
+25,750 
+
+24,128 
+
+Revenue 
+
+$ 
+
+87,028 
+
+$ 
+
+84,149 
+
+$ 
+
+332,927 
+
+$ 
+
+309,394 
+
+(1)Americas-other revenue includes revenue from North and South America, other than the U.S.
+
+Exhibit 99.1
+
+Reconciliation of GAAP to Non-GAAP Results
+
+(in thousands, except per share amounts)
+
+(unaudited)
+
+Reconciliation of loss from operations to Non-GAAP operating income (loss):
+
+Three months ended December 31, 
+
+Year ended 
+
+December 31, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+(in thousands) 
+
+Revenue 
+
+$ 
+
+87,028 
+
+$ 
+
+84,149 
+
+$ 
+
+332,927 
+
+$ 
+
+309,394 
+
+Loss from operations 
+
+$ 
+
+(751 
+
+) 
+
+$ 
+
+(5,689 
+
+) 
+
+$ 
+
+(41,684 
+
+) 
+
+$ 
+
+(72,444 
+
+) 
+
+Plus: stock-based compensation expense and associated payroll tax costs 
+
+6,895 
+
+7,575 
+
+36,399 
+
+41,686 
+
+Amortization of intangible assets 
+
+2,383 
+
+2,323 
+
+9,736 
+
+8,422 
+
+Acquisition related costs 
+
+333 
+
+935 
+
+1,334 
+
+10,252 
+
+Restructuring charges 
+
+1,225 
+
+219 
+
+13,677 
+
+6,434 
+
+Non-GAAP operating income (loss) 
+
+$ 
+
+10,085 
+
+$ 
+
+5,363 
+
+$ 
+
+19,462 
+
+$ 
+
+(5,650 
+
+) 
+
+Non-GAAP operating income (loss) as a percentage of revenue 
+
+11.6 
+
+% 
+
+6.4 
+
+% 
+
+5.8 
+
+% 
+
+(1.8 
+
+) 
+
+%
+
+Reconciliation of net loss & basic net loss per share to Non-GAAP net income & Non-GAAP net income per share:
+
+Three months ended December 31, 
+
+Year ended 
+
+December 31, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+(in thousands) 
+
+Revenue 
+
+$ 
+
+87,028 
+
+$ 
+
+84,149 
+
+$ 
+
+332,927 
+
+$ 
+
+309,394 
+
+Net loss 
+
+$ 
+
+(2,390 
+
+) 
+
+$ 
+
+(3,176 
+
+) 
+
+$ 
+
+(27,030 
+
+) 
+
+$ 
+
+(64,671 
+
+) 
+
+Plus: stock-based compensation expense and associated payroll tax costs 
+
+6,895 
+
+7,575 
+
+36,399 
+
+41,686 
+
+Amortization of intangible assets 
+
+2,383 
+
+2,323 
+
+9,736 
+
+8,422 
+
+Acquisition related costs 
+
+333 
+
+935 
+
+1,334 
+
+10,252 
+
+Restructuring charges 
+
+1,225 
+
+219 
+
+13,677 
+
+6,434 
+
+Gain on convertible note extinguishment 
+
+0 
+
+0 
+
+(12,110 
+
+) 
+
+0 
+
+Non-GAAP net income 
+
+$ 
+
+8,446 
+
+$ 
+
+7,876 
+
+$ 
+
+22,006 
+
+$ 
+
+2,123 
+
+Basic net loss per share 
+
+$ 
+
+(0.03 
+
+) 
+
+$ 
+
+(0.04 
+
+) 
+
+$ 
+
+(0.35 
+
+) 
+
+$ 
+
+(0.86 
+
+) 
+
+Non-GAAP basic net income per share 
+
+$ 
+
+0.11 
+
+$ 
+
+0.10 
+
+$ 
+
+0.28 
+
+$ 
+
+0.03 
+
+Non-GAAP diluted net income per share 
+
+$ 
+
+0.11 
+
+$ 
+
+0.09 
+
+$ 
+
+0.28 
+
+$ 
+
+0.03 
+
+Shares used to compute basic Non-GAAP net income per share 
+
+78,438 
+
+76,226 
+
+77,600 
+
+75,143 
+
+Shares used to compute diluted Non-GAAP net income per share 
+
+80,081 
+
+83,679 
+
+79,544 
+
+82,938 
+
+Non-GAAP net income as a percentage of revenue 
+
+9.7 
+
+% 
+
+9.4 
+
+% 
+
+6.6 
+
+% 
+
+0.7 
+
+%
+
+Exhibit 99.1
+
+Reconciliation of net loss to adjusted EBITDA:
+
+Three months ended December 31, 
+
+Year ended 
+
+December 31, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+(in thousands) 
+
+Revenue 
+
+$ 
+
+87,028 
+
+$ 
+
+84,149 
+
+$ 
+
+332,927 
+
+$ 
+
+309,394 
+
+Net loss 
+
+$ 
+
+(2,390 
+
+) 
+
+$ 
+
+(3,176 
+
+) 
+
+$ 
+
+(27,030 
+
+) 
+
+$ 
+
+(64,671 
+
+) 
+
+Plus: stock-based compensation expense and associated payroll tax costs 
+
+6,895 
+
+7,575 
+
+36,399 
+
+41,686 
+
+Amortization of intangible assets 
+
+2,383 
+
+2,323 
+
+9,736 
+
+8,422 
+
+Acquisition related costs 
+
+333 
+
+935 
+
+1,334 
+
+10,252 
+
+Restructuring charges 
+
+1,225 
+
+219 
+
+13,677 
+
+6,434 
+
+Depreciation 
+
+946 
+
+1,177 
+
+4,075 
+
+4,058 
+
+Gain on convertible note extinguishment 
+
+0 
+
+0 
+
+(12,110 
+
+) 
+
+0 
+
+Interest income 
+
+(1,761 
+
+) 
+
+(3,183 
+
+) 
+
+(10,568 
+
+) 
+
+(11,493 
+
+) 
+
+Interest expense 
+
+2,703 
+
+719 
+
+6,051 
+
+2,884 
+
+Other expenses 
+
+373 
+
+503 
+
+958 
+
+836 
+
+Benefit (provision) for income taxes 
+
+324 
+
+(552 
+
+) 
+
+1,015 
+
+0 
+
+Adjusted EBITDA 
+
+$ 
+
+11,031 
+
+$ 
+
+6,540 
+
+$ 
+
+23,537 
+
+$ 
+
+(1,592 
+
+) 
+
+Adjusted EBITDA as a percentage of revenue 
+
+12.7 
+
+% 
+
+7.8 
+
+% 
+
+7.1 
+
+% 
+
+(0.5 
+
+) 
+
+%
+
+Reconciliation of cost of revenue to Non-GAAP cost of revenue:
+
+Three months ended December 31, 
+
+Year ended 
+
+December 31, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+(in thousands) 
+
+Revenue 
+
+$ 
+
+87,028 
+
+$ 
+
+84,149 
+
+$ 
+
+332,927 
+
+$ 
+
+309,394 
+
+Cost of revenue 
+
+$ 
+
+19,476 
+
+$ 
+
+18,946 
+
+$ 
+
+77,589 
+
+$ 
+
+74,202 
+
+Less: stock-based compensation expense and associated payroll tax costs 
+
+735 
+
+1,147 
+
+3,533 
+
+4,949 
+
+Non-GAAP cost of revenue 
+
+$ 
+
+18,741 
+
+$ 
+
+17,799 
+
+$ 
+
+74,056 
+
+$ 
+
+69,253 
+
+As a percentage of revenue 
+
+21.5 
+
+% 
+
+21.2 
+
+% 
+
+22.2 
+
+% 
+
+22.4 
+
+%
+
+Reconciliation of sales and marketing expense to Non-GAAP sales and marketing expense:
+
+Three months ended December 31, 
+
+Year ended 
+
+December 31, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+(in thousands) 
+
+Revenue 
+
+$ 
+
+87,028 
+
+$ 
+
+84,149 
+
+$ 
+
+332,927 
+
+$ 
+
+309,394 
+
+Sales and marketing 
+
+$ 
+
+29,605 
+
+$ 
+
+34,332 
+
+$ 
+
+129,602 
+
+$ 
+
+140,230 
+
+Less: stock-based compensation expense and associated payroll tax costs 
+
+920 
+
+3,415 
+
+9,252 
+
+13,474 
+
+Non-GAAP sales and marketing 
+
+$ 
+
+28,685 
+
+$ 
+
+30,917 
+
+$ 
+
+120,350 
+
+$ 
+
+126,756 
+
+As a percentage of revenue 
+
+33.0 
+
+% 
+
+36.7 
+
+% 
+
+36.1 
+
+% 
+
+41.0 
+
+%
+
+Exhibit 99.1
+
+Reconciliation of research and development expense to Non-GAAP research and development expense:
+
+Three months ended December 31, 
+
+Year ended 
+
+December 31, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+(in thousands) 
+
+Revenue 
+
+$ 
+
+87,028 
+
+$ 
+
+84,149 
+
+$ 
+
+332,927 
+
+$ 
+
+309,394 
+
+Research and development 
+
+$ 
+
+19,763 
+
+$ 
+
+19,509 
+
+$ 
+
+80,879 
+
+$ 
+
+83,460 
+
+Less: stock-based compensation expense and associated payroll tax costs 
+
+3,099 
+
+1,908 
+
+13,614 
+
+13,478 
+
+Non-GAAP research and development 
+
+$ 
+
+16,664 
+
+$ 
+
+17,601 
+
+$ 
+
+67,265 
+
+$ 
+
+69,982 
+
+As a percentage of revenue 
+
+19.1 
+
+% 
+
+20.9 
+
+% 
+
+20.2 
+
+% 
+
+22.6 
+
+%
+
+Reconciliation of general and administrative expense to Non-GAAP general and administrative expense:
+
+Three months ended December 31, 
+
+Year ended 
+
+December 31, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+(in thousands) 
+
+Revenue 
+
+$ 
+
+87,028 
+
+$ 
+
+84,149 
+
+$ 
+
+332,927 
+
+$ 
+
+309,394 
+
+General & administrative 
+
+$ 
+
+14,994 
+
+$ 
+
+13,574 
+
+$ 
+
+61,794 
+
+$ 
+
+58,838 
+
+Less: stock-based compensation expense and associated payroll tax costs 
+
+2,141 
+
+1,105 
+
+10,000 
+
+9,785 
+
+Non-GAAP general & administrative 
+
+$ 
+
+12,853 
+
+$ 
+
+12,469 
+
+$ 
+
+51,794 
+
+$ 
+
+49,053 
+
+As a percentage of revenue 
+
+14.8 
+
+% 
+
+14.8 
+
+% 
+
+15.6 
+
+% 
+
+15.9 
+
+%
+
+Reconciliation of net cash provided by (used in) operating activities to free cash flow:
+
+Three months ended December 31, 
+
+Year ended 
+
+December 31, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+(in thousands) 
+
+Net cash provided by (used in) operating activities 
+
+$ 
+
+12,360 
+
+$ 
+
+13,279 
+
+$ 
+
+26,254 
+
+$ 
+
+(24,243 
+
+)
+
+Purchase of property, equipment, leasehold improvements and capitalized internal-use software 
+
+(787 
+
+) 
+
+(1,043 
+
+) 
+
+(3,721 
+
+) 
+
+(4,179 
+
+)
+
+Free cash flow 
+
+$ 
+
+11,573 
+
+$ 
+
+12,236 
+
+$ 
+
+22,533 
+
+$ 
+
+(28,422 
+
+)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>bigc-20250220.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT
+<TEXT>
+100000 - Document - Document and Entity Information 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink 
+
+Entity Address, Address Line Three 
+Entity Address, Postal Zip Code 
+Entity Incorporation, State or Country Code 
+Entity Incorporation State Country Code 
+CIK 
+Entity Central Index Key 
+Entity Address, State or Province 
+Cover 
+Cover [Abstract] 
+Entity Address, Address Line One 
+Amendment 
+Amendment Flag 
+Entity Address, City or Town 
+Document Type 
+Document Type 
+Security 12b Title 
+Title of 12(b) Security 
+Soliciting Material 
+Entity Address, Address Line Two 
+Period End Date 
+Document Period End Date 
+Trading Symbol 
+Pre-commencement Tender Offer 
+Pre Commencement Tender Offer 
+Security Exchange Name 
+Written Communications 
+Pre-commencement Issuer Tender Offer 
+Pre Commencement Issuer Tender Offer 
+Registrant Name 
+Entity Registrant Name 
+Entity Emerging Growth Company 
+Entity File Number 
+Securities Act File Number 
+Entity Tax Identification Number 
+City Area Code 
+Local Phone Number
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>5
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Document and Entity Information
+
+Feb. 20, 2025
+
+Cover [Abstract] 
+
+Amendment Flag false
+
+Entity Central Index Key 0001626450
+
+Document Type 8-K
+
+Document Period End Date Feb. 20, 2025
+
+Entity Registrant Name BigCommerce Holdings, Inc.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-39423
+
+Entity Tax Identification Number 46-2707656
+
+Entity Address, Address Line One 11305 Four Points Drive
+
+Entity Address, Address Line Two Building II
+
+Entity Address, Address Line Three Suite 100
+
+Entity Address, City or Town Austin
+
+Entity Address, State or Province TX
+
+Entity Address, Postal Zip Code 78726
+
+City Area Code (512)
+
+Local Phone Number 865-4500
+
+Written Communications false
+
+Soliciting Material false
+
+Pre Commencement Tender Offer false
+
+Pre Commencement Issuer Tender Offer false
+
+Security 12b Title Series 1 Common Stock, $ 0.0001 par value per share
+
+Trading Symbol BIGC
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 3 such as an Office Park+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine3
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>6
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+24 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+100000 - Document - Document and Entity Information 
+Sheet 
+http://www.bigcommerce.com/20250220/taxonomy/role/DocumentDocumentAndEntityInformation 
+Document and Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+bigc-20250220.htm 
+bigc-20250220.xsd 
+
+http://xbrl.sec.gov/dei/2024 
+
+false 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>12
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>13
+<FILENAME>0000950170-25-023738-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>bigc-20250220_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001626450 
+
+2025-02-20 
+2025-02-20 
+
+0001626450 
+false 
+8-K 
+2025-02-20 
+BigCommerce Holdings, Inc. 
+DE 
+001-39423 
+46-2707656 
+11305 Four Points Drive 
+Building II 
+Suite 100 
+Austin 
+TX 
+78726 
+(512) 
+865-4500 
+false 
+false 
+false 
+false 
+Series 1 Common Stock, $ 0.0001 par value per share 
+BIGC 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

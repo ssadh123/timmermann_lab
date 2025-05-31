@@ -1,0 +1,1415 @@
+<SEC-DOCUMENT>0001628280-25-013900.txt : 20250320
+<SEC-HEADER>0001628280-25-013900.hdr.sgml : 20250320
+<ACCEPTANCE-DATETIME>20250319180526
+ACCESSION NUMBER:		0001628280-25-013900
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		40
+CONFORMED PERIOD OF REPORT:	20250319
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250320
+DATE AS OF CHANGE:		20250319
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bakkt Holdings, Inc.
+		CENTRAL INDEX KEY:			0001820302
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		IRS NUMBER:				981550750
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39544
+		FILM NUMBER:		25753969
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10000 AVALON BOULEVARD, SUITE 1000
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30009
+		BUSINESS PHONE:		678-534-5849
+
+	MAIL ADDRESS:	
+		STREET 1:		10000 AVALON BOULEVARD, SUITE 1000
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30009
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VPC Impact Acquisition Holdings
+		DATE OF NAME CHANGE:	20200805
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>bakkt-20250319.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?bakkt-20250319
+
+0001820302FALSEMarch 19, 202500018203022025-03-192025-03-190001820302us-gaap:CommonClassAMember2025-03-192025-03-190001820302us-gaap:WarrantMember2025-03-192025-03-19
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) 
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+
+March 19, 2025
+
+Bakkt Holdings, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 
+
+001-39544 
+
+98-1550750
+
+(State or other jurisdiction
+
+of incorporation) 
+
+(Commission
+
+File Number) 
+
+(IRS Employer
+
+Identification No.)
+
+10000 Avalon Boulevard, Suite 1000,
+
+Alpharetta, Georgia 
+
+30009
+
+(Address of principal executive offices) (Zip Code)
+
+Registrants telephone number, including area code: (678) 534-5849
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class 
+
+Trading Symbol(s) 
+
+Name of each exchange 
+
+on which registered
+
+Class A Common Stock, par value $0.0001 per share 
+
+BKKT 
+
+The New York Stock Exchange
+
+Warrants to purchase Class A Common Stock 
+
+BKKT WS 
+
+The New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+On March 19, 2025, Bakkt Holdings, Inc. (the Company) announced that it had entered into a Cooperation Agreement with Distributed Technologies Research Ltd. (DTR) and Akshay Naheta, the sole stockholder of DTR (the Cooperation Agreement). 
+
+Pursuant to the Cooperation Agreement, DTR will provide the Company with certain exclusive payment processing technology, application programming interfaces, and infrastructure to be integrated into the Companys platform for the enablement of global payments processing services in the jurisdictions where the Company or its affiliates operate. 
+
+In addition, on the date that is twelve (12) months following the date of on which the Company initiates processing payments using all or part of DTRs technology (the Call Event Deadline), the Company shall have the exclusive right (such right, the Call Option) to require Mr. Naheta to sell, convey, transfer, assign and deliver to the Company 100% of the capital stock and all other equity interests of DTR (the DTR Equity). This Call Option may be exercised by the Company at any time prior to the Call Event Deadline. If the Company does not exercise the Call Option within the Call Event Deadline, then for a period beginning on the date of expiration of the Call Event Deadline and ending on the second anniversary of the Call Event Deadline, if DTR or Mr. Naheta receives an offer or proposal from a third-party to purchase more than 50% of the DTR Equity, then (i) Mr. Naheta shall provide written notice to the Company of the material financial and other terms and conditions of such offer or proposal (such notice, the ROFR Notice) and (ii) for a period of 15 days following receipt of the ROFR Notice, the Company shall have the right to purchase the DTR Equity on the same terms as set forth in the ROFR Notice (the ROFR). The ROFR Notice will expire in the event that (a) the terms proposed by the Company are not the same or as favorable as those in the ROFR Notice or (b) the Company exercises the ROFR pursuant to a ROFR Notice but the ROFR transaction is not consummated within 90 days following the date of the ROFR Notice, subject to certain automatic extensions for regulatory approvals, required authorizations or the Companys stockholder approval, which such automatic extension shall not exceed 90 days. 
+
+If the cumulative volume of payments processed by the Company utilizing DTRs technology or otherwise facilitated by DTRs technology infrastructure for enabling global payment processing exceeds $2 billion during any 18-month period following the date of the Cooperation Agreement (the Put Event), then within three years of such Put Event (the Put Event Deadline), Mr. Naheta shall have the right to require the Company to purchase, acquire and accept from Mr. Naheta the DTR Equity (the Put Option). 
+
+As consideration for the sale of the DTR Equity contemplated by a Put Option or a Call Option, Mr. Naheta will be entitled, in exchange for all of the DTR Equity, to a number of shares of the Companys Class A Common Stock, par value $0.0001 per share (the Class A Common Stock), representing at least 19.9% and no more than 31.5%, of the aggregate common stock of the Company (which such total shall include the shares of the then outstanding and issued Class A Common Stock and the shares of Class A Common Stock then exchangeable for the paired interests represented by the Class V Common Stock, par value $0.0001 per share, of the Company), plus the aggregate number of shares of the Companys Class A Common Stock issuable upon full exercise or conversion of any options, warrants or other convertible or derivative securities then outstanding, on an as-converted basis, which shall not include the Companys publicly traded warrants currently listed on the New York Stock Exchange (NYSE) (BKKT WS) and any warrants to purchases of Class A Common Stock that are below the Bakkt Share Price (as defined below) (the Bakkt Share Number) subject to any DTR Adjustment (as defined below); provided that Mr. Naheta will be entitled to a top up of additional shares of Class A Common Stock to the extent any such public warrants are actually exercised. Any indebtedness of DTR outstanding immediately prior to the closing of a Call Option or Put Option transaction and certain transaction expenses in excess of $1.0 million incurred by or on behalf of DTR or Mr. Naheta (such amount, the DTR Value) shall proportionately reduce the number of shares Mr. Naheta is entitled to receive in a Put Option or Call Option transaction (the DTR Adjustment). 
+
+If either the Company or Mr. Naheta shall exercise the above described Call Option or Put Option, respectively, such transaction shall be (i) executed pursuant to a customary purchase agreement that will contain representations, warranties and interim operating covenants by the Company, DTR and Mr. Naheta that are customary for a transaction of this nature (the Definitive Agreement), (ii) subject to, among other things, obtaining any required regulatory approvals, non-objections and/or similar authorizations, Company stockholder approvals (including compliance with any applicable requirements of the NYSE) and Delaware law, (iii) subject to receipt by the Company of a fairness opinion from an independent financial advisor, (iv) subject to the execution by the parties of a definitive 
+
+agreement reflecting the commercial arrangement described above, and (v) subject to the Company having terminated any lines of credit in effect on the date of the Cooperation Agreement and having repaid in full any indebtedness then outstanding and borrowed thereunder. The Definitive Agreement shall also provide for a clause to allow the Special Committee of the Board of Directors of the Company (the Board) to pursue any superior proposal for a transaction that, if consummated, would result in a change of control of the Company that is conditioned upon the termination of the Put Option; provided, that the Company will negotiate reasonably and in good faith with any prospective party to include the Put Option or have such Put Option exercised immediately prior to the closing of such proposed transaction. If, after such negotiation, the Put Option will be terminated, the Company will be obligated to pay Mr. Naheta a termination fee of 3.0% of the DTR Value, as determined immediately prior to the termination of the Put Option. 
+
+The price payable by the Company for the DTR Equity in any such Put Option or Call Option transaction shall be the fair market value as determined by a third-party valuation from an independent valuation firm, and the price of the Class A Common Stock to be issued in a Put Option or Call Option transaction shall be equal to the volume weighted average price of the Class A Common Stock on the NYSE over the 30 consecutive trading day period ending on the trading day immediately preceding the date on which the Class A Common Stock would be issued pursuant to the Cooperation Agreement (the Bakkt Share Price), subject to the floor and price cap mechanisms described above. 
+
+During the term of the Cooperation Agreement, each party will use commercially reasonable efforts to conduct its business in the normal and ordinary course, consistent with applicable laws. Pursuant to the Cooperation Agreement, Mr. Naheta will not, directly or indirectly, engage in hedging, short sales or similar activities with respect to the Companys equity. 
+
+The summary of the Cooperation Agreement above is qualified in its entirety by reference to the full text of the Cooperation Agreement, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K (this Form 8-K) and is incorporated herein by reference. 
+
+Item 5.02 Departure of Directors of Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+The information set forth in Item 1.01 of this Form 8-K is incorporated herein by reference. 
+
+On March 19, 2025, the Board appointed each of Akshay Naheta and Andrew Main, the current President and Chief Executive Officer of the Company, to serve as the Companys Co-Chief Executive Officers (each a Co-CEO and together, the Co-CEOs), effective March 21, 2025. In connection with Mr. Nahetas appointment as Co-CEO, Mr. Naheta also was appointed as a Class I Director of the Board, to serve until the 2025 annual meeting of stockholders. Mr. Main will continue to serve as a member of the Board and as the principal executive officer and principal operating officer of the Company, for purposes of the rules and regulations of the SEC, and will continue to have operating responsibility for the Companys regulated subsidiaries, Bakkt Crypto Solutions, LLC and Bakkt Trust Company LLC, until such time as Mr. Naheta has been approved by all relevant regulatory authorities to serve in such capacity. 
+
+Mr. Naheta, age 43, has served as the chief executive officer of DTR, a private company focusing on stablecoin technology and other linked services, since October 2022. Prior to DTR, Mr. Naheta served in various roles at Softbank from 2017 to 2022, most recently Senior Vice President from June 2020 to May 2022, where he supported investments for the Vision Fund. Mr. Naheta previously advised the Company in connection with its formation.Mr. Naheta holds a Bachelor of Science in electrical engineering from University of Illinois at Urbana-Champaign and an S.M. in electrical engineering from the Massachusetts Institute of Technology.
+
+Biographical and other information regarding Mr. Main is included in the Companys definitive proxy statement for its 2024 annual meeting of stockholders, filed with the SEC on April 19, 2024 (the Proxy Statement), which such information is incorporated herein by reference. 
+
+In connection with Mr. Nahetas appointment as Co-CEO, the Company has entered into an employment agreement with Mr. Naheta (the Naheta Employment Agreement), dated as of March 19, 2025 (the Effective Date). Pursuant to the terms of the Naheta Employment Agreement, Mr. Naheta will receive an initial annual base salary of $100,000 
+
+and will be eligible to receive an annual cash bonus, as shall be determined by the Board or the Compensation Committee of the Board (the Compensation Committee). 
+
+As an inducement material to Mr. Naheta entering into employment with the Company, on (or as soon as reasonably practicable following) the Effective Date, Mr. Naheta will receive (1) $15.0 million in performance-based restricted stock units (PSUs) and (2) $150,000 in service-based restricted stock units (RSUs and together with PSUs, the Inducement Grant). The RSUs shall vest 100% on the one-year anniversary of the Effective Date, subject to Mr. Nahetas continued service with the Company. The number of PSUs subject to the Inducement Grant will be determined by dividing the grant date dollar value by the closing price of the Companys stock on the NYSE on March 18, 2025 (the Reference Price). The PSUs will be eligible to vest over a three-year performance period following the date of Mr. Nahetas appointment as Co-CEO (the Performance Period) based on attainment of stock price metrics such that one-third of PSUs will vest, subject to his continued employment through the vesting date, if the Companys stock price appreciates at any point during the Performance Period by 100% above the Reference Price. For each additional 25% of stock price appreciation above the Reference Price during the Performance Period, limited to a maximum of eight (8) additional vesting tranches, an additional number of PSUs equal to $1.25 million divided by the Reference Price will vest, subject to Mr. Nahetas continued employment through the applicable vesting date. The Companys stock price appreciation for purposes of the Inducement Grant will be measured based on a rolling 90-day volume weighted average price. Any PSUs that satisfy the above vesting conditions prior to the first anniversary of the grant date will vest on the first anniversary of the grant date, subject to Mr. Nahetas continued employment through such date. The Inducement Grant will be subject to the terms of the Companys 2021 Omnibus Incentive Plan (the 2021 Plan), as if granted thereunder, but will be granted as inducement awards pursuant to the NYSE Listing Rule 303A.08 and without shareholder approval. Further, Mr. Naheta will be eligible to receive additional annual equity compensation grants during the term of his employment with a target grant date fair value, as determined by the Board or the Compensation Committee, of not less than $100,000, in accordance with the terms of the Companys long-term incentive compensation plans and having such terms and conditions as established by the Board or the Compensation Committee.
+
+In the event Mr. Naheta is terminated by the Company without Cause (other than for death or Disability) or he resigns for Good Reason (each as defined in the Naheta Employment Agreement), he will be entitled to the following severance benefits, subject to his execution of a release of claims agreement and continued compliance with the Naheta Confidentiality Agreement (defined below): (i) a lump sum cash payment equal to two times his then-current base salary, increased to three times his then-current base salary if termination occurs within two years after a Change in Control (as defined in the 2021 Plan); (ii) (A) time-vesting equity grants (including the grants for which actual performance achievement has already been certified as of his termination) will fully vest, (B) with respect to performance based grants for which performance has not been certified as of the date of employment termination, performance will be determined based on actual performance achieved after completion of the performance period, and all earned tranches will vest on the date of such performance certification, and (C) with respect to any stock option awards, Mr. Naheta will be treated as if he had remained employed by the Company for one (1) year following the termination date; and (iii) a lump-sum cash payment in respect of the cost of one years continued health coverage.
+
+In connection with Mr. Main transitioning to the role of President and Co-CEO, his employment agreement was amended to facilitate the appointment of Mr. Naheta the Companys as Co-CEO (such amendment, the Main Employment Agreement Amendment). Otherwise, Mr. Mains employment with the Company will continue on the same terms and conditions of his currently effective employment agreement, which was previously disclosed with the SEC on Form 8-K on March 19, 2024, which description is incorporated by reference herein.
+
+The selection of either Mr. Main or Mr. Naheta to each serve as the Co-CEOs of the Company was not pursuant to any arrangement or understanding with respect to any other person. There are no family relationships between Mr. Main or Mr. Naheta, respectively, and any other director or executive officer of the Company. Any transactions directly or indirectly, between Mr. Main and the Company that would be required to be reported under Item 404(a) of Regulation S-K of the Exchange Act of 1934, as amended (the Exchange Act), are disclosed in the Proxy Statement, which description is incorporated by reference herein. There are no transactions, other than as disclosed herein (including the Cooperation Agreement), between Mr. Naheta and the Company that would be required to be reported under Item 404(a) of Regulation S-K of the Exchange Act.
+
+The foregoing is not a complete description of the Nahetas Employment Agreement or the Main Employment Agreement Amendment. Each such description is qualified in its entirety by reference to the full text of the Naheta Employment Agreement and the Main Employment Agreement Amendment, as applicable, copies of which are filed as Exhibit 10.2 and Exhibit 10.3, respectively, to this Form 8-K and are incorporated herein by reference.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No. Description
+
+10.1* Cooperation Agreement, by and between Bakkt Holdings, Inc., Distributed Technologies Research Global Ltd., and Akshay Naheta
+
+10.2* Employment Agreement, dated March 19, 2025, by and between Bakkt Holdings, Inc. and Akshay Naheta
+
+10.3* Employment Agreement Amendment, dated March 19, 2025, by and between Bakkt Holdings, Inc. and Andrew Main
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+* Certain portions of this exhibit have been omitted in accordance with Regulation S-K Item 601. The Company agrees to furnish an unredacted copy of the exhibit to the SEC upon request.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+BAKKT HOLDINGS, INC.
+
+By:/s/ Marc DAnnunzio
+
+Name: Marc DAnnunzio
+
+Title: General Counsel and Secretary
+
+Dated: March 19, 2025
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>a101projectdelta-coopera.htm
+<DESCRIPTION>EX-10.1
+<TEXT>
+a101projectdelta-coopera
+
+Exhibit 10.1 COOPERATION AGREEMENT This COOPERATION AGREEMENT (this Agreement) is made and entered into as of March 19, 2025, by and among Bakkt Holdings, Inc., a Delaware corporation (Bakkt), Distributed Technologies Research Global Ltd (DTR), a private limited company incorporated in Cyprus, and Akshay Naheta, an individual (the Shareholder). Each of Bakkt, DTR and the Shareholder are sometimes referred to as a Party and collectively the Parties. RECITALS WHEREAS, Bakkt provides various solutions related to processing financial transactions and the ownership and trading of cryptocurrency; WHEREAS, DTR provides technology infrastructure that enables the efficient execution of global payments powered by stablecoins; WHEREAS, the Parties wish to enter into a commercial arrangement pursuant to which, among other things, DTR will provide Bakkt with certain payment processing technology, application programming interfaces (APIs) and infrastructure that will be integrated into Bakkts platform; and WHEREAS, Bakkt will provide DTR with access to its existing and future regulatory licenses to leverage DTRs technology infrastructure for the enablement of global payments processing (the Business). NOW, THEREFORE, in consideration of the premises and the mutual representations, warranties, covenants and undertakings contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties, intending to be legally bound, agree as follows: 1. Cooperation. (a) The Parties hereby agree to integrate DTRs technology that will enable Bakkt to operate the Business, exclusively, in the jurisdictions in which the Bakkt or its affiliates are authorized relying on the current licenses held by Bakkt or its affiliates, any exemptions the Bakkt or its affiliates reasonably believes are applicable to its operations at the relevant time or time periods, and any other licenses obtained by Bakkt and its affiliates in the future. Bakkt shall provide DTRs personnel with reasonable access to Bakkts facilities, information technology systems, personnel, equipment, records, any other information (including Bakkts APIs), and if requested by DTR, office space (at Bakkt locations and subject to reasonable restrictions), to enable the development of the technology underlying the Business and the integration by DTR of its technology and APIs with Bakkts systems and operations. Subject to Bakkts reasonable cooperation, including provision of the foregoing access, DTR will utilize DTRs personnel, technology and intellectual property to develop the Business, which DTR will integrate with Bakkts systems and operations at the expense of DTR. (b) Unless otherwise mutually agreed by the Parties in writing, for each payment that is processed as part of the Business, Bakkt will be entitled to a fee as follows: (i) for any payments initiated and received within the United States, the direct costs incurred by Bakkt for such transaction plus 2.5 basis points; and (ii) for payments initiated from or received outside of the United States, the direct costs incurred by Bakkt for such transaction plus 5 basis points, in each case without any deduction, setoff, counterclaim or withholding. 
+
+2 (c) The Parties will negotiate in good faith and enter into any agreements necessary to reflect the arrangement contemplated by this Section 1 and conduct the Business as soon as practicable. All agreements and/or arrangements will be on an arms length basis, will be for a minimum term of three years and approved by a special committee of the board of directors of Bakkt (the Board) comprised entirely of directors who are independent from the Shareholder and disinterested with respect to the applicable agreements and/or arrangements (any such committee, a Special Committee). 2. Call Option; Put Option. (a) Until 5:00 PM New York time on the date that is twelve months following the date on which Bakkt first initiates processing payments using all or part of DTRs technology in any manner (the Call Event Deadline), Bakkt shall have the exclusive right to require the Shareholder, and if Bakkt exercises such right by providing DTR and the Shareholder written notice thereof prior to the Call Event Deadline, the Shareholder shall have the obligation, to sell, convey, transfer, assign and deliver to Bakkt (and cause the sale, conveyance, transfer assignment and delivery to Bakkt of) 100% of the capital stock and all other equity interests of DTR (the DTR Equity) (such right, the Call Option). The Call Option may be exercised by Bakkt by delivering a written notice to the Shareholder (the Call Option Notice) at any time prior to the Call Event Deadline. Bakkt shall provide prompt written notice to DTR and the Shareholder of the date of the first payment that is processed utilizing DTRs technology, in any event no later than three business days following the date of such payment. From the date of such notice until the Call Event Deadline, the Parties shall remain subject to that certain Exclusivity Agreement dated March 5, 2025 (the Exclusivity Agreement), which shall be deemed to be amended to extend the Exclusivity Period (as defined in the Exclusivity Agreement) commensurate with the foregoing, and to delete the existing Expiration Date (as defined in the Exclusivity Agreement). (b) If Bakkt has not provided a Call Option Notice prior to the Call Event Deadline pursuant to Section 2(a), then for a period beginning on the date of the Call Event Deadline and ending at 5:00 PM New York time on the date that is two years following the Call Event Deadline, if DTR or the Shareholder receives an offer or proposal from a third-party to purchase more than 50% of the DTR Equity, then (i) the Shareholder shall, within a reasonable time not to exceed 48 hours following receipt of such third-party offer or proposal, provide written notice to Bakkt of the material financial and material other terms and conditions of such offer or proposal, including, for the avoidance of doubt and without limitation, the form of consideration and conditions to closing (such notice, the ROFR Notice) and (ii) for a period beginning on the date of receipt of the ROFR Notice and ending on 5:00 PM New York time of the 15th day following the date of the ROFR Notice, Bakkt shall have the right to purchase the DTR Equity subject to the ROFR Notice on the same terms as set forth in the ROFR Notice (such right, the ROFR). If the Shareholder does not agree that the Bakkt offer is on the same terms, the Parties will work to resolve any such disagreement and if they are unable to, will submit the question to a binding third party arbiter to be agreed. The ROFR shall expire in the event that (x) the terms proposed by Bakkt are not the same or as favorable as those in the ROFR Notice or (y) Bakkt exercises the ROFR pursuant to this Section 2(b) and the transactions contemplated thereby are not consummated within 90 days following the date of the ROFR Notice (which 90-day period shall be automatically extended to the extent reasonably required to obtain any required regulatory approvals, non-objections, and/or similar authorizations and, provided that such extension may not be for more than 90 days, Bakkt stockholder approval). In the event that there are any material amendments to the terms of any offer or proposal triggering Bakkts ROFR, or a new offer or proposal from a third-party to purchase more than 50% of the DTR Equity, unless the ROFR has expired pursuant to the prior sentence of this Section 2(b), Bakkt shall be entitled to a new ROFR. Any sale, conveyance, transfer, assignment or delivery of more than 50% of the DTR Equity without complying with, and giving effect to, the Call Option (to the extent applicable) or the ROFR shall be null and void. None 
+
+3 of the Parties shall, at any time, take any action directly or indirectly to modify, circumvent and/or avoid any agreements or obligations of such Party under the ROFR. (c) If the cumulative volume of payments processed by Bakkt utilizing DTRs technology or otherwise facilitated by the Business exceeds $2 billion (USD) during any 18-month period following the date of this Agreement (the Put Event), for a period ending at 5:00 PM New York time on the date that is three years following the Put Event (the Put Event Deadline), the Shareholder shall have the right to require Bakkt, and if the Shareholder exercises such right by providing Bakkt written notice thereof prior to the Put Event Deadline, Bakkt shall have the obligation to, to purchase, acquire and accept from the Shareholder the DTR Equity (Put Option). DTR shall provide prompt written notice to Bakkt when DTR believes that the Put Event has occurred (the Put Event Notice), together with reasonable supporting documentation. Bakkt shall have until 5:00 PM New York time of the 15th day following the date of the Put Event Notice to verify such information and confirm that the Put Event has occurred. Any disputes with respect to the foregoing will be submitted to a mutually agreed auditing firm if the Parties are unable to resolve any such dispute through their respective business channels for a period of no more than 15 days. If Bakkt does not deliver a written objection with respect to the Put Event Notice by 5:00 PM New York time of the 15th day following the date of the Put Event Notice, it shall be deemed that the Put Event has occurred. (d) As consideration for the sale of DTR Equity contemplated by a Put Option or a Call Option pursuant to this Section 2, the Shareholder shall be entitled to, for 100% of the DTR Equity, a number of shares of Bakkts Class A Common Stock representing at least 19.9% of the Bakkt Share Number; provided that in no event shall the Shareholder be entitled to a number of shares of Bakkts Class A Common Stock representing greater than 31.5% of the Bakkt Share Number; provided, further, that the Shareholders percentage of the Bakkt Share Number shall be reduced by any indebtedness of DTR outstanding immediately prior to the closing of the sale of DTR Equity pursuant to this Section 2 and any Transaction Expenses (as defined below) incurred by or on behalf of DTR or the Shareholder in excess of $1,000,000 and not paid or refunded by or on behalf of DTR or the Shareholder (such consideration, the DTR Value). The Bakkt Share Number means, as of immediately prior to the consummation of the transactions contemplated by a Definitive Agreement (as defined below), the sum (without duplication) of (1) the total number of shares of Common Stock of Bakkt (including shares of Class A Common Stock and the paired interests represented by Class V Common Stock on an as-exchanged to Class A Common Stock basis) that are issued and outstanding, plus (2) the aggregate number of Bakkt capital stock issuable upon full exercise or conversion of any options, warrants, or other convertible or derivative securities that are outstanding, on an as-converted basis, other than the publicly traded SPAC warrants and any underwater warrants to purchase shares of Common Stock of Bakkt (it being understood that the Shareholder shall be entitled to a top up to make him whole for any shares of Common Stock of Bakkt actually issued upon the exercise of any such warrants, if and when such shares are issued, to the same extent as if such shares had been included in the Bakkt Share Number). For purposes of this Agreement, Bakkts Class A Common Stock means Bakkts Class A Common Stock or such other shares or other securities into which such Class A Common Stock is converted, exchanged, reclassified or otherwise changed, as the case may be, from time to time. (e) Any transaction relating to DTR Equity contemplated by this Section 2 shall be (i) made pursuant to a customary purchase agreement (the Definitive Agreement) that will contain representations, warranties and interim operating covenants by Bakkt, DTR and the Shareholder that are customary for a transaction of such nature and customary efforts covenants to obtain the approvals described in clause (ii) of this Section 2(e) and the Parties will work in good faith to enter into a Definitive Agreement therefor consistent with the terms of this Section 2 as soon as practicable, (ii) subject to, among other things, obtaining any required regulatory approvals, non-objections and/or similar authorizations and 
+
+4 Bakkt stockholder approval (including to comply with any applicable requirements of the New York Stock Exchange (NYSE) (or other exchange if not listed on NYSE) or Delaware law), (iii) subject to receipt by Bakkt of a fairness opinion from an independent financial advisor (which Bakkt agrees to seek), (iv) subject to the execution by the Parties of a definite agreement reflecting the commercial arrangement outlined in Section 1 of this Agreement (the Commercial Agreement), and (v) subject to Bakkt having terminated any lines of credit in effect on the date of this Agreement and having repaid in full any indebtedness borrowed thereunder. The price of the DTR Equity (i.e., the DTR Value) for any transaction contemplated by this Section 2 shall be the fair market value of DTR as determined by a third-party valuation from an independent valuation firm reasonably acceptable to Bakkt and the Shareholder; provided that if the Parties cannot agree on the selection of an independent valuation firm, Bakkt and the Shareholder will each select a valuation firm, and such valuation firms shall select an independent valuation to perform the analysis, with input from the designating valuation firms. The engagement terms for the valuation firms shall require that such valuation firms complete the valuation as promptly as reasonably practicable (and the Parties will cooperate so such determination will be made promptly). In no event shall the Shareholder be entitled to a number of shares of Bakkts Class A Common Stock representing less than 19.9% of the Bakkt Share Number or more than 31.5% of the Bakkt Share Number, subject to adjustments for indebtedness of DTR and Transaction Expenses to the extent provided above. The price of Bakkts Class A Common Stock to be issued in any transaction contemplated by this Section 2 shall be the volume weighted average price of a share of Bakkts Class A Common Stock on NYSE (or other exchange if not listed on NYSE) over the 30 consecutive trading day period ending on the trading day immediately preceding the date on which Bakkts Class A Common Stock would be issued pursuant to this Agreement (as calculated by Bloomberg) (provided if Bakkts Class A Common Stock is not listed on an exchange, the fair market value of Bakkts Class A Common Stock determined by an independent valuation firm selected consistent with the selection of the independent valuation firm contemplated by the prior sentence of this Section 2(e)). Bakkt will be entitled to a fiduciary out termination right with respect to the Put Option that may be exercised by a Special Committee in the event that Bakkt receives an unsolicited superior proposal for a transaction that, if completed, would result in a change of control of Bakkt and is conditioned upon the termination of the Put Option; provided that before exercise such fiduciary out, Bakkt will negotiate reasonably and in good faith with the buyer to include the Put Option in the transaction or have the Put Option exercised immediately prior to closing of such transaction, provided further that if after such negotiation the buyer still requires termination of the Put Option, Bakkt may terminate the Put Option by paying the Shareholder a termination fee of 3% of the DTR Value, as determined as of immediately prior to the termination of the Put Option, which payment shall be made upon the later of (i) the termination of the Put Option or (ii) the determination of the DTR Value pursuant to the mechanism provided in this Agreement. (f) With respect to any third party financing or other issuance of equity interests in DTR to any person other than the Shareholder or an affiliate thereof, Shareholder and DTR shall cause the agreements with respect to such transactions to have customary drag along provisions as reasonably determined by DTR to ensure that 100% of the DTR Equity can be sold, conveyed, transferred, assigned and delivered to Bakkt as contemplated by this Section 2, provided that the Shareholder shall own, directly or indirectly, a majority of the voting and economic interests of DTR at all times. (g) While this Agreement is in effect, each Party will use commercially reasonable efforts to conduct its business in the normal and ordinary course, consistent with all applicable laws and in good faith in a manner intended to reasonably preserve the value of such Party. (h) In the event that the consummation of a transaction contemplated in Section 2(e) would constitute a Fundamental Transaction pursuant to the provisions of any outstanding Common Stock Warrant issued to various investors pursuant to each of those certain Securities Purchase Agreements, each dated as February 29, 2024 (if any such warrants remain outstanding at the time with the relevant provision 
+
+5 remaining applicable), at the request of the Special Committee, the Shareholder will agree to reasonable limitations on its voting rights in order to avoid triggering such provisions. (i) During the term of this Agreement, the Shareholder will not, directly or indirectly, be permitted to engage in hedging or short sales or similar activity with respect to Bakkts shares, provided that, if the Shareholder is employed by Bakkt, the Shareholder will be deemed to be in compliance with this provision if he is in compliance with Bakkts insider trading policies. (j) For the avoidance of doubt, if the Shareholder is serving on the Board, the Shareholder will recuse himself from any meeting or discussion and exclude himself from any vote with respect to this Agreement or the transactions contemplated hereby. 3. Representations and Warranties. (a) Bakkt hereby represents and warrants that: (i) it is duly organized, validly existing and in good standing under the laws of the state of its organization or incorporation; (ii) the execution and delivery of this Agreement has been duly authorized by all necessary action; (iii) the officer of such Party executing this Agreement has all necessary power with respect thereto; and (iv) subject to receipt of any required stockholder or regulatory approvals (in the case of Section 2 only), will have the power to consummate the transactions contemplated by this Agreement. (b) Each of DTR and the Shareholder hereby represents and warrants that: (i) DTR is duly organized, validly existing and in good standing under the laws of the state of its organization or incorporation; (ii) the Shareholder, directly or indirectly, owns all of the issued and outstanding DTR Equity; (iii) all transactions contemplated by this Agreement to be performed by such Parties have been duly authorized by all necessary action and do not require the consent or approval of any third party with respect to it; (iv) such Party has all necessary power with respect thereto; and (v) has duly authorized the execution, delivery and performance of this Agreement. 4. Miscellaneous. (a) Termination; Survival. This Agreement may be terminated: (i) by the mutual agreement of the Parties, (ii) by Bakkt as a result of DTRs or the Shareholders material breach, or by DTR as a result of Bakkts material breach, which in either case is uncurable or remains uncured for 30 days after notice by the Party seeking to terminate to the breaching Party, (iii) by Bakkt, if the Shareholder is terminated as the Chief Executive Officer of Bakkt for Cause (as defined in the employment agreement between Bakkt and the Shareholder (the Employment Agreement)) and notifies Shareholder of Bakkts intent to terminate this Agreement within 30 days of the date of termination of Shareholder as Chief Executive Officer, (iv) by the Shareholder, if the Shareholder resigns as Chief Executive Officer of Bakkt for Good Reason (as defined in the Employment Agreement) and notifies Bakkt within 30 days of the date of resignation his intent to terminate this Agreement or (v) by either Bakkt or the Shareholder if the Parties are unable to agree on a Commercial Agreement within 90 days following the date of this Agreement; provided that such period shall be automatically extended for a period of 15 days if the Parties are working in good faith to agree to such Commercial Agreement; provided that no Party shall be entitled to terminate this Agreement pursuant to clause (v) if it is in material breach of its obligations under this Agreement, including an obligation to negotiate in good faith commercial arrangements as contemplated by clause (v) above, and such breach has caused the failure of the deadlines set forth in clause (v) to be met. Any valid termination of this Agreement pursuant to this Section 4 will be effective immediately upon the mutual written agreement of the Parties or the delivery of written notice by the terminating Party to the other Parties. In the event of the termination of this Agreement pursuant to this Section 4, this Agreement shall 
+
+6 be of no further force or effect without liability of any Party (or any partner, member, stockholder, director, officer, employee, affiliate, or representative of such Party) to the other Parties, as applicable, except in the case of intentional fraud or willful and material breach. (b) Special Committee. For all purposes under this Agreement and the other agreements contemplated hereby, including any Definitive Agreement, and with respect to the granting of any consent, permission or waiver in connection herewith or therewith, Bakkt shall act only as directed by a Special Committee. (c) Parties Bound; No Third Party Beneficiaries. From and after the date of this Agreement, the Parties hereto agree to comply with and implement the terms herein. The Parties agree that their respective representations, warranties, covenants, and agreements set forth in this Agreement are solely for the benefit of the other Parties in accordance with and subject to the terms of this Agreement. This Agreement is not intended to and shall not confer upon any other person any rights or remedies under this Agreement. (d) Amendments. This Agreement may be modified or amended only as agreed by the Parties hereto in writing. (e) Assignment. No Party may assign either this Agreement or any of its rights, interests, or obligations hereunder, by operation of law or otherwise, without the prior written approval of the other Parties. (f) Entire Agreement. This Agreement, together with the Exclusivity Agreement, constitutes the entire agreement among the Parties with respect to the subject matter hereof and supersede all prior agreements and understandings, both written and oral, among the Parties with respect to the subject matter hereof. Notwithstanding anything to the contrary in this Agreement, the Confidentiality Agreement by and between Bakkt and DTR, dated February 24, 2025 (the Confidentiality Agreement), shall: (i) not be superseded; (ii) survive any termination of this Agreement; and (iii) continue in full force and effect until the earlier to occur of the termination of this Agreement and the date on which the Confidentiality Agreement expires in accordance with its terms or is validly terminated by the parties thereto. (g) Expenses. All fees, costs and expenses, including without limitation all legal, financial, investment banking, finders, brokers and other fees, incurred in connection with the transactions contemplated hereby (Transaction Expenses) will be paid by the respective Party incurring such Transaction Expenses; provided that Bakkt shall pay, or cause to be paid, the Transaction Expenses incurred by each of DTR and the Shareholder on the earlier of (i) the closing of any transactions contemplated by Section 2 (or if a Definitive Agreement is entered into for the sale of DTR Equity and then terminated without closing, the date of termination of such Definitive Agreement), (ii) expiration of the Call Option, ROFR, or Put Option, and (iii) the termination of this Agreement; provided further, that such amount payable by Bakkt shall not exceed $1,000,000. (h) Specific Performance. The Parties acknowledge and agree that (i) irreparable damage for which monetary damages, even if available, would not be an adequate remedy would occur in the event that the Parties do not perform the provisions of this Agreement (including any Party failing to take such actions as are required of it hereunder in order to consummate this Agreement) in accordance with its specified terms or otherwise breach such provisions; (ii) the Parties will be entitled, in addition to any other remedy to which they are entitled at law or in equity, to an injunction, specific performance and other equitable relief to prevent breaches (or threatened breaches) of this Agreement and to enforce specifically the terms and provisions hereof; and (iii) the right of specific enforcement is an integral part of the 
+
+7 transactions contemplated hereby and without that right, none of the Parties would have entered into this Agreement. The Parties agree not to raise any objections to the granting of an injunction, specific performance or other equitable relief to prevent or restrain breaches or threatened breaches of this Agreement on the basis that (A) the other Parties have an adequate remedy at law, or (B) an award of specific performance is not an appropriate remedy for any reason at law or in equity. Any Party seeking an injunction or injunctions to prevent breaches of this Agreement and to enforce specifically the terms and provisions of this Agreement shall not be required to provide any bond or other security in connection with such injunction or enforcement, and each Party irrevocably waives any right that it may have to require or request the obtaining, furnishing or posting of any such bond or other security. Each Party agrees that it will use its reasonable best efforts to cooperate with the other Parties in seeking and agreeing to an expedited schedule in any litigation seeking an injunction or order of specific performance. The Parties further agree that (x) by seeking the remedies provided for in this Section 4(h), a Party shall not in any respect waive its right to seek any other form of relief that may be available to a Party under this Agreement, and (y) nothing set forth in this Section 4(h) shall require any Party to institute any proceeding for (or limit any Partys right to institute any proceeding for) specific performance under this Section 4(h) prior or as a condition to exercising any termination right under Section 4(a) (and pursuing damages after such termination), nor shall the commencement of any legal proceeding pursuant to this Section 4(h) or anything set forth in this Section 4(h) restrict or limit any Partys right to terminate this Agreement in accordance with the terms of Section 4(a) or pursue any other remedies under this Agreement that may be available then or thereafter. (i) Severability. In the event that any provision of this Agreement, or the application thereof, becomes or is declared by a court of competent jurisdiction to be illegal, void or unenforceable, or incapable of being enforced under any applicable law, the remainder of this Agreement shall continue in full force and effect and the application of such provision to other persons or circumstances shall be interpreted so as reasonably to effect the intent of the Parties. The Parties further agree to replace such void or unenforceable provision of this Agreement with a valid and enforceable provision that shall achieve, to the extent possible, the economic, business and other purposes of such void or unenforceable provision. (j) Governing Law; Jurisdiction. (i) This Agreement will be governed by, and construed in accordance with, the laws of the State of Delaware without giving effect to any choice or conflict of laws provision, rule, principle (whether of the State of Delaware or any other jurisdiction) that would result in the application of the laws of any other jurisdiction. (ii) Each Party (A) irrevocably submits itself and its properties and assets to the exclusive jurisdiction of the Court of Chancery of the State of Delaware (or, if (and only if) the Court of Chancery of the State of Delaware declines to accept or does not have jurisdiction over a particular matter, the Superior Court of the State of Delaware or any state or federal court sitting in the State of Delaware) for the purpose of any action, proceeding or counterclaim (whether based on contract, tort or otherwise) arising out of or relating to this Agreement and/or the transactions contemplated hereby; (B) consents to submit itself to the personal jurisdiction of the Court of Chancery of the State of Delaware (or, if (and only if) the Court of Chancery of the State of Delaware declines to accept or does not have jurisdiction over a particular matter, the Superior Court of the State of Delaware or any state or federal court sitting in the State of Delaware) for the purpose of any such action, proceeding or counterclaim; and (C) agrees that it will not attempt to deny or defeat such personal jurisdiction by motion or other request for leave from any such court. (k) Waiver of Jury Trial. EACH PARTY HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM (WHETHER 
+
+8 BASED ON CONTRACT, TORT, OR OTHERWISE) ARISING OUT OF OR RELATING TO ANY RELEVANT MATTER. (l) Notices. All notices and other communications hereunder must be in writing and will be deemed to have been duly delivered and received hereunder (i) when delivered, if delivered personally to the intended recipient; (ii) upon receipt of proof of delivery, if delivered by an internationally recognized overnight courier service; or (iii) immediately upon delivery by electronic mail (provided that no bounce back, unsuccessful delivery or similar message is received with respect thereto), in each case to the intended recipient as set forth below: if to Bakkt to: Bakkt Holdings, Inc. 10000 Avalon Boulevard, Suite 1000 Alpharetta, Georgia 30009 Attention: General Counsel Email: legal-notices@bakkt.com if to DTR or to the Shareholder to: Distributed Technologies Research Global Ltd Georgiou Christoforou, 8 1st Floor Strovolos, 2012, Nicosia, Cyprus Attn: [***] Email: [***] (m) Headings and Captions. The headings set forth in this Agreement are for convenience of reference purposes only and will not affect or be deemed to affect in any way the meaning or interpretation of this Agreement or any term or provision hereof. (n) No Waiver. The failure of any Party hereto to insist upon strict performance of a covenant or obligation hereunder or to exercise any right or remedy hereunder, regardless of how long such failure shall continue, shall not be a waiver of such Partys right to demand strict compliance therewith at any time in the future unless such waiver is in writing and signed by such Party giving the same. (o) Further Assurances. Subject to the terms and conditions provided herein, each Party hereto agrees to use its best efforts to, as promptly as practicable, take or cause to be taken all action and to do, or cause to be done, all things necessary, proper or advisable under laws to further the purposes of this Agreement. The Parties shall execute and deliver, or shall cause to be executed and delivered, such documents and other instruments and shall take, or shall cause to be taken, such further actions as may be reasonably required to carry out the provisions of this Agreement and give effect to the transactions contemplated by this Agreement. (p) Counterparts. This Agreement and any amendments hereto may be executed in one or more counterparts, all of which shall be considered one and the same agreement and shall become effective when one or more counterparts have been signed by each of the Parties and delivered to the other Parties, it being understood that all Parties need not sign the same counterpart. Any such counterpart, to the extent executed and delivered by fax or .pdf, .tif, .gif, .jpg or similar attachment to electronic mail or other means of electronic signature (any such delivery, an Electronic Delivery), shall be treated in all manner 
+
+9 and respects as an original executed counterpart and shall be considered to have the same binding legal effect as if it were the original signed version thereof delivered in person. No Party may raise the use of an Electronic Delivery to deliver a signature, or the fact that any signature or agreement or instrument was transmitted or communicated through the use of an Electronic Delivery, as a defense to the formation of a contract, and each Party forever waives any such defense, except to the extent such defense relates to lack of authenticity. [Remainder of Page Left Intentionally Blank; Signature Page Follows] 
+
+IN WITNESS WHEREOF, the undersigned have executed, or caused to be executed, this COOPERATION AGREEMENT as of the date first written above. BAKKT HOLDINGS, INC. By: /s/ Andrew Main Name: Andrew Main Title: President and Chief Executive Officer DISTRIBUTED TECHNOLOGIES RESEARCH GLOBAL LTD By: /s/ Akshay Naheta Name: Akshay Naheta Title: Chief Executive Officer AKSHAY NAHETA /s/ Akshay Naheta
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>a102.htm
+<DESCRIPTION>EX-10.2
+<TEXT>
+a102
+
+Exhibit 10.2 EMPLOYMENT AGREEMENT THIS EXECUTIVE EMPLOYMENT AGREEMENT (this Agreement) is entered into as of March 19, 2025 (the Effective Date) by and between Bakkt Holdings, Inc. (the Company) and Akshay Naheta (Executive) (jointly referred to as the Parties or individually referred to as a Party). R E C I T A L S WHEREAS, the Company desires to engage Executive as its co-Chief Executive Officer, and to enter into an agreement embodying the terms of such employment; and WHEREAS, Executive desires to accept such employment and enter into this Agreement. A G R E E M E N T NOW, THEREFORE, in consideration of the premises and mutual covenants herein and for other good and valuable consideration, the Parties agree as follows: 1. Duties and Scope of Employment. (a) Positions and Duties. Effective as of March 21, 2025 (the Employment Date), Executive will serve as co-Chief Executive Officer of the Company, rendering such business and professional services in the performance of Executives duties consistent with Executives positions with the Company as shall reasonably and lawfully be assigned by the Board of Directors of the Company (the Board). The period of Executives at-will employment under the terms of this Agreement is referred to herein as the Employment Term. Executive will work remotely in the United Arab Emirates, subject to business travel as is reasonably necessary in connection with his performance of his duties and responsibilities. The Parties shall mutually agree on the content of the public announcement of Executives appointment, which shall be made on March 19, 2025. As of the Employment Date, Executive will be appointed to the Board and, during the Employment Term, the Company shall nominate Executive for election to the Board by its stockholders. (b) Obligations. Executive will perform Executives duties faithfully and to the best of Executives ability and will devote substantially all of Executives business efforts and time to the Company during normal business hours of a Chief Executive Officer (including performing services for businesses that may be acquired by the Company as may be requested by the Board, which services will not be deemed to be a breach by Executive of any duties or covenants to the Company, including under this Agreement). For the duration of the Employment Term, Executive agrees not to actively engage in any other employment or consulting activity for any remuneration without the prior approval of the Board. (c) Limitations on Authority and Role. Until such time as all required regulatory approvals as may be required for the licenses set forth on Exhibit A hereto (the Required Approvals) have been obtained to serve as a control person or similar designation under applicable law, (i) Executive shall not have authority or responsibility, directly or indirectly, to direct or control any of the management, policies, or operations of Bakkt Crypto Solutions, LLC (BCS) or Bakkt Trust Company LLC (BTC), except as otherwise permitted under applicable law, (ii) Executive shall not have the direct or indirect power or authority to elect or appoint any executive officers or other persons exercising managerial authority of BCS or BTC, (iii) Executive shall not have the direct or indirect power or authority to direct any individual performing similar managerial or supervisory functions with respect to BCS or BTC in any of its operations, 
+
+2 and (iv) Executive shall not be employed in any capacity by BCS or BTC nor otherwise perform any managerial duties for BCS or BTC. As soon as practicable following the Effective Date, and in any case no later than fifteen (15) days following the Effective Date, the Company and its affiliates shall, subject to the cooperation and submission of all relevant information and the taking of all requisite actions by Executive, file such initial applications, notification filings, forms and submissions, including any draft notifications in jurisdictions requiring pre-notification, with any governmental authority as are required to obtain the Regulatory Approvals. Executive, along with the Company and its affiliates, with the reasonable assistance of Executive wherever applicable, shall use (and cause its subsidiaries to use) commercially reasonable efforts to take all actions required, proper or advisable to obtain the Regulatory Approvals as promptly as reasonably practicable, including, as with respect to each of the Company and Executive, supplying (or causing to be supplied) any additional information that may be required or requested by the applicable governmental authorities in connection with making such filings or submissions and obtaining the Regulatory Approvals. 2. At-Will Employment. Subject to Sections 7, 8, and 9 below, the Parties agree that Executives employment with the Company will be at-will employment and may be terminated at any time with or without Cause or notice, for any reason or no reason. 3. Compensation. (a) Base Salary. Executive will receive an annual base salary of $100,000 (as may be modified in accordance with the next sentence, the Base Salary). The Base Salary may be increased from time to time during the Employment Term and shall not be decreased without consent of Executive. The Base Salary will be paid in regular installments in accordance with the Companys normal payroll practices (subject to required withholding). The last payment will be adjusted, if necessary, to reflect a termination date other than the last working day of a pay period. (b) Annual Bonus. During the Employment Term, Executive shall be eligible to receive an annual bonus. The amount of such bonus (if any) shall be determined by the Board (or a committee thereof) and shall be paid no later than two and one half (2) months after the end of the taxable year to which the bonus relates. Executive must be employed on the date that annual bonuses are paid to Company executives in order to receive any such annual bonus. (c) Equity Awards. (i) Performance Stock Units. On or as soon as reasonably practicable following the Effective Date, the Company shall grant Executive a one-time award of performance-based restricted stock units (PSUs), with a grant date value of $15,000,000. The number of PSUs subject to the grant will be determined by dividing the grant date value by the closing price on the New York Stock Exchange of one share of the Companys common stock on March 18, 2025 (the Reference Price). The PSUs shall be eligible to vest over a three-year performance period following the Employment Date (the Performance Period) based on attainment of stock price metrics such that one-third of PSUs will vest, subject to continued employment through the vesting date, if the Companys stock price (measured based on a rolling 90-day VWAP) appreciates at any point during the Performance Period by 100% above the Reference Price. For each additional 25% of stock price appreciation (measured based on a rolling 90-day VWAP) above the Reference Price during the Performance Period, limited to a maximum of eight (8) additional vesting tranches, an additional number of PSUs equal to $1,250,000 divided by the Reference Price will vest, subject to continued employment through the vesting date. No PSUs will vest in the event that the Companys stock price (measured based on a rolling 90-day VWAP) does not appreciate above the Reference Price by at least 100% during the Performance Period. Any PSUs that satisfy the above vesting conditions prior to the first anniversary of the grant date will not vest unless and until the first anniversary 
+
+3 of the grant date, subject to Executives continued employment through such date. In the event of a Change in Control, as defined in the Company 2021 Omnibus Incentive Plan (the 2021 Plan), any then outstanding unvested PSUs will be eligible to vest upon the closing of the Change in Control based on the Change in Control price. Any PSUs that do not vest as of the Change in Control date will terminate without consideration. The PSUs shall be subject to the terms and conditions of the 2021 Plan and form of PSU Award Agreement entered into by and between Executive and the Company, consistent with the substantive terms of this Agreement. (ii) Sign-On RSU Grant. On or as soon as reasonably practicable following the Effective Date, Executive shall be granted restricted stock units (RSUs) with a target grant date fair value as determined by Board (or a committee thereof) of not less than $150,000, which shall be subject to a one-year vesting period and otherwise granted in accordance with the terms of the 2021 Plan and any applicable award agreement. (iii) Additional Annual Grants. During the Employment Term, Executive shall be eligible for additional annual equity compensation grants with a target grant date fair value as determined by Board (or a committee thereof) of not less than $100,000, which shall be granted in the ordinary course of the Companys executive compensation practices. Such grants shall be made in accordance with the terms of the Companys long-term incentive compensation plans and with such terms and conditions established by the Board or its Compensation Committee, as set forth in the applicable award agreement(s). (iv) Inducement Grants; Condition to Annual Equity Awards. Executive acknowledges that the RSUs and PSUs contemplated by Section 3(c)(i) and (ii) are an inducement material to Executives decision to accept employment with the Company. Such RSUs and PSUs will be subject to the terms of the 2021 Plan as if granted thereunder but will be granted pursuant to the employment inducement award exception provided under Rule 303A.08 of the New York Stock Exchange Listed Company Manual. Promptly following the date hereof, the Company will take all actions necessary to meet such inducement exemption and file a registration statement on Form S-8 registering the grant of the RSUs and PSUs. Executives receipt and entitlement to the equity awards described in Section 3(c)(iii) shall be contingent upon receipt of necessary stockholder approvals. 4. Employee Benefits. During the Employment Term, Executive will be eligible to participate in the employee benefit plans currently and hereafter maintained by the Company of general applicability to other senior executives of the Company, including, without limitation, the Companys retirement, group medical, dental, vision, disability, life insurance, and flexible-spending account plans, or, to the extent the Company is unable to provide coverage under Company benefit plans while Executive is residing outside of the United States, the Company will arrange to provide comparable benefit coverage to Executive or provide additional cash payments to Executive to purchase comparable benefit coverage. The Company reserves the right to cancel or change the benefit plans and programs it offers to its employees generally at any time. In addition, during the Employment Term, the Company shall pay or reimburse Executive for an annual executive physical provided by Executive Health Exams. 5. Vacation. Executive will be eligible to accrue a maximum of four (4) weeks paid vacation per year, in accordance with the Companys vacation policy. 6. Business Expenses. During the Employment Term, the Company will reimburse Executive for reasonable business expenses upon the presentation of reasonably itemized statements of such expenses in accordance with the Companys policies and procedures now in force or as such policies and procedures may be modified with respect to all senior executives of the Company. For business-related travel, Executive will be reimbursed for first class air travel and related expenses, including entertainment or other business expenses incurred by Executive in the furtherance of or in connection with the performance of 
+
+4 Executives duties under this Agreement. Without limiting any other benefit that Executive may be entitled pursuant to the Companys reimbursement policies, Executive shall also be reimbursed for use of a suite when traveling for Company business purposes when reasonably required for business purposes (for example, when at a conference in order to facilitate meetings). 7. Termination on Death or Disability. (a) Effectiveness. Executives employment will terminate automatically upon Executives death or, upon fourteen (14) days prior written notice to the Company in the event of Disability. (b) Effect of Termination. Upon any termination for death or Disability, Executive shall be entitled to (1) the following accrued obligations: (i) any earned but unpaid Base Salary; (ii) any accrued and unused vacation pay, to the extent provided in accordance with the Companys policies and procedures and applicable law; (iii) any business expenses that are reimbursable pursuant to Section 6; and (iv) any compensation and/or benefits as may be due or payable to Executive (or Executives beneficiary, legal representative or estate, as the case may be, in the event of Executives death) in accordance with the terms and provisions of any employee benefit plans or programs of the Company, to be paid in accordance with such terms (together, (i)-(iv), the (the Accrued Obligations). For the avoidance of doubt, upon any termination for death or Disability, Executive shall not be entitled to any other severance or benefits of any kind unless required by law or pursuant to any other written Company plans or policies, as then in effect. 8. Termination for Cause; Resignation without Good Reason. (a) Effectiveness. Notwithstanding any other provision of this Agreement, the Company may terminate Executives employment at any time for Cause, and Executive may resign from Executives employment with the Company at any time for any reason. Executives termination for Cause by the Company, or Executives resignation for any reason, shall be effective on the date either Party gives notice to the other Party of such termination in accordance with this Agreement unless otherwise agreed by the Parties. A resignation by Executive without Good Reason that is accelerated by the Company shall continue to be construed as a resignation under this Agreement and shall not be considered or treated as a termination by the Company. (b) Effect of Termination. In the case of the Companys termination of Executives employment for Cause, or Executives resignation for any reason other than Good Reason, Executive shall be entitled to receive the Accrued Obligations, and Executive shall not be entitled to any other severance or benefits of any kind unless required by law or pursuant to any other written Company plans or policies, as then in effect. 9. Involuntary Termination Without Cause; Resignation for Good Reason. (a) If Executive is terminated by the Company without Cause (which does not include any termination due to death or Disability), or if Executive resigns for Good Reason, then subject to the limitations of Sections 9(b) and 23 below, Executive shall be entitled to receive: (A) the Accrued Obligations; (B) a lump sum cash payment equal to two (2) (or, if such termination is within two years after a Change in Control, three (3)) times Executives then-current Base Salary; (C) with respect to equity based compensation grants made to Executive under the 2021 Plan (i) for time-vesting equity based grants (including the grants for which actual performance achievement has already been certified as of the date of employment termination), accelerate Executives right to exercise all such options and fully vest all such equity grants, (ii) for performance based grants, for which performance has not been certified as of the date of employment termination, determine and certify performance based on actual performance achieved after completion of the performance period in accordance with the terms of such grants, and vest all earned 
+
+5 tranches of such performance grants on the date of such performance certification, and (iii) with respect to any stock option awards, treat Executive as if Executive had remained employed by the Company for one (1) year following the date of termination so that the time period over which Executive has the right to exercise such options shall be the same as if there had been no termination of Executives employment until the end of such one year period; provided that, for the avoidance of doubt, any treatment of equity based grants set forth in the 2021 Plan or any award thereunder that is more favorable to Executive will apply; and (E) a lump sum cash payment in respect of Executives cost of one (1) years continued health coverage. For the avoidance of doubt, Executive shall not be entitled to any other severance or benefits of any kind unless required by law or pursuant to any other written Company plans or policies, as then in effect. (b) Conditions Precedent. Any severance payments contemplated by Section 9(a) above are conditional on Executive: (i) continuing to comply with the terms of this Agreement and the Confidential Information Agreement (as defined below); and (ii) signing and not revoking a separation agreement and release of known and unknown claims in the form provided by the Company (the Release) which becomes effective and irrevocable no later than sixty (60) days following the termination date or such earlier date required by the release (such deadline, the Release Deadline). If the Release does not become effective by the Release Deadline, Executive will forfeit any rights to severance under this Section 9 and elsewhere in this Agreement. Any severance payments or other benefits under this Agreement that would be considered Deferred Compensation Separation Benefits (as defined in Section 23) will be paid on, or, in the case of installments, will not commence until, the sixtieth (60th) day following Executives separation from service, or, if later, such time as required by Section 23(b). Except as required by Section 23(b), any installment payments that would have been made to Employee during the sixty (60) day period immediately following Executives separation from service but for the preceding sentence will be paid to Executive on the sixtieth (60th) day following Executives separation from service and the remaining payments will be made as provided in this Agreement, unless subject to the 6-month payment delay described herein. Any severance payments under this Agreement that would not be considered Deferred Compensation Separation Benefits will be paid on, or, in the case of installments, will not commence until, the first payroll date that occurs on or after the date the Release becomes effective and any installment payments that would have been made to Executive during the period prior to the date the Release becomes effective following Executives separation from service but for the preceding sentence will be paid to Executive on the first payroll date that occurs on or after the date the Release becomes effective. Notwithstanding the foregoing, this Section 9(b) shall not limit Executives ability to obtain expense reimbursements under Section 6 or any other compensation or benefits otherwise required by law or in accordance with written Company plans or policies, as then in effect. 10. Definitions. (a) Cause. For purposes of this Agreement, Cause shall mean: (i) Executives failure to substantially perform his material duties and obligations consistent with this Agreement (for reasons other than death or Disability), which failure, if curable within the discretion of the Company, is not cured to the reasonable satisfaction of the Company within thirty (30) days after receipt of written notice from the Company of such failure; (ii) Executives material failure or refusal to comply with the material written policies, standards or regulations established by the Company (provided that such have been communicated or made available to Executive) from time to time, which failure, if curable in the discretion of the Company, is not cured to the reasonable satisfaction of the Company within thirty (30) days after receipt of written notice of such failure from the Company; (iii) any act of fraud, embezzlement, misrepresentation, or other unlawful act committed by Executive that is or may reasonably be expected to have a material and adverse effect on the reputation or interests of the Company that Executive fails to remedy to the reasonable satisfaction of the Board within thirty (30) days after written notice is delivered by the Board to Executive that sets forth in reasonable detail the basis of such misconduct or failure, provided that such failure is 
+
+6 actually curable within the discretion of the Company; (iv) Executives violation of a federal or state law or regulation applicable to the Companys business or other conduct that has caused any regulatory body or agency that has competent jurisdiction over the Company to determine that Executive is not permitted, or is otherwise unsuitable, to be co-CEO of the Company; (v) Executives conviction of, or a plea of nolo contendere or guilty, to a felony under the laws of the United States, any other country, or any state within the U.S., or (vi) Executives material breach of the terms of this Agreement or the Confidential Information Agreement (defined below). Any act or omission based upon a resolution duly adopted by the Board will be conclusively presumed to have been done or omitted in good faith and in the best interests of the Company and its Affiliates. If the Company does not deliver to Executive a notice of termination within ninety (90) days after the Board has knowledge that an event constituting Cause has occurred, the event will no longer constitute Cause. (b) Change in Control. For purposes of this Agreement, Change in Control has the meaning ascribed to such term in the 2021 Plan. (c) Disability. For purposes of this Agreement, Disability means that Executive, at the time notice is given, Executives substantial inability to perform the essential functions of Executives position, with or without a reasonable accommodation, for a continuous period of one hundred and eighty (180) days due to physical or mental illness. (d) Good Reason. For purposes of this Agreement, Good Reason shall mean the occurrence of any of the following without Executives prior written consent: (i) a material reduction in Executives compensation (including Base Salary or equity-based compensation) under this Agreement; (ii) relocation by the Company of Executives principal place of employment to a place that is more than thirty (30) miles from his home address; (iii) a material adverse change to Executives title, duties or responsibilities, or the assignment to Executive of any duties or responsibilities that result in the material diminution of Executives position as set forth in this Agreement; (iv) the Companys or a subsidiarys material breach of the terms of this Agreement or any other material agreement with Executive; (v) failure of a successor to the Company to assume this Agreement; or (vi) any failure by the Company to nominate Executive for election to the Board. Notwithstanding the foregoing, in order to resign for Good Reason, Executive must (1) provide written notice to the Company within ninety (90) days after Executive has, or should have, knowledge of the first occurrence of the event giving rise to Good Reason setting forth the basis for Executives resignation, (2) allow the Company at least thirty (30) days from receipt of such written notice to cure such event, and (3) if such event is not reasonably cured within such period, Executives resignation from all positions Executive then holds with the Company must be effective not later than thirty (30) days after the expiration of the cure period. Executives continued employment during the ninety (90)-day period referred to above in this Section 10(d) will not constitute consent to, or a waiver of rights with respect to, any act or failure to act constituting Good Reason hereunder. 11. Company Matters. (a) Proprietary Information and Inventions. Executive acknowledges and agrees that Executive has signed, is bound by, and will continue to abide by the terms of the At-Will Employment, Confidential Information, Invention Assignment, and Arbitration Agreement, executed concurrently herewith, to be effective as of the Effective Date (the Confidential Information Agreement). 
+
+7 (b) Resignation on Termination. On termination of Executives employment, regardless of the reason for such termination, Executive shall immediately (and with contemporaneous effect) resign any directorships, offices or other positions that Executive may hold in the Company or any affiliate subject to other rights, if any, to board seats that Executive may have from time to time pursuant to agreements entered into with the Company or any affiliate. (c) Background Check. Employment under this Agreement is conditioned on Executive completing a satisfactory background check. 12. Assignment. This Agreement will be binding upon and inure to the benefit of (a) the heirs, executors and legal representatives of Executive upon Executive's death and (b) any successor of the Company. Any such successor of the Company will be deemed substituted for the Company under the terms of this Agreement for all purposes. For this purpose, successor means any person, firm, corporation or other business entity which at any time, whether by purchase, merger or otherwise, directly or indirectly acquires all or substantially all of the assets or business of the Company. None of the rights of Executive to receive any form of compensation payable pursuant to this Agreement may be assigned or transferred except by will or the laws of descent and distribution. Any other attempted assignment, transfer, conveyance or other disposition of Executives right to compensation or other benefits will be null and void. 13. Notices. All notices, requests, demands and other communications called for under this Agreement shall be in writing and shall be delivered personally by hand or by courier, mailed by United States first-class mail, postage prepaid, or sent by email directed to the Party to be notified at the address or email indicated for such Party on the signature page to this Agreement, or at such other address or email as such Party may designate by ten (10) days advance written notice to the other Parties hereto. All such notices and other communications shall be deemed given upon personal delivery, three (3) days after the date of mailing, or upon confirmation of email. 14. Severability. In the event that any provision hereof becomes or is declared by a court of competent jurisdiction to be illegal, unenforceable or void, this Agreement will continue in full force and effect without said provision. 15. Integration; Entire Agreement; Amendments. This Agreement, together with the 2021 Plan, Executives award agreements thereunder, the Indemnification Agreement entered into on the date hereof, and the Confidential Information Agreement represents the entire agreement and understanding between the parties as to the subject matter herein and supersedes all prior or contemporaneous agreements whether written or oral. No waiver, alteration, or modification of any of the provisions of this Agreement will be binding unless in writing and signed by duly authorized representatives of the parties hereto. 16. Tax Withholding. All payments made pursuant to this Agreement will be subject to withholding of applicable taxes pursuant to any applicable law or regulation. 17. Waiver. No Party shall be deemed to have waived any right, power or privilege under this Agreement or any provisions hereof unless such waiver shall have been duly executed in writing and acknowledged by the Party to be charged with such waiver. The failure of any Party at any time to insist on performance of any of the provisions of this Agreement shall in no way be construed to be a waiver of such provisions, nor in any way to affect the validity of this Agreement or any part hereof. No waiver of any breach of this Agreement shall be held to be a waiver of any other subsequent breach. 18. Governing Law. This Agreement will be governed by the laws of the State of Georgia (with the exception of its conflict of laws provisions). 
+
+8 19. Acknowledgment. Executive acknowledges that Executive has had the opportunity to discuss this matter with and obtain advice from Executives legal counsel, has had sufficient time to, and has carefully read and fully understands all the provisions of this Agreement, and is knowingly and voluntarily entering into this Agreement. 20. Counterparts; Facsimile Signatures. This Agreement may be executed in multiple counterparts, including through electronic signatures, each of which shall be deemed to be an original, and all such counterparts shall constitute but one instrument. This Agreement will become binding when one or more counterparts hereof, individually or taken together, will bear the signatures of all of the parties reflected hereon as the signatories. Any signature on this Agreement delivered by photographic, facsimile or PDF copy shall be deemed to be an original signature hereto. 21. Effect of Headings. The section and subsection headings contained herein are for convenience only and shall not affect the construction hereof. 22. Construction of Agreement. This Agreement has been negotiated by the respective Parties, and the language shall not be construed for or against either Party. 23. Section 409A. (a) Notwithstanding anything to the contrary in this Agreement, no severance pay or benefits to be paid or provided to Executive, if any, pursuant to this Agreement, when considered together with any other severance payments or separation benefits that are considered deferred compensation under Section 409A (together, the Deferred Compensation Separation Benefits) will be paid or otherwise provided until Executive has a separation from service within the meaning of Section 409A. Similarly, no severance payable to Executive, if any, pursuant to this Agreement that otherwise would be exempt from Section 409A pursuant to Treasury Regulation Section 1.409A-1(b)(9) will be payable until Executive has a separation from service within the meaning of Section 409A. (b) Notwithstanding anything to the contrary in this Agreement, if Executive is a specified employee within the meaning of Section 409A at the time of Executives termination (other than due to death), then the Deferred Compensation Separation Benefits that are payable within the first six (6) months following Executives separation from service, will become payable on the first payroll date that occurs on or after the date six (6) months and one (1) day following the date of Executives separation from service. All subsequent Deferred Compensation Separation Benefits, if any, will be payable in accordance with the payment schedule applicable to each payment or benefit. Notwithstanding anything herein to the contrary, if Executive dies following Executives separation from service, but prior to the six (6) month anniversary of the separation from service, then any payments delayed in accordance with this paragraph will be payable in a lump sum as soon as administratively practicable after the date of Executives death and all other Deferred Compensation Separation Benefits will be payable in accordance with the payment schedule applicable to each payment or benefit. Each payment and benefit payable under this Agreement is intended to constitute separate payments for purposes of Section 1.409A-2(b)(2) of the Treasury Regulations. (c) Any amount paid under this Agreement that satisfies the requirements of the short- term deferral rule set forth in Section 1.409A-1(b)(4) of the Treasury Regulations will not constitute Deferred Compensation Separation Benefits for purposes of clause (a) above. (d) Any amount paid under this Agreement that qualifies as a payment made as a result of an involuntary separation from service pursuant to Section 1.409A-1(b)(9)(iii) of the Treasury Regulations that does not exceed the Section 409A Limit will not constitute Deferred Compensation Separation Benefits 
+
+9 for purposes of clause (a) above. For purposes of this Agreement, Section 409A Limit will mean the lesser of two (2) times: (i) Executives annualized compensation based upon the annual rate of pay paid to Executive during Executives taxable year preceding Executives taxable year of Executives termination of employment as determined under Treasury Regulation Section 1.409A-1(b)(9)(iii)(A)(1) and any Internal Revenue Service guidance issued with respect thereto; or (ii) the maximum amount that may be taken into account under a qualified plan pursuant to Section 401(a)(17) of the Code for the year in which Executives employment is terminated. (e) The foregoing provisions are intended to comply with the requirements of Section 409A so that none of the severance payments and benefits to be provided hereunder will be subject to the additional tax imposed under Section 409A, and any ambiguities herein will be interpreted to so comply. The Company and Executive agree to work together in good faith to consider amendments to this Agreement and to take such reasonable actions which are necessary, appropriate or desirable to avoid imposition of any additional tax or income recognition prior to actual payment to Executive under Section 409A. 24. Initial Engagement via Manpower Company. To the extent required by applicable law, the Parties will work in good faith to promptly establish an arrangement with a manpower company or employer of record registered to do business in the United Arab Emirates to engage Executive as an employee in the United Arab Emirates (a Manpower Company) or such other structure to employ Executive promptly as is mutually agreed in good faith, in either case, effective as of the Employment Date. In the event that Executive is employed through a Manpower Company, except as otherwise mutually agreed in good faith, the Company will cause the Manpower Company (i) to engage Executive in a fashion that provides the Parties the benefit of all of the same terms and conditions set forth in this Agreement and the Confidentiality Agreement and (ii) to allow Executive to receive the economic benefits set forth in this Agreement, which the Parties acknowledge may require the Manpower Company to provide some of the compensation and benefits set forth in this Agreement, such as salary or welfare benefits, and the Company to provide other compensation or benefits, such as equity awards. In the event that the laws of the United Arab Emirates or use of the Manpower Company prevent or preclude any term set forth in this Agreement or the Confidentiality Agreement, or the Company is unable to substantially replicate the benefit to either Party of any term set forth in this Agreement or the Confidentiality Agreement, the Parties agree to work in good faith to agree to replace such term with an alternative term that accomplishes the same intent and economic result. For the avoidance of doubt, the Company will remain subject to the Indemnification Agreement executed on the date hereof. 25. Transfer from Manpower Company. In the event that Executive is initially employed through a Manpower Company, then as soon as is reasonably practicable following the Effective Date, the Company shall establish a subsidiary in the United Arab Emirates (the UAE Subsidiary) and Executives employment shall transfer from the Manpower Company to the UAE Subsidiary. The Company shall cause the UAE Subsidiary, upon transferring Executives employment, (i) to engage Executive on the same terms and conditions set forth in this Agreement and the Confidentiality Agreement, (ii) to allow Executive to receive the economic benefits set forth in this Agreement, which the Parties acknowledge may require the UAE Subsidiary to provide some of the compensation and benefits set forth in this Agreement, such as salary or welfare benefits, and the Company to provide other compensation or benefits, such as equity awards. The Parties agree that any transfer to a UAE Subsidiary as described in this Section 25 will not, on its own, trigger a termination without Cause, nor a resignation for Good Reason. For the avoidance of doubt, Executive will not be entitled to any of the benefits set forth in Section 9 of this Agreement solely by virtue of the transfer of Executives employment from a Manpower Company to a UAE Subsidiary. [signature page follows] 
+
+10 IN WITNESS WHEREOF, each of the Parties has executed this Agreement as of the day and year first above written. BAKKT HOLDINGS, INC. By: __/s/ Andrew Main___________________ Name: Andrew Main Title: President and Chief Executive Officer Address: Bakkt Holdings, Inc. Avalon Boulevard, Suite 1000 Alpharetta, GA 30009 Attention: legal-notices@bakkt.com AKSHAY NAHETA /s/ Akshay Naheta__________________ Akshay Naheta Address: [***] Email: [***]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>4
+<FILENAME>andymainemploymentagreem.htm
+<DESCRIPTION>EX-10.3
+<TEXT>
+andymainemploymentagreem
+
+Exhibit 10.3 EMPLOYMENT AGREEMENT AMENDMENT THIS EMPLOYMENT AGREEMENT AMENDMENT (this Amendment) is entered into by and between Bakkt Holdings, Inc. (the Company) and Andy Main (Executive) (jointly referred to as the Parties or individually referred to as a Party as of March 19, 2025. R E C I T A L S WHEREAS, Executive is engaged as the Companys Chief Executive Officer pursuant to the Employment Agreement (Employment Agreement) that Executive entered into on March 18, 2024 with the Company; WHEREAS, Executive agreed to the terms of that certain At-Will Employment, Confidential Information, Invention Assignment, and Arbitration Agreement with the Company on May 2, 2024 (Confidentiality Agreement); and WHEREAS, without otherwise altering the terms and conditions of Executives employment in any way, the Parties mutually agree to amend Executives Employment Agreement as set forth in this Amendment. A G R E E M E N T NOW, THEREFORE, in consideration of the premises and mutual covenants herein and for other good and valuable consideration, the Parties agree as follows: 1. Duties and Scope of Employment. The Company will continue to employ Executive on the same terms and conditions of employment, pursuant to the Confidentiality Agreement and the Employment Agreement, except to the extent in conflict with or modified by this Amendment. Effective March 21, 2025, Executives title shall change from Chief Executive Officer to Co-Chief Executive Officer. Executive will also continue to be President of the Company. 2. Limitations on Authority and Role. Executives primary responsibilities will involve (a) until Akshay Naheta is approved by all relevant regulatory authorities to act in such capacity, the management and direction of Bakkt Crypto Solutions, LLC (BCS) and Bakkt Trust Company LLC (BTC) in accordance with applicable law and regulation, and (b) such other duties consistent with his positions as may be lawfully assigned from time to time by the Companys Board of Directors. 3. No Good Reason. Changes to the terms and conditions of Executives employment as set forth under this Amendment shall not constitute Good Reason as defined in Executives Employment Agreement for the limited purpose of this Amendment. Notwithstanding the foregoing, the parties agree that: (a) subsequent changes to Executives terms and conditions of employment may operate to trigger Good Reason, (b) that Executives replacement as Co-Chief Executive Officer shall constitute Good Reason, and (c) that this Amendment does not constitute a waiver by Executive of any of his rights under the Employment Agreement or applicable law. 4. Assignment. This Amendment will be binding upon and inure to the benefit of (a) the heirs, executors and legal representatives of Executive upon Executive's death and (b) any successor of the Company. Any such successor of the Company will be deemed substituted for the Company under the terms of this Amendment for all purposes. For this purpose, successor means any person, firm, 
+
+2 corporation or other business entity which at any time, whether by purchase, merger or otherwise, directly or indirectly acquires all or substantially all of the assets or business of the Company. None of the rights of Executive to receive any form of compensation payable pursuant to this Amendment may be assigned or transferred except by will or the laws of descent and distribution. Any other attempted assignment, transfer, conveyance or other disposition of Executives right to compensation or other benefits will be null and void. 5. Notices. All notices, requests, demands and other communications called for under this Amendment shall be in writing and shall be delivered personally by hand or by courier, mailed by United States first-class mail, postage prepaid, or sent by email directed to the Party to be notified at the address or email indicated for such Party on the signature page to this Amendment, or at such other address or email as such Party may designate by ten (10) days advance written notice to the other Parties hereto. All such notices and other communications shall be deemed given upon personal delivery, three (3) days after the date of mailing, or upon confirmation of email. 6. Entire Agreement. This Amendment, together with the Employment Agreement Confidentiality Agreement, and the 2021 Plan and Executives award agreements thereunder represents the entire agreement and understanding between the parties as to the subject matter herein and supersedes all prior or contemporaneous agreements whether written or oral. No waiver, alteration, or modification of any of the provisions of this Amendment will be binding unless in writing and signed by duly authorized representatives of the parties hereto. 7. Governing Law. This Amendment will be governed by the laws of the State of Colorado (with the exception of its conflict of laws provisions). 8. Acknowledgment. Executive acknowledges that Executive has had the opportunity to discuss this matter with and obtain advice from Executives legal counsel, has had sufficient time to, and has carefully read and fully understands all the provisions of this Amendment, and is knowingly and voluntarily entering into this Amendment. 9. Counterparts; Facsimile Signatures. This Amendment may be executed in multiple counterparts, including through electronic signatures, each of which shall be deemed to be an original, and all such counterparts shall constitute but one instrument. This Amendment will become binding when one or more counterparts hereof, individually or taken together, will bear the signatures of all of the parties reflected hereon as the signatories. Any signature on this Amendment delivered by photographic, facsimile or PDF copy shall be deemed to be an original signature hereto. 10. Effect of Headings. The section and subsection headings contained herein are for convenience only and shall not affect the construction hereof. 11. Construction of Amendment. This Amendment has been negotiated by the respective Parties, and the language shall not be construed for or against either Party. [signature page follows] 
+
+3 IN WITNESS WHEREOF, each of the Parties has executed this Amendment as of the day and year first above written. BAKKT HOLDINGS, INC. By: /s/ Sean Collins___________________ Name: Sean Collins Date: March 19, 2025__________________ Title: Chairman of the Board of Directors Address: Bakkt Holdings, Inc. Avalon Boulevard, Suite 1000 Alpharetta, GA 30009 Attention: legal-notices@bakkt.com ANDY MAIN /s/ Andrew Main______________ Andrew Main Date: March 19, 2025_______________ Address: [***] Email: [***]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>5
+<FILENAME>bakkt-20250319.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>6
+<FILENAME>bakkt-20250319_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>7
+<FILENAME>bakkt-20250319_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Document Period End Date 
+Document Period End Date 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Class of Stock [Domain] 
+Class of Stock [Domain] 
+
+Soliciting Material 
+Soliciting Material 
+
+City Area Code 
+City Area Code 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Written Communications 
+Written Communications 
+
+Document Information [Line Items] 
+Document Information [Line Items] 
+
+Local Phone Number 
+Local Phone Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Cover [Abstract] 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Warrant 
+Warrant [Member] 
+
+Common Class A 
+Common Class A [Member] 
+
+Document Type 
+Document Type 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Ex Transition Period 
+Entity Ex Transition Period 
+
+Class of Stock [Axis] 
+Class of Stock [Axis] 
+
+Document Information [Table] 
+Document Information [Table] 
+
+Entity File Number 
+Entity File Number 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+Entity Address, Address Line Two 
+
+Entity Registrant Name 
+Entity Registrant Name
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>8
+<FILENAME>bakkt-20250319_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>a101projectdelta-coopera001.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>10
+<FILENAME>a101projectdelta-coopera002.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>11
+<FILENAME>a101projectdelta-coopera003.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>12
+<FILENAME>a101projectdelta-coopera004.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>13
+<FILENAME>a101projectdelta-coopera005.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>14
+<FILENAME>a101projectdelta-coopera006.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>15
+<FILENAME>a101projectdelta-coopera007.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>16
+<FILENAME>a101projectdelta-coopera008.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>17
+<FILENAME>a101projectdelta-coopera009.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>18
+<FILENAME>a101projectdelta-coopera010.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>19
+<FILENAME>a102001.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>20
+<FILENAME>a102002.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>21
+<FILENAME>a102003.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>22
+<FILENAME>a102004.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>23
+<FILENAME>a102005.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>24
+<FILENAME>a102006.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>25
+<FILENAME>a102007.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>26
+<FILENAME>a102008.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>27
+<FILENAME>a102009.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>28
+<FILENAME>a102010.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>29
+<FILENAME>andymainemploymentagreem001.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>30
+<FILENAME>andymainemploymentagreem002.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>31
+<FILENAME>andymainemploymentagreem003.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>33
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Cover
+
+Mar. 19, 2025
+
+Document Information [Line Items] 
+
+Document Type 8-K
+
+Document Period End Date Mar. 19, 2025
+
+Entity Registrant Name Bakkt Holdings, Inc.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-39544
+
+Entity Tax Identification Number 98-1550750
+
+Entity Address, Address Line One 10000 Avalon Boulevard
+
+Entity Address, Address Line Two Suite 1000
+
+Entity Address, City or Town Alpharetta
+
+Entity Address, State or Province GA
+
+Entity Address, Postal Zip Code 30009
+
+City Area Code 678
+
+Local Phone Number 534-5849
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+Entity Ex Transition Period false
+
+Entity Central Index Key 0001820302
+
+Amendment Flag false
+
+Common Class A 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security Class A Common Stock, par value $0.0001 per share
+
+Trading Symbol BKKT
+
+Security Exchange Name NYSE
+
+Warrant 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security Warrants to purchase Class A Common Stock
+
+Trading Symbol BKKT WS
+
+Security Exchange Name NYSE
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentInformationLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 7A
+
+-Section B
+
+-Subsection 2
+
++ Details
+
+Name: dei_EntityExTransitionPeriod
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=us-gaap_CommonClassAMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=us-gaap_WarrantMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>34
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>35
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>36
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>38
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+3 
+24 
+1 
+false 
+2 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://www.bakkt.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+bakkt-20250319.htm 
+bakkt-20250319.xsd 
+bakkt-20250319_def.xml 
+bakkt-20250319_lab.xml 
+bakkt-20250319_pre.xml 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>41
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>42
+<FILENAME>0001628280-25-013900-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>43
+<FILENAME>bakkt-20250319_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001820302 
+
+2025-03-19 
+2025-03-19 
+
+0001820302 
+
+us-gaap:CommonClassAMember 
+
+2025-03-19 
+2025-03-19 
+
+0001820302 
+
+us-gaap:WarrantMember 
+
+2025-03-19 
+2025-03-19 
+
+0001820302 
+false 
+2025-03-19 
+8-K 
+2025-03-19 
+Bakkt Holdings, Inc. 
+DE 
+001-39544 
+98-1550750 
+10000 Avalon Boulevard 
+Suite 1000 
+Alpharetta 
+GA 
+30009 
+678 
+534-5849 
+false 
+false 
+false 
+false 
+Class A Common Stock, par value $0.0001 per share 
+BKKT 
+NYSE 
+Warrants to purchase Class A Common Stock 
+BKKT WS 
+NYSE 
+false 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

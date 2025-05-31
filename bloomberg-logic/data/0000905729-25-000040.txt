@@ -1,0 +1,1342 @@
+<SEC-DOCUMENT>0000905729-25-000040.txt : 20250218
+<SEC-HEADER>0000905729-25-000040.hdr.sgml : 20250218
+<ACCEPTANCE-DATETIME>20250218081612
+ACCESSION NUMBER:		0000905729-25-000040
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		43
+CONFORMED PERIOD OF REPORT:	20250218
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250218
+DATE AS OF CHANGE:		20250218
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHOICEONE FINANCIAL SERVICES INC
+		CENTRAL INDEX KEY:			0000803164
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				382659066
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39209
+		FILM NUMBER:		25632812
+
+	BUSINESS ADDRESS:	
+		STREET 1:		109 E DIVISION
+		STREET 2:		P O BOX 186
+		CITY:			SPARTA
+		STATE:			MI
+		ZIP:			49345-0186
+		BUSINESS PHONE:		6168877366
+
+	MAIL ADDRESS:	
+		STREET 1:		109 EAST DIVISION
+		STREET 2:		P O BOX 186
+		CITY:			SPARTA
+		STATE:			MI
+		ZIP:			49345-0186
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	1ST COMMUNITY BANCORP INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>choice8k_021825.htm
+<DESCRIPTION>CHOICEONE FORM 8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?Choice8K
+
+false0000803164falsefalsefalsefalsefalse00008031642025-02-182025-02-18iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of the Securities
+Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+February 18, 2025
+
+ChoiceOne Financial Services, Inc.
+
+(Exact Name of Registrant as
+
+Specified in Charter)
+
+Michigan
+
+(State or Other Jurisdiction
+
+of Incorporation) 000-19202
+
+(Commission
+
+File Number) 38-2659066
+
+(IRS Employer
+
+Identification No.) 
+
+109 East Division
+
+Sparta, Michigan
+
+(Address of Principal Executive Offices) 49345
+
+(Zip Code) 
+
+Registrant's telephone number, including area code:
+(616)887-7366
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction
+A.2. below):
+
+o Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o Soliciting material pursuant
+to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o Pre-commencement communications
+pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading symbol(s) Name of each exchange on which registered
+
+Common stock COFS NASDAQ Capital Market 
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. o
+
+Item 7.01 Regulation FD Disclosure
+
+ChoiceOne Financial Services, Inc.
+("ChoiceOne") is furnishing as Exhibit 99.1 to this Form 8-K presentation materials that are to be used by ChoiceOne management
+in meetings with investors beginning February 18, 2025. The information in Item 7.01 and Item 9.01 of this report, including Exhibit 99.1,
+is furnished to, and not filed with, the Commission.
+
+Item 9.01 Financial Statements and Exhibits
+
+Exhibit No. Exhibit
+
+99.1 ChoiceOne Financial Services, Inc. Investor Presentation. This Exhibit is furnished to, and not filed with, the Commission.
+
+***
+
+-2- 
+
+SIGNATURES
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.
+
+Dated: February 18, 2025 CHOICEONE FINANCIAL SERVICES, INC.
+
+(Registrant)
+
+By: /s/ Adom J. Greenland
+
+Adom J. Greenland
+
+Its Chief Financial Officer and Treasurer 
+
+-3-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>2
+<FILENAME>cofs-20250218.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>3
+<FILENAME>cofs-20250218_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Cover [Abstract] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>4
+<FILENAME>cofs-20250218_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>5
+<FILENAME>choiceex991_021825.htm
+<DESCRIPTION>INVESTOR PRESENTATION FOURTH QUARTER 2024
+<TEXT>
+EXHIBIT 99.1
+
+INVESTOR PRESENTATION FOURTH QUARTER 2024
+
+2 FORWARD - LOOKING STATEMENTS This presentation contains forward - looking statements that are based on managements beliefs, assumptions, current expectations, estimates and projections about the financial services industry, the economy, and ChoiceOne . Words such as anticipates, believes, estimates, expects, forecasts, intends, is likely, plans, predicts, projects, may, could, look forward, continue, future, and variations of such words and similar expressions are intended to identify such forward - looking statements . All statements with references to future time periods are forward - looking . These statements are not guarantees of future performance and involve certain risks, uncertainties and assumptions (risk factors) that are difficult to predict with regard to timing, extent, likelihood, and degree of occurrence . Therefore, actual results and outcomes may materially differ from what may be expressed, implied or forecasted in such forward - looking statements . Furthermore, ChoiceOne undertakes no obligation to update, amend, or clarify forward - looking statements, whether as a result of new information, future events, or otherwise . Additional risk factors include, but are not limited to, the risk factors described in Item 1 A in ChoiceOnes Annual Report on Form 10 - K for the year ended December 31 , 2023 . NON - GAAP FINANCIAL MEASURES In addition to results presented in accordance with GAAP, this presentation includes certain non - GAAP financial measures . ChoiceOne believes these non - GAAP financial measures provide additional information that is useful to investors in helping to understand underlying financial performance and condition and trends of ChoiceOne . Non - GAAP financial measures have inherent limitations . Readers should be aware of these limitations and should be cautious with respect to the use of such measures . To compensate for these limitations, we use non - GAAP measures as comparative tools, together with GAAP measures, to assist in the evaluation of our operating performance or financial condition . Also, we ensure that these measures are calculated using the appropriate GAAP or regulatory components in their entirety and that they are computed in a manner intended to facilitate consistent period - to - period comparisons . ChoiceOnes method of calculating these non - GAAP measures may differ from methods used by other companies . These non - GAAP measures should not be considered in isolation or as a substitute for those financial measures prepared in accordance with GAAP or in - effect regulatory requirements . Where non - GAAP financial measures are used, the most directly comparable GAAP or regulatory financial measure, as well as the reconciliation to the most directly comparable GAAP or regulatory financial measure, can be found in this presentation .
+
+3 Our vision is to be the best bank in Michigan. Our mission is to provide superior service, quality advice, and show utmost respect to everyone we meet.
+
+4 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified Note: All dollars in millions COMPANY PROFILE ChoiceOne Bank maintains the community feel of a small - town bank with the technological capabilities and product offerings of a larger bank ChoiceOne Financial Services, Inc . (COFS) was incorporated in 1986 as a Michigan corporation . ChoiceOne Bank was founded in 1898 (then called Sparta State Bank) in Sparta, MI at the corner of Division and Union Street . Over its more than 125 - year history, COFS has grown significantly, due in part to its merger with County Bank Corp . ( $ 673 million in assets) and acquisition of Community Shores Bank Corporation ( $ 244 million in assets) . Today, COFS is a $ 2 . 7 billion bank holding company listed on the NASDAQ stock exchange with a market capitalization of $ 319 million as of December 31 , 2024 . COFS prides itself on maintaining the community feel of a small - town bank with the technological capabilities and product offerings of a larger bank . Personal Banking Provides full array of banking services including checking, savings, CDs/money markets and HSAs, complete with online and mobile banking solutions . Business Banking Business banking offers business and agriculture loans, treasury services and public funds . Mortgage Lending A comprehensive offering of residential mortgage options including fixed and adjustable - rate mortgages . Wealth Management Wealth Management provides two delivery channels The Private Bank and Retail Investment Services . The Wealth Management team is experienced, nimble and responsive to client needs . Areas of expertise include investing, lending, banking, and trust services . Coast to Coast Coverage Through 35 locations across western and southeastern Michigan, ChoiceOne Bank leverages advanced technology, innovative services, and tailored solutions for its customers . SUMMARY FINANCIALS (12/31/2024) Total Assets $2,723 Deposits $2,214 Gross Loans (Incl. HFS) $1,553 Market Cap $319 ROAA 1.00% ROAE 11.80% Annualized Dividend Yield 3.06% P/E Ratio (TTM) 11.0x MAP OF LOCATIONS Branch Location OVERVIEW
+
+5 Mastercard Doing Well By Doing Good ( Segment Award 2022) 2024 dotCOMM Awards choiceone.bank GOLD AWARD Honoring Excellence in Web Creativity and Digital Communication Partner of the Michigan Community Fund ( Recognized for Supporting Affordable Housing 2023) Financial Literacy Award (Michigan Bankers Association) 2024 , 2023, 2022, & 2020 SBA Michigan 504 Third Party Lender of the Year Award (Fiscal Year 2023) AWARDS & ACCOMPLISHMENTS With an abundance of accolades & awards, ChoiceOne Bank has been recognized as a top - tier community bank in Michigan and in the banking industry. National Top 20 Most Innovative Community Bank ( Independent Banker 2018 ) Global Innovation Awards Nominee ( BAI 2018 ) True North Community Partner Award ( True North Community Services 2019 & 2018 ) Startup Innovation Finalist with Plinqit ( Bank Director Best of FinXTech 2019 & 2018 ) Editors Choice Award for Community Commitment ( Cardrates.com 2019 ) Best Small Business Solutions Nomination ( Finovate Awards 2019 ) Newsmaker Finalist of the Year ( Grand Rapids Business Journal 2019 & 2018 ) Silver Addy ( AAF 2019 ) ABA Foundation Community Commitment Awards ( Economic Inclusion Honorable Mention 2021 ) MCDC 2023 Lender of the Year Named Best Small Bank by Newsweek 3 Years in a row 2023, 2022, 2021
+
+6 MANAGEMENT TEAM Mr . Michael J . Burke Jr . has served as President at ChoiceOne since May 2020 and oversees lending and operations . Previously, he served as President, CEO, COO and Director at Lakestone Bank & Trust which was merged into ChoiceOne . Mr . Burke is highly involved in organizations in Southeast Michigan including the Lapeer Development Corporation and McLaren Lapeer Region Board of Trustees . Mr . Burke holds a Bachelor of Arts degree in Finance from the University of Michigan - Flint . MICHAEL J. BURKE, JR. | PRESIDENT Mr . Adom Greenland is the Executive Vice President, Chief Financial Officer and Treasurer at ChoiceOne . Mr . Greenland joined ChoiceOne in 2013 with various roles including Chief Operating Officer overseeing technology and bank operations . Prior to joining ChoiceOne he worked as a Certified Public Accountant at PwC for over 10 years, which included an international rotation in London, England . He holds both a Bachelor's degree and Master's degree in Accounting from Michigan State University . Mr . Kelly J . Potes, CFP, joined ChoiceOne Bank in 1984 and has held various management positions including Assistant Controller, Bank Investment Portfolio Manager, Head of ALCO, Head of Bank Retail Services, and Head of Investment Services . In 1998 , he left ChoiceOne Bank to become the President and Owner of Kent - Ottawa Investment Advisors, an investment advisory firm . In 2001 , he returned to ChoiceOne Bank as Senior Vice President of Retail Services, and General Manager of ChoiceOne Insurance Agencies, Inc . before being named Chief Executive Officer in 2016 . ADOM J. GREENLAND | EVP & CFO KELLY J. POTES | CEO Mr . Bradley A . Henion is the Executive Vice President and Chief Lending Officer of ChoiceOne Bank . Mr . Henion joined ChoiceOne in 2015 having previously held Senior Vice President positions with GreenStone Farm Credit Services in East Lansing, MI, and Bank of America (formerly LaSalle Bank) in Grand Rapids, MI . Mr . Henion holds a Master of Business Administration in Finance from Baker College and has a Bachelor of Science in Accountancy from Ferris State University . BRADLEY A. HENION | EVP & CLO "With a vision to be the best bank in Michigan and a mission to provide superior service, quality advice, and show utmost respect to everyone we meet, our tech - savvy community bank is prepared to meet our customers financial needs, however they choose, and build solid personal relationships . - Kelly J . Potes
+
+7 MANAGEMENT TEAM (CONT.) Mr . Jamula has served as the Senior Vice President of Wealth Management since 2021 . Mr . Jamula has over 28 years of banking experience, which includes sales leadership positions at TCF Bank, Chemical Bank and Fifth Third Bank covering Wealth Management and Private Banking . Mr . Jamula holds a Bachelor of Business Administration in Accounting from Grand Valley State University . ROB JAMULA | SVP WEALTH MANAGEMENT Mr . McCarthy joined ChoiceOne as Senior Vice President, Muskegon Market Executive in 2020 . With a career spanning 28 years in commercial banking with community banks in West Michigan, McCarthy began working as a Credit Analyst and progressed to Senior Vice President and Chief Lending Officer before joining ChoiceOne . Mr . McCarthy has a Bachelor of Arts in Financial Administration from Michigan State University, East Lansing . Supporting his community, he is active in the Community Foundation for Muskegon County, No More Sidelines, Michigan Irish Music Festival and youth sports . Ms . Heather D . Brolick has been Chief Human Resources Officer of ChoiceOne Bank since October 2020 following its acquisition of Community Shores Bank Corporation . Ms . Brolick served as Director, President and Chief Executive Officer of Community Shores Bank Corporation and Community Shores Bank From 2006 until 2020 . Ms . Brolick also currently serves as a Board member and Chairperson of the Board of Directors of Harbor Hospice and a Board member and Chairperson of the Board of Harbor Hospice Foundation, among others . BRENT MCCARTHY| SVP & CCO HEATHER D. BROLICK | EVP & CHRO Ms . Shelly M . Childers has served as Senior Vice President and Chief Information Officer at ChoiceOne Bank since 2019 . Prior to that Ms . Childers was the Senior Vice President and Chief Information Officer at Lakestone Bank and Trust . Ms . Childers has over 25 years of experience leading both the operational and digital sides of banking technology . Her background also includes experience in leading bank technology through acquisitions, mergers, and software conversions . Ms . Childers holds a Bachelor of Business Administration and Finance from the University of Michigan . SHELLY M. CHILDERS | SVP & CIO
+
+8 Source: S&P Capital IQ Pro, as of 6/30/2024 Note: All dollars in thousands (1) Other MI includes branches not located in an MSA, including those in the cities of Fremont, Grant and Newaygo GEOGRAPHIC FOOTPRINT GRAND RAPIDS - KENTWOOD, MI 11 Locations $767,298 Deposits 2.57% Market Share 10 Market Rank SOUTHEASTERN MI (DETROIT MSA) 15 Locations $864,145 Deposits 0.43% Market Share 14 Market Rank MUSKEGON, MI 5 Locations $339,131 Deposits 16.04% Market Share 4 Market Rank Other MI (1) 4 Locations $156,105 Deposits NA Market Share NA Market Rank MAP OF LOCATIONS SCALE IN LEGACY MARKETS BY MSA
+
+9 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified Note: All dollars in millions, unless otherwise noted; deals sorted by announcement date M&A HISTORY COFS has completed three whole bank M&A deals, most recently, the merger of equals with County Bank Corp. in 2019 and an acqu isi tion of Community Shores Bank Corporation in 2020 Target Operating Metrics (Quarter Before Announcement) Deal Profile (Announcement) Transaction Overview LTM ROAA Gross Loans Total Assets Consideration Deal Value Announcement Date Target City, State Target 0.49% $147.2 $185.1 76.5% Stock / 23.5% Cash $21.9 1/6/2020 Muskegon, MI 1.13% $363.9 $616.6 100.0% Stock / 0.0% Cash $89.0 3/25/2019 Lapeer, MI 0.99% $150.7 $216.4 99.9% Stock / 0.1% Cash $29.0 4/25/2006 Kent City, MI COFS M&A HISTORY ChoiceOne entered into a definitive merger agreement with Fentura Financial, Inc. (" Fentura ") on July 25, 2024. Fentura is the parent company of The State Bank, with $1.8 billion in assets as of June 30, 2024 and has 20 branches and a loan production office in the following counties of Michigan: Genesee, Ingham, Jackson, Livingston, Oakland, Saginaw, and Shiawassee. The merger is expected to be effective on March 1, 2025, subject to the satisfaction of customary closing conditions. Announced - Pending 
+
+FINANCIAL SUMMARY
+
+11 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 exc. where spec. identified; Note: All dollars in thousands 1. Includes $138.0 million, $33.1 million and $0 in PPP loans in 2020, 2021 and 2022, respectively 2. Core loans - exclude Paycheck Protection Program (PPP) loans, held for sale loans, and loans to other financial institutions. L oans held for sale were $4.7 million and $7.3 million in 2023 and 2024, respectively. Loans to other financial institutions were $19.4 million and $39.9 million in 2023 and 2024, re spe ctively HISTORIC BALANCE SHEET GROWTH COFS Total Equity Total Deposits Gross Loans (Including Held For Sale) (1) Total Assets PPP 8.2% Core loan (2) growth year over year $1,919,342 $2,366,682 $2,385,915 $2,576,706 $2,723,243 $ - $500,000 $1,000,000 $1,500,000 $2,000,000 $2,500,000 $3,000,000 2020 2021 2022 2023 2024 $1,117,798 $1,068,831 $1,194,616 $1,415,363 $1,552,928 $ - $200,000 $400,000 $600,000 $800,000 $1,000,000 $1,200,000 $1,400,000 $1,600,000 2020 2021 2022 2023 2024 $1,674,578 $2,052,294 $2,118,003 $2,122,055 $2,214,103 $ - $500,000 $1,000,000 $1,500,000 $2,000,000 2020 2021 2022 2023 2024 $227,268 $221,669 $168,874 $195,634 $260,415 $ - $50,000 $100,000 $150,000 $200,000 $250,000 2020 2021 2022 2023 2024
+
+12 Diverse local deposit franchise of retail, business, and municipal accounts Launched new treasury management platform in 2023 with best - in - class functionality At 12/31/2024 Non - interest - bearing deposit base of $524.9 million or 24% of deposits 37.6% of total deposits exceed the FDIC limit of $250,000, as of 12/31/2024 Diversified offerings such as Intrafis CDARS and ICS products that increase depositors FDIC coverage ChoiceOne continues to be proactive in managing its liquidity position at December 31, 2024. Total available borrowing capacity secured by pledged assets was $837.2 million. ChoiceOne can increase its capacity by utilizing unsecured federal fund lines and pledging additional assets. Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified Note: All dollars in thousands (1) Saving accounts include MMDAs ATTRACTIVE DEPOSIT MIX CHOICEONE BANK Deposit Mix and Detail (12/31/2024) Commentary Checking and Savings Deposit Mix (12/31/2024) (1) $1.8 Billion % of Total Balance 52.1% $1,155,099 Transaction 28.4% 628,121 MMDAs & Savings 9.8% 216,234 Retail CDs ( $250K) 9.7% 214,649 Jumbo CDs (> $250K) 100.0% $2,214,103 Total Deposits Transaction - Non interest bearing 24% Transaction - Interest bearing 28% MMDA & Sav. 28% Retail CDs ( $250k) 10% Jumbo CDs (> $250k) 10% Business - Transactional 26% Business - Savings 11% Retail - Transactional 20% Retail - Savings 24% Public Funds - Transactional 11% Public Funds - Savings 8%
+
+13 2.50% 4.50% 0.90% 2.09% 0.00% 1.00% 2.00% 3.00% 4.00% 5.00% 6.00% Q1 15 Q2 15 Q3 15 Q4 15 Q1 16 Q2 16 Q3 16 Q4 16 Q1 17 Q2 17 Q3 17 Q4 17 Q1 18 Q2 18 Q3 18 Q4 18 Q1 19 Q2 19 Q3 19 Q4 19 Q1 20 Q2 20 Q3 20 Q4 20 Q1 21 Q2 21 Q3 21 Q4 21 Q1 22 Q2 22 Q3 22 Q4 22 Q1 23 Q2 23 Q3 23 Q4 23 Q1 24 Q2 24 Q3 24 Q4 24 Fed Funds Upper Bound Cost of Interest Bearing Deposits Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024 NIB Deposits IB Deposits Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified Note: All dollars in thousands; costs are annualized on a quarterly basis (1) Source: S&P Capital IQ Pro. ATTRACTIVE DEPOSIT MIX CHOICEONE BANK (CONT.) Deposits, excluding brokered deposits, increased $79.0 million or 3.8% during the twelve months ending December 31,2024. The increase in deposits is a combination of new business and recapture of deposit losses from the prior year. Non - interest - bearing and transactional account balances drive lower cost of deposits Management team has demonstrated historical success of controlling deposit costs in current and previous higher interest rate cycle Deposit Mix and Detail (12/31/2024) Commentary Historic Cost of Interest - Bearing Deposits vs Fed Funds (1) $2,208,228 $2,214,103 $2,122,055 23% 26% 24% 74% 77% 76% 24% 76% $2,185,848 76% 24% $2,126,679 Spread to Fed Funds of 160 BPS Spread to Fed Funds of 241 BPS 1.57% 1.65% 1.56% 1.53% 1.58% 2.11% 2.16% 2.05% 2.01% 2.09% 0.00% 0.50% 1.00% 1.50% 2.00% 2.50% Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024 Cost of Deposits Cost of Interest bearing Deposits
+
+14 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified Note: All dollars in thousands; yields are annualized on a quarterly basis (1) Detail by types per call report codes ATTRACTIVE LOAN MIX CHOICEONE BANK Strong commercial real estate portfolio 45.9% of CRE loans are owner occupied at 12 - 31 - 2024. QTD Yield on loans of 6.19% for the fourth quarter of 2024. $497 million of loans classified as variable or 32% of portfolio $460.2 million of loans are set to reprice or mature within one year or less or 30% of portfolio Weighted average duration of loan portfolio of 1.9 years Active residential real estate lending with sold (primarily service retained) and portfolio mortgages Loan Mix and Detail (12/31/2024) (1) Commentary Loan to Deposit Ratio Constr. & Development 4% 1 - 4 Family 25% Multifamily 6% Owner Occ. Comm. RE 20% Non Own. Occ. Comm. RE 25% Comm. & Industrial 14% Farm & Agriculture 3% Consumer 3% 61.7% 66.7% 65.2% 67.9% 68.4% 70.1% 46% 48% 50% 52% 54% 56% 58% 60% 62% 64% 66% 68% 70% 72% Q3 2023 Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024 % of Total Loans Balance 3.9% $61,740 Construction & Development 24.9% 387,427 1 - 4 Family 5.4% 83,766 Multifamily 13.9% 216,376 C&I 3.1% 48,246 Farm & Agricultural 2.7% 42,305 Consumer, Leases & Other 21.0% 325,966 CRE Owner Occupied 24.9% 387,102 CRE Non - Owner Occupied 100.0% $1,552,928 Total Loans
+
+15 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified (1) Detail by types per purpose code for call report codes 1E2, 1A1,1A2 and 1D loans (2) Construction and land development contains all 1A1 and 1A2 loans NON - OWNER OCCUPIED COMMERCIAL REAL ESTATE PER REGULATORY CALL CODES Diversified local CRE portfolio with average loan size of $940,000. Office - non medical loans are located in our local suburban markets with an average loan size under $1 million. High performing portfolio with only 0.81% of NOO CRE considered nonperforming. CRE to capital ratio of 195.6% for the holding company and 224.9% for the bank for the year ending December 31, 2024. NOO CRE COMPOSITION (12/31/2024) Non - Owner Occupied Commercial Real Estate Assisted Living , 2% Construction and Land Development , 6% Hotel , 5% Industrial , 5% Multifamily , 5% Office - Medical , 1% Office - Non Medical , 3% Retail , 6% Self Storage , 3% Other NOO CRE , 1% Remainder of Total loans , 64% Balance (1) % of NOO CRE % of Total Loans Assisted Living 31,055,714 6% 2% Construction and Land Development (2) 92,396,538 16% 6% Hotel 72,910,849 13% 5% Industrial 72,282,730 13% 5% Multifamily 83,766,375 15% 5% Office- Medical 13,078,260 2% 1% Office- Non Medical 41,290,233 7% 3% Retail 95,865,995 17% 6% Self Storage 41,539,794 7% 3% Other NOO CRE 19,078,615 3% 1% Total $563,265,105 100% 36%
+
+16 Commercial Mortgage Backed 25% Mortgage - Backed 13% Asset - Backed Securities 1% Corporate 2% State and MUNI - Tax Exempt 30% State and MUNI - Taxable 19% US Treasury Bonds and Agency 10% Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified (1) Securities portfolio breakdown is by book value and excludes equity securities (2) Reported value of securities: Available for sale, at fair value and held to maturity, at amortized cost net of credit losses (3) See Non - GAAP Reconciliation INVESTMENT PORTFOLIO COFS Securities Portfolio Breakdown (1) $874 Million (2) SECURITY PORTFOLIO HIGHLIGHTS COFS total securities portfolio of $874 million consists of high - quality securities to be used for liquidity and cash flow $394.5 million of the portfolio is at held to maturity status. A large component of these securities are local issuance municipals or CRA 83% of securities are rated AA or higher Ample on balance sheet liquidity to fund future loan growth, including $134.2 million of cash flow from securities over the next two years Total Portfolio COFS securities income was $26.8 million, with a yield of 2.73% for the year ended December 31, 2024 COFS tax equivalent securities income was $28.3 million, with a yield of 2.89% for the year ended December 31, 2024 (3) ChoiceOne has pay - fixed interest rate swaps with a total notional value of $401.0 million. These derivative instruments will increase in value as long - term interest rates rise, which helps offset the reduction in equity due to unrealized losses on securities available for sale Modified Duration of the portfolio is 4.76 years; however, the impact of the hedging strategy (including all $401 million of notional pay - fix swaps) reduces the modified duration to 2.05 years. Weighted average life of the portfolio was 5.60 years 81% of the portfolio is bullet - like in structure Yield & Interest Rate Risk
+
+17 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified Note: All dollars in thousands (1) For each 25 - basis point increase or decrease in SOFR rate projected quarterly net interest income will increase or decrease, res pectively, by approximately $250,000 INTEREST RATE SWAPS ChoiceOne uses interest rate swaps as part of our interest rate risk management strategy. Excluding back - to - back swaps on loans, ChoiceOne has pay - fixed interest rate swaps with a total notional value of $401.0 million with a weighted average coupon of approximately 3.07% and a weighted av erage remaining life of 7.4 years. These derivative instruments will increase in value as long - term interest rates rise, which helps offset the reduction in equity due to unrealized losses on securities available for sale. INCOME IMPACT Swaps Notional Value Coupon Contract End Fair Value at 12/31/24 A Fixed Rate Securities 200,950 3.40% 2031-2032 7,919 B Variable Deposits 200,000 2.75% 2032 15,730 400,950 3.07% Average Coupon Total 23,649 Swaps Total 2023 Total 2024 Fixed Rate Securities (A) 3,390 3,673 Variable Deposits (B) 3,288 Terminated (3,696) (1,092) Net Interest Income Impact (306) 5,869 Actual (1)
+
+18 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified (1) Net interest margin (tax - equivalent basis). See Non - GAAP reconciliation (2) Adjusted for Merger related expenses. See Non - GAAP reconciliation FINANCIAL PERFORMANCE METRICS COFS Efficiency Ratio & Noninterest Expense to Average Assets (2) NIM (1) ROAE (2) ROAA (2) Non - Adjusted Adjusted for Merger Related Expenses 0.94% 1.02% 1.00% 0.85% 1.04% 0.04% 0.50% 0.60% 0.70% 0.80% 0.90% 1.00% 1.10% 1.20% 1.30% 2020 2021 2022 2023 2024 7.28% 9.79% 13.25% 12.00% 12.24% 0.44% 5.00% 6.00% 7.00% 8.00% 9.00% 10.00% 11.00% 12.00% 13.00% 14.00% 2020 2021 2022 2023 2024 3.51% 3.14% 3.09% 2.83% 3.01% 0.00% 0.50% 1.00% 1.50% 2.00% 2.50% 3.00% 3.50% 4.00% 2020 2021 2022 2023 2024 3.07% 2.45% 2.25% 2.21% 2.20% 2.16% 62.99% 63.85% 61.92% 65.48% 62.35% 61.23% 2020 2021 2022 2023 2024 Non-interest Expense/ Avg Assets Adjusted Non-interest Expense/ Avg Assets Efficiency Ratio Adjusted Efficiency Ratio
+
+19 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified Note: Non - interest Income amounts exclude gain (losses) on sale of securities, other assets, and changes in value of equity secu rities NON - INTEREST INCOME COFS Diversified sources of non - interest income with multiple lines of business including Wealth and Trust Management 2024 14% 6% 60% $17.6 Million 9% 11% Gain on sale of Loans Service Charges & Interchange Wealth and Trust BOLI Revenue Other Fees 0% 5% 10% 15% 20% 25% 30% - 1,000 2,000 3,000 4,000 5,000 6,000 Q12023 Q22023 Q32023 Q42023 Q12024 Q22024 Q32024 Q42024 Non-Interest Income: Percent of Non-interest income to Net interest income - 1,000 2,000 3,000 4,000 5,000 6,000 Q12023 Q22023 Q32023 Q42023 Q12024 Q22024 Q32024 Q42024 Service Charges & Interchange Gain on Sale of Loans Wealth BOLI Revenue Other Fees Quarterly 
+
+20 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified (1) Excluding held for sale loans ASSET QUALITY COFS Historically strong credit metrics Net Charge - Offs / Average Loans NPLs / Loans (1) Texas Ratio NPAs / Total Assets 1.07% Allowance for Credit Losses to Total Loans (1) 5.03% 3.47% 2.34% 1.23% 1.72% 0.00% 1.00% 2.00% 3.00% 4.00% 5.00% 6.00% 2020 2021 2022 2023 2024 0.74% 0.52% 0.22% 0.13% 0.27% 0.00% 0.20% 0.40% 0.60% 0.80% 1.00% 1.20% 1.40% 2020 2021 2022 2023 2024 0.44% 0.24% 0.11% 0.07% 0.15% 0.00% 0.05% 0.10% 0.15% 0.20% 0.25% 0.30% 0.35% 0.40% 0.45% 0.50% 2020 2021 2022 2023 2024 0.05% 0.03% 0.03% 0.03% 0.03% 0.00% 0.05% 0.10% 0.15% 0.20% 2020 2021 2022 2023 2024
+
+21 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified (1) See Non - GAAP Reconciliation CAPITAL Regulatory Ratios On July 26, 2024, ChoiceOne completed an underwritten public offering of 1,380,000 shares of its common stock at a price to the public of $25.00 per share for aggregate gross proceeds of approximately $34.5 million before deducting underwriting discounts and estimated offering expenses. Q4 2022 Q1 2023 Q2 2023 Q3 2023 Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024 ChoiceOne Financial Services, Inc. Total capital (to risk weighted assets) 13.8% 13.5% 13.2% 13.2% 13.0% 13.3% 13.5% 15.0% 14.5% Common equity Tier 1 capital (to risk weighted assets) 11.1% 10.7% 10.5% 10.4% 10.3% 10.5% 10.7% 12.3% 12.0% Tier 1 capital (to risk weighted assets) 11.4% 11.0% 10.8% 10.7% 10.5% 10.7% 10.9% 12.5% 12.2% Tier 1 capital (to average assets) 7.9% 7.7% 7.7% 7.4% 7.5% 7.6% 7.7% 9.0% 9.1% Total CRE Loans / Total Capital 157.0% 171.2% 173.2% 186.3% 213.6% 206.8% 205.1% 193.3% 195.6% Book value per share $ 22.47 $ 22.43 $ 23.79 $ 24.02 $ 25.92 $ 27.36 $ 28.32 $ 27.65 $ 29.05 Tangible book value per share (1) $ 14.12 $ 14.12 $ 15.53 $ 15.80 $ 17.73 $ 19.21 $ 20.22 $ 20.82 $ 22.24 Tangible book value per share excluding AOCI (1) $ 23.67 $ 23.14 $ 23.61 $ 24.08 $ 24.56 $ 25.08 $ 25.67 $ 25.89 $ 26.45 ChoiceOne Bank Total capital (to risk weighted assets) 13.0% 13.0% 12.7% 12.7% 12.4% 12.6% 13.2% 13.1% 12.7% Common equity Tier 1 capital (to risk weighted assets) 12.5% 12.5% 12.2% 12.0% 11.8% 11.8% 12.5% 12.3% 12.0% Tier 1 capital (to risk weighted assets) 12.5% 12.5% 12.2% 12.0% 11.8% 11.8% 12.5% 12.3% 12.0% Tier 1 capital (to average assets) 8.7% 8.7% 8.7% 8.3% 8.4% 8.3% 8.8% 8.9% 8.9% Total CRE Loans / Total Capital 167.0% 177.8% 180.4% 194.4% 222.9% 218.2% 208.9% 221.8% 224.9%
+
+22 C OF S T R ADES ON TH E NAS D A Q ChoiceOne trades on the NASDAQ S t ock E x change under its s ymbol, COFS Market Makers in ChoiceOne Stock D. A. Davidson & Co. Nick Bicking 800.394.9230 Eugene Bodo Managing Director, Institutional Equity Sales Janney Montgomery Scott, LLC O 215 665 - 6566, M 610 766 - 0015 Raymond James & Associates Anthony LanFranca 312.655.2961 Stock Registrar & Transfer Agent Continental Stock Transfer & Trust Company 1 State Street Plaza, 30th Floor New York, NY 10004 - 1561 212.509.4000 
+
+23 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified (1) See Non - GAAP Reconciliation OTHER SELECTED HIGHLIGHTS COFS Performance Ratios 2022 4th Qtr. 2023 1st Qtr. 2023 2nd Qtr. 2023 3rd Qtr. 2023 4th Qtr. 2024 1st Qtr. 2024 2nd Qtr. 2024 3rd Qtr. 2024 4th Qtr. Annualized return on average assets 1.13% 0.94% 0.86% 0.80% 0.82% 0.86% 0.99% 1.09% 1.05% Annualized return on average equity 16.68% 13.42% 12.13% 11.31% 11.32% 11.26% 12.50% 12.36% 11.24% Annualized return on average tangible common equity (1) 26.63% 20.64% 18.31% 16.55% 16.40% 15.81% 17.22% 16.29% 14.54% Net interest margin (GAAP) 3.05% 3.02% 2.79% 2.64% 2.66% 2.67% 2.95% 3.17% 2.98% Net interest margin (fully tax-equivalent) (1) 3.12% 3.09% 2.86% 2.70% 2.72% 2.74% 3.01% 3.23% 3.04% Efficiency ratio 60.15% 65.40% 65.92% 65.74% 65.31% 64.55% 61.47% 60.80% 61.29% Annualized cost of funds 0.59% 0.79% 1.29% 1.70% 1.91% 2.00% 1.92% 1.87% 1.90% Annualized cost of deposits 0.47% 0.62% 0.98% 1.36% 1.57% 1.65% 1.56% 1.53% 1.58% Cost of interest bearing liabilities 0.82% 1.08% 1.70% 2.18% 2.45% 2.53% 2.44% 2.38% 2.43% Shareholders' equity to total assets 7.08% 7.00% 7.22% 7.04% 7.59% 7.74% 8.18% 9.09% 9.56% Tangible common equity to tangible assets (1) 4.57% 4.52% 4.83% 4.74% 5.32% 5.56% 5.98% 7.00% 7.49% Annualized noninterest expense to average assets 2.23% 2.34% 2.24% 2.14% 2.13% 2.09% 2.16% 2.30% 2.26% Loan to deposit 56.40% 57.66% 61.02% 61.65% 66.70% 65.17% 67.87% 68.38% 70.14% Full-time equivalent employees 376 376 380 376 369 367 367 371 377 Asset Quality 2022 4th Qtr. 2023 1st Qtr. 2023 2nd Qtr. 2023 3rd Qtr. 2023 4th Qtr. 2024 1st Qtr. 2024 2nd Qtr. 2024 3rd Qtr. 2024 4th Qtr. (in thousands) Net loan charge-offs (recoveries) $ (12) $ 28 $ 67 $ 148 $ 120 $ 51 $ 157 $ 87 $ 138 Annualized net loan charge-offs (recoveries) to average loans 0.00% 0.01% 0.02% 0.05% 0.04% 0.01% 0.04% 0.02% 0.04% Allowance for loan losses 7,619 15,065 14,582 14,872 15,685 16,037 16,152 16,490 16,552 Unfunded commitment liability - 2,991 3,156 2,718 2,160 1,757 1,485 1,485 1,485 Allowance to loans (excludes held for sale) 0.64% 1.24% 1.15% 1.14% 1.11% 1.13% 1.12% 1.10% 1.07% Non-Accruing loans 1,263 1,596 1,581 1,670 1,723 1,715 2,086 2,355 3,704 Nonperforming loans (includes OREO) 2,666 1,726 1,847 1,792 1,845 1,837 2,358 2,884 4,177 Nonperforming loans to total loans (excludes held for sale) 0.22% 0.14% 0.15% 0.14% 0.13% 0.13% 0.16% 0.19% 0.27% Nonperforming assets to total assets 0.11% 0.07% 0.07% 0.07% 0.07% 0.07% 0.09% 0.11% 0.15% Quarterly
+
+24 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified * Adjusted non - interest expense adjusted for certain non - cash items. ** Adjusted total income is the sum of net interest income and non - interest income adjusted for certain non - cash items. APPENDIX NON - GAAP RECONCILIATION Twelve Months Ended Annualized return on average assets December 31, 2024 (In Thousands) Net income $ 26,727 Plus merger related expenses net of tax 1,006 Adjusted net income $ 27,733 Average total assets $ 2,668,556 Annualized return on average assets 1.00% Plus Merger adjustment 0.04% Adjusted Annualized return on average assets 1.04% Twelve Months Ended Annualized return on average shareholders' equity December 31, 2024 (In Thousands) Net income $ 26,727 Plus merger related expenses net of tax 1,006 Adjusted net income $ 27,733 Average shareholders' equity $ 226,547 Annualized return on average assets 11.80% Plus Merger adjustment 0.44% Adjusted Annualized return on average assets 12.24% Twelve Months Ended Annualized non-interest expense / Average Assets December 31, 2024 (In Thousands) Non-interest expense $ 58,723 Less merger related expenses 1,006 Adjusted non-interest expense $ 57,717 Average total assets $ 2,668,556 Annualized non-interest expense / Average Assets 2.20% Less Merger adjustment 0.04% Adjusted annualized non-interest expense / Average Assets 2.16% Twelve Months Ended Efficiency ratio December 31, 2024 (In Thousands) Adjusted non-interest expense* $ 57,966 Less merger related expenses 1,006 Merger adjusted non-interest expense $ 56,960 Adjusted total income** $ 92,975 Efficiency ratio 62.35% Less Merger adjustment 1.08% Adjusted efficiency ratio 61.26%
+
+25 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified APPENDIX NON - GAAP RECONCILIATION (1) Adjusted to a fully tax - equivalent basis to facilitate comparison to the taxable interest - earning assets. The adjustment use s an incremental tax rate of 21%. The presentation of these measures on a tax - equivalent basis is not in accordance with GAAP but is customary in the banking industry. These non - GAAP measures ensure compara bility with respect to both taxable and tax - exempt loans and securities. Interest Rate Interest Rate Interest Rate Interest Rate Interest Rate Net interest income (tax-equivalent basis) (Non-GAAP) (1) 51,808$ 62,137$ 68,979$ 67,415$ 75,981$ Net interest margin (tax-equivalent basis) (Non-GAAP) (1) 3.51% 3.14% 3.09% 2.83% 3.01% Reconciliation to Reported Net Interest Income Net interest income (tax-equivalent basis) (Non-GAAP) (1)51,808 62,137 68,979 67,415 75,981 Adjustment for taxable equivalent interest (737) (1,513) (1,665) (1,530) (1,539) Net interest income (GAAP) 51,071$ 60,624$ 67,314$ 65,885$ 74,442$ Net interest margin (GAAP) 3.38% 3.08% 3.01% 2.77% 2.95% Year ended December 31, 20242020 20232021 2022 Interest Rate Securities income (tax-equivalent basis) (Non-GAAP) 28,317 2.89% Adjustment for taxable equivalent interest (1,475) Securities income (GAAP) 26,842 2.73% December 31, 2024 Year ended
+
+26 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified APPENDIX NON - GAAP RECONCILIATION (1) Adjusted to a fully tax - equivalent basis to facilitate comparison to the taxable interest - earning assets. The adjustment use s an incremental tax rate of 21%. The presentation of these measures on a tax - equivalent basis is not in accordance with GAAP but is customary in the banking industry. These non - GAAP measures ensure compara bility with respect to both taxable and tax - exempt loans and securities. Interest Rate Interest Rate Interest Rate Interest Rate Interest Rate Interest Rate Interest Rate Interest Rate Interest Rate Net interest income (tax-equivalent basis) (Non-GAAP) (1) 17,777$ 17,410$ 16,468$ 16,609$ 16,945$ 16,871$ 18,756$ 20,631$ 19,739$ Net interest margin (tax-equivalent basis) (Non-GAAP) (1) 3.12% 3.09% 2.86% 2.70% 2.72% 2.74% 3.01% 3.23% 3.04% Reconciliation to Reported Net Interest Income Net interest income (tax-equivalent basis) (Non-GAAP) (1) 17,777 17,410 16,468 16,609 16,945 16,871 18,756 20,631 19,739 Adjustment for taxable equivalent interest (411) (398) (377) (383) (390) (397) (385) (383) (390) Net interest income (GAAP) 17,366$ 17,012$ 16,091$ 16,226$ 16,555$ 16,474$ 18,371$ 20,248$ 19,349$ Net interest margin (GAAP) 3.05% 3.02% 2.79% 2.64% 2.66% 2.67% 2.95% 3.17% 2.98% 2024 4th Qtr.2024 3rd Qtr. Quarterly 2024 2nd Qtr.2024 1st Qtr.2023 4th Qtr.2023 3rd Qtr.2023 2nd Qtr.2023 1st Qtr.2022 4th Qtr.
+
+27 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified APPENDIX NON - GAAP RECONCILIATION (dollars in thousands) Q4 2022 Q1 2023 Q2 2023 Q3 2023 Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024 Shareholders' equity 168,874$ 168,712$ 179,240$ 181,161$ 195,634$ 206,756$ 214,519$ 247,746$ 260,415$ Less: goodwill 59,946 59,946 59,946 59,946 59,946 59,946 59,946 59,946 59,946 Less: core deposit intangible 2,809 2,557 2,304 2,057 1,854 1,651 1,448 1,250 1,096 Tangible common equity 106,119$ 106,209$ 116,990$ 119,158$ 133,834$ 145,159$ 153,125$ 186,550$ 199,373$ Common stock shares outstanding 7,516 7,522 7,535 7,541 7,548 7,556 7,574 8,960 7,516 Tangible book value per share 14.12$ 14.12$ 15.53$ 15.80$ 17.73$ 19.21$ 20.22$ 20.82$ 26.53$ Tangible common equity 106,119$ 106,209$ 116,990$ 119,158$ 133,834$ 145,159$ 153,125$ 186,550$ 199,373$ Less: accumulated other comprehensive income (loss), net (71,797) (67,878) (60,921) (62,470) (51,578) (44,324) (41,301) (45,446) (37,779) Tangible common equity excluding AOCI 177,916$ 174,087$ 177,911$ 181,628$ 185,412$ 189,483$ 194,426$ 231,996$ 237,152$ Common stock shares outstanding 7,516 7,522 7,535 7,541 7,548 7,556 7,574 8,960 7,516 Tangible book value per share excluding AOCI 23.67$ 23.14$ 23.61$ 24.08$ 24.56$ 25.08$ 25.67$ 25.89$ 31.55$ (dollars in thousands) Q4 2022 Q1 2023 Q2 2023 Q3 2023 Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024 Net income 6,684$ 5,633$ 5,213$ 5,122$ 5,293$ 5,634$ 6,586$ 7,348$ 7,159$ Less: intangible amortization (tax affected at 21%) 199 199 200 195 160 160 160 156 121 Adjusted net income 6,485$ 5,434$ 5,013$ 4,927$ 5,133$ 5,474$ 6,426$ 7,192$ 7,038$ Average shareholders' equity 160,284$ 167,952$ 171,912$ 181,219$ 187,099$ 200,177$ 210,742$ 237,875$ 254,737$ Less: average goodwill 59,946 59,946 59,946 59,946 59,946 59,946 59,946 59,946 59,946 Less: average core deposit intangible 2,942 2,687 2,435 2,188 1,960 1,756 1,553 1,355 1,179 Average tangible common equity 97,396$ 105,319$ 109,531$ 119,085$ 125,193$ 138,475$ 149,243$ 176,574$ 193,612$ Return on average tangible common equity 26.63% 20.64% 18.31% 16.55% 16.40% 15.81% 17.22% 16.29% 14.54% (dollars in thousands) Q4 2022 Q1 2023 Q2 2023 Q3 2023 Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024 Total Assets 2,385,915$ 2,409,886$ 2,483,726$ 2,574,196$ 2,576,706$ 2,670,699$ 2,623,067$ 2,726,003$ 2,723,243$ Less: goodwill 59,946 59,946 59,946 59,946 59,946 59,946 59,946 59,946 59,946 Less: core deposit intangible 2,809 2,557 2,304 2,057 1,854 1,651 1,448 1,250 1,096 Tangible assets 2,323,160$ 2,347,383$ 2,421,476$ 2,512,193$ 2,514,906$ 2,609,102$ 2,561,673$ 2,664,807$ 2,662,201$ Tangible common equity 106,119$ 106,209$ 116,990$ 119,158$ 133,834$ 145,159$ 153,125$ 186,550$ 199,373$ Tangible common equity to tangible assets 4.57% 4.52% 4.83% 4.74% 5.32% 5.56% 5.98% 7.00% 7.49%
+
+28 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified APPENDIX QUARTERLY AVERAGE BALANCES AND TAX - EQUIVALENT INTEREST RATES (1) Adjusted to a fully tax - equivalent basis to facilitate comparison to the taxable interest - earning assets. The adjustment uses an incremental tax rate of 21%. The presentation of these measures on a tax equivalent basis is not in accordance with GAAP but is customary in the banking industry. These non - GAAP measures ensure compara bility with respect to both taxable and tax - exempt loans and securities. (2) Taxable securities include dividend income from Federal Home Loan Bank and Federal Reserve Bank stock. (3) Loans include both loans to other financial institutions and loans held for sale. (4) Non - accruing loan and PPP loan balances are included in the balances of average loans. (5) Interest on loans included net origination fees, accretion income, and PPP fees. (Dollars in thousands) Average Average Change in Average Change in Change in Average Balance Interest Rate Balance Interest Rate Balance Interest Rate Balance Interest Rate Assets: Loans (1)(3)(4)(5) $ 1,359,643 $ 19,782 5.77 % $ 1,460,033 $ 23,262 6.34 % $ 56,433 $ 329 (0.15) $ 1,516,466 $ 23,591 6.19 % Taxable securities (2) 726,335 5,532 3.02 681,578 5,563 3.25 (4,445) (717) (0.40) 677,133 4,846 2.85 Nontaxable securities (1) 292,883 1,753 2.37 289,335 1,775 2.44 (967) (15) (0.01) 288,368 1,760 2.43 Other 92,635 1,284 5.50 108,019 1,473 5.43 (7,155) (242) (0.57) 100,864 1,231 4.86 Interest-earning assets 2,471,496 28,350 4.55 2,538,965 32,073 5.03 43,866 (645) (0.18) 2,582,831 31,428 4.84 Noninterest-earning assets 118,045 146,225 (9,526) 136,699 Total assets $ 2,589,541 $ 2,685,190 $ 34,340 $ 2,719,530 Liabilities and Shareholders' Equity: Interest-bearing demand deposits $ 864,689 $ 3,667 1.68 % $ 916,459 $ 3,111 1.35 % $ (8,828) $ 278 0.14 $ 907,631 $ 3,389 1.49 % Savings deposits 343,766 530 0.61 329,613 728 0.88 6,494 82 0.08 336,107 810 0.96 Certificates of deposit 357,038 3,812 4.24 388,183 4,296 4.40 9,181 (5) (0.11) 397,364 4,291 4.30 Brokered deposit 32,541 413 5.03 17,227 227 5.25 2,393 (7) (0.79) 19,620 220 4.46 Borrowings 185,707 2,221 4.75 210,000 2,508 4.75 (12,172) (134) 0.02 197,828 2,374 4.77 Subordinated debentures 35,474 414 4.63 35,658 413 4.61 61 (8) (0.10) 35,719 405 4.51 Other 25,729 349 5.38 11,756 159 5.37 5,172 41 (0.67) 16,928 200 4.70 Interest-bearing liabilities 1,844,944 11,405 2.45 1,908,896 11,442 2.38 2,301 247 0.05 1,911,197 11,689 2.43 Demand deposits 546,778 519,511 17,142 536,653 Other noninterest-bearing liabilities 10,720 18,908 (1,965) 16,943 Total liabilities 2,402,442 2,447,315 17,478 2,464,793 Shareholders' equity 187,099 237,875 16,862 254,737 Total liabilities and shareholders' equity $ 2,589,541 $ 2,685,190 $ 34,340 $ 2,719,530 Net interest income (tax-equivalent basis) (Non-GAAP) (1) $ 16,945 $ 20,631 $ (892) $ 19,739 Net interest margin (tax-equivalent basis) (Non-GAAP) (1) 2.72% 3.23% (0.19) 3.04% Reconciliation to Reported Net Interest Income Net interest income (tax-equivalent basis) (Non-GAAP) (1) $ 16,945 $ 20,631 $ (892) $ 19,739 Adjustment for taxable equivalent interest (390) (383) (7) (390) Net interest income (GAAP) $ 16,555 $ 20,248 $ (899) $ 19,349 Net interest margin (GAAP) 2.66% 3.17% -0.19 2.98% Change from Q324 to Q424Three Months Ended December 31, 2023 Three Months Ended September 30, 2024 Three Months Ended December 31, 2024
+
+29 Source: Numbers based on ChoiceOne internal data as of 12/31/2024 except where specifically identified Note: Excludes loans held for sale APPENDIX LOANS BY LOAN CATEGORY (Dollars in thousands) Loans: Q4 2022 Q1 2023 Q2 2023 Q3 2023 Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024 Agricultural $ 64,159 $ 55,995 $ 40,684 $ 43,290 $ 49,210 $ 41,950 $ 45,274 $ 49,147 $ 48,221 Commercial and Industrial 210,210 217,063 224,191 222,357 229,915 231,222 224,031 229,232 228,256 Consumer 39,808 38,891 38,614 37,605 36,541 34,268 32,811 30,693 29,412 Commercial Real Estate 630,953 648,202 657,549 709,960 786,921 794,705 804,213 862,773 901,130 Construction Real Estate 14,736 13,939 16,734 16,477 20,936 17,890 18,751 14,555 17,042 Residential Real Estate 229,916 236,493 247,618 256,348 267,730 268,523 275,878 279,058 281,701 Loans to Other Financial Institutions - - 38,838 23,763 19,400 30,032 36,569 38,492 39,878 Gross Loans 1,189,782 1,210,583 1,264,228 1,309,800 1,410,653 1,418,590 1,437,527 1,503,950 1,545,640 Less allowance for credit losses on loans 7,619 15,065 14,582 14,872 15,685 16,037 16,152 16,490 16,552 Loans, Net 1,182,163 1,195,518 1,249,646 1,294,928 1,394,968 1,402,553 1,421,375 1,487,460 1,529,088
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>image_001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>image_002.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>image_003.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>image_004.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>10
+<FILENAME>image_005.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>11
+<FILENAME>image_006.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>12
+<FILENAME>image_007.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>13
+<FILENAME>image_008.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>14
+<FILENAME>image_009.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>15
+<FILENAME>image_010.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>16
+<FILENAME>image_011.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>17
+<FILENAME>image_012.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>18
+<FILENAME>image_013.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>19
+<FILENAME>image_014.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>20
+<FILENAME>image_015.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>21
+<FILENAME>image_016.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>22
+<FILENAME>image_017.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>23
+<FILENAME>image_018.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>24
+<FILENAME>image_019.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>25
+<FILENAME>image_020.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>26
+<FILENAME>image_021.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>27
+<FILENAME>image_022.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>28
+<FILENAME>image_023.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>29
+<FILENAME>image_024.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>30
+<FILENAME>image_025.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>31
+<FILENAME>image_026.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>32
+<FILENAME>image_027.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>33
+<FILENAME>image_028.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>34
+<FILENAME>image_029.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>37
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 18, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Feb. 18, 2025
+
+Entity File Number 000-19202
+
+Entity Registrant Name ChoiceOne Financial Services, Inc.
+
+Entity Central Index Key 0000803164
+
+Entity Tax Identification Number 38-2659066
+
+Entity Incorporation, State or Country Code MI
+
+Entity Address, Address Line One 109 East Division
+
+Entity Address, City or Town Sparta
+
+Entity Address, State or Province MI
+
+Entity Address, Postal Zip Code 49345
+
+City Area Code (616)
+
+Local Phone Number 887-7366
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common stock
+
+Trading Symbol COFS
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>38
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>39
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>40
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>42
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://choiceone.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+choice8k_021825.htm 
+cofs-20250218.xsd 
+cofs-20250218_lab.xml 
+cofs-20250218_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>45
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>46
+<FILENAME>0000905729-25-000040-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>47
+<FILENAME>choice8k_021825_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0000803164 
+
+2025-02-18 
+2025-02-18 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0000803164 
+false 
+false 
+false 
+false 
+false 
+8-K 
+2025-02-18 
+ChoiceOne Financial Services, Inc. 
+MI 
+000-19202 
+38-2659066 
+109 East Division 
+Sparta 
+MI 
+49345 
+(616) 
+887-7366 
+Common stock 
+COFS 
+NASDAQ
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

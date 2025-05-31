@@ -1,0 +1,1975 @@
+<SEC-DOCUMENT>0001193125-25-084343.txt : 20250417
+<SEC-HEADER>0001193125-25-084343.hdr.sgml : 20250417
+<ACCEPTANCE-DATETIME>20250417161555
+ACCESSION NUMBER:		0001193125-25-084343
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250417
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250417
+DATE AS OF CHANGE:		20250417
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Keysight Technologies, Inc.
+		CENTRAL INDEX KEY:			0001601046
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		EIN:				464254555
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36334
+		FILM NUMBER:		25847518
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1400 FOUNTAINGROVE PARKWAY
+		CITY:			SANTA ROSA
+		STATE:			CA
+		ZIP:			95403
+		BUSINESS PHONE:		8774244536
+
+	MAIL ADDRESS:	
+		STREET 1:		1400 FOUNTAINGROVE PARKWAY
+		CITY:			SANTA ROSA
+		STATE:			CA
+		ZIP:			95403
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d890455d8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?8-K
+
+false000160104600016010462025-04-172025-04-17
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 17, 2025
+
+KEYSIGHT TECHNOLOGIES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-36334 46-4254555
+
+(State or other jurisdiction
+
+of incorporation) 
+
+(Commission
+
+File Number) 
+
+(IRS Employer
+
+Identification No.)
+
+1400 Fountaingrove Parkway, 
+
+Santa Rosa, CA 95403
+
+(Address of principal executive offices) (Zip Code)
+
+(Registrants telephone number, including area code) (800)829-4444
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class 
+
+Trading
+
+Symbol 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.01 per share KEYS New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company, as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.03 
+
+Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant. 
+
+The information provided in Item 8.01 of this Report is incorporated by reference into this Item 2.03. 
+
+Item 8.01 
+
+Other Events. 
+
+On April 17, 2025, Keysight Technologies, Inc. (the Company) issued $750,000,000 aggregate principal amount of its 5.350% Notes due 2030 (the Notes) pursuant to its effective shelf registration statement on Form S-3 (File No. 333-282431) (the Shelf Registration Statement). The Notes were sold pursuant to an underwriting agreement with BNP Paribas Securities Corp., Citigroup Global Markets Inc. and BofA Securities, Inc. as representatives of the several underwriters. 
+
+The Notes were issued under an indenture, dated as of October 9, 2024 (the Base Indenture), between the Company and U.S. Bank Trust Company, National Association, as trustee (the Trustee), as supplemented by the second supplemental indenture, dated as of April 17, 2025 (the Second Supplemental Indenture and, together with the Base Indenture, the Indenture), between the Company and the Trustee. The Company intends to use the net proceeds from the sale of the Notes for general corporate purposes, which may include partially financing the proposed acquisition of Spirent communications plc. 
+
+Interest on the Notes accrues at a rate of 5.350% per annum. Interest accrues from the most recent interest payment date to or for which interest has been paid or duly provided for, payable semi-annually in arrears on January 30 and July 30 of each year, beginning January 30, 2026. The Notes will mature on July 30, 2030. The Notes are unsecured, unsubordinated obligations of the Company and rank equally in right of payment with all existing and future unsecured and unsubordinated obligations of the Company, including any indebtedness the Company may incur from time to time under its senior revolving credit facility and its senior unsecured 364-day bridge loan facility. 
+
+The Company may redeem the Notes at its option, in whole or in part, at any time and from time to time, upon at least 10 days, but not more than 60 days, prior notice. If the Notes are redeemed prior to June 30, 2030 (the date that is one month prior to the maturity date of the Notes) (the Par Call Date), it will pay a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon, discounted to the redemption date (assuming the Notes matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the treasury rate plus 25 basis points less (b) interest accrued to the date of redemption, and (2) 100% of the principal amount of the Notes to be redeemed plus, in either case, accrued and unpaid interest thereon to the redemption date. In addition, if the Notes are redeemed on or after the Par Call Date, the redemption price will equal 100% of the principal amount of the Notes being redeemed, plus accrued and unpaid interest thereon to the redemption date. 
+
+Upon the occurrence of certain events related to a change of control, the Company will be required to make an offer to repurchase the Notes at a price equal to 101% of their principal amount, plus accrued and unpaid interest to, but not including, the date of repurchase. Subject to certain qualifications and exceptions, the Indenture limits the ability of the Company and its subsidiaries to create or permit to exist liens with respect to principal properties and to enter into sale and leaseback transactions with respect to principal properties and limits the Companys ability to merge or consolidate with any other entity or convey, transfer or lease the Companys properties and assets substantially as an entirety. 
+
+The Indenture also provides for certain customary events of default (subject, in certain cases, to receipt of notice of default and/or customary grace or cure periods). 
+
+Copies of the Base Indenture, the Second Supplemental Indenture and the form of global note for the Notes are filed as Exhibits 4.1, 4.2 and 4.3 hereto, respectively, and each is incorporated by reference herein and in the Shelf Registration Statement. The foregoing description does not purport to be complete and is qualified in its entirety by the full text of the Base Indenture, the Second Supplemental Indenture and the form of global note for the Notes. 
+
+Item 9.01 
+
+Financial Statements and Exhibits. 
+
+(d) Exhibits. 
+
+Exhibit
+
+Number 
+
+Description
+
+4.1 Indenture, dated as of October 9, 2024, between Keysight Technologies, Inc. and U.S. Bank Trust Company, National Association, as trustee (incorporated herein by reference from Exhibit 4.1 to the Form 8-K filed by Keysight Technologies, Inc. on October 9, 2024) (File No. 001-36334)) 
+
+4.2 Second Supplemental Indenture, dated as of April 17, 2025, between Keysight Technologies, Inc. and US. Bank Trust Company, National Association, as trustee 
+
+4.3 Form of 5.350% Notes due 2030 (included in Exhibit 4.2) 
+
+5.1 Opinion of Simpson Thacher & Bartlett LLP 
+
+23.1 Consent of Simpson Thacher & Bartlett LLP (included in Exhibit 5.1) 
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+KEYSIGHT TECHNOLOGIES, INC.
+
+Date: April 17, 2025 By: 
+
+/s/ Jeffrey K. Li
+
+Jeffrey K. Li
+
+Senior Vice President, General Counsel and Secretary
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.2
+<SEQUENCE>2
+<FILENAME>d890455dex42.htm
+<DESCRIPTION>EX-4.2
+<TEXT>
+EX-4.2
+
+Exhibit 4.2 
+
+KEYSIGHT TECHNOLOGIES, INC. 
+
+SECOND SUPPLEMENTAL INDENTURE 
+
+$750,000,000 5.350% Notes due 2030 
+
+THIS SECOND SUPPLEMENTAL INDENTURE, dated as of April 17, 2025 (this Second Supplemental Indenture), between KEYSIGHT
+TECHNOLOGIES, INC., a Delaware corporation (as further defined in the Indenture, the Company), and U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, a national banking association, as trustee (the Trustee). 
+
+RECITALS OF THE COMPANY: 
+
+WHEREAS, the Company has heretofore executed and delivered to the Trustee an Indenture, dated as of October 9, 2024 (the
+Indenture), providing for the issuance from time to time of one or more series of Notes (as defined in the Indenture); 
+
+WHEREAS, Section 2.01(1)(v) of the Indenture provides for various matters with respect to any series of Notes issued under the Indenture
+to be established in an indenture supplemental to the Indenture; 
+
+WHEREAS, Section 8.01(12) of the Indenture provides that the
+Company and the Trustee may enter into an indenture supplemental to the Indenture to add to, change or eliminate any provisions of the Indenture in respect of one or more series of Notes; and 
+
+WHEREAS, all the conditions and requirements necessary to make this Second Supplemental Indenture, when duly executed and delivered, a valid
+and binding agreement in accordance with its terms and for the purposes herein expressed, have been performed and fulfilled. 
+
+NOW
+THEREFORE, IT IS MUTUALLY AGREED AS FOLLOWS: 
+
+For and in consideration of the premises and the issuance of the series of Notes provided for
+herein, the Company and the Trustee mutually covenant and agree for the equal and proportionate benefit of the respective Holders of the Notes of such series as follows: 
+
+ARTICLE I 
+
+Relation to
+Indenture; Definitions; Rules of Construction 
+
+SECTION 1.01 Relation to Indenture. This Second Supplemental Indenture
+constitutes an integral part of the Indenture with respect to the Senior Notes. The Senior Notes are a series of Notes referred to in the Indenture. 
+
+SECTION 1.02 Definitions. For all purposes of this Second Supplemental Indenture, the following terms shall have the respective
+meanings set forth in this Section. 
+
+Change of Control means the occurrence of any of the following:
+(1) the direct or indirect sale, transfer, conveyance or other disposition (other than by way of merger or consolidation), in one or a series of related transactions, of all or substantially all of the properties or assets of the Company and
+its Subsidiaries taken as a whole to any person (as that term is used in Section 13(d) and Section 14(d) of the Exchange Act) other than the Company or one of its Subsidiaries; (2) the adoption of a plan relating to the
+Companys liquidation or dissolution; (3) the consummation of any transaction (including, without limitation, any merger or consolidation) the result of which is that any person (as that term is used in Section 13(d)(3) of
+the Exchange Act) or group of persons, other than the Company or its Subsidiaries, becomes the beneficial owner (as defined in Rules 13d-3 and 13d-5 of the Exchange
+Act), directly or indirectly, of more than 50% of the combined voting power of the Companys Voting Stock or other Voting Stock into which the Companys Voting Stock is reclassified, consolidated, exchanged or changed, measured by voting
+power rather than number of shares; or (4) the first day on which a majority of the members of the Board of Directors of the Company are not Continuing Directors. Notwithstanding the foregoing, a transaction will not be deemed to involve a
+Change of Control by virtue of clause (1) or (3) above if (a) the Company becomes a direct or indirect wholly owned Subsidiary of a holding company (which shall include a parent company) as a result of such transaction and (b)(i) the
+holders of the Voting Stock of such holding company immediately following that transaction are substantially the same as the holders of the Companys Voting Stock immediately prior to that transaction or (ii) no person (as that
+term is used in Section 13(d)(3) of the Exchange Act) (other than a holding company satisfying the requirements of this sentence) becomes the beneficial owner (as defined in Rules 13d-3 and 13d-5 under the Exchange Act), directly or indirectly, of more than 50% of the voting power of the Voting Stock of such holding company immediately following such transaction. 
+
+Change of Control Repurchase Event means the occurrence of both a Change of Control and a Ratings Event. 
+
+Company has the meaning set forth in the Preamble hereto. 
+
+Consolidated Net Tangible Assets means, as of the time of determination, the aggregate amount of the assets of the Company
+and the assets of its consolidated subsidiaries after deducting (1) all goodwill, trade names, trademarks, service marks, patents, unamortized debt discount and expense and other intangible assets and (2) all current liabilities, as
+reflected on the most recent consolidated balance sheet prepared by the Company in accordance with GAAP which the Company shall have most recently filed with the Commission or otherwise distributed to its shareholders (and not subsequently
+disclaimed as not being reliable by the Company) prior to the time as of which Consolidated Net Tangible Assets is being determined (which calculation shall give pro forma effect to any acquisition by or disposition of assets of the
+Company or any of its subsidiaries involving the payment or receipt by the Company or any of its subsidiaries, as applicable, of consideration (whether in the form of cash or non-cash consideration) in excess
+of $25 million that has occurred since the end of such fiscal quarter, as if such acquisition or disposition had occurred on the last day of such fiscal quarter). 
+
+Continuing Directors means, as of any date of determination, any member of the Board of Directors of the Company who
+(1) was a member of such Board of Directors on the date of the issuance of the Senior Notes; or (2) whose election, appointment or nomination to such Board of Directors was approved of a majority of the Continuing Directors who were
+members of such Board of Directors at the time of such nomination, appointment or election. 
+
+2 
+
+Fitch means Fitch Ratings, Inc. and its successors. 
+
+Global Notes means each Senior Note in global form issued in accordance with the Indenture and this Second Supplemental
+Indenture. 
+
+Indenture has the meaning set forth in the Recitals hereto. 
+
+Investment Grade means a rating of BBB- or better by Fitch (or its equivalent under
+any successor Rating Categories of Fitch); a rating of Baa3 or better by Moodys (or its equivalent under any successor Rating Categories of Moodys); and a rating of BBB- or better by S&P (or
+its equivalent under any successor Rating Categories of S&P); or the equivalent investment grade credit rating from any additional Rating Agency or Rating Agencies selected by the Company. 
+
+Moodys means Moodys Investors Service Inc. and its successors. 
+
+Par Call Date means June 30, 2030. 
+
+Participant means members of, or participants in, the Depositary. 
+
+Principal Property means the headquarters of the Company, each manufacturing facility, each research and development
+facility and each service and support facility (in each case including associated office facilities) located within the territorial limits of the United States of America owned by the Company or any of its wholly owned Subsidiaries, in each case the
+net book value of which as of that date exceeds $50 million, except such as the Companys Board of Directors (or any committee thereof duly authorized to act on behalf of the Companys Board of Directors) by resolution determines in
+good faith (taking into account, among other things, the importance of such property to the business, financial condition and earnings of the Company and its Subsidiaries taken as a whole) not to be of material importance to the business of the
+Company and its Subsidiaries, taken as a whole. 
+
+Rating Agency means each of Fitch, Moodys and S&P, so long
+as such entity makes a rating of the Senior Notes publicly available; provided, however, if any of Fitch, Moodys or S&P ceases to rate the Senior Notes or fails to make a rating of the Senior Notes publicly available for reasons outside of
+the control of the Company, the Company shall be allowed to designate a nationally recognized statistical rating organization within the meaning of Section 3(a)(62) of the Exchange Act (as certified by a resolution of the Board of
+Directors of the Company) as a replacement agency for the agency that ceased to make such a rating publicly available. For the avoidance of doubt, failure by the Company to pay rating agency fees to make a rating of the Senior Notes shall not be a
+reason outside of the control of the Company for the purposes of the preceding sentence. 
+
+3 
+
+Rating Category means (i) with respect to S&P, any of the
+following categories: AAA, AA, A, BBB, BB, B, CCC, CC, C and D (or equivalent successor categories); (ii) with respect to Moodys, any of the following categories: Aaa, Aa, A, Baa, Ba, B, Caa, Ca, C and D (or equivalent successor categories);
+(iii) with respect to Fitch, any of the following categories: AAA, AA, A, BBB, BB, B, CCC, CC, C and D (or equivalent successor categories); and (iv) the equivalent of any such category of S&P, Moodys or Fitch used by another Rating
+Agency. In determining whether the rating of the Senior Notes has decreased by one or more gradations, gradations within Rating Categories (+ and - for S&P or Fitch; 1, 2 and 3 for Moodys; or the equivalent gradations for another Rating
+Agency) shall be taken into account (e.g., with respect to S&P or Fitch, a decline in a rating from BB+ to BB, as well as from BB- to B+, will constitute a decrease of one gradation). 
+
+Ratings Event means a decrease in the ratings of the Senior Notes by one or more of the Rating Agencies such that the
+Senior Notes are rated below Investment Grade by all of the Rating Agencies on any date during the period that (i) begins on the earlier of (a) the date of the first public announcement of the occurrence of a Change of Control or of the
+intention of the Company to effect a Change of Control or (b) the occurrence of such Change of Control and (ii) ends 60 days following consummation of such Change of Control (which period shall be extended so long as the rating of the
+Senior Notes is under publicly announced consideration for possible downgrade by any of the Rating Agencies). 
+
+Notwithstanding the
+foregoing, a Ratings Event otherwise arising by virtue of a particular reduction in rating shall not be deemed to have occurred in respect of a particular Change of Control (and thus shall not be deemed a Ratings Event for purposes of the definition
+of Change of Control Repurchase Event hereunder) if the Rating Agencies making the reduction in rating to which this definition would otherwise apply do not announce or publicly confirm or inform the Trustee in writing that the reduction was the
+result, in whole or in part, of any event or circumstance comprised of or arising as a result of, or in respect of, the applicable Change of Control (whether or not the applicable Change of Control shall have occurred at the time of the Ratings
+Event). 
+
+S&P means S&P Global Ratings, a division of S&P Global Inc., and its successors. 
+
+Second Supplemental Indenture has the meaning set forth in the Preamble hereto. 
+
+Securities Act means the Securities Act of 1933, as amended. 
+
+Senior Notes means the 5.350% Notes due 2030. 
+
+Treasury Rate means, with respect to any Redemption Date, the yield determined by the Company in accordance with the
+following two paragraphs: 
+
+(a) The Treasury Rate shall be determined by the Company after 4:15 p.m., New York City time (or after such time
+as yields on U.S. government securities are posted daily by the Board of Governors of the Federal Reserve System), on the third Business Day preceding the Redemption Date based upon the yield or yields for the most recent day that appear after such
+time on such day in the most recent statistical release published by the Board of Governors of the Federal Reserve System designated as Selected Interest Rates (Daily)H.15 (or any successor designation or publication)
+(H.15) under the caption U.S. government securities - Treasury constant maturities - Nominal (or any successor caption or heading) (H.15 TCM). In determining the Treasury
+Rate, the Company shall select, as applicable: (1) the yield for the 
+
+4 
+
+Treasury constant maturity on H.15 exactly equal to the period from the Redemption Date to the Par Call Date (the Remaining Life); or (2) if there is no such Treasury
+constant maturity on H.15 exactly equal to the Remaining Life, the two yields one yield corresponding to the Treasury constant maturity on H.15 immediately shorter than and one yield corresponding to the Treasury constant maturity
+on H.15 immediately longer than the Remaining Life and shall interpolate to the Par Call Date on a straight-line basis (using the actual number of days) using such yields and rounding the result to three decimal places; or
+(3) if there is no such Treasury constant maturity on H.15 shorter than or longer than the Remaining Life, the yield for the single Treasury constant maturity on H.15 closest to the Remaining Life. For purposes of this paragraph, the applicable
+Treasury constant maturity or maturities on H.15 shall be deemed to have a maturity date equal to the relevant number of months or years, as applicable, of such Treasury constant maturity from the Redemption Date. 
+
+(b) If on the third Business Day preceding the Redemption Date H.15 TCM is no longer published, the Company shall calculate the Treasury Rate
+based on the rate per annum equal to the semi-annual equivalent yield to maturity at 11:00 a.m., New York City time, on the second Business Day preceding such Redemption Date of the United States Treasury security maturing on, or with a maturity
+that is closest to, the Par Call Date, as applicable. If there is no United States Treasury security maturing on the Par Call Date but there are two or more United States Treasury securities with a maturity date equally distant from the Par Call
+Date, one with a maturity date preceding the Par Call Date and one with a maturity date following the Par Call Date, the Company shall select the United States Treasury security with a maturity date preceding the Par Call Date. If there are two or
+more United States Treasury securities maturing on the Par Call Date or two or more United States Treasury securities meeting the criteria of the preceding sentence, the Company shall select from among these two or more United States Treasury
+securities the United States Treasury security that is trading closest to par based upon the average of the bid and asked prices for such United States Treasury securities at 11:00 a.m., New York City time. In determining the Treasury Rate in
+accordance with the terms of this paragraph, the semi-annual yield to maturity of the applicable United States Treasury security shall be based upon the average of the bid and asked prices (expressed as a percentage of principal amount) at 11:00
+a.m., New York City time, of such United States Treasury security, and rounded to three decimal places. 
+
+Trustee has
+the meaning set forth in the Preamble hereto. 
+
+Voting Stock of any specified person as of any date means the capital
+stock of such person that is at the time entitled to vote generally in the election of the Board of Directors of such person. 
+
+SECTION
+1.03 Amendment to Section 1.01 of the Indenture. With respect to the Senior Notes, Section 1.01 of the Indenture is amended by adding the following definitions: 
+
+Attributable Debt has the meaning specified in Section 9.07. 
+
+Sale and Leaseback Transaction has the meaning specified in Section 9.07. 
+
+5 
+
+Second Supplemental Indenture means the Second Supplemental Indenture,
+dated as of April 17, 2025, between the Company and the Trustee. 
+
+SECTION 1.04 Amendment to Section 3.02 of the
+Indenture. With respect to the Senior Notes, clause (b) of the first sentence of Section 3.02 of the Indenture is amended to read as follows: 
+
+(b) the Company shall cease to be under any obligation to comply with any term, provision or condition set forth in Sections
+4.01(4), 4.01(5), 4.01(6), 4.01(7), 9.05, 9.06 and 9.07 of the Indenture and Section 2.04 of the Second Supplemental Indenture (and any other Sections, covenants or Events of Default applicable to such Notes that are determined pursuant to
+Section 2.01 to be subject to this provision) with respect to the Notes of such series at any time after the applicable conditions set forth below have been satisfied (Covenant Defeasance): 
+
+SECTION 1.05 Amendment to Section 4.01 of the Indenture. With respect to the Senior Notes, Section 4.01 of the
+Indenture is amended by deleting and at the end of clause (5), adding ; and at the end of clause (6) and adding the following paragraph after clause (6): 
+
+(7) a failure by the Company to repurchase the Notes tendered for repurchase following the occurrence of a Change of Control
+Repurchase Event in conformity with Section 2.04 of the Second Supplemental Indenture. 
+
+SECTION 1.06 Amendment to
+Section 7.01 of the Indenture. With respect to the Senior Notes, Section 7.01 of the Indenture is amended by deleting and at the end of clause (2), renumbering clause (3) as clause (4), and adding the
+following paragraph after clause (2): 
+
+(3) if, as a result of any consolidation, merger, sale or lease, conveyance or
+transfer described in this Section 7.01, properties or assets of the Company would become subject to any lien which would not be permitted by Section 9.06 without equally and ratably securing the Notes, the Company or such successor
+Person, as the case may be, will take the steps as are necessary to secure effectively the Notes equally and ratably with, or prior to, all Indebtedness secured by those liens as described in Section 9.06; and 
+
+SECTION 1.07 Addition of Section 9.06 to the Indenture. With respect to the Senior Notes, Article IX of the
+Indenture is amended by adding the following as Sections 9.06 and 9.07, respectively: 
+
+Section 9.06 Limitation on
+Liens. The Company will not, and will not permit any Subsidiary to, create, incur, assume or permit to exist any lien on (i) any Principal Property or (ii) the capital stock of any Subsidiary, to secure any Indebtedness for borrowed
+money of the Company, any Subsidiary or any other Person without securing the Notes equally and ratably with such Indebtedness for so long as such Indebtedness shall be so secured, subject to the exceptions described below: 
+
+(1) liens on assets or property of a Person at the time it becomes a Subsidiary, securing only Indebtedness of such Person,
+provided such Indebtedness was not incurred in connection with such Person or entity becoming a Subsidiary and such liens do not extend to any assets other than those of the Person becoming a Subsidiary; 
+
+6 
+
+(2) liens on assets created at the time of, or within 24 months after, the
+later of, (a) the acquisition, purchase, lease, improvement or development of such assets or (b) the placing in operation of such assets, in each case, to secure all or a portion of the purchase price or lease for, or the costs of
+improvement or development of, such assets or to secure debt incurred to provide funds for any such purpose; 
+
+(3) liens on
+property incurred in permitted Sale and Leaseback Transactions under Section 9.07; 
+
+(4) liens incurred in connection
+with pollution control, industrial revenue or similar financings; 
+
+(5) liens in favor of only the Company or one or more
+subsidiaries of the Company; 
+
+(6) liens on assets existing at the time of acquisition thereof, including acquisition
+through merger or consolidation; 
+
+(7) liens on securities deemed to exist under repurchase agreements and reverse
+repurchase agreements entered into by the Company or any Significant Subsidiary in the ordinary course of business; 
+
+(8)
+liens in favor of the Trustee granted in accordance with this Indenture; 
+
+(9) liens on property of the Company or a
+subsidiary in favor of the United States of America or any state thereof, or any department, agency or instrumentality or political subdivision of the United States of America or any state thereof, or in favor of any other country or any political
+subdivision thereof, to secure partial, progress, advance or other payments pursuant to any contract or statute; 
+
+(10)
+liens on assets or property of an entity existing at the time such entity is merged or consolidated with the Company or one of its Subsidiaries, provided such liens were not incurred in anticipation of such merger or consolidation and such liens do
+not extend to any assets of the Company or any of its Subsidiaries other than those of the person being merged or consolidated with the Company or its Subsidiary and its direct or indirect Subsidiaries; 
+
+(11) liens for taxes, assessments or other governmental charges not yet due or payable or not overdue for a period of more than
+60 days or that are being contested by the Company or a Subsidiary and for which the Company maintains adequate reserves in accordance with GAAP; 
+
+7 
+
+(12) liens incurred in connection with an asset acquisition or a project
+financed with a Non-recourse Obligation; 
+
+(13) liens in favor of materialman, mechanics, workmen or repairmen,
+landlords liens for rent or other similar liens arising, in each case, in respect of obligations that are not overdue by more than 30 calendar days or which are being contested by us or any subsidiary in good faith and by appropriate
+proceedings or other liens arising out of judgments or awards against such person with respect to which such person shall then be proceeding with an appeal or other proceedings for review and liens arising solely by virtue of any statutory or common
+law provision relating to bankers liens, rights of set-off or similar rights and remedies as to deposit accounts or other funds maintained with a creditor depository institution; 
+
+(14) liens consisting of zoning restrictions, licenses, easements and restrictions on the use of real property and minor
+irregularities that, in the Companys opinion, do not materially impair the use of the real property; 
+
+(15) liens
+created by or resulting from any litigation or other proceeding that is being contested in good faith by appropriate proceedings; 
+
+(16) liens relating to hedging and similar arrangements entered into in the ordinary course of business, including without
+limitation interest rate or foreign currency hedging arrangements; 
+
+(17) liens incurred or deposits made by the Company or
+its Subsidiaries in connection with workers compensation, unemployment insurance and other types of social security, or to secure the performance of tenders, statutory obligations, bids, leases, trade contracts, performance, surety or return-of-money bonds or other similar obligations; 
+
+(18) with respect to any series of notes, liens existing on the date that notes of such series are first authenticated by the
+Trustee; 
+
+(19) liens in favor of customs and revenue authorities arising as a matter of law to secure payment of customs
+duties in connection with the importation of goods; 
+
+(20) liens to secure any extension, renewal, refinancing or refunding
+(or successive extensions, renewals, refinancings or refundings), in whole or in part, of any Indebtedness secured by liens referred to above or liens created in connection with any amendment, consent or waiver relating to such Indebtedness, so long
+as such lien is limited to all or part of substantially the same property which secured the lien extended, renewed or replaced (plus improvements on such property and plus any property relating to a specific project, the completion of which is
+funded pursuant to clause (ii) below) and the amount of Indebtedness secured by such lien is not increased (other than (i) by the amount equal to any costs and expenses (including any premiums, fees or penalties) incurred in
+
+8 
+
+connection with any extension, renewal, refinancing or refunding and (ii) where an additional principal amount of Indebtedness is incurred to provide funds for the completion of a specific
+project that is subject to a lien securing the Indebtedness being extended, refinanced or renewed by an amount equal to such additional principal amount); and 
+
+(21) liens otherwise prohibited by this covenant, securing indebtedness which, together with the value of attributable debt
+incurred in sale and leaseback transactions permitted under Section 9.07 below, do not exceed the greater of $650 million and 15% of Consolidated Net Tangible Assets measured at the date of incurrence of the lien. 
+
+Section 9.07 Limitation on Sale and Leaseback Transactions. The Company will not, and will not permit any
+Subsidiary to, enter into any arrangement with any Person pursuant to which the Company or any Subsidiary leases any Principal Property that has been or is to be sold or transferred by the Company or the Subsidiary to such Person (a Sale
+and Leaseback Transaction), except that a Sale and Leaseback Transaction is permitted if the Company or such Subsidiary would be entitled to Incur Indebtedness secured by a lien on the property to be leased (without equally and ratably
+securing the outstanding Notes) in an amount equal to the present value of the lease payments with respect to the term of the lease remaining on the date as of which the amount is being determined, discounted at the rate of interest set forth or
+implicit in the terms of the lease, compounded semi-annually (such amount is referred to as the Attributable Debt). The foregoing shall not apply to: 
+
+(1) leases for a term, including renewals at the option of the lessee, of not more than three years; 
+
+(2) leases between only the Company and a Subsidiary of the Company or only between Subsidiaries of the Company; 
+
+(3) leases where the proceeds from the sale of the property are at least equal to the fair market value (as determined in good
+faith by the Company) of the property and the Company applies an amount equal to the net proceeds of the sale to the retirement of long-term Indebtedness or to the purchase of other property or equipment used or useful in its business, within 365
+days before or after the effective date of such sale; provided that, in lieu of applying such amount to the retirement of long-term Indebtedness, the Company may deliver Notes to the Trustee for cancellation, such Notes to be credited at the cost
+thereof to it; 
+
+(4) leases of property executed by the time of, or within 18 months after the latest of, the acquisition,
+the completion of construction or improvement, or the commencement of commercial operation of the property; and 
+
+(5) leases
+of property in connection with the separation and distribution of the Company, including any such leases pursuant to or in accordance with the separation and distribution agreement or any other document or agreement relating to or entered into in
+connection with the separation and distribution of the Company. 
+
+9 
+
+SECTION 1.08 Rules of Construction. For all purposes of this Second Supplemental
+Indenture: 
+
+(a) capitalized terms used herein without definition shall have the meanings specified in the Indenture; 
+
+(b) all references herein to Articles and Sections, unless otherwise specified, refer to the corresponding Articles and Sections of this
+Second Supplemental Indenture; 
+
+(c) the terms herein, hereof, hereunder and other words of similar
+import refer to this Second Supplemental Indenture; 
+
+(d) in the event of a conflict with the definition of terms in the Indenture, the
+definitions in this Second Supplemental Indenture shall control; and 
+
+(e) the terms of this Second Supplemental Indenture apply only to
+the Senior Notes and not to any other series of securities issued under the Indenture. 
+
+ARTICLE II 
+
+The Securities 
+
+SECTION
+2.01 Title of the Notes. There shall be a series of Notes designated the 5.350% Notes due 2030. 
+
+SECTION 2.02 Initial Principal
+Amount. The Senior Notes will be initially issued in an aggregate principal amount of $750,000,000. 
+
+SECTION 2.03 Optional
+Redemption. 
+
+(a) Prior to the Par Call Date, the Company may redeem the Senior Notes at its option, in whole or in part, at any time
+and from time to time, at a redemption price (expressed as a percentage of principal amount and rounded to three decimal places) equal to the greater of (1) (a) the sum of the present values of the remaining scheduled payments of principal and
+interest thereon, discounted to the Redemption Date (assuming the Senior Notes matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of twelve
+30-day months) at the Treasury Rate plus 25 basis points less (b) interest accrued to the date of redemption, and (2) 100% of the principal amount of the Senior Notes to be redeemed plus, in either case,
+accrued and unpaid interest thereon to the Redemption Date. 
+
+On or after the Par Call Date, the Company may redeem the Senior Notes, in
+whole or in part, at any time and from time to time, at a Redemption Price equal to 100% of the principal amount of the Senior Notes being redeemed, plus accrued and unpaid interest thereon to the Redemption Date. 
+
+10 
+
+The Companys actions and determinations in determining the Redemption Price shall be
+conclusive and binding for all purposes, absent manifest error. 
+
+Notice of any redemption will be mailed or electronically delivered (or
+otherwise transmitted in accordance with the depositarys procedures) at least 10 days but not more than 60 days before the Redemption Date to each Holder of record of the Senior Notes to be redeemed. 
+
+Any redemption pursuant to this Section 2.03(a) shall be made pursuant to the provisions of Section 2.03(b) through (i) below.
+
+(b) If the Company elects to redeem the Senior Notes pursuant to the optional redemption provisions of Section 2.03(a) above, it
+shall furnish to the Trustee, at least 10 days but not more than 60 days before the Redemption Date, an Officers Certificate setting forth (1) the Redemption Date, and (2) the CUSIP and/or ISIN numbers of the Senior Notes. 
+
+(c) If fewer than all the Senior Notes are to be redeemed, the particular Senior Notes to be redeemed shall be selected not more than 60 days
+prior to the Redemption Date by the Trustee from the Outstanding Notes not previously called for redemption, pro rata, by lot or by such other method as the Trustee may deem fair and appropriate (and in accordance with DTCs applicable
+procedures, if applicable) and may provide for the selection for redemption of portions (so that any Senior Notes remaining after such redemption are equal to the minimum authorized denomination for the Senior Notes or any integral multiple thereof)
+of the principal amount of Senior Notes of a denomination larger than the minimum authorized denomination for such Senior Notes. 
+
+(d) The
+Trustee shall promptly notify the Company in writing of the Senior Notes selected for redemption and, in the case of any Senior Notes selected for partial redemption, the principal amount thereof to be redeemed. 
+
+(e) For all purposes of this Second Supplemental Indenture, unless the context otherwise requires, all provisions relating to the redemption
+of Senior Notes shall relate, in the case of any Senior Note redeemed or to be redeemed only in part, to the portion of the principal of such Senior Note which has been or is to be redeemed. 
+
+(f) Notice of redemption of Senior Notes to be redeemed, either in whole or in part, shall be given to the Holders thereof, by first-class
+mail, postage prepaid, mailed (or sent through the facilities of the Depositary, if applicable) not fewer than 10 nor more than 60 days prior to the Redemption Date, to each such Holder at such Holders last address appearing in the Security
+Register. All notices of redemption shall state: 
+
+(i) the Redemption Date; 
+
+(ii) the Redemption Price, or if not then ascertainable, the manner of calculating the Redemption Price; 
+
+11 
+
+(iii) if fewer than all Outstanding Notes are to be redeemed, the
+identification (and, in the case of partial redemption, the respective principal amounts) of the Senior Notes to be redeemed from the Holder to whom the notice is given and that on and after the Redemption Date, upon surrender of such Senior Note, a
+new Note or Notes in the aggregate principal amount equal to the unredeemed portion thereof shall be issued in accordance with Section 2.03(i); 
+
+(iv) that on the Redemption Date, the Redemption Price shall become due and payable upon each Senior Note called for
+redemption, and that interest, if any, thereon shall cease to accrue from and after said date; 
+
+(v) the place where Senior
+Notes called for redemption are to be surrendered for payment of the Redemption Price, which shall be the office or agency maintained by the Company pursuant to Section 9.02 of the Indenture; 
+
+(vi) the name and address of the Paying Agent; 
+
+(vii) that the Senior Notes called for redemption must be surrendered to the Paying Agent to collect the Redemption Price; and
+
+(viii) the CUSIP and/or ISIN number, and that no representation is made as to the correctness or accuracy of the CUSIP
+and/or ISIN number, if any, listed in such notice or printed on the Senior Notes. 
+
+Notice of redemption of Senior Notes shall be given by
+the Company or, at the Companys request, by the Trustee in the name and at the expense of the Company; provided, however, that if the Company requests the Trustee to give such notice, it shall provide an execution version of such notice to the
+Trustee at least five Business Days before such notice is required to be sent to the Holders (or such shorter period as shall be acceptable to the Trustee). 
+
+Notice of any redemption of the Senior Notes in connection with a corporate transaction that is pending (including an equity offering, an
+incurrence of Indebtedness or a change of control) may, at the Companys discretion, be given subject to one or more conditions precedent, including, but not limited to, completion of the transaction. If such redemption is so subject to
+satisfaction of one or more conditions precedent, such notice shall describe each such condition, and such notice may be rescinded in the event that any or all such conditions shall not have been satisfied or otherwise waived by the Redemption Date.
+The Company shall notify Holders of any such rescission as soon as practicable after the Company determines that it will not be able to satisfy or otherwise waive such conditions precedent. Once notice of redemption is mailed or sent, subject to the
+satisfaction of any conditions precedent provided in the notice of redemption, the Senior Notes called for redemption shall become due and payable on the Redemption Date and at the applicable Redemption Price, plus accrued and unpaid interest to the
+Redemption Date. 
+
+(g) On or prior to 10:00 a.m., New York City time, on any Redemption Date, the Company shall deposit with the Trustee or
+with a Paying Agent (or, if the Company is acting as its own Paying Agent, segregate and hold in trust as provided in Section 9.03 of the Indenture) an amount of money sufficient to pay the Redemption Price of, and accrued interest on, all the
+Senior Notes that are to be redeemed on that date. 
+
+12 
+
+(h) Notice of redemption having been given as aforesaid, subject to the satisfaction of any
+conditions precedent provided in the notice of redemption, the Senior Notes (or portions thereof) so to be redeemed shall, on the Redemption Date, become due and payable at the Redemption Price plus accrued and unpaid interest to the Redemption Date
+therein specified, and from and after such date (unless the Company shall default in the payment of the Redemption Price) such Senior Notes shall cease to bear interest. Upon surrender of such Senior Notes for redemption in accordance with the
+notice, such Senior Notes shall be paid by the Company at the Redemption Price. Any installment of interest due and payable on or prior to the Redemption Date shall be payable to the Holders of such Senior Notes registered as such on the relevant
+Record Date according to the terms and the provisions of Section 2.06 of the Indenture. If any Senior Note called for redemption shall not be so paid upon surrender thereof for redemption, the principal shall, until paid, bear interest from the
+Redemption Date at the rate prescribed therefor by the Senior Note. 
+
+(i) Any Senior Note that is to be redeemed only in part shall be
+surrendered at the office or agency maintained by the Company pursuant to Section 9.02 of the Indenture (with, if the Company or the Trustee so requires, due endorsement by, or a written instrument of transfer in form satisfactory to the
+Company and the Trustee duly executed by, the Holder thereof or the Holders attorney duly authorized in writing) and the Company shall execute and the Trustee shall authenticate and deliver to the Holder of such Senior Note without service
+charge and at the expense of the Company, a new Note or Notes, of any authorized denomination as requested by such Holder in aggregate principal amount equal to and in exchange for the unredeemed portion of the principal of such Senior Note so
+surrendered. 
+
+SECTION 2.04 Change of Control Repurchase. 
+
+(a) If a Change of Control Repurchase Event occurs, unless the Company has exercised its right to redeem the Senior Notes as set forth in
+Section 2.03, the Company shall be required to make an offer to each Holder of the Senior Notes to repurchase all or any part (in excess of $2,000 and in integral multiples of $1,000) of that Holders Senior Notes at a repurchase price in
+cash equal to 101% of the aggregate principal amount of the Senior Notes repurchased plus any accrued and unpaid interest on the Senior Notes repurchased to, but not including, the date of repurchase. 
+
+(b) Within 30 days following any Change of Control Repurchase Event or, at the option of the Company, prior to any Change of Control, but
+after the public announcement of the Change of Control, the Company shall mail (or send through the facilities of the Depositary, if applicable) a notice to each Holder, with a copy to the Trustee, describing the transaction or transactions that
+constitute or may constitute the Change of Control Repurchase Event and offering to repurchase the Senior Notes on the payment date specified in the notice, which date shall be no earlier than 10 days and no later than 60 days from the date such
+notice is mailed or sent. The notice shall, if mailed or sent prior to the date of consummation of the Change of Control, state that the offer to purchase is conditioned on a Change of Control Repurchase Event occurring on or prior to the payment
+date specified in the notice. 
+
+13 
+
+(c) The Company shall comply with the requirements of Rule
+14e-1 under the Exchange Act, and any other securities laws and regulations to the extent those laws and regulations are applicable in connection with the repurchase of the Senior Notes as a result of a Change
+of Control Repurchase Event. To the extent that the provisions of any securities laws or regulations conflict with this Section 2.04, the Company shall comply with the applicable securities laws and regulations and shall not be deemed to have
+breached its obligations under this Section 2.04 by virtue of compliance with such securities laws or regulations. 
+
+(d) On the
+repurchase date following a Change of Control Repurchase Event, the Company will, to the extent lawful: 
+
+(i) accept for
+payment all the Senior Notes or portions of the Senior Notes properly tendered pursuant to its offer; 
+
+(ii) deposit with
+the Paying Agent an amount equal to the aggregate purchase price in respect of all the Senior Notes or portions of the Senior Notes properly tendered; and 
+
+(iii) deliver or cause to be delivered to the Trustee the Senior Notes properly accepted, together with an Officers
+Certificate stating the aggregate principal amount of Senior Notes being purchased by the Company. 
+
+(e) The Paying Agent shall promptly
+send to each Holder of Senior Notes properly tendered the purchase price for the Senior Notes, and the Trustee will promptly authenticate and send (or cause to be transferred by book-entry) to each Holder a new note equal in principal amount to any
+unpurchased portion of any Senior Notes surrendered. 
+
+(f) The Company will not be required to make an offer to repurchase the Senior Notes
+upon a Change of Control Repurchase Event if a third party makes such an offer in the manner, at the times and otherwise in compliance with the requirements for an offer made by the Company and such third party purchases all Senior Notes properly
+tendered and not withdrawn under its offer. In addition, the Companys obligation to repurchase the Senior Notes upon a Change of Control Repurchase Event may be waived by the Holders of at least a majority of the outstanding Senior Notes
+affected by the waiver. 
+
+SECTION 2.05 Form and Dating. 
+
+(a) General. The Senior Notes shall be in the form of Exhibit A hereto. The Senior Notes may have notations, legends or
+endorsements required by law, stock exchange rule or usage. The Senior Notes shall be in denominations of $2,000 and integral multiples of $1,000 in excess thereof. 
+
+To the extent any provision of any Senior Note conflicts with the express provisions of this Second Supplemental Indenture, the provisions of
+this Second Supplemental Indenture shall govern and be controlling. 
+
+The Company hereby designates DTC as the initial Depositary for the
+Senior Notes. 
+
+14 
+
+(b) Global Notes. The Senior Notes shall be issued initially in the form of one or
+more notes in registered, global form without interest coupons and bearing the Global Notes Legend, which shall be deposited on behalf of the purchasers of the Senior Notes represented thereby with the Trustee, as Custodian for the Depositary and
+registered in the name of the Depositary or a nominee of the Depositary, duly executed by the Company and authenticated by the Trustee, in each case as provided in the Indenture. The aggregate principal amount of the Global Notes may from time to
+time be increased or decreased by adjustments made on the records of the Trustee and the Depositary or its nominee as hereinafter provided. 
+
+(c) Book-Entry Provisions. This Section 2.05(c) shall apply only to a Global Note deposited with or on behalf of the Depositary.
+The Company shall execute and the Trustee shall, in accordance with this Section 2.05(c) and Section 2.01(2) of the Indenture and pursuant to an order of the Company, authenticate and deliver initially one or more Global Notes that
+(a) shall be registered in the name of the Depositary for such Global Note or Global Notes or the nominee of such Depositary and (b) shall be delivered by the Trustee to such Depositary or pursuant to such Depositarys instructions or
+held by the Trustee as Custodian. 
+
+Participants shall have no rights under this Second Supplemental Indenture or the Indenture with
+respect to any Global Note held on their behalf by the Depositary or by the Trustee as Custodian or under such Global Note, and (except as may be otherwise expressly provided in this Second Supplemental Indenture or the Indenture) the Depositary may
+be treated by the Company, the Trustee and any agent of the Company or the Trustee as the absolute owner and holder of such Global Note for all purposes whatsoever. Notwithstanding the foregoing, nothing herein shall prevent the Company, the Trustee
+or any agent of the Company or the Trustee from giving effect to any written certification, proxy or other authorization furnished by the Depositary or impair, as between the Depositary and its Participants, the operation of customary practices of
+such Depositary governing the exercise of the rights of a holder of a beneficial interest in any Global Note. 
+
+(d) Definitive
+Notes. Except as provided in Section 2.01 of the Indenture, beneficial interests in Global Notes will not be entitled to receive physical delivery of certificated Senior Notes. 
+
+SECTION 2.06 Transfer and Exchange. 
+
+(a) Transfer and Exchange of Definitive Notes. When a Definitive Note is presented to the Trustee with a request to register the
+transfer of such Definitive Note or to exchange such Definitive Note for an equal principal amount of Definitive Note of other authorized denominations of the same series, the Trustee shall register the transfer or make the exchange in accordance
+with the provisions of this Second Supplemental Indenture (including applicable restrictions on transfer, if any, set forth herein or in any legend on such Definitive Note) and Section 2.04 of the Indenture, including, if applicable, any legal
+opinions, certifications and other information contemplated by such Senior Note, this Second Supplemental Indenture or the Indenture. 
+
+15 
+
+(b) Restrictions on Transfer of a Definitive Note for a Beneficial Interest in a Global
+Note. A Definitive Note may not be exchanged for a beneficial interest in a Global Note except upon satisfaction of the requirements set forth below. Upon receipt by the Trustee of a Definitive Note, duly endorsed or accompanied by a written
+instrument of transfer in form reasonably satisfactory to the Company and the Trustee, together with: 
+
+(i) written
+instructions directing the Trustee to make, or to direct the Custodian to make, an adjustment on its books and records with respect to such Global Note to reflect an increase in the aggregate principal amount of the Senior Notes represented by the
+Global Note, such instructions to contain information regarding the Depositary account to be credited with such increase, then the Trustee shall cancel such Definitive Note and cause, or direct the Custodian to cause, in accordance with the standing
+instructions and procedures existing between the Depositary and the Custodian, the aggregate principal amount of Senior Notes represented by the Global Note to be increased by the aggregate principal amount of the Definitive Note to be exchanged and
+shall credit or cause to be credited to the account of the Person specified in such instructions a beneficial interest in the Global Note equal to the principal amount of the Definitive Note so canceled. If no Global Notes are then outstanding and
+the Global Note has not been previously exchanged for certificated securities pursuant to Section 2.04(4) of the Indenture, the Company shall issue and the Trustee shall authenticate, upon receipt of a written request from the Company, a new
+Global Note in the appropriate principal amount. 
+
+(c) Transfer and Exchange of Global Notes and Beneficial Interests Therein. 
+
+(i) The transfer and exchange of Global Notes or beneficial interests therein shall be effected through the Depositary, in
+accordance with the provisions of this Second Supplemental Indenture (including applicable restrictions on transfer set forth herein, if any), Section 2.04 of the Indenture and the procedures of the Depositary therefor. 
+
+(ii) If the proposed transfer is a transfer of a beneficial interest in one Global Note to a beneficial interest in another
+Global Note, the Registrar shall reflect on its books and records the date and an increase in the principal amount of the Global Note to which such interest is being transferred in an amount equal to the principal amount of the interest to be so
+transferred, and the Registrar shall reflect on its books and records the date and a corresponding decrease in the principal amount of the Global Note from which such interest is being transferred. 
+
+(d) Obligations with Respect to Transfers and Exchanges of Notes. 
+
+(i) To permit registrations of transfers and exchanges, the Company shall execute and the Trustee shall authenticate,
+Definitive Notes and Global Notes at the Trustees request. 
+
+(ii) No service charge shall be made for any registration
+of transfer or exchange, but the Company may require payment of a sum sufficient to cover any transfer tax or other governmental charge payable in connection therewith (other than any such transfer tax or other governmental charge payable upon
+exchange or transfer pursuant to Section 2.04 hereof). 
+
+16 
+
+(e) All Senior Notes issued upon any transfer or exchange pursuant to the terms of this
+Second Supplemental Indenture and the Indenture shall evidence the same debt and shall be entitled to the same benefits under this Second Supplemental Indenture and the Indenture as the Senior Notes surrendered upon such transfer or exchange. 
+
+(f) No Obligation of the Trustee. 
+
+(i) The Trustee shall have no responsibility or obligation to any beneficial owner of a Global Note, a member of, or a
+Participant in the Depositary or any other Person with respect to the accuracy of the records of the Depositary or its nominee or of any Participant or member thereof, with respect to any ownership interest in the Senior Notes or with respect to the
+delivery to any Participant, member, beneficial owner or other Person (other than the Depositary) of any notice (including any notice of redemption or repurchase) or the payment of any amount, under or with respect to such Senior Notes. All notices
+and communications to be given to the Holders and all payments to be made to Holders under the Senior Notes shall be given or made only to the registered Holders (which shall be the Depositary or its nominee in the case of a Global Note). The rights
+of beneficial owners in any Global Note shall be exercised only through the Depositary subject to the applicable rules and procedures of the Depositary. The Trustee may rely and shall be fully protected in relying upon information furnished by the
+Depositary with respect to its members, Participants and any beneficial owners. 
+
+(ii) The Trustee shall have no obligation
+or duty to monitor, determine or inquire as to compliance with any restrictions on transfer imposed under this Second Supplemental Indenture or under applicable law with respect to any transfer of any interest in any Senior Note (including any
+transfers between or among Participants, members or beneficial owners in any Global Note) other than to require delivery of such certificates and other documentation or evidence as may be required by, and to do so if and when expressly required by,
+the terms of this Second Supplemental Indenture, and to examine the same to determine substantial compliance as to form with the express requirements hereof. 
+
+ARTICLE III 
+
+Miscellaneous
+Provisions 
+
+SECTION 3.01 Ratification. The Indenture, as supplemented and amended by this Second Supplemental Indenture, is in
+all respects hereby adopted, ratified and confirmed. 
+
+SECTION 3.02 Counterparts. This Second Supplemental Indenture may be executed
+in any number of counterparts, each of which when so executed shall be deemed an original, and all such counterparts shall together constitute but one and the same instrument. 
+
+SECTION 3.03 Concerning the Trustee. In carrying out the Trustees responsibilities under this Second Supplemental Indenture, the
+Trustee shall have all of the rights, protections and immunities which it possesses under the Indenture. The recitals contained herein and in the Senior Notes, except the Trustees certificate of authentication, shall be taken as the statements
+
+17 
+
+of the Company, and the Trustee assumes no responsibility for their correctness. The Trustee makes no representations as to the validity or sufficiency of this Second Supplemental Indenture or of
+the Senior Notes. The Trustee shall not be accountable for the use or application by the Company of the Senior Notes or the proceeds thereof. 
+
+SECTION 3.04 Governing Law. THIS SECOND SUPPLEMENTAL INDENTURE AND EACH NOTE SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH,
+THE LAWS OF THE STATE OF NEW YORK. 
+
+[signature page follows] 
+
+18 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Second Supplemental Indenture to be
+duly executed as of the day and year first above written. 
+
+KEYSIGHT TECHNOLOGIES, INC.
+
+By: /s/ Christopher Elston
+
+Name: Christopher Elston
+
+Title: Treasurer and Vice President, Corporate Development
+
+U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, as Trustee
+
+By: /s/ David Jason
+
+Name: David Jason
+
+Title: Vice President
+
+[Signature Page to
+Second Supplemental Indenture] 
+
+Exhibit A 
+
+KEYSIGHT TECHNOLOGIES, INC. 
+
+[Form of] 5.350% Note due 2030 
+
+No.
+[] 
+
+CUSIP No. 49338L AH6 
+
+[$ ] 
+
+ISIN No. US49338LAH69 
+
+THIS IS A GLOBAL
+NOTE WITHIN THE MEANING OF THE INDENTURE REFERRED TO HEREINAFTER. 
+
+UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF
+THE DEPOSITORY TRUST COMPANY, A NEW YORK CORPORATION (DTC), NEW YORK, NEW YORK, TO THE COMPANY OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR
+IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR
+VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, CEDE & CO., HAS AN INTEREST HEREIN. 
+
+TRANSFERS OF THIS GLOBAL NOTE SHALL BE LIMITED TO TRANSFERS IN WHOLE, BUT NOT IN PART, TO NOMINEES OF DTC OR TO A SUCCESSOR THEREOF OR SUCH
+SUCCESSORS NOMINEE AND TRANSFERS OF PORTIONS OF THIS GLOBAL NOTE SHALL BE LIMITED TO TRANSFERS MADE IN ACCORDANCE WITH THE RESTRICTIONS SET FORTH IN THE INDENTURE REFERRED TO ON THE REVERSE HEREOF. 
+
+A-1 
+
+KEYSIGHT TECHNOLOGIES, INC. 
+
+KEYSIGHT TECHNOLOGIES, INC., a Delaware corporation (the Company), for value received, hereby promises to pay to
+Cede & Co., as nominee for The Depository Trust Company, or registered assigns, the principal sum listed on the Schedule of Exchanges attached hereto on July 30,2030. 
+
+Interest Payment Dates: January 30and July 30 
+
+Record Dates: January 15 and July 15 
+
+Additional provisions of this Note are set forth on the other side of this Note. 
+
+A-2 
+
+IN WITNESS WHEREOF, the Company has caused this instrument to be duly executed. 
+
+KEYSIGHT TECHNOLOGIES, INC.
+
+By: 
+
+Name:
+
+Title:
+
+Dated: , 20 
+
+A-3 
+
+TRUSTEES CERTIFICATE OF AUTHENTICATION 
+
+This is one of the Notes referred to in the within-mentioned Indenture. 
+
+U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, as Trustee
+
+By: 
+
+Name: Authorized Signatory
+
+Title:
+
+Dated: , 20 
+
+A-4 
+
+[FORM OF REVERSE OF SECURITY] 
+
+1. Interest
+
+Keysight Technologies Inc.,
+a Delaware corporation (such corporation, and its successors and assigns under the Indenture hereinafter referred to, being herein called the Company), promises to pay interest on the principal amount of this Note at the rate per
+annum shown above. The Company shall pay interest semiannually on January 30 and July 30of each year, beginning on January 30, 2026. Interest on this Note shall accrue from the most recent date to which interest has been paid
+or duly provided for or, if no interest has been paid or duly provided for, from April 17, 2025, until the principal hereof is due. Interest shall be computed on the basis of a 360-day year of twelve 30-day months. 
+
+If any interest or other payment date of a note falls on a day that is not a Business
+Day, the required payment of principal, premium, if any, or interest will be due on the next succeeding Business Day as if made on the date that the payment was due, and no interest will accrue on that payment for the period from and after that
+interest or other payment date, as the case may be, to the date of that payment on the next succeeding Business Day. 
+
+2. Method of Payment
+
+The Company shall pay interest on this Note (except defaulted interest) to the Persons who are registered Holders at the close of business on
+the Record Date. Holders must surrender this Note to a Paying Agent to collect principal payments. Payments in respect of this Note represented by a Global Note (including principal, premium, if any, and interest) shall be made in immediately
+available funds to the Depositary or its nominees, as the case may be, as the Holder of such Global Note. The Company will make all payments in respect of any certificated Note (including principal, premium, if any, and interest) at the office of
+the Paying Agent, except that, at the option of the Company, payment of interest may be made by mailing a check to the registered address of each Holder thereof or, upon request of a Holder of at least $1,000,000 aggregate principal amount of Notes,
+by wire transfer to an account located in the United States by the payee. 
+
+3. Paying Agent and Registrar
+
+Initially, U.S. Bank Trust Company, National Association, a United States banking association (the Trustee), will act as
+Paying Agent and Registrar. The Company may act as Paying Agent. 
+
+4. Indenture
+
+The Company issued this Note under an Indenture dated as of October 9, 2024 (the Base Indenture), between the Company and
+the Trustee, as amended and supplemented by the Second Supplemental Indenture, dated as of April 17, 2025 (the Second Supplemental Indenture and, together with the Base Indenture, the Indenture), between
+the Company and the Trustee. Capitalized terms used herein are used as defined in the Indenture unless otherwise indicated. The terms of this Note include those stated in the Indenture, and those made part of the Indenture by reference to the Trust
+Indenture Act of 1939 (15 U.S.C. 77aaa 77bbbb) as in 
+
+A-5 
+
+effect on the date of the Indenture (the TIA). Terms defined in the Indenture and not defined herein have the meanings ascribed thereto in the Indenture. This Note is subject
+to all terms and provisions of the Indenture, and Holders (as defined in the Indenture) are referred to the Indenture and the TIA for a statement of such terms and provisions. In the event of a conflict between any provision of this Note and the
+Indenture, the Indenture shall govern such provision. 
+
+This Note is a senior unsecured obligation of the Company of which an unlimited
+aggregate principal amount may be at any one time Outstanding. The Indenture imposes certain limitations on the ability of the Company and its Subsidiaries to enter into certain transactions. 
+
+5. Redemption and Repurchase
+
+This Note
+is subject to optional redemption, and may be the subject of an offer to purchase in the event of a Change of Control Repurchase Event, as further described in the Indenture. 
+
+6. Sinking Fund
+
+This Note is not subject
+to any sinking fund. 
+
+7. Denominations; Transfer; Exchange
+
+This Note may be issued in registered form in denominations of $2,000 and integral multiples of $1,000 in excess thereof. A Holder may transfer
+or exchange this Note in accordance with the Indenture. Upon any transfer or exchange, the Company and the Trustee may require a Holder, among other things, to furnish appropriate endorsements or transfer documents and to pay any taxes required by
+law or permitted by the Indenture. The Company need not register the transfer of or exchange this Note if selected for redemption (except, in the event it will be redeemed in part, the portion not to be redeemed), or to transfer or exchange this
+Note for a period of 15 days prior to a selection of Notes to be redeemed. 
+
+8. Persons Deemed Owners
+
+With certain exceptions as may be expressly set forth in the Indenture, the registered Holder of this Note may be treated as the owner of it
+for all purposes. 
+
+9. Unclaimed Money
+
+If money for the payment of principal or interest, if any, remains unclaimed for two years, the Trustee shall pay the money back to the Company
+at its request. After any such payment, Holders entitled to the money must look to the Company for payment as unsecured general creditors and the Trustee and the Paying Agent shall have no further liability with respect to such monies. 
+
+A-6 
+
+10. Discharge and Defeasance
+
+Subject to certain conditions, the Company at any time may terminate some of or all its obligations under this Note and the Indenture if the
+Company deposits with the Trustee U.S. dollars or non-callable U.S. Government Obligations for the payment of principal of, premium, if any, and interest on, this Note to redemption or maturity, as the case
+may be. 
+
+11. Amendment, Waiver
+
+Subject to certain exceptions set forth in the Indenture, (i) the Indenture may be amended under certain circumstances with the written
+consent of the Holders of at least a majority in aggregate principal amount of the Outstanding Notes and (ii) certain defaults may be waived with the written consent of the Holders of at least a majority in principal amount of the Outstanding
+Notes. Subject to certain exceptions set forth in the Indenture, without the consent of the Holders of any Notes, the Company and the Trustee may amend the Indenture. 
+
+12. Defaults and Remedies
+
+The Events of
+Default relating to the Notes are defined in the Indenture. Upon the occurrence of an Event of Default, the rights and obligations of the Company, the Trustee and the Holders shall be as set forth in the applicable provisions of the Indenture. 
+
+13. Trustee Dealings with the Company
+
+Subject to certain limitations imposed by the TIA, the Trustee under the Indenture, in its individual or any other capacity, may become the
+owner or pledgee of this Note and may otherwise deal with the Company with the same rights it would have if it were not Trustee. 
+
+14.
+Authentication
+
+This Note shall not be valid until an authorized signatory of the Trustee (or an authenticating agent) manually
+signs the certificate of authentication on the other side of this Note. 
+
+15. Governing Law
+
+THIS NOTE SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK. 
+
+16. CUSIP and ISIN Numbers 
+
+The Company
+has caused CUSIP and ISIN numbers to be printed on this Note and has directed the Trustee to use CUSIP and ISIN numbers in notices of redemption as a convenience to Holders. No representation is made as to the accuracy of such numbers either as
+printed on this Note or as contained in any notice of redemption and reliance may be placed only on the other identification numbers placed thereon. 
+
+The Company will furnish to any Holder of this Note upon written request and without charge to the Holder a copy of the Indenture. 
+
+A-7 
+
+[TO BE ATTACHED TO GLOBAL NOTES] 
+
+SCHEDULE OF EXCHANGES 
+
+The
+initial principal amount of this Global Note is $[]. The following exchanges of a part of this Global Note have been made: 
+
+Date of
+
+Exchange 
+
+Amount of
+
+decrease in
+
+Principal
+
+Amount
+
+of this Global
+
+Note 
+
+Amount of
+
+increase
+
+in Principal
+
+Amount of this
+
+Global
+
+Note 
+
+Principal
+
+Amount of this
+
+Global Note
+
+following such
+
+decrease (or
+
+increase) 
+
+Signature of
+
+authorized
+
+signatory of
+
+Trustee or Note
+
+Custodian
+
+A-8 
+
+ASSIGNMENT FORM 
+
+To assign this Note, fill in the form below: 
+
+I or we assign and transfer this Note to 
+
+(Print or type assignees name, address and zip code) 
+
+(Insert assignees soc. sec. or tax I.D. No.) 
+
+and irrevocably appoint as agent to transfer this Note on the books of the Company. The agent may substitute another to act for him. 
+
+Date: 
+
+Your Signature*:
+
+By: 
+
+Name: 
+
+Title: 
+
+Sign exactly as your name appears on the other side of this Note. 
+
+* Signature 
+
+Guaranteed:
+
+* 
+
+NOTICE: The signature to this assignment must correspond with the name as it appears upon the face of the
+within Note in every particular, without alteration, enlargement or any change whatever. Such signature must be guaranteed by an eligible guarantor institution meeting the requirements of the Trustee, which requirements include
+membership or participation in Security Transfer Agents Medallion Program (STAMP) or such other signature guarantee program as may be determined by the Trustee in addition to, or in substitution for, STAMP, all in
+accordance with the Securities Exchange Act of 1934, as amended. 
+
+A-9
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5.1
+<SEQUENCE>3
+<FILENAME>d890455dex51.htm
+<DESCRIPTION>EX-5.1
+<TEXT>
+EX-5.1
+
+Exhibit 5.1 
+
+Simpson Thacher & Bartlett LLP
+
+2475 HANOVERSTREET
+
+PALOALTO, CA 94304 
+
+TELEPHONE:
++1-650-251-5000
+
+FACSIMILE:
++1-650-251-5002
+
+Direct Dial Number 
+
+E-mail Address
+
+April 17, 2025 
+
+Keysight Technologies, Inc.
+
+1400 Fountaingrove Parkway 
+
+Santa Rosa, California 95403
+
+Ladies and Gentlemen: 
+
+We have acted as
+counsel to Keysight Technologies, Inc., a Delaware corporation (the Company), in connection with the Registration Statement on Form S-3 (the Registration Statement), including the
+prospectus constituting a part thereof dated October 1, 2024 and the prospectus supplement dated April 10, 2025 to such prospectus (together, the Prospectus) filed by the Company with the Securities and Exchange Commission (the
+Commission) under the Securities Act of 1933, as amended, relating to the issuance by the Company of $750,000,000 aggregate principal amount of 5.350% Notes due 2030 (the Notes). 
+
+We have examined the Registration Statement, the Underwriting Agreement, dated April 10, 2025 (the Underwriting Agreement),
+between the Company and the underwriters named therein pursuant to which such underwriters have agreed to purchase the Notes, the Indenture, dated as of October 9, 2024 (the Base Indenture), between the Company and U.S. Bank Trust
+Company, National Association, as trustee (the Trustee), as supplemented by the Second Supplemental Indenture thereto, dated as of April 17, 2025 (the Second Supplemental Indenture and, together with the Base Indenture,
+the Indenture), the Officers Certificate, dated April 17, 2025, delivered pursuant to the Indenture establishing the terms of the Notes, and duplicates of the global notes representing the Notes. In addition, we have examined,
+and have relied as to matters of fact upon, originals, or duplicates or certified or conformed copies, of such records, agreements, documents and other instruments and such certificates or comparable documents of public officials and of officers and
+representatives of the Company and have made such other investigations as we have deemed relevant and necessary in connection with the opinion hereinafter set forth. 
+
+NEW YORK 
+BOSTON BRUSSELS BEIJING HONG KONG HOUSTON LONDON LOS ANGELES SO PAULO TOKYO WASHINGTON, D.C. 
+
+Keysight Technologies, Inc. -2- April 17, 2025
+
+In rendering the opinion set forth below, we have assumed the genuineness of all signatures,
+the legal capacity of natural persons, the authenticity of all documents submitted to us as originals, the conformity to original documents of all documents submitted to us as duplicates or certified or conformed copies and the authenticity of the
+originals of such latter documents. We also have assumed that the Indenture is the valid and legally binding obligation of the Trustee. 
+
+In rendering the opinion set forth below, we have assumed further that the execution, issuance, delivery and performance by the Company of the
+Underwriting Agreement, the Indenture and the Notes, as applicable, do not constitute a breach or default under any agreement or instrument which is binding upon the Company. 
+
+Based upon the foregoing, and subject to the qualifications, assumptions and limitations stated herein, we are of the opinion that, assuming
+due authentication thereof by the Trustee and upon payment and delivery in accordance with the provisions of the Underwriting Agreement, the Notes will constitute valid and legally binding obligations of the Company enforceable against the Company
+in accordance with their terms. 
+
+Our opinion set forth above is subject to (i) the effects of bankruptcy, insolvency, fraudulent
+conveyance, reorganization, moratorium and other similar laws relating to or affecting creditors rights generally, (ii) general equitable principles (whether considered in a proceeding in equity or at law) and (iii) an implied
+covenant of good faith and fair dealing. In addition, we express no opinion as to the validity, legally binding effect or enforceability of Section 1.10 of the Base Indenture relating to the severability of provisions of the Base Indenture.
+
+We do not express any opinion herein concerning any law other than the law of the State of New York and the Delaware General Corporation
+Law. 
+
+Keysight Technologies, Inc. -3- April 17, 2025
+
+We hereby consent to the filing of this opinion letter as an exhibit to a Current Report on
+Form 8-K of the Company filed with the Commission and the incorporation by reference of this opinion into the Registration Statement and the Prospectus and to the use of our name under the caption Legal
+Matters in the Prospectus. 
+
+Very truly yours, 
+
+/s/ Simpson Thacher & Bartlett LLP 
+
+SIMPSON THACHER & BARTLETT LLP
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>4
+<FILENAME>keys-20250417.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA
+<TEXT>
+100000 - Document - Document and Entity Information 
+link:calculationLink 
+link:presentationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>keys-20250417_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE
+<TEXT>
+Cover [Abstract] 
+Cover [Abstract] 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Document Type 
+Document Type 
+
+Document Period End Date 
+Document Period End Date 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Entity Incorporation State Country Code 
+Entity Incorporation State Country Code 
+
+Entity File Number 
+Entity File Number 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+City Area Code 
+City Area Code 
+
+Local Phone Number 
+Local Phone Number 
+
+Written Communications 
+Written Communications 
+
+Soliciting Material 
+Soliciting Material 
+
+Pre Commencement Tender Offer 
+Pre Commencement Tender Offer 
+
+Pre Commencement Issuer Tender Offer 
+Pre Commencement Issuer Tender Offer 
+
+Security 12b Title 
+Security 12b Title 
+
+Trading Symbol 
+Trading Symbol 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>keys-20250417_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Document and Entity Information
+
+Apr. 17, 2025
+
+Cover [Abstract] 
+
+Amendment Flag false
+
+Entity Central Index Key 0001601046
+
+Document Type 8-K
+
+Document Period End Date Apr. 17, 2025
+
+Entity Registrant Name KEYSIGHT TECHNOLOGIES, INC.
+
+Entity Incorporation State Country Code DE
+
+Entity File Number 001-36334
+
+Entity Tax Identification Number 46-4254555
+
+Entity Address, Address Line One 1400 Fountaingrove Parkway
+
+Entity Address, City or Town Santa Rosa
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 95403
+
+City Area Code (800)
+
+Local Phone Number 829-4444
+
+Written Communications false
+
+Soliciting Material false
+
+Pre Commencement Tender Offer false
+
+Pre Commencement Issuer Tender Offer false
+
+Security 12b Title Common Stock, par value $0.01 per share
+
+Trading Symbol KEYS
+
+Security Exchange Name NYSE
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+100000 - Document - Document and Entity Information 
+Sheet 
+http://www.keysight.com//20250417/taxonomy/role/DocumentDocumentAndEntityInformation 
+Document and Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+d890455d8k.htm 
+keys-20250417.xsd 
+keys-20250417_lab.xml 
+keys-20250417_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001193125-25-084343-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>d890455d8k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001601046 
+
+2025-04-17 
+2025-04-17 
+
+false 
+0001601046 
+8-K 
+2025-04-17 
+KEYSIGHT TECHNOLOGIES, INC. 
+DE 
+001-36334 
+46-4254555 
+1400 Fountaingrove Parkway 
+Santa Rosa 
+CA 
+95403 
+(800) 
+829-4444 
+false 
+false 
+false 
+false 
+Common Stock, par value $0.01 per share 
+KEYS 
+NYSE 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

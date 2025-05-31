@@ -1,0 +1,2145 @@
+<SEC-DOCUMENT>0001437749-25-011313.txt : 20250408
+<SEC-HEADER>0001437749-25-011313.hdr.sgml : 20250408
+<ACCEPTANCE-DATETIME>20250408085108
+ACCESSION NUMBER:		0001437749-25-011313
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		16
+CONFORMED PERIOD OF REPORT:	20250407
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250408
+DATE AS OF CHANGE:		20250408
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			iShares Bitcoin Trust ETF
+		CENTRAL INDEX KEY:			0001980994
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [6221]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41914
+		FILM NUMBER:		25820401
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O ISHARES DELAWARE TRUST SPONSOR, LLC
+		STREET 2:		400 HOWARD STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+		BUSINESS PHONE:		415-670-6416
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ISHARES DELAWARE TRUST SPONSOR, LLC
+		STREET 2:		400 HOWARD STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	iShares Bitcoin Trust
+		DATE OF NAME CHANGE:	20230609
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>bit20250404_8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?bit20250404_8k.htm
+
+false000198099400019809942025-04-072025-04-07
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 8-K
+
+CURRENT REPORT 
+
+Pursuant to Section13 or 15(d) of the 
+
+Securities Exchange Act of 1934 
+
+Date of Report (Date of Earliest Event Reported): April 7, 2025
+
+iShares Bitcoin Trust ETF
+
+(Exact name of registrant as specified in its charter) 
+
+New York 
+
+001-41914 
+
+93-6461129
+
+(State or other jurisdiction
+
+of incorporation) 
+
+(CommissionFile Number) 
+
+(I.R.S. Employer
+
+Identification No.)
+
+c/o iShares Delaware Trust Sponsor LLC
+
+400 Howard Street
+
+San Francisco, California94105 
+
+(Address of principal executive offices) 
+
+Registrants telephone number, including area code: (415)670-2000
+
+Not Applicable 
+
+Former name or former address, if changed since last report
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class 
+
+Trading Symbol(s) 
+
+Name of each exchange on which
+
+registered
+
+Shares 
+
+IBIT 
+
+The Nasdaq Stock Market LLC 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+On April 7, 2025, BlackRock Fund Advisors, as administrative trustee of iShares Bitcoin Trust ETF (the "Trust") entered into a custodial services agreement (the "Anchorage Custodian Agreement") with Anchorage Digital Bank N.A. ("Anchorage" or the "Additional Bitcoin Custodian"), a national trust bank chartered by the Office of the Comptroller of the Currency. Pursuant to the Anchorage Custodian Agreement, Anchorage will establish and maintain one or more segregated custody accounts, controlled and secured by Anchorage, on its books which will have the ability to support the receipt, safekeeping, and maintenance of the Trusts bitcoin holdings.
+
+The Trusts existing custody arrangement with Coinbase Inc., Coinbase Custody Trust Company and other Coinbase entities (collectively, "Coinbase") will remain in force and is unaffected by the Trust's entry into the Anchorage Custodian Agreement. The Trust is not required to hold any particular amount of assets at either Coinbase or the Additional Bitcoin Custodian, and the Sponsor shall, in its sole discretion, determine the amounts held at either custodian as permitted by the Trust Agreement. At the current time, the Sponsor has no plans to move any of the Trusts bitcoin to the Additional Bitcoin Custodian. The addition of the Additional Bitcoin Custodian reflects the Sponsors ongoing risk management approach as part of the Trusts growing size and the Sponsors expanding presence in the digital asset space.
+
+Under the Anchorage Custodian Agreement, the Additional Bitcoin Custodian is required to keep all of the private keys associated with the Trusts bitcoin held at the Additional Bitcoin Custodian in cold storage. Cold storage is a safeguarding method by which the private key(s) corresponding to bitcoin is (are) generated and stored in an offline manner. Private keys are generated in offline computers or devices that are not connected to the internet so that they are more resistant to being hacked. By contrast, in hot storage, the private keys are held online, where they are more accessible, leading to more efficient transfers, though they are potentially more vulnerable to being hacked.
+
+In the event of a fork, the Anchorage Custodian Agreement provides that the Additional Bitcoin Custodian may temporarily suspend services, and may, in their sole discretion, determine whether or not to support (or cease supporting) either branch of the forked protocol entirely, provided that the Additional Bitcoin Custodian shall use commercially reasonable efforts to avoid ceasing to support both branches of such forked protocol. The Anchorage Custodian Agreement requires the Trust to indemnify Anchorage and its respective officers, directors, agents, employees and representatives against certain losses arising or related to the Trusts material breach of the Anchorage Custodian Agreement, violation of applicable law, gross negligence, fraud, or wilful misconduct. The Anchorage Custodian Agreement also requires Anchorage to maintain certain insurance policies and coverage.
+
+The foregoing description of the Anchorage Custodian Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Anchorage Custodian Agreement, which has been filed with this Current Report on Form 8-K as Exhibit 10.1.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) 
+
+Exhibits.
+
+Exhibit No. 
+
+Description
+
+10.1 
+
+Master Custody Service Agreement dated as of April 7, 2025, by and between Anchorage Digital Bank N.A. and BlackRock Fund Advisors, in its capacity as agent to iShares Bitcoin Trust ETF
+
+104 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: April 8, 2025
+
+iSharesBitcoin Trust ETF*
+
+By: 
+
+iShares Delaware Trust Sponsor LLC
+
+By: 
+
+/s/ Bryan Bowers
+
+Name: 
+
+Bryan Bowers
+
+Title: 
+
+Director and Chief Financial Officer
+
+* 
+
+The registrant is a trust. The individual specified above is signing in her capacity as an officer and/or authorized signatory of iShares Delaware Trust Sponsor LLC, the sponsor of the Trust.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>ex_798852.htm
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+ex_798852.htm
+
+Exhibit 10.1
+
+ORDER FORM
+
+Anchorage Contact 
+
+Client Contact
+
+Name: Matthew Zablotny 
+
+Name: Robert McLardy
+
+Email: matthew.zablotny@anchorlabs.com 
+
+Email: robert.mclardy@blackrock.com
+
+This MASTER CUSTODY SERVICE AGREEMENT (Agreement) is made and entered into as of the Effective Date provided herein, by and between Anchorage Digital Bank N.A. (Anchorage), and each Client as provided herein (each a Client) (Anchorage and Client, each a Party and collectively, the Parties). Each Client, acting through BlackRock Fund Advisers (the Agent), severally and not jointly enters into this Agreement with Anchorage. This Agreement shall constitute separate agreements, each between a single Client and Anchorage, as if such Client had executed a separate Agreement naming only itself as the Client, and no Client shall have any liability for the obligations of any other Client. Any reference to "Agreement" shall be construed to refer to the respective Agreement between a Client and Anchorage.
+
+The Agreement consists of the terms in this Order Form and the immediately following Standard Terms and Conditions, which together, shall form the Agreement.
+
+1.Effective Date: 
+
+April 7, 2025
+
+2.Initial Term: 
+
+Three (3) year
+
+3.Renewal Term: 
+
+One (1) year
+
+4.Client(s). Each Client listed herein is subject to the Agreement as if this Agreement were between such individual Client and Anchorage, except specifically the Fees will be calculated on an aggregated basis, including the sum of all Clients Assets Under Custody. For the avoidance of doubt, notwithstanding anything herein to the contrary, each Client shall only be responsible for Fees and liabilities attributable to its assets held in its own Account pursuant to such Client's Agreement with Anchorage, and under no circumstances will any Client be responsible for the Fees or liabilities of any other Client or person.
+
+iShares Bitcoin Trust ETF, a Delaware Statutory Trust
+
+iShares Ethereum Trust ETF, a Delaware Statutory Trust
+
+Page 1 of 5
+
+Confidential & Proprietary
+
+5. 
+
+Fees.
+
+[Redacted]
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+Page 2 of 5
+
+Confidential & Proprietary
+
+6. 
+
+Address for Notices:
+
+To Client(s): 
+
+Invoice Email: fundadmininvoices@blackrock.com
+
+Notice Email: groupcryptoopsleadershipteam@blackrock.com
+
+Attention: 
+
+Digital Assets atBlackRock, Inc.
+
+Page 3 of 5
+
+Confidential & Proprietary
+
+To Anchorage: 
+
+legal@anchorage.com AND
+
+custodyexecutive@anchorage.com
+
+Anchorage Digital Bank N.A.
+
+101 S. Reid Street, Suite 329
+
+Sioux Falls, South Dakota 57103
+
+IN CONSIDERATION AND WITNESS WHEREOF, Anchorage and Client, by their duly authorized representatives, hereby execute this Agreement as of the Effective Date.
+
+ANCHORAGE DIGITAL BANK N.A. 
+
+ON BEHALF OF EACH CLIENT SET FORTH HERETO
+
+By: /s/ Nathan McCauley 
+
+By: /s/ Shannon Ghia
+
+Name: Nathan McCauley 
+
+Name: Shannon Ghia
+
+Title: Chief Executive Officer 
+
+Title: Managing Director
+
+Company: BlackRock Fund Advisors
+
+Page 4 of 5
+
+Confidential & Proprietary
+
+AFFILIATED BUSINESS DISCLOSURE
+
+AND CONFLICT OF INTEREST WAIVER
+
+Anchorage Digital Bank N.A. (Anchorage Digital Bank) is affiliated with Anchor Labs, Inc., Anchorage Hold LLC, Anchorage Digital Singapore Pte. Ltd., and other affiliates (each an Anchorage Affiliate), through common ownership and management. In particular, Anchor Labs, Inc. provides certain administrative, technology, marketing, and other support services for custodial accounts on behalf of Anchorage Digital Bank. Because Anchorage Digital Bank and Anchorage Affiliates are under common ownership and management, the owners of Anchor Labs, Inc. will receive an indirect benefit from any fees you pay to Anchorage Digital Bank. In addition, Anchorage Digital Bank and Anchorage Affiliates may each provide services to its own clients that are also participating in any additional optional services supported by both Anchorage Digital Bank and Anchorage Affiliates. Anchorage Digital Bank and Anchorage Affiliates may refer clients to each other, and cooperate with each other, for the performance of these shared services. If Anchorage Digital Bank offers additional optional services to clients to participate in a network of services offered by Anchorage Affiliates, and you choose to participate in such services, you hereby acknowledge and consent to the sharing of Client Data (as defined in this Agreement) between Anchorage Digital Bank and Anchorage Affiliates solely in order to provide such services to you. Any sharing of Client Data shall be subject to the Data Processing Addendum (as defined in this Agreement) agreed between the applicable parties, and all applicable Laws. Your use of services of Anchorage Digital Bank may result in benefits from such referral to the other companies by virtue of the companies common ownership and management. For the avoidance of doubt, all relationships between Anchorage Digital Bank and Anchorage Affiliates, and all provision of Services to each Client, are in compliance with all applicable laws and regulations and industry best practices, including, without limitation, those concerning conflicts of interest, and this Agreement.
+
+ACKNOWLEDGEMENT
+
+I, duly authorized and on behalf of each Client as set forth in the Order Form, have read this disclosure form, and I acknowledge and understand that Anchorage Digital Bank and Anchorage Affiliates are under common ownership and control. I further acknowledge and understand that by retaining Anchorage Digital Bank, I am providing an indirect financial benefit to the owners of Anchorage Affiliates. Understanding the common ownership and control of the companies, I agree to utilize the services of Anchorage Digital Bank of my own free will. I also understand and agree that Anchorage Digital Bank may share Client Data with any Anchorage Affiliate solely for the purpose of facilitating additional optional services to participate in a network of services offered by Anchorage Digital Bank, and Anchorage Affiliates, that Client has agreed to receive. I acknowledge and understand that any referrals for services among Anchorage Digital Bank and Anchorage Affiliates may result in the owners of the referring company receiving an indirect financial benefit from the services provided.
+
+[Signature page to follow] 
+
+Confidential & Proprietary
+
+ON BEHALF OF EACH CLIENT SET FORTH HERETO
+
+By:/s/ Shannon Ghia
+
+Name: Shannon Ghia
+
+Title: Managing Director
+
+Company: BlackRock Fund Advisors
+
+Confidential & Proprietary
+
+ANCHORAGE DIGITAL BANK
+
+STANDARD TERMS AND CONDITIONS
+
+Capitalized terms not defined in the Order Form, body of these Terms and Conditions, or supporting Schedules are defined in Schedule A (Definitions).
+
+1. 
+
+Anchorage Appointment and Provision of the Services. 
+
+1.1. 
+
+Appointment. Client appoints Anchorage to provide the Services, including acting as custodian of Client Digital Assets pursuant to this Agreement, and Anchorage hereby accepts such appointment. Anchorage is a qualified custodian as defined under Investment Advisers Act of 1940 ("Advisers Act").
+
+1.2. 
+
+Provision of the Services.
+
+(a) 
+
+Subject to (i) Clients successful completion of the account acceptance process as provided in Section 2.1, and (ii) the terms of this Agreement, during the Term, Anchorage will provide the Services to Client.
+
+(b) 
+
+Anchorage will reasonably determine the requirements for any Direction, including Authenticated Instructions, and whether such requirements have been satisfied as to any Direction, at all times subject to this Agreement. Anchorage shall not act on a direction or instruction which is not an Authenticated Instruction. Subject to the terms of, and provided Anchorage complies with its obligations under, this Agreement, Anchorage is entitled to rely upon a Direction in all respects. Client and Anchorage agree and acknowledge that (i) Anchorages acceptance of Directions related to Clients deposit and withdrawal of assets is based on the parameters of Authenticated Instructions and in accordance with Anchorages Services requirements under this Agreement; (ii) Anchorage has no duty to inquire into or investigate the legality, validity, or accuracy of any information, data, or instructions related to a Direction that it reasonably believes is genuine following authentication, subject to, and provided Anchorage complies with its obligations under, this Agreement; and (iii) Anchorage shall act in a commercially reasonable manner, and in conformance with the following: (a) Directions shall continue in full force and effect until executed, cancelled or superseded; (b) if any Directions are ambiguous or if in in Anchorage's reasonable opinion any Directions are likely to be inaccurate, Anchorage shall notify Client and may refuse to execute such Directions until any such ambiguity has been resolved to Anchorage's satisfaction; and (c) Anchorage may refuse to execute Directions if in Anchorage's reasonable opinion such Directions are outside the scope of its obligations under this Agreement or are contrary to any applicable laws, rules and regulations, and Anchorage will promptly notify Client of such refusal. Anchorage is responsible for losses resulting from its errors in executing a Direction from the Client (e.g., if Client provides the correct destination address for executing a withdrawal transaction, but Anchorage erroneously sends Clients Digital Assets to another destination address).
+
+Confidential & Proprietary
+
+(c) 
+
+The Services are available only in connection with those Digital Assets and protocols that Anchorage, in its sole discretion, supports. The type and scope of Services that Anchorage supports for each Digital Asset, and applicable Fees for such Services, may differ. Under no circumstances should Client attempt to use the Services to store, send, request, or receive Digital Assets and protocols that Anchorage does not support. Anchorage assumes no responsibility in connection with any attempt to use any Account or Vault with Digital Assets that Anchorage does not support, and any such unsupported Digital Assets deposited to or received in any Account or Vault are subject to forfeiture and loss. The Digital Assets that Anchorage supports may change from time to time, based on Anchorage's sole and absolute discretion. Anchorage will notify Client in advance if it ceases to support a particular Digital Asset for which Anchorage has previously provided Services to Client. In the case of bitcoin and ether, Anchorage shall provide Client with one hundred and eighty (180) days written notice before ceasing to support custody services for bitcoin and ether, unless Anchorage is required to cease such support by court order, statute, law, rule (including a self-regulatory organization rule), regulation, code, or other similar requirement, in which case written notice shall be provided promptly upon Anchorage determining it will not be able to support custody services for bitcoin and ether.
+
+(d) 
+
+Anchorage shall only follow the Directions from Client. Anchorage is released and held harmless by Client for following the Directions from the Client, subject to the terms of, and provided Anchorage complies with its obligations under, this Agreement.
+
+(e) 
+
+[Reserved]
+
+(f) 
+
+[Reserved]
+
+(g) 
+
+From time to time, Anchorage may, in its sole discretion, offer Client additional optional services involving settlement services (Optional Settlement Services). Client may elect to accept Optional Settlement Services by signing a separate agreement involving such Optional Settlement Services. For the avoidance of doubt, by entering this Agreement, the Client has not elected to accept Optional Settlement Services from Anchorage.
+
+(h) 
+
+Anchorage is solely responsible for any gas or network fees necessary for the transfer of Digital Assets pursuant to Client Directions. Anchorage shall be liable for paying any gas or network fees on behalf of Client and shall be liable for any canceled Directions due to insufficient gas or network fees.
+
+Confidential & Proprietary
+
+1.3. 
+
+Storage of Digital Assets. Anchorage will receive Digital Assets for storage in Client's Account by generating Private Keys and their Public Key pairs, with Anchorage retaining custody of such Private Keys. Upon receipt, Anchorage will custody the Digital Assets in Clients name in an Account established for the benefit of the Client and no other person. The Private Keys controlling the Digital Assets belonging to Client shall be securely held by Anchorage in offline cold storage at all times. Anchorage shall be deemed to have received a Digital Asset after the Digital Assets receipt has been confirmed on the relevant Blockchain, except for Digital Assets deemed to be spam or gas by Anchorage and the Client. Digital Assets in Clients Account shall (i) be segregated at a unique blockchain address or addresses on the relevant Blockchain (e.g., in the case of bitcoin, the Blockchain associated with the Bitcoin network) from the assets held by Anchorage as principal and the assets of other customers of Anchorage and any other person, (ii) not be treated as general assets of Anchorage, and Anchorage shall have no right, title or interest in such Digital Assets, (iii) Anchorage serves as a fiduciary and custodian on Clients behalf, and the Digital Assets in Clients Account are considered fiduciary assets that remain Clients property at all times. Digital Assets shall be held in Clients Account in accordance with the terms of this Agreement and shall not be commingled with other customers', Anchorage's, or any other person's Digital Assets. Client's Account(s) and all Digital Assets in the Client's Account shall be held by Anchorage at all times.
+
+1.4. 
+
+Accounting for and ownership of Client Digital Assets and fiat currency. At all times, Client owns Digital Assets and fiat currency (if applicable) held by Anchorage on behalf of Client under this Agreement. Client Digital Assets and fiat currency of the Client are custodial assets that shall be kept separate from the assets of Anchorage and shall not be reflected on Anchorages balance sheet as assets of Anchorage. Anchorage will record on its books and records all Digital Assets and fiat currency (if applicable) received by it for the Account and will segregate Client Digital Assets from those of any other person or entity at a unique blockchain address or addresses at which only Digital Assets belonging to Client shall be held at all times. Anchorage will provide Client with access to the Technology Platform for transaction records and holdings and will provide Client daily statements that show balances and transaction records of Client Digital Assets. Upon commercially reasonable notice to Anchorage, Anchorage will provide Client copies of the books and records pertaining to the Client that are in the possession or under the control of Anchorage. The books and records maintained by Anchorage will, to the extent applicable, be prepared and maintained in all material respects as required by applicable Laws, and shall separately identify Client's Digital Assets at all times such that in an insolvency of Anchorage, the receiver or other administrator appointed in respect of Anchorage would be able to identify and trace Client's Digital Assets separately from the assets of Anchorage's own assets and those of all other persons. Upon request from Client in writing, Anchorage shall reasonably cooperate with Clients authorized independent public accountant, and provide Clients authorized independent public accountant confirmation of and access to information sufficient to confirm (i) Clients Digital Assets and fiat currency as of such date as such accountant may specify, and (ii) Clients Digital Assets are held in a separate account under Clients name, and (iii) such other information as Client's authorized independent public accountant may reasonably request in connection with any audit or examination of Client.
+
+1.5. 
+
+Authority to Assign or Pledge. Clients Digital Assets and fiat currency shall not be subject to any right, charge, security interest, lien or claim of any kind in favor of Anchorage or any of its Affiliates or of any creditor of any of them, and Anchorage shall not have the independent right or authority to assign, hypothecate, pledge, encumber or otherwise dispose of any Client Digital Assets or fiat currency of Client. The Digital Assets in the Account and the fiat currency in the Deposit Account, as defined in Section 2.7, are not general assets of Anchorage or of any of its Affiliates and are not available to satisfy claims of any creditors of Anchorage or of any of its Affiliates.
+
+Confidential & Proprietary
+
+1.6. 
+
+Application of UCC. Client Digital Assets in the Account and fiat currency will be treated as financial assets under Article 8 of the New York Uniform Commercial Code (Article 8). Anchorage is a securities intermediary, the Account is a securities account, and Client is an entitlement holder under Article 8. This Agreement sets forth how Anchorage will satisfy its Article 8 duties. Treating Client assets in the Account as financial assets under Article 8 does not determine the characterization or treatment of the cash and digital assets of Client under any other law or rule. New York will be the securities intermediarys jurisdiction with respect to Anchorage for purposes of Article 8, and New York law will govern all issues addressed in Article 2(1) of the Hague Securities Convention. Anchorage will credit the Client with any payments or distributions on any Client assets it holds for Clients Account. Anchorage will comply with Clients Directions with respect to Client assets in Clients Account, subject to the terms of this Agreement. Anchorage is obligated by Article 8 to maintain sufficient digital assets to satisfy all entitlements of customers of Anchorage, respectively, to the same digital assets. Anchorage shall not grant any person or entity a lien, security interest, encumbrance, mortgage, pledge, or adverse claim or interest of any kind in the digital assets in the Client's Account. Digital assets in Clients Account are custodial assets. Under Article 8, the digital assets in the Clients Account are not general assets of Anchorage, and are not available to satisfy claims of creditors of Anchorage or any of its Affiliates. Anchorage will comply at all times with the duties of a securities intermediary under Article 8, including but not limited to those set forth at UCC sections 8-504(a), 8-505(a), 8-506(a), 8-507 and 8-508.
+
+1.7. 
+
+Rights of Use; Limits on Use. Subject to the terms of this Agreement, Anchorage hereby grants to Client a non-sublicensable (except to Affiliates of Client or to any Authorized Person, Agent, and any Third Party in accordance with this Section 1.7), non-exclusive, royalty-free worldwide right during the Term to access the Technology Platform. Client may sublicense its rights to access and use the Technology Platform to any of its Affiliates, Authorized Persons, Agent, and Third Parties authorized by Client in accordance with Section 2.3(b). Client will not, and will not permit its Affiliates, Authorized Persons, Agent or applicable Third Parties to: (i) directly or indirectly copy, disseminate, display, distribute, publish, sell, or otherwise disclose any part of the Technology Platform, or create any works or other materials based on or derived from any part of the Technology Platform in a manner not contemplated under this Agreement or otherwise directed by Anchorage or its Affiliates or Agent during the Term; (ii) reverse engineer, decompile, or disassemble the software used in the Technology Platform; (iii) sell, rent, lease, or license Clients right to use the Technology Platform except as may be set out under this Agreement; or (iv) use the Technology Platform or Services in any other way not expressly authorized by this Agreement. Client will be responsible for all acts and omissions of Authorized Persons in connection with or relating to this Agreement; provided that the foregoing will not in any way limit or reduce Anchorages duties and obligations to Client under this Agreement.
+
+Confidential & Proprietary
+
+1.8. 
+
+Support and Maintenance. Subject to applicable Law, as part of the Services and at no additional cost to Client, Anchorage will (i) make available the Technology Platform, and (ii) provide other Support Services as described in this Agreement, including the Addendum 1 and the Service Level Agreement.
+
+1.9. 
+
+Business Continuity Policy. Anchorage shall maintain a business continuity policy applicable to Anchorages performance of Services as described in the Addendum.
+
+1.10. 
+
+Forks, Airdrops.
+
+(a) 
+
+Should a Fork occur: (i) Anchorage retains the right, in its sole discretion, to determine whether or not to support (or cease supporting) either Forked Network; (ii) in connection with determining whether to support a Forked Network, Anchorage may suspend certain operations, in whole or in part (with or without advance notice), for however long Anchorage reasonably deems necessary, in order to take the necessary steps, as determined in its sole discretion, to perform obligations hereunder with respect to supporting a Forked Network; (iii) Client hereby agrees that Anchorage shall determine, in its sole discretion, whether to support such Forked Network and that Client shall have no right or claim against Anchorage related to value represented by any change in the value of any Digital Asset (on a Forked Network), including with respect to any period of time during which Anchorage exercises its rights described herein with respect to Forks and Forked Networks; and (iv) Anchorage will use commercially reasonable efforts to timely select, in its sole discretion, at least one (1) of the Forked Networks to support and will identify such selection in a written notice.
+
+(1) 
+
+With respect to a Forked Network that Anchorage chooses not to support, it may, in its sole discretion, elect to (x) abandon or otherwise not pursue obtaining the Digital Assets from that Forked Network, or (y) if Client provides written consent to take delivery of such Digital Assets from the Forked Network, deliver the Digital Assets from that Forked Network to Client within a time period as determined by Anchorage in its sole discretion, together with any credentials, keys, or other information sufficient to gain control over such Digital Assets (subject to the withholding and retention by Anchorage of any amount reasonably necessary, as determined in Anchorages sole discretion, to fairly compensate Anchorage for the efforts expended to obtain and deliver such Digital Assets to Client).
+
+(2) 
+
+With respect to Forked Networks that Anchorage chooses to support, Client may be responsible for the reasonable fees for such support (to be negotiated), and Client acknowledges and agrees that Anchorage assumes no responsibility with respect to any Forked Network and related Digital Assets that it chooses not to support.
+
+Confidential & Proprietary
+
+(b) 
+
+Client acknowledges that Digital Asset values can fluctuate substantially which may result in a total loss of the value of Digital Assets. The supply of Digital Assets available as a result of a Forked Network and Anchorages ability to deliver Digital Assets resulting from a Forked Network may depend on circumstances or Third Party providers that are outside of Anchorages control. Anchorage does not own or control any of the protocols that are used in connection with Digital Assets and their related Digital Asset networks, including those resulting from a Forked Network. Accordingly, Anchorage disclaims all liability relating to a Forked Network and any change in the value of any Digital Assets (whether on a Forked Network or otherwise) due to the operation of Digital Asset networks which affect all holders of Digital Assets on such networks as a class, and makes no guarantees regarding the security, functionality, or availability of such protocols or Digital Asset networks, provided Anchorage shall act in accordance with this Agreement. In the event that a Digital Asset network, entity or person (a Sender) attempts to or does contribute (sometimes called airdropping or bootstrapping) its Digital Assets (collectively, Airdropped Digital Assets) to holders of Digital Assets on an existing Digital Asset network and Client notifies Anchorage in writing that Client agrees in writing that it is willing to take possession of the Airdropped Digital Assets associate with Clients Digital Assets, Anchorage may, in its sole discretion, elect to: (i) subject to a reasonable airdrop fee to be determined, support the Airdropped Digital Asset for custody and, if appropriate, reconcile Account(s); (ii) abandon or otherwise not pursue obtaining the Airdropped Digital Assets; or (iii) within a time reasonable period as determined by Anchorage, deliver the Airdropped Digital Assets from that Digital Asset network to Client, together with any credentials, keys, or other information sufficient to gain control over such Airdropped Digital Assets (subject to the withholding and retention by Anchorage of any amount reasonably necessary, as determined in Anchorages sole discretion, to fairly compensate Anchorage for the efforts expended to obtain and deliver such Airdropped Digital Assets to Client). If Anchorage supports, obtains or delivers Airdropped Digital Assets, such actions will not create any relationship between the Sender and Anchorage, grant any interest or rights to the Sender (including, without limitation, any Third Party beneficiary rights), or subject Anchorage to any obligations as it relates to the Sender. Under no circumstances will Anchorage include any Airdropped Digital Assets in Clients custody holdings without Clients express written approval.
+
+(c) 
+
+In the event that an announcement of a Fork in Bitcoin or Ethereum is to occur pursuant to Section 1.10(b), upon a written notice by either Party, Parties agree to enter into a good faith discussion about which Fork can be supported by Anchorage and Anchorage will support at least one branch of such Fork, unless expressly prohibited by Law or Anchorage's US prudential regulator. Notwithstanding anything to the contrary herein, Anchorage agrees to provide advance written notice to the Client announcing which Forked Network Anchorage intends to support for Bitcoin and Ethereum, promptly upon becoming aware of such a potential suspension, and to use commercially reasonable efforts to give Client a reasonable opportunity to withdraw Client's Digital Assets following such announcement.
+
+1.11. 
+
+Generally. Client agrees that Anchorage will perform only such duties as are expressly set forth herein, including complying with applicable Law. Anchorage has the authority to do all acts that Anchorage reasonably determines are necessary, proper, or convenient for it to perform its obligations under this Agreement, provided it shall at all times comply with and be subject to this Agreement and shall have no obligation to perform acts which it reasonably believes do not comply with applicable Laws.
+
+Confidential & Proprietary
+
+2. 
+
+Client Responsibilities and Acknowledgements. 
+
+2.1. 
+
+Account Acceptance; Authorized Person Designations.
+
+(a) 
+
+Services will be provided only after Clients successful completion of the account acceptance process, including but not limited to the onboarding process in Section 2.3(a), as determined in Anchorages sole discretion. Anchorage may terminate this Agreement upon fourteen (14) days prior written notice to the Client due to Clients failure to complete the onboarding process with Anchorage; provided that this right will no longer apply after the date of execution of this Agreement by both parties. To complete the acceptance process, Client shall provide Anchorage with information and documents, which include but are not limited to, information necessary for Anchorages compliance with the Bank Secrecy Act (BSA), and all Laws and regulations relating to anti-money laundering (AML), Know-Your-Customer (KYC), counter-terrorist financing, sanctions screening requirements, or any other legal obligations, in each case, as determined by Anchorage in its sole discretion. Upon acceptance of Client by Anchorage, Client shall nominate and manage Authorized Persons.
+
+(b) 
+
+In order to be approved as an Authorized Person, nominated persons must agree to data collection permissions and related policies provided in the Anchorage application and Technology Platform, including privacy policies and other terms, which may be amended from time to time. A copy of the then-current versions of such privacy policies and other terms will be provided at the written request of Client. Client is solely responsible for the actions or inactions of all Authorized Persons at all times, though Anchorage shall comply with its obligations under this Agreement, including the standard of care specified in Section 10 hereof. With respect to Clients primary custody Account, Client will initially nominate three (3) or more individuals as Authorized Persons prior to initiation of Client on-boarding by Anchorage, and a minimum of two (2) of three (3) Authorized Persons must approve an Authenticated Instruction. Anchorage reserves the right in its reasonable sole discretion to change the minimum number of Authorized Persons to be designated or which are required to approve a Direction; provided that Anchorage provides Client with 60 days prior written notice.
+
+(c) 
+
+Subsequent to the approval and on-boarding of initial Authorized Persons, Client may nominate additional Authorized Persons or revoke an Authorized Persons status, each through a Direction to be approved by a Quorum.
+
+2.2. 
+
+Acceptable Devices. Unless expressly agreed upon otherwise, Client shall maintain a separate Acceptable Device for each Authorized Person. The Acceptable Device must have Internet accessibility and meet other technical specifications prescribed by Anchorage in Schedule B.
+
+Confidential & Proprietary
+
+2.3. 
+
+Authorized Persons; Anchorage API.
+
+(a) 
+
+Each person nominated by Client as an Authorized Person must be confirmed by Anchorage as an Authorized Person. Authorized Persons may be required to successfully complete the onboarding process and training, which may include (i) installing the Anchorage application onto the persons Acceptable Device; and (ii) training on the Services regarding the creation of Directions or joining a Quorum. Upon completion of Anchorages onboarding process and any training, to Anchorages satisfaction in its sole discretion, the nominated person will be designated by Anchorage as one of Clients Authorized Persons and their device designated by Anchorage as an Acceptable Device, such that they may create Directions or join a Quorum. Upon such designation, Anchorage may rely on the validity of such appointment until such time as Anchorage receives Directions from Client revoking such appointment or designating a new Authorized Representative. Anchorage will disable the access of an Authorized Representative as soon as reasonably practicable upon request from Client and in no event greater than one day following the receipt of such request and the execution of any documents reasonably required by Client.
+
+(b) 
+
+As part of the Services, Anchorage may provide Client with access to the Anchorage API, through which Client may permit Third Party as well as Anchorage and its Affiliates access to the Account(s) or Technology Platform. Anchorage shall follow any Directions submitted via the Anchorage API, including Directions for withdrawals and external transfers of Clients Digital Assets, as though such Directions were submitted from and by Client and without additional authentication, unless otherwise specified in this Agreement. Authorized Persons may generate API keys and assign roles to a Third Party, including without limitation, a Third Party application, subject to their compliance with the Anchorage APIs Documentation, and applicable Law. Client and all Authorized Persons shall use industry best practices to safeguard any generated Anchorage API keys. Client shall be responsible for all Third Party access to the Account(s) and Directions submitted via the Anchorage API, and Anchorage shall not be liable for following any instructions submitted via an Anchorage API key unless Anchorages negligence or willful misconduct caused unauthorized access to or possession of such key.
+
+2.4. 
+
+On-Chain Services. From time to time, Anchorage may, in its sole discretion, offer Client additional optional services involving on-chain transactions (other than deposits and withdrawals included in Anchorages basic custody service), which may include staking, voting, vesting, signaling, and other activities requiring interaction with the applicable blockchain (On-Chain Services).
+
+(a) 
+
+Offer and Acceptance of On-Chain Services. Anchorage may offer On-Chain Services by sending the offer in writing to Client. Any offer for On-Chain Services will include the following terms, which shall be reviewed and approved by Client in a separate agreement (any option to elect such services in the Anchorage application shall not be valid) to Authorized Persons of Client:
+
+i) 
+
+a basic description of the On-Chain Service;
+
+Confidential & Proprietary
+
+ii) 
+
+a disclosure of the material risks of the On-Chain Service;
+
+iii) 
+
+a description of any associated fees;
+
+iv) 
+
+any other key terms of the On-Chain Service, as applicable (for example, Anchorage will disclose if Digital Assets must be locked for a minimum period and would not be immediately accessible to Client); and
+
+v) 
+
+an option to expressly agree to the On-Chain Service.
+
+A Client may accept an On-Chain Service in a signed writing, which for avoidance of doubt, Client has not agreed to enter into by entering into this Agreement and shall enter into separately in the event Client elects to do so;
+
+(b) Cancellation of On-Chain Services.
+
+i) 
+
+Any Authorized Person may cancel an On-Chain Service at any time; provided, however, that in cases where Digital Assets are locked up for a certain period pursuant to the blockchain protocol, Anchorage will release locked Digital Assets when and as permitted by the applicable blockchain protocol. If Client desires to cancel an On-Chain service, Client may do so through the Anchorage application.
+
+ii) 
+
+Anchorage may discontinue an On-Chain Service at any time without notice for any reason. If Anchorage decides to discontinue an On-Chain Service, Anchorage will endeavor to provide as much notice to Client as reasonably possible, however Anchorage shall not be liable for any loss of rewards, slashing, penalty, or additional fees that may be incurred by the Client on the blockchain protocol.
+
+2.5. 
+
+Legal Compliance. Notwithstanding any other provision in this Agreement, Client agrees at all times to (i) fully satisfy Anchorages information requests and other requirements, including but not limited to those relating to Authorized Persons or Digital Assets; (ii) fully comply with all applicable Laws to the extent relevant and material to its performance hereunder, including the BSA and all other Laws and regulations related to AML, KYC, counter-terrorist financing, sanctions screening requirements, or other legal obligations; (iii) notify Anchorage if Client becomes a target of any BSA or Digital Asset related action, investigation or prosecution; (iv) notify Anchorage of any changes in jurisdiction or material ownership; and (v) provide Anchorage full cooperation in connection with any inquiry or investigation made or conducted by the U.S. Office of the Comptroller of the Currency (OCC). Client agrees to immediately notify Anchorage if it becomes aware of any suspicious activity or pattern of activity, or any activity which upon investigation may be a suspicious activity or pattern of activity under applicable Laws, involving Client's Account.
+
+Notwithstanding any other provision in this Agreement, Anchorage agrees at all times to (i) fully satisfy Client's information requests and other requirements, including but not limited to those relating to Authorized Persons or Digital Assets, or any such request from Client's accountants or auditors; (ii) fully comply with all applicable Laws, including the BSA and all other Laws and regulations related to AML, KYC, counter-terrorist financing, sanctions screening requirements, or other legal obligations; (iii) notify Client if Anchorage becomes a target of any BSA or Digital Asset related action, investigation or prosecution; (iv) notify Client of any changes in jurisdiction or material ownership; and (v) provide Client full cooperation in connection with any inquiry or investigation made or conducted by any federal or state regulator. Anchorage agrees to immediately notify Client if it becomes aware of any suspicious activity or pattern of activity, or any activity which upon investigation may be a suspicious activity or pattern of activity under applicable Laws, involving Client's Account.
+
+Confidential & Proprietary
+
+2.6. 
+
+Acknowledgements. Client acknowledges that:
+
+(a) 
+
+Client is an entitlement holder in a Financial Asset, as defined by, and for purposes of, the UCC;
+
+(b) 
+
+Anchorage does not provide investment advice or exercise investment discretion. Client is capable of evaluating transaction and investment risks independently, both in general and with regard to all transactions and investment strategies. Client is solely responsible for, and Anchorage has no involvement in, determining whether any Digital Asset transaction (whether an investment or otherwise), investment strategy, or related transaction is appropriate for Client;
+
+(c) 
+
+Anchorage has no control over the Blockchains and markets in which Digital Assets are purchased and traded, and such may be subject to technology flaws, manipulations, hacks, double spending, 51% attacks, other attacks, and operational limitations, provided, Anchorage shall comply with its obligations under this Agreement and applicable Law;
+
+(d) 
+
+Anchorage does not control and makes no guarantee as to the functionality of any Blockchains decentralized governance, which could, among other things, lead to delays, conflicts of interest, or operational decisions that may impact Client or its Digital Assets, provided, Anchorage shall comply with its obligations under this Agreement and applicable Law;
+
+(e) 
+
+Advancements in cryptography (such as enabled by quantum computing) could render current cryptography algorithms utilized by a Blockchain supporting a specific Digital Asset inoperative;
+
+(f) 
+
+The price and liquidity of Digital Assets has been subject to large fluctuations in the past and may be subject to large fluctuations in the future;
+
+(g) 
+
+Deposits into Clients Accounts may not be considered deposits, as that term may be used under the applicable Laws, rules, or regulations in Clients jurisdiction, provided, Anchorage shall comply with its obligations under this Agreement and applicable Law;
+
+Confidential & Proprietary
+
+(h) 
+
+Digital Assets in Clients Accounts are not subject to deposit insurance protection of the Federal Deposit Insurance Corporation (FDIC) and may not be subject to the protection afforded customers under the Securities Investor Protection Act of 1970, as amended, provided, Anchorage shall comply with its obligations under this Agreement and applicable Law;
+
+(i) 
+
+Digital Assets are not legal tender and are not backed by any government;
+
+(j) 
+
+Legislative and regulatory changes or actions at the state, federal, or international level may adversely affect the use, transfer, exchange, and value of Digital Assets;
+
+(k) 
+
+Transactions in Digital Assets may be irreversible, and, accordingly, losses due to fraudulent or accidental transactions may not be recoverable, provided, Anchorage shall comply with its obligations under this Agreement and applicable Law;
+
+(l) 
+
+Some Digital Asset transactions shall be deemed to be made when recorded on a public ledger, which is not necessarily the date or time that transaction was initiated, provided, Anchorage shall comply with its obligations under this Agreement and applicable Law;
+
+(m) 
+
+The value of Digital Assets may be derived from the continued willingness of market participants to exchange fiat currency or Digital Assets for Digital Assets, which may result in the potential for permanent and total loss of value of a particular Digital Asset should the market for that Digital Asset disappear;
+
+(n) 
+
+There is no assurance that a person who accepts a Digital Assets as payment today will continue to do so in the future;
+
+(o) 
+
+Due to the volatility and unpredictability of the price of Digital Assets relative to fiat currency trading and owning Digital Assets may result in significant loss over a short period of time;
+
+(p) 
+
+The nature of Digital Assets may lead to an increased risk of fraud or cyber-attack, provided, Anchorage shall comply with its obligations under this Agreement and applicable Law;
+
+(q) 
+
+Any bond, insurance or trust account maintained by Anchorage for the benefit of its customers may not be sufficient to cover all losses incurred by Client, provided, Anchorage shall comply with its obligations under this Agreement and applicable Law;
+
+(r) 
+
+The Fees and any other payments or compensation otherwise agreed to by Anchorage and Client represent reasonable compensation for Anchorages Services and expenses.
+
+Confidential & Proprietary
+
+2.7. 
+
+Fiat Currency Instructions and Acknowledgements; Undirected Cash Disclosures. Anchorage may, in its sole discretion, offer Fiat Services to Client. If Anchorage offers Fiat Services, and Client accepts Fiat Services and Anchorage will:
+
+(a) 
+
+Deposit all cash deposited by Client with Anchorage, for which the Client has not already provided transfer instructions, into deposit accounts at FDIC-insured, regulated depository institutions selected by Anchorage (each, a Fiat Institution), which accounts will be held for the benefit of (FBO) Anchorage clients (Deposit Accounts). Deposit Accounts will be non-interest-bearing and may be segregated by client or pooled into omnibus accounts. Anchorage will title the Deposit Accounts it maintains with U.S. depository institutions and maintain records of Clients interest in a manner that enables Anchorage to secure receipt of Federal Deposit Insurance Corporation (FDIC) deposit insurance, where applicable and up to the deposit insurance limits applicable under FDIC regulations and guidance, on cash deposited by Client for the Clients benefit on a pass- through basis.
+
+(b) 
+
+Enter into such sub-accounting agreements as may be required by the Fiat Institution, and;
+
+(c) 
+
+Initiate wire transfer requests from time to time for the withdrawal of Client funds from the Deposit Accounts, which requests are to be honored by the Fiat Institution for withdrawal of Clients funds from such Deposit Accounts for distributions, investments, fees and other disbursements directed or agreed to by an Authorized Person. All applicable wire transfer fees shall be paid by the Client.
+
+For the sub-account held for the benefit of Client, Anchorage will keep records to obtain pass-through FDIC coverage of up to the maximum coverage level of $250,000 per Client at a single Fiat Institution.
+
+3. 
+
+Ownership and Intellectual Property Rights. 
+
+3.1. 
+
+Services and Documentation. As between the Parties and subject to Sections 3.2 (Outputs of Services) and 3.3 (Client Data), Anchorage owns all right, title and interest in and to the Services, the Documentation, and all Intellectual Property Rights in the Services and the Documentation.
+
+3.2. 
+
+Outputs of Services. Anchorage hereby grants Client a perpetual, royalty-free, non-transferable (except as provided in Section 12.10), non-sublicensable, (except to Affiliates of Client, Authorized Persons, Agent, and any Third Parties authorized by Client in accordance with Section 1.7), worldwide license to use, import, distribute, copy, reproduce, display, transmit, perform, excerpt, reformat, adapt, or otherwise modify and create derivative works of all output materials and results from use of the Services and documentation by Client, its Affiliates, Agent, or Authorized Persons, including any reports, graphics, data, specification, programs and all other materials or computer output (Outputs).
+
+Confidential & Proprietary
+
+3.3. 
+
+Client Data. As between the Parties, Client owns all right, title and interest in and to Client Data, including all Intellectual Property Rights in Client Data. Client hereby grants Anchorage, and any of its Affiliates approved by Client in writing to provide Services, a perpetual, royalty-free, non-transferable (except as provided in this Section 3.3 or Section 12.10), non-sublicensable, worldwide license to disclose and use Client Data solely to (i) operate, manage, and improve the Services provided to Client, its Affiliates, Authorized Persons or applicable Third Parties pursuant to this Agreement; (ii) monitor, process and support Directions or as necessary to effect, administer, or enforce a transaction or directive that Client otherwise requests or authorizes, including to facilitate use of Services provided by Anchorage Affiliates; and (iii) comply with legal or regulatory obligations applicable to the Services including financial reporting and retention of related data. For clarity, Anchorage may not use Client Data for any other purpose without the express written consent of Client. Notwithstanding the foregoing, Anchorage may only disclose and use Client Data in a de-identified and anonymized form and in aggregation with data from Anchorages other clients. For purposes of this Agreement, Client Data is de-identified or anonymized only if all identifiers that directly or indirectly identify the source and subject of such data with Client have been removed, and it does not enable a Third Party to discern, decompile, recreate, or reverse engineer any particular trading strategy of Client.
+
+3.4. 
+
+Feedback. From time to time, Client may submit or provide suggestions, requests for features, recommendations, or ideas to Anchorage (Feedback). For clarity, Client is not required to submit any Feedback under this Agreement and Client retains all right, title, and interest in and to Feedback, including all Intellectual Property Rights in Feedback. To the extent Client provides Feedback to Anchorage during the Term, Client hereby grants Anchorage a non-exclusive, worldwide, royalty-free, irrevocable, non-sub-licensable, perpetual license to use the Feedback, without consideration or compensation to Client or Authorized Persons, Affiliates, agents, partners, or personnel (except to Affiliates of Anchorage approved by Client in writing to provide Services).
+
+3.5. 
+
+Reservation of Rights. Except for the rights and licenses granted under this Agreement, each Party agrees that, subject to applicable Law, (a) nothing in this Agreement will be construed as granting any rights of a Party to the other Party, by license or otherwise, in or to any Confidential Information or Intellectual Property Rights of such Party or its Affiliates, and (b) all rights in and to the Intellectual Property Rights of such Party that are not expressly granted herein are reserved by such Party.
+
+4. 
+
+Term and Termination.
+
+4.1. 
+
+Term. This Agreement is effective as of the Effective Date and will continue in full force and effect for the Initial Term period in the Order Form, and will be automatically renewed on the same terms for each successive Renewal Term specified in the Order Form (the Initial Term and each Renewal Term collectively referred to herein as the Term). The Client may elect not to renew the Agreement by providing written notice of cancellation and non-renewal no less than thirty (30) days prior to the expiration of the current Term or unless sooner terminated as set forth in this Agreement. Anchorage may elect not to renew the Agreement by providing written notice of cancellation and non-renewal no less than one hundred eighty (180) days prior to the expiration of the current Term or unless sooner terminated as set forth in this Agreement.
+
+Confidential & Proprietary
+
+4.2. 
+
+Termination for Cause or Anchorage Cause.
+
+(a) 
+
+Unless specifically permitted herein, Anchorage shall not suspend, restrict, terminate or modify and shall continue to provide the Services, including, (i) the custody of Clients Digital Assets on Clients behalf, the processing of withdrawals, deposits, and the other Services, or (ii) access to the Technology Platform, in each case unless and until Anchorage provides 180 days (the Notice Period) prior written notice to Client describing in reasonable detail the suspension, restriction, termination or modification that Anchorage will implement or, solely with respect to the Transition Services, the end of the Transition Period; provided however, that if after the date of the Agreement, there occurs any change in or adoption of any applicable law, rule, or regulation which, in the reasonable opinion of counsel to Anchorage will prohibit or materially impede some or all of the arrangement contemplated by this Agreement (a Change in Law), the parties will, in good faith and acting in a commercially reasonable manner intended to produce a commercially reasonable result, agree on modifications to the Agreement or Services that would enable compliance with such Change in Law or, in the case of a material impediment, reduce the impact to the parties of such Change in Law and Anchorage shall continue to provide the Services as contemplated herein unless prohibited from doing so by the Change in Law. If the parties cannot agree on modifications within thirty (30) days following notice from Anchorage or if the Change in Law requires that Anchorage immediately ceases providing any Services, Anchorage may, only following notice in writing to Client, suspend, restrict or terminate the Services solely to the extent necessary to account for the Change in Law, provided that Anchorage agrees that any suspension, restriction, termination or modification arising from a Change in Law shall be narrowly tailored to enable compliance with such Change in Law and, to the extent not prohibited by the Change in Law, Anchorage will continue to provide, at a minimum, the Transition Services following any Change in Law. Anchorage represents, warrants and covenants that it will promptly notify Client of any proposed or announced change in law, rule or regulation that may result in a Change in Law hereunder.
+
+(b) 
+
+Anchorage may terminate this Agreement in its entirety for any reason and without Cause by providing at least 180 days prior written notice to Client and Client may terminate this Agreement in whole or in part for any reason by providing at least thirty (30) days prior written notice to Anchorage, provided, however, in each case, Anchorage shall not restrict, suspend, or modify the Services following any termination without Cause or any termination by Client until the end of any such notice period and neither partys termination of this Agreement shall be effective until Client and Anchorage have fully satisfied their obligations hereunder.
+
+Confidential & Proprietary
+
+(c) 
+
+Regardless of any other provision of this Agreement, but subject to Section 4.2(i) below, upon the occurrence and during the continuance of an event that constitutes Cause (as defined below) (unless, with respect to a non-continuing event that constitutes Cause, Anchorage has already commenced exercising its rights under this Section or has otherwise notified Client that it will promptly do so, in each case while such event is continuing) and after giving effect to any notice requirement and cure period that may apply, Anchorage may, in its reasonable discretion, take any of the following actions: (i) terminate, in whole or in part, the Agreement, and/or (ii) suspend, restrict or terminate the Clients Services, except for the Transition Services during the Transition Period.
+
+Cause shall mean: (i) Client materially breaches any provision of this Agreement and such breach remains uncured for a period of thirty (30) calendar days after notice of such breach is provided by Anchorage to Client; or (ii) a Bankruptcy Event (as defined below) occurs and is continuing with respect to Client.
+
+Bankruptcy Event means the party is (i) dissolved (other than pursuant to a consolidation, amalgamation or merger); (ii) becomes insolvent or is unable to pay its debts or fails or admits in writing its inability generally to pay its debts as they become due; (iii) makes a general assignment, arrangement or composition with or for the benefit of its creditors; (iv) institutes or has instituted against it a proceeding seeking a judgment of insolvency or bankruptcy or any other relief under any bankruptcy or insolvency law or other similar law affecting creditors rights, or a petition is presented for its winding-up or liquidation, and in the case of any such proceeding or petition instituted or presented against it, such proceeding or petition (I) results in a judgment of insolvency or bankruptcy or the entry of an order for relief or the making of an order for its winding-up or liquidation or (II) is not dismissed, discharged, stayed or restrained in each case within 30 days of the institution or presentation thereof; (v) has a resolution passed for its winding-up, official management or liquidation (other than pursuant to a consolidation, amalgamation or merger); (vi) seeks or becomes subject to the appointment of an administrator, provisional liquidator, conservator, receiver, trustee, custodian or other similar official for it or for all or substantially all its assets; (vii) has a secured party take possession of all or substantially all its assets or has a distress, execution, attachment, sequestration or other legal process levied, enforced or sued on or against all or substantially all its assets and such secured party maintains possession, or any such process is not dismissed, discharged, stayed or restrained, in each case within 30 days thereafter; (viii) causes or is subject to any event with respect to it which, under the applicable laws of any jurisdiction, has an analogous effect to any of the events specified in clauses (i) to (vii) (inclusive); or (ix) takes any action in furtherance of, or indicating its consent to, approval of, or acquiescence in, any of the foregoing acts.
+
+(d) 
+
+If Anchorage elects to exercise its remedies hereunder, Anchorage will notify Client in writing prior to exercising such remedies, unless a court order or other legal or regulatory process prohibits Anchorage from providing Client with such notice.
+
+Confidential & Proprietary
+
+(e) 
+
+Upon receipt of written notice from Client of any event that constitutes Cause, if Anchorage fails to exercise any of its rights and remedies above for a period of 20 days following the receipt of such notice requesting a waiver, then Anchorage shall have waived its right to terminate the Agreement or exercise any other rights or remedies by reason of such event and such event shall be deemed to have been cured regardless of whether it continues after such waiver; provided however that this provision (i) does not limit Anchorages right to take any actions with respect to an event that constitutes Cause as the result of the separate occurrence of such event or the occurrence of any other such event and (ii) shall not apply to any Bankruptcy Event.
+
+(f) 
+
+Regardless of any other provision of this Agreement, upon the occurrence and continuance of an Anchorage Termination Event (as defined below) (unless, with respect to a non-continuing event that constitutes an Anchorage Termination Event, Client has already commenced exercising its rights under this Section or has otherwise notified Anchorage that it will promptly do so, in each case while such event is continuing) and after giving effect to any notice requirement and cure period that may apply, Client may, in its reasonable discretion, take any of the following actions: (i) terminate, in whole or in part, the Agreement and accelerate the obligations hereunder, (ii) cancel outstanding withdrawals or deposits (including those that have been submitted or are in the process of being fulfilled), (iii) make a written demand on Anchorage for the return of all Client assets, including Client Digital Assets and fiat currency, (iv), seek Specific Performance (as defined below) with respect to any obligations hereunder, and (v) with respect to a Bankruptcy Event, or an Anchorage Termination Event, exercise its right of set-off hereunder, and (vi) determine its claim against Anchorage using the Benchmark Valuation and seek payment thereof. In addition, Clients payment obligations under the Agreement shall be suspended upon the occurrence and during the continuance of an Anchorage Termination Event. Notwithstanding anything herein to the contrary, all rights granted hereby shall be without prejudice to any right to which Client is at any time is otherwise entitled (whether by operation of law, contract or otherwise) and, other than as specifically provided herein, no delay or omission by Client in exercising any right or remedy hereunder shall operate as a waiver of the future exercise of that right or remedy or of any other rights or remedies hereunder. In the event Client exercises its remedies hereunder, Anchorage shall, upon demand, pay to Client all documented and reasonable costs and expenses, including reasonable attorneys fees and court costs, and trading fees incurred by Client in connection with the enforcement of its rights hereunder.
+
+(g) 
+
+If an Anchorage Termination Event occurs and Client elects to exercise its remedies hereunder against Anchorage, Client will notify Anchorage in writing prior to exercising such remedies, unless a court order or other legal or regulatory process prohibits Client from providing Anchorage with such notice.
+
+Confidential & Proprietary
+
+(h) 
+
+Anchorage Termination Event means the occurrence and continuance of (i) a Bankruptcy Event with respect to Anchorage, (ii) the failure of Anchorage to withdraw or transfer Client bitcoin or ether in accordance with Clients Directions within the time periods set forth in this Agreement and such failure is not cured within two (2) Business Day following Client providing written notice to Anchorage (Anchorage Return Cure); provided, however, that (A) if, prior to the expiration of the Anchorage Return Cure, Anchorage transfers cash to Client in an amount equal to the value of the bitcoin or ether based on the Benchmark Valuation as of the time that the request to transfer or withdraw was originally made by Client (the BTC/ETH Cash Value) or if Anchorage delivers cash collateral to an account designated by Client and in which Client has a perfected, first priority security interest and in an amount equal to the BTC/ETH Cash Value until the relevant Digital Asset is sold, withdrawn or transferred or Client elects to receive such amount in cash in lieu of Anchorage's obligation to withdraw or transfer the relevant Digital Asset, in each case, such failure will be deemed cured; provided, further that, Client shall have the right to choose whether to receive the BTC/ETH Cash Value in lieu of the relevant Digital Asset or receive the BTC/ETH Cash Value as cash collateral, or (B) if such failure is due to a technology or security issue where, in the commercially reasonable opinion of Anchorage, returning the relevant Digital Assets would result in material risk to Client or Anchorage or may result in the relevant Digital Assets being lost or otherwise not successfully returned and Anchorage promptly notifies Client promptly upon Clients notice of such failure, (1) Client may request that Anchorage still withdraw or transfer the Digital Assets, but Anchorage will have no liability with respect to any such withdrawal or transfer (unless Anchorage acts with negligence unrelated to such technology or security issue) and any failure to withdraw or transfer shall not result in an Anchorage Termination Event if Client does not receive the withdrawn or transferred Digital Assets or the proceeds of any such sale due to such technology or security issue, or (2) if Client does not elect to have Anchorage still make the withdrawal or transfer, an Anchorage Termination Event shall not occur while the relevant security or technology event is occurring and continuing, (iii) the failure of Anchorage to withdraw or transfer cash to Client in accordance with Clients Directions within the time periods set forth in this Agreement and such failure is not cured within one (1) Business Day following Client providing written notice to Anchorage, (iv) Anchorage intentionally or willfully, materially breaches any provision of the Agreement and such breach remains uncured for a period of 10 calendar days after notice of such breach is provided by Client to Anchorage.
+
+(i) 
+
+Notwithstanding any termination of the Agreement for Cause, during any Transition Period (as defined below) Anchorage shall continue to provide the Transition Services (as defined below) and render such assistance as the Client or its affiliates may reasonably request to enable the continuation and orderly assumption of the Transition Services to be effected by the Client, an affiliate of the Client or any alternative service provider and shall continue to provide the Transition Services pursuant to the Agreement, except to the extent any Transition Service is prohibited under applicable law (including but not limited to applicable sanctions programs) or by a facially valid subpoena, court order, or binding order of a government authority; and (ii), notwithstanding anything to the contrary herein, in no event shall Anchorage, its affiliates, or their respective officers, directors, agents, employees and representatives have any liability to Client or Agent for any Claims or Losses arising out of or relating to the Agreement during the 91st day through the end of the Transition Period, which do not result from its gross negligence, fraud, material violation of applicable law or willful misconduct; provided that throughout the Transition Period Anchorage shall act in good faith and in a commercially reasonable manner to provide the same level of service with respect to the Transition Services as was provided prior to the start of the Transition Period. For the avoidance of doubt, during the Transition Period, Fees will continue to apply to the Transition Services.
+
+Confidential & Proprietary
+
+Transition Period means a 180-day period (or such extended period as agreed in writing by Anchorage and Client) commencing on the date Client is notified of any termination of the Agreement pursuant to this Section 4.2(c).
+
+Transition Services means the Services consisting of (i) the custody of Clients Digital Assets on Clients behalf, the processing of deposits and withdrawals and the other Services, and (ii) access to the Technology Platform.
+
+4.3. 
+
+Effect of Termination Notice. Upon termination of this Agreement, Client will pay Anchorage all Fees, as provided in the Order Form, and documented expenses permitted by this Agreement, if any, for Services rendered to Client through the effective date of termination of this Agreement.
+
+4.4. 
+
+Other Obligations and Rights on Termination.
+
+(a) 
+
+Digital Assets. A Digital Asset will be deemed to have been returned to Client when: (i) a transfer of the Digital Asset initiated by Anchorage to Client's designated destination address has received a commercially reasonable number of confirmations on the relevant Blockchain; or (ii) via an alternative method specified in Section 4.2.
+
+(b) 
+
+Confidential Information and Client Data. At the Disclosing Partys written request, the Receiving Party will return or destroy any or all of the Disclosing Partys Confidential Information. In addition, upon Clients written request, Anchorage will return or destroy all Client Data. Notwithstanding the foregoing, either Party may retain a copy of Confidential Information and Client Data as permitted by this Agreement, provided that Section 8 shall continue to apply to all such retained information, notwithstanding termination of this Agreement.
+
+5. 
+
+Fees and Taxes.
+
+5.1. 
+
+Fees. Client will pay Anchorage the Fees for the Services as set forth in the Order Form, in any addendum or attachment to this Agreement, or as otherwise agreed in writing between the Parties. Upon termination, Client shall be responsible for payment of any Fees accrued until the Client transfers all of Clients assets out of Clients Account, or until the assets are abandoned and forfeited.
+
+Confidential & Proprietary
+
+5.2. 
+
+Invoices; Payment Terms. Anchorage will submit invoices for the Services as set forth in the Order Form. Except as otherwise set forth in the Order Form, Client agrees to pay all undisputed invoices net thirty (30) days following receipt. If Client reasonably disputes any portion of an invoice, including the difference between CryptoCompare.com as referenced in the definition of AUC and Benchmark Valuation, Client agrees, within the foregoing 30-day period, to (i) pay the undisputed amounts; and (ii) provide a detailed explanation with all supporting documentation of the basis for its dispute. The first invoice will be sent after the end of the calendar month including the Fees Commencement Date, unless otherwise agreed in writing by the Parties.
+
+5.3. 
+
+Taxes. The Fees do not include all taxes, assessments, duties, and other governmental and similar charges (Taxes) that may be assessed on Client or Clients assets by governmental authorities, which are Clients sole obligation to remit unless otherwise mandated by law. Client shall be liable for all Taxes relating to any Digital Assets held on behalf of Client or any transaction related thereto. Client shall remit to Anchorage for the amount of any Tax that Anchorage is required under applicable Laws (whether by assessment or otherwise) to pay on behalf of, or in respect of activity in the Account of Client. In the event that Anchorage is required under applicable law to pay any Tax on behalf of Client, Anchorage shall promptly notify Client of the amount required and Client shall promptly transfer to Anchorage the amount necessary to pay the Tax. Anchorage agrees that the Client may withhold or deduct Taxes as may be required by applicable law. Anchorage agrees that the Client may withhold or deduct Taxes from any payment of Fees to Anchorage as may be required by applicable law and as documented by Client to Anchorage and any such amounts so withheld or deducted shall be treated as having been paid to Anchorage.
+
+5.4. 
+
+Reserve. With Client's prior written agreement, Anchorage may establish a reserve account to ensure Client pays Fees (Reserve Account) if Client: (i) breaches this Agreement; (ii) is subject to a material regulatory action or proceeding that Anchorage reasonably determines makes it prudent for it to engage counsel or incur expenses to manage the Account; or (iii) is likely to become the subject of bankruptcy or insolvency proceedings, each as reasonably determined by Anchorage. If Anchorage creates a Reserve Account, Anchorage will provide prior written notice to the Client of the reasons therefore and the required Reserve Account balance. Anchorage may use Reserve Account funds to pay Client obligations to Anchorage, and if such funds are used, Anchorage will account to Client for such funds used in Clients monthly statements. In no case shall any amounts held in the Reserve Account constitute demand deposits or be withdrawable by check or similar means for payment to Third Parties or others, within the meaning of 12 U.S.C. 1841(c)(2)(D)(iv)(1).
+
+6. 
+
+Representations and Warranties; Disclaimers.
+
+6.1. 
+
+Mutual Representations and Warranties. Each Party represents, warrants, and covenants that: (i) it is a validly organized entity under the laws of the jurisdiction of its incorporation; (ii) it has all rights, power, and authority necessary to enter into this Agreement and perform its obligations hereunder; and (iii) its performance of this Agreement, and the other Partys exercise of its rights under this Agreement, will not conflict with or result in a breach or violation of any of the terms or provisions or constitute a default under any agreement by which it is bound or any applicable Laws.
+
+Confidential & Proprietary
+
+6.2. 
+
+Anchorage Representations and Warranties. Anchorage represents, warrants and covenants as of the Effective Date and each calendar day during the Term that: (i) the Services will conform to this Agreement; (ii) it is the owner of or is duly authorized to provide all Services; (iii) it has all rights necessary to grant all the rights and licenses that it purports to grant and perform all of its obligations under this Agreement; (iv) it is not aware of any claim that the Services, and the use thereof by any Authorized Person in accordance with this Agreement, infringe upon or otherwise violate any statutory, common law or other rights of any Third Party in or to any Intellectual Property Rights therein; and (v) as of the Effective Date, there is no pending, threatened, or anticipated claim, suit, or proceeding affecting or that could affect Anchorages ability to perform and fulfill its obligations under this Agreement.
+
+In addition, Anchorage represents, warrants and covenants as of the Effective Date and each calendar day during the Term that:
+
+(a) 
+
+Anchorage has adopted, implemented, and shall maintain and follow a reasonable risk- based sanctions compliance program (Sanctions Program) that complies with all applicable economic sanctions laws and regulations imposed by the United States (including as administered and/or enforced by the Office of Foreign Assets Control), the United Kingdom, the European Union, the United Nations and other applicable jurisdictions (collectively Sanctions Laws). That Sanctions Program prevents Digital Assets, deposits, withdrawals, transfers or transactions from being directly or indirectly derived from or associated with persons, entities or jurisdictions that are the target or subject of sanctions in violation of any Sanctions Laws.
+
+(b) 
+
+Anchorage has also adopted, implemented and shall maintain and follow an anti-money laundering program (AML Program) that complies with (i) all applicable laws and regulations relating to anti-money laundering, including the Bank Secrecy Act, as amended by the USA PATRIOT Act and the Anti-Money Laundering Act of 2020 (collectively AML Laws), and (ii) industry best practice. As part of its AML Program, Anchorage performs both initial and ongoing due diligence on each of its customers, as well as ongoing transaction monitoring that is designed to identify and report suspicious activity conducted through customer accounts, as required by law. The above AML controls are applied to all transactions and asset transfers conducted by Anchorage, and to all customer accounts opened at Anchorage, including any opened by authorized participants of the Client or trading counterparties of the Client (collectively known as Counterparty Accounts) for the purpose of facilitating bitcoin or ethereum deposits to, and withdrawals from, the Clients Account].
+
+Confidential & Proprietary
+
+(c) 
+
+All fund movements, whether from a public blockchain address outside Anchorage or from an account within Anchorage, into Client's Account or a Counterpartys Account at Anchorage will be sanctions screened, including with blockchain analytics software, to ensure that bitcoin or ethereum in kind transactions did not originate from persons, entities or jurisdictions that are the target or subject of sanctions, or associated with such persons, entities or jurisdictions, or otherwise in violation of any Sanctions Laws, prior to any onward transfer to the Clients Account(s) at Anchorage.
+
+(d) 
+
+In the event sanctions screening results in a bitcoin or ethereum in-kind transaction being suspected or determined to be in violation of any Sanctions Laws, Anchorage will (a) block or reject the deposit of such bitcoin or ethereum into Client's Account or the Counterparty Account, as applicable, in accordance with applicable Sanctions Laws, and (b) promptly inform the Client if any fund movement or attempted fund movement into Client's Account, including between a Counterparty Account at Anchorage and the Clients Account(s) at Anchorage, involves the aforementioned. Furthermore, in the event of blocking, Anchorage will assess the need to segregate the assets and file a report on blocked property in accordance with applicable Sanctions Laws. Anchorage will inform the Client should it file such a report as legally permitted
+
+(e) 
+
+Anchorage also agrees to provide Client with (i) a quarterly report or attestation, as applicable, on the sanctions screening results of any fund movement between a Counterparty Account at Anchorage and the Clients Account(s), after the end of the calendar quarter, and (ii) to the extent permitted by law, such information as it may reasonably request, to enable Client to fulfill its obligations under Sanctions Laws and AML Laws, including an annual attestation regarding Anchorage's AML Laws and Sanctions Laws controls. Client is permitted to share this report with service providers of the Client and authorized participants and trading counterparties.
+
+(f) 
+
+Anchorage complies with all applicable Laws, including U.S. securities laws and regulations, as well as AML Laws, Sanctions Laws, banking laws, and any other laws and regulations to which it is subject.
+
+(g) 
+
+It possesses and will maintain, all licenses, registrations, authorizations and approvals required by any applicable government agency or regulatory authority for it to operate its business and provide the Services;
+
+(h) 
+
+It is and shall remain in good standing with all relevant government agencies, departments, regulatory and supervisory bodies to the extent relevant and material to its performance hereunder, and it will, to the extent permitted under applicable law and by such relevant government agency, department, regulatory and supervisory body, promptly notify Client if it ceases to be in good standing with any regulatory authority;
+
+(i) 
+
+It shall promptly provide information as the Client may reasonably request in writing from time to time in connection with its provision of the Services, to the extent reasonably necessary for the Client to comply with any applicable laws, rules, and regulations (including money laundering statutes, regulations and conventions of the United States or other jurisdictions), or the guidance or direction of, or request from, any regulatory authority or financial institution, in each case related to its performance hereunder and to the extent that providing such information is not prohibited by applicable law;
+
+Confidential & Proprietary
+
+(j) 
+
+It has all rights necessary to provide Client with access to the Technology Platform and any other tech/data provided by Anchorage (the Anchorage Tech) as contemplated herein; and the intended use by Client of the Anchorage Tech as described in and in accordance with this Agreement shall not infringe, violate or misappropriate the intellectual property rights of any third party;
+
+(k) 
+
+Anchorage and each Anchorage Affiliate has policies and procedures in place that are designed to mitigate conflicts of interest. Anchorage and each Anchorage Affiliate will maintain appropriate and effective arrangements to eliminate or manage conflicts of interest, including segregation of duties, information barriers and training. Anchorage will notify Client, on behalf of itself and each Anchorage Affiliate, in accordance with the notice provisions hereof of changes to its or such Affiliates business that are material to its or its Affiliates ability to manage its conflicts of interest.
+
+(l) 
+
+Anchorage shall only permit the transfer of Digital Assets to Client's Account from, or withdraw assets from Client's Account to, a public wallet address on the Blockchain that Anchorage has onboarded through its AML Program and performed sanctions screening on, including with blockchain analytics software (such address, a "whitelisted address").
+
+6.3. 
+
+Client Representations and Warranties. The Client represents, warrants and covenants as of the Effective Date and as of each Direction from Client provided hereunder that:
+
+(a) Client has policies and procedures in place reasonably designed to maintain compliance with all applicable Laws to the extent relevant and material to its performance hereunder, including U.S. securities laws and regulations, as well as AML Laws, to the extent relevant and material to its performance hereunder;
+
+(b) Client is and shall remain in good standing with all relevant government agencies, departments, regulatory, and supervisory bodies to the extent relevant and material to its performance hereunder;
+
+(c) Client shall promptly provide information as Anchorage may reasonably request in writing from time to time regarding: Clients use of the Services to the extent reasonably necessary for Anchorage to comply with any applicable laws, rules, and regulations (including money laundering statutes, regulations and conventions of the United States), or the guidance or direction of, or request from, any regulatory authority or financial institution, in each case related to its performance hereunder, provided that such information may be redacted to remove Confidential Information not relevant to the requirements of this Agreement;
+
+Confidential & Proprietary
+
+(d) Clients use of the Services shall be for commercial, business purposes only;
+
+(e) Client is, and will at all times remain, the owner or beneficial owner of all Digital Assets handled under this Agreement, subject only to liens and encumbrances granted to Anchorage pursuant to this Agreement, if any, or otherwise created as part of the Clients business;
+
+(f) any Digital Assets or fiat currency deposited into any Account are not to Client's knowledge proceeds of a crime.
+
+6.4. 
+
+The Agent represents to Anchorage, that the Client (a) has duly authorized Agent to execute and deliver the Agreement on behalf of such Client and (b) has the power to so authorize Agent.
+
+Notwithstanding anything to the contrary contained in this Agreement or any annex, schedule, addendum, confirmation or other document issued or delivered in connection with any transaction hereunder, Anchorage acknowledges and agrees that:
+
+(a) 
+
+Agent is acting in connection with any transaction hereunder solely in its capacity as agent and trustee to the Client;
+
+(b) 
+
+Neither Agent nor any of its affiliates, subsidiaries or successors, in each case, to the extent that such affiliates, subsidiaries or successors are not Clients under this Agreement shall have any obligation of any kind or nature whatsoever, by guaranty, enforcement or otherwise, with respect to the performance of any Clients obligations, agreements, representations or warranties under the Agreement or any transaction hereunder;
+
+(c) 
+
+Other than with respect to the payment of Fees, Agent and its affiliates shall have no responsibility or liability to pay any costs, expenses, damages or claims arising under or in connection with or in any way relating to this Agreement or any transaction hereunder entered into on behalf of a Client;
+
+(d) 
+
+No recourse of any kind or nature whatsoever shall be had against the Agent or any affiliate, subsidiary or successor to Agent, or against any incorporator, shareholder, officer, director, member, manager, employee or agent of any Agent (each, an Agent Party) with respect to any of the covenants, agreements, representations or warranties contained in this Agreement or any annex, or schedule hereto, or any addendum, or any other document issued or delivered in connection with any transaction entered into under this Agreement, in each case unless otherwise provided in the relevant document or if any Agent Party is or becomes a Client under this Agreement;
+
+(e) 
+
+Other than with respect to the Fees, under no circumstances shall the Agent or any Agent Party be in any way individually or personally liable under this Agreement and Anchorage shall look solely to the assets and property of the Client that are under management by Agent for performance of the Agreement or payment of any claim under the Agreement with respect to such Client; and
+
+Confidential & Proprietary
+
+(f) 
+
+Agent acknowledges and agrees that the payment of Fees is the obligation of Agent as principal and Agent shall be liable to Anchorage for the failure to pay such fees when due under this Agreement.
+
+6.5. 
+
+Anchorage Disclaimers. Except to the extent set forth herein, THE SERVICES ARE PROVIDED AS IS AND AS AVAILABLE, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED. EXCEPT AS PROVIDED HEREIN, ANCHORAGE EXPLICITLY DISCLAIMS ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF THE COURSE OF DEALING OR USAGE OF TRADE. The Parties further acknowledge and agree that Anchorage has no obligation to inquire into, and shall not be liable for any damages or other liabilities or harm to any person or entity relating to: (i) the authority of any Authorized Person to act on behalf of the Client with respect to a Digital Asset; (ii) the accuracy or completeness of any Client Data or information provided by Client or any Authorized Person with respect to a Digital Asset or Direction; or (iv) the collectability, insurability, or suitability of any Digital Asset.
+
+6.6. 
+
+Prohibition Against Nested Transactions. Deposits or withdrawals of assets to or from Client's Account shall be for Client's own benefit.
+
+7. 
+
+Security Requirements; Personal Information. 
+
+7.1. 
+
+Security Requirements; Personal Information. Client and Anchorage hereby agree that the Data Processing Addendum provided in Exhibit A to Addendum 1 below shall apply to and is hereby incorporated into this Agreement. Client will comply with and cause Authorized Persons and its Representatives to comply with the terms and conditions set forth in the Data Processing Addendum.
+
+7.2. 
+
+Breach Notifications. Anchorage agrees to notify Client of any Personal Data Breach involving Client Data within twenty-four (24) hours of the occurrence of the Personal Data Breach.
+
+7.3. 
+
+[Reserved.] 
+
+Confidential & Proprietary
+
+8. 
+
+Confidentiality.
+
+8.1. 
+
+Client and Anchorage each agree that with respect to any non-public, confidential or proprietary information of the other Party, including the existence and terms of this Agreement, Client Data, Clients deposit and withdrawal details, and information relating to the other partys business operations or business relationships (including Fees), and any arbitration pursuant to this Agreement (collectively, Confidential Information), it (a) will not disclose such Confidential Information except to such partys officers, directors, agents, employees and professional advisors who need to know the Confidential Information for the purpose of assisting in the performance of this Agreement and who are informed of, and agree to be bound by obligations of confidentiality no less restrictive than those set forth herein and (b) will protect such Confidential Information from unauthorized use and disclosure. Each Party shall use any Confidential Information that it receives solely for purposes of (i) exercising its rights and performing its duties under the Agreement and (ii) complying with any applicable laws, rules and regulations. Confidential Information shall not include any (w) information that is or becomes generally publicly available through no fault of the recipient; (x) information that the recipient obtains from a third party (other than in connection with this Agreement) that, to the recipients best knowledge, is not bound by a confidentiality agreement prohibiting such disclosure; (y) information that is independently developed or acquired by the recipient without the use of Confidential Information provided by the disclosing party; or (z) disclosure with the prior written consent of the disclosing Party.
+
+8.2. 
+
+Notwithstanding the foregoing, each Party may disclose Confidential Information of the other Party to the extent required by a court of competent jurisdiction or governmental authority, regulatory body or otherwise required by law, regulation or the rules of any exchange; provided, however, the Party making such required disclosure shall first notify the other Party (to the extent legally permissible) and shall afford the other Party a reasonable opportunity to seek confidential treatment if it wishes to do so and will consider in good faith reasonable and timely requests for redaction. All documents and other tangible objects containing or representing Confidential Information and all copies or extracts thereof or notes derived therefrom that are in the possession or control of the receiving Party shall be and remain the property of the disclosing Party and shall be promptly returned to the disclosing Party or destroyed, each upon the disclosing Partys request; provided, however, notwithstanding the foregoing, the receiving Party may retain one (1) copy of Confidential Information if (a) required by law or regulation; or (b) retained pursuant to an established document retention policy.
+
+8.3. 
+
+Other than as provided in this Section, Anchorage may not identify to any third party that Client is a customer or licensee of Anchorage without Clients prior written consent.
+
+8.4. 
+
+Notwithstanding anything herein to the contrary, Client may disclose the existence of this Agreement to its investors and prospective investors. Additionally, notwithstanding anything herein to the contrary, Anchorage permit Client to reference Anchorage (including a description of Anchorage and/or business, as obtained from publicly available information on Anchorage's website or other public materials) as a service provider hereunder along with the existence and terms of this Agreement as may be required under applicable law, in its public disclosures contained in public filings. In addition, Client may file the Agreement as an exhibit in public filings with the Securities and Exchange Commission, as may be required under applicable law, provided that such information may be redacted to remove pricing and other proprietary information in the Agreement as permitted under applicable law.
+
+Confidential & Proprietary
+
+9. 
+
+Indemnification.
+
+9.1. 
+
+Indemnification Obligation.
+
+a) 
+
+Client shall defend and indemnify and hold harmless Anchorage, its affiliates, and their respective officers, directors, agents, employees and representatives from and against any and all Third Party Claims and Losses arising out of or relating to Clients material breach of this Agreement, Clients violation of any law, rule or regulation related to the performance of its obligations under this Agreement, or Clients gross negligence, fraud or willful misconduct, in each case unless caused primarily by Anchorage's breach, negligence, willful misconduct, fraud, or failure to abide by the relevant standard of care as set forth in Section 10. This obligation will survive any termination of this Agreement as it relates to the Claims and Losses arising during the term of the Agreement or as it relates to activity during such term. Client shall not accept any settlement of any Claims or Losses if such settlement imposes any financial or non-financial liabilities, obligations or restrictions on, or requires an admission of guilt or wrong-doing from, any indemnified party pursuant to this Section 9.1(a), without such indemnified partys prior written consent.
+
+b) 
+
+Anchorage shall defend and indemnify and hold harmless Client, its affiliates, and their respective officers, directors, agents, employees and representatives from and against any and all Claims and Losses to the extent arising out of or relating to Anchorages: (i) any breach of Anchorage's confidentiality, data protection and/or information security obligations, (ii) violation of any law, rule or regulation with respect to the provision of the Services; (iii) the full amount of any Client Digital Assets lost (provided that clause (iii) will also include Claims and Losses that are direct damages to Client); (iv) gross negligence, fraud or willful misconduct; or (v) that Clients access or use of the Services, in accordance with the terms and conditions of this Agreement violates, misappropriates, or infringes upon any third party intellectual and/or industrial property rights, including patent rights, copyrights, moral rights, trademarks, trade names, service marks, trade secrets, rights in inventions (including applications for, and registrations, extensions, renewals, and re-issuances of the foregoing), in each case as it relates to the Claims and Losses arising during the term of the Agreement or as it relates to activity during such term (including, for the avoidance of doubt, any Transition Period). This obligation will survive any termination of this Agreement. Anchorage shall not accept any settlement of any Claims or Losses if such settlement imposes any financial or non-financial liabilities, obligations or restrictions on, or requires an admission of guilt or wrong-doing from, any indemnified party pursuant to this Section 9.1(b), without such indemnified partys prior written consent.
+
+9.2. 
+
+For the purposes of this Agreement:
+
+a) 
+
+Claim means any action, suit, litigation, demand, charge, arbitration, proceeding (including any civil, criminal, administrative, investigative or appellate proceeding), hearing, inquiry, audit, examination or investigation commenced, brought, conducted or heard by or before, or otherwise involving, any court or other governmental, regulatory or administrative body or any arbitrator or arbitration panel; and
+
+Confidential & Proprietary
+
+b) 
+
+Losses means any liabilities, damages, diminution in value, payments, obligations, losses, interest, costs and expenses, security or other remediation costs (including any regulatory investigation or third party subpoena costs, reasonable attorneys fees, court costs, expert witness fees, and other expenses relating to investigating or defending any Claim); fines, taxes, fees, restitution, or penalties imposed by any governmental, regulatory or administrative body, interest on and additions to tax with respect to, or resulting from, Taxes imposed on Clients assets, cash, other property, or any income or gains derived therefrom; and judgments (at law or in equity) or awards of any nature.
+
+10. 
+
+Liability.
+
+10.1. 
+
+CONSEQUENTIAL DAMAGES. NEITHER PARTY HERETO SHALL BE LIABLE FOR ANY INCIDENTAL, INDIRECT, SPECIAL, PUNITIVE, CONSEQUENTIAL OR SIMILAR LOSSES (CONSEQUENTIAL DAMAGES), EVEN IF THE OTHER PARTY HAD BEEN ADVISED OF OR KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY THEREOF.
+
+10.2. 
+
+DAMAGES LIMITATION. OTHER THAN WITH RESPECT TO CLAIMS AND LOSSES ARISING FROM: (I) FRAUD OR WILFULL MISCONDUCT OF ANCHORAGE, (II) THE MUTUALLY CAPPED LIABILITIES (DEFINED BELOW), AND NOTWITHSTANDING ANY OTHER PROVISION HEREIN, IN NO EVENT WILL ANCHORAGE'S LIABILITY HEREUNDER EXCEED THE VALUE OF THE CASH OR AFFECTED DIGITAL ASSETS GIVING RISE TO SUCH LIABILITY. MUTUALLY CAPPED LIABILITIES MEANS (I) CLAIMS AND LOSSES ARISING FROM A PARTYS BREACH OF ITS CONFIDENTIALITY OBLIGATIONS IN SECTION 8, (II) A PARTYS INDEMNITY OBLIGATIONS SET FORTH IN SECTION 9 HEREOF (EXCEPT WITH RESPECT TO 9.1(b)(iii), WHICH SHALL NOT CONSTITUTE A MUTUALLY CAPPED LIABILITY), AND (III) CLAIMS AND LOSSES ARISING FROM THE VIOLATION, MISAPPROPRIATION, OR INFRINGEMENT BY A PARTY OF ANY THIRD PARTY INTELLECTUAL AND/OR INDUSTRIAL PROPERTY RIGHTS, INCLUDING PATENT RIGHTS, COPYRIGHTS, MORAL RIGHTS, TRADEMARKS, TRADE NAMES, SERVICE MARKS, TRADE SECRETS, RIGHTS IN INVENTIONS (INCLUDING APPLICATIONS FOR, AND REGISTRATIONS, EXTENSIONS, RENEWALS, AND RE-ISSUANCES OF THE FOREGOING). OTHER THAN WITH RESPECT TO LIABILITIES ARISING FROM A PARTYS WILFULL MISCONDUCT OR FRAUD, AND NOTWITHSTANDING ANY OTHER PROVISION HEREOF, IN NO EVENT WILL ANY PARTYS LIABILITY FOR A MUTUALLY CAPPED LIABILITY EXCEED THE GREATER OF FIVE MILLION US DOLLARS (US$5,000,000) AND THE AGGREGATE AMOUNT OF FEES PAID BY CLIENT TO ANCHORAGE IN THE 12- MONTH PERIOD PRIOR TO THE EVENT GIVING RISE TO SUCH LIABILITY. WITH RESPECT TO CLAIMS AND LOSSES RELATED TO A WITHDRAWAL OR TRANSFER OF DIGITAL ASSETS, THE VALUE OF SUCH DIGITAL ASSETS SHALL BE DETERMINED BY REFERENCE TO THE BENCHMARK VALUATION ON THE DATE DELIVERY OF SUCH DIGITAL ASSETS IN CONNECTION WITH SUCH WITHDRAWAL OR TRANSFER IS DUE IN ACCORDANCE WITH THE TERMS OF THIS AGREEMENT, INCLUDING WITHOUT LIMITATION, FOR THE AVOIDANCE OF DOUBT, ADDENDUM 1. "BENCHMARK VALUATION" SHALL MEAN FOR DIGITAL ASSETS THE CME CF BITCOIN REFERENCE RATE NEW YORK ("BRRNY") OR THE CME CF ETHER-DOLLAR REFERENCE RATE NEW YORK ("ETHUSD_NY"), AS APPLICABLE, PUBLISHED BY CME GROUP AT 4PM ON THE VALUATION DATE.
+
+Confidential & Proprietary
+
+10.3. 
+
+SPECIFIC PERFORMANCE. TO THE EXTENT ANCHORAGE IS LIABLE FOR ANY CLAIMS OR LOSSES CLIENT INCURS IN CONNECTION WITH THE SERVICES OR WITH RESPECT TO ASSETS CREDITED TO OR THAT SHOULD BE CREDITED TO THE CLIENT'S ACCOUNT, CLIENT AND ANCHORAGE AGREE THAT IRREPARABLE DAMAGE WOULD OCCUR IN THE EVENT ANY PROVISION OF THIS AGREEMENT WAS NOT PERFORMED IN ACCORDANCE WITH THE TERMS HEREOF AND THAT CLIENT SHALL BE ENTITLED TO SPECIFIC PERFORMANCE OF THE TERMS HEREOF, IN ADDITION TO ANY OTHER REMEDY AT LAW OR IN EQUITY.
+
+SPECIFIC PERFORMANCE IS DEFINED AS THE OBLIGATION, IMMEDIATELY UPON NOTICE, TO: FOR ANY ERROR OR FAILURE OF PERFORMANCE OR DELIVERY WITH RESPECT TO A DIRECTION TO DEPOSIT, WITHDRAW OR TRANSFER DIGITAL ASSETS, TO DELIVER THE CORRECT QUANTITY OF DIGITAL ASSETS AS IF THERE HAD BEEN NO SUCH ERROR OR FAILURE OF PERFORMANCE OR DELIVERY; AND WITH RESPECT TO ANY FAILURE OF ITS OBLIGATION TO MAINTAIN DIGITAL ASSETS OR CASH IN THE ACCOUNT, TO DELIVER SUCH DIGITAL ASSETS OR CASH IN THE QUANTITY OR VALUE, RESPECTIVELY, AFFECTED BY SUCH FAILURE.
+
+10.4. 
+
+STANDARD OF CARE. AT MINIMUM, ANCHORAGE SHALL PERFORM ITS OBLIGATIONS UNDER THIS AGREEMENT IN ACCORDANCE WITH THE STANDARD OF A PRUDENT, PROFESSIONAL, COMPETENT, AND REGULATED PROVIDER OF CUSTODY SERVICES IN THE FINANCIAL INDUSTRY, UNLESS A HIGHER STANDARD IS SPECIFIED BY THIS AGREEMENT OR APPLICABLE LAW OR REGULATION.
+
+11. 
+
+Dispute Resolution; Binding Arbitration. 
+
+11.1. 
+
+Arbitration. Any Claim arising out of or relating to this Agreement, or the breach, termination, enforcement, interpretation or validity thereof, including any determination of the scope or applicability of the agreement to arbitrate as set forth in this Section, shall be determined by arbitration in the state of New York, before one neutral arbitrator. The arbitration shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures, and the award of the arbitrator (the Award) shall be accompanied by a reasoned opinion. Judgment on the Award may be entered in any court having jurisdiction. This Agreement shall not preclude the Parties from seeking provisional relief, including injunctive relief, in any court of competent jurisdiction. Seeking any such provisional relief shall not be deemed to be a waiver of such partys right to compel arbitration. The Parties expressly waive their right to a jury trial to the extent permitted by applicable law.
+
+11.2. 
+
+Arbitration. In any arbitration arising out of or related to this Agreement, the arbitrator shall award to the prevailing party, if any, as determined by the arbitrator, all of its costs and fees. Costs and fees mean all reasonable pre-award expenses of the arbitration, including the arbitrators fees, administrative fees, travel expenses, out-of-pocket expenses such as copying and telephone, court costs, witness fees, and attorneys fees.
+
+Confidential & Proprietary
+
+11.3. 
+
+The Parties acknowledge that this Agreement evidences a transaction involving interstate commerce. Notwithstanding the provision herein with respect to applicable substantive law, any arbitration conducted pursuant to the terms of this Agreement shall be governed by the Federal Arbitration Act (9 U.S.C. 1-16).
+
+12. 
+
+General Provisions.
+
+12.1. 
+
+Independent Contractor. It is understood by the Parties that Anchorage is an independent contractor, and that this Agreement does not create or constitute a partnership, joint venture or employment relationship between the Parties.
+
+12.2. 
+
+No Third Party Beneficiaries. This Agreement is not intended to and shall not be construed to give any Third Party any interest or rights (including, without limitation, any Third Party beneficiary rights) with respect to or in connection with any agreement or provision contained herein or contemplated hereby, except as otherwise expressly provided for in this Agreement.
+
+12.3. 
+
+[Reserved]
+
+12.4. 
+
+Force Majeure. Neither Anchorage nor the Client shall be liable to the other for delays, suspension of operations, whether temporary or permanent, failure in performance of this Agreement, or interruption of service in each case to the extent it is directly due to a cause or condition entirely beyond the reasonable control of the Party affected by it, including any act of God; embargo; natural disaster; act of civil or military authorities; act of terrorists; hacking (provided in the case of Anchorage that Anchorage has taken reasonable precautions and acts in a manner consistent with applicable law and its applicable policies and procedures with respect to hacking risks, that these applicable policies and procedures are consistent with industry best practices, and that in carrying out its duties Anchorage is not negligent); government prohibitions; civil disturbance; war; strike or other labor dispute; fire; severe weather; interruption in telecommunications, Internet services, or network provider services; unavailability of Fedwire, SWIFT or banks payment processes; outbreaks of infectious disease or any other public health crises, including quarantine or other required employee restrictions; or any other catastrophe or material event which is beyond the reasonable control of the Party affected by it. For the avoidance of doubt, a cybersecurity attack, hack or other intrusion by a third party or by someone associated with Anchorage is not a circumstance that is beyond Anchorage's reasonable control, to the extent directly caused by Anchorage's failure to comply with its obligations under this Agreement, including any addendum, exhibit, or supplement. In any such event, the time for the Partys performance shall be deferred for a period of time equal to the time lost by reason of such event, provided that the delayed Party shall notify the other Party of such event and shall reasonably cooperate with the other Party in minimizing any adverse impact of such event.
+
+Confidential & Proprietary
+
+12.5. 
+
+Neither Party will be liable to the other Party for the failure to perform or delay in the performance of its obligations under this Agreement to the extent such failure or delay is caused by or results from a Force Majeure Event. The affected Party will not be held liable by the other Party for such non-performance or delay as long as the fact of the occurrence of such Force Majeure Event is duly proven or is reasonably provable. In addition, Anchorage will not be liable to Client for any costs or expenses incurred by Client as a result of any Force Majeure Event. Notwithstanding the foregoing, if the delay in performance exceeds thirty (30) days, the Party awaiting performance will be permitted to terminate this Agreement upon five (5) days prior written notice to the other Party, with no further obligation to the Party claiming excusable delay.
+
+12.6. 
+
+Notices. All notices required or permitted under this Agreement will be in writing and delivered by courier, mail, electronic mail, or within the Anchorage application (except for service of legal process which shall be by courier). A Partys email addresses, or physical address may be changed from time to time by either Party by providing written notice to the other in the manner set forth above.
+
+12.7. 
+
+Execution in Counterparts and by Electronic Means. This Agreement may be executed in counterparts and by electronic means and the Parties agree that such electronic means and delivery will have the same force and effect as delivery of an original document with original signatures.
+
+12.8. 
+
+Entire Agreement; Amendment. This Agreement includes all addendums, exhibits, schedules, the Service Level Agreement and attachments referenced herein, all of which are incorporated herein by this reference. This Agreement is the final, complete, and entire agreement of the Parties. There are no other promises or conditions in any other agreement, oral or written. This Agreement supersedes and replace, as applicable, any prior promises, agreements, representations, undertakings, or implications whether made orally or in writing between the Parties related to the subject matter of this Agreement, including but not limited to, any prior Master Custody Services Agreements entered into between the Parties which shall be deemed terminated upon the execution of this Agreement. The Agreement may only be modified or amended in writing and signed by both Parties.
+
+12.9. 
+
+Remedies Cumulative. Each Party will have all of the rights and remedies provided by law in addition to the rights and remedies set forth in this Agreement and in any other agreement or writing between the Parties. All of a Partys rights and remedies are cumulative and may be exercised from time to time, and the pursuit of one right or remedy will not constitute an exclusive election or otherwise preclude or limit its pursuit of any other or additional right or remedy.
+
+12.10. 
+
+Severability. If any provision of this Agreement will be held to be invalid or unenforceable for any reason, the remaining provisions will continue to be valid and enforceable. If a court finds that any provision of this Agreement is invalid or unenforceable, but that by limiting such provision it would become valid and enforceable, then such provisions will be deemed to be written, construed and enforced as so limited.
+
+Confidential & Proprietary
+
+12.11. 
+
+Assignment. No Party may assign any of its rights under this Agreement or delegate its performance under this Agreement without the prior written consent of the other Party except that either Party may assign its rights and delegate its performance under this Agreement to: (i) any entity that acquires all or substantially all of its assets; (ii) any Affiliate that controls, is controlled by, or is under common control; and (iii) any successor in a merger, acquisition, or reorganization, including any judicial reorganization provided that any entity providing services pursuant to assignment under each of (i), (ii) and (iii) above possess the necessary licenses to perform such services in compliance with applicable law and any entity providing custody services pursuant to this Agreement shall be a qualified custodian as defined under the Advisers Act. Any purported assignment in violation of this Section 12.11 will be null and void, ab initio, and of no force or effect.
+
+12.12. 
+
+Use of Affiliates. Anchorage is, and will at all times be, responsible for the acts and omissions of its Affiliates, including Anchor Labs, Inc. Without limiting the generality of the foregoing, Anchorage hereby discloses that it is a subsidiary of Anchor Labs, Inc., which provides certain technology and administrative services to Anchorage in support of Anchorages provision of Services hereunder, pursuant to an Intercompany Services Agreement between Anchorage and Anchor Labs, Inc., and all provisions under this Agreement that are applicable to Anchorage will apply equally to its Affiliates, including Anchor Labs, Inc. For the avoidance of doubt, this section does not apply to Anchorages use of a Vendor, Fiat Institution, or other service provider. Notwithstanding the foregoing in no circumstances shall custodial services be provided by any entity other than Anchorage.
+
+12.13. 
+
+Insurance. Anchorage shall obtain and maintain, at its sole expense, insurance coverage in such types and amounts that are compliant with the requirements of Addendum 1 to this Agreement.
+
+12.14. 
+
+Governing Law. This Agreement will be governed by and construed exclusively in accordance with the laws of the State of New York, without regard to its conflicts of laws provisions or rules. Subject to Section 11, the Parties hereby agree to submit to the exclusive jurisdiction of any appropriate court located in New York, New York, as a forum for litigation. Each of the Parties hereto hereby waives all right to trial by jury in any lawsuit, action, proceeding or counterclaim arising out of this Agreement.
+
+12.15. 
+
+Survival. Any expiration or termination of this Agreement will not affect any accrued claims, rights or liabilities of Parties, and all provisions which must survive to fulfill their intended purposes, or by their nature are intended to survive such expiration or termination will survive, including Sections 2 - 12, and the Schedules.
+
+12.16. 
+
+Service Level Agreement. Without prejudice to any other provision of this Agreement, the Anchorage Entities will use, at minimum, commercially reasonable efforts to perform its obligations under this Agreement (including, for the avoidance of doubt, any schedule, addendum, confirmation or other document issued or delivered in connection with any transaction hereunder) in accordance with the Service Level Agreement attached as Exhibit A below, or to such higher standard as specified in this Agreement or by Applicable Law.
+
+Confidential & Proprietary
+
+12.17. 
+
+Digital Asset Deposits and Withdrawals. Anchorage will promptly, which in no event shall be longer than 12 hours, process supported Digital Asset deposit transactions into Client's Account according to the Authenticated Instruction received from Client or Clients Authorized Representatives, including, for the avoidance of doubt, Agent, and, except as otherwise explicitly set forth herein, Anchorage is not required to verify the accuracy of the Authenticated Instruction prior to processing. Client must verify the accuracy of all deposit and withdrawal information prior to submitting Directions to Anchorage regarding a Digital Asset deposit or withdrawal transaction. Except for its obligations under, and subject to, this Agreement, Anchorage shall have no liability, obligation, or responsibility for Client Digital Asset transfers conducted in reliance on Authenticated Instructions received from Client or Clients Authorized Representatives pursuant to this Agreement.
+
+Confidential & Proprietary
+
+SCHEDULE A
+
+DEFINITIONS
+
+Account means an account established in the name of, or for the benefit of a Client, in which the ownership of Digital Assets is recorded and to which Digital Assets are credited. Each Account is recorded separately on Anchorage's books and records and has one or more unique wallet addresses on the relevant Blockchain (e.g., in the case of bitcoin, the Blockchain associated with the Bitcoin network). An organization may have one or more Accounts, and an Account may have one or more Vaults. The Authorized Persons and Quorum requirements for each Account may differ from those of other Accounts.
+
+Acceptable Device means a hardware device with software configuration set forth in Schedule B.
+
+Affiliate means an entity controlling, controlled by or under common control with a Party.
+
+Anchorage APImeans the application programming interface, as such may be modified from time to time, made available by Anchorage as part of the Services.
+
+Annual Basis Points refers to the annual rate for custody fees. Monthly Custody Fees are charged at the rate of one-twelfth of the listed annual rate.
+
+AUC or Assets Under Custody means the average daily balance of Client Digital Assets in Anchorages custody each month, calculated after the conclusion of each month, where the average daily balance is determined by adding each daily balance and dividing the sum of the daily balances by the number of days in such month (or in the case of the first month, by the number of days in such month following the Fees Commencement Date). Daily balances are calculated in U.S. Dollars by applying closing prices, as provided by CryptoCompare.com at the close of each day (UTC), or if unavailable, other reliable, reputable third party pricing services, selected by Anchorage in its sole discretion, to the end of day holdings in the Account. If such source(s) closing prices for certain Digital Assets are unavailable, or Anchorage reasonably determines that such prices are unreliable due to low or inconsistent trading volumes, Anchorage may use fixed pricing for such Digital Assets , which will be determined by prior written agreement with Client.
+
+Authenticated Instruction means a Direction (i) regarding specific Digital Assets; (ii) to add or remove Authorized Persons; (iii) to generate or remove, or change permissions for, Anchorage API keys; or (iv) which is otherwise provided for by the Services; by (a) an Authorized Person that has received Quorum approval (where such Quorum approval is required) or (b) an authorized application using an Anchorage API key (generated by an Authorized Person). All Authenticated Instructions shall be received and authenticated by Anchorage in accordance with reasonable security procedures, or they shall not constitute Authenticated Instructions. Anchorages authentication processes and procedures, including security procedures defined herein, will be determined by Anchorage in its reasonable discretion, subject to this Agreement, and in accordance with applicable law and regulation and industry best practices of comparable custodians that are chartered banks and trust companies, from time to time, and will include various measures, including, without limitation, biometric authentication for each Authorized Person, which may include but are not limited to fingerprint, facial recognition, or voiceprint. Where the purpose of an Authenticated Instruction relates to Digital Assets, such an Authenticated Instruction is an entitlement order for purposes of Article 8.
+
+Confidential & Proprietary
+
+Authorized Person means a person nominated by Client, and thereafter approved by Anchorage pursuant to Section 2.1.
+
+Basis Point means 1/100th of 1%.
+
+Bitcoin or BTC (whether capitalized or not) is a type of Digital Asset that is the native asset of the Bitcoin network, which is peer-to-peer network of nodes which implement the Bitcoin protocol.
+
+Blockchain means software operating a distributed ledger which is maintained by a network of computers, and that records all transactions in a Digital Asset in theoretically unchangeable data packages known as blocks, each of which are timestamped to reference the previous block so that the blocks are linked in a chain that evidences the entire history of transactions in the Digital Asset.
+
+Client Data means any or all of the following, and all copies thereof, regardless of the form or media: (i) Personal Information of Client or an Authorized Person; and (ii) any non-public data or information provided or submitted by or on behalf of Client or an Authorized Person as part of the Services.
+
+Confidential Information has the meaning given in the body of this Agreement.
+
+Digital Asset means a digital representation of value that may function as a medium of exchange or medium for investment, including both bitcoin and Ethereum, and which is evidenced on, and can be electronically received and stored using distributed ledger technology. For the avoidance of doubt, Digital Assets held by Anchorage for the Client are Financial Assets for purposes of the UCC and are not assets of Anchorage.
+
+Direction means Authenticated Instructions, through the Anchorage application made by Authorized Persons, or the Anchorage API, relating to the storage or transfer of Digital Assets. All Directions shall be Authenticated Instructions or they shall not constitute Directions.
+
+Documentation means all Client manuals, training and marketing materials, guides, product descriptions, product specifications, technical manuals, supporting materials, and other information relating to the Services and provided by Anchorage to Client.
+
+ETH, "ether", or Ethereum (whether capitalized or not) means a type of Digital Asset called Ether that is the native asset of the Ethereum Mainnet. Ethereum can refer to either the Ethereum Mainnet itself or to the native asset of such network.
+
+Confidential & Proprietary
+
+Ethereum (whether capitalized or not) means, depending on the context, the decentralized Blockchain network powered by ETH, or the network's native asset (ETH).
+
+Ethereum Mainnet means Ethereums main network and Blockchain also known as the Ethereum layer 1 (L1).
+
+Fee has the meaning provided in the Order Form.
+
+Fiat Services means services related to the custody, management, and Directions related to fiat currencies owned by Client and held for Clients benefit by Anchorage, including (i) holding Clients fiat currency in an omnibus banking account held for the benefit of Anchorages clients, and (ii) transferring Clients fiat currency as directed by Client or other Client designee.
+
+Force Majeure Event has the meaning specified in the body of this Agreement.
+
+Fork means (i) that the source code of a Digital Asset network as a whole has been changed in a way that makes it incompatible with the unchanged version of the Digital Asset network, (ii) a material population of miners, validators and/or node operators of the Digital Asset network accept the changes while the remainder do not, and (iii) that the two resulting Digital Asset networks have not been merged together in a timely manner, resulting in divergent blockchains for each. A Fork would create two separate Digital Asset networks (each, a Forked Network), and may result in Anchorage holding an identical amount of Digital Assets associated with each Forked Network.
+
+"including" (irrespective of whether capitalized or not) means including, without limitation.
+
+Intellectual Property Right(s) means, with respect to any thing, material or work (hereinafter, a Work): any and all (i) worldwide copyrights, trademarks, trade secrets and any other intellectual property and proprietary rights and legal protections in and to such Work including but not limited to all rights under treaties and conventions and applications related to any of the foregoing; (ii) all patents, patent applications, registrations and rights to make applications and registrations for the foregoing; (iii) all goodwill associated with the foregoing; (iv) all renewals, extensions, reversions or restorations of all such rights; (v) all works based upon, derived from, or incorporating the Work; (vi) all income, royalties, damages, claims, and payments now or hereafter due or payable with respect thereto; (vii) all causes of action, either in law or in equity for past, present or future infringement based on the Work; (viii) rights corresponding to each of the foregoing throughout the world; and (ix) all the rights embraced or embodied therein, including but not limited to, the right to duplicate, reproduce, copy, distribute, publicly perform, display, license, adapt, prepare derivative works from the Work, together with all physical or tangible embodiments of the Work.
+
+Laws means all United States federal, state and local laws, statutes, ordinances, regulations, rules, executive orders, circulars, opinions, agency guidance, interpretive letters and other official releases, request, or recommendation of or by any government, or any authority, department or agency thereof.
+
+Confidential & Proprietary
+
+Monthly Custody Feemeans (Annual Basis Points x AUC)/12 as calculated using the fee table in the Order Form.
+
+Monthly Minimum Feerefers to the fees as agreed by Parties in the Order Form.
+
+One-Time Onboarding Fee refers to the fees for establishing Client as an Anchorage customer, including KYC/AML processes; one in-person training session; Authorized Person onboarding; and remote training for up to ten (10) individuals. Credit, if any, may be applied to Client Fees only above the Monthly Minimum Fee, and will be applied fully each month until the credit has been fully expended within the Initial Term. Any remaining credit after the Initial Term shall be forfeited.
+
+Personal Data Breach has the meaning provided for in the Data Processing Addendum attached as Exhibit A.
+
+Personal Information means any information relating to an identified or identifiable individual, such as name, postal address, email address, telephone number, date of birth, Social Security number (or its equivalent), drivers license number, account number, personal identification number, health or medical information, fingerprint, voice print, or any other unique logical or biometric identifier specific to an individual, regardless of the media in which it is contained, that is: (i) disclosed to Anchorage, its Affiliates or Anchorage Representatives by Client or an Authorized Person in anticipation of, in connection with or incidental to the Services; (ii) processed at any time by Anchorage, an Anchorage Affiliate or Anchorage Representatives in connection with or incidental to the performance of its obligations under this Agreement; or (iii) derived by Anchorage, an Anchorage Affiliate or Anchorage Representatives from the information described in (i) and (ii) above.
+
+Private Key means an alphanumeric string known only to the holder of a Digital Asset, which must be used to transact the Digital Asset represented by the corresponding Public Key on the applicable Blockchain.
+
+Public Key means an alphanumeric string on a Blockchain that indicates ownership/possession of a specific amount of a Digital Asset by a specific network participant. The Public Key is visible to all participants in the Blockchains network.
+
+Quorum means the minimum number of Authorized Persons required to approve a Direction which requires a quorum. Unless otherwise specified in an applicable control agreement or instructions provided in connection therewith, (i) Client may designate the total number and the minimum number of Authorized Persons required to approve an Authenticated Instruction or other Direction so long as Client designates at least three (3) Authorized Persons, with at least two (2) required to approve any Direction.
+
+Representative means any employees, officers, directors, representatives, contractors, and agents of a Party.
+
+Confidential & Proprietary
+
+Services means the services related to the custody and settlement of Digital Assets provided by Anchorage to Client under this Agreement (including any attachments, schedules, exhibits, or addendums), including the Technology Platform and Support Services. Services also includes Fiat Services or On-Chain Services if Anchorage has offered such services to Client, and Client has accepted such services. For the avoidance of doubt, Services expressly excludes the provision of legal, tax, brokerage, or investment advice or recommendations.
+
+Support Services means services supporting the use of the Services, including access to Anchorage Representatives for support related to Account(s), training, etc.
+
+Technology Platform means the technology platform and application provided by Anchorage and made available to Client to access the Services and Account(s), including the Anchorage API, and any changes, improvements, extensions thereto or other versions thereof in order to: (i) store Clients Digital Assets and provide related services; (ii) handle Digital Assets according to Authenticated Instructions; and (iii) determine the eligibility of Digital Assets for storage and continued storage. The Technology Platform includes but is not limited to (i) algorithms, computer programs, concepts, ideas, inventions, machines, mask works, procedures, processes, rates, security codes, and works of authorship in all cases whether or not patentable or copyrightable, that are owned or in-licensed by Anchorage or that otherwise are or have been created, developed, owned, incorporated or generated, in whole or in part, by or on behalf of Anchorage for or into or in connection with features, functions, tools or services to be provided pursuant to this Agreement, (ii) all data and other information that are or can be collected, compiled, or derived by or on behalf of Anchorage from any usage by Client or any other person of any work, invention, or other subject matter referred to in the foregoing, and (iii) any work, invention, or other subject matter that constitutes or relates to a suggestion, enhancement, modification, improvement, upgrade, or update regarding, or that is otherwise based on or derived from or related to, any work, invention, or other subject matter referred to in this the foregoing.
+
+Third Partymeans a person(s) or any legal entity that is not a Party, a Representative of a Party, or an Affiliate of a Party.
+
+UCC means the New York Uniform Commercial Code.
+
+UUC or Units Under Custody means the average daily quantity of Client Digital Assets in Anchorages custody each month, calculated after the conclusion of each month, where the average daily quantity is determined by adding each daily quantity and dividing the sum of the daily quantity amounts by the number of days in such month (or in the case of the first month, by the number of days in such month following the Fees Commencement Date). The first invoice will be sent after the end of the calendar month including the Fees Commencement Date, unless otherwise agreed in writing by the Parties.
+
+Vault means a subdivision of an Account. Each Vault is held separately on Anchorage's books and records and may have one or more unique wallet addresses on the relevant Blockchain. The Authorized Persons and Quorum requirements for each Vault may differ from those of other Vaults.
+
+Confidential & Proprietary
+
+SCHEDULE B
+
+TECHNICAL AND EQUIPMENT SPECIFICATIONS
+
+1. 
+
+Acceptable Device.
+
+As to each nominated Authorized Person, a unique iPhone or iPad with TouchID or FaceID is required for the Services and must meet the minimum iPhone or iPad model as required by Anchorage.
+
+Note: Anchorage also reserves the right, upon notice to Client, to exclude new iPhone versions for a brief period as Anchorage deems necessary in its sole discretion (such as to ensure that the new software and/or device is operable with the Anchorage application and systems, is secure, and free from material bugs). 
+
+2. 
+
+Software Specifications.
+
+As to each Acceptable Device of each nominated Authorized Person, the operating system must meet the minimum iOS version as required by Anchorage.
+
+3. 
+
+Changes to Schedule B. 
+
+Anchorage may, in its sole discretion, amend the Acceptable Device and Software Specification requirements in this Schedule B for security or service purposes, with 30 days prior written notice to Client. Upon amendment of any Acceptable Device and Software Specification requirements, as provided hereunder, Client will update and/or replace the Acceptable Device(s) as may be necessary, at its sole expense. Client understands and agrees that ongoing access to the Services will depend on compliance with Anchorage Acceptable Device and Software Specification requirements.
+
+Confidential & Proprietary
+
+Exhibit A
+
+Service Level Agreement
+
+SCOPE OF SERVICES
+
+[Redacted]
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+Confidential & Proprietary
+
+ADDENDUM NO. 1
+
+TO ANCHORAGE DIGITAL BANK STANDARD TERMS AND CONDITIONS
+
+[Redacted]
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+Confidential & Proprietary
+
+EXHIBIT A
+
+DATA PROTECTION: PERSONAL INFORMATION SUPPLEMENT 
+
+[Redacted]
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+Confidential & Proprietary
+
+Annex A to Exhibit A: List of Authorized Subcontractors
+
+[Redacted]
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+Confidential & Proprietary
+
+EXHIBIT B
+
+BACKGROUND SCREENING CRITERIA
+
+[Redacted]
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+Confidential & Proprietary
+
+EXHIBIT C
+
+INSURANCE 
+
+[Redacted]
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+Confidential & Proprietary
+
+EXHIBIT D
+
+BUSINESS CONTINUITY PLANNING: SUPPLEMENTAL TERMS
+
+[Redacted]
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+Confidential & Proprietary
+
+EXHIBIT E
+
+CLIENT INFORMATION SECURITY
+
+[Redacted]
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+Confidential & Proprietary
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>noticker-20250407.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA
+<TEXT>
+000 - Document - Document And Entity Information 
+link:calculationLink 
+link:definitionLink 
+link:presentationLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>4
+<FILENAME>noticker-20250407_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>noticker-20250407_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE
+<TEXT>
+Entity [Domain] 
+
+Legal Entity [Axis] 
+
+Document Information [Line Items] 
+
+Document Information [Table] 
+
+Document, Type 
+
+Document, Period End Date 
+
+Entity, Registrant Name 
+
+Entity, Incorporation, State or Country Code 
+
+Entity, File Number 
+
+Entity, Tax Identification Number 
+
+Entity, Address, Address Line One 
+
+Entity, Address, City or Town 
+
+Entity, Address, State or Province 
+
+Entity, Address, Postal Zip Code 
+
+City Area Code 
+
+Local Phone Number 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Entity, Emerging Growth Company 
+
+Entity, Ex Transition Period 
+
+Amendment Flag 
+
+Entity, Central Index Key
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>noticker-20250407_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>anchorage.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Document And Entity Information
+
+Apr. 07, 2025
+
+Document Information [Line Items] 
+
+Entity, Registrant Name iShares Bitcoin Trust ETF
+
+Document, Type 8-K
+
+Document, Period End Date Apr. 07, 2025
+
+Entity, Incorporation, State or Country Code NY
+
+Entity, File Number 001-41914
+
+Entity, Tax Identification Number 93-6461129
+
+Entity, Address, Address Line One 400 Howard Street
+
+Entity, Address, City or Town San Francisco
+
+Entity, Address, State or Province CA
+
+Entity, Address, Postal Zip Code 94105
+
+City Area Code 415
+
+Local Phone Number 670-2000
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Shares
+
+Trading Symbol IBIT
+
+Security Exchange Name NASDAQ
+
+Entity, Emerging Growth Company true
+
+Entity, Ex Transition Period true
+
+Amendment Flag false
+
+Entity, Central Index Key 0001980994
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentInformationLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 7A
+
+-Section B
+
+-Subsection 2
+
++ Details
+
+Name: dei_EntityExTransitionPeriod
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>10
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+1 
+23 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+000 - Document - Document And Entity Information 
+Sheet 
+http://www.noticker.com/20250407/role/statement-document-and-entity-information 
+Document And Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+bit20250404_8k.htm 
+noticker-20250407.xsd 
+noticker-20250407_def.xml 
+noticker-20250407_lab.xml 
+noticker-20250407_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>16
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>17
+<FILENAME>0001437749-25-011313-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>18
+<FILENAME>bit20250404_8k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001980994 
+
+2025-04-07 
+2025-04-07 
+
+false 
+0001980994 
+8-K 
+2025-04-07 
+iShares Bitcoin Trust ETF 
+NY 
+001-41914 
+93-6461129 
+400 Howard Street 
+San Francisco 
+CA 
+94105 
+415 
+670-2000 
+false 
+false 
+false 
+false 
+Shares 
+IBIT 
+NASDAQ 
+true 
+true
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

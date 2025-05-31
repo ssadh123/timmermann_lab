@@ -1,0 +1,1611 @@
+<SEC-DOCUMENT>0001628280-25-008133.txt : 20250226
+<SEC-HEADER>0001628280-25-008133.hdr.sgml : 20250226
+<ACCEPTANCE-DATETIME>20250226160711
+ACCESSION NUMBER:		0001628280-25-008133
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		16
+CONFORMED PERIOD OF REPORT:	20250226
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250226
+DATE AS OF CHANGE:		20250226
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Marqeta, Inc.
+		CENTRAL INDEX KEY:			0001522540
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				274306690
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40465
+		FILM NUMBER:		25670009
+
+	BUSINESS ADDRESS:	
+		STREET 1:		180 GRAND AVENUE
+		STREET 2:		6TH FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94612
+		BUSINESS PHONE:		1-510-671-5437
+
+	MAIL ADDRESS:	
+		STREET 1:		180 GRAND AVENUE
+		STREET 2:		6TH FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94612
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>mq-20250226.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?mq-20250226
+
+0001522540FALSE00015225402025-02-262025-02-26
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported):February 26, 2025
+
+MARQETA, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-40465 27-4306690
+
+(State or other jurisdiction
+
+of incorporation) (Commission
+
+File Number) (IRS Employer
+
+Identification No.)
+
+180 Grand Avenue, 6th Floor
+
+Oakland, California94612
+
+(Address of principal executive offices, including zip code) 
+
+Registrants telephone number, including area code:(510) 671-5437
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Class A common stock, $0.0001 par value per share MQ The Nasdaq Stock Market LLC
+
+(Nasdaq Global Select Market)
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On February 26, 2025, Marqeta, Inc. issued a press release announcing its financial results for the quarter and full year ended December 31, 2024. A copy of the press release is furnished as Exhibit 99.1 to this current report on Form 8-K and is incorporated herein by reference.
+
+The information furnished pursuant to this Item 2.02, including Exhibit 99.1, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit Number Description
+
+99.1 
+
+Press release issued by Marqeta, Inc., dated February 26, 2025
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+MARQETA, INC.
+
+Date: February 26, 2025 /s/ Michael (Mike) Milotich
+
+Michael (Mike) Milotich
+
+Interim Chief Executive Officer & Chief Financial Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>mqearningsrelease-q42024.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+MARQETA REPORTS FOURTH QUARTER AND FULL YEAR 2024 FINANCIAL RESULTS 
+
+The global modern card issuing platform's fourth quarter total processing volume grew 29 percent year-over-year, generating 18% growth in Gross Profit.
+
+OAKLAND, Calif. February 26, 2025 - Marqeta, Inc. (NASDAQ: MQ), the global modern card issuing platform, today reported financial results for the fourth quarter and full year ended December 31, 2024.
+
+Total processing volume (TPV) was $80 billion for the quarter, representing a 29% year-over-year increase. Marqeta reported Q4 Net Revenue of $136 million and Gross Profit of $98 million, representing increases of 14% and 18%, respectively, year-over-year. GAAP Net Loss for the quarter was $27 million and Adjusted EBITDA was $13 million.
+
+TPV was $291 billion for the full year 2024, an annual increase of 31%. For the full year, Marqeta reported Net Revenue of $507 million, an annual decrease of 25%, which reflected a 39 percentage point negative growth impact due to the change in revenue presentation resulting from the Cash App renewal in July 2023. Gross Profit of $352 million represents an increase of 7% year-over-year. The company reported GAAP Net Income of $27 million and Adjusted EBITDA of $29 million for the year ended December 31, 2024.
+
+"In 2024, we empowered our customers to achieve significant growth and scale, maintaining both stability and compliance," said Mike Milotich, Interim CEO at Marqeta. "Entering 2025, our strengthened platform uniquely positions us to serve fintechs and embedded finance with comprehensive debit, credit, and money movement solutions, all fueled by accelerated payment innovation, streamlined operations, and new network and bank partnerships."
+
+Marqeta highlighted several recent business updates that demonstrate business momentum:
+
+Marqeta signed a broad range of new programs in Q4, including its first consumer credit co-brand partnership and several European deals including program management. This further demonstrates Marqeta's differentiation and breadth by providing program management solutions across debit and credit, consumer and commercial, globally.
+
+Marqeta entered into an agreement to acquire TransactPay to provide BIN sponsorship and card issuance in the United Kingdom (UK) and European Economic Area (EEA) through electronic money institution (EMI) licenses. This strengthens Marqetas program management capabilities in Europe in support of Embedded Finance customers.
+
+Marqeta announced its plan to add the American Express network as a new option on its platform to further broaden and differentiate the offering for fintech and embedded finance customers across credit and debit card programs.
+
+Share Repurchase:
+
+The Board of Directors has authorized an additional share repurchase program for up to $300 million of Marqetas Class A common stock.
+
+1
+
+Operating Highlights
+
+In thousands, except percentages and per share data. % change is calculated over the comparable prior-year period (unaudited) Three Months Ended
+
+December 31, %
+
+Change Twelve Months Ended
+
+December 31, %
+
+Change
+
+2024 2023 2024 2023 
+
+Financial metrics: 
+
+Net revenue $ 135,790 $ 118,822 14% $ 506,995 $ 676,171 (25%)
+
+Gross profit $ 98,202 $ 83,233 18% $ 351,849 $ 329,514 7%
+
+Gross margin 72 % 70 % 2 ppts 69 % 49 % 20 ppts
+
+Total operating expenses $ 135,628 $ 139,571 (3%) $ 376,315 $ 612,529 (39%)
+
+Net (loss) income $ (27,119) $ (40,376) 33% $ 27,287 $ (222,962) 112%
+
+Net (loss) income margin (20 %) (34 %) 14 ppts 5 % (33 %) 38 ppts
+
+Net (loss) income per share - basic and diluted $ (0.05) $ (0.08) 38% $ 0.05 $ (0.42) 112%
+
+Key operating metric and Non-GAAP financial measures: 
+
+Total Processing Volume (TPV) (in millions) 1 $ 79,913 $ 61,979 29% $ 291,105 $ 222,264 31%
+
+Adjusted EBITDA 2 $ 12,663 $ 3,292 285% $ 29,093 $ (2,290) nm
+
+Adjusted EBITDA margin 2 9 % 3 % 6 ppts 6 % (0.3 %) 6 ppts
+
+Non-GAAP operating expenses 2 $ 85,539 $ 79,941 7% $ 322,756 $ 331,804 (3%)
+
+1TPV represents the total dollar amount of payments processed through our platform, net of returns and chargebacks. We believe that TPV is a key indicator of the market adoption of our platform, growth of our brand, growth of our customers' businesses, and scale of our business.
+
+2 See "Information Regarding Non-GAAP Measures" for definitions of Adjusted EBITDA, Adjusted EBITDA margin, and Non-GAAP operating expenses and the reconciliations of the net loss to Adjusted EBITDA, and of the total operating expenses to Non-GAAP operating expenses.
+
+nm - Not meaningful
+
+Fourth Quarter 2024 Financial Results:
+
+TPV increased by 29% year-over-year, from $62 billion for the quarter ended December 31, 2023, to $80 billion for the quarter ended December 31, 2024.
+
+Net Revenue of $136 million increased by $17 million, or 14% year-over-year.
+
+Gross Profit increased by 18% year-over-year to $98 million from $83 million in the fourth quarter of 2023 primarily due to TPV growth. Gross margin was 72% in the fourth quarter of 2024.
+
+Net Loss decreased by $13 million, or 33%, year-over-year to $27 million, primarily due to Gross Profit growth and lower operating expenses.
+
+Adjusted EBITDA in the fourth quarter of 2024 was $13 million, an increase of $9 million year-over-year.
+
+Full Year 2024 Financial Results:
+
+TPV increased by 31% year-over-year, from $222 billion in 2023, to $291 billion in 2024. 
+
+Net Revenue decreased by $169 million, or 25% year-over-year, primarily driven by the contract renewal with Cash App, which allowed for reduced pricing and also resulted in a change to the revenue presentation. The impact of fees owed to Issuing Banks and Card Networks related to the Cash App primary Card Network volume, which are netted against revenue earned from the Cash App program within Net Revenue, was a reduction of $265 million, negatively impacting the growth rate by 39 percentage points. In prior periods, these costs were included within Cost of Revenue. 
+
+Gross Profit increased by $22 million, or 7% year-over-year. Gross margin was 69% for the year ended December 31, 2024.
+
+Net Income increased by $250 million year-over-year to $27 million, primarily driven by the one-time reversal of $145 million in share-based compensation recognized in prior years stemming from the forfeiture of the Executive Chairman Long-Term Performance Award, as well as, increases in gross profit growth and lower operating expenses.
+
+2
+
+Adjusted EBITDA for the year ended December 31, 2024 was earnings of $29 million, a $31 million year-over-year improvement.
+
+Acquisition of TransactPay:
+
+Marqeta also announced it has entered into an agreement to acquire TransactPay, a BIN Sponsorship provider that is licensed as an E-Money Institution (EMI) regulated and authorized by the Gibraltar Financial Services Commission and Malta Financial Services Authority, to issue e-money and undertake payment services in the United Kingdom (UK) and European Economic Area (EEA). Founded in 2012, TransactPay, operating under its EMI licenses, is currently live in 25 countries, supporting 16 currencies, and is a principal member of Mastercard and Visa. The acquisition bolsters Marqetas card program management capabilities in the UK and EEA, attracting additional customers in Europe and allowing Marqetas existing customers to expand more easily into European markets, while staying at the forefront of compliance and without the added complexity of engaging additional partners. The integrated offering will include dedicated customer and production support and strategic bank, network and regulatory relationships, enabling card programs to scale throughout the region. 
+
+The acquisition is expected to close within 6 months, subject to the satisfaction of customary closing conditions and receipt of regulatory approval.
+
+Financial Guidance
+
+The following summarizes Marqeta's guidance for the first quarter of 2025:
+
+First Quarter 2025 
+
+Fiscal Year 2025
+
+Net Revenue Growth 
+
+14 - 16% 
+
+16 - 18%
+
+Gross Profit Growth 
+
+11 - 13% 
+
+14 - 16%
+
+Adjusted EBITDA Margin (1) 
+
+10 - 11% 
+
+9 - 10%
+
+(1) See "Information Regarding Non-GAAP Measures" for the definition of Adjusted EBITDA Margin and for information regarding non-availability of a forward reconciliation. 
+
+Conference Call
+
+Marqeta will host a live conference call today at 1:30 p.m. Pacific time (4:30 p.m. Eastern time). To join the call, please dial-in 10 minutes in advance: toll-free at 1-877-407-4018 or direct at 1-201-689-8471. The conference call will also be available live via webcast online at http://investors.marqeta.com. 
+
+The telephone replay dial-in numbers are 1-844-512-2921 and 1-412-317-6671 and will be available until March 5, 2025, 8:59 p.m. Pacific time (11:59 p.m. Eastern time). The confirmation code for the replay is 13750712.
+
+Forward-Looking Statements
+
+This press release contains "forward-looking statements" within the meaning of the "safe harbor" provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements expressed or implied in this press release include, but are not limited to, statements relating to Marqetas quarterly and annual guidance; statements regarding Marqetas business plans, business strategy and the continued success and growth of our customers; statements and expectations regarding Marqeta's partnerships, new product introductions, and product capabilities; statements and expectations regarding growth and opportunities in the fintech industry and embedded finance; statements regarding our acquisition of TransactPay; and statements made by Marqetas Interim CEO. Actual results may differ materially from the expectations contained in these statements due to risks and uncertainties, including, but not limited to, the following: the effect of uncertainties related to global economies, our business, results of operations, financial condition, and demand for our platform; the risk that Marqetas anticipated accounting treatment may be subject to further changes or developments; the risk that Marqeta is unable to further attract, retain, diversify, and expand its customer base; the risk that Marqeta is unable to drive increased profitable transactions on its platform; the risk that consumers and customers will not perceive 
+
+3
+
+the benefits of Marqetas products, including credit card issuing, as Marqeta expects; the risk that Marqeta's platform does not operate as intended resulting in system outages; the risk that Marqeta will not be able to achieve the cost structure that Marqeta currently expects; the risk that Marqetas solution will not achieve the expected market acceptance; the risk that competition could reduce expected demand for Marqetas services, including credit card issuing; the risk that changes in the regulatory landscape could adversely affect Marqeta's operations and revenues; the risk that Marqeta may be unable to maintain relationships with Issuing Banks and Card Networks; the risk that Marqeta is not able to identify, close and recognize the anticipated benefits of any acquisition, including TransactPay; the risk that Marqeta is unable to successfully integrate any acquisition, including TransactPay, to businesses and related operations; the risk of financial services and banking sector instability and follow on effects to fintech companies; the risk of general economic conditions in either domestic or international markets, including inflation and recessionary fears, conditions resulting from geopolitical uncertainty and instability or war; and the risk that Marqeta may be subject to additional risks due to its international business activities. Detailed information about these risks and other factors that could potentially affect Marqetas business, financial condition, and results of operations are included in the Risk Factors disclosed in Marqeta's Annual Report on Form 10-K for the year ended December 31, 2023, as such risk factors may be updated from time to time in Marqetas periodic filings with the SEC, available at www.sec.gov and Marqetas website at http://investors.marqeta.com.
+
+The forward-looking statements in this press release are based on information available to Marqeta as of the date hereof. Marqeta disclaims any obligation to update any forward-looking statements, except as required by law.
+
+Disclosure Information
+
+Investors and others should note that Marqeta announces material financial information to its investors using its investor relations website, SEC filings, press releases, public conference calls and webcasts. Marqeta also uses social media to communicate with its customers and the public about Marqeta, its products and services, and other matters relating to its business and market. It is possible that the information Marqeta posts on social media could be deemed to be material information. Therefore, Marqeta encourages investors, the media, and others interested in Marqeta to review the information we post on social media channels including the Marqeta X feed (@Marqeta), the Marqeta Instagram page (@lifeatmarqeta), the Marqeta Facebook page, and the Marqeta LinkedIn page. These social media channels may be updated from time to time.
+
+Use of Non-GAAP Financial Measures
+
+Reconciliations of non-GAAP financial measures to the most directly comparable financial results as determined in accordance with GAAP are included at the end of this press release following the accompanying financial data. For a description of these non-GAAP financial measures, including the reasons management uses each measure, please see the section of the tables titled "Information Regarding Non-GAAP Financial Measures".
+
+About Marqeta, Inc.
+
+Marqetas modern card issuing platform empowers its customers to create customized and innovative payment cards. Marqetas modern architecture gives its customers the ability to build more configurable and flexible payment experiences, accelerating time-to-market and democratizing access to card issuing technology. Marqetas open APIs provide instant access to highly scalable, cloud-based payment infrastructure that enables customers to launch and manage their own card programs, issue cards, and authorize and settle payment transactions. Marqeta is headquartered in Oakland, California and is certified to operate in more than 40 countries globally.
+
+Marqeta is a registered trademark of Marqeta, Inc.
+
+IR Contact: Marqeta Investor Relations, IR@marqeta.com
+
+4
+
+Marqeta, Inc.
+
+Condensed Consolidated Statements of Operations
+
+(in thousands, except per share amounts)
+
+(unaudited)
+
+Three Months Ended 
+
+December 31, Twelve Months Ended 
+
+December 31,
+
+2024 2023 2024 2023
+
+Net revenue $ 135,790 $ 118,822 $ 506,995 $ 676,171 
+
+Costs of revenue 37,588 35,589 155,146 346,657 
+
+Gross profit 98,202 83,233 351,849 329,514 
+
+Operating expenses (benefit): 
+
+Compensation and benefits 98,475 95,790 397,595 446,381 
+
+Technology 15,855 13,938 60,059 55,612 
+
+Professional services 6,620 7,172 20,057 21,679 
+
+Occupancy 2,519 1,076 5,995 4,361 
+
+Depreciation and amortization 5,519 3,159 17,460 10,741 
+
+Marketing and advertising 1,298 1,219 2,986 2,566 
+
+Other operating expenses 5,342 3,804 16,780 17,975 
+
+Executive chairman long-term performance award 13,413 (144,617) 53,214 
+
+Total operating expenses 135,628 139,571 376,315 612,529 
+
+Loss from operations (37,426) (56,338) (24,466) (283,015) 
+
+Other income, net 10,701 14,932 52,546 52,440 
+
+(Loss) income before income tax expense (26,725) (41,406) 28,080 (230,575) 
+
+Income tax expense (benefit) 394 (1,030) 793 (7,613) 
+
+Net (loss) income $ (27,119) $ (40,376) $ 27,287 $ (222,962) 
+
+Net (loss) income per share attributable to common stockholders, basic $ (0.05) $ (0.08) $ 0.05 $ (0.42) 
+
+Net (loss) income per share attributable to common stockholders, diluted $ (0.05) $ (0.08) $ 0.05 $ (0.42) 
+
+Weighted-average shares used in computing net (loss) income per share attributable to common stockholders, basic 502,929 522,331 511,065 532,540 
+
+Weighted-average shares used in computing net (loss) income per share attributable to common stockholders, diluted 502,929 522,331 518,845 532,540 
+
+5
+
+Marqeta, Inc. 
+
+Condensed Consolidated Balance Sheets
+
+(in thousands)
+
+(unaudited)
+
+December 31,
+
+2024 December 31,
+
+2023
+
+Assets 
+
+Current assets: 
+
+Cash and cash equivalents $ 923,016 $ 980,972 
+
+Restricted cash 8,500 8,500 
+
+Short-term investments 179,409 268,724 
+
+Accounts receivable, net 29,988 19,540 
+
+Settlements receivable, net 16,203 29,922 
+
+Network incentives receivable 66,776 53,807 
+
+Prepaid expenses and other current assets 25,405 27,233 
+
+Total current assets 1,249,297 1,388,698 
+
+Operating lease right-of-use assets, net 2,712 6,488 
+
+Property and equipment, net 37,523 18,764 
+
+Intangibles 29,774 35,631 
+
+Goodwill 123,523 123,523 
+
+Other assets 20,375 16,587 
+
+Total assets $ 1,463,204 $ 1,589,691 
+
+Liabilities and stockholders' equity 
+
+Current liabilities 
+
+Accounts payable $ 527 $ 1,420 
+
+Revenue share payable 193,399 173,645 
+
+Accrued expenses and other current liabilities 177,059 161,514 
+
+Total current liabilities 370,985 336,579 
+
+Operating lease liabilities, net of current portion 870 5,126 
+
+Other liabilities 6,331 4,591 
+
+Total liabilities 378,186 346,296 
+
+Stockholders' equity: 
+
+Preferred stock 
+
+Common stock 50 52 
+
+Additional paid-in capital 1,883,190 2,067,776 
+
+Accumulated other comprehensive (loss) income (314) 762 
+
+Accumulated deficit (797,908) (825,195) 
+
+Total stockholders equity 1,085,018 1,243,395 
+
+Total liabilities and stockholders' equity $ 1,463,204 $ 1,589,691 
+
+6
+
+Marqeta, Inc.
+
+Condensed Consolidated Statements of Cash Flows
+
+(in thousands)
+
+(unaudited)
+
+Year Ended December 31, 
+
+2024 2023 
+
+Cash flows from operating activities: 
+
+Net Income (loss) $ 27,287 $ (222,962) 
+
+Adjustments to reconcile net income (loss) to net cash provided by operating activities: 
+
+Depreciation and amortization 17,460 10,741 
+
+Share-based compensation expense 136,562 127,525 
+
+Executive chairman long-term performance award (144,617) 53,214 
+
+Non-cash operating leases expense 1,756 2,527 
+
+Non-cash postcombination compensation expense 32,430 
+
+Amortization of premium on short-term investments (3,232) (4,495) 
+
+Other 1,669 736 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable (11,202) (4,556) 
+
+Settlements receivable 13,719 (11,894) 
+
+Network incentives receivable (12,969) (11,146) 
+
+Prepaid expenses and other assets 462 7,900 
+
+Accounts payable (350) (1,956) 
+
+Revenue share payable 19,754 31,451 
+
+Accrued expenses and other liabilities 15,112 14,983 
+
+Operating lease liabilities (3,241) (3,394) 
+
+Net cash provided by operating activities 58,170 21,104 
+
+Cash flows from investing activities: 
+
+Purchases of property and equipment (2,418) (762) 
+
+Capitalization of internal-use software (18,794) (11,889) 
+
+Business combination, net of cash acquired (135,777) 
+
+Purchases of short-term investments (892,430) 
+
+Sales of short-term investments 577,934 
+
+Maturities of short-term investments 92,000 501,534 
+
+Realized gain (loss) on investments (94) 
+
+Net cash provided by investing activities 70,788 38,516 
+
+Cash flows from financing activities: 
+
+Proceeds from exercise of stock options, including early exercised stock options, net of repurchase of early exercised unvested options 203 5,289 
+
+Payment on acquisition-related contingent consideration (53,067) 
+
+Proceeds from shares issued in connection with employee stock purchase plan 2,715 3,066 
+
+Taxes paid related to net share settlement of restricted stock units (35,407) (26,662) 
+
+Repurchase of common stock (154,425) (190,420) 
+
+Net cash used in financing activities (186,914) (261,794) 
+
+Decrease in cash, cash equivalents, and restricted cash (57,956) (202,174) 
+
+Cash, cash equivalents, and restricted cash - Beginning of period 989,472 1,191,646 
+
+Cash, cash equivalents, and restricted cash - End of period $ 931,516 $ 989,472 
+
+7
+
+Marqeta, Inc.
+
+Financial and Operating Highlights 
+
+(in thousands, except per share data or as noted)
+
+(unaudited)
+
+2024 2023 Year over Year Change - Q4'24 vs Q4'23
+
+Fourth Quarter Third Quarter Second Quarter First Quarter Fourth Quarter 
+
+Operating performance: 
+
+Net revenue $ 135,790 $ 127,967 $ 125,270 $ 117,968 $ 118,822 14 %
+
+Costs of revenue 37,588 37,835 45,917 33,807 35,589 6 %
+
+Gross profit 98,202 90,132 79,353 84,161 83,233 18 %
+
+Gross profit margin 72 % 70 % 63 % 71 % 70 % 2 ppts
+
+Operating expenses (benefit): 
+
+Compensation and benefits 98,475 100,964 103,166 94,990 95,790 3 %
+
+Technology 15,855 16,317 14,769 13,118 13,938 14 %
+
+Professional services 6,620 4,759 4,808 3,870 7,172 (8 %)
+
+Occupancy and equipment 2,519 1,178 1,204 1,094 1,076 134 %
+
+Depreciation and amortization 5,519 4,448 3,956 3,537 3,159 75 %
+
+Marketing and advertising 1,298 582 728 378 1,219 6 %
+
+Other operating expenses 5,342 4,115 3,418 3,905 3,804 40 %
+
+Executive chairman long-term performance award (157,738) 13,121 13,413 nm
+
+Total operating expenses (benefits) 135,628 132,363 (25,689) 134,013 139,571 (3 %)
+
+(Loss) income from operations (37,426) (42,231) 105,042 (49,852) (56,338) 34 %
+
+Other income, net 10,701 13,703 14,216 13,926 14,932 (28 %)
+
+(Loss) income before income tax (26,725) (28,528) 119,258 (35,926) (41,406) 35 %
+
+Income tax expense (benefit) 394 115 150 134 (1,030) (138 %)
+
+Net (loss) income $ (27,119) $ (28,643) $ 119,108 $ (36,060) $ (40,376) 33 %
+
+(Loss) earnings per share - basic $ (0.05) $ (0.06) $ 0.23 $ (0.07) $ (0.08) 38 %
+
+(Loss) earnings per share - diluted $ (0.05) $ (0.06) $ 0.23 $ (0.07) $ (0.08) 38 %
+
+TPV (in millions) $ 79,913 $ 73,899 $ 70,627 $ 66,666 $ 61,979 29 %
+
+Adjusted EBITDA $ 12,663 $ 9,019 $ (1,817) $ 9,228 $ 3,292 285 %
+
+Adjusted EBITDA margin 9 % 7 % (1 %) 8 % 3 % 6 ppts
+
+Financial condition: 
+
+Cash and cash equivalents $ 923,016 $ 886,417 $ 924,730 $ 970,357 $ 980,972 (6 %)
+
+Restricted cash $ 8,500 $ 8,500 $ 8,500 $ 8,500 $ 8,500 %
+
+Short-term investments $ 179,409 $ 217,569 $ 228,833 $ 228,324 $ 268,724 (33 %)
+
+Total assets $ 1,463,204 $ 1,435,836 $ 1,488,283 $ 1,558,361 $ 1,589,691 (8 %)
+
+Total liabilities $ 378,186 $ 340,178 $ 345,908 $ 347,696 $ 346,296 9 %
+
+Stockholders' equity $ 1,085,018 $ 1,095,658 $ 1,142,375 $ 1,210,665 $ 1,243,395 (13 %)
+
+ppts - percentage points
+
+nm - Not meaningful
+
+8
+
+Marqeta, Inc.
+
+Reconciliation of GAAP to NON-GAAP Measures
+
+(in thousands)
+
+Information Regarding Non-GAAP Measures
+
+In addition to the financial measures prepared in accordance with generally accepted accounting principles in the United States (GAAP), this press release contains certain non-GAAP financial measures. Marqeta considers Adjusted EBITDA, Adjusted EBITDA Margin, and Non-GAAP operating expenses as supplemental measures of the Companys performance that are not required by, nor presented in accordance with GAAP.
+
+We define Adjusted EBITDA as net income (loss) adjusted to exclude depreciation and amortization; share-based compensation expense; payroll tax related to share-based compensation; restructuring charges; acquisition-related expenses which consist of due diligence costs, transaction costs and integration costs related to potential or successful acquisitions, and cash and non-cash postcombination compensation expenses; income tax expense (benefit); and other income (expense), net, which consists of interest income from our short-term investments, realized foreign currency gains and losses, our share of equity method investments profit or loss, impairment of equity method investments or other financial instruments, and gain from sale of equity method investments. We believe that Adjusted EBITDA is an important measure of operating performance because it allows management and our board of directors to evaluate and compare our core operating results, including our operating efficiencies, from period to period. Additionally, we utilize Adjusted EBITDA as an input into our calculation of our annual employee bonus plans.
+
+Adjusted EBITDA Margin is calculated as Adjusted EBITDA divided by net revenue. This measure is used by management and our board of directors to evaluate our operating efficiency.
+
+We define Non-GAAP operating expenses as total operating expenses adjusted to exclude depreciation and amortization; share-based compensation expense; payroll tax related to share-based compensation; restructuring charges; and acquisition-related expenses which consists of due diligence costs, transaction costs and integration costs related to potential or successful acquisitions, and cash and non-cash postcombination compensation expenses. We believe that non-GAAP operating expenses is an important measure of operating performance because it allows management and our board of directors to evaluate and compare our core operating results, including our operating efficiencies, from period to period.
+
+Adjusted EBITDA, Adjusted EBITDA Margin, and Non-GAAP operating expenses should not be considered in isolation, or construed as an alternative to net loss, or any other performance measures derived in accordance with GAAP, or as an alternative to cash flow from operating activities or as a measure of the Company's liquidity. In addition, other companies may calculate Adjusted EBITDA differently than Marqeta does, which limits its usefulness in comparing Marqetas financial results with those of other companies.
+
+9
+
+The following table shows Marqeta's GAAP results reconciled to non-GAAP results included in this release:
+
+Three Months Ended 
+
+December 31, Twelve Months Ended 
+
+December 31, 
+
+2024 2023 2024 2023 
+
+GAAP net revenue $ 135,790 $ 118,822 $ 506,995 $ 676,171 
+
+GAAP net (loss) income $ (27,119) $ (40,376) $ 27,287 $ (222,962) 
+
+GAAP net (loss) income margin (20 %) (34 %) 5 % (33 %) 
+
+GAAP total operating expenses $ 135,628 $ 139,571 $ 376,315 $ 612,529 
+
+GAAP net (loss) income $ (27,119) $ (40,376) $ 27,287 $ (222,962) 
+
+Depreciation and amortization expense 5,519 3,159 17,460 10,741 
+
+Share-based compensation expense (1) 33,304 31,614 136,562 130,416 
+
+Executive chairman long-term performance award (1) 13,413 (144,617) 53,214 
+
+Payroll tax expense related to share-based compensation 263 393 2,570 2,211 
+
+Acquisition-related expenses (2) 11,003 11,051 41,584 75,473 
+
+Restructuring 8,670 
+
+Other income, net (10,701) (14,932) (52,546) (52,440) 
+
+Income tax expense (benefit) 394 (1,030) 793 (7,613) 
+
+Adjusted EBITDA $ 12,663 $ 3,292 $ 29,093 $ (2,290) 
+
+Adjusted EBITDA Margin 9 % 3 % 6 % (0.3 %) 
+
+GAAP Total operating expenses $ 135,628 $ 139,571 $ 376,315 $ 612,529 
+
+Depreciation and amortization expense (5,519) (3,159) (17,460) (10,741) 
+
+Share-based compensation expense (1) (33,304) (31,614) (136,562) (130,416) 
+
+Executive chairman long-term performance award (1) (13,413) 144,617 (53,214) 
+
+Payroll tax expense related to share-based compensation (263) (393) (2,570) (2,211) 
+
+Restructuring (8,670) 
+
+Acquisition-related expenses (2) (11,003) (11,051) (41,584) (75,473) 
+
+Non-GAAP operating expenses $ 85,539 $ 79,941 $ 322,756 $ 331,804 
+
+_______________
+
+(1) Prior period amounts related to the Executive Chairman Long-Term Performance Award have been reclassified to conform to the current period presentation.
+
+(2) Acquisition-related expenses, which include transaction costs, integration costs and cash and non-cash postcombination compensation expense, have been excluded from Adjusted EBITDA as such expenses are not reflective of our ongoing core operations and are not representative of the ongoing costs necessary to operate our business; instead, these are costs specifically associated with a discrete transaction.
+
+10
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>mq-20250226.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover page 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>4
+<FILENAME>mq-20250226_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>mq-20250226_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Document Period End Date 
+Document Period End Date 
+
+Entity Addresses [Table] 
+Entity Addresses [Table] 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Addresses [Line Items] 
+Entity Addresses [Line Items] 
+
+City Area Code 
+City Area Code 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Cover [Abstract] 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Document Type 
+Document Type 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity File Number 
+Entity File Number 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+Entity Address, Address Line Two 
+
+Entity Registrant Name 
+Entity Registrant Name
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>mq-20250226_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>mqearningsreleasetemp_imaga.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover page
+
+Feb. 26, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 26, 2025
+
+Entity Registrant Name MARQETA, INC.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-40465
+
+Entity Tax Identification Number 27-4306690
+
+Entity Address, Address Line One 180 Grand Avenue
+
+Entity Address, Address Line Two 6th Floor
+
+Entity Address, City or Town Oakland
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 94612
+
+City Area Code 510
+
+Local Phone Number 671-5437
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Class A common stock, $0.0001 par value per share
+
+Trading Symbol MQ
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0001522540
+
+Amendment Flag false
+
+Entity Addresses [Line Items] 
+
+Entity Address, Address Line Two 6th Floor
+
+Entity Address, Address Line One 180 Grand Avenue
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressesLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>10
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+23 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover page 
+Sheet 
+http://www.marqeta.com/role/Coverpage 
+Cover page 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+mq-20250226.htm 
+mq-20250226.xsd 
+mq-20250226_def.xml 
+mq-20250226_lab.xml 
+mq-20250226_pre.xml 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>16
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>17
+<FILENAME>0001628280-25-008133-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>18
+<FILENAME>mq-20250226_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001522540 
+
+2025-02-26 
+2025-02-26 
+
+0001522540 
+false 
+8-K 
+2025-02-26 
+MARQETA, INC. 
+MARQETA, INC. 
+DE 
+001-40465 
+27-4306690 
+180 Grand Avenue 
+6th Floor 
+Oakland 
+CA 
+94612 
+510 
+671-5437 
+false 
+false 
+false 
+false 
+Class A common stock, $0.0001 par value per share 
+MQ 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

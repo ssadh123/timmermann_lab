@@ -1,0 +1,1788 @@
+<SEC-DOCUMENT>0001075531-25-000009.txt : 20250220
+<SEC-HEADER>0001075531-25-000009.hdr.sgml : 20250220
+<ACCEPTANCE-DATETIME>20250220160255
+ACCESSION NUMBER:		0001075531-25-000009
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		29
+CONFORMED PERIOD OF REPORT:	20250220
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250220
+DATE AS OF CHANGE:		20250220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Booking Holdings Inc.
+		CENTRAL INDEX KEY:			0001075531
+		STANDARD INDUSTRIAL CLASSIFICATION:	TRANSPORTATION SERVICES [4700]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				061528493
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36691
+		FILM NUMBER:		25645184
+
+	BUSINESS ADDRESS:	
+		STREET 1:		800 CONNECTICUT AVE
+		CITY:			NORWALK
+		STATE:			CT
+		ZIP:			06854
+		BUSINESS PHONE:		203-299-8000
+
+	MAIL ADDRESS:	
+		STREET 1:		800 CONNECTICUT AVE
+		CITY:			NORWALK
+		STATE:			CT
+		ZIP:			06854
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Priceline Group Inc.
+		DATE OF NAME CHANGE:	20140328
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRICELINE COM INC
+		DATE OF NAME CHANGE:	19981221
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>bkng-20250220.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?bkng-20250220
+
+false000107553100010755312025-02-202025-02-200001075531us-gaap:CommonStockMember2025-02-202025-02-200001075531bkng:A0100SeniorNotesDue2025Member2025-02-202025-02-200001075531bkng:A4000SeniorNotesDue2026Member2025-02-202025-02-200001075531bkng:A1.8SeniorNotesDueMarch2027Member2025-02-202025-02-200001075531bkng:A05SeniorNotesDueMarch2028Member2025-02-202025-02-200001075531bkng:A3625SeniorNotesDue2028Member2025-02-202025-02-200001075531bkng:A4250SeniorNotesDue2029Member2025-02-202025-02-200001075531bkng:A3.500SeniorNotesDueMarch2029Member2025-02-202025-02-200001075531bkng:A450SeniorNotesDue2031Member2025-02-202025-02-200001075531bkng:A3.625SeniorNotesDueMarch2032Member2025-02-202025-02-200001075531bkng:A3.250SeniorNotesDueNovember2032Member2025-02-202025-02-200001075531bkng:A4125SeniorNotesDue2033Member2025-02-202025-02-200001075531bkng:A4750SeniorNotesDue2034Member2025-02-202025-02-200001075531bkng:A3.750SeniorNotesDueMarch2036Member2025-02-202025-02-200001075531bkng:A3.750SeniorNotesDueNovember2037Member2025-02-202025-02-200001075531bkng:A4.000SeniorNotesDueMarch2044Member2025-02-202025-02-200001075531bkng:A3.875SeniorNotesDueMarch2045Member2025-02-202025-02-20
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) February 20, 2025
+
+Booking Holdings Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 1-36691 06-1528493
+
+(State or other Jurisdiction of
+
+Incorporation) (Commission File Number) (IRS Employer Identification No.)
+
+800 Connecticut Avenue Norwalk Connecticut 06854
+
+(Address of principal executive offices) (zip code)
+
+Registrant's telephone number, including area code: (203) 299-8000
+
+N/A 
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities Registered Pursuant to Section 12(b) of the Act:
+
+Title of Each Class: Trading Symbol Name of Each Exchange on which Registered:
+
+Common Stock par value $0.008 per share BKNG The NASDAQ Global Select Market
+
+0.100% Senior Notes Due 2025 BKNG 25 The NASDAQ Stock Market LLC
+
+4.000% Senior Notes Due 2026 BKNG 26 The NASDAQ Stock Market LLC
+
+1.800% Senior Notes Due 2027 BKNG 27 The NASDAQ Stock Market LLC
+
+0.500% Senior Notes Due 2028 BKNG 28 The NASDAQ Stock Market LLC
+
+3.625% Senior Notes Due 2028 BKNG 28A The NASDAQ Stock Market LLC
+
+4.250% Senior Notes Due 2029 BKNG 29 The NASDAQ Stock Market LLC
+
+3.500% Senior Notes Due 2029 BKNG 29A The NASDAQ Stock Market LLC
+
+4.500% Senior Notes Due 2031 BKNG 31 The NASDAQ Stock Market LLC
+
+3.625% Senior Notes Due 2032 BKNG 32 The NASDAQ Stock Market LLC
+
+3.250% Senior Notes Due 2032 BKNG 32A The NASDAQ Stock Market LLC
+
+4.125% Senior Notes Due 2033 BKNG 33 The NASDAQ Stock Market LLC
+
+4.750% Senior Notes Due 2034 BKNG 34 The NASDAQ Stock Market LLC
+
+3.750% Senior Notes Due 2036 BKNG 36 The NASDAQ Stock Market LLC
+
+3.750% Senior Notes Due 2037 BKNG 37 The NASDAQ Stock Market LLC
+
+4.000% Senior Notes Due 2044 BKNG 44 The NASDAQ Stock Market LLC
+
+3.875% Senior Notes Due 2045 BKNG 45 The NASDAQ Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter). 
+
+Emerging growth company
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+Item 2.02. Results of Operations and Financial Condition.
+
+On February 20, 2025, Booking Holdings Inc. announced its financial results for the fourth quarter ended December 31, 2024. The press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. Copies of Booking Holdings' consolidated balance sheet at December 31, 2024, consolidated statement of operations for the three and twelve months ended December 31, 2024, and consolidated statement of cash flows for the twelve months ended December 31, 2024, are included in the financial and statistical supplement attached to the press release. 
+
+The information in this Item 2.02, including Exhibit 99.1, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. 
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit
+
+Number Description 
+
+99.1 
+
+Press release (which includes a financial and statistical supplement and related information) issued by Booking Holdings Inc. on February 20, 2025 relating to, among other things, its fourth quarter and year ended 2024 earnings. 
+
+104 Cover Page Interactive Data File - the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+BOOKING HOLDINGS INC.
+
+By: /s/ Ewout L. Steenbergen
+
+Name: Ewout L. Steenbergen
+
+Title: Executive Vice President and Chief Financial Officer
+
+Date: February 20, 2025
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>bnkgq42024earningspressr.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+bnkgq42024earningspressr
+
+Booking Holdings Reports Fourth Quarter 2024 Financial Results NORWALK, CT - February 20, 2025Booking Holdings Inc. (NASDAQ: BKNG) (the Company, we, our, or us) today reported its fourth quarter and full year 2024 financial results. Fourth Quarter 2024 Highlights Room nights grew 13% compared to 2023. Gross bookings grew 17% compared to 2023, or 18% on a constant-currency basis. Revenue grew 14% compared to 2023, or 15% on a constant-currency basis. Full Year 2024 Highlights Room nights grew 9% compared to 2023. Gross bookings grew 10% compared to 2023, or 11% on a constant-currency basis. Revenue grew 11% compared to 2023, or 12% on a constant-currency basis. Net income per diluted common share (GAAP EPS) increased 47% compared to 2023. Adjusted Net income per diluted common share (Adjusted EPS) increased 23% compared to 2023. Q4 2024 FY 2024 (#) ( Y/Y) (#) ( Y/Y) Room Nights 261M 13% 1.1B 9% Gross Bookings $37.2B 17% $165.6B 10% Revenue $5.5B 14% $23.7B 11% GAAP Net Income $1.1B 383% $5.9B 37% GAAP EPS $31.95 409% $172.69 47% Adjusted EPS $41.55 30% $187.10 23% Adjusted EBITDA $1.8B 26% $8.3B 17% Net Cash Provided By Operating Activities $0.7B (46%) $8.3B 13% Free Cash Flow $0.6B (49%) $7.9B 13% 1 "We are pleased to be reporting a strong finish to 2024, with full year revenue increasing by 11% year- over-year while delivering faster profitability growth, as we continue to take a disciplined approach to managing our expenses," said Glenn Fogel, Chief Executive Officer of Booking Holdings. "We remain highly focused on appropriately investing in our business for the long term, including by leveraging and deploying Generative AI technology to drive further value to our travelers and partners." The section below under the heading "Non-GAAP Financial Measures" provides information about the use of non-GAAP financial measures in this press release, including Adjusted Net income, Adjusted EPS, Adjusted EBITDA, Free Cash Flow, and Adjusted Fixed Operating Expenses, and use of the constant-currency basis. The attached financial and statistical supplement reconciles non-GAAP financial results with Booking Holdings' financial results under GAAP. Gross bookings is an operating and statistical metric that captures the total dollar value, generally inclusive of taxes and fees, of all travel services booked by our customers, net of cancellations. Exhibit 99.1 
+
+Additional Highlights Active Return of Capital to Shareholders First Quarter Dividend Our Board of Directors declared a cash dividend of $9.60 per share, payable on March 31, 2025, which is a 10% increase from the quarterly cash dividend per share of $8.75 in 2024. The cash dividend will be payable to stockholders of record as of the close of business on March 7, 2025. Stock Repurchase Program We repurchased $1.1 billion of stock under our authorized stock repurchase program in the fourth quarter of 2024, and our total remaining stock repurchase authorization was $7.7 billion as of December 31, 2024. In January 2025, our Board authorized a program to repurchase up to an additional $20 billion of our common stock. Discrete Items For the quarter and year ended December 31, 2024, the Company recorded a loss of $796 million related to the conversion option on the convertible senior notes due in May 2025, which primarily represents the changes in the fair value of an embedded derivative and amortization of debt discount. Under U.S. GAAP, the conversion option is required to be accounted separately as an embedded derivative as, during the quarter, the Company irrevocably elected cash as the settlement method for the conversion premium on the maturity of the notes. See the Consolidated Financial Statements included in the Companys 2024 Form 10-K for additional information. Fourth Quarter 2024 vs. 2023 2 Top Line Metrics Alternative accommodation room nights at Booking.com increased a high-teens percentage Constant-Currency ADRs increased 2%(1) Gross bookings increased 17% and revenues increased 14% Margin Expansion Net Income margin of 19.5% (4.6% in Q4 2023) Adjusted EBITDA margin of 33.8% (30.6% in Q4 2023) Fixed Cost Discipline Total operating expenses decreased 10% Adjusted fixed operating expenses increased 9%, slower than the 14% growth in revenue Marketing Leverage Marketing expense as a percentage of gross bookings was 4.2% (vs. 4.5% in Q4 2023) The full year mix of our total room nights booked through the direct channel was a mid-fifties percentage and increased year- over-year GAAP EPS +409% Adjusted EPS +30% (1)Accommodation average daily rates ("ADRs") 
+
+Consolidated Balance Sheets (In millions, except share and per share data) December 31, 2024 2023 ASSETS Current assets: Cash and cash equivalents $ 16,164 $ 12,107 Short-term investments (Available-for-sale debt securities: Amortized cost of $580 at December 31, 2023) 576 Accounts receivable, net (Allowance for expected credit losses of $146 and $137, respectively) 3,199 3,253 Prepaid expenses, net 587 644 Other current assets 541 454 Total current assets 20,491 17,034 Property and equipment, net 832 784 Operating lease assets 559 705 Intangible assets, net 1,382 1,613 Goodwill 2,799 2,826 Long-term investments 536 440 Other assets, net 1,109 940 Total assets $ 27,708 $ 24,342 LIABILITIES AND STOCKHOLDERS' DEFICIT Current liabilities: Accounts payable $ 3,824 $ 3,374 Accrued expenses and other current liabilities 6,047 4,741 Deferred merchant bookings 4,031 3,254 Short-term debt 1,745 1,961 Total current liabilities 15,647 13,330 Deferred income taxes 289 258 Operating lease liabilities 483 599 Long-term U.S. transition tax liability 257 515 Other long-term liabilities 199 161 Long-term debt 14,853 12,223 Total liabilities 31,728 27,086 Commitments and contingencies Stockholders' deficit: Common stock, $0.008 par value, Authorized shares: 1,000,000,000 Issued shares: 64,276,130 and 64,048,000, respectively Treasury stock: 31,329,265 and 29,650,351 shares, respectively (47,877) (41,426) Additional paid-in capital 7,707 7,175 Retained earnings 36,525 31,830 Accumulated other comprehensive loss (375) (323) Total stockholders' deficit (4,020) (2,744) Total liabilities and stockholders' deficit $ 27,708 $ 24,342 3 
+
+Consolidated Statements of Operations (In millions, except share and per share data) Three Months Ended December 31, Year Ended December 31, 2024 2023 2024 2023 Merchant revenues $ 3,336 $ 2,469 $ 14,142 $ 10,936 Agency revenues 1,864 2,068 8,524 9,414 Advertising and other revenues 271 247 1,073 1,015 Total revenues 5,471 4,784 23,739 21,365 Operating expenses: Marketing expenses 1,578 1,433 7,278 6,773 Sales and other expenses 750 650 3,120 2,744 Personnel, including stock-based compensation of $167, $161, $599, and $530, respectively 853 1,032 3,354 3,294 General and administrative 163 738 1,036 1,555 Information technology 207 187 771 655 Depreciation and amortization 157 134 591 504 Transformation costs 34 34 Other operating expenses 1 5 Total operating expenses 3,742 4,175 16,184 15,530 Operating income 1,729 609 7,555 5,835 Interest expense (507) (208) (1,295) (897) Interest and dividend income 251 237 1,114 1,020 Other income (expense), net 91 (227) (82) (477) Income before income taxes 1,564 411 7,292 5,481 Income tax expense 496 189 1,410 1,192 Net income $ 1,068 $ 222 $ 5,882 $ 4,289 Net income applicable to common stockholders per basic common share $ 32.31 $ 6.37 $ 174.96 $ 118.67 Weighted-average number of basic common shares outstanding (in 000's) 33,051 34,730 33,622 36,140 Net income applicable to common stockholders per diluted common share $ 31.95 $ 6.28 $ 172.69 $ 117.40 Weighted-average number of diluted common shares outstanding (in 000's) 33,426 35,222 34,064 36,530 4 
+
+Consolidated Statements of Cash Flows (In millions) Year Ended December 31, 2024 2023 OPERATING ACTIVITIES: Net income $ 5,882 $ 4,289 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 591 504 Provision for expected credit losses and chargebacks 412 330 Deferred income tax expense (benefit) 98 (478) Net (gains) losses on equity securities (63) 131 Stock-based compensation expense 599 530 Operating lease amortization 160 161 Unrealized foreign currency transaction (gains) losses related to Euro-denominated debt (526) 163 Loss related to the conversion option on convertible senior notes 796 Other 7 5 Changes in assets and liabilities: Accounts receivable (506) (1,330) Prepaid expenses and other current assets (12) 155 Deferred merchant bookings and other current liabilities 1,361 2,742 Other (476) 142 Net cash provided by operating activities 8,323 7,344 INVESTING ACTIVITIES: Purchase of investments (33) (12) Proceeds from sale and maturity of investments 590 1,840 Additions to property and equipment (429) (345) Other investing activities 1 3 Net cash provided by investing activities 129 1,486 FINANCING ACTIVITIES: Proceeds from the issuance of long-term debt 4,836 1,893 Payments on maturity and conversion of debt (1,312) (500) Payments for repurchase of common stock (6,509) (10,377) Dividends paid (1,174) Proceeds from exercise of stock options 14 134 Other financing activities (59) (59) Net cash used in financing activities (4,204) (8,909) Effect of exchange rate changes on cash and cash equivalents and restricted cash and cash equivalents (190) (37) Net increase (decrease) in cash and cash equivalents and restricted cash and cash equivalents 4,058 (116) Total cash and cash equivalents and restricted cash and cash equivalents, beginning of period 12,135 12,251 Total cash and cash equivalents and restricted cash and cash equivalents, end of period $ 16,193 $ 12,135 5 
+
+Non-GAAP Financial Measures Non-GAAP Financial Measures The Consolidated Financial Statements have been prepared in accordance with accounting principles generally accepted in the United States of America ("GAAP") and include all normal and recurring adjustments that management of the Company considers necessary for a fair presentation of its financial position and operating results. To supplement the Consolidated Financial Statements, the Company uses the following non-GAAP financial measures: Adjusted Net income, Adjusted EPS, Adjusted EBITDA, and Free cash flow (Net cash provided by operating activities less capital expenditures). The Company also uses information on (i) the impact of the adjustments required to compute Adjusted Net income and Adjusted EBITDA on Sales and other expenses, Personnel expenses, General and administrative expenses, Depreciation and amortization expenses, Interest expense, Interest and dividend income, Other income (expense), net, and Income tax expense, as reported in the Company's consolidated statements of operations, as applicable, and (ii) Adjusted fixed operating expenses, which is Total operating expenses, as reported in the Company's consolidated statements of operations, adjusted to exclude (a) certain operating expenses which are generally more likely to vary based on changes in business volumes and (b) amounts which are excluded in the computation of Adjusted EBITDA. The presentation of non-GAAP financial information should not be considered in isolation or as a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP. The Company uses non-GAAP financial measures for financial and operational decision-making and as a basis to evaluate performance and set targets for employee compensation programs. The Company believes that these non-GAAP financial measures are useful for analysts and investors to evaluate the Company's ongoing operating performance because they facilitate comparison of the Company's results for the current period and projected next-period results to those of prior periods and to those of its competitors (though other companies may calculate similar non-GAAP financial measures differently from those calculated by the Company). These non-GAAP financial measures, in particular Adjusted Net income, Adjusted EBITDA and Free cash flow, are not intended to represent funds available for Booking Holdings' discretionary use and are not intended to represent or to be used as a substitute for Operating income, Net income or Net cash provided by operating activities as measured under GAAP. The items excluded from these non-GAAP measures, but included in the calculation of their closest GAAP equivalent, are significant components of the Company's consolidated statements of operations and cash flows and must be considered in performing a comprehensive assessment of overall financial performance. Reconciliations of (i) Net income to Adjusted Net income and Adjusted EPS, (ii) Net income to Adjusted EBITDA, (iii) Net cash provided by operating activities to Free cash flow, and (iv) Total operating expenses to Adjusted fixed operating expenses are detailed in the Reconciliation of GAAP to Non-GAAP Financial Information and Additional Information on the Impact of Non-GAAP Adjustments sections below, including additional information on the items excluded from non-GAAP measures. We evaluate certain operating and financial measures on both an as-reported and constant-currency basis. We calculate constant- currency measures based on the predominant transactional currency in each country, converting our current-year period results in currencies other than U.S. Dollars using the corresponding prior-year period monthly average exchange rates. The attached financial and statistical supplement includes reconciliations of our financial results under GAAP to non-GAAP financial information for the three and twelve months ended December 31, 2024 and 2023. We are not able to provide a reconciliation between forward-looking Adjusted EBITDA and GAAP Net income because we cannot predict certain components of such reconciliation without unreasonable effort as they arise from events in future periods. 6 
+
+Information About Forward-Looking Statements This press release contains forward-looking statements, which reflect the views of the Company's management regarding current expectations based on currently available information about future events. Forward-looking statements are not guarantees of future performance and are subject to risks and uncertainties, such as: adverse changes in market conditions for travel services; the effects of competition; the Company's ability to manage growth and expand; adverse changes in third-party relationships; success of the Company's marketing efforts; rapid technological or other market changes; the development and use of Generative AI; the Company's ability to attract and retain qualified personnel; impacts of impairments and changes in accounting estimates; operational and technological infrastructure risks; and other business and industry changes. Other risks and uncertainties relate to data privacy, cyberattacks, and information security; taxes; laws and regulations; the Company's facilitation of payments; foreign currency exchange rates; the Company's debt levels and stock price volatility; and the success of the Company's investments and acquisition strategy. For a detailed discussion of these and other risk factors that could cause the Company's actual results to differ materially from those described in the forward-looking statements included in this press release, refer to the Company's most recent Annual Report on Form 10-K filed with the Securities and Exchange Commission and any subsequently filed Quarterly Reports on Form 10-Q. Unless required by law, the Company undertakes no obligation to update publicly any forward-looking statements, whether as a result of new information, future events, or otherwise. We will be posting our prepared remarks and a summary earnings presentation to the Booking Holdings investor relations website after the conclusion of the earnings call. 7 
+
+About Booking Holdings About Booking Holdings Inc. Booking Holdings (NASDAQ: BKNG) is the world's leading provider of online travel and related services, provided to consumers and local partners in more than 220 countries and territories through five primary consumer-facing brands: Booking.com, Priceline, Agoda, KAYAK and OpenTable. The mission of Booking Holdings is to make it easier for everyone to experience the world. For more information, visit BookingHoldings.com and follow us on X @BookingHoldings. For Press Information: Leslie Cafferty communications@bookingholdings.com For Investor Relations: John Longstreet ir@bookingholdings.com #BKNG_Earnings 8 
+
+Reconciliation of GAAP to Non-GAAP Financial Information (In millions, except share and per share data)(1) RECONCILIATION OF NET INCOME TO ADJUSTED NET INCOME AND ADJUSTED EPS Three Months Ended December 31, Year Ended December 31, 2024 2023 2024 2023 Net income $ 1,068 $ 222 $ 5,882 $ 4,289 (a) Accruals related to the Netherlands pension fund matter 276 276 (b) Accruals related to the fine imposed by the Spanish competition authority 530 (78) 530 (c) Accruals related to settlements of indirect tax matters (28) 337 62 (d) Termination fee related to an acquisition agreement 90 (e) Amortization of intangible assets 55 56 221 222 (f) Transformation costs 34 34 (g) Net (gains) losses on equity securities (36) (20) (63) 131 (h) Foreign currency transaction (gains) losses on the remeasurement of certain Euro-denominated debt and accrued interest and debt-related foreign currency derivative instruments (633) 165 (539) 163 (i) Loss related to the conversion option on convertible senior notes, including amortization of debt discount 796 796 (j) Adjustment to one-time deemed repatriation income tax liability resulting from the Tax Act and related net unrecognized tax benefit (250) (k) Other 17 (31) (l) Tax impact of Non-GAAP adjustments 133 (99) 16 (170) Adjusted Net income $ 1,389 $ 1,128 $ 6,374 $ 5,561 GAAP and Non-GAAP weighted-average number of diluted common shares outstanding (in 000's) 33,426 35,222 34,064 36,530 Net income applicable to common stockholders per diluted common share (GAAP EPS) $ 31.95 $ 6.28 $ 172.69 $ 117.40 Adjusted Net income applicable to common stockholders per diluted common share (Adjusted EPS) $ 41.55 $ 32.00 $ 187.10 $ 152.22 Net income applicable to common stockholders per diluted common share (GAAP EPS) growth YoY 409 % 47 % Adjusted Net income applicable to common stockholders per diluted common share (Adjusted EPS) growth YoY 30 % 23 % 9 (Unaudited) 
+
+RECONCILIATION OF NET INCOME TO ADJUSTED EBITDA Three Months Ended December 31, Year Ended December 31, 2024 2023 2024 2023 Net income $ 1,068 $ 222 $ 5,882 $ 4,289 (a) Accruals related to the Netherlands pension fund matter 276 276 (b) Accruals related to the fine imposed by the Spanish competition authority 530 (78) 530 (c) Accruals related to settlements of indirect tax matters (28) 337 62 (d) Termination fee related to an acquisition agreement 90 (m) Depreciation and amortization 157 134 591 504 (f) Transformation costs 34 34 (m) Interest and dividend income (251) (237) (1,114) (1,020) (m) Interest expense 507 208 1,295 897 (g) Net (gains) losses on equity securities (36) (20) (63) 131 (h) Foreign currency transaction (gains) losses on the remeasurement of certain Euro-denominated debt and accrued interest and debt-related foreign currency derivative instruments (633) 165 (539) 163 (i) Loss related to the conversion option on convertible senior notes 535 535 (k) Other 17 (m) Income tax expense 496 189 1,410 1,192 Adjusted EBITDA $ 1,848 $ 1,464 $ 8,306 $ 7,112 Net income as a % of Total Revenues 19.5 % 4.6 % 24.8 % 20.1 % Net income growth YoY 383 % 37 % Adjusted EBITDA as a % of Total Revenues 33.8 % 30.6 % 35.0 % 33.3 % Adjusted EBITDA growth YoY 26 % 17 % RECONCILIATION OF NET CASH PROVIDED BY OPERATING ACTIVITIES TO FREE CASH FLOW Three Months Ended December 31, Year Ended December 31, 2024 2023 2024 2023 Net cash provided by operating activities $ 721 $ 1,346 $ 8,323 $ 7,344 (n) Additions to property and equipment (76) (94) (429) (345) Free cash flow $ 644 $ 1,253 $ 7,893 $ 6,999 Net cash provided by operating activities as a % of Total Revenues 13.2 % 28.1 % 35.1 % 34.4 % Free cash flow as a % of Total Revenues 11.8 % 26.2 % 33.3 % 32.8 % Net cash provided by operating activities (decline) growth YoY (46) % 13 % Free cash flow (decline) growth YoY (49) % 13 % (1) Amounts may not total due to rounding. 10 (Unaudited) 
+
+Notes: (a) Accruals related to the Netherlands pension fund matter are recorded in Personnel expenses and excluded from Net income to calculate Adjusted Net income and Adjusted EBITDA. (b) Accruals related to the fine imposed by the Spanish competition authority are recorded in General and administrative expenses and excluded from Net income to calculate Adjusted Net income and Adjusted EBITDA. (c) Accruals related to settlements of certain indirect tax matters are recorded in General and administrative expenses and excluded from Net income to calculate Adjusted Net income and Adjusted EBITDA. During 2024, the Company paid $332 million related to the settlement of certain Italian indirect tax matters. (d) Termination fee related to the acquisition agreement for the Etraveli Group is recorded in General and administrative expenses and excluded from Net income to calculate Adjusted Net income and Adjusted EBITDA. (e) Amortization of intangible assets is recorded in Depreciation and amortization expenses and excluded from Net income to calculate Adjusted Net income. (f) In November 2024, the Company announced its intention to implement certain organizational changes that are expected to improve operating expense efficiency, increase organizational agility, free up resources that can be reinvested into further improving its offering to travelers and partners, and better position the Company for the long-term. Certain costs incurred in connection with this transformation program, primarily professional fees, are recorded in Transformation costs and excluded from Net income to calculate Adjusted Net income and Adjusted EBITDA. (g) Net (gains) losses on equity securities with readily determinable fair values and impairments of investments in equity securities are recorded in Other income (expense), net and excluded from Net income to calculate Adjusted Net income and Adjusted EBITDA. (h) Foreign currency transaction (gains) losses on the remeasurement of Euro-denominated debt and accrued interest that are not designated as hedging instruments for accounting purposes and debt-related foreign currency derivative instruments used as economic hedges are recorded in Other income (expense), net and excluded from Net income to calculate Adjusted Net income and Adjusted EBITDA. (i) See the section in this press release under the heading "Additional Highlights - Discrete Items" for more information. Adjustment for the loss related to the conversion option on convertible senior notes, including amortization of the debt discount of $261 million, is recorded in Interest expense and Other income (expense), net, as applicable, and excluded from Net income to calculate Adjusted Net income and Adjusted EBITDA. (j) Adjustment to one-time deemed repatriation income tax liability resulting from the U.S. Tax Cuts and Jobs Act ("Tax Act") and related net unrecognized tax benefit are recorded in Income tax expense and excluded from Net income to calculate Adjusted Net income. During 2024, the Company recorded a reduction of $250 million to income tax expense based upon a recent U.S. Tax Court decision. (k) For the year ended December 31, 2024, includes an accrual related to the Canadian digital services taxes for the years ended December 31, 2022 and 2023 enacted in June 2024 with retrospective effect, which is recorded in Sales and other expenses. For the year ended December 31, 2023, includes interest received on tax payments refunded pursuant to a settlement with authorities, which is recorded in Interest and dividend income and Income tax expense, as applicable. (l) Reflects the tax impact of Non-GAAP adjustments above and changes in tax estimates which are excluded from Net income to calculate Adjusted Net income. (m) Depreciation and amortization, Interest and dividend income, Interest expense, and Income tax expense are excluded from Net income to calculate Adjusted EBITDA. (n) Cash used for additions to property and equipment is included in the calculation of Free cash flow. For a more detailed discussion of the adjustments described above, please see the section in this press release under the heading "Non-GAAP Financial Measures" which provides information about the use of non-GAAP financial measures. Additional information on the impact of the adjustments above on Sales and other expenses, Personnel expenses, General and administrative expenses, Depreciation and amortization expenses, Interest expense, Interest and dividend income, Other income (expense), net, and Income tax expense, as applicable, are presented in the following pages. The reconciliation of Total operating expenses to Adjusted fixed operating expenses is also provided. 11 
+
+Additional Information on the Impact of Non-GAAP Adjustments Sales and other expenses: Three Months Ended December 31, Year Ended December 31, 2024 2023 2024 2023 Sales and other expenses $ 750 $ 650 $ 3,120 $ 2,744 Accruals related to prior-period Canadian digital services taxes (17) Adjusted Sales and other expenses $ 750 $ 650 $ 3,103 $ 2,744 Personnel expenses: Three Months Ended December 31, Year Ended December 31, 2024 2023 2024 2023 Personnel expenses $ 853 $ 1,032 $ 3,354 $ 3,294 Accruals related to the Netherlands pension fund matter (276) (276) Adjusted Personnel expenses $ 853 $ 756 $ 3,354 $ 3,018 General and administrative expenses: Three Months Ended December 31, Year Ended December 31, 2024 2023 2024 2023 General and administrative expenses $ 163 $ 738 $ 1,036 $ 1,555 Accruals related to the fine imposed by the Spanish competition authority (530) 78 (530) Accruals related to settlements of indirect tax matters 28 (337) (62) Termination fee related to an acquisition agreement (90) Adjusted General and administrative expenses $ 191 $ 208 $ 777 $ 873 Depreciation and amortization expenses: Three Months Ended December 31, Year Ended December 31, 2024 2023 2024 2023 Depreciation and amortization expenses $ 157 $ 134 $ 591 $ 504 Amortization of intangible assets (55) (56) (221) (222) Depreciation expenses $ 102 $ 78 $ 370 $ 282 Interest expense: Three Months Ended December 31, Year Ended December 31, 2024 2023 2024 2023 Interest expense $ (507) $ (208) $ (1,295) $ (897) Amortization of debt discount on convertible senior notes 261 261 Adjusted Interest expense $ (246) $ (208) $ (1,034) $ (897) Interest and dividend income: Three Months Ended December 31, Year Ended December 31, 2024 2023 2024 2023 Interest and dividend income $ 251 $ 237 $ 1,114 $ 1,020 Interest received on refunded tax payments (24) Adjusted Interest and dividend income $ 251 $ 237 $ 1,114 $ 996 12 (Unaudited) 
+
+Other income (expense), net: Three Months Ended December 31, Year Ended December 31, 2024 2023 2024 2023 Other income (expense), net $ 91 $ (227) $ (82) $ (477) Net (gains) losses on equity securities (36) (20) (63) 131 Foreign currency transaction (gains) losses on the remeasurement of certain Euro-denominated debt and accrued interest and debt-related foreign currency derivative instruments (633) 165 (539) 163 Loss related to the conversion option on convertible senior notes 535 535 Adjusted Other income (expense), net $ (43) $ (82) $ (149) $ (183) Income tax expense: Three Months Ended December 31, Year Ended December 31, 2024 2023 2024 2023 Income tax expense $ 496 $ 189 $ 1,410 $ 1,192 Adjustment to one-time deemed repatriation income tax liability resulting from the Tax Act and related net unrecognized tax benefit 250 Interest received on refunded tax payments 7 Tax impact of Non-GAAP adjustments (133) 99 (16) 170 Adjusted Income tax expense $ 363 $ 288 $ 1,644 $ 1,369 RECONCILIATION OF TOTAL OPERATING EXPENSES TO ADJUSTED FIXED OPERATING EXPENSES Three Months Ended December 31, Year Ended December 31, 2024 2023 2024 2023 Total operating expenses $ 3,742 $ 4,175 $ 16,184 $ 15,530 Marketing expenses (1,578) (1,433) (7,278) (6,773) Sales and other expenses (750) (650) (3,120) (2,744) Depreciation and amortization (157) (134) (591) (504) Transformation costs (34) (34) Accruals related to the Netherlands pension fund matter (276) (276) Accruals related to the fine imposed by the Spanish competition authority (530) 78 (530) Accruals related to settlements of indirect tax matters 28 (337) (62) Termination fee related to an acquisition agreement (90) Other operating expenses (1) (5) Adjusted fixed operating expenses $ 1,251 $ 1,151 $ 4,902 $ 4,546 13 (Unaudited) 
+
+Statistical Data (Units Sold in millions and Gross Bookings and Total Revenues in billions)(1) 1Q23 2Q23 3Q23 4Q23 1Q24 2Q24 3Q24 4Q24 FY 2023 FY 2024 Units Sold Room Nights 274 268 276 231 297 287 299 261 1,049 1,144 Year/Year Growth 38.3 % 8.8 % 14.9 % 9.2 % 8.5 % 7.1 % 8.1 % 13.2 % 17.1 % 9.1 % Rental Car Days 19 20 20 15 21 22 23 17 74 83 Year/Year Growth 22.7 % 24.0 % 20.0 % 10.7 % 10.7 % 10.0 % 16.2 % 12.1 % 19.7 % 12.3 % Airline Tickets 8 9 9 9 11 11 13 14 36 49 Year/Year Growth 73.3 % 58.3 % 56.6 % 45.8 % 33.1 % 27.7 % 38.7 % 52.3 % 57.6 % 38.1 % Gross Bookings(2) Merchant $ 19.9 $ 21.1 $ 22.3 $ 18.4 $ 25.8 $ 25.8 $ 28.4 $ 24.2 $ 81.7 $ 104.2 Year/Year Growth 81.0 % 39.9 % 53.5 % 38.7 % 29.3 % 22.3 % 27.3 % 31.7 % 51.7 % 27.5 % Agency $ 19.5 $ 18.6 $ 17.5 $ 13.3 $ 17.8 $ 15.6 $ 15.1 $ 12.9 $ 68.9 $ 61.4 Year/Year Growth (Decline) 19.7 % (4.5) % (0.4) % (5.3) % (8.9) % (16.0) % (14.0) % (2.7) % 2.3 % (10.9) % Total Gross Bookings $ 39.4 $ 39.7 $ 39.8 $ 31.7 $ 43.5 $ 41.4 $ 43.4 $ 37.2 $ 150.6 $ 165.6 Year/Year Growth 44.5 % 14.9 % 24.0 % 16.1 % 10.4 % 4.4 % 9.1 % 17.3 % 24.2 % 9.9 % Constant-currency Basis 51 % 15 % 20 % 13 % 10 % 6 % 9 % 18 % 24 % (3) 11 % Total Revenues $ 3.8 $ 5.5 $ 7.3 $ 4.8 $ 4.4 $ 5.9 $ 8.0 $ 5.5 $ 21.4 $ 23.7 Year/Year Growth 40.2 % 27.2 % 21.3 % 18.1 % 16.9 % 7.3 % 8.9 % 14.4 % 25.0 % 11.1 % Constant-currency Basis 46 % 27 % 16 % 15 % 17 % 9 % 9 % 15 % 23 % (3) 12 % (1) Amounts may not total due to rounding. (2) Gross bookings is an operating and statistical metric that captures the total dollar value, generally inclusive of taxes and fees, of all travel services booked by our customers, net of cancellations. (3) Year-over-year growth percentages for FY 2023 presented on a constant currency basis have been recast to reflect the predominant transactional currency in each country. 14 (Unaudited)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>bkng-20250220.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Document and Entity Information 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>4
+<FILENAME>bkng-20250220_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>bkng-20250220_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Class of Stock [Domain] 
+Class of Stock [Domain] 
+
+3.500% Senior Notes Due 2029 
+3.500% Senior Notes Due March 2029 [Member] 
+3.500% Senior Notes Due March 2029 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entities [Table] 
+Entities [Table] 
+
+3.750% Senior Notes Due November 2037 
+3.750% Senior Notes Due November 2037 [Member] 
+3.750% Senior Notes Due November 2037 
+
+4.500% Senior Notes Due 2031 
+4.50% Senior Notes Due 2031 [Member] 
+4.50% Senior Notes Due 2031 
+
+Class of Stock [Axis] 
+Class of Stock [Axis] 
+
+3.750% Senior Notes Due 2036 
+3.750% Senior Notes Due March 2036 [Member] 
+3.750% Senior Notes Due March 2036 
+
+4.250% Senior Notes Due 2029 
+4.250% Senior Notes Due 2029 [Member] 
+4.250% Senior Notes Due 2029 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Cover [Abstract] 
+Cover [Abstract] 
+
+4.750% Senior Notes Due 2034 
+4.750% Senior Notes Due 2034 [Member] 
+4.750% Senior Notes Due 2034 
+
+City Area Code 
+City Area Code 
+
+Common Stock par value $0.008 per share 
+Common Stock [Member] 
+
+3.250% Senior Notes Due November 2032 
+3.250% Senior Notes Due November 2032 [Member] 
+3.250% Senior Notes Due November 2032 
+
+0.500% Senior Notes Due 2028 
+0.5% Senior Notes Due March 2028 [Member] 
+0.5% Senior Notes Due March 2028 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Amendment Flag 
+Amendment Flag 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+4.125% Senior Notes Due 2033 
+4.125% Senior Notes Due 2033 [Member] 
+4.125% Senior Notes Due 2033 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+4.000% Senior Notes Due 2044 
+4.000% Senior Notes Due March 2044 [Member] 
+4.000% Senior Notes Due March 2044 
+
+4.000% Senior Notes Due 2026 
+4.000% Senior Notes Due 2026 [Member] 
+4.000% Senior Notes Due 2026 
+
+3.875% Senior Notes Due March 2045 
+3.875% Senior Notes Due March 2045 [Member] 
+3.875% Senior Notes Due March 2045 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+3.625% Senior Notes Due 2032 
+3.625% Senior Notes Due March 2032 [Member] 
+3.625% Senior Notes Due March 2032 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+0.100% Senior Notes Due 2025 
+0.100% Senior Notes Due 2025 [Member] 
+0.100% Senior Notes Due 2025 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+1.800% Senior Notes Due 2027 
+1.8% Senior Notes Due March 2027 [Member] 
+1.8% Senior Notes Due March 2027 [Member] 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+3.625% Senior Notes Due 2028 
+3.625% Senior Notes due 2028 [Member] 
+3.625% Senior Notes due 2028 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Document Period End Date 
+Document Period End Date 
+
+Entity Information [Line Items] 
+Entity Information [Line Items] 
+
+Document Type 
+Document Type
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>bkng-20250220_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>bnkgq42024earningspressr001.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>bnkgq42024earningspressr002.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>bnkgq42024earningspressr003.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>10
+<FILENAME>bnkgq42024earningspressr004.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>11
+<FILENAME>bnkgq42024earningspressr005.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>12
+<FILENAME>bnkgq42024earningspressr006.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>13
+<FILENAME>bnkgq42024earningspressr007.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>14
+<FILENAME>bnkgq42024earningspressr008.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>15
+<FILENAME>bnkgq42024earningspressr009.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>16
+<FILENAME>bnkgq42024earningspressr010.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>17
+<FILENAME>bnkgq42024earningspressr011.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>18
+<FILENAME>bnkgq42024earningspressr012.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>19
+<FILENAME>bnkgq42024earningspressr013.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>20
+<FILENAME>bnkgq42024earningspressr014.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>22
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Document and Entity Information
+
+Feb. 20, 2025
+
+Entity Information [Line Items] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Feb. 20, 2025
+
+Entity Registrant Name Booking Holdings Inc.
+
+Entity Central Index Key 0001075531
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 1-36691
+
+Entity Tax Identification Number 06-1528493
+
+Entity Address, Address Line One 800 Connecticut Avenue
+
+Entity Address, City or Town Norwalk
+
+Entity Address, State or Province CT
+
+Entity Address, Postal Zip Code 06854
+
+City Area Code 203
+
+Local Phone Number 299-8000
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+Common Stock par value $0.008 per share 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security Common Stock par value $0.008 per share
+
+Trading Symbol BKNG
+
+Security Exchange Name NASDAQ
+
+0.100% Senior Notes Due 2025 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 0.100% Senior Notes Due 2025
+
+Trading Symbol BKNG 25
+
+Security Exchange Name NASDAQ
+
+4.000% Senior Notes Due 2026 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 4.000% Senior Notes Due 2026
+
+Trading Symbol BKNG 26
+
+Security Exchange Name NASDAQ
+
+1.800% Senior Notes Due 2027 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 1.800% Senior Notes Due 2027
+
+Trading Symbol BKNG 27
+
+Security Exchange Name NASDAQ
+
+0.500% Senior Notes Due 2028 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 0.500% Senior Notes Due 2028
+
+Trading Symbol BKNG 28
+
+Security Exchange Name NASDAQ
+
+3.625% Senior Notes Due 2028 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 3.625% Senior Notes Due 2028
+
+Trading Symbol BKNG 28A
+
+Security Exchange Name NASDAQ
+
+4.250% Senior Notes Due 2029 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 4.250% Senior Notes Due 2029
+
+Trading Symbol BKNG 29
+
+Security Exchange Name NASDAQ
+
+3.500% Senior Notes Due 2029 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 3.500% Senior Notes Due 2029
+
+Trading Symbol BKNG 29A
+
+Security Exchange Name NASDAQ
+
+4.500% Senior Notes Due 2031 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 4.500% Senior Notes Due 2031
+
+Trading Symbol BKNG 31
+
+Security Exchange Name NASDAQ
+
+3.625% Senior Notes Due 2032 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 3.625% Senior Notes Due 2032
+
+Trading Symbol BKNG 32
+
+Security Exchange Name NASDAQ
+
+4.125% Senior Notes Due 2033 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 4.125% Senior Notes Due 2033
+
+Trading Symbol BKNG 33
+
+Security Exchange Name NASDAQ
+
+4.750% Senior Notes Due 2034 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 4.750% Senior Notes Due 2034
+
+Trading Symbol BKNG 34
+
+Security Exchange Name NASDAQ
+
+3.750% Senior Notes Due 2036 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 3.750% Senior Notes Due 2036
+
+Trading Symbol BKNG 36
+
+Security Exchange Name NASDAQ
+
+4.000% Senior Notes Due 2044 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 4.000% Senior Notes Due 2044
+
+Trading Symbol BKNG 44
+
+Security Exchange Name NASDAQ
+
+3.875% Senior Notes Due March 2045 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 3.875% Senior Notes Due 2045
+
+Trading Symbol BKNG 45
+
+Security Exchange Name NASDAQ
+
+3.750% Senior Notes Due November 2037 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 3.750% Senior Notes Due 2037
+
+Trading Symbol BKNG 37
+
+Security Exchange Name NASDAQ
+
+3.250% Senior Notes Due November 2032 
+
+Entity Information [Line Items] 
+
+Title of 12(b) Security 3.250% Senior Notes Due 2032
+
+Trading Symbol BKNG 32A
+
+Security Exchange Name NASDAQ
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityInformationLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=us-gaap_CommonStockMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A0100SeniorNotesDue2025Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A4000SeniorNotesDue2026Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A1.8SeniorNotesDueMarch2027Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A05SeniorNotesDueMarch2028Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A3625SeniorNotesDue2028Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A4250SeniorNotesDue2029Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A3.500SeniorNotesDueMarch2029Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A450SeniorNotesDue2031Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A3.625SeniorNotesDueMarch2032Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A4125SeniorNotesDue2033Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A4750SeniorNotesDue2034Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A3.750SeniorNotesDueMarch2036Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A4.000SeniorNotesDueMarch2044Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A3.875SeniorNotesDueMarch2045Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A3.750SeniorNotesDueNovember2037Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=bkng_A3.250SeniorNotesDueNovember2032Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>23
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>24
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>25
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>27
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+18 
+22 
+1 
+false 
+17 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Document and Entity Information 
+Sheet 
+http://www.bookingholdings.com/role/DocumentandEntityInformation 
+Document and Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+bkng-20250220.htm 
+bkng-20250220.xsd 
+bkng-20250220_def.xml 
+bkng-20250220_lab.xml 
+bkng-20250220_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>29
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>30
+<FILENAME>0001075531-25-000009-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>31
+<FILENAME>bkng-20250220_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001075531 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+us-gaap:CommonStockMember 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A0100SeniorNotesDue2025Member 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A4000SeniorNotesDue2026Member 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A1.8SeniorNotesDueMarch2027Member 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A05SeniorNotesDueMarch2028Member 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A3625SeniorNotesDue2028Member 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A4250SeniorNotesDue2029Member 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A3.500SeniorNotesDueMarch2029Member 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A450SeniorNotesDue2031Member 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A3.625SeniorNotesDueMarch2032Member 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A3.250SeniorNotesDueNovember2032Member 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A4125SeniorNotesDue2033Member 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A4750SeniorNotesDue2034Member 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A3.750SeniorNotesDueMarch2036Member 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A3.750SeniorNotesDueNovember2037Member 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A4.000SeniorNotesDueMarch2044Member 
+
+2025-02-20 
+2025-02-20 
+
+0001075531 
+
+bkng:A3.875SeniorNotesDueMarch2045Member 
+
+2025-02-20 
+2025-02-20 
+
+false 
+0001075531 
+8-K 
+2025-02-20 
+Booking Holdings Inc. 
+DE 
+1-36691 
+06-1528493 
+800 Connecticut Avenue 
+Norwalk 
+CT 
+06854 
+203 
+299-8000 
+false 
+false 
+false 
+false 
+Common Stock par value $0.008 per share 
+BKNG 
+NASDAQ 
+0.100% Senior Notes Due 2025 
+BKNG 25 
+NASDAQ 
+4.000% Senior Notes Due 2026 
+BKNG 26 
+NASDAQ 
+1.800% Senior Notes Due 2027 
+BKNG 27 
+NASDAQ 
+0.500% Senior Notes Due 2028 
+BKNG 28 
+NASDAQ 
+3.625% Senior Notes Due 2028 
+BKNG 28A 
+NASDAQ 
+4.250% Senior Notes Due 2029 
+BKNG 29 
+NASDAQ 
+3.500% Senior Notes Due 2029 
+BKNG 29A 
+NASDAQ 
+4.500% Senior Notes Due 2031 
+BKNG 31 
+NASDAQ 
+3.625% Senior Notes Due 2032 
+BKNG 32 
+NASDAQ 
+3.250% Senior Notes Due 2032 
+BKNG 32A 
+NASDAQ 
+4.125% Senior Notes Due 2033 
+BKNG 33 
+NASDAQ 
+4.750% Senior Notes Due 2034 
+BKNG 34 
+NASDAQ 
+3.750% Senior Notes Due 2036 
+BKNG 36 
+NASDAQ 
+3.750% Senior Notes Due 2037 
+BKNG 37 
+NASDAQ 
+4.000% Senior Notes Due 2044 
+BKNG 44 
+NASDAQ 
+3.875% Senior Notes Due 2045 
+BKNG 45 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

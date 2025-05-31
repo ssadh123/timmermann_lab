@@ -1,0 +1,1488 @@
+<SEC-DOCUMENT>0001667011-25-000009.txt : 20250218
+<SEC-HEADER>0001667011-25-000009.hdr.sgml : 20250218
+<ACCEPTANCE-DATETIME>20250218160727
+ACCESSION NUMBER:		0001667011-25-000009
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250218
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250218
+DATE AS OF CHANGE:		20250218
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Arteris, Inc.
+		CENTRAL INDEX KEY:			0001667011
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40960
+		FILM NUMBER:		25634886
+
+	BUSINESS ADDRESS:	
+		STREET 1:		900 E. HAMILTON AVE, SUITE 300
+		CITY:			CAMPBELL
+		STATE:			CA
+		ZIP:			95008
+		BUSINESS PHONE:		(408) 470-7300
+
+	MAIL ADDRESS:	
+		STREET 1:		900 E. HAMILTON AVE, SUITE 300
+		CITY:			CAMPBELL
+		STATE:			CA
+		ZIP:			95008
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>aip-20250218.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?aip-20250218
+
+FALSE000166701100016670112025-02-182025-02-18
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (date of earliest event reported): February 18, 2025
+
+ARTERIS, INC.
+
+(Exact name of Registrant, as specified in its charter)
+
+Delaware 001-40960 27-0117058
+
+(State or other jurisdiction of incorporation) (Commission File Number) (I.R.S. Employer Identification Number)
+
+900 E. Hamilton Ave.,Suite 300
+
+Campbell, CA95008
+
+(Address of principal executive offices, including Zip code)
+
+Registrant's telephone number, including area code: (408) 470-7300
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): 
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading 
+
+Symbol(s) Name of each exchange 
+
+on which registered
+
+Common Stock, $0.001 par value per share AIP The Nasdaq Stock Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter). 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On February 18, 2025, Arteris, Inc. (the Company) issued a press release announcing its financial results for the fourth quarter and full year ended December 31, 2024. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+The information contained in this Item 2.02 and Item 9.01 of this Current Report on Form 8-K, including the accompanying Exhibit 99.1 hereto, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing made by the Company under the Securities Act of 1933, as amended, or the Exchange Act, regardless of any general incorporation language in such filings, unless expressly incorporated by specific reference in such filing.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No. Description 
+
+99.1 
+
+Press Release dated February 18, 2025 
+
+104 Cover Page Interactive Data File (the cover page XBRL tags are embedded within the inline XBRL document). 
+
+2
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: February 18, 2025
+
+By: /s/ Nicholas B. Hawkins
+
+Name: Nicholas B. Hawkins
+
+Title: 
+
+Vice President and Chief Financial Officer
+
+(Principal Financial and Accounting Officer)
+
+3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit991fy248-k.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Arteris Announces Financial Results for the Fourth Quarter and Full Year 2024 and Estimated First Quarter and Full Year 2025 Guidance
+
+CAMPBELL, Calif. - February 18, 2025 - Arteris, Inc. (Nasdaq: AIP), a leading provider of system IP which accelerates system-on-chip (SoC) creation, today announced financial results for the fourth quarter and year ended December 31, 2024 and provided first quarter and full year 2025 guidance. 
+
+In the fourth quarter of 2024, we achieved a record Annual Contract Value plus royalties of $65.1 million, driven by strong demand for our commercial semiconductor System IP products, particularly in AI-driven enterprise computing and automotive SoCs said K. Charles Janac, President and CEO of Arteris. As AI adoption accelerates across data centers, autonomous driving, and edge devices, the growing complexity of both high performance and traditional technologies like MCUs is fueling demand for the efficiency enabled by Arteris networks-on-chip IP technology, contributing to new customer wins, and expanded partnerships. With a robust product pipeline and deepening relationships with top-tier technology companies, we believe we are well-positioned to capitalize on exciting high-growth opportunities including Generative AI and Autonomous Driving, concluded Janac.
+
+Fourth Quarter 2024 Financial Highlights:
+
+Revenue of $15.5 million, up 24% year-over-year
+
+Annual Contract Value (ACV) plus royalties of $65.1 million, up 16% year-over-year, growing to the highest level we have ever reported
+
+Remaining performance obligation (RPO) of $88.4 million, up 22% year-over-year, growing to the highest level we have ever reported
+
+Operating loss of $7.1 million, compared to an operating loss of $9.2 million in the fourth quarter of 2023
+
+Non-GAAP operating loss of $2.8 million, compared to a Non-GAAP operating loss of $5.5 million in the fourth quarter of 2023
+
+Net loss of $8.2 million or $0.20 per share
+
+Non-GAAP net loss of $3.9 million or $0.10 per share
+
+Full year 2024 Financial Highlights:
+
+Revenue of $57.7 million, up 8% year-over-year 
+
+Operating loss of $31.6 million, compared to an operating loss of $35.1 million for the year-ended 2023
+
+Non-GAAP operating loss of $14.8 million, compared to a Non-GAAP operating loss of $19.8 million for the year-ended 2023
+
+Net loss of $33.6 million or $0.86 per share
+
+Non-GAAP net loss of $16.9 million or $0.43 per share
+
+Fourth Quarter 2024 Business Highlights:
+
+2024 was a strong year for Arteris, seeing accelerating demand for commercial system IP. We signed on 14 new customers, including two major automotive OEMs, and increased our footprint in key technology areas, such as chiplets, microcontrollers (MCUs), and AI;
+
+Record high $65.1 million in ACV plus royalties, driven by the addition of new customers as well as increased uptake by our current customers;
+
+Large, established customers are continuing to broaden their use of the Arteris product portfolio, with a top 5 technology company licensing Magillem and CSRCompiler, and a top 5 automotive semiconductor company licensing several additional SoC designs;
+
+Delivered on last quarters strategic expansion into the microcontroller space, licensing Arteris interconnect to Infineon, the leading MCU company, serving the worlds top automotive Tier 1 vendors and OEMs;
+
+Announced design wins with GigaDevice for automotive microcontrollers, and Menta for edge AI and IoT chiplet designs; and
+
+Announced the release of FlexGen smart NoC IP, which has the potential to deliver up to 10x engineer productivity and lower power consumption, through the automation of NoC design creation.
+
+Non-GAAP gross profit, Non-GAAP gross margin, Non-GAAP operating loss, Non-GAAP operating loss margin, Non-GAAP net loss, Non-GAAP net loss per share, free cash flow and free cash flow margin are Non-GAAP financial measures. Additional information on Arteris historic reported results, including a reconciliation of these Non-GAAP financial measures to their most comparable GAAP measures, is included in the financial tables below.
+
+First Quarter and Full Year 2025 Guidance:
+
+Q1 2025 FY 2025
+
+(in millions)
+
+ACV + royalties $65.5 - $67.5 $73.0 - $77.0
+
+Revenue $15.7 - $16.1 $66.0 - $70.0
+
+Non-GAAP operating loss $3.0 - $4.0 
+
+$8.5 - $12.5
+
+Free cash flow 
+
+$(2.0) - $2.0 $1.0 - $7.0
+
+The guidance provided above are forward-looking statements and reflects Arteris' expectations as of today's date. Actual results may differ materially. Refer to the section titled "Forward-Looking Statements" below for information on the factors, among others, that could cause our actual results to differ materially from these forward-looking statements.
+
+A reconciliation of Non-GAAP guidance measures reported above to corresponding GAAP measures is not available on a forward-looking basis without unreasonable effort due to the uncertainty of expenses that may be incurred in the future, although it is important to note that these factors could be material to Arteris' results computed in accordance with GAAP.
+
+Definitions of the other business metrics used in this press release including ACV, active customers, confirmed design starts and RPO are included below under the heading Other Business Metrics.
+
+Conference Call
+
+Arteris will host a conference call today on February 18, 2025 to review its fourth quarter and full year 2024 financial results and to discuss its financial outlook. 
+
+Time: 
+
+4:30PM ET 
+
+United States/Canada Toll Free: 1-646-307-1865 
+
+International Toll: 1-800-717-1738 
+
+A live webcast will also be available in the Investor Relations section of Arteris website at: https://ir.arteris.com/events-and-presentations
+
+A replay of the webcast will be available in the Investor Relations section of Arteris' website approximately two hours after the conclusion of the call and remain available for approximately 30 calendar days. 
+
+About Arteris
+
+Arteris is a leading provider of system IP for the acceleration of system-on-chip (SoC) development across todays electronic systems. Arteris network-on-chip (NoC) interconnect IP and SoC integration automation technology enable higher product performance with lower power consumption and faster time to market, delivering better SoC economics so its customers can focus on dreaming up what comes next. Learn more at arteris.com.
+
+2004-2025 Arteris, Inc. All rights reserved worldwide. Arteris, Arteris IP, the Arteris IP logo, and the other Arteris marks found at https://www.arteris.com/trademarks are trademarks or registered trademarks of Arteris, Inc. or its subsidiaries. All other trademarks are the property of their respective owners.
+
+Investor Contacts:
+
+Arteris
+
+Nick Hawkins
+
+Chief Financial Officer
+
+IR@arteris.com
+
+Sapphire Investor Relations, LLC
+
+Erica Mannion and Michael Funari
+
++1 617 542 6180
+
+IR@arteris.com
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including but not limited to, statements regarding our future financial and operating performance, including our GAAP and Non-GAAP guidance for the fourth quarter and full year 2024 and first quarter and full year 2025; our market opportunity and its potential growth; our ability to execute on existing customer contracts and drive increased customer adoption of our system IP; and our position within the market and our ability to drive customer value. The words such as "may," "will," "could," "expect," "approximately," "believe," "estimate," "future," "potential," "guidance," "outlook," and similar words or expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any forward-looking statements contained herein are based on our historical performance and our current plans, estimates and expectations and are not a representation that such plans, estimates, or expectations will be achieved. These forward-looking statements represent our expectations as of the date of this press release. Subsequent events may cause these expectations to change, and we disclaim any obligation to update the forward-looking statements in the future, except as required by law. These forward-looking statements are subject to known and unknown risks and uncertainties that may cause actual results to differ materially from our current expectations. Important factors that could cause actual results to differ materially from those anticipated in our forward-looking statements include, but are not limited to, the significant competition we face from larger companies and third-party providers; our history of net losses; whether semiconductor companies in the automotive market, enterprise computing market, communications market, consumer electronics market, and industrial markets incorporate our solutions into their end products and the growth and economic stability of these end markets; our ability to attract new customers and the extent to which our customers renew their subscriptions for our solutions; the ability of our customers end products achieving market acceptance or growth; our ability to sustain or grow our licensing revenue; our ability, and the cost, to successfully execute on research and development efforts; the occurrence of product errors or defects in our solutions; if we fail to offer high-quality support; the occurrence of macro-economic conditions that adversely impact us, our customers and their end product markets; the effects of geopolitical conflicts, such as the military conflict between Russia and Ukraine; the range of regulatory, operational, financial and political risks we are exposed to as a result of our dependence on international customers and operations; our ability to protect our proprietary technology and inventions through patents and other IP rights; whether we are subject to any liabilities or fines as a result of government regulation, including import, export and economic sanctions laws and regulations; the occurrence of a disruption in our networks or a security breach; risks associated with doing business in China, including as a result of changes to trade relations between the U.S. and China; and the other factors described under the heading Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2024 to be filed with the Securities and Exchange Commission (SEC) on or about February 18, 2025. All forward-looking statements reflect our beliefs and assumptions only as of the date of this press release. We undertake no obligation to update forward-looking statements to reflect future events or circumstances. Our results for the quarter and year ended December 31, 2024 are not necessarily indicative of our operating results for any future periods.
+
+Arteris, Inc.
+
+Condensed Consolidated Statements of Operations
+
+(In thousands, except share and per share data)
+
+(Unaudited)
+
+Three Months Ended December 31, Twelve Months Ended December 31,
+
+2024 2023 2024 2023
+
+Revenue 
+
+Licensing, support and maintenance $ 14,016 $ 11,347 $ 52,815 $ 48,273 
+
+Variable royalties and other 1,473 1,157 4,909 5,393 
+
+Total revenue 15,489 12,504 57,724 53,666 
+
+Cost of revenue 1,575 1,448 5,962 5,077 
+
+Gross profit 13,914 11,056 51,762 48,589 
+
+Operating expenses: 
+
+Research and development 11,532 10,663 45,007 45,128 
+
+Sales and marketing 5,365 5,029 20,796 20,659 
+
+General and administrative 4,119 4,613 17,555 17,944 
+
+Total operating expenses 21,016 20,305 83,358 83,731 
+
+Loss from operations (7,102) (9,249) (31,596) (35,142) 
+
+Interest expense (45) (75) (244) (211) 
+
+Other income (expense), net 824 917 3,400 3,558 
+
+Loss before income taxes and loss from equity method investment (6,323) (8,407) (28,440) (31,795) 
+
+Loss from equity method investment, net of tax 634 910 2,698 3,397 
+
+Provision for income taxes 1,247 1,224 2,500 1,677 
+
+Net loss $ (8,204) $ (10,541) $ (33,638) $ (36,869) 
+
+Net loss per share attributable to common stockholders, basic and diluted $ (0.20) $ (0.29) $ (0.86) $ (1.03) 
+
+Weighted average shares used in computing per share amounts, basic and diluted 40,157,199 36,816,597 38,914,197 35,675,689 
+
+Arteris, Inc.
+
+Condensed Consolidated Balance Sheets 
+
+(In thousands, except share and per share data)
+
+As of December 31,
+
+2024 2023
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents $ 13,684 $ 13,696 
+
+Short-term investments 30,157 27,477 
+
+Accounts receivable, net of allowance of $131 and $93 as of December 31, 2024, and 2023, respectively 20,608 12,003 
+
+Prepaid expenses and other current assets 4,634 5,254 
+
+Total current assets 69,083 58,430 
+
+Property and equipment, net 4,019 5,745 
+
+Long-term investments 8,504 11,802 
+
+Equity method investment 5,802 8,500 
+
+Operating lease right-of-use assets 3,838 4,289 
+
+Intangibles, net 3,024 3,858 
+
+Goodwill 4,178 4,178 
+
+Other assets 7,687 5,999 
+
+TOTAL ASSETS $ 106,135 $ 102,801 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current liabilities: 
+
+Accounts payable $ 539 $ 183 
+
+Accrued expenses and other current liabilities 15,899 11,831 
+
+Operating lease liabilities, current 917 781 
+
+Deferred revenue, current 40,445 31,537 
+
+Vendor financing arrangements, current 1,482 2,070 
+
+Total current liabilities 59,282 46,402 
+
+Deferred revenue, noncurrent 35,177 25,172 
+
+Operating lease liabilities, noncurrent 2,998 3,610 
+
+Vendor financing arrangements, noncurrent 594 1,292 
+
+Deferred income, noncurrent 7,631 8,810 
+
+Other liabilities 1,641 2,412 
+
+Total liabilities 107,323 87,698 
+
+Stockholders (deficit) equity: 
+
+Preferred stock, par value of $0.00110,000,000 shares authorized and no shares issued and outstanding as of both December 31, 2024, and 2023 
+
+Common stock, par value of $0.001300,000,000 shares authorized at December 31, 2024, and 2023; 40,724,936 and 37,518,583 shares issued and outstanding at December 31, 2024, and 2023, respectively 40 37 
+
+Additional paid-in capital 135,522 118,193 
+
+Accumulated other comprehensive income 135 120 
+
+Accumulated deficit (136,885) (103,247) 
+
+Total stockholders (deficit) equity (1,188) 15,103 
+
+TOTAL LIABILITIES AND STOCKHOLDERS EQUITY $ 106,135 $ 102,801 
+
+Arteris, Inc.
+
+Condensed Consolidated Statements of Cash Flows 
+
+(In thousands)
+
+Twelve Months Ended December 31,
+
+2024 2023
+
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+Net loss $ (33,638) $ (36,869) 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Depreciation and amortization 3,362 3,069 
+
+Stock-based compensation 15,938 14,535 
+
+Pension plan expenses 163 134 
+
+Amortization of deferred income (1,182) (1,179) 
+
+Loss from equity method investment 2,698 3,397 
+
+Net accretion of discounts on available-for-sale securities (695) (893) 
+
+Other, net (9) 128 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable, net (8,605) (4,858) 
+
+Prepaid expenses and other assets (1,068) (1,301) 
+
+Accounts payable 324 (389) 
+
+Accrued expenses and other liabilities 3,079 2,467 
+
+Deferred revenue 18,913 6,030 
+
+Net cash used in operating activities (720) (15,729) 
+
+CASH FLOWS FROM INVESTING ACTIVITIES: 
+
+Purchases of property and equipment (324) (1,503) 
+
+Purchases of available-for-sale securities and other (37,175) (47,788) 
+
+Proceeds from maturities of available-for-sale securities and other 38,469 44,650 
+
+Other investing activities (50) 
+
+Net cash provided by (used in) investing activities 970 (4,691) 
+
+CASH FLOWS FROM FINANCING ACTIVITIES: 
+
+Payments of contingent consideration for business combination (1,592) 
+
+Principal payments under vendor financing arrangements (1,749) (1,289) 
+
+Payments to tax authorities for shares withheld from employees (607) 
+
+Proceeds from exercise of stock options 890 490 
+
+Proceeds from employee stock purchase plan 538 
+
+Other financing activities 59 79 
+
+Net cash used in financing activities (262) (2,919) 
+
+NET DECREASE IN CASH, CASH EQUIVALENTS AND RESTRICTED CASH (12) (23,339) 
+
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH, beginning of period 14,084 37,423 
+
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH, end of period $ 14,072 $ 14,084 
+
+Non-GAAP Financial Measures
+
+To supplement our financial results, which are prepared and presented in accordance with GAAP, we use certain non-GAAP financial measures, as described below, to understand and evaluate our core performance. These non-GAAP measures, which may be different than similarly-titled measures used by other companies, are presented to enhance investors overall understanding of our financial performance and should not be considered a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP.
+
+We define "Non-GAAP gross profit and Non-GAAP gross margin" as GAAP gross profit and GAAP gross margin, adjusted for stock-based compensation expense and amortization of intangible assets included in cost of revenue. We define Non-GAAP Loss from Operations as our income (loss) from operations adjusted to exclude stock-based compensation, acquisition costs and amortization of acquired intangible assets. We define Non-GAAP Net Loss as our net income (loss) adjusted to exclude stock-based compensation and amortization of acquired intangible assets.
+
+We define Non-GAAP EPS, as our Non-GAAP Net Income (Loss) divided by our GAAP weighted-average number of shares outstanding for the period on a diluted basis. Management uses Non-GAAP EPS to evaluate the performance of our business on a comparable basis from period to period.
+
+The above items are excluded from our Non-GAAP Gross Profit, Non-GAAP Income (Loss) from Operations and Non-GAAP Net Income (Loss) because these items are non-cash in nature, or are not indicative of our core operating performance, and render comparisons with prior periods and competitors less meaningful. We believe Non-GAAP Gross Profit, Non-GAAP Income (Loss) from Operations and Non-GAAP Net Income (Loss) provide useful supplemental information to investors and others in understanding and evaluating our results of operations, as well as provide a useful measure for period-to-period comparisons of our business performance.
+
+We define free cash flow as net cash used in operating activities less cash used for purchases of property and equipment. We believe that free cash flow is a useful indicator of liquidity that provides information to management and investors, even if negative, about the amount of cash used in our operations other than that used for investments in property and equipment.
+
+Other Business Metrics
+
+Active Customers we define Active Customers as customers who have entered into a license agreement with us that remains in effect. The retention and expansion of our relationships with existing customers are key indicators of our revenue potential.
+
+Annual Contract Value (ACV) we define Annual Contract Value for an individual customer agreement as the total fixed fees under the agreement divided by the number of years in the agreement term. Our total ACV is the aggregate ACVs for all our customers as measured at a given point in time. Total fixed fees includes licensing, support and maintenance and other fixed fees under IP licensing or software licensing agreements but excludes variable revenue derived from licensing agreements with customers, particularly royalties. We define ACV plus royalties as ACV plus the trailing-twelve-months variable royalties and other revenue.
+
+Confirmed Design Starts we define Confirmed Design Starts as when customers confirm their commencement of new semiconductor designs using our interconnect IP and notify us. Confirmed Design Starts is a metric management uses to assess the activity level of our customers in terms of the number of new semiconductor designs that are started using our interconnect IP in a given period. We believe that the number of Confirmed Design Starts is an important indicator of the growth of our business and future royalty revenue trends.
+
+Remaining Performance Obligations (RPO) we define Remaining Performance Obligations as the amount of contracted future revenue that has not yet been recognized, including deferred revenue, billed and unbilled cancelable and non-cancelable contracted amounts.
+
+Arteris, Inc.
+
+Reconciliation of GAAP Measures to Non-GAAP Measures
+
+(In thousands, except share and per share data)
+
+(Unaudited)
+
+Three Months Ended 
+
+December 31, Twelve Months Ended 
+
+December 31,
+
+2024 2023 2024 2023
+
+Gross profit $ 13,914 $ 11,056 $ 51,762 $ 48,589 
+
+Add: 
+
+Stock-based compensation expense included in cost of revenue 187 170 783 556 
+
+Amortization of acquired intangible assets (1) 49 50 199 149 
+
+Non-GAAP gross profit $ 14,150 $ 11,276 $ 52,744 $ 49,294 
+
+Gross margin 90 % 88 % 90 % 91 %
+
+Non-GAAP gross margin 91 % 90 % 91 % 92 %
+
+Research and development $ 11,532 $ 10,663 $ 45,007 $ 45,128 
+
+Stock-based compensation expense (1,959) (1,668) (7,509) (7,324) 
+
+Amortization of acquired intangible assets (1) (109) (85) (389) (390) 
+
+Non-GAAP research and development $ 9,464 $ 8,910 $ 37,109 $ 37,414 
+
+Sales and marketing $ 5,365 $ 5,029 $ 20,796 $ 20,659 
+
+Stock-based compensation expense (849) (624) (3,079) (2,712) 
+
+Amortization of acquired intangible assets (1) (58) (57) (229) (228) 
+
+Non-GAAP sales and marketing $ 4,458 $ 4,348 $ 17,488 $ 17,719 
+
+General and administrative $ 4,119 $ 4,613 $ 17,555 $ 17,944 
+
+Stock-based compensation expense (1,136) (1,092) (4,567) (3,943) 
+
+Non-GAAP general and administrative $ 2,983 $ 3,521 $ 12,988 $ 14,001 
+
+Loss from operations $ (7,102) $ (9,249) $ (31,596) $ (35,142) 
+
+Stock-based compensation expense 4,131 3,554 15,938 14,535 
+
+Amortization of acquired intangible assets (1) 216 192 817 767 
+
+Non-GAAP loss from operations $ (2,755) $ (5,503) $ (14,841) $ (19,840) 
+
+Net loss $ (8,204) $ (10,541) $ (33,638) $ (36,869) 
+
+Stock-based compensation expense 4,131 3,554 15,938 14,535 
+
+Amortization of acquired intangible assets (1) 216 192 817 767 
+
+Non-GAAP net loss (2) $ (3,857) $ (6,795) $ (16,883) $ (21,567) 
+
+Net loss per share attributable to common stockholders, basic and diluted $ (0.20) $ (0.29) $ (0.86) $ (1.03) 
+
+Per share impacts of adjustments to net loss (3) $ 0.10 $ 0.11 $ 0.43 $ 0.43 
+
+Non-GAAP net loss per share attributable to common stockholders, basic and diluted $ (0.10) $ (0.18) $ (0.43) $ (0.60) 
+
+Weighted average shares used in computing per share amounts, basic and diluted 40,157,199 36,816,597 38,914,197 35,675,689 (1) Represents the amortization expenses of our intangible assets attributable to our acquisitions.
+
+(2) Our GAAP tax provision is primarily related to foreign withholding taxes and income tax in profitable foreign jurisdictions. We maintain a full valuation allowance against our deferred tax assets in the US. Accordingly, there is no significant tax impact associated with these Non-GAAP adjustments.
+
+(3) Reflects the aggregate adjustments made to reconcile Non-GAAP net loss to our net loss as noted in the above table, divided by the GAAP diluted weighted average number of shares of the relevant period.
+
+Free Cash Flow 
+
+Twelve Months Ended December 31,
+
+2024 2023
+
+Net cash used in operating activities $ (720) $ (15,729) 
+
+Less: 
+
+Purchase of property and equipment (324) (1,503) 
+
+Free cash flow $ (1,044) $ (17,232) 
+
+Net cash provided by (used in) investing activities $ 970 $ (4,691) 
+
+Net cash used in financing activities $ (262) $ (2,919)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>aip-20250218.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>aip-20250218_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Ex Transition Period 
+Entity Ex Transition Period 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Entity Address, Address Line Two 
+Entity Address, Address Line Two 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>aip-20250218_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>aiplogo.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 18, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 18, 2025
+
+Entity Registrant Name ARTERIS, INC.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-40960
+
+Entity Tax Identification Number 27-0117058
+
+Entity Address, Address Line One 900 E. Hamilton Ave.,
+
+Entity Address, Address Line Two Suite 300
+
+Entity Address, City or Town Campbell
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 95008
+
+City Area Code 408
+
+Local Phone Number 470-7300
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, $0.001 par value per share
+
+Trading Symbol AIP
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company true
+
+Entity Ex Transition Period false
+
+Amendment Flag false
+
+Entity Central Index Key 0001667011
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 7A
+
+-Section B
+
+-Subsection 2
+
++ Details
+
+Name: dei_EntityExTransitionPeriod
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+24 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://www.arteris.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+aip-20250218.htm 
+aip-20250218.xsd 
+aip-20250218_lab.xml 
+aip-20250218_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001667011-25-000009-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>aip-20250218_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001667011 
+
+2025-02-18 
+2025-02-18 
+
+false 
+0001667011 
+8-K 
+2025-02-18 
+ARTERIS, INC. 
+DE 
+001-40960 
+27-0117058 
+900 E. Hamilton Ave., 
+Suite 300 
+Campbell 
+CA 
+95008 
+408 
+470-7300 
+false 
+false 
+false 
+false 
+Common Stock, $0.001 par value per share 
+AIP 
+NASDAQ 
+true 
+false 
+2025-02-18
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

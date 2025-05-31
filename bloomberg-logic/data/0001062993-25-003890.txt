@@ -1,0 +1,1019 @@
+<SEC-DOCUMENT>0001062993-25-003890.txt : 20250228
+<SEC-HEADER>0001062993-25-003890.hdr.sgml : 20250228
+<ACCEPTANCE-DATETIME>20250228150110
+ACCESSION NUMBER:		0001062993-25-003890
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250228
+ITEM INFORMATION:		Bankruptcy or Receivership
+ITEM INFORMATION:		Triggering Events That Accelerate or Increase a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement
+FILED AS OF DATE:		20250228
+DATE AS OF CHANGE:		20250228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			IntelGenx Technologies Corp.
+		CENTRAL INDEX KEY:			0001098880
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				870638336
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-31187
+		FILM NUMBER:		25688597
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6420 ABRAMS
+		CITY:			SAINT LAURENT
+		STATE:			A8
+		ZIP:			H4S 1Y2
+		BUSINESS PHONE:		514-331-7440
+
+	MAIL ADDRESS:	
+		STREET 1:		6420 ABRAMS
+		CITY:			SAINT LAURENT
+		STATE:			A8
+		ZIP:			H4S 1Y2
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BIG FLASH CORP
+		DATE OF NAME CHANGE:	19991112
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?IntelGenx Technologies Corp.: Form 8-K - Filed by newsfilecorp.com
+
+false2025-02-280001098880IntelGenx Technologies Corp.00010988802025-02-282025-02-28
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+___________________________
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 28, 2025
+
+INTELGENX TECHNOLOGIES CORP.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 000-31187 87-0638336
+
+(State or other jurisdiction (Commission (IRS Employer
+
+of incorporation) File Number) Identification No.)
+
+6420 Abrams
+
+St- Laurent, Quebec, CanadaH4S 1Y2
+
+(Address of principal executive offices) (ZIP Code)
+
+Registrants telephone number, including area code: (514) 331-7440
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+Title of each class Trading Symbols Name of each exchange on which registered
+
+- - -
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 ( 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 ( 240.12b -2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 1.03 Bankruptcy or Receivership.
+
+On February 28, 2025, IntelGenx Technologies Corp. (the "Company") filed a voluntary petition for relief (the "Bankruptcy Filing") under the provisions of Chapter 7 of Title 11 of the United States Code, 11 U.S.C. 101 et seq. (the "Bankruptcy Code"). The Bankruptcy Filing was filed in the United States Bankruptcy Court for the District of Delaware (the "Bankruptcy Court"). 
+
+As a result of the Bankruptcy Filing, a Chapter 7 trustee will be appointed by the Bankruptcy Court and will administer the Company's bankruptcy estate, including liquidating the assets of the Company in accordance with the Bankruptcy Code. Once a Chapter 7 trustee is appointed, an initial hearing for creditors will be scheduled, and the Notice of Bankruptcy Case Filing will be sent to known creditors.
+
+Item 2.04 Triggering Events that Accelerate or Increase a Direct Financial Obligation or Obligation under an Off-Balance Sheet Arrangement.
+
+The Bankruptcy Filing may trigger events of default under certain of the Company's contracts, agreement or debt instruments, which may result termination of or an acceleration of the Company's obligations under such contracts, agreements or instruments Such events of defaults, however, may be stayed pursuant to 11 U.S.C. 362.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized
+
+INTELGENX TECHNOLOGIES CORP.
+
+per Ernst & Young Inc., solely in its capacity as Court-appointed Monitor in the matter of the proposed compromised and arrangement of 9525-4223 Quebec inc. and 9525-4231 Quebec inc. and without personal or corporate liability
+
+Date: February 28, 2025 
+
+By: /s/ Martin Carriere
+
+Name: Martin Carriere
+
+Title: Senior Vice President, Ernst & Young Inc.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>2
+<FILENAME>igxt-20250228.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0001000 - Document - Document and Entity Information Document 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.CAL
+<SEQUENCE>3
+<FILENAME>igxt-20250228_cal.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>4
+<FILENAME>igxt-20250228_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>igxt-20250228_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Document and Entity Information [Abstract] 
+
+Document Information [Table] 
+Document Information [Table] 
+
+ntity Addresses, Address Type [Axis] 
+ntity Addresses, Address Type [Axis] 
+
+Address Type [Domain] 
+Address Type [Domain] 
+
+Former Address [Member] 
+Former Address [Member] 
+
+Entity Listings, Exchange [Axis] 
+Entity Listings, Exchange [Axis] 
+
+Exchange [Domain] 
+Exchange [Domain] 
+
+New York Stock Exchange [Member] 
+New York Stock Exchange [Member] 
+
+NASDAQ [Member] 
+NASDAQ [Member] 
+
+NASDAQ Global Select Market [Member] 
+NASDAQ Global Select Market [Member] 
+
+Toronto Stock Exchange [Member] 
+Toronto Stock Exchange [Member] 
+
+NYSE MKT LLC [Member] 
+NYSE MKT LLC [Member] 
+
+NASDAQ Global Market [Member] 
+NASDAQ Global Market [Member] 
+
+NASDAQ Capital Market [Member] 
+NASDAQ Capital Market [Member] 
+
+Class of Stock [Axis] 
+Class of Stock [Axis] 
+
+Class of Stock [Domain] 
+Class of Stock [Domain] 
+
+Common Stock [Member] 
+Common Stock [Member] 
+
+Common Stock Class A [Member] 
+Common Stock Class A [Member] 
+
+Common Stock Class B [Member] 
+Common Stock Class B [Member] 
+
+Preferred Stock [Member] 
+Preferred Stock [Member] 
+
+Document Information [Line Items] 
+Document Information [Line Items] 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Incorporation, State Country Name 
+Entity Incorporation, State Country Name 
+
+Document Type 
+Document Type 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Title of 12(g) Security 
+Title of 12(g) Security 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Trading Symbol 
+Trading Symbol 
+
+Document Creation Date 
+Document Creation Date 
+
+Local Phone Number 
+Local Phone Number 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Document Period End Date 
+Document Period End Date 
+
+Document Fiscal Year Focus 
+Document Fiscal Year Focus 
+
+Amendment Flag 
+Amendment Flag 
+
+Amendment Description 
+Amendment Description 
+
+No Trading Symbol Flag 
+No Trading Symbol Flag 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Entity Information, Former Legal or Registered Name 
+Entity Information, Former Legal or Registered Name 
+
+Entity Ex Transition Period 
+Entity Ex Transition Period 
+
+City Area Code 
+City Area Code 
+
+Region code of country 
+Region code of country 
+
+Entity Address, Address Line Two 
+Entity Address, Address Line Two 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Entity Address, Country 
+Entity Address, Country 
+
+Written Communications 
+Written Communications 
+
+Soliciting Material 
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Current Fiscal Year End Date 
+Current Fiscal Year End Date
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>igxt-20250228_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Document and Entity Information Document
+
+Feb. 28, 2025
+
+Document Information [Line Items] 
+
+Document Type 8-K
+
+Document Creation Date Feb. 28, 2025
+
+Document Period End Date Feb. 28, 2025
+
+Amendment Flag false
+
+Entity Registrant Name IntelGenx Technologies Corp.
+
+Entity Address, Address Line One 6420 Abrams
+
+Entity Address, City or Town St- Laurent
+
+Entity Address, State or Province QC
+
+Entity Address, Country CA
+
+Entity Address, Postal Zip Code H4S 1Y2
+
+Entity Incorporation, State Country Name DE
+
+City Area Code 514
+
+Local Phone Number 331-7440
+
+Entity File Number 000-31187
+
+Entity Central Index Key 0001098880
+
+Entity Emerging Growth Company false
+
+Entity Tax Identification Number 87-0638336
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The date the document was made available and submitted, in YYYY-MM-DD format. The date of submission, date of acceptance by the recipient, and the document effective date are all potentially different.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentCreationDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentInformationLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+ISO 3166-1 alpha-2 country code.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCountry
+
+Namespace Prefix: dei_
+
+Data Type: dei:countryCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+21 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0001000 - Document - Document and Entity Information Document 
+Sheet 
+http://www.intelgenx.com/role/DocumentAndEntityInformationDocument 
+Document and Entity Information Document 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+form8k.htm 
+igxt-20250228.xsd 
+igxt-20250228_cal.xml 
+igxt-20250228_def.xml 
+igxt-20250228_lab.xml 
+igxt-20250228_pre.xml 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+true
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>16
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>17
+<FILENAME>0001062993-25-003890-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>18
+<FILENAME>form8k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001098880 
+
+2025-02-28 
+2025-02-28 
+
+false 
+2025-02-28 
+0001098880 
+IntelGenx Technologies Corp. 
+8-K 
+2025-02-28 
+DE 
+000-31187 
+87-0638336 
+6420 Abrams 
+St- Laurent 
+QC 
+CA 
+H4S 1Y2 
+514 
+331-7440 
+false 
+false 
+false 
+false 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

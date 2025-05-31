@@ -1,0 +1,1743 @@
+<SEC-DOCUMENT>0001560327-25-000008.txt : 20250212
+<SEC-HEADER>0001560327-25-000008.hdr.sgml : 20250212
+<ACCEPTANCE-DATETIME>20250212161054
+ACCESSION NUMBER:		0001560327-25-000008
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250212
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250212
+DATE AS OF CHANGE:		20250212
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rapid7, Inc.
+		CENTRAL INDEX KEY:			0001560327
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				352423994
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37496
+		FILM NUMBER:		25614899
+
+	BUSINESS ADDRESS:	
+		STREET 1:		120 CAUSEWAY STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02114
+		BUSINESS PHONE:		617-247-1717
+
+	MAIL ADDRESS:	
+		STREET 1:		120 CAUSEWAY STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02114
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Rapid7 Inc
+		DATE OF NAME CHANGE:	20121015
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>rp-20250212.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?rp-20250212
+
+0001560327false00015603272025-02-122025-02-12
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 12, 2025
+
+Rapid7, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-37496 35-2423994
+
+(State or other jurisdiction
+
+of incorporation) (Commission
+
+File Number) (IRS Employer
+
+Identification No.)
+
+120 Causeway Street,
+
+Boston, Massachusetts 02114
+
+(Address of principal executive offices), including zip code
+
+(617) 247-1717
+
+(Registrants telephone number, including area code)
+
+Not Applicable
+
+(Former name, or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934:
+
+Title of each class Trading symbol(s) Name of each exchange on which registered
+
+Common Stock, $0.01 par value per share RPD The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On February 12, 2025, Rapid7, Inc. (the Company) issued a press release announcing its financial results for the fiscal quarter ended December 31, 2024. The Companys press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+
+The information included in this Item 2.02 and in the accompanying Exhibit 99.1 shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act) or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, regardless of any general incorporation language in such filing.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d)Exhibits
+
+Exhibit
+
+No. Description
+
+99.1 
+
+Press Release, dated as of February 12, 2025.
+
+104 Cover Page Interactive Data File (embedded within the inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Rapid7, Inc.
+
+Dated: February 12, 2025 By: /s/ Tim Adams
+
+Tim Adams
+
+Chief Financial Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>rapid7q420248-kex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Exhibit 99.1
+
+Rapid7 Announces Fourth Quarter and Full-Year 2024 Financial Results
+
+Annualized recurring revenue (ARR) of $840 million, an increase of 4% year-over-year
+
+Full-year revenue of $844 million, up 9% year-over-year; Product subscriptions revenue of $809 million, up 9% year-over-year 
+
+Full-year GAAP operating income of $35 million; Full-year non-GAAP operating income of $164 million
+
+Full-year net cash provided by operating activities of $172 million; Free cash flow of $154 million
+
+Boston, MA February 12, 2025 Rapid7, Inc. (Nasdaq: RPD), a leader in extended risk and threat detection, today announced its financial results for the fourth quarter and full-year 2024.
+
+As we reflect on 2024, Im proud of the progress we made to position Rapid7 for long-term growth and success. We achieved $840 million in ARR and delivered over $150 million in free cash flow, while advancing our strategic priorities to innovate, scale, and empower our customers to consolidate and secure their operations more effectively. Continued momentum in Managed Detection and Response and the launch of our Exposure Command platform have further strengthened our ability to deliver measurable value for customers, said Corey Thomas, Chairman and CEO of Rapid7.
+
+As we move through 2025, our focus remains on accelerating growth, deepening customer engagement, and driving innovation to solidify Rapid7 as the security operations platform of choice for organizations worldwide.
+
+Fourth Quarter 2024 Financial Results and Other Metrics
+
+As of December 31,
+
+2024 2023 % Change
+
+(dollars in thousands)
+
+ARR $ 839,819 $ 805,670 4 %
+
+Number of customers 11,727 11,526 2 %
+
+ARR per customer $ 71.6 $ 69.9 2 %
+
+rapid7.com
+
+Three Months Ended December 31, Year Ended December 31,
+
+2024 2023 % Change 2024 2023 % Change
+
+(in thousands, except per share data)
+
+Product subscriptions revenue $ 206,328 $ 194,819 6 % $ 808,906 $ 740,168 9 %
+
+Professional services revenue 9,933 10,449 (5 %) 35,101 37,539 (6) %
+
+Total revenue $ 216,261 $ 205,268 5 % $ 844,007 $ 777,707 9 %
+
+North America revenue $ 163,014 $ 158,695 3 % $ 643,405 $ 607,448 6 %
+
+Rest of world revenue 53,247 46,573 14 % 200,602 170,259 18 %
+
+Total revenue $ 216,261 $ 205,268 5 % $ 844,007 $ 777,707 9 %
+
+GAAP gross profit $ 150,369 $ 145,442 $ 592,972 $ 545,661 
+
+GAAP gross margin 70% 71% 70% 70% 
+
+Non-GAAP gross profit $ 157,902 $ 152,265 $ 622,343 $ 575,052 
+
+Non-GAAP gross margin 73% 74% 74% 74% 
+
+GAAP income (loss) from operations $ 7,279 $ 10,000 $ 35,035 $ (84,288) 
+
+GAAP operating margin 3% 5% 4% (11)% 
+
+Non-GAAP income from operations $ 39,995 $ 41,498 $ 163,508 $ 102,221 
+
+Non-GAAP operating margin 18% 20% 19% 13% 
+
+GAAP net income (loss) $ 2,172 $ 19,116 $ 25,526 $ (152,815) 
+
+GAAP net income (loss) per share, basic $ 0.03 0.31 $ 0.41 $ (2.52) 
+
+GAAP net income (loss) per share, diluted $ 0.03 $ 0.26 $ 0.40 $ (2.52) 
+
+Non-GAAP net income $ 34,342 $ 51,691 $ 163,138 $ 107,232 
+
+Non-GAAP net income per share: 
+
+Basic $ 0.54 $ 0.84 $ 2.61 $ 1.76 
+
+Diluted $ 0.48 $ 0.72 $ 2.28 $ 1.52 
+
+Adjusted EBITDA $ 46,310 $ 47,819 $ 188,450 $ 126,661 
+
+Net cash provided by operating activities $ 63,773 $ 63,466 $ 171,670 $ 104,278 
+
+Free cash flow $ 58,842 $ 60,254 $ 154,083 $ 84,034 
+
+For additional details on the reconciliation of non-GAAP measures and certain other business metrics to their nearest comparable GAAP measures, please refer to the accompanying financial data tables included in this press release. Certain prior periods reflect immaterial corrections. See Exhibit 1 for additional information.
+
+Recent Business Highlights
+
+In November, Rapid7 won Security Vendor of the Year at the CRN Channel Awards 2024. The award is one of the oldest and most prestigious in the UK IT channel, and acknowledges Rapid7s overall contribution to business development within the channel.
+
+In November, Rapid7s Managed Extended Detection & Response added coverage for Microsoft security telemetry, integrating organizations' existing Microsoft telemetry into Rapid7's Command Platform for broader, faster threat detection and remediation, without additional infrastructure or complex integration requirements.
+
+rapid7.com
+
+In November, Rapid7 expanded Exposure Command to add support for Amazon Web Services (AWS) Resource Control Policies, providing additional visibility, insights, and best practices to guide customers in addressing complex enterprise Identity and Access Management challenges across the modern attack surface.
+
+In December, Rapid7s Managed Extended Detection & Response added coverage for AWS environments, bringing customers deeper cloud detection and response capabilities by combining cloud native telemetry, AWS security telemetry, and enhanced detections in the Rapid7 Command Platform. 
+
+In December, Rapid7 achieved the In Process Designation from the Federal Risk and Authorization Management Program (FedRAMP) for its InsightGovCloud Platform, indicating that Rapid7 is actively working towards authorization and highlighting Rapid7s continued commitment to partnering with federal agencies to invest in security solutions that enable continuous threat exposure management and enhance the resilience of their organizations.
+
+In January, Rapid7 earned the highest possible score on the Human Rights Campaign Foundations 2025 Corporate Equality Index, the nations foremost report for measuring corporate policies and practices related to LGBTQ+ workplace equality. 
+
+First Quarter and Full-Year 2025 Guidance
+
+Rapid7 anticipates ARR, revenue, non-GAAP income from operations, non-GAAP net income per share and free cash flow to be in the following ranges: 
+
+First Quarter 2025 
+
+Full-Year 2025
+
+(in millions, except per share data)
+
+ARR $870 to $890
+
+Year-over-year growth 4% to 6%
+
+Revenue $207 to $209 $860 to $870
+
+Year-over-year growth 1% to 2% 2% to 3%
+
+Non-GAAP income from operations $23 to $25 $125 to $135
+
+Non-GAAP net income per share $0.33 to $0.36 $1.72 to $1.85
+
+Weighted average shares outstanding 75.6 77.3
+
+Free cash flow Approximately $135 million
+
+The guidance provided above is forward-looking in nature. Actual results may differ materially. See the cautionary note regarding Forward-Looking Statements below. Guidance for the first quarter and full-year 2025 does not include any potential impact of foreign exchange gains or losses. The guidance provided above is based on a number of assumptions, estimates and expectations as of the date of this press release and, while presented with numerical specificity, this guidance is inherently subject to significant business, economic and competitive uncertainties and contingencies, many of which are beyond Rapid7's control and are based upon specific assumptions with respect to future business decisions or economic conditions, some of which may change. Rapid7 undertakes no obligation to update guidance after this date.
+
+Non-GAAP guidance excludes estimates for stock-based compensation expense, amortization of acquired intangible assets, amortization of debt issuance costs, and certain other items such as acquisition-related expenses, impairment of long-lived assets, restructuring expense, induced conversion expense, change in the fair value of derivative assets, litigation-related expenses and discrete tax items. Rapid7 has provided a reconciliation of each non-GAAP guidance measure to the most comparable GAAP measures in the financial statement tables included in this press release. The reconciliation does not reflect any items that are unknown at this time, including, but not limited to, non-ordinary course litigation-related expenses, which we are not able to predict without unreasonable effort due to their inherent uncertainty. 
+
+Conference Call and Webcast Information
+
+Rapid7 will host a conference call today, February 12, 2025, to discuss its results at 4:30 p.m. Eastern Time. The call will be accessible by telephone at 888-330-2384 (domestic) or +1 240-789-2701 (international) with the event code 8484206. The call will also be available live via webcast on Rapid7's website at https://investors.rapid7.com. A webcast replay of the conference call will be available at https://investors.rapid7.com.
+
+About Rapid7
+
+rapid7.com
+
+Rapid7 (Nasdaq: RPD) is on a mission to create a safer digital world by making cybersecurity simpler and more accessible. We empower security professionals to manage a modern attack surface through our best-in-class technology, leading-edge research, and broad, strategic expertise. Rapid7s comprehensive security solutions help more than 11,000 global customers unite cloud risk management and threat detection to reduce attack surfaces and eliminate threats with speed and precision. For more information, visit our website, check out our blog, or follow us on LinkedIn or Twitter.
+
+Non-GAAP Financial Measures and Other Metrics
+
+To supplement our consolidated financial statements, which are prepared and presented in accordance with generally accepted accounting principles in the United States (GAAP), we provide investors with certain non-GAAP financial measures and other metrics, which we believe are helpful to our investors. We use these non-GAAP financial measures and other metrics for financial and operational decision-making purposes and as a means to evaluate period-to-period comparisons. We also use certain non-GAAP financial measures as performance measures under our executive bonus plan. We believe that these non-GAAP financial measures and other metrics provide useful information about our operating results, enhance the overall understanding of past financial performance and future prospects and allow for greater transparency with respect to metrics used by our management in its financial and operational decision-making.
+
+While our non-GAAP financial measures are an important tool for financial and operational decision-making and for evaluating our own operating results over different periods of time, you should review the reconciliation of our non-GAAP financial measures to the comparable GAAP financial measures included below, and not rely on any single financial measure to evaluate our business.
+
+Non-GAAP Financial Measures
+
+We disclose the following non-GAAP financial measures: non-GAAP gross profit, non-GAAP income from operations, non-GAAP net income, non-GAAP net income per share, adjusted EBITDA and free cash flow. We also disclose non-GAAP gross margin and non-GAAP operating margin derived from these financial measures.
+
+We define non-GAAP gross profit, non-GAAP income from operations, non-GAAP net income and non-GAAP net income per share as the respective GAAP balances excluding the effect of stock-based compensation expense, amortization of acquired intangible assets, amortization of debt issuance costs and certain other items such as acquisition-related expenses, impairment of long-lived assets, change in the fair value of derivative assets, restructuring expense, induced conversion expense and discrete tax items. Non-GAAP net income per basic and diluted share is calculated as non-GAAP net income divided by the weighted average shares used to compute net income per share, with the number of weighted average shares decreased, when applicable, to reflect the anti-dilutive impact of the capped call transactions entered into in connection with our convertible senior notes. 
+
+We believe these non-GAAP financial measures are useful to investors in assessing our operating performance due to the following factors:
+
+Stock-based compensation expense. We exclude stock-based compensation expense because of varying available valuation methodologies, subjective assumptions and the variety of equity instruments that can impact our non-cash expense. We believe that providing non-GAAP financial measures that exclude stock-based compensation expense allows for more meaningful comparisons between our operating results from period to period. 
+
+Amortization of acquired intangible assets. We believe that excluding the impact of amortization of acquired intangible assets allows for more meaningful comparisons between operating results from period to period as the intangible assets are valued at the time of acquisition and are amortized over several years after the acquisition. 
+
+Amortization of debt issuance costs. The expense for the amortization of debt issuance costs related to our convertible senior notes and our former revolving credit facility is a non-cash item, and we believe the exclusion of this interest expense provides a more useful comparison of our operational performance in different periods.
+
+Induced conversion expense. In conjunction with the third quarter of 2023 partial repurchase of our 2.25% convertible senior notes due 2025, we incurred a non-cash induced conversion expense of $53.9 million. We exclude induced conversion expense because this amount is not indicative of the performance of or trends in our business, and neither is comparable to the prior period nor predictive of future results.
+
+Litigation-related expenses. We exclude non-ordinary course litigation expense because we do not consider legal costs and settlement fees incurred in litigation and litigation-related matters of non-ordinary course lawsuits and other disputes to be indicative of our core operating performance. We do not adjust for ordinary course legal expenses, including legal costs and settlement fees resulting from maintaining and enforcing our intellectual property portfolio and license agreements.
+
+rapid7.com
+
+Acquisition-related expenses. We exclude acquisition-related expenses, including accretion expense associated with contingent consideration, as costs that are unrelated to the current operations and are neither comparable to the prior period nor predictive of future results. 
+
+Change in fair value of derivative assets. The expense for the change in fair value of derivative assets related to our capped calls settlement is a non-cash item and we believe the exclusion of this other income (expense) provides a more useful comparison of our operational performance in different periods.
+
+Impairment of long-lived assets. Impairment of long-lived assets consists of impairment charges allocated to the carrying amount of certain operating right-of-use assets and the associated leasehold improvements when the carrying amounts exceed their respective fair values and we believe the exclusion of the impairment charges provides a more useful comparison of our operational performance in different periods.
+
+Restructuring expense. We exclude non-ordinary course restructuring expenses related to our restructuring plan, that was completed during fiscal year 2024, because we do not believe these charges are indicative of our core operating performance and we believe the exclusion of the restructuring expenses provides a more useful comparison of our performance in different periods.
+
+Discrete tax items. We exclude certain discrete tax items such as income tax expenses or benefits that are not related to ongoing business operations in the current year and adjustments to uncertain tax position reserves as these charges are not indicative of our ongoing operating results, and they are not considered when we are forecasting our future results. 
+
+Anti-dilutive impact of capped call transaction. Our capped call transactions are intended to offset potential dilution from the conversion features in our convertible senior notes. Although we cannot reflect the anti-dilutive impact of the capped call transactions under GAAP, we do reflect the anti-dilutive impact of the capped call transactions in non-GAAP net income (loss) per diluted share, when applicable, to provide investors with useful information in evaluating our financial performance on a per share basis.
+
+Adjusted EBITDA. Adjusted EBITDA is a non-GAAP measure that we define as net income (loss) before (1) interest income, (2) interest expense, (3) other (income) expense, net, (4) provision for (benefit from) income taxes, (5) depreciation expense, (6) amortization of intangible assets, (7) stock-based compensation expense, (8) acquisition-related expenses, (9) litigation-related expenses, (10) impairment of long-lived assets and (11) restructuring expense. We believe that the use of adjusted EBITDA is useful to investors and other users of our financial statements in evaluating our operating performance because it provides them with an additional tool to compare business performance across companies and across periods. 
+
+Free Cash Flow. Free cash flow is a non-GAAP measure that we define as cash provided by operating activities less purchases of property and equipment and capitalization of internal-use software costs. We consider free cash flow to be a liquidity measure that provides useful information to management and investors about the amount of cash generated by the business after necessary capital expenditures. 
+
+Our non-GAAP financial measures may not provide information that is directly comparable to that provided by other companies in our industry, as other companies in our industry may calculate non-GAAP financial results differently, particularly related to non-recurring, unusual items. In addition, there are limitations in using non-GAAP financial measures because the non-GAAP financial measures are not prepared in accordance with GAAP, may be different from non-GAAP financial measures used by other companies and exclude expenses that may have a material impact upon our reported financial results. Further, stock-based compensation expense has been and will continue to be for the foreseeable future a significant recurring expense in our business and an important part of the compensation provided to our employees.
+
+Other Metrics
+
+ARR. ARR is defined as the annual value of all recurring revenue related to contracts in place at the end of the period. ARR should be viewed independently of revenue and deferred revenue as ARR is an operating metric and is not intended to be combined with or replace these items. ARR is not a forecast of future revenue, which can be impacted by contract start and end dates and renewal rates, and does not include revenue reported as professional services revenue in our consolidated statement of operations. 
+
+Number of Customers. We define a customer as any entity that has an active Rapid7 recurring revenue contract as of the specified measurement date, excluding InsightOps and Logentries only customers with a contract value of less than $2,400 per year.
+
+ARR per Customer. We define ARR per customer as ARR divided by the number of customers at the end of the period. 
+
+rapid7.com
+
+Cautionary Language Concerning Forward-Looking Statements
+
+This press release includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include, but are not limited to, the statements regarding our financial guidance for the first quarter and full-year 2025, and the assumptions underlying such guidance. Our use of the words anticipate, believe, estimate, expect, intend, may, will and similar expressions are intended to identify forward-looking statements. The events described in our forward-looking statements are subject to a number of risks and uncertainties, assumptions and other factors that could cause actual results and the timing of certain events to differ materially from future results expressed or implied by the forward-looking statements. Risks that could cause or contribute to such differences include, but are not limited to, growing macroeconomic uncertainty, unstable market and economic conditions, fluctuations in our quarterly results, our ability to successfully grow our sales of our cloud-based solutions, including through the shift to a consolidated platform sales approach, effectiveness of our restructuring plan that was completed during fiscal year 2024,failure to meet our publicly announced guidance or other expectations about our business, our ability to sustain our revenue growth rate, the ability of our products and professional services to correctly detect vulnerabilities, renewal of our customer's subscriptions, competition in the markets in which we operate, market growth, our ability to innovate and manage our growth, our sales cycles, our ability to integrate acquired companies, exposure to greater than anticipated tax liabilities, and our ability to operate in compliance with applicable laws as well as other risks and uncertainties that could affect our business and results described in our filings with the Securities and Exchange Commission (the SEC), including our most recent Quarterly Report on Form 10-Q filed with the SEC on November 7, 2024, particularly in the section entitled "Item 1.A Risk Factors," and in the subsequent reports that we file with the SEC. Moreover, we operate in a very competitive and rapidly changing environment. New risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those expressed in any forward-looking statements we may make. Except as required by law, we undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date of such statements. You should, therefore, not rely on these forward-looking statements as representing our views as of any date subsequent to the date of this press release.
+
+###
+
+Investor contact:
+
+Elizabeth Chwalk
+
+Senior Director, Investor Relations
+
+investors@rapid7.com
+
+(617) 865-4277
+
+Press contact:
+
+Alice Randall
+
+Director, Global Corporate Communications
+
+press@rapid7.com
+
+(214) 693-4727
+
+rapid7.com
+
+RAPID7, INC. 
+
+Consolidated Balance Sheets (Unaudited) 
+
+(in thousands) 
+
+December 31, 2024 December 31, 2023
+
+Assets 
+
+Current assets: 
+
+Cash and cash equivalents $ 334,686 $ 213,629 
+
+Short-term investments 187,025 169,544 
+
+Accounts receivable, net 168,242 164,862 
+
+Deferred contract acquisition and fulfillment costs, current portion 52,134 45,008 
+
+Prepaid expenses and other current assets 44,024 41,407 
+
+Total current assets 786,111 634,450 
+
+Long-term investments 37,274 56,171 
+
+Property and equipment, net 32,245 39,642 
+
+Operating lease right-of-use assets 48,877 54,693 
+
+Deferred contract acquisition and fulfillment costs, non-current portion 73,672 76,601 
+
+Goodwill 575,268 536,351 
+
+Intangible assets, net 85,719 94,546 
+
+Other assets 12,868 12,894 
+
+Total assets $ 1,652,034 $ 1,505,348 
+
+Liabilities and Stockholders Equity (Deficit) 
+
+Current liabilities: 
+
+Accounts payable $ 18,908 $ 15,812 
+
+Accrued expenses and other current liabilities 88,802 85,025 
+
+Convertible senior notes, current portion, net 45,895 
+
+Operating lease liabilities, current portion 15,493 13,452 
+
+Deferred revenue, current portion 461,118 455,503 
+
+Total current liabilities 630,216 569,792 
+
+Convertible senior notes, non-current portion, net 888,356 929,996 
+
+Operating lease liabilities, non-current portion 68,430 81,130 
+
+Deferred revenue, non-current portion 27,078 32,577 
+
+Other long-term liabilities 20,243 10,032 
+
+Total liabilities 1,634,323 1,623,527 
+
+Stockholders equity (deficit): 
+
+Common stock $ 635 $ 617 
+
+Treasury stock (4,765) (4,765) 
+
+Additional paid-in-capital 1,011,080 898,185 
+
+Accumulated other comprehensive (loss) income (1,205) 1,344 
+
+Accumulated deficit (988,034) (1,013,560) 
+
+Total stockholders equity (deficit) 17,711 (118,179) 
+
+Total liabilities and stockholders equity (deficit) $ 1,652,034 $ 1,505,348 
+
+Note: Certain prior periods reflect immaterial corrections. See Exhibit 1 for additional information.
+
+RAPID7, INC.
+
+Consolidated Statements of Operations (Unaudited)
+
+(in thousands, except share and per share data)
+
+Three Months Ended December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+Revenue: 
+
+Product subscriptions $ 206,328 $ 194,819 $ 808,906 $ 740,168 
+
+Professional services 9,933 10,449 35,101 37,539 
+
+Total revenue 216,261 205,268 844,007 777,707 
+
+Cost of revenue: 
+
+Product subscriptions 58,932 52,369 225,547 203,140 
+
+Professional services 6,960 7,457 25,488 28,906 
+
+Total cost of revenue 65,892 59,826 251,035 232,046 
+
+Total gross profit 150,369 145,442 592,972 545,661 
+
+Operating expenses: 
+
+Research and development 46,334 40,031 173,126 177,937 
+
+Sales and marketing 72,767 73,557 298,809 313,661 
+
+General and administrative 23,989 19,623 86,002 85,340 
+
+Impairment of long-lived assets 30,784 
+
+Restructuring 2,231 22,227 
+
+Total operating expenses 143,090 135,442 557,937 629,949 
+
+Income (loss) from operations 7,279 10,000 35,035 (84,288) 
+
+Other income (expense), net: 
+
+Interest income 5,551 4,177 21,063 10,177 
+
+Interest expense (2,783) (2,695) (10,963) (64,700) 
+
+Other (expense) income, net (4,361) 3,571 (3,680) (14,522) 
+
+Income (loss) before income taxes 5,686 15,053 41,455 (153,333) 
+
+Provision for (benefit from) income taxes 3,514 (4,063) 15,929 (518) 
+
+Net income (loss) $ 2,172 $ 19,116 $ 25,526 $ (152,815) 
+
+Net income (loss) per share, basic $ 0.03 $ 0.31 $ 0.41 $ (2.52) 
+
+Net income (loss) per share, diluted (1) $ 0.03 $ 0.26 $ 0.40 $ (2.52) 
+
+Weighted-average common shares outstanding, basic 63,339,306 61,497,797 62,607,583 60,756,087 
+
+Weighted-average common shares outstanding, diluted 63,901,277 73,728,912 63,183,651 60,756,087 
+
+(1) We use the if-converted method to compute diluted earnings per share with respect to our convertible senior notes. There was no add-back of interest expense or additional dilutive shares related to the convertible senior notes where the effect was anti-dilutive. On an if-converted basis, for the three months ended December 31, 2024 and the years ended December 31, 2024 and 2023, the 2025, 2027 and 2029 Notes were anti-dilutive. On an if-converted basis, for the three months ended December 31, 2023, the 2027 and 2029 Notes were dilutive and the 2025 Note was anti-dilutive.
+
+Note: Certain prior periods reflect immaterial corrections. See Exhibit 1 for additional information.
+
+RAPID7, INC.
+
+Consolidated Statements of Cash Flows (Unaudited)
+
+(in thousands)
+
+Three Months Ended December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+Cash flows from operating activities: 
+
+Net income (loss) $ 2,172 $ 19,116 $ 25,526 $ (152,815) 
+
+Adjustments to reconcile net income (loss) to cash provided by operating activities: 
+
+Depreciation and amortization 11,436 11,411 44,893 45,939 
+
+Amortization of debt issuance costs 1,122 1,077 4,447 4,138 
+
+Stock-based compensation expense 27,412 24,177 107,961 111,636 
+
+Deferred income taxes (1,049) (5,624) 791 (5,624) 
+
+Impairment of long-lived assets 30,784 
+
+Change in fair value of derivative assets 15,511 
+
+Induced conversion expense 53,889 
+
+Other 3,031 (5,157) (1,503) 469 
+
+Change in operating assets and liabilities: 
+
+Accounts receivable (27,912) (26,449) (5,480) (14,021) 
+
+Deferred contract acquisition and fulfillment costs (3,703) (9,046) (4,196) (18,534) 
+
+Prepaid expenses and other assets (3,257) (9,558) 2,805 (4,125) 
+
+Accounts payable 13,227 6,704 2,777 5,449 
+
+Accrued expenses 7,584 20,390 (9,829) 2,422 
+
+Deferred revenue 36,317 36,839 (795) 30,472 
+
+Other liabilities (2,607) (414) 4,273 (1,312) 
+
+Net cash provided by operating activities 63,773 63,466 171,670 104,278 
+
+Cash flows from investing activities: 
+
+Business acquisition, net of cash acquired (103) (37,301) (34,841) 
+
+Purchases of property and equipment (1,183) (367) (3,425) (4,366) 
+
+Capitalization of internal-use software costs (3,748) (2,845) (14,162) (15,878) 
+
+Purchases of investments (82,816) (242,494) (276,829) 
+
+Sales/maturities of investments 58,000 49,750 250,500 150,450 
+
+Other investments 2,710 360 2,710 
+
+Net cash provided by (used in) investing activities 52,966 (33,568) (46,522) (178,754) 
+
+Cash flows from financing activities: 
+
+Proceeds from issuance of convertible senior notes, net of issuance costs paid of $7,909 (709) 292,091 
+
+Purchase of capped calls related to convertible senior notes (36,570) 
+
+Payments for repurchase of convertible senior notes (199,998) 
+
+Payments related to business acquisitions (500) (500) (2,250) 
+
+Proceeds from capped call settlement 17,518 
+
+Taxes paid related to net share settlement of equity awards (847) (1,558) (4,730) (5,570) 
+
+Proceeds from employee stock purchase plan 9,246 11,323 
+
+Proceeds from stock option exercises 130 69 1,566 3,053 
+
+Net cash (used in) provided by financing activities (1,217) (2,198) 5,582 79,597 
+
+Effects of exchange rates on cash, cash equivalents and restricted cash (3,529) 3,212 (2,756) 1,202 
+
+Net increase in cash, cash equivalents and restricted cash 111,993 30,912 127,974 6,323 
+
+Cash, cash equivalents and restricted cash, beginning of period 230,108 183,215 214,127 207,804 
+
+Cash, cash equivalents and restricted cash, end of period $ 342,101 $ 214,127 $ 342,101 $ 214,127 
+
+Supplemental cash flow information: 
+
+Cash paid for interest on convertible senior notes 518 518 6,358 4,605 
+
+Cash paid for income taxes, net of refunds 1,876 459 8,949 1,624 
+
+Reconciliation of cash, cash equivalents and restricted cash: 
+
+Cash and cash equivalents $ 334,686 $ 213,629 $ 334,686 $ 213,629 
+
+Restricted cash included in prepaid expenses and other current assets and other assets 7,415 498 7,415 498 
+
+Total cash, cash equivalents and restricted cash $ 342,101 $ 214,127 $ 342,101 $ 214,127 
+
+Note: Certain prior periods reflect immaterial corrections. See Exhibit 1 for additional information.
+
+RAPID7, INC. 
+
+GAAP to Non-GAAP Reconciliation (Unaudited) 
+
+(in thousands, except share and per share data) 
+
+Three Months Ended December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+GAAP gross profit $ 150,369 $ 145,442 $ 592,972 $ 545,661 
+
+Add: Stock-based compensation expense1 3,109 2,430 12,208 11,005 
+
+Add: Amortization of acquired intangible assets2 4,424 4,393 17,163 18,386 
+
+Non-GAAP gross profit $ 157,902 $ 152,265 $ 622,343 $ 575,052
+
+Non-GAAP gross margin 73.0 % 74.2 % 73.7 % 73.9 %
+
+GAAP gross profit - Product subscriptions $ 147,396 $ 142,450 $ 583,359 $ 537,028 
+
+Add: Stock-based compensation expense 2,576 1,932 10,376 8,439 
+
+Add: Amortization of acquired intangible assets 4,424 4,393 17,163 18,386 
+
+Non-GAAP gross profit - Product subscriptions $ 154,396 $ 148,775 $ 610,898 $ 563,853
+
+Non-GAAP gross margin - Product subscriptions 74.8 % 76.4 % 75.5 % 76.2 %
+
+GAAP gross profit - Professional services $ 2,973 $ 2,992 $ 9,613 $ 8,633 
+
+Add: Stock-based compensation expense 533 498 1,832 2,566 
+
+Non-GAAP gross profit - Professional services $ 3,506 $ 3,490 $ 11,445 $ 11,199
+
+Non-GAAP gross margin - Professional services 35.3 % 33.4 % 32.6 % 29.8 %
+
+GAAP income (loss) from operations $ 7,279 $ 10,000 $ 35,035 $ (84,288) 
+
+Add: Stock-based compensation expense1 27,412 24,177 107,961 111,636 
+
+Add: Amortization of acquired intangible assets2 5,121 5,090 19,951 21,499 
+
+Add: Acquisition-related expenses3 183 751 363 
+
+Add: Impairment of long-lived assets 30,784 
+
+Add: Restructuring expense 2,231 (190) 22,227 
+
+Non-GAAP income from operations $ 39,995 $ 41,498 $ 163,508 $ 102,221
+
+GAAP net income (loss) $ 2,172 $ 19,116 $ 25,526 $ (152,815) 
+
+Add: Stock-based compensation expense1 27,412 24,177 107,961 111,636 
+
+Add: Amortization of acquired intangible assets2 5,121 5,090 19,951 21,499 
+
+Add: Amortization of debt issuance costs 1,122 1,077 4,447 4,138 
+
+Add: Acquisition-related expenses3 183 751 363 
+
+Add: Impairment of long-lived assets 30,784 
+
+Add: Change in fair value of derivative assets 15,511 
+
+Add: Restructuring expense4 2,231 (190) 22,227 
+
+Add: Induced conversion expense 53,889 
+
+Add: Discrete tax items5 (1,668) 4,692 
+
+Non-GAAP net income $ 34,342 $ 51,691 $ 163,138 $ 107,232
+
+Add: Interest expense of convertible senior notes6 1,571 1,571 6,285 2,667 
+
+Numerator for non-GAAP earnings per share, diluted calculation $ 35,913 $ 53,262 $ 169,423 $ 109,899
+
+Weighted average shares used in GAAP earnings per share calculation, basic 63,339,306 61,497,797 62,607,583 60,756,087 
+
+Dilutive effect of convertible senior notes6 11,183,611 11,183,611 11,183,611 10,429,891 
+
+Dilutive effect of employee equity incentive plans7 561,971 1,047,504 576,068 916,134 
+
+Weighted average shares used in non-GAAP earnings per share calculation, diluted 75,084,888 73,728,912 74,367,262 72,102,112
+
+Non-GAAP net income per share: 
+
+Basic $ 0.54 $ 0.84 $ 2.61 $ 1.76 
+
+Diluted $ 0.48 $ 0.72 $ 2.28 $ 1.52 
+
+1 Includes stock-based compensation expense as follows: 
+
+Cost of revenue $ 3,109 $ 2,430 $ 12,208 $ 11,005 
+
+Research and development 10,703 7,749 37,566 39,183 
+
+Sales and marketing 6,615 6,482 28,718 30,350 
+
+General and administrative 6,985 7,516 29,469 31,098 
+
+2 Includes amortization of acquired intangible assets as follows: 
+
+Cost of revenue $ 4,424 $ 4,393 $ 17,163 $ 18,386 
+
+Sales and marketing 652 652 2,608 2,608 
+
+General and administrative 45 45 180 505 
+
+3 Includes acquisition-related expenses as follows: 
+
+General and administrative $ 183 $ $ 751 $ 363 
+
+4 For the year ended December 31, 2024, restructuring expense was included within general and administrative expense in our consolidated statements of operations.
+
+5 Includes discrete tax items as follows:
+
+Provision for income taxes $ (1,668) $ $ 4,692 $ 
+
+6 We use the if-converted method to compute diluted earnings per share with respect to our convertible senior notes. There was no add-back of interest expense or additional dilutive shares related to the convertible senior notes where the effect was anti-dilutive. Adjustments for interest expense, if applicable, on our convertible senior notes for purposes of calculating non-GAAP earnings per share are done gross of any tax impact. On an if-converted basis, for the three months ended December 31, 2024 and 2023, the 2025, 2027 and 2029 Notes were dilutive. On an if-converted basis, for the year ended December 31, 2024, the 2025, 2027 and 2029 Notes were dilutive. For the year ended December 31, 2023, the 2027 and 2029 Notes were dilutive and the 2025 Notes were anti-dilutive.
+
+7 We use the treasury method to compute the dilutive effect of employee equity incentive plan awards.
+
+Note: Certain prior periods reflect immaterial corrections. See Exhibit 1 for additional information.
+
+RAPID7, INC.
+
+Reconciliation of Net Income (Loss) to Adjusted EBITDA (Unaudited)
+
+(in thousands)
+
+Three Months Ended December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+GAAP net income (loss) $ 2,172 $ 19,116 $ 25,526 $ (152,815) 
+
+Interest income (5,551) (4,177) (21,063) (10,177) 
+
+Interest expense 2,783 2,695 10,963 64,700 
+
+Other (income) expense, net 4,361 (3,571) 3,680 14,522 
+
+Provision for (benefit from) income taxes 3,514 (4,063) 15,929 (518) 
+
+Depreciation expense 2,658 3,118 11,059 14,047 
+
+Amortization of intangible assets 8,778 8,293 33,834 31,892 
+
+Stock-based compensation expense 27,412 24,177 107,961 111,636 
+
+Acquisition-related expenses 183 751 363 
+
+Impairment of long-lived assets 30,784 
+
+Restructuring expense 2,231 (190) 22,227 
+
+Adjusted EBITDA $ 46,310 $ 47,819 $ 188,450 $ 126,661 
+
+Note: Certain prior period reflect immaterial corrections. See Exhibit 1 for additional information.
+
+RAPID7, INC.
+
+Reconciliation of Net Cash Provided by Operating Activities to Free Cash Flow (Unaudited)
+
+(in thousands)
+
+Three Months Ended December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+Net cash provided by operating activities $ 63,773 $ 63,466 $ 171,670 $ 104,278 
+
+Less: Purchases of property and equipment (1,183) (367) (3,425) (4,366) 
+
+Less: Capitalized internal-use software costs (3,748) (2,845) (14,162) (15,878) 
+
+Free cash flow $ 58,842 $ 60,254 $ 154,083 $ 84,034 
+
+First Quarter and Full-Year 2025 Guidance
+
+GAAP to Non-GAAP Reconciliation 
+
+(in millions, except per share data)
+
+First Quarter 2025 Full-Year 2025
+
+Reconciliation of GAAP income from operations to non-GAAP income from operations: 
+
+Anticipated GAAP loss from operations $ (10) to $ (8) $ (13) to $ (3) 
+
+Add: Anticipated stock-based compensation expense 28 to 28 118 to 118 
+
+Add: Anticipated amortization of acquired intangible assets 5 to 5 20 to 20 
+
+Anticipated non-GAAP income from operations $ 23 to $ 25 $ 125 to $ 135 
+
+Reconciliation of GAAP net income to non-GAAP net income: 
+
+Anticipated GAAP net loss $ (11) to $ (9) $ (15) to $ (5) 
+
+Add: Anticipated stock-based compensation expense 28 to 28 118 to 118 
+
+Add: Anticipated amortization of acquired intangible assets 5 to 5 20 to 20 
+
+Add: Anticipated amortization of debt issuance costs 1 to 1 4 to 4 
+
+Anticipated non-GAAP net income $ 23 to $ 25 $ 127 to $ 137 
+
+Add: Anticipated interest expense on convertible senior notes 2 to 2 6 to 6 
+
+Numerator for non-GAAP earnings per share calculation $ 25 to $ 27 $ 133 to $ 143 
+
+Anticipated GAAP net loss per share, diluted $ (0.15) $ (0.12) $ (0.19) $ (0.06) 
+
+Anticipated non-GAAP net income per share, diluted $ 0.33 $ 0.36 $ 1.72 $ 1.85 
+
+Weighted average shares used in earnings per share calculation, diluted 75.6 77.3
+
+The reconciliation does not reflect any items that are unknown at this time, including, but not limited to, non-ordinary course litigation-related expenses, which we are not able to predict without unreasonable effort due to their inherent uncertainty. As a result, the estimates shown for Anticipated GAAP loss from operations, Anticipated GAAP net loss and Anticipated GAAP net loss per share are expected to change.
+
+Full-Year 2025
+
+Reconciliation of net cash provided by operating activities to free cash flow: 
+
+Anticipated net cash provided by operating activities $ 153 
+
+Less: Anticipated purchases of property and equipment (3) 
+
+Less: Anticipated capitalized internal-use software costs (15) 
+
+Anticipated free cash flow $ 135 
+
+Exhibit 1 - Immaterial Correction of an Error
+
+During the fourth quarter of 2024, we identified an immaterial error related to stock-based compensation expense associated with certain restricted stock units (RSUs) and performance stock units (PSUs) granted during fiscal years 2023 and 2024 that resulted in an understatement of stock-based compensation expense in fiscal year 2023 and the year-to-date period ended September 30, 2024. We have concluded that our previously issued financial statements were not materially misstated as a result of this error and have corrected the error in these prior periods. The correction of this error resulted in (i) an increase in additional paid-in capital and a corresponding increase to accumulated deficit as of December 31, 2023 of approximately $3.6 million and (ii) an increase in additional paid-in capital and a corresponding increase to accumulated deficit as of September 30, 2024 of approximately $7.2 million. There was no change to net cash provided by operating activities, net cash used in investing activities and net cash provided by financing activities in our consolidated statements of cash flows for the year ended December 31, 2023 and the year-to-date period ended September 30, 2024. Additionally, there was no change to our ARR, revenue, non-GAAP net income (loss) from operations, non-GAAP net income (loss) or free cash flow. 
+
+The following table sets forth the effect of the immaterial error correction to certain line items of our consolidated statements of operations for (i) the three months ended December 31, 2023, (ii) the fiscal year ended December 31, 2023, and (iii) the three months ended March 31, 2024, June 30, 2024 and September 30, 2024, respectively:
+
+Three Months Ended Year Ended Three Months Ended
+
+December 31, 2023 March 31, 2024 June 30, 2024 September 30, 2024
+
+Adjustment Adjustment Adjustment Adjustment Adjustment
+
+(in thousands, except for per share amounts)
+
+Consolidated Statement of Operations: 
+
+Cost of revenue - product subscriptions $ 62 $ 236 $ 79 $ 125 $ 121 
+
+Cost of revenue - professional services $ 16 $ 69 $ 12 $ 19 $ 19 
+
+Research and development expense $ 302 $ 1,161 $ 378 $ 392 $ 411 
+
+Sales and marketing expense $ 243 $ 1,025 $ 290 $ 331 $ 300 
+
+General and administrative expense $ 309 $ 1,064 $ 93 $ 790 $ 293 
+
+Net income (loss) $ (932) $ (3,555) $ (852) $ (1,657) $ (1,144) 
+
+Net income (loss) per share, basic $ (0.02) $ (0.06) $ (0.02) $ (0.03) $ (0.02) 
+
+Net income (loss) per share, diluted $ (0.01) $ (0.06) $ (0.01) $ (0.02) $ (0.01)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>rp-20250212.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover Page Document 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>rp-20250212_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover page. 
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>rp-20250212_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>logoa02.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover Page Document
+
+Feb. 12, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 12, 2025
+
+Entity Registrant Name Rapid7, Inc.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-37496
+
+Entity Tax Identification Number 35-2423994
+
+Entity Address, City or Town Boston,
+
+Entity Address, State or Province MA
+
+Entity Address, Postal Zip Code 02114
+
+City Area Code 617
+
+Local Phone Number 247-1717
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, $0.01 par value per share
+
+Trading Symbol RPD
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0001560327
+
+Amendment Flag false
+
+Entity Address, Address Line One 120 Causeway Street,
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover Page Document 
+Sheet 
+http://www.rapid7.com/role/CoverPageDocument 
+Cover Page Document 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+rp-20250212.htm 
+rp-20250212.xsd 
+rp-20250212_lab.xml 
+rp-20250212_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001560327-25-000008-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>rp-20250212_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001560327 
+
+2025-02-12 
+2025-02-12 
+
+0001560327 
+false 
+8-K 
+2025-02-12 
+Rapid7, Inc. 
+DE 
+001-37496 
+35-2423994 
+120 Causeway Street, 
+Boston, 
+MA 
+02114 
+617 
+247-1717 
+false 
+false 
+false 
+false 
+Common Stock, $0.01 par value per share 
+RPD 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

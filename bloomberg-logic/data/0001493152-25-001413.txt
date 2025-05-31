@@ -1,0 +1,4452 @@
+<SEC-DOCUMENT>0001493152-25-001413.txt : 20250108
+<SEC-HEADER>0001493152-25-001413.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108163615
+ACCESSION NUMBER:		0001493152-25-001413
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20250108
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250108
+DATE AS OF CHANGE:		20250108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VIP Play, Inc.
+		CENTRAL INDEX KEY:			0001832161
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-MISCELLANEOUS RETAIL [5900]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				850738656
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56290
+		FILM NUMBER:		25518981
+
+	BUSINESS ADDRESS:	
+		STREET 1:		78 SW 7TH STREET
+		STREET 2:		SUITE 500
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33130
+		BUSINESS PHONE:		866-783-9435
+
+	MAIL ADDRESS:	
+		STREET 1:		78 SW 7TH STREET
+		STREET 2:		SUITE 500
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33130
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KeyStar Corp.
+		DATE OF NAME CHANGE:	20201112
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8-k.htm
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+false000183216100018321612025-01-082025-01-08iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+FORM
+8-K
+
+CURRENT
+REPORT
+
+PURSUANT
+TO SECTION 13 OR 15(d) OF
+
+THE
+SECURITIES EXCHANGE ACT OF 1934
+
+Date
+of Report (Date of earliest event reported): January 8, 2025
+
+VIP
+Play, Inc.
+
+(Exact
+name of registrant as specified in its charter)
+
+Nevada 000-56290 85-0738656
+
+(State
+or other jurisdiction
+
+of
+incorporation) 
+
+(Commission
+
+File Number) 
+
+(I.R.S.
+Employer
+
+Identification
+No.)
+
+1645
+Pine Tree Ln, Suite 2, Sarasota, Florida 34236
+
+(Address
+of principal executive offices) (Zip
+Code)
+
+Registrants
+telephone number, including area code: (866)783-9435
+
+n/a
+
+(Former
+name or former address, if changed since last report)
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions:
+
+Written
+communications pursuant to Rule 425 under the Securities Act (17CFR 230.425) 
+
+Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: None.
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging
+growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item
+1.01 Entry into a Material Definitive Agreement.
+
+On
+January 8, 2025, VIP Play, Inc., a Nevada corporation (the Company, us, we
+or our) entered into an Amended and Restated Agreement for the Provision of a Sports Betting Solution (the Agreement)
+with Sports Information Services Limited, a Malta registered company, a supplier of sports betting solutions to business-to-consumer
+operators (Supplier). The Agreement amends, restates and replaces that certain Agreement for the Provision of a
+Sports Betting Solution we entered into with Supplier on November 1, 2024 in its entirety. Pursuant to the terms of the Agreement, Supplier
+has agreed to provide certain services (the Services) to us to use through our software platform over which gaming
+and betting transactions with our customers are conducted, including back-office software, player account management software, geo-location
+software and/or services, e-wallet software and/or services, websites and mobile applications, any underlying operating software, mobile
+platforms, or other means of remote communication. The Services are to be provided on a non-transferable, non-sub-licensable and non-exclusive
+basis for a term of five years after the first live launch in respect of the business to consumer sports betting activities that we intend
+to carry out in certain states, countries or territories.
+
+The
+Services to be provided by Supplier pursuant to the Agreement include: (i) the provision and hosting of Suppliers frontend application
+in HTML5 for desktop and touch devices, adapted for different screen sizes (e.g. mobile, tablet, desktop), and styling and skinning of
+such application, in each case to the extent agreed in writing between us and Supplier; (ii) the provision of the Suppliers standard
+sportsbook offering from time to time, which as at the date of this Agreement includes: pre-event and live event betting and markets,
+functionality for bet placement and functionality for providing results and enabling bet settlement; (iii) continuous pricing, event
+risk management, result settlement and customer risk management; (iv) continuous second line support; and (v) dedicated client account
+management and client account support The terms of the Agreement call for two lump sum payments, as well as ongoing business fees calculated
+as a percentage of net gaming revenue that will vary based upon yearly gross gaming revenues commencing with the first live launch.
+
+The
+above is a summary of the material terms of the Agreement and is qualified in its entirety by reference to the full text of the Agreement,
+which is attached hereto as Exhibit 10.1, and is incorporated herein by reference. This summary may not contain all of the information
+about the Agreement that is important to you. We urge you to read the Agreement in its entirety carefully. 
+
+Item
+9.01 Financial Statements and Exhibits
+
+Exhibit
+No. Description
+
+10.1* Amended & Restated Agreement for the Provision of a Sports Betting Solution dated January 8, 2025 by and between VIP Play, Inc. and Sports Information Services Limited
+
+104 Cover
+Page Interactive Data File (embedded within the Inline XBRL document)
+
+*Certain
+portions of this exhibit have been omitted pursuant to Regulation S-K Item 601(b)(10)(iv).
+
+2
+
+SIGNATURES
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+Date:
+January 8, 2025 VIP PLAY, INC.
+
+By: /s/
+James Mackey
+
+James
+Mackey, CFO
+
+3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>ex10-1.htm
+<TEXT>
+Exhibit
+10.1
+
+This
+contract contains Confidential Information, Trade Secrets and Proprietary Information pursuant to Tennessee, Arizona, West Virginia,
+New Jersey, Pennsylvania and Michigan Public Records Law applicable in each jurisdiction.
+
+CERTAIN
+IDENTIFIED INFORMATION HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE IT IS BOTH (I) NOT MATERIAL AND (II) WOULD LIKELY CAUSE COMPETITIVE
+HARM TO THE REGISTRANT IF PUBLICLY DISCLOSED. [****] INDICATES THAT INFORMATION HAS BEEN REDACTED.
+
+(1) SPORTS
+INFORMATION SERVICES LIMITED 
+
+(2) VIP
+PLAY, INC. 
+
+AMENDED
+AND RESTATED AGREEMENT
+
+FOR
+THE PROVISION OF A SPORTS BETTING SOLUTION
+
+DATED
+8 JANUARY 2025
+
+1
+
+CONTENTS
+
+Clause Page
+
+1. DEFINITIONS
+AND INTERPRETATION 3
+
+2. THE
+PROVISION OF THE SERVICE 10
+
+3. EXCLUSIVITY 12
+
+4. INTEGRATION
+AND LAUNCH OF THE SERVICE 12
+
+5. SUPPLIER
+OBLIGATIONS 12
+
+6. OPERATION
+OF THE CLIENT GAMING PLATFORM 13
+
+7. CUSTOMER
+TERMS AND SPORTS RULES 13
+
+8. DATA
+AND CONTENT SERVICES 14
+
+9. WARRANTIES 14
+
+10. COMPLIANCE
+AND CHANGE IN LAW 15
+
+11. FEES 17
+
+12. DATA
+PROTECTION 17
+
+13. INTELLECTUAL
+PROPERTY RIGHTS 20
+
+14. LIABILITY 21
+
+15. OPERATIONAL
+ISSUES 22
+
+16. INDEMNITIES 23
+
+17. TERM
+AND TERMINATION 24
+
+18. CONSEQUENCES
+OF TERMINATION 25
+
+19. CONFIDENTIALITY 25
+
+20. AUDIT
+AND COOPERATION 26
+
+21. SUSPENSION 27
+
+22. ASSIGNMENT 27
+
+23. NON-SOLICITATION 28
+
+24. FORCE
+MAJEURE 28
+
+25. NOTICE 29
+
+26. DISPUTE
+RESOLUTION 29
+
+27. GENERAL 30
+
+Schedule
+1 Commercial Terms 32
+
+Schedule
+2 Service Terms 34
+
+Schedule
+3 Additional Services 36
+
+Schedule
+4 Service Level Agreement 37
+
+Schedule
+5 New Territory Form 41
+
+Schedule
+6 New Territory Local Affiliate Form 43
+
+Schedule
+7 Appendix to Standard Contractual Clauses 45
+
+2
+
+This
+AMENDED AND RESTATED AGREEMENT FOR THE PROVISION OF A SPORTS BETTING SOLUTION (this Agreement) is made on the last
+date of signature of the Parties below (such date being the Execution Date)
+
+BETWEEN:
+
+(1) SPORTS
+INFORMATION SERVICES LIMITED, a company registered in Malta under company registration
+number C 58381, whose registered office is at Avenue 77, A4, Triq in-Negozju, Zone 3, Central
+Business District, Birkirkara, CBD 3010, Malta (the Supplier); and
+
+(2) VIP
+PLAY, INC., a corporation registered in Nevada under entity registration number E6075522020-4,
+whose registered office is at 1645 Pine Tree Lane, Suite 2, Sarasota, Florida, 34236, USA
+(the Client),
+
+each
+a Party and together the Parties.
+
+BACKGROUND:
+
+(A) The
+Supplier is a supplier of sports betting solutions to business-to-consumer operators.
+
+(B) The
+Client wishes to engage the Supplier to provide such a solution for use by the Client on
+the terms of this Agreement.
+
+(C) The
+Parties entered into an Agreement for the Provision of a Sports Betting Solution dated 1st
+November 2024 (the Original Framework Agreement).
+
+(D) The
+Parties have agreed to amend and restate the terms of the Original Framework Agreement on
+the terms set out in this Agreement. The Parties intend for this Agreement to replace and
+supersede the Original Framework Agreement in its entirety.
+
+IN
+CONSIDERATION OF the respective rights and obligations of the Parties in this Agreement, the Parties have agreed as follows:
+
+1. DEFINITIONS
+AND INTERPRETATION
+
+1.1 In
+this Agreement, unless the context otherwise requires, the following terms have the following
+meaning:
+
+Action
+means an act, event, omission, or circumstance.
+
+Affiliate
+means, with respect to an entity, any entity which directly or indirectly Controls, is Controlled by, or is under common Control with
+such entity from time to time.
+
+Agreement
+Personal Data means Personal Data that is Processed pursuant to this Agreement.
+
+Applicable
+Law means all applicable laws, orders, regulations, legal requirements, and codes having legal effect (including the applicable
+codes, regulations, licence conditions, legal requirements, and standards of all Gaming Authorities), in each case in force at the relevant
+time.
+
+API
+means an application programming interface.
+
+Bespoke
+Manual Bet (PR Bets) means any Bet Offer created by the Supplier (or its Affiliate) manually at the request of the Client
+(or its Affiliate) and not otherwise available as part of the standard sportsbook offering that is made available generally to clients
+of the Supplier (or its Affiliates) (although if more than one client of the Supplier (or its Affiliates) requests the same Bet Offer
+that is not otherwise part of the standard sportsbook offering, such Bet Offer shall still be considered a Bespoke Manual Bet (PR Bet)).
+
+3
+
+Bet
+Offer means any specific betting market made available by the Supplier as part of the Service from time to time.
+
+Business
+Days means a day that is not a Saturday, Sunday, or a public or bank holiday in the United States.
+
+Business
+Fee means the fee described in paragraphs 1.1 and 1.2 of Schedule 1.
+
+Change
+of Law means the coming into effect of a new Applicable Law or a change to Applicable Law or the interpretation or enforcement
+by the relevant authorities of such Applicable Law (in whole or in part) after the Execution Date.
+
+Client
+Assets means all of the Clients and/or its Affiliates name, trademarks, branding, designs, design elements,
+logos, marks, user interface, other brand elements or features, content, data, and/or materials for use on or in relation with the Client
+Gaming Platform made available by or on behalf of the Client and/or its Affiliates from time to time.
+
+Client
+Contractor means (i) any Third Party engaged by the Client and/or its Affiliates from time to time (a) to supply, maintain,
+and/or operate (in whole or in part) the Client Gaming Platform; and/or (b) in connection with the use of the Service pursuant to this
+Agreement (including any Market Access Partner); and/or (ii) any sub-contractor of the Client and/or its Affiliates from time to time.
+
+Client
+Gaming Platform means the software platform used by the Client and/or its Affiliates, over which gaming and betting transactions
+with Customers are conducted, including back-office software, player account management (PAM) software, geo-location software and/or
+services, e-wallet software and/or services, websites and mobile applications, any underlying operating software, mobile platforms, or
+other means of remote communication.
+
+Client
+Indemnified Party means the Client, its Affiliates and each of their respective officers, directors, and employees.
+
+Competent
+Authority means any court of competent jurisdiction, or any other authority that performs a related or similar function (including
+any Supervisory Authority) but excluding any Gaming Authority.
+
+Confidential
+Information means all knowledge, information, documents, and/or materials of a Party and/or its Affiliates which is disclosed
+or otherwise comes into the possession of the other Party and/or its Affiliates, whether before, on or after the Execution Date, which
+is of a confidential nature, including the Fees, the terms of this Agreement, and the technology used by the Supplier and/or its Affiliates.
+Performance Data and work product of the Supplier and/or its Affiliates (including the Suppliers and/or its Affiliates
+assessment and categorisation of a Customers risk profile) shall be the confidential information of the Supplier.
+
+Contract
+Year means the period of twelve (12) calendar months starting on the Effective Date and each successive period of twelve (12)
+calendar months.
+
+Control
+means to directly or indirectly, (i) control more than fifty percent (50%) of the voting rights in an entity; (ii) control the right
+to directly or indirectly appoint or remove more than fifty percent (50%) of the board of directors of an entity; and/or (iii) control
+more than fifty percent (50%) of the share capital or ownership interest in an entity and Controls and Controlled
+shall be construed accordingly.
+
+4
+
+Customer
+means an individual who is a registered user of the Client Gaming Platform for the purpose of placing bets on sports betting markets
+that are supported by the Service from time to time.
+
+Customer
+Funds means all monies received from, held on behalf of, credited, or paid-out to a Customer.
+
+Customer
+Risk Management means the monitoring and management of risk exposure by the Supplier in respect of any specific Customer(s),
+which may include the partial acceptance of bets and/or the refusal to accept a particular bet due to the Suppliers and/or its
+Affiliates assessment of the Customers risk profile, and the management of suspicious bets.
+
+Customer
+Risk Management Data means the data collected by the Supplier and/or provided by the Client to the Supplier in connection
+with Customer Risk Management, which includes any Customers username, age, gender, city, first part of post code, currency, language,
+country of residence, IP address, last method of deposit and adequacy of account balance to place each bet and bet history.
+
+Customer
+Terms means the terms under which the Customers access and use the Client Gaming Platform, as amended by Client from time
+to time.
+
+[****]
+
+Data
+and Content Provider means any entity engaged by the Supplier and/or its Affiliates to provide Data and Content Services from
+time to time in connection with the Service. Betgenius, Sportradar, and Stats Perform are examples of prospective Data and Content Providers.
+
+Data
+and Content Services means the supply of data, content, functionality, and/or tools (including in respect of the data, content
+and tools described in paragraphs 2 and 3 of Schedule 1) and any replacement, addition, or substitution thereto from time to time
+(and any IPR in each of the foregoing) which is based on or comprising data, content, functionality, and/or tools from a Third Party,
+which the Supplier then makes available to the Client, its Affiliates, and/or any Client Contractors in connection with the Service.
+
+Data
+Protection Laws means all Applicable Laws relating to the Processing of Personal Data and/or privacy in effect in any relevant
+territory from time to time; including GDPR, the Privacy and Electronic Communications (EC Directive) Regulations 2003, the Federal Trade
+Commission Act (15 U.S. Code sec. 41 et seq.), and all Applicable Laws which replace such legislation, and all applicable laws and regulations
+relating to Processing of Personal Data and/or privacy, including where applicable the guidance and codes of practice issued by the relevant
+Competent Authorities;
+
+Any
+reference in this Agreement to Data Controller, Data Processor, Data Subjects, Personal Data,
+Process, Processed, Processing and Supervisory Authority shall have the meaning
+set out in, and will be interpreted in accordance with Data Protection Laws.
+
+Data
+Security Incident means
+
+a) breach
+of security involving Agreement Personal Data; or
+
+b) a
+discovery or reasonable suspicion that there is a vulnerability in any technological measure
+used to protect any Agreement Personal Data that has previously been subject to a breach
+within the scope of paragraph (a), which may result in exploitation or exposure of that Agreement
+Personal Data; or
+
+c) any
+defect or vulnerability with the potential to impact the ongoing resilience, security and/or
+integrity of systems Processing Agreement Personal Data.
+
+5
+
+[****]
+
+Downtime
+has the meaning set out in Schedule 4.
+
+Effective
+Date means the Execution Date.
+
+eSports
+means an organized, multiplayer video game competition, particularly between professional players, individually or as teams. For
+the avoidance of doubt, the Supplier shall only make available to the Client its standard eSports offering and the Client shall be required
+to agree further terms with the Supplier or its Affiliates to purchase any advanced eSports products.
+
+Excusable
+Cause has the meaning set out in Schedule 4.
+
+Fees
+means the fees (including the Business Fee) and other costs payable to the Supplier pursuant to this Agreement, including those specified
+in Schedule 1.
+
+Force
+Majeure Event means any act, event, or omission beyond the reasonable control of a Party, including war, riot, fire, flood,
+storm, epidemic, pandemic and telecommunications malfunction or unavailability.
+
+Free
+Bet means a bet that is placed by a Customer using the Service via the Client Gaming Platform, using virtual money tokens
+granted through the Suppliers promotional tools.
+
+Free
+To Play means a limited sports betting service which enables the placement of bets by end customers using virtual money only,
+credits end customers accounts with winnings using virtual money tokens only, and does not allow for any real money withdrawals
+by end customers.
+
+Gaming
+Approval means any and all approvals, authorisations, gaming licences, transactional waivers, permits, consents, findings
+of suitability, registrations, clearances, and exemptions of or from a Gaming Authority.
+
+Gaming
+Authority means any governmental, regulatory, and/or administrative authority, agency, commission, board and/or body that
+has jurisdiction over (or is responsible for or involved in the regulation of) the gambling activities of either Party and/or any of
+its Affiliates from time to time.
+
+Gaming
+Tax means the amount paid of any statutory, state, or federal tax imposed on Client or any of its Affiliates in respect of
+any betting activity by Customers using the Service via the Client Gaming Platform in the relevant period. This excludes: (i) any gaming
+licence fees or costs payable in connection with any Gaming Approval; and (ii) any integrity fees payable to any sports or eSports
+governing body.
+
+GDPR
+means the European General Data Protection Regulation (Regulation (EU) 2016/679).
+
+Good
+Industry Practice means, in relation to any activity or requirement relevant to this Agreement, exercising the diligence,
+skill, prudence, foresight, and judgement which would be reasonably and ordinarily expected from an experienced party engaged in the
+same type of activity under similar circumstances.
+
+Gross
+Gaming Revenue or GGR means total Stakes in respect of bets that are settled during the relevant period
+minus total Payouts that are settled in such period.
+
+In-Play
+Event means live events on which a Customer is able to place a bet.
+
+Incentives
+means the following promotional incentives: [****].
+
+6
+
+Incident
+shall mean an unplanned interruption to an information technology service that forms part of the Service or reduction in the quality
+of an information technology service that forms part of the Service (which shall include Software Errors). Incidents may be categorised
+by various priority levels in Schedule 4.
+
+Initial
+Period means a period commencing on the Effective Date and ending five (5) years after the first Live Launch.
+
+Insolvency
+Event means the following with respect to a Party (as appropriate): (a) either: (i) filing of a voluntary petition in bankruptcy
+(which is not subsequently withdrawn within a period of seven (7) days); (ii) any provisional liquidator, administrator, liquidator,
+receiver, compulsory manager or administrative receiver is appointed over any of its assets; or (iv) any steps are taken in relation
+to any resolution passed or order made for its winding up, dissolution, administration, voluntary liquidation or declaring a moratorium;
+(v) it has a freezing order made against it; or, (vi) it becomes subject to any other similar insolvency process; or (b) it is unable
+to pay its debts as and when they fall due within the meaning of section 123 of the Insolvency Act 1986 or under the laws of any applicable
+jurisdiction; (c) it is subject to any procedure for the taking control of its goods that is not withdrawn or discharged within [****]
+days of that procedure being commenced; or (d) it is subject to any events or circumstances analogous to those in paragraphs (a)
+to (c) in any jurisdiction.
+
+IPR
+means all intellectual property rights, including patents (pending or granted), rights to inventions, moral rights, know-how, registered
+designs, copyrights and related rights, rights in computer software, database rights, design rights, trademarks, service marks, and domain
+names (in all cases whether or not the right is registered, and including applications and the right to apply for registration of any
+such rights) and all rights and forms of protection of a similar nature or having similar effect to any of these which may subsist anywhere
+in the world, in each case for their full term, together with any extensions or renewals.
+
+Live
+Launch means, in respect of a country, state, province or other territory that forms part of the Territory, the first day
+when the Service is made available to a Customer in such country, state, province, or other territory by or on behalf of the Client and/or
+any of its Affiliates.
+
+Local
+Affiliates means the Affiliates of each Party that, alongside the Parties, enter into a New Territory Local Affiliate Form
+in accordance with the process set out in Clause 2.9.
+
+Losses
+means losses, damages, liabilities, settlements, judgments, costs (including reasonable legal fees), and expenses.
+
+Mandated
+Operational Issue Payment means, in respect of an Operational Issue, an amount which the Client is required by a relevant
+Gaming Authority or under Applicable Law to pay to the relevant Customer as a direct consequence of that Operational Issue.
+
+Market
+Access Partner means any entity which Client has partnered with to acquire market access in a country, state, province, or
+other territory of the Territory, and Client is permitted to provide the Service through, pursuant to Clause 2.4.
+
+Minimum
+Guarantee has the meaning set out in paragraph 1 of Schedule 1.
+
+Net
+Gaming Revenue or NGR shall mean GGR minus [****].
+
+New
+Territory means any new country, state, province, or other territory which is added to the Territory by the Parties in accordance
+with Clause 2.9 from time to time.
+
+New
+Territory Form means the form set out in Schedule 5 that the Parties shall use to document the addition of a New Territory,
+other than where a New Territory Local Affiliate Form is required by the Supplier.
+
+7
+
+New
+Territory Local Affiliate Form means the form set out in Schedule 6 that the Parties shall use to document the addition of
+a New Territory where the Supplier requires the Local Affiliates to be signatories to that addendum under Clause 2.9.
+
+[****]
+
+Operational
+Issue means any error in relation to the prices, odds, results, translations, lines, naming markets or selections or other
+data in the system of the Supplier, only to the extent caused by an act or omission of the Supplier and/or its Affiliates or by a Software
+Error.
+
+Payouts
+means any amounts paid out on bets placed using the Service excluding any additional enhanced winnings paid out on Payout Deviations
+and Premiums (as defined in Clause 14.2), [****].
+
+[****]
+
+Performance
+Data means any and all aggregate and irreversibly anonymized data relating to the access or use of the Service by or on behalf
+of the Client and/or any of its Affiliates, or any Customer, including any aggregate and irreversibly anonymized performance, analytics
+or statistical data, that the Supplier and/or any of its Affiliates may collect from time to time.
+
+Pre-Match
+Event means all Bet Offers on which a Customer is able to place a bet using the Service
+via the Client Gaming Platform prior to the relevant event taking place.
+
+Restricted
+Territories means [****].
+
+Restricted
+Transfer means a transfer of Agreement Personal Data to a Third Country.
+
+Retail
+Terminal means a terminal owned and/or operated by the Client on which the Suppliers software program is installed
+enabling the Supplier to provide the Retail Sportsbook to Customers via their use of such terminal.
+
+Sales
+Taxes means: (i) the sales tax and use Tax applicable in the United States of America; and (ii) analogous product, services
+and/or sales taxes in other jurisdictions.
+
+Service
+means the services described in paragraph 1 of Schedule 2.
+
+Service
+Level Agreement or SLA means the document set out at Schedule 4.
+
+Software
+Error has the meaning given to it in Clause 5.2.
+
+Sports
+Rules means the specific rules provided by the Supplier to the Client from time to time regarding the creation and settlement
+of bets in relation to sporting events and competitions.
+
+Stakes
+means any amount placed on a bet [****].
+
+Standard
+Contractual Clauses means the European Union (EU) standard contractual Clauses established by the EU
+for the transfer of Personal Data to third countries under Data Protection Laws, specifically the terms relating to Module One 
+Controller to Controller transfers, as amended/updated or replaced from time to time.
+
+Supplier
+Indemnified Party means the Supplier, its Affiliates and each of their respective officers, directors, and employees.
+
+[****]
+
+8
+
+Tax
+or Taxes means all forms of taxation (including Gaming Tax), duties, levies, rates, contributions and imposts, and
+all penalties, charges, fines, and interest included in or related to any tax assessment.
+
+Term
+means the period from the Effective Date to the Termination Date.
+
+Termination
+Date means the date of termination or expiry of this Agreement in accordance with its terms.
+
+Territory
+means Tennessee, West Virginia, Arizona, New Jersey, Pennsylvania, Michigan, and any New Territories, but in each case excluding any
+Restricted Territories from time to time.
+
+Third
+Country means any country outside of the EU or EEA which is not considered adequate in accordance with Article 45 of the GDPR.
+
+Third
+Party means any person that is not the Client, the Supplier or one of their respective Affiliates.
+
+Third
+Party Claim means any claim, allegation or proceeding made or initiated by a Third Party against a Party excluding claims
+or demands by Customers for winnings or other payouts resulting from Operational Issues or Software Errors (to the extent the Software
+Error does not give rise to claims, demands or compensation in connection with Operational Issues).
+
+Virus
+means computer viruses and/or malicious attacks (including denial of service attacks, malware, ransomware, intentional hacking, damaging
+or corruption, or the insertion of malicious or harmful code, including trojans, worms, and time bombs).
+
+Unsupported
+Territory means a country, state, province or other territory or part thereof where the Supplier declines to include as part
+of the Territory in accordance with the terms of Clause 2.9.
+
+1.2 In
+this Agreement, unless otherwise specified:
+
+1.2.1 words
+in the singular include the plural and vice versa;
+
+1.2.2 any
+reference to a Party includes the Partys representatives, successors, or permitted
+assignees;
+
+1.2.3 any
+words that follow include, including, for example
+or in particular or any similar words and expressions shall be construed as
+illustrative only and shall not limit the sense of any word, phrase, term, definition or
+description preceding those words;
+
+1.2.4 a
+reference to a statute or statutory provision includes that statute or statutory provision
+as amended, updated, modified, or replaced (before, on or after the Execution Date);
+
+1.2.5 references
+to Clauses are to the Clauses of the main body of this Agreement, references to Schedules
+and Appendices are to the Schedules and Appendices of this Agreement, and references to paragraphs
+are to paragraphs of the relevant Schedule;
+
+1.2.6 references
+to a person include any individual, body corporate, association, partnership,
+firm, trust, organisation, joint venture, government, local or municipal authority, governmental
+or supra-governmental agency or department, state or agency of state or any other entity
+(in each case whether or not having separate legal personality);
+
+9
+
+1.2.7 clause,
+schedule and paragraph headings shall not affect the interpretation of this Agreement;
+
+1.2.8 a
+calendar month is a period of time starting on the first day of a month and
+ending on the last day of that month (for example, 1 January to 31 January).
+
+1.3 The
+Schedules form part of this Agreement and will have the same force and effect as if set out
+in the body of this Agreement and any reference to this Agreement will include the Schedules.
+
+2. THE
+PROVISION OF THE SERVICE
+
+2.1 Subject
+to Clause 4.2, the Supplier hereby agrees to provide (directly or via its Affiliate)
+the Service to the Client for use by the Client solely through the Client Gaming Platform
+on a non-transferable, non-sub-licensable (except, subject to Clause 2.4, to its Affiliates)
+and non-exclusive basis for the Term in respect of the business to consumer sports betting
+activities that the Client carries out in the Territory.
+
+2.2 The
+Client shall not resell, sub-contract, disclose, disassemble, decompile (save to the extent
+such restriction is prohibited by Applicable Law), transfer or route the Service or allow
+any Third Party to benefit from the Service (in whole or in part) without the Suppliers
+prior written consent. This Clause 2.2 shall not prevent a Customer from using the
+Client Gaming Platform to place bets on betting markets that are supported by the Service.
+
+2.3 The
+Client is responsible for the choice, publication, and management of all content including
+names (including all abbreviations, nicknames, alternative names and informal naming) of
+events, individuals, teams, venues, sponsors, entities and competitions and/or all logos,
+images, graphics or insignia in respect of the foregoing which are published, distributed,
+or made available on or via the Client Gaming Platform, including any such content that is
+made available by the Supplier as a consequence of the Service. The Client shall therefore
+be responsible for ensuring that there is no infringement of Third Party IPR or any other
+rights and otherwise shall be responsible for the nature and appropriateness of such content,
+in the context of its use. The Client therefore agrees that, subject to Clause 14.1, the
+Supplier shall have no liability to the Client and/or its Affiliates in relation to any of
+the foregoing.
+
+2.4 Subject
+to Clause 14.7, the Client may allow its Affiliates (and Market Access Partners in
+respect of a skin for the Client or any of its Affiliates under a Gaming Approval
+held by such Market Access Partner) to use the Clients rights pursuant to Clause 
+2.1 during the Term, provided that the Client: (i) notifies the Supplier in writing of the
+identity and location of each such Affiliate and/or Market Access Partner at least forty
+(40) days in advance; (ii) takes any action reasonably requested by the Supplier to enable
+both the provision of the Service to the relevant Affiliate and/or Market Access Partner
+and to enable the Supplier to successfully complete any due diligence in respect of such
+Affiliate and/or Market Access Partner; (iii) procures that the relevant Affiliate and/or
+Market Access Partner has complied with any requirements imposed by any relevant Gaming Authority;
+(iv) reimburses the Supplier for any reasonable additional costs incurred by the Supplier
+stemming from the Affiliates and/or Market Access Partners use of the Clients
+rights under Clause 2.1 which shall be agreed in writing in advance; (v) obtains the written
+consent of the Supplier which consent may not be unreasonably, denied, conditioned, or delayed;
+and (vi) in relation to any Restricted Transfers provides such information as may be necessary
+for the completion of the documents set out in Schedule 7 in respect of any importing Affiliate
+and/or Market Access Partner (vii) procures that such Affiliate and/or Market Access Partner
+complies at all times with the terms of this Agreement as if they were the Client. Without
+prejudice to the foregoing, the Client shall remain primarily liable for any act or omission
+of any such Affiliate and/or Market Access Partner.
+
+10
+
+2.5 The
+Supplier may revoke any consent given under Clause 2.4 in respect of any Market Access Partner
+on at least five (5) Business Days prior written notice to the Client where:
+
+2.5.1 the
+Supplier is entitled to make a claim under Clause 16.3 in relation to the relevant
+Market Access Partner;
+
+2.5.2 the
+Client commits a material breach of this Agreement that is caused in whole or in part by
+the relevant Market Access Partner, and such breach is irremediable or, where capable of
+remedy, the Client fails to remedy that breach (including by ensuring that the Market Access
+Partner has taken the necessary steps to ensure that the breach is remedied) within thirty
+(30) days of such a material breach occurring; and/or
+
+2.5.3 the
+relevant Market Access Partner becomes subject to an Insolvency Event.
+
+2.6 [****]
+
+2.7 If
+requested by the Client in writing (including email), the Supplier shall make one or more
+of the Suppliers APIs available to an Affiliate of the Client and/or a Third Party
+approved by the Supplier (each an API User), [****], provided
+that the Client shall ensure that each API User:
+
+2.7.1 shall
+only use the relevant APIs to the extent required for the Clients and/or its Affiliates
+use of the Service in accordance with this Agreement (including Clause 12),
+and/or for any purpose agreed with the Supplier in writing;
+
+2.7.2 shall
+not resell, sub-contract, disclose, disassemble, decompile (save to the extent such restriction
+is prohibited by Applicable Law), transfer, or route any of the information supplied via
+the API or allow any Third Party to benefit from any of the information supplied via the
+API without the Suppliers prior written consent;
+
+2.7.3 has
+obtained and maintains all necessary Gaming Approvals required in connection with such use
+and uses the information supplied via the API in accordance with Applicable Law; and
+
+2.7.4 has
+entered into an agreement with the Client that includes terms in respect of data protection
+which are, substantially the same as, and in any case no less onerous than, the terms in
+relation to data protection and confidentiality set out in this Agreement.
+
+The
+Supplier makes no representation or warranty that any API shall be available or suitable for any API Users intended use and, subject
+to Clause 14.1, shall have no liability to the Client and/or such API User in respect of such use.
+
+2.8 The
+Client shall (and shall ensure that each API User shall) cease use of any of the Suppliers
+APIs which are no longer required for either (i) the Clients and Affiliates
+use of the Service; or (ii) for any purpose agreed with the Supplier in writing, during the
+Term of this Agreement. The Client shall promptly notify the Supplier when an API Users
+access to each of the Suppliers APIs is no longer so required for the Clients
+use of the Service and/or for any purpose agreed with the Supplier in writing.
+
+2.9 [****].
+In addition, the Client may request in writing from time to time to add other states
+([****]) or territories to the Territory and the inclusion of such states or territories
+will be at the Suppliers sole discretion. Neither Party will have any rights or obligations
+in relation to the State of Missouri or any other such state or territory unless:
+
+2.9.1 a
+New Territory Form has been signed by the Parties in respect of that New Territory; or
+
+2.9.2 a
+New Territory Local Affiliate Form has been signed by the Parties and the Local Affiliates
+in respect of that New Territory, where a New Territory Local Affiliate Form is required
+by the Supplier (it being acknowledged that the Supplier may require such form where a Gaming
+Authority or Applicable Law, in the opinion of the Supplier, requires the same); and
+
+11
+
+2.9.3 if
+a New Territory involves a Restricted Transfer, the Parties agree to enter into such relevant
+transfer mechanisms as are required to ensure such transfer is made in accordance with Data
+Protection Laws and Clauses 12 and 2.4, prior to the transfer taking place.
+
+2.10 The
+Supplier shall make available to the Client such non-bespoke updates and bug fixes as it
+generally makes available to its other clients who receive substantially the same services
+as those provided to the Client under this Agreement in the countries, states, provinces,
+and other territories of the Territory from time to time.
+
+2.11 The
+Client acknowledges that the Supplier is performing due diligence on the Client as at the
+date of this Agreement. The Client shall take any action reasonably requested to enable the
+Supplier to successfully complete such due diligence and in no event shall the Supplier be
+required to provide any Services to the Client prior to the successful conclusion of such
+due diligence processes.
+
+3. EXCLUSIVITY
+
+3.1 During
+the Term, the Client undertakes not to and undertakes to ensure that none of its Affiliates
+or associated entities, make available to end users, a sportsbook offering which is the same
+as or similar to any of the sportsbook products provided as part of the Service hereunder
+(a Similar Sportsbook Offering) worldwide, either on its or their
+own account, or through any Third Party. [****].
+
+3.2 [****]
+
+3.3 [****]
+
+4. INTEGRATION
+AND LAUNCH OF THE SERVICE
+
+4.1 The
+Supplier shall, taking into account the Clients reasonable comments, provide the Client
+with a plan for the initial integration with the Client Gaming Platform and first Live Launch,
+which plan shall set out each Partys obligations in respect of the same. For the avoidance
+of doubt, any specific dates set out in such plan shall be targets only and shall not be
+legally binding unless expressly stated to be so. The Supplier may also, at its discretion,
+provide additional integration and launch plans in respect of any subsequent integrations
+or launches (for example, in respect of launches in New Territories). Subsequent integrations
+may be subject to payment of integration fees. The Client shall:
+
+4.1.1 perform
+its obligations set out in each such plan; and
+
+4.1.2 provide
+the Supplier with access to the Client Gaming Platform standard APIs.
+
+4.2 Live
+Launch will not occur in respect of a certain country, state, province, or other territory
+of the Territory until:
+
+4.2.1 the
+Supplier has confirmed in writing to the Client the successful integration of the Service
+with the Client Gaming Platform in accordance with such plan; and
+
+4.2.2 each
+Party has obtained all required Gaming Approvals in that certain country, state, province,
+or other territory of the Territory.
+
+5. SUPPLIER
+OBLIGATIONS
+
+5.1 After
+Live Launch in a certain country, state, province, or other territory of the Territory, the
+Supplier shall provide the Service in accordance with the SLA in relation to the Territory.
+
+12
+
+5.2 [****]
+
+5.3 The
+Client will promptly report the Software Error to the Supplier in writing as soon as the
+Client becomes aware of the malfunction [****].
+
+6. OPERATION
+OF THE CLIENT GAMING PLATFORM
+
+6.1 The
+Client shall have sole authority and responsibility for managing, at its own cost and on
+its own account (or, as the case may be, through its use of any Client Contractors), the
+relationship and communication with Customers and the operation of the Client Gaming Platform.
+Without prejudice to the generality of the foregoing, the Client shall:
+
+6.1.1 ensure
+the continuous availability of the Clients Gaming Platform to Customers;
+
+6.1.2 handle,
+manage and account for Customer Funds and related information in a full and secure manner
+and in accordance with Applicable Law. The Supplier shall at no time hold, manage or be responsible
+for Customer Funds;
+
+6.1.3 maintain
+the registrations of the relevant domain names on which sports betting services powered by
+the Service are made available to Customers from time to time; and
+
+6.1.4 provide
+first line Customer support and handling of Customer complaints.
+
+6.2 If
+a bet placed using the Service via the Client Gaming Platform is cancelled, the Supplier
+will inform the Client through a real-time feed with all relevant data. The Client shall
+be responsible for communicating with any affected Customers regarding any cancelled bets.
+
+6.3 The
+Client shall promptly, upon request, provide (and ensure that any Affiliates and/or Client
+Contractors provide) the Supplier with such information and assistance as the Supplier shall
+reasonably require to enable (i) any integration and launch pursuant to Clause 4.1;
+and (ii) the Supplier to provide the Service and fulfil its obligations under this Agreement.
+The Client shall reimburse the Supplier in respect of any reasonable costs incurred by the
+Supplier as a result of any breach of the foregoing.
+
+7. CUSTOMER
+TERMS AND SPORTS RULES
+
+7.1 The
+Client shall ensure all Customers actively accept the Customer Terms prior to accessing the
+Client Gaming Platform. The Client shall ensure that the Customer Terms are valid, enforceable
+and compliant with Applicable Law.
+
+7.2 The
+Client shall include in the Customer Terms:
+
+7.2.1 an
+express prohibition on Customer utilising the Services for any commercial purpose;
+
+7.2.2 a
+provision that states that the Supplier is the owner of the IPR in the pricing data made
+available by the Supplier and that such data should only be used by a Customer for the purpose
+of placing bets via the Client Gaming Platform; and
+
+7.2.3 such
+provisions as the Supplier may request in writing to enable the Supplier to meet its obligations
+to the Data and Content Providers.
+
+7.3 The
+Client shall ensure that the Customer Terms at all times include and do not conflict with
+the Sports Rules as those Sports Rules are provided to the Client from time to time (and
+the Client shall update the Customer Terms to include any updated Sports Rules at the time
+reasonably stipulated by the Supplier). If the Client breaches this Clause 7.3: (i)
+the Client shall be solely liable for any resulting Loss relating to Customers and any such
+Loss will not constitute an Operational Issue; and (ii) subject to Clause 14.1, the
+Supplier shall have no liability to the Client where such liability is caused wholly or partially
+by the Clients breach of this Clause 7.3 The Client shall, upon written request
+by the Supplier, promptly provide a copy of the Customer Terms to the Supplier. If the Supplier
+notifies the Client that the Customer Terms conflict with the Sports Rules, the Client shall
+promptly amend the Customer Terms in accordance with the reasonable request of the Supplier.
+
+13
+
+7.4 The
+Sports Rules shall be provided to Client in English. If requested by the Client, the Supplier
+shall provide translations of the Sports Rules and all pre-match, live and other offerings
+in any of the languages supported by the Supplier from time to time, provided always that
+(subject to Clause 14.1) the Supplier shall not be liable for any claim, problem or
+issue arising as a result of any such translation being incorrect and any such claim, problem
+or issue will not constitute an Operational Issue. The Supplier shall use reasonable endeavours
+to provide such translation as soon as reasonably possible and in any event shall provide
+such translations within forty-eight (48) hours of such offering being made available to
+the Client. Without prejudice to the foregoing, the Client shall review the translations
+provided by the Supplier and request any necessary amendments to any such translation in
+order to comply with Applicable Law, in which case the Parties shall agree on the amendments
+required to meet such requirements within a reasonable period.
+
+7.5 [****]
+
+8. DATA
+AND CONTENT SERVICES
+
+8.1 The
+Client undertakes that:
+
+8.1.1 it
+shall only use the Data and Content Services in respect of its use of the Service in the
+Territory and not for any other purpose (including for any editorial or media use); and
+
+8.1.2 it
+will not supply the Data and Content Services to any person except its Customers for their
+personal and private use as part of its sports betting service that is powered by the Service).
+
+8.2 In
+relation to the Suppliers provision of Data and Content Services, upon notification
+by the Supplier, the Client shall enter into an addendum to this Agreement and/or a direct
+contract with any Data and Content Provider (including sports leagues such as the NFL and
+those Data and Content Providers set out in Schedule 1 to this Agreement), and shall comply
+with the terms of such addendum or contract (including in respect of the payment of any fees),
+and/or procure that its Affiliates do each of the same.
+
+8.3 The
+Supplier shall notify the Client promptly upon becoming aware of any material adverse change
+which affects the Suppliers ability to provide the Data and Content Services in accordance
+with the terms set out in this Agreement.
+
+9. WARRANTIES
+
+9.1 Each
+Party warrants and represents to the other Party that:
+
+9.1.1 this
+Agreement is executed by a duly authorised representative of that Party;
+
+9.1.2 this
+Agreement will, when executed by that Party, constitute lawful, valid and binding obligations
+of it in accordance with its terms; and
+
+9.1.3 the
+entering into this Agreement by it and the performance of this Agreement will not conflict
+with, or breach any other agreement to which it is a party.
+
+9.2 The
+Client warrants and represents that it has disclosed to the Supplier its position regarding
+all applicable Taxes in relation to its business and the business of its Affiliates and undertakes
+that it will notify the Supplier immediately if such position regarding applicable Taxes
+changes.
+
+14
+
+9.3 The
+Supplier shall use reasonable endeavours to ensure that the Suppliers technology is
+regularly tested by the Supplier with up to date commercially available detection software
+for Viruses and cyber attacks [****].
+
+9.4 [****]
+
+9.5 Subject
+to Clause 14.1 and except as expressly stated in this Agreement, all representations,
+warranties, conditions and other terms whether express or implied by statute, common law
+or otherwise are hereby excluded to the extent permitted by Applicable Law.
+
+10. COMPLIANCE
+AND CHANGE IN LAW
+
+10.1 On
+a Party (the Notifying Party) becoming aware of any fact that could
+or does give rise to a claim or an investigation by a Gaming Authority that the operation
+of the Client Gaming Platform, a particular product and/or any matter arising out of or in
+connection with all or any part of the provision and/or use of the Service is contrary to
+Applicable Law (Regulatory Claim), the Notifying Party shall promptly
+notify the other Party (Other Party) in writing of the Regulatory Claim
+or potential Regulatory Claim together with all relevant facts. Upon receipt of such notice,
+the Parties shall convene an urgent meeting to determine how to mitigate any Losses which
+may arise from such Regulatory Claim and how to approach and make representations to such
+Gaming Authority. Neither Party shall make any admissions or any settlement in respect of
+any Regulatory Claim or potential Regulatory Claim without prior discussion with the other
+Party.
+
+10.2 Subject
+to Clauses 14, 10.3 and 10.4, if a Regulatory Claim is caused by the Supplier and results
+in a fine being imposed on the Client by a Gaming Authority (Regulatory Fine)
+the Suppliers liability in contract (including under any indemnity), tort (including
+negligence), equity or for breach of statutory duty or in any other way to the Client and
+its Affiliates shall be limited to the amount calculated using the following formula:
+
+[****]
+
+10.3 [****]
+
+10.4 [****]
+
+10.5 [****]
+
+10.6 Each
+Party shall be responsible for obtaining the necessary Gaming Approvals to carry out its
+respective obligations under this Agreement in any Territory.
+
+10.7 The
+Client warrants and undertakes to the Supplier that:
+
+10.7.1 it,
+and each of its Affiliates, shall maintain throughout the Term all Gaming Approvals necessary
+to: (i) use the Service and the Data and Content Services in the Territory and/or perform
+any marketing and promotional activities it carries out in the Territory; and (ii) perform
+its obligations under this Agreement including marketing and promotional activities it carries
+out in such Territories;
+
+10.7.2 it
+shall promptly notify the Supplier in the event of any changes to any Gaming Approval (including
+any Gaming Approval held by any of its Affiliates) and provide such information and assistance
+as the Supplier may reasonably request from time to time in connection with the Suppliers
+due diligence checks; and
+
+10.7.3 will
+promptly keep the Supplier informed of regulatory changes that may affect the Service or
+any matters relating to the Service and that are communicated or made available to the Client
+by a Gaming Authority and that are not publicly available.
+
+15
+
+10.8 The
+Supplier warrants and undertakes to the Client that:
+
+10.8.1 it
+has obtained, and shall maintain throughout the Term, any Gaming Approval necessary to perform
+its obligations under this Agreement;
+
+10.8.2 it
+and each of its Affiliates shall be lawfully entitled to conduct its business in accordance
+with Applicable Law; and
+
+10.8.3 it
+shall promptly notify the Client of any changes to any Gaming Approval that could affect
+the supply of the Service to the Client in the Territory and provide such information and
+assistance as the Client may reasonably request from time to time in connection with the
+Clients due diligence checks.
+
+10.9 Subject
+always to Clause 14 and 10.5, each Party
+shall comply and shall ensure that any relevant Affiliate (and each of their respective employees,
+agents and representatives) comply with all Applicable Law in the performance of its or their
+duties under this Agreement and/or the provision or use of the Service.
+
+10.10 Each
+Party shall, upon written request, provide to the other Party all relevant information and
+documentation which is required by any Gaming Authority and shall cooperate in good faith
+with that Party and any Gaming Authority for the successful completion of any regulatory
+inquiry or due diligence as may be conducted from time to time.
+
+10.11 The
+Client shall, at all times, comply with (i) responsible gaming standards and applicable codes
+of conduct; and (ii) all anti-money laundering, client identification, age verification,
+and geolocation requirements under Applicable Law and shall ensure that appropriate monitoring,
+reporting, and audit policies and processes are in place.
+
+10.12 If
+either Party becomes aware of any Change of Law which may impact the legality of the Supplier
+providing all or any part of the Service to the Client (and/or any relevant Affiliate) or
+the Client making available all or any part of the Service to Customers through the Client
+Gaming Platform:
+
+10.12.1 such
+Party shall promptly provide reasonable evidence of the Change of Law to the other Party
+and the known or anticipated impact of the Change of Law; and
+
+10.12.2 the
+Parties shall discuss in good faith how to proceed in respect of Customers physically present
+in the affected part of the Territory, including either Party obtaining any required Gaming
+Approval or preventing Customers physically present in each such affected Territory from
+accessing sports betting markets that are supported by the Service through the Client Gaming
+Platform.
+
+10.13 No
+Party shall be responsible for its failure to perform any obligation under this Agreement
+to the extent that it arises out of a Change of Law, provided that such Party takes all reasonable
+steps to mitigate the effects of such Change of Law as soon as reasonably practicable after
+becoming aware that such a Change of Law is to be made.
+
+10.14 Notwithstanding
+any other provision herein, the Supplier shall be entitled to make any changes to the Service
+which the Supplier considers to be reasonably necessary to avoid breaching Applicable Law
+and/or any sanction by a Gaming Authority and shall notify the Client of such a change as
+soon as reasonably practicable.
+
+10.15 Notwithstanding
+any other provision in this Agreement and without prejudice to Clause 2.1, the Client warrants,
+represents and undertakes that it shall not, and it shall take reasonable commercial efforts
+to ensure that none of its Affiliates or Client Contractors will process any wagers on the
+Client Gaming Platform for any person who is then, at the time of the wager, physically present
+in one of the Restricted Territories. [****].
+
+16
+
+11. FEES
+
+11.1 Subject
+to Clause 11.4, the Client shall pay the Fees to the Supplier or (at the Suppliers
+option) any of its Affiliates monthly in arrears within thirty (30) days from delivery of
+an invoice by the Supplier (or any such Affiliates), free of any deductions and withholdings
+[****], and with such payment to be made to the Suppliers (or any such Affiliates)
+bank account detailed on such invoice. If any deduction or withholding is required by Applicable
+Law to be made from any such payment, then the Client shall pay to the Supplier or its Affiliate
+(as applicable) such additional amount as is necessary to ensure that the net amount received
+and retained by the Supplier or its Affiliate (as applicable), is equal to the amount which
+they would have received and retained had such payment not been subject to such deduction
+or withholding.
+
+11.2 All
+sums payable pursuant to this Agreement are exclusive of Sales Taxes, and any Sales Taxes
+properly chargeable in respect of such sums shall be paid by the Client to the Supplier or
+its Affiliates in addition to such sum.
+
+11.3 Each
+Party shall be responsible for the payment of all applicable Taxes in relation to its and
+its Affiliates business, as well as any regulatory administrative fees (without prejudice
+to the deduction of Gaming Tax from NGR).
+
+11.4 The
+Client must notify the Supplier or its Affiliates (as applicable) in writing within [****]
+days of receipt of an invoice if the Client considers such invoice incorrect or invalid
+for any reason.
+
+11.5 Should
+either Party fail or refuse to make any payment due to the other Party by the due date, the
+amount due shall bear interest at four per cent (4%) per annum over the base rate of Barclays
+Bank PLC calculated from the date when such amount is due to the date of payment.
+
+11.6 [****]
+
+12. DATA
+PROTECTION
+
+12.1 The
+Parties acknowledge and agree that:
+
+12.1.1 the
+Client and the Supplier will each act as separate Controllers in respect of the Agreement
+Personal Data;
+
+12.1.2 they
+will Process the Agreement Personal Data in accordance with their respective obligations
+under Data Protection Laws, implementing appropriate technical and organisational measures
+to ensure an appropriate level of security to protect the Agreement Personal Data;
+
+12.1.3 they
+will notify the other Party (within three (3) days of receipt) if it receives a complaint
+or request from a Data Subject or any third party and will promptly cooperate with, and/or
+assist the other Party with such complaint/request. The Parties acknowledge that while the
+Supplier Processes Agreement Personal Data, the Agreement Personal Data is pseudonymised.
+As such, if a Data Subject rights request is received by the Supplier, the Supplier may require
+further information from the Client in order to respond and the Client shall promptly provide
+such information on request;
+
+12.1.4 they
+will promptly cooperate with, and/or assist the other Party in relation to any reasonable
+request for cooperation and/or assistance and/or the provision of information relating to
+its Processing of the Agreement Personal Data, including in relation to responses to requests
+from Data Subjects to exercise their rights under the Data Protection Laws or as may be reasonably
+necessary in the event of a Data Security Incident;
+
+17
+
+12.1.5 they
+will not do anything (whether by act or omission) which would cause the other to breach any
+of its obligations as a Data Controller under any relevant Data Protection Laws; and
+
+12.1.6 [****].
+
+12.2 The
+Client shall always provide the Suppliers player privacy notice (as made available
+on the Suppliers website from time to time and available as at the Execution Date
+at https://www.kambi.com/news-insights/fair_player_processi/kambi-player-fair-processing-notice/)
+to its Customers. If the Supplier changes such player privacy notice, it shall notify the
+Client.
+
+12.3 Each
+Party shall take reasonable steps to ensure the reliability of any of its employees, agents,
+contractors, directors, or officers (together, Personnel) who may have
+access to Agreement Personal Data, ensuring in each case that access is limited to those
+Personnel who need access for the purposes of providing the Service. Each Party shall ensure
+that all of its Personnel:
+
+12.3.1 are
+informed of the confidential nature of the Agreement Personal Data and of that Partys
+obligations under this Agreement in relation to such Agreement Personal Data;
+
+12.3.2 are
+subject to confidentiality obligations;
+
+12.3.3 have
+undertaken appropriate training in relation to Data Protection Laws; and
+
+12.3.4 are
+subject to appropriate technical and organisational security measures when accessing Agreement
+Personal Data.
+
+12.4 Each
+Party shall be responsible for compliance with the Data Protection Laws by each of its Personnel,
+including for any Data Security Incident caused by any such persons.
+
+12.5 Following
+the Termination Date, each Party shall be entitled to retain a copy of the Agreement Personal
+Data that they are an independent controller of and each Party will be separately liable
+for that portion of the Agreement Personal Data that they Process as independent Data Controllers.
+
+12.6 The
+Supplier will set cookies (first party, session, persistent and also cookies controlled by
+Third Parties) that may be placed in Customers device(s) and collect information.
+It is Clients responsibility to provide clear and comprehensive information to Customers
+(in respect of the Suppliers use of cookies, in compliance with Data Protection Laws.
+Where the Supplier requires a cookie to be placed on the Clients website, the Supplier
+will provide to the Client information to be included within the Clients cookies information
+provided to Customers. If the Supplier changes the cookies or information about its cookies,
+the Supplier will promptly provide updated information to the Client to provide to Customers
+in accordance with this Clause 12.6.
+
+12.7 Where
+a Restricted Transfer is being made to a Third Country, such transfer shall be conducted
+on a Controller-to-Controller basis using the Standard Contractual Clauses which will be
+incorporated by reference into this Agreement and which shall apply to the Processing as
+follows:
+
+12.7.1 the
+Supplier shall be the data exporter and the Client shall be the data importer;
+
+12.7.2 the
+Supplier shall be deemed to have entered into the Standard Contractual Clauses in the Suppliers
+own name and on behalf of any Affiliates who also act as Controller in relation to such Agreement
+Personal Data;
+
+18
+
+12.7.3 the
+Client shall be deemed to have entered into the Standard Contractual Clauses in the Clients
+own name, where applicable, and has the authority to also be deemed to have entered into
+the Standard Contractual Clauses on behalf of any Affiliates outside of the EU who also act
+as Controller in relation to such Agreement Personal Data;
+
+12.7.4 the
+provisions of Schedule 7 will be deemed to be set out in the Appendices to the Standard Contractual
+Clauses;
+
+12.7.5 notwithstanding
+Clauses 26 and 27.11, the Standard Contractual Clauses shall be governed
+by the substantive law of [****] and any dispute between the Parties arising out of
+or in connection with the Standard Contractual Clauses shall be referred to and finally resolved
+by arbitration under the Expedited Rules of the Arbitration Institute of the Stockholm Chamber
+of Commerce (the SCC Rules), which SCC Rules are deemed to be incorporated
+by reference into this Clause. The seat or legal place of arbitration shall be [****]
+and the language to be used in the arbitration shall be English, and the arbitration
+shall be conducted in complete confidence; and
+
+12.7.6 where
+and to the extent only that the Standard Contractual Clauses apply, the Standard Contractual
+Clauses will prevail over any inconsistent or conflicting provisions within this Agreement
+as they relate to such transfers of Agreement Personal Data.
+
+JOINT
+CONTROLLERS
+
+12.8 The
+Parties acknowledge and agree that they shall be acting as Joint Controllers of the Agreement
+Personal Data where the Client and the Supplier specifically discuss and agree:
+
+12.8.1 To
+place a Customer(s) within a different betting risk profile;
+
+12.8.2 To
+revise (either up or down) a Customers betting limit;
+
+12.8.3 The
+specific guidelines and risk parameters for making decisions on the profitability of a given
+player in light of any specific insight which the Client may have about that Customer.
+
+12.8.4 the
+Clients use of the Suppliers bonus tool; and/or
+
+12.8.5 for
+such other purposes as may be agreed upon in writing between the Supplier and the Client
+from time to time..
+
+12.9 Where
+the Parties act as Joint Controllers, they agree that:
+
+12.9.1 they
+will comply with the obligations laid out in Clause 12.1 (except Clause 12.1.1)
+above; and
+
+12.9.2 in
+the event that a Data Subject rights request is received, it shall be the responsibility
+of the Client to respond to such a request given that the Supplier only processes pseudonymised
+Agreement Customer Data. Accordingly, the Client shall be responsible for responding to any
+such Data Subject rights request and the Supplier shall cooperate and provide assistance,
+as required, per the obligation set out above;
+
+12.9.3 in
+the event that a Data Security Incident arises, the Party that first becomes aware of the
+Data Security Incident shall notify the other Party without undue delay, and in any event
+within 48 hours of becoming aware of the Data Security Incident and the Parties shall cooperate
+and provide assistance in resolving and/or addressing the Data Security Incident, as set
+out above. In particular, the parties shall work together to assess the cause of the Data
+Security Incident and identify appropriate technical and organizational measures to prevent
+such an incident from happening again; and without impacting on each Partys own obligation
+under Data Protection Law, assessing the need to report the Data Security Incidents to any
+supervisory authority and/or data subjects.
+
+19
+
+13. INTELLECTUAL
+PROPERTY RIGHTS
+
+13.1 The
+Client acknowledges and agrees that its only right to use the Service is as set out in clause
+2 and that all lPRs in or relating to the Service are and will remain the exclusive property
+of the Supplier and/or its Affiliates or, in the case of IPRs of a Third Party, the relevant
+Third Party.
+
+13.2 The
+Client grants to the Supplier and its Affiliates a royalty free, non-exclusive, non-transferable,
+worldwide right to use, for the Term, the Clients name and trade mark for the Supplier
+and its Affiliates promotional purposes and as otherwise reasonably required in order
+to provide the Service.
+
+13.3 Nothing
+in the relationship between the Parties shall constitute or shall be deemed to constitute
+an assignment or transfer of any IPR from one Party to the other.
+
+13.4 Subject
+always to Clauses 2.3 and 13 if a Third Party Claim for infringement or alleged infringement
+of any IPR in or relating to the Service and/or the Data and Content Services and/or any
+part of each thereof (or the provision of any of the foregoing by the Supplier to the Client)
+is made (or in the reasonable opinion of the Supplier is likely to be made), the Supplier
+may, in its discretion and without prejudice to any of the Clients rights or remedies
+in Clause 16:
+
+13.4.1 procure
+the right for the Client to continue receiving the Service and/or the Data and Content Services
+(or the relevant part thereof);
+
+13.4.2 modify
+or replace the Service and/or the Data and Content Services (or the relevant part thereof);
+
+13.4.3 where
+the infringement only affects part of the Service and/or the Data and Content Services, suspend
+or discontinue the affected part of the Service and/or the Data and Content Services; or
+
+13.4.4 terminate
+this Agreement in whole or (where in the reasonable opinion of the Supplier it is feasible
+to do so) in relation to the specific Territory(ies) to which the infringement or alleged
+infringement relates, with immediate effect on written notice to the Client without any further
+liability of the Supplier to the Client and/or its Affiliates in relation to such termination.
+
+The
+Client shall promptly notify the Supplier in writing of any such claim, demand, action or any relevant allegation of which it becomes
+aware from time to time.
+
+13.5 The
+Supplier shall have no obligation under clause 16.2.1 below, to the extent that the relevant
+Third Party Claim is based upon or arises out of the Clients use of the Service otherwise
+than in accordance with the terms and conditions of this Agreement.
+
+13.6 In
+any of the circumstances described in this clause 13 the Client shall be solely responsible
+for managing communications with Customers and disclosure of information in relation to the
+infringement. The Client shall not identify the Supplier in any such communication or disclosure.
+
+13.7 If
+the Suppliers use of any assets to which IPRs attach which have been granted to it
+by the Client under this Agreement is held by a Competent Authority to constitute an infringement
+or, in the reasonable opinion of the Supplier is likely to be held to constitute an infringement,
+of a Third Partys IPRs, the Supplier may, remove such assets from the Service until
+such time as the Client is able to demonstrate to the Suppliers satisfaction that
+the use of the assets to which the IPRs pertain no longer constitutes an infringement. Where
+reasonably possible the Supplier will notify the Client of such removal.
+
+20
+
+13.8 The
+remedies in clauses 13.4, 13.7, and 16.2 shall be each Partys sole remedy in respect
+of a Third Party Claim for infringement of IPR.
+
+13.9 The
+Client acknowledges and accepts that the Supplier owns all rights (including all lPRs) in
+the odds created from the process of setting the odds, based on probability (known as odds
+compiling).
+
+13.10 In
+the event that the Supplier wishes to enforce its IPRs in the odds against any Third Party,
+the Client agrees to provide all reasonable assistance (at the Suppliers expense)
+with such enforcement.
+
+14. LIABILITY
+
+14.1 Nothing
+in this Agreement shall limit or exclude either Partys (and/or its Affiliates) liability
+for: (i) death or personal injury resulting from its negligence; (ii) its fraud or fraudulent
+misrepresentation; (iii) any liability to the extent that it cannot be excluded or limited
+by Applicable Law; (v) in respect of the Client only, its obligation to pay the Fees,
+any Taxes (including Sales Taxes), and any interest (pursuant to Clause 11.5).
+
+14.2 Subject
+to this clause 14, neither Party nor its Affiliates shall be liable to the other Party or
+its Affiliates for:
+
+14.2.1 any
+loss suffered by the Client to the extent caused by an Excusable Cause;
+
+14.2.2 any
+loss caused by a Force Majeure Event;
+
+14.2.3 any
+loss of profits, turnover, data, business opportunities, anticipated savings, loss of goodwill,
+loss of business or loss of reputation (in each case whether direct or indirect); or
+
+14.2.4 any
+indirect, special, incidental, punitive or consequential losses or damage.
+
+14.3 Unless
+otherwise expressly stated in this Agreement, subject to Clauses 14.1 and 
+14.4 and without prejudice to Clause 14.2, the total aggregate liability of
+each Party and its Affiliates which arises from Actions which occur in any one Contract Year,
+whether in contract (including any indemnity), tort (including negligence), equity or for
+breach of statutory duty or in any other way howsoever arising out of or in connection with
+this Agreement and/or all or any part of the Service shall not exceed the greater of: (i)
+[****]; and (ii) [****], subject always to each Partys and its Affiliates
+total aggregate liability arising out of or in connection with this Agreement and/or all
+or any part of the Service for the Term and thereafter being limited to [****].
+
+14.4 There
+shall be no limitation or exclusion of liability under Clauses 14.2 or 14.3
+in relation to: [****].
+
+14.5 The
+Supplier (and its Affiliates):
+
+14.5.1 shall
+not have any liability (in contract, tort (including negligence), in relation to Data and
+Content Services (including in respect of any IPRs in the Data and Content Services from
+time to time;
+
+14.5.2 does
+not give any warranties, undertakings, or representations in respect of any Data and Content
+Services (including in respect of any IPR in or relating to the Data and Content Services
+from time to time);
+
+14.5.3 shall
+not have any liability (in contract (including any claim under Clauses 10.1, 10.2, 10.3,
+10.4, 10.5, 10.6 and/or 15), tort (including negligence), equity or for breach of a statutory
+duty or in any other way) out of or in connection with any Bespoke Manual Bet (PR Bet).
+
+21
+
+14.6 To
+the extent a Data and Content Provider materially breaches its agreement with the Supplier
+in respect of that Data and Content Providers Data and Content Services and the Client
+suffers a loss as a result of such breach (and notifies the Supplier in writing within thirty
+(30) days of such occurrence), then the Supplier shall pass on to the Client any amount recovered
+(if any) by the Supplier in relation to such breach, provided that any such amount shall
+first be equitably pro-rated by the Supplier (using its reasonable discretion) amongst the
+Client, the Supplier (and its Affiliates) and the Suppliers (and its Affiliates)
+other customers impacted by such breach.
+
+14.7 Any
+breach of the Clients obligations under this Agreement that is caused in whole or
+in part by the act or omission of a Client Contractor or an Affiliate of the Client will
+be deemed to be the act or omission of the Client and the Supplier and its Affiliates shall
+not be in breach of any of its obligations under this Agreement where such breach is caused
+in whole or in part by an act or omission of a Client Contractor, an API User or an Affiliate
+of the Client.
+
+14.8 Without
+limiting either Partys liability under this Agreement, during the Term each Party
+shall maintain, at its expense, appropriate insurance in respect of this Agreement. [****].
+
+15. OPERATIONAL
+ISSUES
+
+15.1 Both
+Parties accept that Operational Issues do occur from time to time, however the Supplier shall
+use commercially reasonable measures to minimise Operational Issues. The Parties shall cooperate
+in good faith to ensure a prompt detection of Operational Issues and the Client shall promptly
+undertake all reasonable action in order to cooperate with and support the measures that
+the Supplier shall implement to limit and/or manage the associated risks.
+
+15.2 Operational
+Issues shall be resolved via standard practice system functionality such as voiding, resettlement.
+Unless required otherwise by Applicable Law in which the Parties shall comply with such requirement
+of Applicable Law or relevant Gaming Authority, if an Operational Issue cannot be resolved
+in by voiding, resettlement or other standard practice system functionality, the Parties
+shall jointly decide whether to either: [****].
+
+15.3 [****]
+
+15.4 [****]
+
+15.5 [****]
+
+15.6 [****]
+
+15.7 Subject
+to Clause 14.1, the Supplier shall not be liable for any compensation or payment which
+the Client unilaterally decides to pay to a Customer [****].
+
+15.8 To
+the extent that an Operational Issue is caused by any errors arising (whether directly, indirectly,
+partly or solely) from an act or omission of the Client, its Affiliates, a Client Contractor
+and/or a Data and Content Provider and/or any error in the Data and Content Services then
+the Supplier shall have no liability to the Client for that Operational Issue.
+
+15.9 The
+remedies set out in Clause 15.2 and Clauses 15.3 and 15.4 are, subject
+to Clause 14.1, the Clients sole and exclusive remedy with regard to the Suppliers
+liability in respect of Clause 15.1 and for any Operational Issues.
+
+15.10 Any
+Losses and other claims, amounts, costs and liability of the Supplier arising out of or in
+connection with this Clause 15 will be subject to and count towards the limitations
+of liability in Clause 14.3.
+
+22
+
+16. INDEMNITIES
+
+16.1 The
+Client shall indemnify, defend and hold harmless each Supplier Indemnified Party from and
+against all Losses arising out of or in connection with:
+
+16.1.1 any
+breach by the Client and/or its Affiliates of Clauses 2.2, 2.3 and/or 8;
+
+16.1.2 any
+breach of Clause 10.15 (Restricted Territories).
+
+16.2 Subject
+to Clauses 14.2, 14.3, 14.5 and 14.7 and the Indemnified Partys
+compliance with Clause 16.4:
+
+16.2.1 the
+Supplier shall indemnify, defend and hold harmless each Client Indemnified Party from and
+against any and all Losses that arise out of or in connection with any Third Party Claim
+brought against or suffered by the Client, solely to the extent that such Third Party Claim
+arises out of or in connection with the Suppliers provision of the Service infringing
+the IPR of any Third Party (but at all times excluding where the Client is responsible for
+Bet Offers and content under this Agreement, including pursuant to Clause 2.3); and
+
+16.2.2 the
+Client shall indemnify, defend and hold harmless each Supplier Indemnified Party from and
+against any and all Losses that arise out of or in connection with any Third Party Claim
+brought against or suffered by the Supplier, solely to the extent that such Third Party Claim
+arises out of or in connection with the Suppliers use of any Client Assets infringing
+the IPR of any Third Party.
+
+16.3 The
+Client shall indemnify, defend and hold harmless each Supplier Indemnified Party against
+any and all Losses arising out of or in connection with any claims, allegations or proceedings
+made or initiated by a Market Access Partner or its Affiliates or associated entities against
+the Supplier.
+
+16.4 If
+a Party, (the Indemnified Party) becomes aware of a Third Party Claim
+(or any matter that might give rise to a Third Party Claim) to which Clause 16.2 applies:
+
+16.4.1 it
+will immediately give written notice to the Party which has given the relevant indemnity
+(in such capacity, the Indemnifying Party) stating in reasonable detail
+the nature of such Third Party Claim or matter and, if practicable, the amount claimed and
+shall consult with the Indemnifying Party in respect of such Third Party Claim or matter;
+
+16.4.2 the
+Indemnified Party will not settle or compromise or make any admission of liability, agreement
+or compromise in relation to such Third Party Claim or matter without the prior written consent
+of the Indemnifying Party;
+
+16.4.3 the
+Indemnified Party will at all times promptly disclose in writing to the Indemnifying Party
+all information and documents relating to such Third Party Claim or matter;
+
+16.4.4 the
+Indemnified Party will take all such actions as the Indemnifying Party may request to dispute,
+resist, defend, appeal, settle, compromise, remedy or mitigate such Third Party Claim or
+matter, including using professional advisers nominated by the Indemnifying Party (with all
+reasonable professional costs properly incurred by the Indemnified Party as a result of such
+a request to be borne by the Indemnifying Party);
+
+16.4.5 if
+so requested by the Indemnifying Party, the Indemnified Party will allow the Indemnifying
+Party exclusive conduct of all proceedings in relation to the Third Party Claim in the name
+of and on behalf of the Indemnified Party, at the cost of the Indemnifying Party; and
+
+23
+
+16.4.6 if
+the Indemnifying Party takes conduct of a Third Party Claim then the Indemnifying Party will
+give reasonable information on a reasonably regular basis to the Indemnified Party as to
+the progress of that Third Party Claim.
+
+16.5 The
+Indemnifying Party shall not settle any Third Party Claim that requires the Indemnified Party
+to pay un-indemnified amounts or limits its rights without the Indemnified Partys
+prior written consent, which shall not be unreasonably withheld, conditioned or delayed.
+
+16.6 [****]
+
+17. TERM
+AND TERMINATION
+
+17.1 This
+Agreement shall commence on the Effective Date and shall continue for the duration of the
+Initial Period. For the avoidance of doubt, after the expiration of the Initial Period, this
+Agreement shall continue in a rolling basis until it is terminated pursuant to its terms.
+
+17.2 Either
+Party may terminate this Agreement upon the provision of at least one hundred and eighty
+(180) days prior written notice to the other Party, provided that such termination
+shall not be effective before the expiry of the Initial Period. [****].
+
+17.3 Without
+prejudice to any other right or remedy available to it, this Agreement may be terminated
+immediately by either Party (the Non-Defaulting Party) by written notice
+to the other Party (the Defaulting Party) where:
+
+17.3.1 the
+Defaulting Party commits a material breach of this Agreement, which is either irremediable
+or, where capable of remedy, is not remedied within thirty (30) days starting on the date
+of receipt of a written notice from the Non-Defaulting Party specifying the breach and requiring
+it to be remedied. Breach by the Client of Clause 10.15 shall be considered a
+material breach that is not capable of remedy;
+
+17.3.2 the
+Defaulting Party fails to pay any invoice issued by the Non-Defaulting Party within ten (10)
+Business Days of its due date;
+
+17.3.3 the
+Defaulting Party stops carrying on all or a significant part of its business, or indicates
+in any way that it intends to do so;
+
+17.3.4 the
+Defaulting Party is subject to an Insolvency Event;
+
+17.3.5 the
+Defaulting Party is prevented from the performance of substantially all of its obligations
+for a continuous period in excess of [****] Business Days due to a Force Majeure Event;
+
+17.3.6 the
+Defaulting Party ceases to be able to carry on all or a material part of its business activities
+as a result of a withdrawal of any Gaming Approval that is required for the provision or
+use of the Service in the Territory under this Agreement;
+
+17.3.7 the
+Non-Defaulting Party is notified in writing by any Gaming Authority that there is a reasonable
+likelihood that the Non-Defaulting Party may lose a Gaming Approval due to an act or omission
+of the Defaulting Party, and the Defaulting Party fails to remedy such act or omission to
+the reasonable satisfaction of both the Non-Defaulting Party and the relevant Gaming Authority
+within twenty (20) Business Days from the date of being called upon in writing to do so (or
+such shorter period as the relevant Gaming Authority requires); or
+
+17.3.8 the
+Non-Defaulting Party has suspended this Agreement pursuant to Clause 21 and the matter giving
+rise to such suspension has not been resolved to the Non-Defaulting Partys reasonable
+satisfaction within twenty (20) Business Days of the start of such suspension.
+
+24
+
+17.4 [****]
+
+18. CONSEQUENCES
+OF TERMINATION
+
+18.1 Without
+prejudice to any obligations or rights which have accrued to either Party at the Termination
+Date, upon termination of this Agreement for any reason:
+
+18.1.1 all
+rights granted by one Party to the other Party under this Agreement shall cease and (except
+to the extent necessary in order to perform its obligations under Clause 18.1.3) each
+Party shall immediately cease using the IPR and other material owned by the other Party,
+its Affiliates and/or licensors;
+
+18.1.2 the
+Parties shall promptly (and in any case within five (5) Business Days of the Termination
+Date) pay to each other any sums then due under this Agreement;
+
+18.1.3 the
+Client shall cease all activities authorised under this Agreement immediately except for
+a period of up to six (6) months (or longer if required by applicable Gaming Authority) in
+relation to any open bets placed prior to the Termination Date, which further to good faith
+discussions between the Parties shall either be settled or voided during such period (and
+the Supplier shall continue to invoice the Client and the Client shall continue to pay the
+Fees in respect of the same in accordance with Clause 11);
+
+18.1.4 subject
+always to Clause 12.4, on request of the other Party, each Party shall (at its election)
+promptly destroy or return to the other Party any and all of such other Partys, its
+Affiliates and/or licensors materials (including all Confidential Information
+of such other Party) that are in the possession, custody or control of the first Party, its
+Affiliates, agents, subcontractors or Client Contractors (as appropriate), except where otherwise
+required by a Party to comply with their own regulatory compliance obligations. [****];
+and
+
+18.1.5 the
+Client shall (and shall procure that each API User shall) cease use of all APIs of the Supplier.
+
+18.2 Upon
+the partial termination of this Agreement in relation to a portion but not all of the Territory,
+the country, state, province, or other territory of the Territory that is subject to the
+termination shall immediately cease to be deemed part of the Territory under
+this Agreement.
+
+18.3 Save
+as set out in this Clause 18 the Parties shall have no further obligations or rights
+under this Agreement after the Termination Date, except that Clauses 1, 10.10,
+12, 13.1, 13.10, 14, 10.1, 10.2, 10.3, 10.4, 10.5, 10.6, 
+16, 19, 20, 22, 23, 25, 26 and 27, and those Clauses the survival
+of which is necessary for the interpretation or enforcement of this Agreement shall continue
+to have effect after the end of the Term.
+
+19. CONFIDENTIALITY
+
+19.1 Subject
+to Clause 19.2, each Party (the Receiving Party) undertakes
+that it will not, at any time during or after the Term, use, divulge or communicate to any
+person (except to its professional representatives or advisers and any Affiliates, employees,
+agents, subcontractors or Client Contractors who need to access such information for the
+performance of the Receiving Partys obligations under this Agreement and provided
+that such Party shall procure their compliance with this Clause 19), any trade secrets
+or Confidential Information of the other Party or its Affiliates (Disclosing Party)
+which may have or may in the future come to its knowledge.
+
+25
+
+19.2 The
+obligation of confidentiality contained in Clause 19.1 shall not apply to Confidential
+Information solely to the extent that such Confidential Information:
+
+19.2.1 at
+the time of its disclosure by the Disclosing Party is already in the public domain, or subsequently
+enters the public domain, other than by breach of this Agreement by the Receiving Party.
+The foregoing shall not apply to any work product of the Supplier or Performance Data;
+
+19.2.2 is
+at any time acquired by the Receiving Party from a Third Party having the right to disclose
+the same to the Receiving Party without breach of obligation owed by that Third Party to
+the Disclosing Party;
+
+19.2.3 is
+required to be disclosed by Applicable Law, stock exchange rules or order of a Gaming Authority
+or Competent Authority, provided that any such disclosure is strictly limited to that which
+is so required and prior to such disclosure the Receiving Party shall, wherever possible
+and permitted by Applicable Law, advise the Disclosing Party of the proposed form of the
+disclosure; or
+
+19.2.4 is
+independently developed by the Receiving Party without reference to the Confidential Information
+of the Disclosing Party.
+
+19.3 Without
+prejudice to any other rights or remedies that the Disclosing Party may have, the Receiving
+Party acknowledges and agrees that the Disclosing Party shall, without proof of special damage,
+be entitled to an injunction, specific performance or other equitable relief for any threatened
+or actual breach of the provisions of this Clause 19, in addition to any damages or other
+remedy to which it may be entitled.
+
+20. AUDIT
+AND COOPERATION
+
+20.1 Each
+Party shall (and shall procure that its Affiliates shall), during the Term (and for at least
+three (3) years thereafter), maintain information, documents and records relating to the
+performance of and compliance with this Agreement, including all books of account kept in
+accordance with applicable accounting principles in force at the relevant time showing in
+detail the GGR, NGR, Stakes and Payouts (the Records).
+
+20.2 Each
+Party shall ensure that any recognised firm of auditors appointed by the Supplier have, upon
+reasonable but at least forty-eight (48) hours prior notice prior notice, and not more than
+once in any twelve (12) month period, (provided that the Supplier may carry out additional
+Audits in any twelve (12) month period where: (i) required by any Gaming Authority or in
+order to comply with Applicable Law; or (ii) where the Supplier has reasonable grounds to
+suspect that the Client has committed a material breach of this Agreement, or has committed
+fraud, or a fraudulent misrepresentation) reasonable access to the Clients principal
+place of business to inspect and/or audit the Records (with the right to take reasonable
+copies) for the purpose of verifying compliance with this Agreement (an Audit)
+during the Term and for three (3) years thereafter, provided that the Auditing Party shall
+ensure that all information, systems, documents and other materials accessed, inspected,
+audited or used in relation to any Audit (including any copies of the same) shall be treated
+as Confidential Information of the Audited Party.
+
+20.3 If
+any Audit reveals a material breach of this Agreement by the Client, the Client (including,
+an underpayment of Fees of 5% or more by the Client), shall reimburse the Supplier for the
+costs of such Audit, provided that the Supplier submits to the Client reasonable evidence
+of such material breach. In respect of any underpayments (whether greater than 5% or not)
+by the Client revealed in any Audit, the Client shall make an appropriate correcting payment
+(as well as interest pursuant to Clause 11.5)
+to the Supplier within thirty (30) days of receipt of an invoice in respect of the same.
+
+20.4 If
+the Client or any of its Affiliates creates a sports betting solution to replace the Service
+(or any part thereof) for use after the Termination Date, the Supplier will have the right,
+during the Term and for three (3) years after the Termination Date, to require that a Third
+Party specialist performs a technical audit of such sports betting solution, in order to
+verify that such sports betting solution does not infringe the IPR of the Supplier and/or
+any Supplier Affiliate. The Client shall provide all reasonable support, information, cooperation,
+and access to such sports betting solution to facilitate such an audit.
+
+26
+
+20.5 Each
+Party shall, upon written request, provide to the other Party all relevant information and
+documentation which is required by any Gaming Authority and shall cooperate in good faith
+with that Party for successful completion of any inquiry or due diligence as may be conducted
+from time to time.
+
+20.6 Subject
+to clause 20.3, an Auditing Party shall be responsible for all costs howsoever arising in
+relation to both Parties in connection with such relevant Audit.
+
+20.7 Any
+Records or materials reviewed during an audit shall be deemed Confidential Information.
+
+21. SUSPENSION
+
+21.1 Without
+prejudice to its other rights under this Agreement, the Supplier may suspend the provision
+of the Service (in whole or in part, including in respect of any part of the Territory) and
+any associated obligations and responsibilities under this Agreement if:
+
+21.1.1 the
+Supplier receives an opinion from independent counsel which provides that in the opinion
+of such counsel, the Client (and/or any of its Affiliates) is in breach of Clauses 10.7.1,
+10.7.2 and/or 10.9 and/or the supply (and/or the Clients and/or any of its Affiliates
+use) of the Service (or any part thereof) may be considered illegal or entail any type of
+civil or criminal liability to the Supplier and/or any of its Affiliates (and/or may expose
+any of them to regulatory enforcement, including suspension or revocation of any Gaming Approval),
+provided that such counsel is licensed to practise law in the part(s) of the Territory which
+is impacted or is licensed in the jurisdiction of such Gaming Approval. If the Client disputes
+the grounds for such suspension, either Party may submit the issue to binding arbitration
+pursuant to Clause 26.1 and the suspension shall continue until the issue is resolved
+by the arbitrator;
+
+21.1.2 either
+Party receives: (i) an order or notice by a Gaming Authority to cease the supply and/or use
+of the Service (or any part thereof); and/or (ii) an indication from a Gaming Authority that
+the Client and/or the Supplier (and/or any of their respective Affiliates and/or any Market
+Access Partner) may be in breach of Applicable Law in respect of the supply and/or use of
+the Service (or any part thereof) and/or may be subject to regulatory enforcement (including
+suspension or revocation of a Gaming Approval) in respect of such supply and/or use. The
+suspension mentioned in this Clause shall continue until such Gaming Authority has revoked
+such order or notice or retracted such indication;
+
+21.1.3 the
+Client (and/or any of its Affiliates) is unable to make use of the Service in all or any
+part of the Territory under this Agreement as a result of a withdrawal of any Gaming Approval;
+or
+
+21.1.4 the
+Client has not paid any invoice [****] by its due date and such payment remains outstanding
+following 14 days written notice from the Supplier to remedy such non-payment.
+
+21.2 Both
+Parties agree to cooperate in good faith with each other as necessary to implement any suspension
+pursuant to Clause 21.1.
+
+22. ASSIGNMENT
+
+22.1 This
+Agreement will be binding upon the Parties hereto and will inure to the benefit of each Partys
+successors and permitted assigns.
+
+22.2 Unless
+agreed otherwise in writing and subject to Clause 22.4, neither Party shall assign any of
+its rights or obligations under this Agreement, without the prior written consent of the
+other Party (such consent not to be unreasonably withheld, conditioned, or delayed).
+
+27
+
+22.3 Any
+purported assignment or other transfer of rights and obligations that is prohibited under
+this Agreement shall be deemed null and void.
+
+22.4 Either
+Party may assign its rights and/or obligations to an Affiliate subject to such Affiliate
+successfully satisfying any reasonable due diligence process and requirements of the other
+Party and complying with this Agreement. Without prejudice to the foregoing, the assigning
+Party shall remain primarily liable for any act or omission of any such Affiliate.
+
+23. NON-SOLICITATION
+
+23.1 The
+Parties acknowledge and agree that the provision of the Service to the Client by the Supplier
+is reliant on the Suppliers and/or its Affiliates employees and individual
+contractors, and the Supplier has legitimate interests in protecting its employees and individual
+contractors from being solicited for employment or direct service provision by the Client
+and/or its Affiliates.
+
+23.2 Therefore,
+the Parties agree that, for the duration of the period: (i) from the Effective Date to the
+Termination Date; and (ii) for one (1) year following the Termination Date, neither Party
+shall, and shall ensure that its Affiliates and its subcontractors do not, without the prior
+written consent of the other Party, in [****]:
+
+23.2.1 solicit
+or offer employment to, or
+
+23.2.2 accept
+services from,
+
+an
+employee or individual contractor of the other Party and/or any of its Affiliates who has:
+
+(a) in
+the case of an employee or individual contractor of the Supplier and/or any of its Affiliates,
+either:
+
+(i) performed
+duties that are directly related to the provision of the Service to the Client; or
+
+(ii) is
+or has been a member of the Suppliers software development team,
+
+in
+both cases in the two (2) years prior to the Client seeking to either solicit or offer employment to or accept services from such employee
+or individual contractor; or
+
+(b) in
+the case of an employee or individual contractor of the Client and/or any of its Affiliates,
+been involved in the award and subsequent performance of this Agreement or is a member of
+the Clients software development team.
+
+Notwithstanding
+the foregoing, neither Party shall be prohibited from employing or accepting services from employees or individual contractors of the
+other Party and/or any of its Affiliates who respond to a general advertisement to the public.
+
+24. FORCE
+MAJEURE
+
+24.1 A
+Party shall not be deemed to be in breach of this Agreement, otherwise be liable to the other
+Party or its Affiliates, by reason of any delay in performance, or non-performance, of any
+of its obligations hereunder (save for obligations relating to payment of any sums due) to
+the extent that such delay or non-performance is due to a Force Majeure Event and the time
+for performance of that obligation shall be extended by the duration of the Force Majeure
+Event and a reasonable period thereafter.
+
+24.2 [****]
+
+28
+
+25. NOTICE
+
+25.1 Any
+notice, consent, request, demand, approval, waiver, or other communication to be given or
+made under or in connection with this Agreement (each a Notice) must
+be in the English language, legible and in writing and be signed by, or on behalf of, the
+Party giving it.
+
+25.2 A
+Notice must be served by one of the following methods (and all references to time are to
+the local time at the place of deemed receipt):
+
+25.2.1 by
+hand to the relevant address set out in Clause 25.4 and shall be deemed to have been
+served upon delivery if delivered before 17:00 on a Business Day at the delivery location,
+or at the start of the next Business Day if delivered at any other time; or
+
+25.2.2 by
+sending a PDF version of the Notice to the email address set out in Clause 25.4 and
+shall be deemed served at noon on the Business Day after the email was sent, provided that
+in proving service, it shall be sufficient to produce a computer printout indicating that
+the message was sent to the recipients email address. Where the Notice is given for
+breach, termination or a claim under indemnity, a copy of the Notice must also be delivered
+by hand.
+
+25.3 This
+Clause does not apply to a notice given in legal proceedings, arbitration, or other dispute
+resolution proceedings.
+
+25.4 Each
+Partys addresses for service are as follows (or such other address(es) as a Party
+may notify to the other Party in writing from time to time by not less than five (5) Business
+Days notice):
+
+Client Supplier
+
+Name:
+[****] Name:
+[****]
+
+Address:
+1645 Pine Tree Lane, Suite 2, Sarasota, Florida, 34236, USA Address:
+Third Floor, One Queen Caroline Street, London, W6 9HQ
+
+Email:
+[****] Email:
+[****]
+
+26. DISPUTE
+RESOLUTION
+
+26.1 The
+Parties shall attempt in good faith to negotiate a settlement to any dispute between them
+arising out of or in connection with this Agreement (the Dispute) within
+fifteen (15) Business Days of either Party notifying the other of the Dispute in writing
+and such efforts shall involve the escalation of the Dispute to a senior manager or director
+(or equivalent) of each Party. If the Dispute cannot be resolved by the Parties pursuant
+to this Clause the Parties may refer such Dispute to arbitration pursuant to Clause 
+26.2 below. The obligations of the Parties under this Agreement shall not cease, be suspended,
+or delayed by the reference of a Dispute to arbitration and each Party, its subcontractors
+and their officers, employees and agents shall comply fully with this Agreement at all times.
+
+26.2 Following
+escalation in accordance with Clause 26.1, any unresolved Dispute shall be referred
+to and finally resolved by arbitration under the American Arbitration Association Rules (the
+Rules), which Rules are deemed to be incorporated by reference into
+this Clause. The number of arbitrators will be one. The seat or legal place of arbitration
+shall be Delaware, USA and the language to be used in the arbitration shall be English, and
+the arbitration shall be conducted in complete confidence, subject to the exceptions described
+in Clause 19.2 and subject to the ability to disclose to advisors.
+
+26.3 Any
+disputes regarding the arbitration process as described in Clause 26 will be subject to the
+law of the State of Delaware.
+
+29
+
+26.4 The
+Parties agree for the purpose of the enforcement of any arbitral award issued hereunder to
+submit to the jurisdiction of any court in any jurisdiction in which such Party has assets,
+and for such purpose waive any defence of absence of jurisdiction in any such court for such
+purpose.
+
+26.5 Nothing
+in this Clause 26 shall prevent either Party from seeking from any Competent Authority an
+interim order restraining the other Party from doing any act or compelling the other Party
+to do any act.
+
+27. GENERAL
+
+27.1 This
+Agreement may be executed in any number of counterparts, each of which will constitute an
+original, but which will together constitute one agreement. Any counterpart may be executed
+and delivered by pdf or other electronic format, and any such counterpart shall be deemed
+enforceable to the same extent as an original.
+
+27.2 No
+announcement, communication or other public disclosure concerning this Agreement or any of
+the matters contained in it shall be made by, or on behalf of, a Party without the prior
+written approval of the other Party (such approval not to be unreasonably withheld, conditioned
+or delayed), except as permitted in accordance with this Clause 27.2 and/or Clause
+19.2.3 and/or as envisaged by Clause 13.2. For the avoidance of doubt, to the extent permitted
+by Applicable Law, the Client shall not disclose the terms of this Agreement in public filings
+without the prior written approval (such approval not to be unreasonably withheld, conditioned
+or delayed) of the Supplier concerning the redaction of content which the Supplier considers
+commercially sensitive or prejudicial to its business interests. Where such announcement,
+communication or disclosure is subject to approval, after it has been so approved either
+Party may publish the same on any and all channels as such Party considers reasonably appropriate.
+Other than where Applicable Law requires otherwise, the Client shall be solely responsible
+for managing communications with Customers and the Client shall not identify the Supplier
+in any such communication or disclosure (other than where that has been agreed in writing
+in advance by the Supplier).
+
+27.3 Nothing
+in this Agreement and no action taken by the Parties in connection with it will create a
+partnership or joint venture between the Parties or give either Party authority to act as
+the agent of or in the name of or on behalf of the other Party or to bind the other Party
+or to hold itself out as being entitled to do so.
+
+27.4 A
+delay in exercising or failure to exercise a right or remedy under or in connection with
+this Agreement will not constitute a waiver of, or prevent or restrict future exercise of,
+that or any other right or remedy, nor will the single or partial exercise of a right or
+remedy prevent or restrict the further exercise of that or any other right or remedy.
+
+27.5 A
+waiver of any right, remedy, breach, or default will only be valid if it is in writing, and
+only in the circumstances and for the purpose for which the waiver was given and will not
+constitute a waiver of any other right, remedy, breach, or default.
+
+27.6 As
+of the execution Date, this Agreement amends, replaces, and supersedes the Original Framework
+Agreement in its entirety. This Agreement constitutes the entire agreement between the Parties
+and supersedes and replaces any prior agreement or arrangement in respect of its subject
+matter. For the avoidance of doubt, nothing in this Agreement shall affect any claims, rights,
+actions, or demands that either Party may have against the other for monetary damages, under
+or in connection with the Original Framework Agreement, arising before the Execution Date.
+For the avoidance of doubt, subject to Clause 14.1, the reservation of rights in the immediately
+preceding sentence does not include the right to terminate this Agreement, nor to suspend
+the Services, due to any acts or omissions prior to the Execution Date.
+
+30
+
+27.7 No
+representation, undertaking or promise shall be taken to have been given or be implied from
+anything said or written in negotiations, or from any assurance, misrepresentation, representation
+or statement (whether made by the Supplier or any other person and whether made to Client
+or any other person) which is not expressly set out in this Agreement. Neither Party shall
+have any remedy in respect of any untrue statement made by the other upon which that Party
+relied in entering into this Agreement. Without prejudice to the foregoing, the only remedy
+available to a Party in respect of a breach of any representation which is incorporated into
+this Agreement shall be for breach of contract. Nothing in this Clause 27.7 will be
+interpreted or construed as limiting or excluding the liability of any person for fraud or
+fraudulent misrepresentation.
+
+27.8 The
+only remedy available to either Party for breach of this Agreement shall be for breach of
+contract.
+
+27.9 If
+any term, or part of a term, of this Agreement is found by any court or body or authority
+of competent jurisdiction to be illegal, unlawful, void or unenforceable, such term will
+be deemed to be severed from this Agreement and this will not affect the remainder of this
+Agreement which will continue in full force and effect. In this event, the Client and the
+Supplier will agree, in accordance with Clause 27.12, a valid and enforceable term
+to replace the severed term which, to the maximum extent possible, achieves the Parties
+original commercial intention and has the same economic effect as the severed term.
+
+27.10 Other
+than the Suppliers Affiliates and the Clients Affiliates that have been subcontracted
+rights in accordance with Clause 2.4, a person who is not a Party to this Agreement has no
+right to enforce such Agreement. The Parties may vary or rescind this Agreement without the
+consent of their respective Affiliates.
+
+27.11 Subject
+to Clause 12.7.5, this Agreement and any non-contractual obligations arising out of or in
+connection with it will be governed by the law of the State of Delaware.
+
+27.12 No
+variation of this Agreement will be valid or effective unless made in writing, referring
+to this Agreement and duly signed by, or on behalf of, each Party. No variation of this Agreement
+will be deemed to be a waiver of any right, remedy, breach, or default of this Agreement.
+
+31
+
+Schedule
+1
+
+Commercial
+Terms
+
+The
+Fee shall be calculated as follows:
+
+1. BUSINESS
+FEE AND MINIMUM GUARANTEE
+
+In
+this Agreement, unless the context otherwise requires:
+
+Minimum
+Guarantee means: [****]
+
+except
+that, where (i) the first Live Launch occurs part-way through a calendar month, or (ii) the Agreement terminates part-way through a calendar
+month, the Minimum Guarantee shall be pro-rated accordingly for such calendar month.
+
+1.1 The
+Business Fee shall be calculated as a percentage of NGR in the relevant calendar month and
+such percentage shall vary depending on the cumulative amount of GGR generated during the
+twelve (12) month period commencing either with the first Live Launch or with each anniversary
+of the first Live Launch, as applicable (Yearly GGR), as set out below:
+[****]
+
+1.2 The
+Business Fee does not include any fees, charges, costs, or expenses for Data and Content
+Services and any such fees, costs, charges or expenses shall be borne by the Client pursuant
+to paragraphs 2 and 2.3 below.
+
+1.3 [****]
+
+1.4 At
+the end of each calendar month, commencing with the calendar month in which the first Live
+Launch occurs, the Supplier shall calculate the Business Fee ([****]) for that calendar
+month and the Supplier shall invoice the Client for and the Client shall pay the Supplier
+such Business Fee in accordance with Clause 11. At the end of each calendar quarter, the
+Suppliers invoice shall also include the balance of the Minimum Guarantee applicable
+to that calendar quarter to the extent that the Business Fees in respect of such period do
+not exceed the Minimum Guarantee for such period.
+
+1.5 [****]
+
+1.6 The
+Client shall pay the Supplier the sum [****] (the Up-Front Payment)
+payable as follows: (i) [****], which amount was previously paid to Supplier upon
+the execution of the Original Framework Agreement, and (ii) [****] to be payable 90
+days after the Execution Date or Live Launch, whichever is earlier.
+
+1.7 [****]
+
+2. CONTENT
+SERVICES (OPTIONAL)
+
+2.1 The
+Client shall reimburse the Supplier for the actual costs incurred by the Supplier for the
+provision of the following optional Data and Content Services, where the Client elects to
+take such services (confirmation in writing, including email, to the Supplier shall suffice):
+
+live
+scores, statistics, visualisation, and other optional add-ons from Sportradar (or such other
+Third Party as notified by the Supplier to the Client from time to time); and
+
+any
+other optional Data and Content Services notified by the Supplier to the Client from time
+to time.
+
+2.2 The
+Client acknowledges that the costs for the optional Data and Content Services referenced
+in paragraph 2.1 above are subject to change, which is not under the Suppliers control.
+In the event of any such change, the Supplier shall notify the Client as soon as reasonably
+practicable.
+
+32
+
+2.3 To
+the extent that the Supplier makes available a proprietary soccer visualisation service,
+and if such a service is requested by the Client in writing, the Supplier will provide such
+service in return for a fee of [****], which shall be included in the invoices submitted
+under Clause 11. If the Supplier develops a visualisation service in relation to additional
+sports, the fee for such visualisation service shall be subject to agreement between the
+Parties.
+
+3. DATA
+PACKAGE
+
+3.1 The
+Client shall purchase a package of data and/or content relating to Pre-Match Events and In-Play
+Events from the Supplier (the Data Package). The fees for the Data Package
+are set out in paragraph 5 of this Schedule 1 (Data Package Fee), and those sums shall
+be included in the invoices submitted under Clause 11. The Supplier will neither make any
+profit from, nor apply any mark-up to, the costs of data that are charged to the Client in
+accordance with this Schedule 1.
+
+3.2 The
+Supplier reserves the right to select the Data and Content Providers that are used, at its
+sole discretion.
+
+3.3 The
+Client acknowledges that:
+
+the
+events for which data is provided, as described in the table in paragraph 5 of
+this Schedule 1, may be subject to change at the Suppliers sole discretion;
+
+the
+Suppliers Data and Content Service costs may increase over time and the Supplier reserves
+the right to vary the fees (and/or basis upon which the fees are calculated) of any Data
+and Content Services affected by such cost increases, or exclude any part of the Service
+at its sole discretion. The Supplier will inform the Client with reasonable advance notice
+of any such decision.
+
+3.4 Subject
+to Clause 14.1, the Supplier will have no liability to provide any part of the Service
+or for any delay in the provision of any part of the Service which is dependent on Data and
+Content Services (and may, at its sole discretion, immediately suspend or terminate the provision
+of the same):
+
+where
+the Client does not (i) elect in accordance with paragraph 2.1 to take relevant optional
+Data and Content Services; (ii) comply with Clause 6.8; (iii) provide the Supplier with reasonable
+evidence that the Client has complied with the requirements referred to in Clause 6.8; and/or
+(iv) does not promptly pay the required fees, or states an intention not to pay the required
+fees, for any relevant Data and Content Services; and/or
+
+where
+it is caused by any failure or delay by the Data and Content Providers to provide any data
+or content.
+
+4. MULTI-BRANDS
+
+Certain
+Data and Content Providers charge for Data and Content Services on a per brand and/or per territory basis. If the Supplier provides the
+Service to the Client in respect of multiple brands and/or territories and such provision causes the Supplier to incur additional costs
+or deductions from such Data and Content Providers, such costs or deductions shall be recharged to the Client and included in the invoices
+submitted under Clause 11. The Client has the right to reject any such prices
+provided that rejecting any such prices may mean that the Service (or, at the Suppliers discretion, part thereof) will not be
+provided, other than in respect of a single brand and/or territory of the Client.
+
+5. DATA
+PACKAGE FEE
+
+5.1 For
+the purposes of this paragraph 5, the following definitions shall apply:
+
+Live
+NGR means, in respect of each calendar month, [****]; and
+
+Pre-Match
+NGR means in respect of each calendar month, [****];
+
+5.2 The
+fees for the Data and Content Package are set out in the following table:
+
+[****]
+
+6. [****]
+
+33
+
+schedule
+2
+
+Service
+Terms
+
+1. SPORTSBOOK
+SERVICE
+
+1.1 The
+Service comprises:
+
+the
+provision and hosting of the Suppliers frontend application in HTML5 for desktop and
+touch devices, adapted for different screen sizes (e.g. mobile, tablet, desktop), and styling
+and skinning of such application (Front End), in each case to the extent
+agreed in writing (including via email) between the Parties;
+
+the
+provision of the Suppliers standard sportsbook offering from time to time, which as
+at the date of this Agreement includes:
+
+Pre-Match
+and In-Play Event betting and markets (as described in paragraph 2 of this Schedule
+2);
+
+functionality
+for bet placement;
+
+functionality
+for providing results and enabling bet settlement, noting that the Supplier will settle Bet
+Offers in a timely manner after the outcome of an event becomes known to the Supplier;
+
+[****]
+pricing, Event Risk Management (pursuant to paragraph 3.1of this Schedule 2), result
+settlement and Customer Risk Management;
+
+second
+line support [****];
+
+[****]
+client account management; and Client account support; and
+
+the
+additional service(s) (if any) set out in Schedule 3.
+
+1.2 The
+Service shall not include the provision of retail terminals or parts thereof unless otherwise
+agreed by the Parties in writing.
+
+1.3 The
+Supplier may, without liability to the Client or its Affiliates and upon six (6) months
+prior written notice (including email) to the Client, replace the Front End for specific
+device types (e.g. mobile or tablet) or provide such a replacement via an Affiliate of the
+Supplier, at no extra fee to the Client.
+
+2. BETTING
+OFFERING CONTENT
+
+2.1 Pre-Match
+Betting
+
+The
+standard Pre-Match Event betting offering as at the date of this Agreement is specified in Appendix A. Notwithstanding the foregoing,
+the Supplier may optimise such offering in light of changes to the sporting events calendar from time to time and/or in light of other
+operational considerations. The standard pre-match betting offering may be varied by the Supplier from time to time.
+
+2.2 In-Play
+Event Betting
+
+The
+standard In-Play Event betting offering as at the date of this Agreement is specified in Appendix B1 and B2. Notwithstanding
+the foregoing, the Supplier may optimise such offering in light of changes to the sporting events calendar from time to time and/or in
+light of other operational considerations. The standard In-Play Event betting offering may be varied by the Supplier from time to time.
+
+2.3 Bespoke
+Manual Bets (PR Bet)
+
+The
+total maximum number of Bespoke Manual Bets (PR Bet) which the Client may request per week, across the Agreement, is [****].
+
+34
+
+2.4 Notwithstanding
+any other provision herein, Supplier may, at its sole discretion, refrain from offering,
+or alter the number of Bet Offers, for a particular event, if the Supplier reasonably demonstrates
+that: (i) an event is considered suspicious (ii) information about an event is uncertain;
+(iii) the result of an event has no bearing on the outcome of a particular tournament/league
+(a so-called dead rubber event); or (iv) the estimated odds are below 1.01.
+
+2.5 Without
+prejudice to Clause 2.3 of this Agreement, the Client may exclude certain Bet Offers
+or event groups from the Client Gaming Platform. The Client will have access to relevant
+settings to give effect to any such exclusion.
+
+3. RISK
+MANAGEMENT
+
+3.1 Event
+Risk Management
+
+Decisions
+with regard to risk exposure per event group, per event and per Bet Offer may be taken by the Supplier in its sole discretion. Any instance
+where the total risk per Bet Offer, treating all bets as if they were singles (where multiple bets each leg of the multiple is treated
+as a single) has exceeded [****] (the Risk Amount) shall be notified to the Client for information purposes.
+The Parties may amend the Risk Amount by agreement in writing.
+
+3.2 Customer
+Risk Management
+
+The
+categories of Customer Risk Management Data may need to be modified on agreement between the Parties from time to time for the purpose
+of improving Customer Risk Management. Customer Risk Management Data will be used by the Supplier to conduct Customer Risk Management
+and to create and enhance Customer risk profiles and from time to time the Supplier may match elements of the Customer Risk Management
+Data across the Suppliers platform in order to do so.
+
+Other
+than the limited Agreement Personal Data provided to the Supplier for the purpose of providing the Service, the Client shall ensure that
+the Supplier will have no access to any other data that the Client holds on its Customers, and the Client will be the sole party communicating
+with Customers. In order for the Client to communicate professionally with Customers, the Supplier shall, as soon as reasonably practicable
+after receipt of the Clients written request, provide to the Client all relevant information in the Suppliers possession
+or control in connection with the Service concerning Customers who are affected by Suppliers Customer Risk Management decisions.
+
+Notwithstanding
+any other provision herein, the Supplier may use Performance Data and pseudonymised Agreement Personal Data to enhance its services and
+service offerings to its clients from time to time.
+
+3.3 Partial
+Bet Approval
+
+Risk
+Management includes the monitoring and management of risk exposure, including the partial acceptance of bets (PBA), the
+refusal to accept a particular bet due to enhanced customer due diligence and management of suspicious bets.
+
+[****].
+
+3.4 Theoretical
+Payback
+
+The
+theoretical payback and related parameters to be employed by Supplier for all sports, events and bet types are set forth in Appendix
+A, provided that the Supplier may make changes to such payback and related parameters at its sole discretion. The Supplier may from time
+to time provide access to a tool or functionality that enables the Client to adjust theoretical payback for some Bet Offers.
+
+3.5 Risk
+Monitoring
+
+The
+Client will have access to a book status report via the Suppliers back office tool where the aggregated risks by Bet Offer can
+be monitored in real-time.
+
+35
+
+schedule
+3
+
+Additional
+Services
+
+1. RETAIL
+TERMS
+
+1.1 The
+Service shall include the Suppliers standard retail sportsbook offering, which includes
+the provision of the software client for self-service Retail Terminals and the software client
+for over-the-counter Retail Terminals (and the maintenance of such software in accordance
+with the SLA).
+
+1.2 All
+Retail Terminals are the sole responsibility of the Client including:
+
+the
+physical maintenance and support of the Retail Terminals and ensuring they remain in good
+working order;
+
+the
+bespoke modifications (if any) in adapting the Service to be compatible with such Retail
+Terminals, so long as any such modifications are approved by the Supplier in writing in advance
+of their implementation; and
+
+monitoring
+the proper functioning of the Retail Terminals and upon becoming aware of any error or malfunction
+of any of the Retail Terminals, informing the Supplier as soon as practicable.
+
+2. [****]
+
+36
+
+schedule
+4
+
+Service
+Level Agreement (SLA)
+
+1. DEFINITIONS
+
+In
+this Agreement, unless the context otherwise requires, the following words have the following meanings:
+
+Downtime
+means any time during which the Sportsbook Offering API and/or the Sportsbook Player API is not meeting the response time targets set
+out in paragraphs 2.1 and 2.2 of this SLA;
+
+Emergency
+Maintenance means a type of reactive maintenance deployed to prevent an imminent and serious threat or malfunction that can
+cause a considerable infrastructural or operational impact on the Service;
+
+Excusable
+Cause means any of the following causes:
+
+(a) Scheduled
+Maintenance and/or Emergency Maintenance;
+
+(b) any
+fault, failure, unavailability, non-responsiveness and/or service degradation in (i) [****];
+(ii) any equipment, telecommunications systems, hardware or software of the Client, any of
+its Affiliates and/or any Client Contractors; (iii) any Third Party facilities, software,
+hardware and/or services used in connecting the Client Gaming Platform to the Suppliers
+systems and/or the Service (such as cloud, hosting, datacentre, DNS and/or ISP services);
+and/or (iv) [****];
+
+(c) improper
+use of the Service by the Client, any Client Contractor or any of their respective Affiliates
+or any alteration, modification to, or relocation of any software of the Supplier by anyone
+other than the Supplier or its authorised representatives;
+
+(d) any
+breach of this Agreement and/or any act or omission (including negligence or wilful misconduct)
+by the Client, any of its Affiliates or any Client Contractor (including the Supplier complying
+with a Clients request to postpone troubleshooting in respect of any Incident or Downtime)
+which impacts on the Suppliers ability to provide all or any part of the Service;
+and/or
+
+(e) any
+[****].
+
+Monthly
+Quota means [****];
+
+Scheduled
+Maintenance means maintenance of the Sportsbook Offering API, the Sportsbook Player API and/or any hardware, software, systems
+and/or data used by or on behalf of the Supplier in connection with the provision of the Service, which is either: (a) carried out by
+or on behalf of the Supplier within a maintenance window, as informed to the Client in writing at least ten (10) days in advance (or
+five (5) days in advance if conducted between 04:00 a.m. to 10:00 a.m. on weekdays, CET) provided that the total downtime on account
+of scheduled maintenance does not exceed the Monthly Quota (whereas any scheduled maintenance exceeding such cap will not be considered
+Scheduled Maintenance), or (b) requested by the Client or any of its Affiliates for the purposes of enhancing or supplementing the Service.
+Any maintenance requested by the Client (irrespective of its duration or when it occurs) shall be Scheduled Maintenance;
+
+37
+
+Service
+Availability means the percentage calculated from time to time using the formula A = (T-D) / T where:
+
+A
+means the service availability (expressed as a percentage);
+
+D
+means the total number of minutes of Downtime (excluding Downtime resulting from an Excusable Cause) in the relevant month; and
+
+T
+means the total number of minutes in the relevant month;
+
+Service
+Day means a working day in Sweden, excluding public holidays;
+
+Service
+Hours means 9:00 to 17:00 Central European Time (CET), on weekdays, excluding public holidays; and
+
+Sportsbook
+Clients means the web, retail (if applicable) and mobile clients for the Suppliers sportsbook offering.
+
+2. MEASUREMENT
+OF SERVICE AVAILABILITY AND OTHER METRICS
+
+Sportsbook
+Offering API
+
+2.1 This
+API has a target average response of delivering complete and accurate data within no more
+than [****] in the relevant month, measured by the Supplier at [****] intervals.
+
+Sportsbook
+Player API
+
+2.2 There
+are [****] major API calls that are used to validate and place betting coupons. [****]
+these API calls have a target average response of delivering complete and accurate data
+within no more than [****] in the relevant month, measured by the Supplier at [****]
+intervals.
+
+2.3 Methodology
+for measurement of metrics in this SLA shall be determined by the Supplier and measured at
+the Suppliers production sites. The Client shall have the right to appoint a Third
+Party professional auditor to inspect the measurement methods and the collected data upon
+reasonable request, at the cost of the Client, and upon giving no less than thirty (30) days
+notice, provided that: (i) any such inspection does not materially interfere with the Suppliers
+normal business; (ii) inspections are limited to no more than [****] per calendar
+year; and (iii) such auditor signs a confidentiality agreement provided by the Supplier.
+
+2.4 The
+Supplier shall proactively monitor Service Availability and the functionality of the APIs
+described in this SLA using its monitoring tools, and shall as soon as practicable notify
+the Client upon identifying any Downtime.
+
+2.5 The
+Client shall monitor the proper functioning of the Client Gaming Platform and upon becoming
+aware of any Incident, whether in the Service or the Client Gaming Platform, shall promptly
+notify the Supplier.
+
+2.6 The
+Supplier reserves the right to block any traffic accessing its systems and APIs from time
+to time that is not directly related to providing the Service for use in accordance with
+this Agreement.
+
+3. SCHEDULED
+MAINTENANCE
+
+3.1 The
+Supplier will use reasonable endeavours to only conduct Scheduled Maintenance during maintenance
+windows on Mondays, Tuesdays, and Wednesdays.
+
+3.2 The
+Client may reasonably request any maintenance window to be rescheduled, by written notice
+to the Supplier within three (3) days of receiving Suppliers notice. Such written
+notice by the Client shall contain justifications for the rescheduling. The Supplier will
+use reasonable endeavours to accommodate such request, provided that such maintenance window
+is only applicable to the Client (and not other clients of the Supplier from time to time).
+
+3.3 Any
+scheduled maintenance that exceeds the Monthly Quota or is performed outside the maintenance
+windows shall be notified to the Client as soon as practicable after it becomes known to
+the Supplier.
+
+38
+
+3.4 If
+the time for a maintenance window is exceeded by more than [****], it will be considered
+an Incident and will not be considered Scheduled Maintenance.
+
+4. LIQUIDATED
+DAMAGES FOR FAILURE TO ACHIEVE MINIMUM SERVICE AVAILABILITY LEVEL
+
+4.1 In
+respect of any calendar month in which Service Availability is below [****], a percentage
+deduction from the Business Fee payable to the Supplier for such calendar month shall be
+applied by way of liquidated damages as follows: [****].
+
+4.2 The
+Client acknowledges that the liquidated damages set out in this SLA are a genuine pre-estimate
+of the Loss likely to be suffered by the Client and/or its Affiliates in respect of any failure
+to meet the requirements in the SLA, and, subject to Clause 14.1, shall be the
+Clients (and its Affiliates) sole and exclusive remedy for any such failure.
+
+5. INCIDENT
+DEFINITION AND RESPONSE TIMES
+
+[****]
+
+The
+remedies set out in this Schedule 4 in respect of an Incident shall be the Clients sole remedy for any Incident, except that,
+to the extent that an Incident causes an Operational Issue, then Clause 15 shall apply to the treatment of the Operational Issue
+that was caused by that Incident.
+
+6. INCIDENT
+REPORTING AND UPDATES
+
+6.1 The
+Supplier shall provide second-line Incident reporting and handling services to the Client
+(and not, for the avoidance of doubt, to any Customers) on a 24/7 basis as set out below.
+The Supplier is not responsible for, or liable for any Loss resulting from, an Incident that
+is the result of an Excusable Cause.
+
+Critical
+and High Priority Incidents - Incident Reporting
+
+6.2 Critical
+and High Priority Incidents (as described in paragraph 5 above) detected by the Client shall
+be reported by the Client to the Suppliers IT Operations Helpdesk via email (noc@kambi.com)
+(which may be updated from time to time and notified to the Client) or the Suppliers
+Incident management system.
+
+6.3 Critical
+and High Priority Incidents detected by the Supplier shall be reported by the Supplier to
+the Clients point of contact via telephone or email as soon as reasonably practical.
+
+Medium
+and Low Priority Incidents Incident Reporting
+
+6.4 Medium
+and Low Priority Incidents (as described in paragraph 5 above) detected by the Client
+shall be reported by the Client to the Suppliers incident management system or via
+email.
+
+6.5 Medium
+and Low Priority Incidents detected by the Supplier shall be reported by the Supplier to
+the Clients NOC or equivalent via email.
+
+Incidents
+Updates
+
+6.6 The
+Supplier will provide the Client with status updates as frequently as set out in the table
+in paragraph 5 above (according to Incident priority) until the Incident has been resolved,
+unless otherwise agreed between the Parties (including by email).
+
+6.7 Without
+limiting the foregoing, the Client may require the Supplier to formulate a remedy plan (for
+Critical and High Priority Incidents only), in which case the Supplier shall, within a reasonable
+timescale (having regard to the severity of the Incident), formulate and provide to the Client
+a remedy plan which shall include:
+
+the
+known or suspected causes of the Incident;
+
+39
+
+the
+remedial actions which the Supplier intends to take in order to restore performance; and
+
+a
+proposed, high level timetable for the completion of such actions if such Incident is ongoing
+for more than [****].
+
+6.8 Incident
+Resolution Reports
+
+At
+the request of the Client, the Supplier shall send an Incident report to the Client within
+[****] Service Days of resolving a Critical or High Priority Incident by providing
+a fix or workaround.
+
+The
+Clients point of contact for all communications concerning this SLA shall be its NOC,
+unless notified otherwise by the Client to the Supplier in writing.
+
+7. Software
+Errors
+
+Each
+Party shall use reasonable endeavours to mitigate the impact of any Software Errors, including by taking all reasonable measures to prevent
+Customers from withdrawing winnings resulting from such Software Error, to the extent it is permitted under Applicable Law. Subject to
+Clause 14.1, the Supplier shall not be liable for any such withdrawal which could have reasonably been prevented by the
+Client, any Client Contractor and/or any of their respective Affiliates and the Supplier shall only be liable, subject always to Clause
+14, to the extent that Losses are not recovered by the Client in any way. This paragraph 7 shall not apply to the
+extent that any Software Error gives rise to any Operational Issue, in which case Clause 15 above shall apply.
+
+8. CLIENT
+RESPONSIBLITIES IN RELATION TO THE SLA
+
+8.1 Before
+reporting an Incident or Downtime to the Suppliers technical support, the Client shall
+perform first level problem determination to confirm that the problem experienced by the
+Client is not connected to the Client Gaming Platform and/or the Clients, its Affiliates
+and/or its Client Contractors hardware, software, or local area network.
+
+8.2 When
+reporting any suspected Incident or Downtime to the Suppliers technical support, the
+Client must report:
+
+when
+the problem started;
+
+a
+description of the symptoms; and
+
+any
+other pertinent information related to the problem.
+
+8.3 The
+Client shall provide all reasonable assistance to cooperate with the Suppliers personnel
+during any troubleshooting by or on behalf of the Supplier.
+
+8.4 The
+Client shall promptly notify the Supplier if the Incident or Downtime is solved, or if the
+Incident has been located on, or caused by, hardware/software not provided by the Supplier.
+
+40
+
+schedule
+5
+
+New
+Territory Form
+
+THIS
+NEW TERRITORY FORM is agreed on the last date of signature of the Parties below
+
+BETWEEN:
+
+(1) [KAMBI
+ENTITY], a company registered in [] under company registration number []
+whose registered office is at [] (the Supplier); and
+
+(2) [CLIENT
+PARTY], a company registered in [] under company number [] whose registered
+office is at [] (the Client),
+
+both
+hereafter referred to as Parties, or individually as a Party.
+
+BACKGROUND:
+
+Whereas
+the Supplier and Client entered into an Amended and Restated Agreement for the Provision of a Sports Betting Solution dated [INSERT DATE][,
+which was amended by [INSERT AMENDMENTS IF ANY],] in relation to the supply of a sports betting solution (the Agreement).
+
+In
+accordance with Clause 27.12 of the Agreement, the Parties agree with effect from [the last date of signature of the Parties below]
+[or] [insert date] as follows.
+
+1. NEW
+TERRITORIES:
+
+The
+following [certain countries, states, provinces, or other territories are][country, state, province, or other territory is] added to
+the definition of Territory:
+
+[INSERT]
+
+2. [OTHER
+VARIATIONS:
+
+[CONSIDER
+IN EACH NTF WHETHER TO INCLUDE:
+
+For
+the avoidance of doubt, as of the effective date of this New Territory Form, and irrespective of any provision in the Agreement to the
+contrary, the exclusivity provisions in Clause 3 of the Agreement shall apply to the Territories listed in Paragraph 1 of this New Territory
+Form.]
+
+[INSERT
+ANY OTHER VARIATIONS]]
+
+3. GENERAL:
+
+The
+terms used in this New Territory Form shall have the same meaning as in the Agreement, unless otherwise indicated in this New Territory
+Form.
+
+Clauses
+12 (Data Protection), 19 (Confidentiality), 25 (Notice), 26 (Dispute Resolution), 27 (General) of the Agreement
+will apply equally to any interpretation of this New Territory Form as if they were repeated here in whole.
+
+41
+
+SIGNATURE
+PAGE NEW TERRITORY FORM
+
+SIGNED
+BY or on behalf of the Parties.
+
+Signed
+by _______________________________ )
+
+a
+duly authorised signatory for and on behalf of )
+
+[KAMBI
+PARTY]: )
+
+Date Signature
+
+Signed
+by _______________________________ )
+
+a
+duly authorised signatory for and on behalf of )
+
+[CLIENT
+PARTY]: )
+
+Date Signature
+
+[Foreign
+company/LLP executing an agreement 
+
+[OPTION
+1 
+
+Executed
+by affixing )
+
+the common
+seal of )
+
+[NAME
+OF COMPANY/LLP] )
+
+in the
+presence of: )
+
+Signature
+of authorised signatory
+
+Signature
+of authorised signatory
+
+Date]
+
+[OPTION
+2 
+
+Signed
+on behalf of )
+
+[NAME
+OF COMPANY/LLP] )
+
+a [company][LLP]
+incorporated in )
+
+[COUNTRY] )
+
+by [NAME
+OF OFFICER] )
+
+[and
+[NAME OF OFFICER]] )
+
+being
+[a person][persons] who, )
+
+in accordance
+with the laws of that )
+
+territory,
+[is][are] acting under the )
+
+authority
+of that [company][LLP] )
+
+Signature
+of authorised signatory
+
+Signature
+of authorised signatory
+
+Date]]
+
+42
+
+schedule
+6
+
+New
+Territory Local Affiliate Form
+
+THIS
+NEW TERRITORY LOCAL AFFILIATE FORM is made BETWEEN:
+
+(1) [KAMBI
+ENTITY], a company registered in [] under company registration number []
+whose registered office is at [] (the Supplier);
+
+(2) [CLIENT
+PARTY], a company registered in [] under company number [] whose registered
+office is at [] (the Client);
+
+(3) [CLIENT
+AFFILIATE], a company registered in [] under company number [] whose registered
+office is at [] (the Local Client Affiliate); and
+
+(4) [KAMBI
+AFFILIATE], a company registered in [] under company registration number []
+whose registered office is at [] (the Local Supplier Affiliate),
+
+hereafter
+referred to as Parties, or individually as a Party for the remainder of this New Territory
+Local Affiliate Form. This New Territory Local Affiliate Form forms part of the Amended and Restated Agreement for the Provision of a
+Sports Betting Solution dated [INSERT DATE][, which was amended by [INSERT AMENDMENTS IF ANY],] in relation to the supply of a sports
+betting solution (the Agreement) entered into between the Supplier and the Client.
+
+BACKGROUND:
+
+Whereas:
+
+1. The
+Supplier and Client entered into the Agreement, which sets out:
+
+1.1 in
+Clause 2.9, a mechanism for the Parties to add a New Territory to the Agreement and in particular
+to document the role of the Local Client Affiliate and the Local Supplier Affiliate in respect
+of a New Territory; and
+
+1.2 in
+Clause 2.5, the right for an Affiliate of the Client to avail itself of the Service in accordance
+with the provisions of that Clause 2.5.
+
+2. The
+Supplier and Client agree to add a New Territory and document the addition of that New Territory
+in accordance with Clause 2.9 of the Agreement.
+
+In
+accordance with Clause 27.12 of the Agreement, the Parties agree, with effect from the date of the last signature of the Parties, as
+follows:
+
+1. New
+Territories
+
+The
+following [certain countries, states, provinces, or other territories are][country, state, province, or other territory is] added to
+the definition of Territory:
+
+[INSERT]
+(New Territory)
+
+2. Application
+of Terms
+
+2.1 The
+terms of the Agreement shall apply to the provision of the Service in the New Territory.
+
+2.2 This
+New Territory Local Entity Form shall automatically cease to apply on the date that the Agreement
+terminates or expires, in whole or in part where any such partial termination or expiry is
+in relation to the New Territory set out herein, without any further action being required
+by the Parties.
+
+43
+
+3. Status
+
+3.1 This
+New Territory Local Affiliate Form is supplemental to the Agreement and describes the mechanism
+under which the Local Client Affiliate is entitled to benefit from the Service and the Local
+Supplier Affiliate shall provide the Service as a subcontractor of the Supplier. The Local
+Client Affiliate is availing itself of the Service in accordance with Clause 2.5 of
+the Agreement and the Local Supplier Affiliate is providing the Service in its capacity as
+a subcontractor of the Supplier.
+
+3.2 The
+execution of this New Territory Local Affiliate Form will not increase the total aggregate
+liability of the Supplier and its Affiliates, or the total aggregate liability of the Client
+and its Affiliates under the Agreement. Accordingly, the caps and exclusions of liability
+under the Agreement will apply to the Agreement and this New Territory Local Affiliate Form
+in aggregate. All limitations on the liability of the Supplier will continue to operate to
+limit the liability of the Supplier and the liability of all of its Affiliates (including
+the Local Supplier Affiliate) under the Agreement and this New Territory Local Affiliate
+Form, and the exclusions of liability in the Agreement will apply to the Supplier and its
+Affiliates (including the Local Supplier Affiliate).
+
+3.3 The
+Client Affiliate has been provided with a copy of the Agreement and without prejudice to
+Clause 14.7 of the Agreement confirms that it shall observe, perform and be bound by
+the provisions of the Agreement.
+
+3.4 The
+Supplier and Client do not intend that any term of the Agreement will be enforceable by the
+Local Client Affiliate whether under the Contracts (Rights of Third Parties) Act 1999 or
+otherwise.
+
+4. General
+
+4.1 Capitalised
+terms used in this New Territory Local Affiliate Form shall have the meaning set out in the
+Agreement, except as otherwise set out in this New Territory Local Affiliate Form.
+
+4.2 Clauses
+12 (Data Protection), 19 (Confidentiality), 25 (Notice), 26 (Dispute Resolution)
+and 27 (General) of the Agreement will apply equally to any interpretation of this
+New Territory Local Affiliate Form as if they were repeated here in whole.
+
+4.3 The
+provisions in Clause 12 and Schedule 7 of the Agreement, in relation to the signature
+of the Agreement and the Parties deeming to sign Restricted Transfers, apply effectively
+to this New Territory Local Affiliate Form. By signing this New Territory Local Affiliate
+Form this will also constitute deemed signing of the relevant Restricted Transfer agreement.
+
+SIGNED
+BY or on behalf of the Parties.
+
+Signed
+by ______________________________ )
+
+a
+duly authorised signatory for and on behalf of )
+
+[KAMBI
+PARTY]: )
+
+Date
+Signature
+
+Signed
+by ______________________________ )
+
+a
+duly authorised signatory for and on behalf of )
+
+[KAMBI
+AFFILIATE]: )
+
+Date Signature
+
+Signed
+by )
+
+a
+duly authorised signatory for and on behalf of )
+
+[CLIENT
+PARTY]: )
+
+Date Signature
+
+Signed
+by )
+
+a
+duly authorised signatory for and on behalf of )
+
+[CLIENT
+AFFILIATE]: )
+
+Date Signature
+
+44
+
+schedule
+7
+
+Appendix
+to Standard Contractual Clauses
+
+Optional
+Clause selection in the controller to controller Standard Contractual Clauses:
+
+1. Standard
+Contractual Clauses, Clause 7 Docking Clause included.
+
+2. Standard
+Contractual Clauses, Clause 11 Independent disputes mechanism for data subjects 
+excluded.
+
+3. Standard
+Contractual Clauses, Clause 17 Governing Law this shall be the law of Ireland
+(as noted in Clause 11.6.5 of the Agreement).
+
+4. Standard
+Contractual Clauses, Clause 18(b) Choice of forum and jurisdiction this shall
+be Ireland and the forums as noted in Clause 11.6.5 of the Agreement).
+
+45
+
+ANNEX
+I
+
+LIST
+OF PARTIES
+
+1. Data
+Exporter
+
+For
+the purpose of this Schedule, the Data Exporter is the Supplier and any relevant Supplier Affiliates, as confirmed by the Supplier from
+time to time.
+
+2. Data
+Importer
+
+For
+the purpose of this Schedule, the Data Importer is the Client and any relevant Client Affiliates it has notified to the Supplier under
+Clause 2.4 of the Agreement.
+
+DESCRIPTION
+OF TRANSFER
+
+3. Data
+Subjects
+
+The
+personal data transferred concern the following categories of data subjects: past, present, prospective and future Customers, and Supplier
+employees.
+
+4. Categories
+of Data
+
+The
+personal data transferred concern the following categories of data:
+
+4.1 the
+Data Importers unique player identification number that is used to identify each specific
+data subject that is a customer of the Data Importer;
+
+4.2 the
+Data Exporters unique player identification number that is generated for each new
+player on the Data Exporters platform and which is linked to the Data Importers
+unique player identification number;
+
+4.3 the
+Data Exporters device identification or fingerprint that is used to
+identify a particular device or item of terminal equipment from which a player makes use
+of the Service;
+
+4.4 the
+IP address from which a player accesses the Data Exporters platform to place a bet;
+
+4.5 data
+concerning particular bets placed on the Data Exporters platform including the value
+of the bet, the nature of the event, the time of the bet and the odds at the time of the
+bet;
+
+4.6 the
+risk profile that the Data Exporter generates for particular players on its platform; and
+
+4.7 recommendations
+generated by the Data Exporter with respect to a players credit limit.
+
+5. Sensitive
+Data
+
+Not
+applicable.
+
+6. The
+frequency of the transfer
+
+Personal
+data is transferred on continuous basis.
+
+7. Nature
+of the processing
+
+The
+nature of the processing is any operation such as collection, recording, organisation, structuring, storage, adaptation or alteration,
+retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction,
+erasure or destruction.
+
+46
+
+8. Purposes
+of the transfer(s)
+
+The
+transfer is made for the following purposes:
+
+8.1 Business
+operations: Management reporting and analysis, accounting, financial reporting, business
+planning, maintaining records relating to business activities.
+
+8.2 Risk
+Management: Undertaking risk management processes and communicating risks and findings to
+the Data Importer, including:
+
+(a) to
+detect fraud and to manage other risks associated with particular users placing bets with
+the Data Importer and on the Data Exporters platform;
+
+(b) to
+place a player(s) within a different betting risk profile;
+
+(c) to
+revise (either up or down) a players betting limit; and
+
+(d) the
+specific guidelines and risk parameters to be used for making decisions on the profitability
+of a given player in light of any specific insight which the Data Exporter may have about
+that player.
+
+8.3 Compliance
+with contractual obligations: Complying with contractual obligations between the Data Importer
+and the Data Exporter.
+
+8.4 Compliance
+with data subject rights: Communicating with the Data Importer with respect to the exercise
+by any data subjects of their rights under applicable data protection laws, which may include
+subject access requests, rights to object and rights to erase their data.
+
+8.5 Compliance
+with legal and regulatory requirements: Complying with applicable legal and regulatory requirements;
+conducting audits; compliance with law enforcement and similar requests in accordance with
+applicable law; pursuing legal rights and remedies; defending litigation and managing any
+internal complaints or claims.
+
+9. The
+period for which the personal data will be retained
+
+Personal
+data will not be held for longer than is necessary for the purposes described above.
+
+10. Contact
+points for data protection enquiries:
+
+Please
+refer to the Data Importers Player Privacy Notice at such website address as notified to the Data Exporter from time to time.
+
+Please
+refer to Data Exporters player fair processing notice which can be located at the following address: https://www.kambi.com/fair_player_processi/kambi-player-fair-processing-notice/.
+
+COMPETENT
+SUPERVISORY AUTHORITY
+
+The
+competent supervisory authority is the Swedish Authority for Privacy Protection (IMY -Integritetsskyddsmyndigheten). 
+
+47
+
+ANNEX
+II
+
+Technical
+and Organisational Measures to Ensure the Security of the Agreement Personal Data
+
+1. Technical
+Measures
+
+1.1 The
+Data Importer holds the privacy and/or security certification(s), report(s) and standards
+below.
+
+1.2 In
+lieu of any standards being adopted, the Data Importer has implemented the technical measures
+below.
+
+Data
+Importer has a comprehensive privacy policy that is compliant with the local law where the
+Data Importer operates. The policy includes a commitment to limit the collection of Personal
+Data to the Personal Data disclosed in the policy. The policy also includes a commitment
+to limit the use and sharing of Personal Data to that what is disclosed in the policy.
+
+Personal
+Data is encrypted and access is restricted to authorized personnel only.
+
+Data
+Importer routinely (usually at least quarterly) audits its network systems to ensure that
+Personal Data remains secure.
+
+Data
+Importer has written procedures concerning its response to a Data Security Incident. The
+procedures includes the parameters for notices to affected Data Subjects.
+
+Data
+Importer is committed to timely responding to requests from Data Subjects for the deletion
+of Personal Data.
+
+Data
+Importer requires its core vendors to agree to privacy and security standards that are consistent
+with GDPR requirement.
+
+Training
+regarding privacy requirements for personnel that will have access to Personal Data. Training
+is provided during the onboarding of personnel and then routinely (usually quarterly or annual
+depending on the system or topic) thereafter.
+
+2. Organisational
+Measures
+
+2.1 The
+Data Importer shall adopt adequate internal policies with clear allocation of responsibilities
+for data transfers, reporting channels and standard operating procedures for cases of formal
+or informal requests from public authorities to access the data.
+
+2.2 The
+Data Importer shall document and record the requests for access received from public authorities
+and the response provided, alongside the legal reasoning and the actors involved and make
+these records available to the data exporter.
+
+2.3 If
+an essentially equivalent level of protection of the Agreement Personal Data to that afforded
+within the European Economic Area (EEA) cannot be guaranteed in a third country, the Data
+Importer shall not transfer any Agreement Personal Data to such country, will not cause or
+permit any onward transfer to such country, and/or will suspend ongoing transfers to such
+country.
+
+48
+
+SIGNATURE
+PAGE AGREEMENT
+
+SIGNED
+BY or on behalf of the Parties on the Execution Date.
+
+Signed
+by David Kenyon )
+
+a
+duly authorised signatory for and on behalf of )
+
+SPORTS
+INFORMATION SERVICES LIMITED: )
+
+8
+January 2025 /s/
+David Kenyon
+
+Date
+Signature
+
+Signed
+by Bruce A. Cassidy )
+
+a
+duly authorised signatory for and on behalf of )
+
+VIP
+PLAY, INC.: )
+
+8
+January 2025 /s/
+Bruce A. Cassidy
+
+Date Signature
+
+49
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>vipz-20250108.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>vipz-20250108_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Cover [Abstract] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>vipz-20250108_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Cover
+
+Jan. 08, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Jan. 08, 2025
+
+Entity File Number 000-56290
+
+Entity Registrant Name VIP
+Play, Inc.
+
+Entity Central Index Key 0001832161
+
+Entity Tax Identification Number 85-0738656
+
+Entity Incorporation, State or Country Code NV
+
+Entity Address, Address Line One 1645
+Pine Tree Ln
+
+Entity Address, Address Line Two Suite 2
+
+Entity Address, City or Town Sarasota
+
+Entity Address, State or Province FL
+
+Entity Address, Postal Zip Code 34236
+
+City Area Code (866)
+
+Local Phone Number 783-9435
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company true
+
+Elected Not To Use the Extended Transition Period false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 7A
+
+-Section B
+
+-Subsection 2
+
++ Details
+
+Name: dei_EntityExTransitionPeriod
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+1 
+21 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://vipplayinc.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+form8-k.htm 
+vipz-20250108.xsd 
+vipz-20250108_lab.xml 
+vipz-20250108_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>14
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>15
+<FILENAME>0001493152-25-001413-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>form8-k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001832161 
+
+2025-01-08 
+2025-01-08 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0001832161 
+8-K 
+2025-01-08 
+VIP Play, Inc. 
+NV 
+000-56290 
+85-0738656 
+1645 Pine Tree Ln 
+Suite 2 
+Sarasota 
+FL 
+34236 
+(866) 
+783-9435 
+false 
+false 
+false 
+false 
+true 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

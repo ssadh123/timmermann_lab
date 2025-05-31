@@ -1,0 +1,1053 @@
+<SEC-DOCUMENT>0001714899-25-000007.txt : 20250107
+<SEC-HEADER>0001714899-25-000007.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250106181337
+ACCESSION NUMBER:		0001714899-25-000007
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250106
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250107
+DATE AS OF CHANGE:		20250106
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Denali Therapeutics Inc.
+		CENTRAL INDEX KEY:			0001714899
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				463872213
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38311
+		FILM NUMBER:		25512771
+
+	BUSINESS ADDRESS:	
+		STREET 1:		161 OYSTER POINT BLVD.
+		CITY:			SOUTH SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94080
+		BUSINESS PHONE:		(650) 866-8548
+
+	MAIL ADDRESS:	
+		STREET 1:		161 OYSTER POINT BLVD.
+		CITY:			SOUTH SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94080
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>dnli-20250106.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?dnli-20250106
+
+0001714899FALSE00017148992025-01-062025-01-06
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): 
+
+January 6, 2025
+
+Denali Therapeutics Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-38311 46-3872213
+
+(State or other jurisdiction of (Commission (I.R.S. Employer
+
+incorporation) File Number) Identification No.)
+
+161 Oyster Point Blvd.
+
+South San Francisco, California94080
+
+(Address of principal executive offices, including zip code)
+
+(650) 866-8548
+
+(Registrants telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last reports)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 ( 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 ( 240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Title of each class Trading Symbol Name of each exchange on which registered
+
+Common Stock, par value $0.01 per share DNLI NASDAQ Global Select Market
+
+Item 7.01 Regulation FD Disclosure.
+
+On January 6, 2025, Denali Therapeutics Inc. (the Company) issued a press release announcing topline results for Regimen G evaluating eIF2B agonist DNL343 in the Phase 2/3 HEALEY ALS platform trial. 
+
+A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference. 
+
+The information furnished in this Item 7.01 and Item 9.01 (including Exhibit 99.1) shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. 
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d)Exhibits
+
+Exhibit No. 
+
+Description 
+
+99.1 
+
+Press release dated January 6, 2025. 
+
+104 
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+DENALI THERAPEUTICS INC.
+
+Date: January 7, 2025 By: /s/ Alexander O. Schuth
+
+Alexander O. Schuth, M.D.
+
+Chief Operating and Financial Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit991pressrelease10625.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Exhibit 99.1
+
+Denali Therapeutics Announces Topline Results for Regimen G Evaluating eIF2B Agonist DNL343 in the Phase 2/3 HEALEY ALS Platform Trial
+
+Primary endpoint of overall function (ALSFRS-R) and survival, and key secondary endpoints of muscle strength and respiratory function, were not met at 24 weeks
+
+Overall, DNL343 was found to be safe and well tolerated
+
+Additional analyses, including neurofilament light (NfL) and other fluid biomarkers, prespecified sub-group analyses and analyses from the active treatment extension period are expected later in 2025
+
+SOUTH SAN FRANCISCO, Calif., Jan. 6, 2025 Denali Therapeutics Inc. (NASDAQ: DNLI) today announced topline results from an analysis of Regimen G of the Phase 2/3 HEALEY ALS Platform Trial evaluating eIF2B agonist DNL343 in the treatment of amyotrophic lateral sclerosis (ALS). 
+
+The study did not meet the primary endpoint of efficacy in slowing disease progression as compared with placebo. The primary endpoint was evaluated as change in disease severity over time as measured by the ALS Functional Rating Scale-Revised (ALSFRS-R) and survival through week 24. Key secondary endpoints, measuring muscle strength and respiratory function, were also not statistically different between the active and placebo groups at week 24. 
+
+For the primary analysis, a total of 186 participants who were randomized to receive DNL343 treatment were compared to 139 participants randomized to receive placebo in this regimen (n=63) or shared from a concurrently enrolling regimen (n=76). 
+
+Overall, DNL343 was found to be safe and well tolerated. Further analyses are anticipated later in 2025, including neurofilament light (NfL) and other fluid biomarkers, data from pre-specified subgroups, as well as extended findings from the active treatment extension period. 
+
+Better treatment options for individuals with ALS are critically needed, said Carole Ho, M.D., Chief Medical Officer of Denali Therapeutics. We are deeply grateful to the study participants, investigators, and the broader community for their collective support of the HEALEY study, which has provided an efficient and innovative platform for evaluating the therapeutic potential of DNL343 in addressing this critical unmet need. We look forward to a more comprehensive analysis of the study results as additional analyses, including pre-specified subgroup analyses and treatment effects on NfL, become available later in 2025.
+
+Though the initial top-line clinical results of this trial were not what we hoped, the data collected is valuable in helping to understand the next stage of ALS research, said Merit Cudkowicz, MD, MSc, principal investigator and sponsor of the HEALEY ALS Platform Trial, director of the Sean M. Healey & AMG Center for ALS, chief of the Department of Neurology at MGH, and the Julieanne Dorn Professor of Neurology at Harvard Medical School. We have additional pre-specified subgroup analyses and biomarker work, including NfL, pending from this regimen, as well as long term efficacy data from participants who continued in the active treatment extension period. We remain deeply committed to fully understanding the effects of DNL343 in ALS and will further evaluate the data before determining next steps.
+
+About ALS 
+
+Amyotrophic lateral sclerosis (ALS) is the most prevalent adult-onset progressive motor neuron disease, affecting approximately 30,000 people in the U.S. and an estimated 500,000 people worldwide. ALS causes the progressive degeneration of motor neurons, resulting in muscle weakness and atrophy. There is an urgent need to understand the biology of ALS and to develop effective therapies. 
+
+1
+
+About DNL343
+
+DNL343 is a novel small molecule ALS therapeutic candidate that targets eIF2B, a central regulator of the integrated stress response (ISR). The ISR appears to be overactive in ALS, leading to the formation of stress granules containing TDP-43.1,2 The buildup of TDP-43 is harmful and leads to neuronal degeneration. In preclinical data, inhibition of the ISR by DNL343 dissolves TDP-43 containing stress granules and decreases biomarkers of the ISR. Early clinical studies have demonstrated that once-daily oral dosing with DNL343 was generally well tolerated and exhibited extensive penetration of cerebrospinal fluid. In addition, robust inhibition of biomarkers associated with the ISR pathway was observed in blood samples from study participants. DNL343 is an investigational drug and its safety and efficacy profile has not yet been established. DNL343 has not been approved by any Health Authority for any use.
+
+About the HEALEY ALS Platform Trial
+
+The HEALEY ALS Platform Trial is a large-scale collaborative effort made possible by contributions from patients and families, clinical trial sites, industry partners and research collaborators to evaluate multiple investigational therapies simultaneously with the goal of accelerating the development of potential new treatments for ALS. The platform trial is led by the Sean M. Healey & AMG Center for ALS at Massachusetts General Hospital (MGH) in collaboration with the Northeast ALS Consortium (NEALS). Therapeutic candidates that enter the platform trial are chosen by a group of expert ALS scientists and members of the Healey & AMG Center.
+
+About Denali Therapeutics 
+
+Denali Therapeutics is a biopharmaceutical company developing a broad portfolio of product candidates engineered to cross the blood-brain barrier for neurodegenerative diseases and lysosomal storage diseases. Denali pursues new treatments by rigorously assessing genetically validated targets, engineering delivery across the blood-brain barrier and guiding development through biomarkers that demonstrate target and pathway engagement. Denali is based in South San Francisco. For additional information, please visit www.denalitherapeutics.com.
+
+2
+
+Cautionary Note Regarding Forward-Looking Statements 
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements expressed or implied in this press release include, but are not limited to, statements regarding Denali's plans, timelines, and expectations related to DNL343; the timing and availability of further data and analyses related to Regimen 3 of the Phase 2/3 HEALEY Platform Trial; and statements made by Denali's Chief Medical Officer and the principal investigator and sponsor of the HEALEY ALS Platform Trial. Actual results are subject to risks and uncertainties and may differ materially from those indicated by these forward-looking statements as a result of these risks and uncertainties, including without limitation, Denalis transition to a late stage clinical drug development company; Denalis and its partners ability to initiate, enroll patients in, conduct, and complete its ongoing and future clinical trials on expected timelines; Denalis reliance on third parties for the manufacture and supply of its product candidates for clinical trials; the potential for clinical trial results to differ from preclinical, preliminary or expected results; the risk of adverse events, toxicities, and other undesirable side effects; the risk that results from early clinical biomarker studies will not translate to clinical benefit in late clinical studies; the risk that product candidates may not in the future receive regulatory approval necessary to be commercialized; Denalis ability to obtain, maintain, or protect intellectual property rights related to its product candidates; implementation of Denalis strategic plans for its business, product candidates and BBB platform technology; and other risks. In light of these risks, uncertainties, and assumptions, the forward-looking statements in this press release are inherently uncertain and may not occur, and actual results could differ materially and adversely from those anticipated or implied in the forward-looking statements. Accordingly, you should not rely upon forward-looking statements as predictions of future events. Information regarding additional risks and uncertainties may be found in Denalis Annual and Quarterly Reports filed on Forms 10-K and 10-Q filed with the Securities and Exchange Commission (SEC) on February 28, 2024, and November 6, 2024, respectively, and Denalis future reports to be filed with the SEC. Denali does not undertake any obligation to update or revise any forward-looking statements, to conform these statements to actual results, or to make changes in Denalis expectations, except as required by law. 
+
+Reference:
+
+1.Fang, MY et al. Small-Molecule Modulation of TDP-43 Recruitment to Stress Granules Prevents Persistent TDP-43 Accumulation in ALS/FTD. Neuron 2019 Sep 4;103(5):802-819
+
+2.Luan, W et al. Early activation of cellular stress and death pathways caused by cytoplasmic TDP-43 in the rNLS8 mouse model of ALS and FTD. Mol Psychiatry 2023 Jun;28(6):2445-2461
+
+Investor Contact
+
+Laura Hansen, Ph.D.
+
+Vice President, Investor Relations
+
+(650) 452-2747
+
+hansen@dnli.com
+
+Media Contact
+
+Rich Allan
+
+FGS Global
+
+(503) 851-0807
+
+rich.allan@fgsglobal.com
+
+3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>dnli-20250106.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>dnli-20250106_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>dnli-20250106_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>image_0.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Cover
+
+Jan. 06, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Jan. 06, 2025
+
+Entity Registrant Name Denali Therapeutics Inc.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-38311
+
+Entity Tax Identification Number 46-3872213
+
+Entity Address, Address Line One 161 Oyster Point Blvd.
+
+Entity Address, City or Town South San Francisco
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 94080
+
+City Area Code 650
+
+Local Phone Number 866-8548
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+Title of 12(b) Security Common Stock, par value $0.01 per share
+
+Trading Symbol DNLI
+
+Security Exchange Name NASDAQ
+
+Entity Central Index Key 0001714899
+
+Amendment Flag false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://www.denalitherapeutics.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+dnli-20250106.htm 
+dnli-20250106.xsd 
+dnli-20250106_lab.xml 
+dnli-20250106_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001714899-25-000007-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>dnli-20250106_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001714899 
+
+2025-01-06 
+2025-01-06 
+
+0001714899 
+false 
+8-K 
+2025-01-06 
+Denali Therapeutics Inc. 
+DE 
+001-38311 
+46-3872213 
+161 Oyster Point Blvd. 
+South San Francisco 
+CA 
+94080 
+650 
+866-8548 
+false 
+false 
+false 
+false 
+false 
+Common Stock, par value $0.01 per share 
+DNLI 
+NASDAQ
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

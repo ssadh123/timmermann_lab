@@ -1,0 +1,1595 @@
+<SEC-DOCUMENT>0001477720-25-000033.txt : 20250310
+<SEC-HEADER>0001477720-25-000033.hdr.sgml : 20250310
+<ACCEPTANCE-DATETIME>20250310161257
+ACCESSION NUMBER:		0001477720-25-000033
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20250310
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250310
+DATE AS OF CHANGE:		20250310
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Asana, Inc.
+		CENTRAL INDEX KEY:			0001477720
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				263912448
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39495
+		FILM NUMBER:		25723830
+
+	BUSINESS ADDRESS:	
+		STREET 1:		633 FOLSOM STREET
+		STREET 2:		SUITE 100
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+		BUSINESS PHONE:		(415) 525-3888
+
+	MAIL ADDRESS:	
+		STREET 1:		633 FOLSOM STREET
+		STREET 2:		SUITE 100
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>asan-20250310.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?asan-20250310
+
+0001477720FALSE00014777202025-03-102025-03-10
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+__________________________
+
+FORM 8-K
+
+__________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 10, 2025
+
+__________________________
+
+Asana, Inc.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+__________________________
+
+Delaware 001-39495 26-3912448
+
+(State or Other Jurisdiction
+
+of Incorporation) 
+
+(Commission
+
+File Number) 
+
+(IRS Employer
+
+Identification No.)
+
+633 Folsom Street, Suite 100 
+
+San Francisco, CA 94107
+
+(Address of Principal Executive Offices) (Zip Code)
+
+(415)525-3888
+
+(Registrants Telephone Number, Including Area Code)
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+
+Trading Symbol(s) 
+
+Name of each exchange on which registered
+
+Class A Common Stock, $0.00001 par 
+
+value ASAN New York Stock Exchange
+
+Long-Term Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02Results of Operations and Financial Condition. 
+
+On March 10, 2025, Asana, Inc. issued a press release announcing its financial results for the quarter and fiscal year ended January 31, 2025. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated by reference herein. 
+
+The information furnished under this Item 2.02 and in the accompanying Exhibit 99.1 shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act regardless of any general incorporation language in such filing, unless expressly incorporated by specific reference in such filing.
+
+Item 9.01Financial Statements and Exhibits. 
+
+(d) Exhibits 
+
+Exhibit No. 
+
+Description
+
+99.1 
+
+Press Release, dated March 10, 2025, announcing financial results for the quarter and fiscal year ended January 31, 2025.
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+ASANA, INC.
+
+Dated: March 10, 2025 By: /s/ Eleanor Lacey
+
+Eleanor Lacey
+
+General Counsel and Corporate Secretary
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>asana8-kex991q4fy25.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Exhibit 99.1
+
+Asana Announces Fourth Quarter and Fiscal Year 2025 Results
+
+Q4 revenue in-line with guidance; exceeded high end of guidance adjusted for currency impact
+
+Achieved full year of positive operating cash flow and free cash flow 
+
+Q4 GAAP operating margin improved 590bps year over year; Q4 Non-GAAP operating margin improved 820bps year over year
+
+March 10, 2025 San Francisco, CA Asana, Inc. (NYSE: ASAN)(LTSE: ASAN), a leading enterprise work management platform, today reported financial results for its fourth quarter and fiscal year ended January 31, 2025. 
+
+The early momentum with AI Studio has exceeded our expectations, with initial proof points confirming its transformative potential, including strong early customer adoption across segments and geographies, rapidly growing credit usage and a multi-million dollar pipeline," said Dustin Moskovitz, co-founder and chief executive officer of Asana. "As AI becomes an integral part of how work gets done, Asana is uniquely positioned to capitalize on this massive opportunity, providing a structured and intuitive framework that enables more effective human-AI coordination at scale. The introduction of AI Studio strengthens our ability to deliver on our core workflows and meaningfully expands our addressable market to new workflows.
+
+"FY25 was a pivotal year for Asana, with stabilization across key metrics, our emergence as a multi-product company, achieving over 800 basis point improvement in Q4 non-GAAP operating margin and positive free cash flow for the full yeara major milestone on our path to sustained profitable growth," said Sonalee Parekh, Chief Financial Officer of Asana. "The efficiencies and productivity gains we've unlocked are not only driving an additional 1,000 basis point plus improvement in FY26 non-GAAP operating margin and setting the stage for non-GAAP profitability starting in Q1 FY26, but also enabling us to reinvest in high-growth areas like AI Studio, channel, and initiatives that strengthen customer adoption and engagement. These investments we expect will improve net retention and drive long-term growth acceleration."
+
+Fourth Quarter Fiscal 2025 Financial Highlights
+
+Revenues: Revenues were $188.3 million, an increase of 10% year over year. Revenues adjusted for the impact of foreign exchange rates were $189.1 million, an increase of 10.5% year over year.
+
+Operating Loss: GAAP operating loss was $63.6 million, or 34% of revenues, compared to GAAP operating loss of $67.9 million, or 40% of revenues, in the fourth quarter of fiscal 2024. Non-GAAP operating loss was $1.7 million, or 1% of revenues, compared to non-GAAP operating loss of $15.6 million, or 9% of revenues, in the fourth quarter of fiscal 2024.
+
+Net Loss: GAAP net loss was $62.3 million, compared to GAAP net loss of $62.4 million in the fourth quarter of fiscal 2024. GAAP net loss per share was $0.27, compared to GAAP net loss per share of $0.28 in the fourth quarter of fiscal 2024. Non-GAAP net loss was $0.4 million, compared to non-GAAP net loss of $10.1 million in the fourth quarter of fiscal 2024. Non-GAAP net loss per share was $0.00, compared to non-GAAP net loss per share of $0.04 in the fourth quarter of fiscal 2024. 
+
+Cash Flow: Cash flows from operating activities were $15.9 million, compared to negative $15.3 million in the fourth quarter of fiscal 2024. Free cash flow was $12.3 million, compared to negative $17.0 million in the fourth quarter of fiscal 2024. 
+
+1
+
+Exhibit 99.1
+
+Fiscal 2025 Financial Highlights
+
+Revenues: Revenues were $723.9 million, an increase of 11% year over year. 
+
+Operating Loss: GAAP operating loss was $266.7 million, or 37% of revenues, compared to GAAP operating loss of $270.0 million, or 41% of revenues, in fiscal 2024. Non-GAAP operating loss was $40.8 million, or 6% of revenues, compared to non-GAAP operating loss of $58.1 million, or 9% of revenues, in fiscal 2024.
+
+Net Loss: GAAP net loss was $255.5 million, compared to GAAP net loss of $257.0 million in fiscal 2024. GAAP net loss per share was $1.11, compared to GAAP net loss per share of $1.17 in fiscal 2024. Non-GAAP net loss was $29.6 million, compared to non-GAAP net loss of $45.1 million in fiscal 2024. Non-GAAP net loss per share was $0.13, compared to non-GAAP net loss per share of $0.20 in fiscal 2024.
+
+Cash Flow: Cash flows from operating activities were $14.9 million, compared to negative $17.9 million in fiscal 2024. Free cash flow was $2.6 million, compared to negative $31.1 million in fiscal 2024. 
+
+Business Highlights
+
+The number of Core customers, or customers spending $5,000 or more on an annualized basis, grew to 24,062 in Q4, an increase of 11% year over year. Revenues from Core customers in Q4 grew 11% year over year. 
+
+The number of customers spending $100,000 or more on an annualized basis in Q4 grew to 726, an increase of 20% year over year. 
+
+Overall dollar-based net retention rate in Q4 was 96%.
+
+Dollar-based net retention rate for Core customers in Q4 was 97%.
+
+Dollar-based net retention rate for customers spending $100,000 or more on an annualized basis in Q4 was 96%.
+
+Announced Asana AIs integration with AWS Q Business in the main product keynote at AWS re:Invent 2024 - the integration transforms how employees work allowing them to find information in other third party applications without having to leave Asana.
+
+Recognized as a Leader in the 2024 Gartner Magic Quadrant for Collaborative Work Management (CWM).
+
+Recognized as a Leader in the IDC MarketScape for Team Collaboration Applications
+
+Hosted Asanas Work Innovation Summit event in London and Frankfurt diving into how Asana is shaping the new era of work with partners, customers, thought leaders, and more.
+
+Received six top industry awards in G2s annual Best Software Awards - including #3 for Best Software Products and #2 for Best Project Management Software Products based on customer satisfaction scores and market presence data.
+
+Hosted the first in a series of AI Studio Sessions - immersive in-person training workshops where customers get hands-on experience building Smart workflows in AI Studio.
+
+Announced Strategic Partnership with Datacom to Enhance Enterprise Solutions for ANZ Customers.
+
+Financial Outlook
+
+For the first quarter of fiscal 2026, Asana expects:
+
+Revenues of $184.5 million to $186.5 million, representing year over year growth of 7% to 8%.
+
+Non-GAAP operating profit of $2.0 million to $3.0 million, with 1% to 2% operating margin.
+
+2
+
+Exhibit 99.1
+
+Non-GAAP net income per share of $0.02, assuming diluted weighted average shares outstanding of approximately 245 million.
+
+For fiscal 2026, Asana expects:
+
+Revenues of $782.0 million to $790.0 million, representing year over year growth of 8% to 9%.
+
+Non-GAAP operating margin of at least 5%. 
+
+Non-GAAP net income per share of $0.19 to $0.20, assuming diluted weighted average shares outstanding of approximately 247 million.
+
+These statements are forward-looking and actual results may materially differ. Refer to the Forward-Looking Statements section below for information on the factors that could cause Asanas actual results to materially differ from these forward-looking statements.
+
+A reconciliation of non-GAAP outlook measures to corresponding GAAP measures is not available on a forward-looking basis without unreasonable effort due to the uncertainty regarding, and the potential variability of, many of these costs and expenses that may be incurred in the future. Asana has provided a reconciliation of GAAP to non-GAAP financial measures in the financial statement tables for its fourth quarter and fiscal year 2025 non-GAAP results included in this press release.
+
+Earnings Conference Call Information
+
+Asana will hold a conference call and live webcast today to discuss these results at 1:30 p.m. Pacific Time. A live webcast and replay will be available on the Asana Investor Relations webpage at: https://investors.asana.com.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that are based on managements beliefs and assumptions and on information currently available to management. Forward-looking statements include, but are not limited to, statements about our market opportunity, the potential and impact of AI, the expected benefits of AI Studio, including our expectations regarding revenue to be generated by AI Studio, our ability to execute on our current strategies, our technology and brand position, expectations regarding product launches, Asanas outlook for the fiscal quarter ending April 30, 2025 and the full fiscal year ending January 31, 2026, Asanas outlook for the expected benefits of our offerings, and our market position. Forward-looking statements generally relate to future events or Asanas future financial or operating performance. Forward-looking statements include all statements that are not historical facts and in some cases can be identified by terms such as anticipate, expect, intend, plan, believe, continue, could, potential, may, will, goal, or similar expressions and the negatives of those terms. However, not all forward-looking statements contain these identifying words. Forward-looking statements involve known and unknown risks, uncertainties and other factors, including factors beyond Asanas control, that may cause Asanas actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. These risks include, but are not limited to, risks and uncertainties related to: Asanas ability to achieve future growth and sustain its growth rate, Asanas ability to attract and retain customers and increase sales to its customers, Asanas ability to develop and release new products and services and to scale its platform, including the successful integration of AI, Asanas ability to increase adoption of its platform through Asanas self-service model, Asanas ability to maintain and grow its relationships with strategic partners, the highly competitive and rapidly evolving market in which Asana 
+
+3
+
+Exhibit 99.1
+
+participates, Asanas international expansion strategies, and broader macroeconomic conditions. Further information on risks that could cause actual results to differ materially from forecasted results are included in Asanas filings with the SEC, including Asanas Annual Report on Form 10-K for the year ended January 31, 2024 and subsequent filings with the SEC. Any forward-looking statements contained in this press release are based on assumptions that Asana believes to be reasonable as of this date. Except as required by law, Asana assumes no obligation to update these forward-looking statements, or to update the reasons if actual results differ materially from those anticipated in the forward-looking statements.
+
+Use of Non-GAAP Financial Measures
+
+To supplement Asanas consolidated financial statements, which are prepared and presented in accordance with GAAP, Asana utilizes certain non-GAAP financial measures to assist in understanding and evaluating its core operating performance. In this release, Asanas non-GAAP gross profit, gross margin, operating expenses, operating expenses as a percentage of revenue, operating loss, operating margin, net loss, net loss per share, free cash flow, adjusted free cash flow, and revenues adjusted for the impact of foreign currency are not presented in accordance with GAAP and are not intended to be used in lieu of GAAP presentations of results of operations. These non-GAAP financial measures, which may be different from similarly titled measures used by other companies, are presented to enhance investors overall understanding of Asanas financial performance and should not be considered a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP. Investors are encouraged to review the reconciliation of these non-GAAP measures to their most directly comparable GAAP financial measures which can be found in the accompanying financial statements included with this press release.
+
+Asana is presenting these non-GAAP financial measures because it believes that these non-GAAP financial measures provide useful information about its financial performance, enhance the overall understanding of Asanas past performance and future prospects, facilitate period-to-period comparisons of operations against other companies in Asanas industry, and allow for greater transparency with respect to important metrics used by Asanas management for financial and operational decision-making. 
+
+Asana believes the following adjustments and exclusions from its non-GAAP financial measures are useful to investors and others in assessing Asanas operating performance due to the following factors:
+
+Stock-based compensation expenses. Although stock-based compensation is an important aspect of the compensation of our employees and executives, management believes it is useful to exclude stock-based compensation expenses to better understand the long-term performance of Asanas core business and to facilitate comparison of its results to those of peer companies. 
+
+Employer payroll tax associated with RSUs. The amount of employer payroll tax-related items on employee stock transactions is dependent on Asanas stock price and other factors that are beyond its control and that do not correlate to the operation of the business. 
+
+Non-cash expenses. Non-cash expenses include charges for impairment of long-lived assets. We believe the exclusion of certain non-cash items provides useful supplemental information to investors and facilitates the analysis of its operating results and comparison of operating results across reporting periods.
+
+4
+
+Exhibit 99.1
+
+Restructuring related costs (benefits). These charges are associated with the re-alignment of our organization to meet business needs, top strategic priorities, and key growth opportunities. We believe it is useful to exclude these expenses in order to better understand the long-term performance of our core business, to facilitate comparison of our results to those of peer companies, and to facilitate comparison over multiple periods. 
+
+Revenues adjusted for the impact of foreign currency. Calculated by applying the comparative prior period average exchange rates to revenue recognized on invoices billed in currencies other than United States dollars in the current period. Asana provides revenues adjusted for the impact of foreign exchange rates as a framework for assessing how our underlying business performed from period to period, excluding the effects of foreign currency fluctuations. The growth rates for revenues adjusted for the impact of foreign currency are calculated by comparing the revenues adjusted for the impact of foreign currency in the current period to the GAAP revenue from the comparable prior period.
+
+There are a number of limitations related to the use of non-GAAP financial measures as compared to GAAP financial measures, including that the non-GAAP financial measures exclude stock-based compensation expense, which has been, and will continue to be for the foreseeable future, a significant recurring expense in Asanas business and an important part of its compensation strategy. 
+
+In addition to the non-GAAP financial measures outlined above, Asana also uses the non-GAAP financial measures of free cash flow, which is defined as net cash from operating activities less cash used for purchases of property and equipment and capitalized internal-use software costs, and adjusted free cash flow, which is defined as free cash flow plus costs paid related to restructuring. Asana believes free cash flow and adjusted free cash flow are important liquidity measures of the cash that is available, after capital expenditures and operational expenses, for investment in its business and to make acquisitions. Asana believes that free cash flow and adjusted free cash flow are useful to investors as liquidity measures because they measure Asanas ability to generate or use cash. There are a number of limitations related to the use of free cash flow and adjusted free cash flow as compared to net cash from operating activities, including that free cash flow and adjusted free cash flow exclude capital expenditures, the benefits of which are realized in periods subsequent to those when expenditures are made. 
+
+Definitions of Business Metrics
+
+Customers spending $5,000 or more on an annualized basis, or Core customers
+
+We define customers spending $5,000 or more, which we also refer to as Core customers, as those organizations on a paid subscription plan that had $5,000 or more in annualized GAAP revenues in a given quarter, inclusive of discounts.
+
+Customers spending $100,000 or more on an annualized basis
+
+We define customers spending $100,000 or more as those organizations on a paid subscription plan that had $100,000 or more in annualized GAAP revenues in a given quarter, inclusive of discounts.
+
+Dollar-based net retention rate
+
+Asanas reported dollar-based net retention rate equals the simple arithmetic average of its quarterly dollar-based net retention rate for the four quarters ending with the most recent fiscal quarter. Asana calculates its dollar-based net retention rate by comparing its revenues 
+
+5
+
+Exhibit 99.1
+
+from the same set of customers in a given quarter, relative to the comparable prior-year period. To calculate Asanas dollar-based net retention rate for a given quarter, Asana starts with the revenues in that quarter from customers that generated revenues in the same quarter of the prior year. Asana then divides that amount by the revenues attributable to that same group of customers in the prior-year quarter. Current period revenues include any upsells and are net of contraction or attrition over the trailing 12 months, but exclude revenues from new customers in the current period. Asana expects its dollar-based net retention rate to fluctuate in future periods due to a number of factors, including the expected growth of its revenue base, the level of penetration within its customer base, its ability to retain its customers, and the macroeconomic environment.
+
+About Asana
+
+Asana, a leading enterprise work management platform, is where work connects to goals. Over 169,000 customers like Amazon, Accenture, Morningstar, Anthropic and Suzuki rely on Asana to manage and automate everything from goal setting and tracking to capacity planning to product launches. To learn more, visit www.asana.com.
+
+Disclosure of Material Information
+
+Asana announces material information to its investors using SEC filings, press releases, public conference calls, and on its investor relations page of Asanas website at https://investors.asana.com. Asana uses these channels, as well as social media, including its X (formerly Twitter) account (@asana), its blog (blog.asana.com), its LinkedIn page (www.linkedin.com/company/asana), its Instagram account (@asana), its Facebook page (www.facebook.com/asana/), Threads profiles (@asana and @moskov) and TikTok account (@asana), to communicate with investors and the public about Asana, its products and services and other matters. Therefore, Asana encourages investors, the media and others interested in Asana to review the information it makes public in these locations, as such information could be deemed to be material information. 
+
+Eva Leung
+
+Asana Investor Relations
+
+ir@asana.com
+
+Frances Ward
+
+Asana Communications
+
+press@asana.com
+
+6
+
+Exhibit 99.1
+
+ASANA, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(in thousands, except per share data)
+
+(unaudited)
+
+Three Months Ended January 31, Twelve Months Ended January 31,
+
+2025 2024 2025 2024
+
+Revenues $ 188,334 $ 171,135 $ 723,876 $ 652,504 
+
+Cost of revenues(1) 19,604 17,392 77,193 64,524 
+
+Gross profit 168,730 153,743 646,683 587,980 
+
+Operating expenses: 
+
+Research and development(1) 84,239 82,973 341,467 324,688 
+
+Sales and marketing(1) 102,261 103,921 419,950 391,955 
+
+General and administrative(1) 45,819 34,797 152,001 141,334 
+
+Total operating expenses 232,319 221,691 913,418 857,977 
+
+Loss from operations (63,589) (67,948) (266,735) (269,997) 
+
+Interest income and other income (expense), net 3,578 7,314 19,647 20,624 
+
+Interest expense (852) (1,005) (3,683) (3,952) 
+
+Loss before provision for income taxes (60,863) (61,639) (250,771) (253,325) 
+
+Provision for income taxes 1,436 759 4,765 3,705 
+
+Net loss $ (62,299) $ (62,398) $ (255,536) $ (257,030) 
+
+Net loss per share: 
+
+Basic and diluted $ (0.27) $ (0.28) $ (1.11) $ (1.17) 
+
+Weighted-average shares used in calculating net loss per share: 
+
+Basic and diluted 231,380 224,300 229,472 220,406 
+
+_______________
+
+(1)Amounts include stock-based compensation expense as follows: 
+
+Three Months Ended January 31, Twelve Months Ended January 31,
+
+2025 2024 2025 2024
+
+Cost of revenues $ 357 $ 372 $ 1,387 $ 1,549 
+
+Research and development 27,081 28,691 115,953 112,619 
+
+Sales and marketing 15,986 15,779 64,320 59,217 
+
+General and administrative 7,145 7,007 29,611 29,033 
+
+Total stock-based compensation expense(1) $ 50,569 $ 51,849 $ 211,271 $ 202,418 
+
+__________________
+
+(1)The table above includes $0.8 million of stock-based compensation expense for the three and twelve months ended January 31, 2025 that was incurred as a result of the restructuring approved in the fourth quarter of fiscal 2025.
+
+7
+
+ASANA, INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(in thousands)
+
+(unaudited)
+
+January 31, 2025 January 31, 2024
+
+Assets 
+
+Current assets 
+
+Cash and cash equivalents $ 184,728 $ 236,663 
+
+Marketable securities 282,156 282,801 
+
+Restricted cash 136 
+
+Accounts receivable, net 87,567 88,327 
+
+Prepaid expenses and other current assets 46,154 51,925 
+
+Total current assets 600,741 659,716 
+
+Property and equipment, net 95,836 96,543 
+
+Operating lease right-of-use assets 166,545 181,731 
+
+Other assets 28,293 23,970 
+
+Total assets $ 891,415 $ 961,960 
+
+Liabilities and Stockholders Equity 
+
+Current liabilities 
+
+Accounts payable $ 9,922 $ 6,907 
+
+Accrued expenses and other current liabilities 83,031 75,821 
+
+Deferred revenue, current 300,798 265,306 
+
+Operating lease liabilities, current 22,066 19,179 
+
+Total current liabilities 415,817 367,213 
+
+Term loan, net 39,291 43,618 
+
+Deferred revenue, noncurrent 2,005 5,916 
+
+Operating lease liabilities, noncurrent 201,733 215,084 
+
+Other liabilities 5,046 3,733 
+
+Total liabilities 663,892 635,564 
+
+Stockholders' equity 
+
+Common stock 2 2 
+
+Additional paid-in capital 2,059,848 1,821,216 
+
+Accumulated other comprehensive loss (3,851) (236) 
+
+Accumulated deficit (1,828,476) (1,494,586) 
+
+Total stockholders equity 227,523 326,396 
+
+Total liabilities and stockholders equity $ 891,415 $ 961,960 
+
+8
+
+ASANA, INC. 
+
+SUMMARY OF CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+(in thousands) 
+
+(unaudited) 
+
+Three Months Ended January 31, Twelve Months Ended January 31,
+
+2025 2024 2025 2024
+
+Cash flows from operating activities 
+
+Net loss $ (62,299) $ (62,398) $ (255,536) $ (257,030) 
+
+Adjustments to reconcile net loss to net cash provided by (used in) operating activities: 
+
+Allowance for expected credit losses 2,165 1,068 3,190 3,140 
+
+Depreciation and amortization 4,813 3,937 17,543 14,344 
+
+Amortization of deferred contract acquisition costs 6,718 6,001 25,907 21,972 
+
+Stock-based compensation expense 50,569 51,849 211,271 202,418 
+
+Net accretion of discount on marketable securities (864) (1,823) (5,510) (3,391) 
+
+Non-cash lease expense 4,439 4,092 17,967 18,090 
+
+Impairment of long-lived assets 6,785 6,785 5,009 
+
+Amortization of discount on revolving credit facility and term loan issuance costs 31 31 122 122 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable (25,271) (21,778) (4,661) (9,527) 
+
+Prepaid expenses and other current assets (4,575) (11,830) (20,427) (25,594) 
+
+Other assets 194 (1,210) (4,400) (468) 
+
+Accounts payable (167) (4,181) 4,443 (569) 
+
+Accrued expenses and other liabilities 18,012 11,679 6,604 (5,206) 
+
+Deferred revenue 20,661 15,780 31,581 37,623 
+
+Operating lease liabilities (5,356) (6,554) (19,954) (18,864) 
+
+Net cash provided by (used in) operating activities 15,855 (15,337) 14,925 (17,931) 
+
+Cash flows from investing activities 
+
+Purchases of marketable securities (67,820) (34,821) (234,448) (319,133) 
+
+Sales of marketable securities 6 18 
+
+Maturities of marketable securities 44,996 17,500 240,601 43,141 
+
+Purchases of property and equipment (1,505) (500) (5,569) (7,721) 
+
+Capitalized internal-use software costs (2,011) (1,115) (6,713) (5,440) 
+
+Net cash used in investing activities (26,340) (18,930) (6,129) (289,135) 
+
+Cash flows from financing activities 
+
+Repayment of term loan (625) (625) (2,500) (3,125) 
+
+Repurchases of common stock (4,485) (78,354) 
+
+Proceeds from exercise of stock options 5,217 987 9,101 4,843 
+
+Proceeds from employee stock purchase plan 13,665 15,069 
+
+Taxes paid related to net share settlement of equity awards (3) (5) (10) 
+
+Net cash provided by (used in) financing activities 107 359 (58,093) 16,777 
+
+Effect of foreign exchange rates on cash, cash equivalents, and restricted cash (1,846) 2,257 (2,502) 389 
+
+Net decrease in cash, cash equivalents, and restricted cash (12,224) (31,651) (51,799) (289,900) 
+
+Cash, cash equivalents, and restricted cash 
+
+Beginning of period 197,088 268,314 236,663 526,563 
+
+End of period $ 184,864 $ 236,663 $ 184,864 $ 236,663 
+
+9
+
+ASANA, INC.
+
+Reconciliation of GAAP to Non-GAAP Data
+
+(in thousands, except percentages)
+
+(unaudited)
+
+Three Months Ended January 31, Twelve Months Ended January 31,
+
+2025 2024 2025 2024
+
+Reconciliation of gross profit and gross margin 
+
+GAAP gross profit $ 168,730 $ 153,743 $ 646,683 $ 587,980 
+
+Plus: stock-based compensation and related employer payroll tax associated with RSUs 363 376 1,415 1,585 
+
+Non-GAAP gross profit $ 169,093 $ 154,119 $ 648,098 $ 589,565 
+
+GAAP gross margin 89.6 % 89.8 % 89.3 % 90.1 %
+
+Non-GAAP adjustments 0.2 % 0.3 % 0.2 % 0.3 %
+
+Non-GAAP gross margin 89.8 % 90.1 % 89.5 % 90.4 %
+
+Reconciliation of operating expenses 
+
+GAAP research and development $ 84,239 $ 82,973 $ 341,467 $ 324,688 
+
+Less: stock-based compensation and related employer payroll tax associated with RSUs (27,019) (28,981) (117,916) (115,397) 
+
+Adjustment for: restructuring (costs) benefit (2,492) (2,492) 
+
+Non-GAAP research and development $ 54,728 $ 53,992 $ 221,059 $ 209,291 
+
+GAAP research and development as percentage of revenue 44.7 % 48.5 % 47.2 % 49.8 %
+
+Non-GAAP research and development as percentage of revenue 29.1 % 31.5 % 30.5 % 32.1 %
+
+GAAP sales and marketing $ 102,261 $ 103,921 $ 419,950 $ 391,955 
+
+Less: stock-based compensation and related employer payroll tax associated with RSUs (16,035) (15,891) (65,269) (60,329) 
+
+Adjustment for: restructuring (costs) benefit (1,241) (1,241) 173 
+
+Non-GAAP sales and marketing $ 84,985 $ 88,030 $ 353,440 $ 331,799 
+
+GAAP sales and marketing as percentage of revenue 54.3 % 60.7 % 58.0 % 60.1 %
+
+Non-GAAP sales and marketing as percentage of revenue 45.1 % 51.4 % 48.8 % 50.9 %
+
+GAAP general and administrative $ 45,819 $ 34,797 $ 152,001 $ 141,334 
+
+Less: stock-based compensation and related employer payroll tax associated with RSUs (7,185) (7,089) (30,089) (29,725) 
+
+Less: impairment of long-lived assets (6,785) (6,785) (5,009) 
+
+Adjustment for: restructuring (costs) benefit (741) (741) (26) 
+
+Non-GAAP general and administrative $ 31,108 $ 27,708 $ 114,386 $ 106,574 
+
+GAAP general and administrative as percentage of revenue 24.3 % 20.3 % 21.0 % 21.7 %
+
+Non-GAAP general and administrative as percentage of 
+
+revenue 16.5 % 16.2 % 15.8 % 16.3 %
+
+Reconciliation of operating loss and operating margin 
+
+GAAP loss from operations $ (63,589) $ (67,948) $ (266,735) $ (269,997) 
+
+Plus: stock-based compensation and related employer payroll tax associated with RSUs 50,602 52,337 214,689 207,036 
+
+Plus: impairment of long-lived assets 6,785 6,785 5,009 
+
+Adjustment for: restructuring costs (benefit)(1) 4,474 4,474 (147) 
+
+Non-GAAP loss from operations $ (1,728) $ (15,611) $ (40,787) $ (58,099) 
+
+GAAP operating margin (33.8) % (39.7) % (36.8) % (41.4) %
+
+Non-GAAP adjustments 32.9 % 30.6 % 31.2 % 32.5 %
+
+Non-GAAP operating margin (0.9) % (9.1) % (5.6) % (8.9) %
+
+10
+
+ASANA, INC.
+
+Reconciliation of GAAP to Non-GAAP Data
+
+(in thousands, except percentages and per share data)
+
+(unaudited)
+
+Three Months Ended January 31, Twelve Months Ended January 31,
+
+2025 2024 2025 2024
+
+Reconciliation of net loss 
+
+GAAP net loss $ (62,299) $ (62,398) $ (255,536) $ (257,030) 
+
+Plus: stock-based compensation and related employer payroll tax associated with RSUs 50,602 52,337 214,689 207,036 
+
+Plus: impairment of long-lived assets 6,785 6,785 5,009 
+
+Adjustment for: restructuring costs (benefit)(1) 4,474 4,474 (147) 
+
+Non-GAAP net loss $ (438) $ (10,061) $ (29,588) $ (45,132) 
+
+Reconciliation of net loss per share 
+
+GAAP net loss per share, basic $ (0.27) $ (0.28) $ (1.11) $ (1.17) 
+
+Non-GAAP adjustments to net loss 0.27 0.24 0.98 0.97 
+
+Non-GAAP net loss per share, basic $ $ (0.04) $ (0.13) $ (0.20) 
+
+Weighted-average shares used in GAAP and non-GAAP per share calculation, basic and diluted 231,380 224,300 229,472 220,406 
+
+_______________
+
+(1)Restructuring costs for the three and twelve months ended January 31, 2025 were composed of severance and related charges of $3.7 million and stock-based compensation expense of $0.8 million. These charges are related to the restructuring plan approved in the fourth quarter of fiscal 2025.
+
+Three Months Ended January 31, Twelve Months Ended January 31,
+
+2025 2024 2025 2024
+
+Computation of free cash flow and adjusted free cash flow 
+
+Net cash used in investing activities $ (26,340) $ (18,930) $ (6,129) $ (289,135) 
+
+Net cash provided by (used in) financing activities $ 107 $ 359 $ (58,093) $ 16,777 
+
+Net cash provided by (used in) operating activities $ 15,855 $ (15,337) $ 14,925 $ (17,931) 
+
+Less: purchases of property and equipment (1,505) (500) (5,569) (7,721) 
+
+Less: capitalized internal-use software costs (2,011) (1,115) (6,713) (5,440) 
+
+Free cash flow $ 12,339 $ (16,952) $ 2,643 $ (31,092) 
+
+Plus: restructuring costs paid 707 
+
+Adjusted free cash flow $ 12,339 $ (16,952) $ 2,643 $ (30,385) 
+
+Three Months Ended January 31, Twelve Months Ended January 31,
+
+2025 2024 2025 2024
+
+Computation of revenue adjusted for impact of foreign currency 
+
+GAAP revenue $ 188,334 $ 171,135 $ 723,876 $ 652,504 
+
+Adjustment for: impact of foreign currency 735 (344) 624 (669) 
+
+Revenue adjusted for impact of foreign currency $ 189,069 $ 170,791 $ 724,500 $ 651,835 
+
+11
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>asan-20250310.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>asan-20250310_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Security Exchange Name 
+Security Exchange Name 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Document Period End Date 
+Document Period End Date 
+
+Cover [Abstract] 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Soliciting Material 
+Soliciting Material 
+
+City Area Code 
+City Area Code 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Document Type 
+Document Type 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+Entity Address, Address Line Two 
+
+Entity Registrant Name 
+Entity Registrant Name
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>asan-20250310_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Mar. 10, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Mar. 10, 2025
+
+Entity Registrant Name Asana, Inc.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-39495
+
+Entity Tax Identification Number 26-3912448
+
+Entity Address, Address Line One 633 Folsom Street,
+
+Entity Address, Address Line Two Suite 100
+
+Entity Address, City or Town San Francisco,
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 94107
+
+City Area Code (415)
+
+Local Phone Number 525-3888
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Class A Common Stock, $0.00001 par value
+
+Trading Symbol ASAN
+
+Security Exchange Name NYSE
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0001477720
+
+Amendment Flag false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+23 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://asana.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+asan-20250310.htm 
+asan-20250310.xsd 
+asan-20250310_lab.xml 
+asan-20250310_pre.xml 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>14
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>15
+<FILENAME>0001477720-25-000033-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>asan-20250310_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001477720 
+
+2025-03-10 
+2025-03-10 
+
+0001477720 
+false 
+8-K 
+2025-03-10 
+2025-03-10 
+Asana, Inc. 
+DE 
+001-39495 
+26-3912448 
+633 Folsom Street, 
+Suite 100 
+San Francisco, 
+CA 
+94107 
+(415) 
+525-3888 
+false 
+false 
+false 
+false 
+Class A Common Stock, $0.00001 par value 
+ASAN 
+NYSE 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

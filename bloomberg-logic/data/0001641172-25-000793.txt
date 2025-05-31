@@ -1,0 +1,1647 @@
+<SEC-DOCUMENT>0001641172-25-000793.txt : 20250326
+<SEC-HEADER>0001641172-25-000793.hdr.sgml : 20250326
+<ACCEPTANCE-DATETIME>20250326171908
+ACCESSION NUMBER:		0001641172-25-000793
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250326
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250326
+DATE AS OF CHANGE:		20250326
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Snail, Inc.
+		CENTRAL INDEX KEY:			0001886894
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				271157839
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41556
+		FILM NUMBER:		25774319
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12049 JEFFERSON BOULEVARD
+		CITY:			CULVER CITY
+		STATE:			CA
+		ZIP:			90230
+		BUSINESS PHONE:		1 (310) 928-7428
+
+	MAIL ADDRESS:	
+		STREET 1:		12049 JEFFERSON BOULEVARD
+		CITY:			CULVER CITY
+		STATE:			CA
+		ZIP:			90230
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Snail Games USA, Inc.
+		DATE OF NAME CHANGE:	20211006
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8-k.htm
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+false000188689400018868942025-03-262025-03-26iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+March 26, 2025
+
+Snail,
+Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-41556 88-4146991
+
+(State or other jurisdiction
+
+of incorporation) 
+
+(Commission
+
+File Number) 
+
+(IRS Employer
+
+Identification Number)
+
+12049 Jefferson Blvd
+
+Culver City, CA90230
+
+(Address of principal executive offices) (Zip Code)
+
++1 (310)988-0643
+
+(Registrants telephone number, including area
+code)
+
+Check the appropriate box below if the Form 8-K filing
+is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of
+the Act:
+
+Title of each class 
+
+Trading Symbol(s) 
+
+Name of each exchange on which
+registered
+
+Class A Common Stock, $0.0001 par value per share SNAL The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an
+emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark
+if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02.
+Results of Operations and Financial Condition.
+
+On March
+26, 2025, Snail, Inc. (Snail) issued a press release announcing its financial results for the fiscal year ended December
+31, 2024. A copy of the press release is attached hereto as Exhibit 99.1.
+
+Neither the
+information in this Current Report on Form 8-K nor the information in the press release attached hereto as Exhibit 99.1 shall be deemed
+filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or
+incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly
+set forth by specific reference in such a filing.
+
+Item 9.01. Financial Statements
+and Exhibits.
+
+(d) Exhibits.
+
+Exhibit No. Description
+
+99.1 Press Release, dated March 26, 2025, issued by Snail, Inc. regarding its financial results for the fiscal year ended December 31, 2024
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange
+Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+SNAIL, INC.
+
+Date: March 26, 2025 By: /s/ Xuedong Tian
+
+Name: Xuedong Tian
+
+Title: Co-Chief Executive Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ex99-1.htm
+<TEXT>
+Exhibit
+99.1
+
+Snail,
+Inc. Reports Fourth Quarter & Full Year 2024 Financial Results
+
+Culver
+City, CA March 26, 2025 Snail, Inc. (NASDAQ: SNAL) (Snail or the Company), a
+leading, global independent developer and publisher of interactive digital entertainment, today announced financial results for
+its fourth quarter and full year ended December 31, 2024.
+
+Fourth
+Quarter & Full Year 2024 Highlights
+
+ARK:
+Survival Ascended. On October 25, 2023, the Company launched its flagship remake
+of the ARK franchise leveraging Unreal Engine 5s stunning graphics and introduced
+a game-altering cross-platform modding system, ushering in a new era of creativity.
+
+ARK:
+Survival Ascended was ranked the top #1 selling game on Steam on launch day.
+
+Since
+its launch, ARK: Survival Ascended sold 3.4 million units and has an average of 94,000
+daily active users (DAUs) with a peak of 308,000 DAUs.
+
+ARK:
+Survival Evolved. In the three months and year ended December 31, 2024, ARK: Survival
+Evolved averaged a total of 136,000 DAUs and 135,000 DAUs, respectively.
+
+ARK:
+Survival Evolved units sold were approximately 621,000 for the fourth quarter 2024 as
+compared to 745,000 units during the same period in 2023.
+
+Units
+sold for the year ended December 31, 2024 were approximately 2.3 million, as compared to
+4.4 million units during the year ended December 31, 2023.
+
+Product
+and Business Updates:
+
+Game
+portfolio expansion: In December 2024, we released the highly anticipated next-gen ARK
+mobile game, ARK Ultimate Mobile Edition on iOS and Android platforms. In the
+launch month, over 2 million users downloaded the mobile game across the two mobile platforms.
+In an effort to further broaden our game portfolio, we acquired eleven games through our
+gaming network and partners in 2024. We expect to release nine acquired games in 2025. A
+few notable titles include Honeycomb: The World Beyond A sci-fi survival adventure
+where players assume the role of a bioengineer navigating the mysterious planet Sota7, Echoes
+of Elysium an airship survival RPG set in a breathtaking procedural world of
+mystery and discovery, and Robots at Midnight a retro-futuristic action-RPG
+aiming to captivate players with its dynamic gameplay and immersive storytelling.
+
+New
+Product Segment: To bring more entertainment to our users, we have soft launched a short
+film mobile application on iOS and Android platforms. The short film mobile application,
+SaltyTV, brings exclusive, original stories from heart-racing thrillers to jaw-dropping romances
+to our viewers. We have released thirty-one short film dramas to date and expect a consistent
+roll out of new short film dramas throughout 2025 and beyond.
+
+Growing
+Indie Portfolio: Snail Games showcased its expanding indie catalog at Steam Scream Fest,
+featuring a variety of immersive and genre-diverse titles that enhance player engagement
+and reinforce the companys presence in the indie gaming space.
+
+Net
+revenues for the three months ended December 31, 2024 was $26.2 million as compared to $28.6 million in the three months ended December
+31, 2023. The decrease in revenues during the three months ended December 31, 2024 was due to a reduction in sales of ARK that
+was partially offset by the recognition of deferred revenues upon the release of ARK: Survival Ascended DLCs.
+
+Net
+revenues for the year ended December 31, 2024 was $84.5 million, an increase of $23.6 million, or 38.7%, compared to $60.9 million
+for the year ended December 31, 2023. The increase in net revenues was due to an increase in recognition of deferred revenues of $32.2
+million related to the ARK franchise, an increase in Bellwright sales of $5.9 million, partially offset by a decrease in
+total ARK sales of $13.0 million, a decrease in ARK Mobile sales of $1.0 million and a decrease in the Companys
+other titles of $0.7 million.
+
+Net
+income for the three months ended December 31, 2024 was $1.1 million compared to a net income of $2.4 million for the three months
+ended December 31, 2023. The decrease in net income is a result of increased research and development costs of $3.0 million to support
+our future game releases partially offset by an increase in gross profit of $1.4 million, a decrease in advertising and marketing expenses
+of $0.9 million and an increase in expenses related to the revaluation of outstanding and exercised warrants of $1.5 million.
+
+Net
+income was $1.8 million for the year ended December 31, 2024 as compared to a net loss of $9.1 million for the year ended December
+31, 2023, representing an increase of $10.9 million. The increase was primarily due to an increase in net revenue of $23.6 million, decreased
+general and administrative expenses of $2.9 million, partially offset by increased research and development costs of $6.5 million, increased
+costs of revenues of $5.9 million, a decrease in income tax benefit of $3.0 million and an increase in expenses related to the revaluation
+of outstanding and exercised warrants of $1.2 million..
+
+Bookings
+for the three months ended December 31, 2024 was $17.0 million as compared to $52.6 million for the three months ended December 31,
+2023. The decrease was due to the strong release of ARK: Survival Ascended on the Steam, PlayStation and Xbox platforms in 2023.
+
+Bookings
+for the year ended December 31, 2024 was $75.7 million as compared to $85.7 million in the year ended December 31, 2023. The decrease
+was due to increased sales at a higher average selling price (ASP) driven by the release of ARK: Survival Ascended
+in the fourth quarter of 2023. The releases of Bobs Tall Tales and Bellwright along with the ARK: Survival Ascended
+DLCs, Scorched Earth in April 2024, Aberration in September 2024 and Extinction in December 2024 partially offset
+the decrease in unit sales in 2024 but each product release was at a lower ASP than the initial release of ARK: Survival Ascended.
+
+Earnings
+before interest, taxes, depreciation and amortization (EBITDA) for the three months ended December 31, 2024 decreased
+by $2.0 million, or 55.6%, as compared to the three months ended December 31, 2023. The decrease was primarily the result of a decrease
+in net income of $1.3 million, a decrease in interest expense and interest expense related parties of $0.4 million, and a decrease
+in provision for income taxes of $0.3 million.
+
+EBITDA
+for the year ended December 31, 2024 was $3.2 million as compared to a loss of $9.7 million in the prior year period. EBITDA increased
+by $12.9 million, or 133.4%, compared to the year ended December 31, 2023, primarily because of an increase in net income of $10.9 million
+and a decrease in the benefit from income taxes of $3.0 million, partially offset by a decrease in interest expense and interest expense
+related parties of $0.8 million.
+
+As
+of December 31, 2024, unrestricted cash was $7.3 million versus $15.2 million as of December 31, 2023.
+
+Use
+of Non-GAAP Financial Measures
+
+In
+addition to the financial results determined in accordance with U.S. generally accepted accounting principles, or GAAP, Snail believes
+Bookings and EBITDA, as non-GAAP measures, are useful in evaluating its operating performance. Bookings and EBITDA are non-GAAP financial
+measures that are presented as supplemental disclosures and should not be construed as alternatives to net income (loss) or revenue as
+indicators of operating performance, nor as alternatives to cash flow provided by operating activities as measures of liquidity, both
+as determined in accordance with GAAP. Snail supplementally presents Bookings and EBITDA because they are key operating measures used
+by management to assess financial performance. Bookings adjusts for the impact of deferrals and, Snail believes, provides a useful indicator
+of sales in a given period. EBITDA adjusts for items that Snail believes do not reflect the ongoing operating performance of its business,
+such as certain non-cash items, unusual or infrequent items or items that change from period to period without any material relevance
+to its operating performance. Management believes Bookings and EBITDA are useful to investors and analysts in highlighting trends in
+Snails operating performance, while other measures can differ significantly depending on long-term strategic decisions regarding
+capital structure, the tax jurisdictions in which Snail operates and capital investments.
+
+Bookings
+is defined as the net amount of products and services sold digitally or physically in the period. Bookings is equal to revenues, excluding
+the impact from deferrals. Below is a reconciliation of total net revenue to Bookings, the closest GAAP financial measure.
+
+Three Months Ended
+
+December 31, 
+
+Fiscal Year Ended
+
+December 31, 
+
+2024 2023 2024 2023 
+
+(in millions) 
+
+Total net revenue $ 26.2 $ 28.6 $ 84.5 $ 60.9 
+
+Change in deferred net revenue (9.2 ) 24.0 (8.8 ) 24.8 
+
+Bookings $ 17.0 $ 52.6 $ 75.7 $ 85.7 
+
+We
+define EBITDA as net income (loss) before (i) interest expense, (ii) interest income, (iii) income tax provision (benefit from) and (iv)
+depreciation expense. The following table provides a reconciliation from net income (loss) to EBITDA:
+
+Three Months Ended
+
+December 31, 
+
+Fiscal Year Ended
+
+December 31, 
+
+2024 2023 2024 2023 
+
+(in millions) 
+
+Net income (loss) $ 1.1 $ 2.4 $ 1.8 $ (9.1 )
+
+Interest income and interest income related parties (0.1 ) - (0.3 ) (0.1 )
+
+Interest expense and interest expense related parties 0.1 0.5 0.7 1.5 
+
+Provision for (benefit from) income taxes 0.3 0.6 0.6 (2.4 )
+
+Depreciation expense 0.2 0.1 0.4 0.4 
+
+EBITDA $ 1.6 $ 3.6 $ 3.2 $ (9.7 )
+
+Webcast
+Details
+
+The
+Company will host a webcast at 4:30 PM ET today to discuss the fourth quarter and full year 2024 financial results. Participants may
+access the live webcast and replay on the Companys investor relations website at https://investor.snail.com/.
+
+Forward-Looking
+Statements
+
+This
+press release contains statements that constitute forward-looking statements. Many of the forward-looking statements contained in this
+press release can be identified by the use of forward-looking words such as anticipate, believe, could,
+expect, should, plan, intend, may, predict, continue,
+estimate and potential, or the negative of these terms or other similar expressions. Forward-looking statements
+appear in a number of places in this press release and include, but are not limited to, statements regarding Snails intent, belief
+or current expectations. These forward-looking statements include information about possible or assumed future results of Snails
+business, financial condition, results of operations, liquidity, plans and objectives. The statements Snail makes regarding the following
+matters are forward-looking by their nature: growth prospects and strategies; launching new games and additional functionality to games
+that are commercially successful; expectations regarding significant drivers of future growth; its ability to retain and increase its
+player base and develop new video games and enhance existing games; competition from companies in a number of industries, including other
+casual game developers and publishers and both large and small, public and private Internet companies; its ability to attract and retain
+a qualified management team and other team members while controlling its labor costs; its relationships with third-party platforms such
+as Xbox Live and Game Pass, PlayStation Network, Steam, Epic Games Store, My Nintendo Store, the Apple App Store, the Google Play Store
+and the Amazon Appstore; the size of addressable markets, market share and market trends; its ability to successfully enter new markets
+and manage international expansion; protecting and developing its brand and intellectual property portfolio; costs associated with defending
+intellectual property infringement and other claims; future business development, results of operations and financial condition; the
+ongoing conflicts involving Russia and Ukraine, and Israel and Hamas, on its business and the global economy generally; rulings by courts
+or other governmental authorities; the Companys current program to repurchase shares of its Class A common stock, including expectations
+regarding the timing and manner of repurchases made under this share repurchase program; its plans to pursue and successfully integrate
+strategic acquisitions; and assumptions underlying any of the foregoing.
+
+Further
+information on risks, uncertainties and other factors that could affect Snails financial results are included in its filings with
+the Securities and Exchange Commission (the SEC) from time to time, including its annual reports on Form 10-K and quarterly
+reports on Form 10-Q filed, or to be filed, with the SEC. You should not rely on these forward-looking statements, as actual outcomes
+and results may differ materially from those expressed or implied in the forward-looking statements as a result of such risks and uncertainties.
+All forward-looking statements in this press release are based on managements beliefs and assumptions and on information currently
+available to Snail, and Snail does not assume any obligation to update the forward-looking statements provided to reflect events that
+occur or circumstances that exist after the date on which they were made.
+
+About
+Snail, Inc.
+
+Snail
+is a leading, global independent developer and publisher of interactive digital entertainment for consumers around the world, with a
+premier portfolio of premium games designed for use on a variety of platforms, including consoles, PCs and mobile devices.
+
+For
+additional information, please contact: investors@snail.com
+
+Snail,
+Inc. and Subsidiaries
+
+Consolidated
+Balance Sheets
+
+December 31, 2024 December 31, 2023 
+
+ASSETS 
+
+Current Assets: 
+
+Cash and cash equivalents $ 7,303,944 $ 15,198,123 
+
+Accounts receivable, net of allowances for credit losses of $523,500 as of December 31, 2024 and 2023 9,814,822 25,134,808 
+
+Accounts receivable - related party 2,336,274 - 
+
+Loan and interest receivable - related party 105,759 103,753 
+
+Prepaid expenses - related party 2,521,291 6,044,404 
+
+Prepaid expenses and other current assets 1,846,024 639,693 
+
+Prepaid taxes 7,318,424 9,529,755 
+
+Total current assets 31,246,538 56,650,536 
+
+Restricted cash and cash equivalents 935,000 1,116,196 
+
+Accounts receivable - related party, net of current portion 1,500,592 7,500,592 
+
+Prepaid expenses - related party 9,378,594 7,784,062 
+
+Property, plant and equipment, net 4,378,352 4,682,066 
+
+Intangible assets, net 973,914 271,717 
+
+Deferred income taxes 10,817,112 10,247,500 
+
+Other noncurrent assets 1,683,932 164,170 
+
+Operating lease right-of-use assets, net 1,279,330 2,440,690 
+
+Total assets $ 62,193,364 $ 90,857,529 
+
+LIABILITIES, NONCONTROLLING INTERESTS AND STOCKHOLDERS EQUITY 
+
+Current Liabilities: 
+
+Accounts payable $ 4,656,367 $ 12,102,929 
+
+Accounts payable - related parties 15,383,171 23,094,436 
+
+Accrued expenses and other liabilities 4,499,280 2,887,193 
+
+Interest payable - related parties 527,770 527,770 
+
+Revolving loan 3,000,000 6,000,000 
+
+Notes payable - 2,333,333 
+
+Convertible notes, net of discount - 797,361 
+
+Current portion of long-term promissory note 2,722,548 2,811,923 
+
+Current portion of deferred revenue 3,947,559 19,252,628 
+
+Current portion of operating lease liabilities 1,444,385 1,505,034 
+
+Total current liabilities 36,181,080 71,312,607 
+
+Accrued expenses 265,251 254,731 
+
+Deferred revenue, net of current portion 21,519,888 15,064,078 
+
+Operating lease liabilities, net of current portion 57,983 1,425,494 
+
+Total liabilities 58,024,202 88,056,910 
+
+Commitments and contingencies 
+
+Stockholders Equity: 
+
+Class A common stock, $0.0001 par value, 500,000,000 shares authorized; 9,626,070 shares issued and 8,275,795 shares outstanding as of December 31, 2024, and 9,275,420 shares issued and 7,925,145 shares outstanding as of December 31, 2023 962 927 
+
+Class B common stock, $0.0001 par value, 100,000,000 shares authorized; 28,748,580 shares issued and outstanding as of December 31, 2024 and December 31, 2023. 2,875 2,875 
+
+Additional paid-in capital 25,738,082 26,171,575 
+
+Accumulated other comprehensive loss (279,457 ) (254,383 )
+
+Accumulated deficit (12,117,385 ) (13,949,325 )
+
+Treasury stock at cost (1,350,275 as of December 31, 2024 and 2023) (3,671,806 ) (3,671,806 )
+
+Total Snail, Inc. equity 9,673,271 8,299,863 
+
+Noncontrolling interests (5,504,109 ) (5,499,244 )
+
+Total stockholders equity 4,169,162 2,800,619 
+
+Total liabilities, noncontrolling interests and stockholders equity $ 62,193,364 $ 90,857,529 
+
+Snail,
+Inc. and Subsidiaries
+
+Consolidated
+Statements of Operations and Comprehensive Income (Loss)
+
+Three months ended
+
+December 31, 
+
+Years Ended
+
+December 31, 
+
+2024 2023 2024 2023 
+
+Revenues, net $ 26,214,296 $ 28,570,222 $ 84,467,047 $ 60,902,098 
+
+Cost of revenues 14,866,526 18,646,615 54,236,342 48,306,403 
+
+Gross profit 11,347,770 9,923,607 30,230,705 12,595,695 
+
+Operating expenses: 
+
+General and administrative 3,943,985 3,900,961 12,867,210 15,816,088 
+
+Research and development 4,123,964 1,165,382 11,647,293 5,057,421 
+
+Advertising and marketing 192,235 1,094,146 1,523,398 1,582,464 
+
+Depreciation 68,420 86,222 303,714 432,306 
+
+Loss on disposal of fixed assets 427 427 
+
+Total operating expenses 8,328,604 6,247,138 26,341,615 22,888,706 
+
+Income (loss) from operations 3,019,166 3,676,469 3,889,090 (10,293,011 )
+
+Other income (expense): 
+
+Interest income 35,451 31,443 260,679 129,854 
+
+Interest income - related parties 504 504 2,005 2,000 
+
+Interest expense (88,776 ) (570,523 ) (723,038 ) (1,531,719 )
+
+Other income (expense) (1,527,706 ) (55,351 ) (981,223 ) 265,980 
+
+Foreign currency transaction loss 43,741 (42,574 ) 11,686 (68,180 )
+
+Total other income (expense), net (1,536,786 ) (636,501 ) (1,429,891 ) (1,202,065 )
+
+Income (loss) before benefit from income taxes 1,482,380 3,039,968 2,459,199 (11,495,076 )
+
+Provision for (benefit from) income taxes 362,623 643,728 632,124 (2,400,652 )
+
+Net income (loss) 1,119,757 2,396,240 1,827,075 (9,094,424 )
+
+Net loss attributable to non-controlling interests (215 ) (1,128 ) (4,865 ) (8,349 )
+
+Net income (loss) attributable to Snail, Inc. $ 1,119,972 $ 2,397,368 $ 1,831,940 $ (9,086,075 )
+
+Comprehensive income (loss) statement: 
+
+Net income (loss) $ 1,119,757 $ 2,396,240 $ 1,827,075 $ (9,094,424 )
+
+Other comprehensive income (loss) related to currency translation adjustments, net of tax (48,600 ) 33,302 (25,074 ) 52,817 
+
+Total comprehensive income (loss) $ 1,071,157 $ 2,429,542 $ 1,802,001 $ (9,041,607 )
+
+Net income (loss) attributable to Class A common stockholders: 
+
+Basic $ 248,176 $ 516,955 $ 400,576 $ (1,960,813 )
+
+Diluted $ 248,176 $ 516,955 $ 400,576 $ (1,960,813 )
+
+Net income (loss) attributable to Class B common stockholders: 
+
+Basic $ 871,796 $ 1,880,413 $ 1,431,364 $ (7,125,262 )
+
+Diluted $ 871,796 $ 1,880,413 $ 1,431,364 $ (7,125,262 )
+
+Net income (loss) per share attributable to Class A and B common stockholders: 
+
+Basic $ 0.03 $ 0.07 $ 0.05 $ (0.25 )
+
+Diluted $ 0.03 $ 0.07 $ 0.05 $ (0.25 )
+
+Weighted-average shares used to compute income (loss) per share attributable to Class A common stockholders: 
+
+Basic 8,183,918 7,914,564 8,045,469 7,909,715 
+
+Diluted 8,183,918 7,914,564 8,045,469 7,909,715 
+
+Weighted-average shares used to compute income (loss) per share attributable to Class B common stockholders: 
+
+Basic 28,748,580 28,748,580 28,748,580 28,748,580 
+
+Diluted 28,748,580 28,748,580 28,748,580 28,748,580 
+
+Snail,
+Inc. and Subsidiaries
+
+Consolidated
+Statements of Cash Flows
+
+For the years ended December 31, 2024 2023 
+
+Cash flows from operating activities: 
+
+Net income (loss) $ 1,827,075 $ (9,094,424 )
+
+Adjustments to reconcile net loss to net cash provided by (used in) operating activities: 
+
+Amortization - intangible assets, net 7,804 1,384,862 
+
+Amortization - loan origination fees and debt discounts 62,855 124,595 
+
+Accretion - convertible notes 222,628 306,664 
+
+Loss on change in fair value of warrant liabilities 1,332,815 32,883 
+
+Depreciation - property and equipment 303,714 432,306 
+
+Stock-based compensation expense (890,208 ) 848,035 
+
+Loss (gain) on disposal of fixed assets - 427 
+
+Credit losses - 581,498 
+
+Deferred taxes, net (569,601 ) (2,644,964 )
+
+Changes in assets and liabilities: 
+
+Accounts receivable 15,319,987 (18,939,465 )
+
+Accounts receivable - related party 3,663,726 3,824,775 
+
+Prepaid expenses - related party 1,928,581 (8,245,966 )
+
+Prepaid expenses and other current assets (1,206,331 ) 501,104 
+
+Prepaid taxes 2,211,331 - 
+
+Other noncurrent assets (1,523,065 ) - 
+
+Accounts payable (7,183,648 ) 2,992,856 
+
+Accounts payable - related parties (8,001,265 ) 3,176,177 
+
+Accrued expenses and other liabilities 46,542 626,764 
+
+Interest receivable - related party (2,005 ) (2,000 )
+
+Lease liabilities (266,800 ) (205,520 )
+
+Deferred revenue (8,849,259 ) 24,765,261 
+
+Net cash provided by (used in) operating activities (1,565,124 ) 465,868 
+
+Cash flows from financing activities: 
+
+Repayments on promissory note (89,374 ) (79,897 )
+
+Repayments on notes payable (2,333,333 ) (6,500,000 )
+
+Repayments on convertible notes (1,020,000 ) - 
+
+Repayments on revolving loan (3,000,000 ) (3,000,000 )
+
+Borrowings on notes payable - 3,000,000 
+
+Cash proceeds from exercise of warrants 220,000 - 
+
+Proceeds from issuance of convertible notes - 847,500 
+
+Refund of dividend withholding tax overpayment - 1,886,600 
+
+Purchase of treasury stock - (257,093 )
+
+Payments of offering costs in accounts payable (262,914 ) (342,318 )
+
+Release of restricted escrow deposit - 1,003,804 
+
+Net cash used in financing activities (6,485,621 ) (3,441,404 )
+
+Effect of currency translation on cash and cash equivalents (24,630 ) 51,670 
+
+Net increase (decrease) in cash and cash equivalents, and restricted cash and cash equivalents (8,075,375 ) (2,923,866 )
+
+Cash and cash equivalents, and restricted cash and cash equivalents - beginning of period 16,314,319 19,238,185 
+
+Cash and cash equivalents, and restricted cash and cash equivalents end of period $ 8,238,944 $ 16,314,319 
+
+Supplemental disclosures of cash flow information 
+
+Cash paid during the period for: 
+
+Interest $ 467,188 $ 934,523 
+
+Income taxes $ (1,100,302 ) $ 248,388 
+
+Noncash finance and investing activity during the period for: 
+
+Debt converted to equity $ (60,000 ) $ - 
+
+Right-of-use assets obtained in exchange for a lease liability $ (85,588 ) 
+
+Liabilities converted to equity upon exercise of warrants $ 176,750 
+
+Acquisition of software in accounts payable - related parties $ 290,000 $ - 
+
+Acquisition of license rights in accrued expenses and other liabilities $ 420,000 $ - 
+
+Issuance of warrants in connection with equity line of credit $ - $ (105,411 )
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>ex99-1_001.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>4
+<FILENAME>snal-20250326.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>snal-20250326_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Cover [Abstract] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>snal-20250326_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Cover
+
+Mar. 26, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Mar. 26, 2025
+
+Entity File Number 001-41556
+
+Entity Registrant Name Snail,
+Inc.
+
+Entity Central Index Key 0001886894
+
+Entity Tax Identification Number 88-4146991
+
+Entity Incorporation, State or Country Code DE
+
+Entity Address, Address Line One 12049 Jefferson Blvd
+
+Entity Address, City or Town Culver City
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 90230
+
+City Area Code (310)
+
+Local Phone Number 988-0643
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Class A Common Stock, $0.0001 par value per share
+
+Trading Symbol SNAL
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company true
+
+Elected Not To Use the Extended Transition Period true
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 7A
+
+-Section B
+
+-Subsection 2
+
++ Details
+
+Name: dei_EntityExTransitionPeriod
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+1 
+23 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://snail.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+form8-k.htm 
+snal-20250326.xsd 
+snal-20250326_lab.xml 
+snal-20250326_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001641172-25-000793-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>form8-k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001886894 
+
+2025-03-26 
+2025-03-26 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0001886894 
+8-K 
+2025-03-26 
+Snail, Inc. 
+DE 
+001-41556 
+88-4146991 
+12049 Jefferson Blvd 
+Culver City 
+CA 
+90230 
+(310) 
+988-0643 
+false 
+false 
+false 
+false 
+Class A Common Stock, $0.0001 par value per share 
+SNAL 
+NASDAQ 
+true 
+true
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,3535 @@
+<SEC-DOCUMENT>0001104659-25-001736.txt : 20250107
+<SEC-HEADER>0001104659-25-001736.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107173030
+ACCESSION NUMBER:		0001104659-25-001736
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		20
+CONFORMED PERIOD OF REPORT:	20241231
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Completion of Acquisition or Disposition of Assets
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM INFORMATION:		Unregistered Sales of Equity Securities
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250107
+DATE AS OF CHANGE:		20250107
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WISA TECHNOLOGIES, INC.
+		CENTRAL INDEX KEY:			0001682149
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				301135279
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38608
+		FILM NUMBER:		25515915
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15268 NW GREENBRIER PKWY
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97006
+		BUSINESS PHONE:		408-627-4716
+
+	MAIL ADDRESS:	
+		STREET 1:		15268 NW GREENBRIER PKWY
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97006
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Summit Wireless Technologies, Inc.
+		DATE OF NAME CHANGE:	20180914
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Summit Semiconductor Inc.
+		DATE OF NAME CHANGE:	20180501
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SUMMIT SEMICONDUCTOR
+		DATE OF NAME CHANGE:	20180416
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>tm252064d1_8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+false000168214900016821492024-12-312024-12-31iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event
+reported): December 31, 2024
+
+WISA TECHNOLOGIES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-38608 30-1135279
+
+(State or other jurisdiction
+
+of Incorporation) (Commission
+
+File Number) (IRS Employer
+
+Identification Number)
+
+15268 NW Greenbrier Pkwy
+
+Beaverton, OR 97006
+
+(Address of registrants principal executive office) (Zip code)
+
+(408) 627-4716
+
+(Registrants telephone
+number, including area code)
+
+Check the
+appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of
+the following provisions (see General Instruction A.2. below):
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b)
+of the Act:
+
+Title of each class Trading symbol(s) Name of each exchange on which
+
+registered
+
+Common Stock, par value $0.0001 per share WISA The Nasdaq Capital Market
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange
+Act of 1934.
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+Asset Purchase
+
+On
+December 31, 2024 (the Closing Date), WiSA Technologies, Inc. (the Company) completed its previously announced asset purchase
+of information technology assets, certain patents and trademarks (collectively, the Acquired Assets) from Data Vault
+Holdings Inc. (Data Vault). At the closing (the Closing), pursuant to an asset purchase agreement, by
+and between the Company and Data Vault, dated as of September 4, 2024, and as amended by that certain amendment to the asset
+purchase agreement, dated as of November 14, 2024, and as further amended from time to time (the Asset Purchase
+Agreement), the Company acquired the Acquired Assets for an aggregate purchase price consisting of (i) $10,000,000 paid
+in the form of a promissory note issued by the Company to Data Vault (the Promissory Note), (ii) 40,000,000
+shares (the Closing Stock Consideration) of validly issued, fully paid and nonassessable shares of restricted common
+stock of the Company, par value $0.0001 per share (the Common Stock), issued by the Company to Data Vault and its
+designees, and (iii) the assumption of the transferred liabilities, which clauses (i) through (iii) above,
+collectively, comprised the total consideration paid for the Acquired Assets.
+
+Second Asset Purchase
+Agreement Amendment
+
+In connection with
+but prior to the Closing, on December 31, 2024, the Company and Data Vault entered into a second amendment to the Asset
+Purchase Agreement (the Second Asset Purchase Agreement Amendment). Pursuant to the Second Asset Purchase Agreement
+Amendment, among other things, the parties agreed to enter into an earnout agreement (the Earnout Agreement) instead
+of a royalty agreement as set forth in the Asset Purchase Agreement, and the parties agreed that Data Vault will only appoint one
+director at the Closing to the board of directors of the Company (the Board), and Data Vault will have the right to
+appoint one other director within ninety (90) days after the Closing. The parties also agreed that Data Vault will transfer at least
+eighty-one percent (81%) of the Closing Stock Consideration to its stockholders, and neither Data Vault nor any of its stockholders
+will own in excess of 19.99% of the number of shares of the Common Stock outstanding immediately after giving effect to the issuance
+of the Closing Stock Consideration. Pursuant to the Second Asset Purchase Agreement Amendment, Data Vault agreed to file a
+Certificate of Amendment with the Secretary of State of the State of Delaware to change its company name, and the Company agreed to
+file a registration statement providing for the resale by Data Vault of Data Vaults 3,999,911 shares of Common Stock issued
+as part of the Closing Stock Consideration. The Company shall cause such registration statement to become effective by
+April 15, 2025. The Company and Data Vault further agreed that the Company may only amend, supplement or otherwise modify the
+transaction documents with approval of the disinterested members of the Board. The parties also updated the schedules describing the
+transferred assets and transferred liabilities.
+
+Promissory Note
+
+In connection with the
+Closing, the Company issued the Promissory Note in a principal amount of $10,000,000 and due on the third anniversary of the Closing (the
+Maturity Date). The Company agreed to pay interest to Data Vault on the aggregate unconverted and then outstanding principal
+amount of the Note at the rate of five and twelve hundredths percent (5.12%) per annum, accruing from the Closing.
+
+The Promissory Note can
+be converted at Data Vaults option, partially or entirely, into shares of Common Stock, any time after the Maturity Date until
+the Promissory Note is fully paid off. The Promissory Note uses a conversion price equaling to seventy-five percent (75%) of the average
+VWAP (as defined in the Promissory Note) during the ten (10) consecutive trading days ending on the trading day that is immediately
+prior to the conversion date subject to a floor price of $1.116 per share (the Conversion Price). At Data Vaults
+sole discretion, upon a Change of Control (as defined in the Promissory Note), (i) the Company shall cause any successor entity to
+assume in writing all of the obligations of the Company under the Promissory Note, (ii) pay or cause to be paid to Data Vault the
+Note Balance (as defined below) in cash, or (iii) pay, at the closing of such Change of Control, in full satisfaction of the Companys
+obligations under the Promissory Note, an amount in cash or equivalent Common Stock to the amount Data Vault would have been paid if Data
+Vault converted its Note Balance into shares of Common Stock immediately prior to such closing, at the Conversion Price.
+
+Pursuant to the Promissory
+Note, if Data Vault is considered an affiliate, the Company shall file within 30 days of the conversion date a registration statement
+on Form S-3 (or other appropriate form if the Company is not then S-3 eligible) providing for the resale by Data Vault of the shares
+of Common Stock issued under the Promissory Note. The Company shall cause such registration statement to become effective within 60 days
+following the filing thereof and to keep such registration statement effective at all times as long as Data Vault owns any shares issued
+under the Promissory Note.
+
+The parties agreed that
+the Company may apply up to 25% of the amount of any payment to be made to Data Vault pursuant to the Promissory Note towards satisfaction
+of the amount, if any, owned by Data Vault to the Company under those certain senior secured promissory notes, dated June 13, 2024,
+August 7, 2024, September 23, 2024, and December 23, 2024 (collectively, the Secured Notes and the outstanding
+amount under the Secured Notes, collectively, the Data Vault Note Balance). The Note Balance on the Maturity Date will be
+automatically reduced by the amount of the Data Vault Note Balance.
+
+Pursuant to the Promissory
+Note, if, at any time while the Promissory Note is outstanding, the Company enters into any capital raising or financing transaction,
+including without limitation any issuance by the Company of shares of Common Stock or Common Stock Equivalents (as defined in the Promissory
+Note) for cash consideration, indebtedness or a combination of units thereof (each, a Subsequent Financing), then the Company
+shall first pay to Data Vault at least 10% of the gross proceeds of such Subsequent Financing to redeem all or a portion of the Promissory
+Note, plus accrued but unpaid interest, plus liquidated damages, if any, and any other amounts then owing to Data Vault. If the aggregate
+gross proceeds of Subsequent Financings reach or exceed $50,000,000, then the Company shall repay the Promissory Note in full, including
+accrued but unpaid interest, liquidated damages, if any, and any other amounts, then owing to Data Vault.
+
+The Promissory Note includes
+customary event of default provisions. Upon the occurrence of an event of default, the Promissory Note and all amounts due thereunder
+shall become, upon demand by Data Vault, immediately due and payable in cash. Additionally, upon the occurrence of an event of default,
+interest shall accrue daily at the rate of ten percent (10%) per annum on the aggregate outstanding principal balance and any other amounts
+then owing by Company to Data Vault.
+
+Earnout Agreement
+
+In connection with
+the Closing, the Company and Data Vault entered into the Earnout Agreement, dated as of December 31, 2024, pursuant to which
+the Company shall pay an amount equal to three percent (3%) of the gross revenue of the Company (including its subsidiaries and
+affiliates) generated from or otherwise attributable to any patents and patent applications included in the Acquired Assets, subject
+to customary deductions calculated in accordance with GAAP, and as further set forth in the Earnout Agreement. The earnout period
+commenced on the Closing Date and will end upon the expiration of the last to expire of the patents included in the Acquired Assets
+(the Term). The Company shall make the earnout payments to Data Vault on a quarterly basis during the Term.
+
+The Earnout Agreement
+includes customary covenants regarding how the Company can operate its business during the term of the Earnout Agreement.
+
+The foregoing summary of the Second Asset Purchase Agreement Amendment,
+the Promissory Note, and the Earnout Agreement does not purport to be complete and is qualified in its entirety by reference to the full
+text of such document, which is filed (without exhibits and schedules) as Exhibit 2.1, 4.1, and 10.1 respectively, to this Current
+Report on Form 8-K (this Form 8-K) and incorporated herein by reference.
+
+Item 2.01 Completion
+of Acquisition or Disposition of Assets.
+
+The disclosure required
+by this Item in connection with the Closing and included in Item 1.01 of this Form 8-K is incorporated herein by reference.
+
+Item 2.03 Creation
+of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+The disclosure required
+by this Item in connection with the issuance of the Promissory Note and included in Item 1.01 of this Form 8-K is incorporated herein
+by reference.
+
+Item 3.02 Unregistered Sales of Equity Securities.
+
+The disclosure required
+by this Item in connection with the Closing and included in Item 1.01, and in connection with the issuance of the Units (as defined below)
+and included in Item 5.02, of this Form 8-K is incorporated herein by reference.
+
+The Closing Stock Consideration and the Units have not been registered
+under the Securities Act of 1933, as amended (the Securities Act), and may not be sold in the United States absent registration
+or an applicable exemption from the registration requirements of the Securities Act. The securities will be issued and were issued
+in reliance upon exemptions from registration under Section 4(a)(2) of the Securities Act, and Rule 506 promulgated under
+Regulation D of the Securities Act.
+
+Item 5.02. Departure
+of Directors or Certain Officers, Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On December 31,
+2024, Brett Moyer submitted his resignation as Chief Executive Officer of the Company, effective upon the Closing. Mr. Moyers
+resignation was not due to any disagreement with the Company, and Mr. Moyer will continue his employment with the Company as the
+Chief Financial Officer, and he will remain as a member of the Board. On December 31, 2024, the Company and Mr. Moyer entered
+into a new employment agreement, dated as of December 31, 2024 (the Moyer Employment Amendment). In his capacity as
+the Companys Chief Financial Officer, pursuant to the Moyer Employer Agreement, Mr. Moyer will receive an initial base salary
+of $420,000 per year, with an opportunity to receive an annual bonus, made available to the Companys senior management from time
+to time by the Board. Pursuant to the Moyer Employment Agreement, the Company will pay to Mr. Moyer a stay bonus of $400,000, payable
+in quarterly instalments during 2025.
+
+On December 31,
+2024, pursuant to the Asset Purchase Agreement, the Board appointed Nathaniel Bradley as the Companys new principal executive officer
+and a member of its Board, effective upon the Closing. On December 31, 2024, the Company and Mr. Bradley entered into an employment
+agreement, dated as of December 31, 2024 (the Bradley Employment Amendment). In his capacity as the Companys
+Chief Executive Officer, pursuant to the Bradley Employment Agreement, Mr. Bradley will receive an initial base salary of $450,000
+per year, with an opportunity to receive an annual bonus, made available to the Companys senior management from time to time by
+the Board.
+
+Other than arrangements
+under the Asset Purchase Agreement, there are no other arrangements or understandings between Mr. Bradley and any other persons pursuant
+to which he was appointed as Chief Executive Officer or a member of the Board. There are also no family relationships between any of the
+Companys directors or officers and Mr. Bradley. Mr. Bradley will receive standard board compensation for his service
+as a director.
+
+In connection with the
+Closing, Data Vault transferred 3,446,456 shares of Common Stock to Mr. Bradley as part of the Closing Stock Consideration, in the
+aggregate value of approximately $7,065,234, based on his position as a stockholder of Data Vault. Other than as set forth above, there
+are no related party transactions between Mr. Bradley and the Company that would require disclosure under Item 404(a) of Regulation
+S-K.
+
+On December 31,
+2024, the Company and Mr. Bradley entered into an inducement award agreement (the Inducement Award Agreement), pursuant
+to which Mr. Bradley was granted 1,200,000 units of restricted stock of the Company (the Units) as an inducement material
+to Mr. Bradleys entering into employment with the Company. The Units were approved by the Board and granted outside of the
+Companys 2020 Stock Incentive Plan and 2018 Long-Term Stock Incentive Plan in accordance with Nasdaq Listing Rule 5635(c)(4).
+The Inducement Award Agreement contemplates half of the Units vesting in equal 3-month installments over a 36-month period beginning March 20,
+2025, and the other half of the Units vesting upon the Companys aggregate revenue equaling or exceeding $40 million over any trailing
+12 calendar month period ending on or prior to the date that is 5 years from the grant date.
+
+Mr. Bradley, age 49, has served as Chief Executive Officer and
+sole member of the board of Data Vault since October 2018, and as Chief Executive Officer of Intellectual Property Network, Inc.
+since January 2008. Prior to joining Data Vault, Mr. Bradley served as Chief Technology Officer of Parallax Health Sciences, Inc.
+between 2018 and 2021. Mr. Bradley holds no public company directorships other than with the Company and has only held the forementioned
+position in the Company during the previous five years. Mr. Bradley earned a bachelors degrees in business administration
+and marketing from the University of Phoeniz. The Company believes that Mr. Bradleys extensive experience as an inventor across
+diverse fields such as Internet broadcasting, mobile advertising, behavioral healthcare, blockchain, cybersecurity, AI, and data science
+gives him the qualifications and skills to serve as a director.
+
+The foregoing summary
+of the Moyer Employment Agreement, the Bradley Employment Agreement, and the Inducement Award Agreement does not purport to be complete
+and is qualified in its entirety by reference to the full text of such document, which is filed as Exhibit 10.3, 10.4, and 10.5 respectively,
+to this Form 8-K and incorporated herein by reference.
+
+Item 8.01 Other Events.
+
+On January 7, 2024, the Company issued a
+press release (the Press Release) announcing the Closing and Mr. Bradleys Inducement Award Agreement. A copy
+of the Press Release is attached hereto as Exhibit 99.1 and incorporated by reference herein.
+
+Item 9.01Financial Statements and Exhibits.
+
+(a) Financial statements of businesses acquired
+
+The Company has determined
+that the Closing will not constitute an acquisition of a significant amount of assets (as defined in Instruction 4 of Item 2.01) and,
+as such, financial statements contemplated by Item 9.01 of Form 8-K are not required to be reported by Form 8-K with respect to such acquisition.
+
+(b) Pro forma financial
+information
+
+The Company has determined
+that the Closing will not constitute an acquisition of a significant amount of assets (as defined in Instruction 4 of Item 2.01) and,
+as such, pro forma financial information contemplated by Item 9.01 of Form 8-K is not required to be reported by Form 8-K with respect
+to such acquisition. 
+
+(d) Exhibits
+
+Exhibit
+
+No. Description
+
+2.1* Second Amendment to the Asset Purchase Agreement, dated as of December 31, 2024, by and between WiSA Technologies, Inc. and Data Vault Holdings Inc. 
+
+4.1 Promissory Note, dated as of December 31, 2024, by WiSA Technologies, Inc. 
+
+10.1* Earnout Agreement, dated as of December 31, 2024, by and between WiSA Technologies, Inc. and Data Vault Holdings Inc.
+
+10.3* Employment Agreement for Brett Moyer, dated as of December 31, 2024.
+
+10.4 Employment Agreement for Nathaniel Bradley, dated as of December 31, 2024.
+
+10.5* Inducement Award Agreement, dated as of December 31, 2024, by and between WiSA Technologies, Inc. and Nathaniel Bradley.
+
+99.1 Press Release.
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+* Schedules and exhibits omitted pursuant to Item 601(b)(2) of Regulation S-K. The Company agrees to furnish supplementally a copy of any omitted schedule to the Securities and Exchange Commission upon request.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: January 7, 2025 WISA TECHNOLOGIES, INC.
+
+By: /s/ Nathaniel Bradley
+
+Name: Nathaniel Bradley 
+
+Title: Chief Executive Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-2.1
+<SEQUENCE>2
+<FILENAME>tm252064d1_ex2-1.htm
+<DESCRIPTION>EXHIBIT 2.1
+<TEXT>
+Exhibit 2.1
+
+SECOND AMENDMENT TO
+
+ASSET PURCHASE AGREEMENT
+
+This Second Amendment to Asset
+Purchase Agreement (this Amendment) is made and entered into as of December 31, 2024, by and between WiSA Technologies, Inc.,
+a Delaware corporation (together with its successors, Purchaser), and Data Vault Holdings Inc., a Delaware corporation
+(Seller). Capitalized terms used herein without definition shall have the same definition ascribed thereto in the
+Purchase Agreement (as defined below).
+
+WHEREAS, the Asset
+Purchase Agreement was made and entered into as of September 4, 2024 (as amended by that certain Amendment to Asset Purchase Agreement
+dated as of November 14, 2024, the Purchase Agreement), by and among Purchaser and Seller, pursuant to which
+the Company has agreed to purchase, assume and accept from Seller all of the rights, title and interests in, to and under the Acquired
+Assets, and products and services solely to the extent they utilize the Acquired Assets, including Sellers information technology
+assets, certain patents, trademarks, and software source code;
+
+WHEREAS, Section 11.8
+of the Purchase Agreement provides that the Purchase Agreement may be amended, supplemented or otherwise modified by a written instrument
+executed by both Seller and Purchaser; and
+
+WHEREAS, Purchaser
+and Seller desire to amend the Purchase Agreement as set forth below.
+
+NOW, THEREFORE, in
+consideration of the mutual promises contained in this Amendment and for other good and valuable consideration, the receipt and sufficiency
+of which is hereby acknowledged, the parties hereby agree as follows:
+
+1. Amendment
+to Recitals. Recital D shall be amended in its entirety to read as follows, and all the references to the Royalty Agreement shall
+be changed to Earnout Agreement:
+
+D. Concurrently
+with the consummation of the transactions contemplated by this Agreement, Purchaser and Seller shall enter into an Earnout Agreement,
+in a form to be mutually agreed between the Parties, providing for Purchasers obligations to make earnout payments to Seller in
+an amount equal to 3% of Purchasers net revenue generated from or otherwise attributable to any patent rights included in the Transferred
+Assets, commencing as of the Closing and ending upon the expiration (on a patent-by-patent basis) of such patent rights, as further set
+forth therein (the Earnout Agreement).
+
+2. Amendment
+to Section 3.1(b). Section 3.1(b) shall be amended in its entirety to read as follows:
+
+(b) At
+the Closing, Purchaser shall deliver to Seller the Promissory Note and issue to Seller and/or its designees the Closing Stock Consideration.
+
+3. Amendment
+to Section 4.24(b). Section 4.24(b) shall be amended in its entirety to read as follows:
+
+(b) Seller
+represents that it is an Accredited Investor as that term is defined in Rule 501 of Regulation D of the Securities
+Act and that no general solicitation or advertising in connection with the offering of the Closing Stock Consideration to the Seller has
+occurred.
+
+4. Addition
+to ARTICLE VI. The following shall be added as Section 6.18 under ARTICLE VI:
+
+6.18 Board Designee.
+Within ninety (90) calendar days after the Closing Date, Purchaser shall have caused the nomination and election to its board of directors
+of one individual designated by Seller in and reasonably acceptable to Purchaser. Further, Seller agrees that it will not propose any
+individual as the board designee to be a member of Purchasers board of directors whose background does not comply with or would
+disqualify Purchaser from complying with (i) applicable securities laws, (ii) contractual obligations to and rules of any
+market or exchange on which the Common Stock is listed or quoted for trading on the date in question (including, without limitation, the
+NYSE MKT, the Nasdaq Capital Market, the Nasdaq Global Market, the Nasdaq Global Select Market, the New York Stock Exchange, or the OTC
+Bulletin Board or OTCQB Marketplace operated by OTC Markets Group, Inc. (or any successors to any of the foregoing)), and (iii) the
+criteria for directors set forth in the then current charter of the Purchasers nominating committee, and will not disqualify Purchaser
+from being able to conduct any public offering or private placement pursuant to either Rule 506 (b) or (c) and any bad
+boy provisions of any state securities laws.
+
+5. Addition
+to ARTICLE VI. The following shall be added as Section 6.19 under ARTICLE VI:
+
+6.19 Distribution
+of Closing Stock Consideration. Immediately after the Closing, during the Closing Date, Seller shall transfer at least eighty-one
+percent (81%) of the Closing Stock Consideration to its stockholders, and neither Seller nor any of its stockholders will own in excess
+of 19.99% of the number of shares of the Common Stock outstanding immediately after giving effect to the issuance of the Closing Stock
+Consideration.
+
+6. Deletion
+to ARTICLE VII. Section 7.1(e) shall be deleted in its entirety and the rest of numbering of Section 7.1 shall
+be adjusted accordingly.
+
+7. Addition
+to ARTICLE VII. The following shall be added as new Section 7.1(f) under ARTICLE VII:
+
+(g) Listing
+Application. Nasdaq shall have approved the Purchasers listing application, as required under the applicable Nasdaq rules.
+
+- 2 -
+
+8. Addition
+to ARTICLE VIII. The following shall be added as new Section 8.4 under ARTICLE VIII:
+
+(p) Name
+Change. Simultaneous with or within five (5) Business Days after the Closing, Seller shall have filed a Certificate of Amendment
+with the Secretary of State of the State of Delaware to change its company name, which shall not include the names Data Vault
+or Adio.
+
+9. Addition
+to ARTICLE VIII. The following shall be added as new Section 8.5 under ARTICLE VIII:
+
+(p) Registration.
+Purchaser shall file a Registration Statement on Form S-3 (or on Form S-1 if Form S-3 is not available to Purchaser), as
+soon as practicable, providing for the resale by Seller of the Sellers 3,999,911 shares issued as part of the Closing Stock Consideration,
+or shall include such shares in any other registration statement on Form S-3 or Form S-1 filed by Purchaser. Purchaser shall
+use its commercially reasonable efforts to cause such registration statement to become effective by April 15, 2025, and to keep such
+registration statement effective at all times (except for any periods in connection with the filing of post-effective amendments as reasonably
+determined by Purchasers counsel to be required) until Seller no longer owns any shares of Common Stock issued as part of the Closing
+Stock Consideration.
+
+10. Addition
+to ARTICLE VII. The following shall be added as Section 7.2(r) under ARTICLE VII:
+
+(r) Code
+of Arms. Seller shall have delivered evidence, in a form reasonably satisfactory to Purchaser, that Code of Arms Ltd is willing to
+enter into a new joint venture agreement, or similar, with Purchaser, with substantially the same terms and conditions as in that certain
+Joint Venture Agreement, dated as of December 7, 2023, by and between Seller and Code of Arms Ltd. (the Existing Code of
+Arms Agreement).
+
+11. Amendment
+to ARTICLE VII. Section 7.3(f) shall be amended in its entirety to read as follows:
+
+(f) Board
+Composition. Purchaser shall have caused the nomination and election of Nathaniel Bradley to its board of directors.
+
+12. Amendment
+to ARTICLE VIII. Section 8.2(a) shall be amended in its entirety to read as follows, and all the references to the
+Bill of Sale, Assignment and Assumption Agreement shall be changed to Assignment Agreement:
+
+(a) an executed
+copy of a short form assignment agreement, in a form to be mutually agreed between the Parties, reflecting the assignment of the Transferred
+Assets and assumption of the Assumed Liabilities (the Assignment Agreement);
+
+- 3 -
+
+13. Amendment
+to ARTICLE XI. Section 11.8 shall be amended in its entirety to read as follows:
+
+This Agreement and
+the Transaction Documents may be amended, supplemented or otherwise modified only by a written instrument executed by both Seller and
+Purchaser (with approval of the disinterested members of Purchasers board of directors). No waiver by either Party of any of the
+provisions hereof shall be effective unless explicitly set forth in writing and executed by the Party so waiving. Except as provided in
+the preceding sentence, no action taken pursuant to this Agreement, including any investigation by or on behalf of any Party, or a failure
+or delay by any Party in exercising any power, right or privilege under this Agreement shall be deemed to constitute a waiver by the Party
+taking such action of compliance with any representations, warranties, covenants, or agreements contained herein, and in any documents
+delivered or to be delivered pursuant to this Agreement and in connection with the Closing hereunder. The waiver by any Party of a breach
+of any provision of this Agreement shall not operate or be construed as a waiver of any subsequent breach. Seller and Purchaser may, at
+any time prior to the Closing, (a) extend the time for the performance of the obligations or acts of the Parties hereto, (b) waive
+any inaccuracies in the representations and warranties (of the other Party hereto) that are contained in this Agreement or (c) waive
+compliance by the other Party hereto with any of the agreements or conditions contained in this Agreement.
+
+14. Amendment
+to Exhibit A. Exhibit A of the Purchase Agreement shall be amended and restated in its entirety to read as set out in Exhibit B
+of this Amendment.
+
+15. Amendment
+to Exhibit B. Exhibit B of the Purchase Agreement shall be amended and restated in its entirety to read as set out in Exhibit C
+of this Amendment.
+
+16. Amendment
+to Exhibit C. Exhibit B of the Purchase Agreement shall be amended and restated in its entirety to read as set out in Exhibit D
+of this Amendment.
+
+17. Amendment
+to Schedule 7.2(f). Schedule 7.2(f) of the Purchase Agreement shall be amended in its entirety to read as set out in the Exhibit A
+of this Amendment.
+
+18. No
+Other Modification. Except as specifically amended by the terms of this Amendment, all terms and conditions set forth in the Purchase
+Agreement shall remain in full force and effect, as applicable.
+
+19. Governing
+Law. This Amendment shall be governed by, and construed in accordance with, the laws of the State of Delaware, without regard to any
+rule or principle that might refer the governance or construction of this Amendment to the Laws of another jurisdiction.
+
+20. Entire
+Agreement. This Amendment contains the entire agreement and understanding of the parties hereto with respect to the subject matter
+contained therein and may not be contradicted by evidence of any alleged oral agreement.
+
+21. Further
+Assurances. Each party to this Amendment agrees to perform any further acts and execute and deliver any documents that may be reasonably
+necessary to carry out the provisions of this Amendment.
+
+- 4 -
+
+22. Counterparts.
+This Amendment may be executed in multiple counterparts, each of which shall be deemed an original and all of which, together, shall constitute
+one and the same instrument. Facsimile, .pdf and other electronic execution and delivery of this consent is legal, valid and binding for
+all purposes.
+
+23. Headings.
+The descriptive headings of the various provisions of this Amendment are inserted for convenience of reference only and shall not be deemed
+to affect the meaning or construction of any of the provisions hereof.
+
+[Remainder
+of Page Intentionally Left Blank]
+
+- 5 -
+
+IN WITNESS WHEREOF, the parties
+hereto have duly executed this Amendment to be effective for all purposes as of the date first above written.
+
+WISA TECHNOLOGIES, INC.
+
+By: /s/ Brett Moyer
+
+Name: Brett Moyer
+
+Title: Chief Executive Officer
+
+DATA VAULT HOLDINS INC.
+
+By: /s/ Nathaniel Bradley
+
+Name: Nathaniel Bradley
+
+Title: Chief Executive Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.1
+<SEQUENCE>3
+<FILENAME>tm252064d1_ex4-1.htm
+<DESCRIPTION>EXHIBIT 4.1
+<TEXT>
+Exhibit 4.1
+
+NEITHER THIS SECURITY NOR THE SECURITIES INTO
+WHICH THIS SECURITY IS CONVERTIBLE HAS BEEN REGISTERED WITH THE SECURITIES AND EXCHANGE COMMISSION OR THE SECURITIES COMMISSION OF ANY
+STATE IN RELIANCE UPON AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE SECURITIES ACT),
+AND, ACCORDINGLY, MAY NOT BE OFFERED OR SOLD EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR PURSUANT
+TO AN AVAILABLE EXEMPTION FROM, OR IN A TRANSACTION NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE
+WITH APPLICABLE STATE SECURITIES LAWS AS EVIDENCED BY A LEGAL OPINION OF COUNSEL TO THE TRANSFEROR TO SUCH EFFECT, THE SUBSTANCE OF WHICH
+SHALL BE REASONABLY ACCEPTABLE TO THE COMPANY. THIS SECURITY AND THE SECURITIES ISSUABLE UPON CONVERSION OF THIS SECURITY MAY BE
+PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN ACCOUNT WITH A REGISTERED BROKER-DEALER OR OTHER LOAN WITH A FINANCIAL INSTITUTION THAT
+IS AN ACCREDITED INVESTOR AS DEFINED IN RULE 501(a) UNDER THE SECURITIES ACT OR OTHER LOAN SECURED BY SUCH SECURITIES.
+
+Original
+Issue Date: December 31, 2024
+
+Original
+Principal Amount: $10,000,000
+
+CONVERTIBLE PROMISSORY NOTE
+
+THIS CONVERTIBLE PROMISSORY
+NOTE (this Note) is a duly authorized and validly issued Convertible Promissory Note of WiSA Technologies, Inc.,
+a Delaware corporation (the Company), having its principal place of business at 15268 NW Greenbrier Pkwy, Beaverton,
+OR 97006, and to be issued pursuant to that certain Asset Purchase Agreement between the Company and Data Vault Holdings Inc., a Delaware
+corporation (Datavault), dated as of September 4, 2024, as amended from time to time (the Asset Purchase
+Agreement). Capitalized terms not otherwise defined herein shall have the meanings set forth in the Asset Purchase Agreement.
+
+FOR VALUE RECEIVED, the Company
+promises to pay to Datavault or its registered assigns (the Holder), the principal sum of $10,000,000 on December 31,
+2027 (the Maturity Date) or such earlier date as is required or permitted under this Note, and to pay interest to
+the Holder on the then outstanding principal amount of this Note on and after the Original Issue Date, in accordance with the provisions
+hereof. This Note is subject to the following additional provisions:
+
+1. Payment
+and Maturity; Interest.
+
+(a) The
+entire outstanding principal amount of this Note, together with any accrued but unpaid interest thereon and any other sums due under this
+Note (collectively, the Note Balance), shall be due and payable on the Maturity Date. All payments of interest and
+principal shall be in lawful money of the United States of America except as set forth in Section 2(a) hereof. All payments
+shall be applied first to accrued interest, and thereafter to principal. If any payments on this Note become due on a day which is not
+a Trading Day, such payment may be due on the next succeeding Trading Day (as defined below) and such extension of time shall be included
+in computing interest in connection with such payment.
+
+(b) The
+Company shall pay interest (compounded annually and computed on the basis of a 365-day year for the actual number of days elapsed) on
+the outstanding principal amount under this Note at the rate of five and twelve hundredths percent (5.12%) per annum, accruing from the
+Original Issue Date until paid in full or converted as provided herein, except as otherwise set forth in this Note.
+
+2. Conversion.
+
+(a) Optional
+Conversion. At any time on or after the Maturity Date, the Holder may convert (the Optional Conversion) the Note
+Balance into shares common stock of the Company, par value $0.0001 per share (the Common Stock) at a conversion price
+equaling to seventy-five percent (75%) of the average VWAP of Common Stock during the ten (10) consecutive Trading Days ending on
+the Trading Day immediately preceding the Optional Conversion Date, subject to a floor price of $1.116 per share (the Conversion
+Price), on the terms and conditions set forth herein. Such Optional Conversion may be made in whole or in part by delivery
+of a written notice by the Holder to the Company (such date of notice, the Optional Conversion Date). Notwithstanding
+anything herein to the contrary, the Holder shall not be required to physically surrender this Note to the Company until this Note is
+no longer outstanding. As used herein:
+
+i. Trading Day means a day on which the principal Trading Market is open for trading.
+
+ii. Trading Market means any of the following markets or exchanges on which the shares
+of Common Stock will, in accordance with the terms hereof, be listed or quoted for trading on the date in question: the NYSE American;
+the Nasdaq Capital Market; the Nasdaq Global Market; the Nasdaq Global Select Market; or the New York Stock Exchange (or any successors
+to any of the foregoing).
+
+iii. VWAP means, for any date, the price determined by the first of the following clauses
+that applies: (a) if the Common Stock is then listed or quoted on a Trading Market, the daily volume weighted average price of the
+Common Stock for such date (or the nearest preceding date) on the Trading Market on which the Common Stock is then listed or quoted as
+reported by Bloomberg L.P. (based on a Trading Day from 9:30 a.m. (New York City time) to 4:02 p.m. (New York City time)), (b) if
+OTCQB or OTCQX is not a Trading Market, the volume weighted average price of the Common Stock for such date (or the nearest preceding
+date) on OTCQB or OTCQX as applicable, (c) if the Common Stock is not then listed or quoted for trading on OTCQB or OTCQX and if
+prices for the Common Stock are then reported on The Pink Open Market (or a similar organization or agency succeeding to its functions
+of reporting prices), the most recent bid price per share of the Common Stock so reported, or (d) in all other cases, the fair market
+value of a share of Common Stock as determined by an independent appraiser selected in good faith by the Holder and reasonably acceptable
+to the Company, the fees and expenses of which shall be paid by the Company.
+
+2
+
+(b) Conversion
+on a Change of Control. If there shall be a Change of Control (as defined below) at any time while this Note remains outstanding and
+prior to the Optional Conversion Date, then upon the election of the Holder made at the Holders sole discretion, the Company shall,
+as a condition to the effectiveness of such Change of Control (1) cause any successor entity in a Change of Control in which the
+Company is not the survivor (the Successor Entity) to assume in writing all of the obligations of the Company under
+this Note pursuant to written agreements in form and substance reasonably satisfactory to the Holder and approved by the Holder prior
+to such Change of Control Fundamental Transaction pay to the Holder, (2) pay or cause to be paid to the Holder the Note Balance in
+cash, or (3) pay, at the closing of such Change of Control, in full satisfaction of the Companys obligations under the Note,
+an amount in cash or equivalent Common Stock equal to the amount the Holder would have been paid if the Holder converted its Note Balance
+into shares of Common Stock immediately prior to such closing, at the Conversion Price. The Company shall provide written notice of the
+Change of Control (including a summary of the material terms thereof and the closing date) to the Holder, at such Holders address
+appearing in the records of the Company, at least ten (10) business days prior to the date fixed for the closing of the Change of
+Control. Change of Control shall mean a merger or consolidation in which the Companys stockholders immediately
+prior to the transaction do not own, directly or indirectly, more than 50% of the capital stock of the surviving corporation, the acquisition
+of more than 50% of the Companys outstanding capital stock by a single person, entity or group or persons or entities acting in
+concert, which person(s), entity/entities or group was/were not affiliated with the Company prior to such acquisition, or sale or transfer
+of all or substantially all of the assets of the Company or a reverse triangular merger in which the Company is the surviving entity but
+the shares of the Companys stock outstanding immediately prior to the merger are converted by virtue of the merger into other property,
+whether in the form of securities, cash or otherwise; provided, however, that the closing of the transaction contemplated by the Asset
+Purchase Agreement shall not be considered a Change of Control for the purposes of this Section 2(b).
+
+(c) Fractional
+Shares. No fractional shares of capital stock of the Company shall be issued upon conversion of this Note. As to any fraction of a
+share which the Holder would otherwise be entitled to purchase upon such conversion, the Company shall at its election, either pay a cash
+adjustment in respect of such final fraction in an amount equal to such fraction multiplied by the Conversion Price or round up to the
+next whole share.
+
+(d) Mechanics
+of Conversion.
+
+(i) The
+date of conversion of this Note (the Conversion Date), as applicable, shall be the earliest of (A) the Optional
+Conversion Date if this Note is converted pursuant to Section 2(a) or (B) the closing date of the Change of Control
+if this Note is converted pursuant to Section 2(b). Subject to Section 2(a), on or before the Conversion Date,
+the Holder shall surrender this Note for conversion at the place designated in any applicable notice or to the Company if not so designated.
+In connection with surrendering this Note, the Holder shall deliver a notice which shall state the Holders name or the names of
+its nominees in which such holder wishes the certificate for shares of Common Stock to be issued. If required by the Company, the Note
+surrendered for conversion shall be endorsed or accompanied by a written instrument or instruments of surrender, in form satisfactory
+to the Company, duly executed by the Holder or its attorney duly authorized in writing. The Company shall, as soon as practicable after
+the Conversion Date, issue and deliver to the Holder, or to its nominees, a certificate for the number of shares of Common Stock, to which
+the Holder shall be entitled, together with cash in lieu of any fraction of a share. In connection with the conversion of this Note, the
+Holder shall execute and deliver to the Company any documentation reasonably required by the Company. Subject to Section 2(a),
+the Company shall not be required to issue or deliver the capital stock into which this Note may convert until the Holder has surrendered
+this Note to the Company and delivered to the Company any such documentation.
+
+3
+
+(ii) Upon
+any conversion of this Note, no adjustments to the Conversion Price shall be made for any declared or accrued but unpaid dividends on
+the capital stock delivered upon conversion.
+
+(iii) If
+this Note shall have been converted in part, the Company shall, at the request of a Holder and upon surrender of this Note, at the time
+of delivery of the Underlying Shares (as defined below), deliver to the Holder a new Note evidencing the rights of the Holder to purchase
+the unconverted Underlying Shares called for by this Note, which new Note shall in all other respects be identical with this Note. In
+the event this Note is converted in full, then immediately upon the Conversion Date, this Note shall no longer be deemed to be outstanding
+and all rights of the Holder with respect to this Note shall immediately cease and terminate, except only the right of the Holder to receive
+the shares of Company capital stock to which it is entitled as a result of the conversion on the Conversion Date and/or the payment of
+cash, as applicable. Notwithstanding the foregoing, in the event that a Change of Control is not consummated on or about the date set
+for such closing, this Note shall be deemed to continue to remain outstanding.
+
+(iv) The
+Company shall not be required to pay any tax which may be payable in respect of any transfer involved in the issuance and delivery of
+shares of Company capital stock in a name other than that of the Holder, and no such issuance or delivery shall be made unless and until
+the person or entity requesting such issuance has paid to the Company the amount of any such tax or has established, to the satisfaction
+of the Company, that such tax has been paid.
+
+3. Transfer
+Restrictions; Registration Rights.
+
+(a) This
+Note and the shares of Common Stock, into which the Note may be converted (the Underlying Shares, and together with
+the Note, the Securities) may only be transferred in compliance with state and federal securities laws. In connection
+with any transfer of Securities other than pursuant to an effective registration statement (the Registration Statement)
+or Rule 144, to the Company or to an Affiliate of the Holder, the Company may require the transferor thereof to provide to the Company
+an opinion of counsel selected by the transferor and reasonably acceptable to the Company, the form and substance of which opinion shall
+be reasonably satisfactory to the Company, to the effect that such transfer does not require registration of such transferred Securities
+under the Securities Act. As a condition of transfer, any such transferee shall agree in writing to be bound by the terms of this Agreement
+and shall have the rights and obligations of the Holder under this Agreement.
+
+4
+
+(b) The
+Holder agrees to the imprinting, so long as is required by this Section 3, of a legend on any of the Securities in the following
+form:
+
+THE ISSUE AND SALE
+OF THIS SECURITY AND THE SECURITIES INTO WHICH THIS SECURITY IS CONVERTIBLE HAVE NOT BEEN REGISTERED WITH THE SECURITIES AND EXCHANGE
+COMMISSION OR THE SECURITIES COMMISSION OF ANY STATE IN RELIANCE UPON AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933,
+AS AMENDED (THE SECURITIES ACT), AND, ACCORDINGLY, THIS SECURITY AND THE SECURITIES INTO WHICH THIS SECURITY IS CONVERTIBLE
+MAY NOT BE OFFERED OR SOLD EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR PURSUANT TO AN AVAILABLE
+EXEMPTION FROM, OR IN A TRANSACTION NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE
+STATE SECURITIES LAWS. THIS SECURITY AND THE SECURITIES ISSUABLE UPON CONVERSION OF THIS SECURITY MAY BE PLEDGED IN CONNECTION WITH
+A BONA FIDE MARGIN ACCOUNT WITH A REGISTERED BROKER-DEALER OR OTHER LOAN WITH A FINANCIAL INSTITUTION THAT IS AN ACCREDITED INVESTOR
+AS DEFINED IN RULE 501(a) UNDER THE SECURITIES ACT OR OTHER LOAN SECURED BY SUCH SECURITIES.
+
+(c) Certificates evidencing
+the Underlying Shares shall not contain any legend (including the legend set forth in Section 3(b) hereof): (i) while
+a registration statement (including the Registration Statement) covering the resale of such security is effective under the Securities
+Act, (ii) if such Underlying Shares are eligible for sale under Rule 144 without the requirement for the Company to be in compliance
+with the current public information required under Rule 144 as to such Underlying Shares and without volume or manner-of-sale restrictions,
+or (iii) if such legend is not required under applicable requirements of the Securities Act (including judicial interpretations and
+pronouncements issued by the staff of the U.S. Securities and Exchange Commission (the SEC)). The Company shall cause
+its counsel to issue a legal opinion to the transfer agent or the Holder promptly if required by the transfer agent to effect the removal
+of the legend hereunder, or if requested by the Holder (if any of the foregoing conditions are satisfied), respectively. If all or any
+portion of a Note is converted at a time when there is an effective registration statement to cover the resale of the Underlying Shares,
+or if such Underlying Shares may be sold under Rule 144 without the requirement for the Company to be in compliance with the current
+public information required under Rule 144 as to such Underlying Shares and without volume or manner-of-sale restrictions or if such
+legend is not otherwise required under applicable requirements of the Securities Act (including judicial interpretations and pronouncements
+issued by the staff of the SEC), then such Underlying Shares shall be issued free of all legends. The Company agrees that at such time
+as such legend is no longer required under this Section 3(c), it will, no later than two (2) Trading Days (such date,
+the Legend Removal Date), deliver or cause to be delivered to the Holder a certificate representing such shares that
+is free from all restrictive and other legends. Certificates for Underlying Shares subject to legend removal hereunder shall be transmitted
+by the transfer agent to the Holder by crediting the account of the Holders prime broker with the Depository Trust Company System
+as directed by the Holder.
+
+(d) The
+Holder agrees with the Company that the Holder will sell any Securities pursuant to either the registration requirements of the Securities
+Act, including any applicable prospectus delivery requirements, or an exemption therefrom, and that if Securities are sold pursuant to
+a Registration Statement, they will be sold in compliance with the plan of distribution set forth therein, and acknowledges that the removal
+of the restrictive legend from certificates representing Securities as set forth in this Section 3 is predicated upon the
+Companys reliance upon this understanding.
+
+5
+
+(e) If
+the Holder is considered an Affiliate, the Company shall file within 30 days of the Conversion Date a registration statement on Form S-3
+(or other appropriate form if the Company is not then S-3 eligible) providing for the resale by the Holder of the shares issued hereunder.
+The Company shall use commercially reasonable efforts to cause such registration statement to become effective within 60 days following
+the filing thereof and to keep such registration statement effective at all times as long as the Holder owns any shares issued hereunder.
+
+4. Events
+of Default.
+
+(a) Event
+of Default wherever used herein, means any one of the following events (whatever the reason and whether it shall be voluntary
+or involuntary or effected by operation of law or pursuant to any judgment, decree or order of any court, or any order, rule or regulation
+of any administrative or governmental body) shall have occurred:
+
+(i) any
+failure to pay to the Holder the principal amount of this Note, any interest on this Note or other sums due under this Note, as
+and when the same shall become due and payable (whether upon demand following the Maturity Date or by acceleration or otherwise);
+
+(ii) the
+institution against the Company of any proceedings under the United States Bankruptcy Code or any other federal or state bankruptcy, reorganization,
+receivership, insolvency or other similar law affecting the rights of creditors generally, which proceeding is not dismissed within thirty
+(30) days of filing;
+
+(iii) the
+institution by the Company of any proceedings under the United States Bankruptcy Code or any other federal or state bankruptcy, reorganization,
+receivership, insolvency or other similar law affecting the rights of creditors generally or the making by the Company of an assignment
+for the benefit of creditors; or
+
+(iv) there
+shall be a dissolution, termination of existence, suspension or discontinuance of the Companys business for a continuous period
+of twenty (20) days or it ceases to operate as going concern.
+
+(b) Remedies
+upon Event of Default. Upon the occurrence of an Event of Default, the then outstanding principal amount of this Note, together
+with any accrued interest thereon and any other sums due under this Note, shall become, upon demand by the Holder (which demand shall
+not be required in the case of an Event of Default described in Section 4(a)(ii)-(iv)), immediately due and payable in cash. Furthermore,
+in addition to any other remedies, the Holder shall have the right (but not the obligation) to convert, on one or more occasions all or
+part of this Note in accordance with Section 2(d) at any time after (a) an Event of Default or (b) the Maturity
+Date. The Holder need not provide and the Company hereby waives any presentment, demand, protest or other notice of any kind, (other than
+any required notice of conversion) and the Holder may immediately enforce any and all of its rights and remedies hereunder and all other
+remedies available to it under applicable law. Such declaration may be rescinded and annulled by the Holder in writing at any time prior
+to payment hereunder. No such rescission or annulment shall affect any subsequent Event of Default or impair any right consequent thereon.
+
+6
+
+From and after the occurrence
+and during the continuance of any Event of Default, interest shall accrue daily at the rate of ten percent (10%) per annum, and such interest
+shall be added to the outstanding principal amount under this Note monthly. The Holder need not provide and the Company hereby waives
+any presentment, demand, protest or other notice of any kind, and Holder may immediately and without expiration of any grace period enforce
+any and all of its rights and remedies hereunder and all other remedies available to it under applicable law, all such rights and remedies
+being cumulative, not exclusive and enforceable alternatively, successively and concurrently.
+
+5. Repayment;
+Prepayment.
+
+(a) The
+Company may apply up to 25% of the amount of any payment to be made to the Holder pursuant to Section 7(a) towards satisfaction
+of the amount, if any, owned by the Holder to the Company under those certain senior secured promissory notes, dated June 13, 2024,
+August 7, 2024, September 23, 2024, and December 23, 2024 (collectively, the Secured Notes and the
+outstanding amount under the Secured Notes, collectively, the Datavault Note Balance). The Note Balance on the Maturity
+Date will be automatically reduced by the amount of Datavault Note Balance. The Company hereby acknowledges and agrees that, notwithstanding
+anything to the contrary contained in the Secured Notes, the maturity dates for each of the Secured Notes will be deemed to be the later
+of the (1) the maturity date set forth in such Secured Note and (2) the date on which the Holder has received payments pursuant
+to Section 7(a) in an amount sufficient to satisfy its payment obligations under such Secured Note.
+
+(b) At
+any time after the Original Issue Date, the Company may prepay this Note in whole or in part at any time with the written consent of the
+Holder. All accrued and unpaid interest on this Note shall be paid at the time of such prepayment.
+
+6. No
+Rights as Stockholder. Nothing contained in this Note shall be construed as conferring upon the Holder or its transferees the right
+to vote or to receive dividends or to consent or to receive notice as a stockholder in respect of any meeting of stockholders for the
+election of directors of the Company or of any other matter, or any rights whatsoever as a stockholder of the Company, unless and to the
+extent the Note has been converted into shares of Common Stock.
+
+7. Subsequent
+Financing.
+
+(a) Subject
+to the provisions of this Section 7, if, at any time while this Note is outstanding, the Company enters into any capital raising
+or financing transaction, including without limitation any issuance by the Company of shares of Common Stock or Common Stock Equivalents
+(as defined below) for cash consideration, indebtedness or a combination of units thereof (each, a Subsequent Financing),
+then on or prior to the fifth (5th) Trading Day following the consummation of such Subsequent Financing, the Company shall first pay to
+the Holder at least 10% of the gross proceeds of such Subsequent Financing (or such lesser amount as may be required to satisfy and pay
+in full the amount of this Note) to redeem all or a portion of this Note, plus accrued but unpaid interest, plus liquidated damages, if
+any, and any other amounts then owing to the Holder in respect of this Note (a Mandatory Redemption). The Company
+shall deliver notice to the Holder of a Subsequent Financing at least five (5) Trading Days prior to the closing of such Subsequent
+Financing (the Pre-Notice), which Pre-Notice shall ask such Holder if it wants to review the details of such financing
+(such additional notice, a Mandatory Redemption Notice and the date such Mandatory Redemption Notice is deemed delivered
+hereunder, the Mandatory Redemption Notice Date). As used herein, Common Stock Equivalents means
+any securities of the Company that entitle the holder thereof to acquire at any time Common Stock, including, without limitation, any
+debt, preferred stock, right, option, warrant or other instrument that is at any time convertible into or exercisable or exchangeable
+for, or otherwise entitles the holder thereof to receive, Common Stock.
+
+7
+
+(b) If,
+at any time while this Note is outstanding, the aggregate gross proceeds of Subsequent Financings reach or exceed $50,000,000, then the
+Company shall repay the Note in full, including accrued but unpaid interest, liquidated damages, if any, and any other amounts, then owing
+to the Holder in respect of this Note, following the procedures set out in Section 7(a).
+
+8. Holders
+Conversion Limitations. Except as set forth in this Section 8, a Holder shall not have the right to convert any portion
+of this Note and this Note shall not be automatically converted, to the extent that after giving effect to such conversion, such Holder
+(together with such Holders Affiliates, any other Persons acting as a group together, and any other Persons whose beneficial ownership
+of Common Stock would be aggregated with the Holders and the other Attribution Parties for purposes of Section 13(d) of
+the Securities Exchange Act of 1934, as amended (the Exchange Act, and such Persons, Attribution Parties))
+would beneficially own in excess of 19.99% (the Beneficial Ownership Limitation) of the shares of Common Stock outstanding
+immediately after giving effect to such conversion. For purposes of the foregoing sentence, the aggregate number of shares of Common Stock
+beneficially owned by such Person and its Affiliates shall include the number of shares of Common Stock issuable upon conversion of this
+Note with respect to which the determination of such sentence is being made, but shall exclude shares of Common Stock which would be issuable
+upon (i) exercise of the remaining, unconverted portion of this Note beneficially owned by such Person and its Affiliates and (ii) exercise
+or conversion of the unexercised or unconverted portion of any other securities of the Company beneficially owned by such Person and its
+Affiliates (including, without limitation, any convertible notes or convertible preferred stock or warrants) subject to a limitation on
+conversion or exercise analogous to the limitation contained herein. For purposes of this Section 8, in determining
+the number of outstanding shares of Common Stock, a Holder may rely on the number of outstanding shares of Common Stock as reflected in
+(1) the Companys most recent Form 10-K, Proxy Statement, Form 10-Q, Current Report on Form 8-K or other public
+filing with the Commission, as the case may be, (2) a more recent public announcement by the Company or (3) any other notice
+by the Company or the Companys transfer agent setting forth the number of shares of Common Stock outstanding. For any reason at
+any time, upon the written or oral request of a Holder, where such request indicates that it is being made pursuant to this Section 8,
+the Company shall within one (1) Trading Day confirm orally and in writing to such Holder the number of shares of Common Stock then
+outstanding. In any case, the number of outstanding shares of Common Stock shall be determined after giving effect to the conversion or
+exercise of securities of the Company, including this Note, by a Holder and its Affiliates since the date as of which such number of outstanding
+shares of Common Stock was reported. Subject to compliance with Nasdaq Listing Rules, upon delivery of a written notice to the Company,
+a Holder may from time to time increase or decrease the Beneficial Ownership Limitation to any other percentage as specified in such notice;
+provided that (i) any such increase in the Beneficial Ownership Limitation will not be effective until the sixty-first (61st) day
+after such notice is delivered to the Company and (ii) any such increase or decrease will apply only to such Holder and not to any
+other holder of this Note. For purposes of clarity, the shares of Common Stock issuable pursuant to the terms hereof in excess of the
+Beneficial Ownership Limitation shall not be deemed to be beneficially owned by a Holder for any purpose including for purposes of Section 13(d) or
+Rule 16a-1(a)(1) of the Exchange Act. No prior inability to convert this Note pursuant to this Section 8 shall have
+any effect on the applicability of the provisions of this Section 8 with respect to any subsequent determination of whether
+this Note may be converted. The provisions of this paragraph shall be construed and implemented in a manner otherwise than in strict conformity
+with the terms of this Section 8 to the extent necessary to correct this paragraph or any portion of this paragraph which
+may be defective or inconsistent with the intended beneficial ownership limitation contained in this Section 8 or to make
+changes or supplements necessary or desirable to properly give effect to such limitation. The limitations contained in this paragraph
+shall apply to a successor holder of this Note.
+
+8
+
+9. General.
+
+(a) Reservation
+of Stock. Upon any conversion of this Note, the Company will take all corporate action as may be necessary to increase its authorized
+but unissued shares of Common Stock, to such number of shares as shall be sufficient to effect the conversion of this Note, including,
+without limitation, using commercially reasonable efforts to obtain the requisite board and stockholder approval of any necessary amendment
+to the Companys certificate of incorporation.
+
+(b) Enforcement
+Expenses. The Company agrees to pay all costs and expenses of the Holder in enforcing or exercising its rights under this Note, including,
+without limitation, reasonable attorneys fees and expenses and the fees and expenses of any expert witnesses.
+
+(c) Successors
+and Assigns. This Note, and the obligations and rights hereunder, shall be binding upon and inure to the benefit of, as applicable,
+the Company, the Holder, and their respective heirs, successors and permitted assigns. This Note may not be assigned by the Holder without
+the prior written consent of the Company.
+
+(d) Amendments;
+Waivers. No provision in this Note may be modified, amended or waived (either generally or in a particular instance and either retroactively
+or prospectively) unless it is in a writing signed by the Company and the Holder. No waiver of any default with respect to any provision,
+condition or requirement of this Note shall be deemed to be a continuing waiver in the future or a waiver of any subsequent default or
+a waiver of any other provision, condition or requirement hereof, nor shall any delay or omission of the Holder to exercise any right
+hereunder in any manner impair the exercise of any such right.
+
+(e) Severability.
+In the event any one or more of the provisions of this Note shall for any reason be held to be invalid, illegal or unenforceable, in whole
+or in part or in any respect, or in the event that any one or more of the provisions of this Note operate or would prospectively operate
+to invalidate this Note, then and in any such event, such provision(s) only shall be deemed null and void and shall not affect any
+other provision of this Note and the remaining provisions of this Note shall remain operative and in full force and effect and in no way
+shall be affected, prejudiced, or disturbed thereby.
+
+9
+
+(f) Governing
+Law. This Note shall be governed by and construed in accordance with the laws of the State of Delaware, regardless of the laws that
+might otherwise govern under applicable principles of conflicts of law. Notwithstanding any other provision of this Note, the Company
+shall not be required to pay any interest or other amounts, fees or charges in excess of the maximum permitted by applicable law; any
+payments in excess of such maximum shall be refunded to the Company or credited to reduce principal hereunder.
+
+(g) Waiver
+of Jury Trial. EACH PARTY HEREBY WAIVES ITS RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR ARISING OUT OF THIS
+NOTE, THE SECURITIES OR THE SUBJECT MATTER HEREOF OR THEREOF. THE SCOPE OF THIS WAIVER IS INTENDED TO BE ALL- ENCOMPASSING OF ANY AND
+ALL DISPUTES THAT MAY BE FILED IN ANY COURT AND THAT RELATE TO THE SUBJECT MATTER OF THIS TRANSACTION, INCLUDING, WITHOUT LIMITATION,
+CONTRACT CLAIMS, TORT CLAIMS (INCLUDING NEGLIGENCE), BREACH OF DUTY CLAIMS, AND ALL OTHER COMMON LAW AND STATUTORY CLAIMS. THIS SECTION HAS
+BEEN FULLY DISCUSSED BY EACH OF THE PARTIES HERETO AND THESE PROVISIONS WILL NOT BE SUBJECT TO ANY EXCEPTIONS. EACH PARTY HERETO HEREBY
+FURTHER REPRESENTS AND WARRANTS THAT SUCH PARTY HAS REVIEWED THIS WAIVER WITH ITS LEGAL COUNSEL, AND THAT SUCH PARTY KNOWINGLY AND VOLUNTARILY
+WAIVES ITS JURY TRIAL RIGHTS FOLLOWING CONSULTATION WITH LEGAL COUNSEL.
+
+Notices.
+All notices, requests, consents and demands shall be made in writing to the Company or to the Holder of this Note at their respective
+addresses set forth in the Asset Purchase Agreement or to such other address as provided therein. All notices, requests, consents and
+other communications hereunder shall be deemed to have been given either (i) if by hand, at the time of the delivery thereof to the
+receiving party at the address of such party set forth above, (ii) if sent by overnight courier, on the next business day following
+the day such notice is delivered to the courier service, (iii) when sent by confirmed electronic mail or facsimile if sent during
+normal business hours of the recipient, if not, then on the next business day, or (iv) if sent by registered or certified mail, on
+the fifth day following the day such mailing is made.
+
+[Signature Page to Follow]
+
+10
+
+IN WITNESS WHEREOF, this Note
+has been executed and delivered as of the date first above written by the duly authorized representative of the Company.
+
+WISA TECHNOLOGIES, INC.
+
+By: /s/ Brett Moyer 
+
+Name: Brett Moyer
+
+Title: Chief Executive Officer
+
+Agreed and Accepted:
+
+DATA VAULT HOLDINGS INC.
+
+By: /s/ Nathaniel Bradley 
+
+Name: Nathaniel Bradley 
+
+Title: Chief Executive Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>4
+<FILENAME>tm252064d1_ex10-1.htm
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+Exhibit 10.1
+
+EARNOUT AGREEMENT
+
+This EARNOUT AGREEMENT (this
+Agreement) is entered into December 31, 2024 by and between WiSA Technologies, Inc., a Delaware corporation
+(the Company) and Data Vault Holdings Inc., a Delaware corporation (the Beneficiary, and together
+with the Company, the Parties). Capitalized terms used herein without definition shall have the meanings ascribed
+to such terms in the Purchase Agreement (as defined below).
+
+WHEREAS, the Parties
+are entering into this Agreement pursuant to that certain asset purchase agreement, dated as of September 4, 2024, as amended from
+time to time (the Purchase Agreement), by and between the Company and the Beneficiary.
+
+WHEREAS, as part of
+the transactions contemplated in the Purchase Agreement, the Beneficiary shall be entitled to certain payments as set forth in the Purchase
+Agreement based upon the revenue generated from or otherwise attributable to any patent rights included in the Acquired Assets.
+
+WHEREAS, the Beneficiary
+and the Company have agreed that calculation and payment of such earnout amounts is to be made in accordance with the terms of this Agreement.
+
+NOW, THEREFORE, in
+consideration of the premises and of the respective covenants and provisions contained herein, the Beneficiary and the Company agree as
+follows:
+
+1. Definitions.
+
+Commencement Date
+means January 1, 2025.
+
+Earnout Amount
+means, with respect to each Earnout Period, an amount equal to 3% of the Net Revenue for such Earnout Period.
+
+Earnout Payment
+means each payment made pursuant to Section 2 below for the applicable Earnout Period.
+
+Earnout Period
+means each quarterly period ending March 31, June 30, September 31 or December 31 from and after the Commencement
+Date until and including the quarterly period in which the Term expires.
+
+Net Revenue
+means, for any period, the gross revenue of the Company (including its subsidiaries and affiliates) generated from or otherwise attributable
+to any products and/or services incorporating or otherwise utilizing the Patent Rights, subject to customary deductions calculated in
+accordance with GAAP, consistently applied, and as set forth on Exhibit B, and consistent with the Companys accounting
+policies and past practices.
+
+Net Revenue Statement
+shall have the meaning assigned to such term in Section 3(a).
+
+Patent Rights
+means all rights, to the extent not expired, in and to any national, regional and international issued patents and patent applications
+included in the Acquired Assets.
+
+Term
+means the period commencing as of the Closing Date and ending upon the expiration of the last to expire of the Patent Rights, as set forth
+in Exhibit A.
+
+2. Earnout Payments.
+
+(a) Payment
+of Earnout Payments.
+
+(i) For
+each Earnout Period during the Term, the Company shall pay the Earnout Amount with respect to such Earnout Period (each such payment,
+an Earnout Payment), by wire transfer of immediately available funds to one or more bank accounts designated by the
+Beneficiary, within 10 Business Days following the date that the Earnout Amount for such Earnout Period becomes final and binding in accordance
+with Section 3. The Parties agree to negotiate in good faith on any reasonable and good faith requests by a Party to
+adjust the methodology of calculating Net Revenue with respect to any specific product and/or service incorporating or otherwise utilizing
+the Patent Rights.
+
+(ii) The
+Beneficiary shall not be entitled to any interest on any payments under this Agreement.
+
+(b) Right
+of Setoff. The Company shall have the right to withhold and set off against any amount owed by the Beneficiary to the Company under
+the Purchase Agreement.
+
+3. Net Revenue Statement; Dispute Resolution.
+
+(a) As
+promptly as practicable, but in no event more than 30 Business Days following the end of the Earnout Period with respect to the first
+three Earnout Periods of the fiscal year, and in no event more than 45 Business Days following the end of the Earnout Period with respect
+to the last Earnout Period of the fiscal year, the Company shall prepare or cause to be prepared and delivered to the Beneficiary a written
+statement setting forth the Companys good faith calculation of Net Revenue and the Earnout Amount for such Earnout Period, together
+with reasonable supporting documentation used in making such determination (the Net Revenue Statement). During the
+10 Business Days immediately following the Beneficiarys receipt of the Net Revenue Statement and during the period in which any
+dispute with respect thereto is pending and unresolved, the Company shall provide the Beneficiary reasonable access during normal business
+hours to such books and records of the Company as the Beneficiary may reasonably request in order to review and verify the Companys
+calculation of Net Revenue and the Earnout Amount as set forth in the Net Revenue Statement, and the Company shall use its commercially
+reasonable efforts to cooperate, and to cause employees, accountants and other representatives to cooperate, with and promptly respond
+to such requests. The Earnout Amount set forth in such Net Revenue Statement shall become final and binding upon the Parties if (i) the
+Beneficiary notifies the Company in writing of its acceptance of the Net Revenue Statement or (ii) the Beneficiary has not given
+written notice to the Company of any objections to the Net Revenue Statement, setting forth in reasonable detail the basis for such objections
+(an Objection Notice), within 10 Business Days following the Beneficiarys receipt thereof.
+
+(b) The
+Company and the Beneficiary shall attempt in good faith to resolve any objections set forth in an Objections Notice. If the Company and
+the Beneficiary fail to resolve such dispute within 20 Business Days after the Companys receipt of such Objection Notice (or such
+longer period as mutually agreed upon by the Company and the Beneficiary), then any such dispute may thereafter be referred by either
+Party for resolution to the Independent Accountant. The Company and the Beneficiary shall take, or cause to be taken, all actions and
+do, or cause to be done, all things necessary to cooperate with the Independent Accountant in its resolution of the dispute. The determination
+of the Independent Accountant shall be made as promptly as practicable and shall be final, binding and conclusive on the Parties. The
+fees and expenses of the Independent Accountant incurred in resolving the dispute shall be borne by the Beneficiary, unless the final
+determination of Net Revenue, after resolution of such dispute, exceeds the Companys calculation of Net Revenue set forth on the
+Net Revenue Statement by more than 5%, in which case such fees and expenses shall be borne by the Company.
+
+4. Management of the Business.
+
+(a) Subject
+to applicable law and the provisions of this Section 4, the rules and regulations of Nasdaq and the Companys obligations
+to its shareholders, the Company shall be entitled to do any act (or refrain therefrom) in the conduct of its business; provided, however,
+that the such action (or determination not to act) is in good faith, consistent with reasonable business practices and the Company reasonably
+considers such action (or determination not to act) to be necessary and not for the purpose of adversely affecting or impairing the ability
+of the Companys business to maximize the Earnout Amount.
+
+(b) Notwithstanding
+anything to the contrary contained herein, during the Term, the Company:
+
+(i) shall
+maintain a financial record keeping system that enables the Company to separately and accurately account for Net Revenue for the purposes
+of determining the Earnout Payments hereunder;
+
+2
+
+(ii) shall
+devote and allocate sufficient amount of capital, personnel, technical and financial resources as is commercially reasonable and appropriate
+for the operation of the Companys business; and
+
+(iii) shall
+not sell, exclusively license, exchange or otherwise transfer, directly or indirectly, in one transaction or a series of related transactions,
+any Acquired Assets with respect to the Patent Rights (a Sale) to any third party (a Successor),
+unless (A) the Company receives three percent (3%) of the gross proceeds of such Sale (including any deferred or contingent proceeds
+of such Sale), and (B) the Company pays or causes to be paid to the Beneficiary all Earnout Payments that have become due and payable
+under this Agreement prior to the consummation of such Sale.
+
+5. Miscellaneous.
+
+(a) Entire
+Agreement. This Agreement and the documents referred to herein contain the entire agreement between the Parties and supersede
+any prior understandings, agreements, or representations by or between the Parties, written (including electronic) or oral, which may
+have related to the subject matter hereof in any way.
+
+(b) Succession
+and Assignment. This Agreement shall be binding upon and inure to the benefit of the Parties named herein and their respective
+successors and permitted assigns. Neither Party shall assign either this Agreement or any of its rights, interests, or obligations hereunder
+without the prior written approval of the other Party; provided, however, that (i) the Company may assign this Agreement or any of
+its rights, interests, or obligations hereunder to any of its Affiliates without the approval of the Beneficiary, provided, that (A) such
+Affiliate has expressly agreed in writing to assume all obligations of the Company under this Agreement and (B) notwithstanding any
+such assignment, the Company shall guarantee the payment obligations hereunder, and (ii) the Beneficiary may assign this Agreement
+or any of its rights, interests, or obligations hereunder to a trust established for the benefit of such shareholders without the approval
+of the Company.
+
+(c) Counterparts.
+This Agreement may be executed in two or more counterparts, and by the Parties in separate counterparts, each of which shall be deemed
+to be an original, but all of which taken together shall constitute one and the same agreement.
+
+(d) Headings.
+The descriptive headings herein are inserted for convenience of reference only and are not intended to be part of or to affect the meaning
+or interpretation of this Agreement.
+
+(e) Governing
+Law. All questions concerning the construction, validity, and interpretation of this Agreement shall be governed by and construed
+in accordance with the domestic laws of the State of Delaware, without giving effect to any choice of law or conflict of law provision
+that would cause the application of the laws of any jurisdiction other than the State of Delaware. Each of the Parties hereto hereby irrevocably
+and unconditionally consents to submit to the exclusive jurisdiction of the state or federal courts of the State of Delaware for any litigation
+arising out of or relating to this Agreement and the transactions contemplated hereby (and agrees not to commence any litigation, proceeding
+or action relating thereto except in such courts). Each of the Parties hereto hereby irrevocably and unconditionally waives any objection
+to the laying of venue of any litigation arising out of this Agreement or the transactions contemplated hereby in the state or federal
+courts of the State of Delaware and hereby further irrevocably and unconditionally waives and agrees not to plead or claim in any such
+court that any such litigation, proceeding or action brought in any such court has been brought in an inconvenient forum. Each Party hereto
+hereby consents to process being served in any such litigation by the mailing of a copy thereof to the address set forth in Section 5(h) below
+and agrees that such service upon receipt shall constitute good and sufficient service of process or notice thereof. Nothing in this Section 5(e) shall
+affect or eliminate any right to serve process in any other manner contemplated by applicable Law.
+
+(f) Amendments
+and Waivers. This Agreement may be amended and any provision of this Agreement may be waived only if such amendment or waiver is set
+forth in a writing executed by each of the Parties. No course of dealing between or among any Persons having any interest in this Agreement
+shall be deemed effective to modify, amend, or discharge any part of this Agreement or any rights or obligations of any Party under or
+by reason of this Agreement.
+
+3
+
+(g) Severability.
+Whenever possible, each provision of this Agreement shall be interpreted in such a manner as to be effective and valid under applicable
+Law, but if any provision of this Agreement is held to be prohibited by or invalid under applicable Law, such provision shall be ineffective
+only to the extent of such prohibition or invalidity, without invalidating the remainder of such provisions or the remaining provisions
+of this Agreement.
+
+(h) Notices.
+All notices, demands, and other communications given or delivered under this Agreement shall be in writing and shall be deemed to have
+been given, (a) when received if given in person, (b) on the date of electronic confirmation of receipt if sent by e-mail or
+other wire transmission, (c) three days after being deposited in the U.S. mail, certified or registered mail, postage prepaid, or
+(d) one day after being deposited with a reputable overnight courier. Notices, demands, and communications to the Parties shall,
+unless another address is specified in writing, be sent to the address or facsimile number indicated below:
+
+Notices to Beneficiary:
+
+Data Vault Holdings Inc.
+
+48 Wall Street, Floor 11
+
+New York, NY 10005
+
+Attention: Nathaniel Bradley, CEO
+
+with a copy to:
+
+Mitchell Silberberg & Knupp LLP
+
+437 Madison Ave., 25th Floor
+
+New York, NY 10022
+
+Attention: Blake Baron
+
+Notices to the Company:
+
+WiSA Technologies, Inc.
+
+15268 NW Greenbrier Pkwy
+
+Beaverton, Oregon 97006
+
+Attention: Brett Moyer
+
+with a copy to:
+
+Sullivan & Worcester LLP
+
+1251 Avenue of Americas
+
+New York, NY 10020
+
+Attention: David Danovitch
+
+(i) Expenses.
+Except for payments to the Independent Accountant, if any, pursuant to Section 3(b), all costs and expenses (including, without
+limitation, legal fees and expenses) incurred in connection with this Agreement shall be paid by the Party incurring such costs and expenses,
+provided, however, that in any collection action brought to enforce the Companys obligation to make an Earnout Payment pursuant
+to Section 2(a)(i) with respect to an Earnout Payment finally determined in accordance with Section 3, the
+prevailing party shall be entitled to reasonably attorneys fees and any other costs incurred in that proceeding in addition to
+any other relief to which it is entitled.
+
+(j) Incorporation
+of Exhibits. The Exhibits identified in this Agreement are incorporated herein by reference and made a part hereof.
+
+(k) Construction.
+
+4
+
+(i) All
+references in this Agreement to dollars or $ shall mean United States dollars;
+
+(ii) When
+a reference is made in this Agreement to a section or article, such reference shall be to a section or article of this Agreement unless
+otherwise clearly indicated to the contrary.
+
+(iii) Whenever
+the words include, includes or including are used in this Agreement they shall be deemed to
+be followed by the words without limitation.
+
+(iv) The
+words hereof hereby herein and herewith and words of similar import shall, unless
+otherwise stated, be construed to refer to this Agreement as a whole and not to any particular provision of this Agreement.
+
+(v) The
+plural of any defined term shall have a meaning correlative to such defined term, and words denoting any gender shall include all genders.
+Where a word or phrase is defined herein, each of its other grammatical forms shall have a corresponding meaning.
+
+(vi) A
+reference to any Party to this Agreement or any other agreement or document shall include such Partys permitted successors and
+permitted assigns.
+
+(vii) A
+reference to any legislation or to any provision of any legislation shall include any modification or re-enactment thereof, any legislative
+provision substituted therefor and all regulations and statutory instruments issued thereunder or pursuant thereto.
+
+(viii) The
+Parties have participated jointly in the negotiation and drafting of this Agreement. In the event an ambiguity or question of intent or
+interpretation arises, this Agreement shall be construed as if drafted jointly by the Parties, and no presumption or burden of proof shall
+arise favoring or disfavoring any Party by virtue of the authorship of any provisions of this Agreement.
+
+[Signature Page Follows]
+
+5
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement
+as of the date first written above.
+
+WISA TECHNOLOGIES, INC.
+
+By: /s/ Brett Moyer 
+
+Name: Brett Moyer
+
+Title: Chief Executive Officer
+
+DATA VAULT HOLDINGS INC.
+
+By: /s/ Nathaniel Bradley 
+
+Name: Nathaniel Bradley
+
+Title: Chief Executive Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>5
+<FILENAME>tm252064d1_ex10-3.htm
+<DESCRIPTION>EXHIBIT 10.3
+<TEXT>
+Exhibit 10.3
+
+AMENDED AND RESTATED EXECUTIVE EMPLOYMENT AGREEMENT
+
+This EXECUTIVE
+EMPLOYMENT AGREEMENT (Agreement) is made effective as of December 31, 2024 immediately after
+consummation of the acquisition by WiSA of the assets of Data Vault Holdings Inc by and between WiSA Technologies, Inc., a
+Delaware corporation, with its principal offices in Beaverton, Oregon (hereinafter WiSAor
+the Company),and Brett Moyer, an individual and a
+resident of California (Executive).
+
+RECITALS
+
+A. WiSA
+and Executive are parties to that certain Executive Employment Agreement, effective as of August 24, 2022, pursuant to which Executive
+is employed as Chief Executive Officer of the Company (the Existing Agreement).
+
+B. In
+connection with the consummation of the acquisition by WiSA of the assets of Data Vault Holdings Inc., WiSA desires to continue the employment
+of Executive as Chief Financial Officer of the Company, and Executive desires and is ready, willing and able to assume a new role as Chief
+Financial Officer of the Company.
+
+C. WiSA
+and Executive wish to waive the covenants contained in Section 8 of the Existing Agreement, including the right of Executive to resign
+for Good Reason pursuant to Section 8(c) of the Existing Agreement (as defined therein), and to enter into and
+secure the covenants contained herein.
+
+D. WiSA
+and Executive desire to enter into this Agreement to amend and restate the Existing Agreement in order to secure the covenants of Executive
+as set forth herein and to provide the rights and benefits to Executive in consideration of Executives obligations hereunder.
+
+AGREEMENT
+
+NOW,
+THEREFORE, the parties, in consideration of the foregoing Recitals, each of which is incorporated by this reference as
+an essential term, the covenants, conditions and other terms hereof, and other good and valuable consideration, the receipt and sufficiency
+of which is hereby acknowledged, agree as follows.
+
+1. Employment.
+WiSA shall employ Executive and Executive accepts full time employment as Chief Financial Officer of WiSA beginning on December 30,
+2024, on the terms and conditions set forth herein.
+
+Executives employment under this Agreement
+shall be for an unspecified term (the Term) on an at will basis. Nothing in Companys policies,
+actions or this Agreement shall be construed to alter the at will nature of Executives status with Company, and Executive
+understands that Company may terminate Executives employment at any time for any reason or for no reason, provided that it is not
+terminated in violation of state or federal law.
+
+1
+
+2. Duties
+and Responsibilities. During the Term of this Agreement, Executive shall devote substantially all of his time, energy and skills
+to overseeing the Companys accounting, finance, human resources and financial control departments and such other duties as the
+Audit Committee (the Audit Committee) of the Board of Directors (the Board) of the Company or
+the Board may require from time to time. Executive shall work faithfully and to the best of his ability and efforts promoting the business
+interests of WiSA. Executive will discharge his duties at all times in accordance with any and all policies of WiSA and will report to,
+and be subject to the direction of, the Audit Committee. It is understood the Executive shall also work independently with and as required
+by the Board. The Executive shall be considered a key employee of the Company.
+
+3. Compensation.
+Executives base annual salary upon signing this Agreement shall be $420,000. Executives performance shall be reviewed annually
+thereafter. Adjustments in salary may be made from time to time in the sole discretion of the Board. Salary shall be paid in arrears in
+accordance with Companys regular payroll practices and subject to applicable income and employment tax withholding and authorized
+deductions.
+
+4. Bonus
+Compensation.
+
+(a) Stay
+Bonus. Executive shall be entitled to receive a cash bonus, subject to applicable income and employment tax withholding, of $400,000
+(the Stay Bonus), payable in quarterly installments as follows:
+
+(i) $50,000 on March 31, 2025, if Executive remains employed through such date;
+
+(ii) $75,000 on June 30, 2025, if Executive remains employed through such date;
+
+(iii) $125,000 on September 30, 2025, if Executive remains employed through such date; and
+
+(iv) $150,000 on December 31, 2025, if Executive remains employed through such date
+
+; provided, however, that if Executive is involuntary
+terminated by the Company other than for Cause (as defined below) prior to or on December 31, 2025, Executive shall
+nevertheless receive any unpaid portion of the full Stay Bonus on the applicable date of termination.
+
+(b) Performance
+Bonus. Executive will be eligible to participate in bonus arrangements made available to the Companys senior management from
+time to time by the Board. Except as otherwise provided in this Agreement, to be eligible for payment, Executive must be employed by the
+Company on the date any such bonus is paid.
+
+5. Executive
+Benefits.
+
+(a) Vacation.
+Executive shall receive a minimum of twenty (20) business days of paid vacation and thereafter consistent with the Companys vacation
+policy, during each year of this Agreement (pro rata). Unused vacation will carry over from one year to the next but the maximum amount
+of vacation, which can accrue (unused) at any one time, shall not exceed thirty (30) business days. Unused vacation will not be paid in
+the form of cash, except upon termination of employment.
+
+2
+
+(b) Benefits.
+Executive shall be eligible to participate in any and all benefit plans maintained by the Company, subject to the eligibility requirements
+and other terms of such plans and programs. The benefits offered by the Company may be modified or changed at the discretion of the Company.
+
+6. Expenses.
+WiSA shall reimburse Executive for all reasonable business expenses incurred by Executive pursuant to Company policies (as adopted from
+time to time); provided, however, that Executive complies with any established policy and procedure for the reimbursement
+of such expenses, including, but not limited to, submitting an appropriate expense report.
+
+7. Compliance
+with Laws and Policies. As a Company employee, Executive agrees that he must act in conformity with the law at all times, without
+exception. Executive will abide by Company rules, regulations and policies as in effect from time to time, including, but not limited
+to those uploaded to the Corporate Governance section of the Companys website (https://ir.wisatechnologies.com/corporate-governance/governance-documents).
+
+8. Consequences
+of Termination.
+
+(a) Termination
+for Cause or Resignation without Good Reason. If Executives employment is terminated by WiSA for Cause or Executive
+resigns without Good Reason (as defined below), then (i) WiSA shall pay the Executive his base salary, as described
+in Section 3 above, to the date of termination and (ii) Executive shall not be entitled to any other salary, bonus compensation
+or benefits after the date of termination, except the right to receive benefits that have become vested under any benefit plan or to which
+Executive is entitled as a matter of law. For the avoidance of doubt, if Executives employment is terminated by WiSA for Cause
+or Executive resigns without Good Reason, then none of the severance related benefits described in Section 8(b) shall be provided.
+
+(b) Resignation
+for Good Reason or Termination without Cause. The provisions of this Section 8(b) shall apply in the event Executive is
+either terminated by Company without Cause or Executive resigns for Good Reason and provided Executive executes, delivers and does not
+revoke the Companys standard release of claims agreement within sixty (60) days of such termination of employment. If the sixty
+(60)-day period referenced in the preceding sentence spans two (2) taxable years, payment shall only commence in the second taxable
+year. For the avoidance of doubt, if the Executive ceases to provide services to the Company within twelve (12) months of a Change
+in Control (as defined below), Executive will be treated for purposes of this Section 8(b) as having been terminated
+by Company without Cause.
+
+(i) The Company will continue payment of Executives base salary (at the same rate existing immediately prior to his termination)
+for a period of twelve (12) months (the Severance Period) pursuant to the Companys regular payroll practices
+and subject to applicable income and employment tax withholding and authorized deductions.
+
+3
+
+(ii) Provided Executive is entitled to, elects to and remains eligible to continue group health, dental and vision coverage under the Consolidated
+Omnibus Budget Reconciliation Act of 1985, as amended (COBRA), WiSA will continue during the Severance Period to
+contribute toward the cost of such coverage as if Executive were an active employee unless doing so violates applicable law or is inconsistent
+with the coverage arrangement.
+
+(iii) The Company shall pay Executive any bonus compensation otherwise due for the applicable year of termination prorated on a 365-day
+basis to the date of termination of employment in the year following the year to which the bonus compensation relates; provided, however,
+that such bonus shall be paid no earlier than January 1 nor later than March 15 of the year following the year of termination.
+
+(iv) Any and all unvested equity awards in Executives name shall immediately become fully vested and exercisable; provided,
+however, that regardless of the terms of any equity award agreement between the Company and Executive, absent a separate signed
+written agreement between Company and Executive that specifically references this provision of this Agreement, no exercise of an award
+that requires exercise by the Executive shall occur more than six (6) months after such termination and in no event after the expiration
+of such award.
+
+(v) In the event of Executives subsequent death, Company shall continue to pay and/or make available for the remainder of the Severance
+Period the payments and benefits not yet paid or provided pursuant to this Section 8(b), with any amounts other than COBRA continuation
+coverage payable to Executives estate.
+
+(c) Termination
+in the Event of Death. If Executives employment terminates due to Executives death, Executive shall be treated
+as if terminated by the Company without Cause for purposes of this Section 8. Such payments and benefits (other than COBRA continuation
+coverage) shall be made to Executives estate or executor in the event of death.
+
+(d) Suspension
+of Payment. Notwithstanding anything herein to the contrary, if Executive is in violation of any provision of Sections 10,
+11, 12 or 13 below, WiSA shall have no obligation to make payment(s) under Section 8(b) of this Agreement if WiSA has determined
+in good faith that such a violation(s) has occurred or is occurring. If it is later established through arbitration or other judicial
+proceeding that no such violation occurred, WiSA shall agree to pay to Executive any such amount withheld from or not paid during such
+period to the extent consistent with Section 409A (Section 409A) of the Internal Revenue Code (the Code).
+
+4
+
+(e) No
+Mitigation. Executive will be under no obligation to mitigate damages by seeking other employment, and there will be no offset
+against the amounts due Executive under this Agreement, except as specifically provided in Section 8(d) above or for any other
+claims that WiSA may have against Executive and to the extent consistent with Section 409A.
+
+(f) Survival
+of Provisions. The obligations of confidentiality, assignment of inventions, non-competition, non-solicitation and non-disparagement
+under Sections 10, 11, 12 and 13 hereof shall survive the termination of this Agreement for any reason.
+
+9. Change
+in Control. If there is a Change in Control of WiSA, any and all unvested equity awards in Executives name shall immediately
+become fully vested and exercisable; provided, however, that regardless of the terms of any equity award agreement between
+the Company and Executive, absent a separate signed written agreement between Company and Executive that specifically references this
+provision of this Agreement, no exercise of an award that requires exercise by the Executive shall occur more than six (6) months
+after such termination and in no event after the expiration of such award.
+
+10. Confidential
+Information and Assignment of Inventions.
+
+(a) Executive
+will not disclose to a third party or use for his personal benefit confidential information of WiSA. Confidential
+Informationmeans any information used or useful in WiSAs business that is not generally known outside
+of WiSA and that is proprietary to WiSA relating to any aspect of WiSAs existing or reasonably foreseeable business that is disclosed
+to Executive or conceived, discovered or developed by Executive. Confidential Information includes, but is not limited to: product designs
+including drawings and sketches, manufacturing materials, plant layouts, tooling, sales marketing plans or proposals, customer information,
+customer lists, raw material sources, manufacturing processes, price, financial, accounting and cost information, clinical data, administrative
+techniques and documents and information designated by WiSA as Confidential. Executive shall also comply with the terms
+of any Confidentiality Agreement by which WiSA is bound to a third party as well as the Companys Confidential Information and Invention
+Assignment Agreement, if applicable.
+
+(b) Executive
+grants to WiSA the exclusive ownership of all reports, drawings, blueprints, data writings and technical information made by Executive
+alone or with others during the term of his employment, whether or not made or prepared in the course of his employment, that relate to
+apparatus, compositions of matter or methods pertaining to WiSA business. Executive acknowledges that all such reports, drawings, blueprints,
+data writings and technical information are the property of WiSA.
+
+(c) Executive
+will promptly disclose to WiSA in writing all inventions and proprietary information that he alone or with others conceives, generates
+or reduces to practice, during or after working hours, while an employee of WiSA and for six (6) months following Executives
+termination of employment with respect to work performed by Executive for WiSA. All such inventions and proprietary information shall
+be the exclusive property of WiSA and are assigned to WiSA. This Agreement shall not apply to any invention for which no equipment, supplies,
+facility or trade secret information of WiSA was used, and that was developed entirely on Executives time, and (i) that does
+not relate (1) directly to the business of WiSA or (2) to WiSAs actual or demonstrably anticipated research or development
+or (ii) that does not result from any work performed by Executive for WiSA.
+
+5
+
+(d) At
+WiSAs expense, Executive shall give WiSA all assistance it reasonably requires to perfect, protect and use its rights to inventions
+and proprietary information. In particular, but without limitation, Executive will sign all documents, do all things and supply all information
+that WiSA may deem necessary or desirable to (i) transfer or record the transfer of Executives entire right, title and interest
+in inventions and proprietary information and (ii) enable WiSA to obtain patent, copyright or trademark protection for inventions
+anywhere in the world. Executive understands that the provisions of this Section 10 do not apply to any invention that qualifies
+fully under the provisions of California Labor Code Section 2870 (attached hereto as Exhibit A).
+
+11. Non-Competition.
+During the Term, Executive shall not, directly or indirectly, either as an Executive, consultant, agent, principal, partner, stockholder
+(except in a publicly held company), corporate officer, director or in any other individual or representative capacity, engage or participate
+in any business that is in competition in any manner whatsoever with the then current or anticipated business of WiSA.
+
+12. Non-Solicitation.
+During the Term of his employment with WiSA and any Severance Period, and for a period of one (1) year after termination of such
+employment or end of any Severance Period, whichever is later, Executive will not, directly or indirectly, solicit, hire or otherwise
+engage, on his own behalf or on behalf of another person or entity, the services of any person who is an employee of WiSA.
+
+13. Non-Disparagement.
+During and after the termination or expiration of this Agreement, Executive shall not make any negative or disparaging remarks or comments
+(either oral or written) about WiSA, its affiliated or related companies or any of the foregoing entities directors, officers, employees,
+agents, services or products, and WiSA agrees not to make any negative or disparaging remarks or comments (either oral or written) about
+Executive. Notwithstanding the foregoing, each of the parties is entitled accurately to describe their past relationship to potential
+employers, partners or affiliates of Executive or potential partners or affiliates of WiSA.
+
+14. Protected
+Disclosures. Under the Defend Trade Secrets Act of 2016, Executive shall not be held criminally or civilly liable under any federal
+or state trade secret law for the disclosure of a trade secret that is: (a) made in confidence to a federal, state or local government
+official, either directly or indirectly, or to an attorney, and solely for the purpose of reporting or investigating a suspected violation
+of law; or (b) in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal. Nothing
+in this Agreement shall prohibit Executive from reporting possible violations of federal or state law or regulation to any governmental
+agency or entity or making other disclosures that are protected under the whistleblower provisions of federal or state law or regulation. Executive
+does not need the prior authorization of WiSA to make any such whistleblower reports or disclosures and is not required to notify WiSA
+that he has made such whistleblower reports or disclosures. Furthermore, nothing in this Agreement prohibits or restricts Executive from
+making other reports protected by law, including filing a charge or complaint with the Equal Employment Opportunity Commission, the National
+Labor Relations Board or a similar agency enforcing federal, state or local laws, and it does not limit Executives ability to communicate
+with any government agency, entity or organization, make disclosures or otherwise participate in any investigation or proceeding that
+may be conducted by any government agency, entity or organization.
+
+6
+
+15. Arbitration.
+
+(a) To
+the maximum extent permitted by law, any controversy between WiSA and Executive involving the construction or application of any of the
+terms, provisions or conditions of this Agreement or the breach thereof shall be settled by final and binding arbitration by a single
+arbitrator to be held in Santa Clara, California, in accordance with the National Rules for the Resolution of Employment Disputes
+of the American Arbitration Association (AAA Rules) then in effect. The arbitrator selected shall have the authority
+to grant Executive or the Company or both all remedies otherwise available by law, including injunctions.
+
+(b) Notwithstanding
+anything to the contrary in the AAA Rules, the arbitration shall provide (i) for written discovery and depositions adequate to give
+the Parties access to documents and witnesses that are essential to the dispute and (ii) for a written decision by the arbitrator
+that includes the essential findings and conclusions upon which the decision is based. Consistent with applicable law, Executive and the
+Company shall each bear his or its own costs and attorneys fees incurred in conducting the arbitration and, except in such disputes
+where Executive asserts a claim otherwise under a state or federal statute prohibiting discrimination in employment (a Statutory
+Discrimination Claim), or where otherwise required by law, shall split equally the fees and administrative costs charged by
+the arbitrator and AAA. In disputes where Executive asserts a Statutory Discrimination Claim against the Company, or where otherwise required
+by law, Executive shall be required to pay only the AAA filing fee to the extent such filing fee does not exceed the fee to file a complaint
+in state or federal court. The Company shall pay the balance of the arbitrators fees and administrative costs.
+
+(c) The
+decision of the arbitrators will be final, conclusive and binding on the Parties to the arbitration. The prevailing party in the arbitration,
+as determined by the arbitrator, shall be entitled to recover his or its reasonable attorneys fees and costs, including the costs
+or fees charged by the arbitrator and AAA. In disputes where Executive asserts a Statutory Discrimination Claim, reasonable attorneys
+fees shall be awarded by the arbitrator based on the same standard as such fees would be awarded if the Statutory Discrimination Claim
+had been asserted in state or federal court. Judgment may be entered on the arbitrators decision in any court having jurisdiction.
+
+16. Certain
+Definitions. For purposes of this Agreement, the following terms will have the meaning set forth below.
+
+7
+
+(a) Cause.
+Cause means that Executive has: (i) committed an act of dishonesty, fraud or breach of trust involving the business
+of WiSA; (ii) willfully failed to follow any material policy or material instructions of WiSA, his or her supervisor or its Chief
+Executive Officer provided such are lawful and not a violation of public policy; (iii) been indicted for or convicted of any felony;
+(iv) engaged in any gross misconduct, such as sexual harassment, material violations of applicable law or defalcations in the performance
+of or in connection with the Executives duties or employment by WiSA; or (v) otherwise breached material obligations under
+this Agreement.
+
+(b) Change
+in Control. Change in Control means any of the following events:
+(i) the acquisition by any individual, entity or group (a Person) within the meaning of Section 13(d)(3) or
+14(d)(2) of the Securities Exchange Act of 1934 (the Exchange Act) of beneficial ownership (within the meaning
+of Rule 13d-3 promulgated under the Exchange Act) of 50% or more of the then-outstanding shares of Common Stock plus any other outstanding
+shares of stock of the Company entitled to vote in the election of directors (the Outstanding Company Voting Securities);
+provided, however, that the Company and any employee benefit plan (or related trust) sponsored by it shall not be deemed
+to be a Person; or (ii) a change in the composition of the Board such that the individuals who constitute the Board (the Incumbent
+Board) cease for any reason to constitute at least a majority of the Board within any 365-day period (and for this purpose,
+any individual whose election or nomination for election by the Companys shareholders was approved by a vote of at least two-thirds
+(2/3rds) of the directors then comprising the Incumbent Board shall be considered a member of the Incumbent Board); or (iii) the
+consummation of a reorganization, merger, statutory share exchange or consolidation or similar corporate transaction involving the Company
+or any of its subsidiaries or a sale or other disposition of substantially all of the assets of the Company or a material acquisition
+of assets or stock of another entity by the Company or any of its subsidiaries (each, a Business Combination) if:
+(1) the individuals and entities that were the beneficial owners of the Outstanding Company Voting Securities immediately prior to
+such Business Combination do not beneficially own, directly or indirectly, more than 50% of the then-outstanding shares of stock and the
+combined voting power of the then-outstanding voting securities of the company resulting from such Business Combination; or (2) a
+Person beneficially owns, directly or indirectly, 50% or more of the then-outstanding shares of stock of the company resulting from such
+Business Combination; or (3) members of the Incumbent Board do not comprise at least a majority of the members of the board of directors
+of the company resulting from such Business Combination; or (iv) the approval by the shareholders (or in the case of (iv)(1) the
+Board) of the Company of: (1) a complete liquidation or dissolution of the Company; (2) any merger/consolidation/recap in which
+Company not survivor; or (3) upon the Companys insolvency, general assignment for the benefit of creditors or the commencement
+by or against the Company of any action seeking reorganization, arrangement, adjustment, liquidation, dissolution or composition of the
+Companys debts under any law relating to bankruptcy, insolvency or reorganization, or relief of debtors, or seeking appointment
+of a receiver other similar official for the Company or for all or any substantial part of the Companys assets.
+
+8
+
+(c) [Reserved]
+
+(d) Good
+Reason. Good Reason means WiSA, without Executives
+consent: (i) during the Term of his employment at WiSA, requires a material change in the geographic
+location at which Executive must perform services; or (ii) a substantial change in Executives duties and responsibilities;
+or (iii) at any time reduces Executives base compensation following a Change in Control; or (iv) at any time otherwise
+materially breaches its obligations under this Agreement; provided, however, that such termination by the Executive
+shall only be deemed for Good Reason pursuant to the foregoing definition if: (1) the Executive gives WiSA written notice of the
+intent to terminate for Good Reason within ninety (90) days following the first occurrence of the condition(s) that the Executive
+believes constitutes Good Reason, which notice shall describe such condition(s); (2) WiSA fails to remedy such condition(s) within
+thirty (30) days following receipt of the written notice (the Cure Period); and (3) the Executive terminates
+his employment within six (6) months following the end of the Cure Period.
+
+17. Section 409A.
+It is the intention of the parties that no payment or entitlement pursuant to this Agreement will give rise to any adverse tax consequences
+to any person pursuant to Section 409A and this Agreement shall be interpreted, applied and, to the minimum extent necessary, amended
+to achieve that intention. It is further intended that payments hereunder satisfy, to the greatest extent possible, the exemption from
+the application of Section 409A provided under Treasury Regulation Section 1.409A-1(b)(4) (as a short-term deferral).
+To the extent (i) any payments or benefits to which Executive becomes entitled under this Agreement, or under any agreement or plan
+referenced herein, in connection with his termination of employment with WiSA constitute deferred compensation subject to Section 409A
+and (ii) Executive is deemed at the time of such termination of employment to be a specified employee under Section 409A,
+then such payments shall not be made or commence until the earlier of (1) the date that is immediately following the expiration of
+the six (6)-month period measured from the date of Executives separation from service (as such term is at the time
+defined in Treasury Regulations under Section 409A) from WiSA or (2) the date of Executives death following such separation
+from service. Upon the expiration of the applicable deferral period, any payments that would have otherwise been made during that period
+(whether in a single sum or in installments) in the absence of this provision shall be paid to Executive or his beneficiary in one lump
+sum (without interest).
+
+Each installment of any payments provided hereunder
+shall constitute separate payments for purposes of Treasury Regulation Section 1.409A-2(b)(2)(iii). Except as otherwise
+expressly provided herein, to the extent any expense reimbursement or the provision of any in-kind benefit under this Agreement is determined
+to be subject to Section 409A, the amount of any such reimbursement or benefit in one calendar year shall not affect any reimbursement
+or benefit in any other taxable year, in no event shall any such reimbursement or benefit be provided after the last day of the calendar
+year following the calendar year in which Executive incurred such expense and in no event shall any right to reimbursement or the provision
+of any in-kind benefit be subject to liquidation or exchange for another benefit.
+
+9
+
+18. Miscellaneous.
+
+(a) Entire
+Agreement. This Agreement, and any other agreement specifically referenced herein, constitutes the entire agreement between
+the parties with respect to its subject matter, and supersedes, merges and voids all previous agreements, representations and warranties,
+written or oral, between the parties with respect to such subject matter. All other prior employment-related agreement(s) between
+Executive and WiSA are hereby terminated and of no further force or effect. Except as otherwise provided herein to Executives benefit,
+this Agreement shall not amend, modify, supersede or otherwise affect the terms of any equity award agreement(s), stock sale or sale restriction
+agreement(s) and any confidentiality, non-disclosure, non-competition and inventions agreement(s) to which Executive is a party
+with WiSA.
+
+(b) No
+Oral Modifications. This Agreement may only be modified in a writing signed by the Executive and an officer of WiSA expressly
+authorized by WiSA to modify this Agreement.
+
+(c) Personal
+Agreement. This Agreement shall be binding upon and inure to the benefit of WiSA. This Agreement shall be binding upon Executive,
+his heirs and personal and legal representative. This Agreement may not be assigned by Executive.
+
+(d) No
+Waiver. No failure by either party to exercise, and no delay in exercising, any right or remedy under this Agreement will operate
+as a waiver; nor will any single or partial exercise of any right or remedy preclude any other or further exercise of any right or remedy.
+The covenants and agreements set forth herein may be waived only by a written instrument executed by the party waiving compliance. Any
+such waiver shall only be effective in the specific instance and for the specific purpose for which it was given and shall not be deemed
+a waiver of any other provision hereof or of the same breach or default upon any recurrence thereof.
+
+(e) Specific
+Performance. The parties agree that irreparable damage would occur in the event that any of the provisions of this Agreement,
+other than the payment of money for the Executives Term of employment, were not performed in accordance with their specific terms
+or are otherwise breached or threatened to be breached. In the event of any breach or threatened breach, Executive acknowledges that damages
+will be insufficient remedy to WiSA in the event of a violation of Section 10, 11, 12 and/or 13 of this Agreement, and in the event
+of such breach or threatened breach of this Agreement, WiSA shall be entitled to seek injunctive relief, without the necessity of posting
+bond, through a court of competent jurisdiction to enforce the provisions of such Sections in addition to any other rights or remedies
+available to WiSA.
+
+(f) Successors
+and Assigns. This Agreement shall inure to the benefit of and be binding upon the Company, its successors and assigns and any
+such successor or assignee shall be deemed substituted for the Company under the terms of this Agreement for all purposes. As used herein,
+successor and assignee shall include any person, firm, corporation or other business entity that at any time,
+whether by purchase, merger or otherwise, directly or indirectly acquires the Company or to which the Company assigns the Agreement by
+operation of law or otherwise.
+
+10
+
+(g) Survival.
+Notwithstanding any contrary provision of this Agreement, upon termination or expiration of this Agreement for any reason, the covenants
+and obligations set forth in Sections 6, 7, 8 (including the applicability thereto of Sections 3 and 4), 10, 11, 12, 13, 14, 15, 16 and
+17 shall survive any termination of this Agreement or Executives employment hereunder until such covenants and agreements are fully
+satisfied and require no further performance or forbearance, or the rights of a party expire on the specific date by the terms hereof.
+
+(h) Adjustment
+of Restrictions. If any provision of Sections 10, 11, 12 and/or 13 of this Agreement is found by a court or arbitrator to be
+unenforceable under applicable law because one or more provisions are over broad or otherwise not enforceable in the form as set forth
+herein, then the court or arbitrator shall have the power to revise the terms of this Agreement to the extent necessary to make the provisions
+hereof enforceable.
+
+(i) Governing
+Law. This Agreement shall be governed by the laws of the State of California without giving effect to the conflicts of law provisions
+of any jurisdiction that would cause this Agreement to be governed by the laws of any jurisdiction other than those of the state of California.
+
+(j) Counterparts
+and Facsimile Signatures. This Agreement may be executed in two (2) or more counterparts, each of which shall be deemed
+an original but all of which together shall constitute one and the same Agreement. The counterparts of this Agreement and any schedules
+and exhibits hereto, if any, may be executed and delivered by facsimile signature by any of the parties to any other party and the receiving
+party may rely on the receipt of such document so executed and delivered by facsimile as if the original had been received.
+
+(k) Construction.
+The parties have participated jointly in the negotiation and drafting of this Agreement. In the event an ambiguity or question of intent
+or interpretation arises, this Agreement shall be construed as if drafted jointly by both parties, and no presumption or burden of proof
+shall arise favoring or disfavoring any party by virtue of the authorship of any of the provisions of this Agreement.
+
+[SIGNATURE PAGE FOLLOWS]
+
+11
+
+IN
+WITNESS OF THIS AGREEMENT, the parties have signed below.
+
+EXECUTIVE
+
+/s/ Brett Moyer Dated: December 31, 2024
+
+WiSA TECHNOLOGIES, INC.
+
+/s/ Sriram Peruvemba Dated: December 31, 2024
+
+By: Sriram Peruvemba 
+
+Its: Chair of the Compensation Committee of the Board
+of Directors of the Company 
+
+12
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>6
+<FILENAME>tm252064d1_ex10-4.htm
+<DESCRIPTION>EXHIBIT 10.4
+<TEXT>
+Exhibit 10.4
+
+EXECUTIVE EMPLOYMENT AGREEMENT
+
+This EXECUTIVE
+EMPLOYMENT AGREEMENT (Agreement) is made effective as of December 31, 2024 by and between WiSA
+Technologies, Inc., a Delaware corporation, with its principal offices in Beaverton,
+Oregon (hereinafter WiSAor the Company),and
+Nathaniel Bradley, an individual and a resident of Pennsylvania (Executive).
+
+RECITALS
+
+A. WiSA
+and Executive desire to enter into this Agreement to secure the covenants of Executive as set forth herein and to provide the rights and
+benefits to Executive in consideration of Executives obligations hereunder.
+
+AGREEMENT
+
+NOW, THEREFORE, the
+parties, in consideration of the foregoing Recitals, each of which is incorporated by this reference as an essential term, the covenants,
+conditions and other terms hereof, and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged,
+agree as follows.
+
+1. Employment.
+WiSA shall employ Executive and Executive accepts full time employment as Chief Executive Officer of WiSA beginning on December 30,
+2024, on the terms and conditions set forth herein.
+
+Executives employment under this Agreement
+shall be for an unspecified term (the Term) on an at will basis. Nothing in Companys policies,
+actions or this Agreement shall be construed to alter the at will nature of Executives status with Company, and Executive
+understands that Company may terminate Executives employment at any time for any reason or for no reason, provided that it is not
+terminated in violation of state or federal law.
+
+2. Duties
+and Responsibilities. During the Term of this Agreement, Executive shall devote substantially all of his time, energy and skills
+to overseeing the Company including its growth and business development, duties as a public company and such other duties as the Board
+of Directors of the Company (the Board) may require from time to time. Executive shall work faithfully and to the
+best of his ability and efforts promoting the business interests of WiSA. Executive will discharge his duties at all times in accordance
+with any and all policies of WiSA. It is understood the Executive shall also work independently with the Board of Directors as required
+by the Board. The Executive shall be considered a key employee of the Company.
+
+3. Compensation.
+Executives base annual salary upon signing this Agreement shall be $450,000. Executives performance shall be reviewed annually
+thereafter. Adjustments in salary may be made from time to time in the sole discretion of Board. Salary shall be paid in arrears in accordance
+with Companys regular payroll practices and subject to applicable income and employment tax withholding and authorized deductions.
+
+4. Bonus
+Compensation. Executive will be eligible to participate in bonus arrangements made available to the Companys senior management
+from time to time by the Board. Except as otherwise provided in this Agreement, to be eligible for payment, Executive must be employed
+by the Company on the date any such bonus is paid.
+
+1
+
+5. Executive
+Benefits.
+
+(a) Vacation.
+Executive shall receive a minimum of twenty (20) business days of paid vacation and thereafter consistent with the Companys vacation
+policy, during each year of this Agreement (pro rata). Unused vacation will carry over from one year to the next but the maximum amount
+of vacation, which can accrue (unused) at any one time, shall not exceed thirty (30) business days. Unused vacation will not be paid in
+the form of cash, except upon termination of employment.
+
+(b) Benefits.
+Executive shall be eligible to participate in any and all benefit plans maintained by the Company, subject to the eligibility requirements
+and other terms of such plans and programs. The benefits offered by the Company may be modified or changed at the discretion of the Company.
+
+6. Expenses.
+WiSA shall reimburse Executive for all reasonable business expenses incurred by Executive pursuant to Company policies (as adopted from
+time to time); provided, however, that Executive complies with any established policy and procedure for the reimbursement
+of such expenses, including, but not limited to, submitting an appropriate expense report.
+
+7. Compliance
+with Laws and Policies. As a Company employee, Executive agrees that he must act in conformity with the law at all times, without
+exception. Executive will abide by Company rules, regulations and policies as in effect from time to time, including, but not limited
+to those uploaded to the Corporate Governance section of the Companys website (https://ir.wisatechnologies.com/corporate-governance/governance-documents).
+
+8. Consequences
+of Termination.
+
+(a) Termination
+for Cause or Resignation without Good Reason. If Executives employment is terminated by WiSA for Cause
+(as defined below) or Executive resigns without Good Reason (as defined below), then (i) WiSA shall pay the Executive
+his base salary, as described in Section 3 above, to the date of termination and (ii) Executive shall not be entitled to any
+other salary, bonus compensation or benefits after the date of termination, except the right to receive benefits that have become vested
+under any benefit plan or to which Executive is entitled as a matter of law. For the avoidance of doubt, if Executives employment
+is terminated by WiSA for Cause or Executive resigns without Good Reason, then none of the severance related benefits described in Section 8(b) shall
+be provided.
+
+(b) Resignation
+for Good Reason or Termination without Cause. The provisions of this Section 8(b) shall apply in the event Executive is
+either terminated by Company without Cause or Executive resigns for Good Reason and provided Executive executes, delivers and does not
+revoke the Companys standard release of claims agreement within sixty (60) days of such termination of employment. If the sixty
+(60)-day period referenced in the preceding sentence spans two (2) taxable years, payment shall only commence in the second taxable
+year. For the avoidance of doubt, if the Executive ceases to provide services to the Company within twelve (12) months of a Change
+in Control (as defined below), Executive will be treated for purposes of this Section 8(b) as having been terminated
+by Company without Cause.
+
+2
+
+(i) The Company will continue payment of Executives base salary (at the same rate existing immediately prior to his termination)
+for a period of twelve (12) months (the Severance Period) pursuant to the Companys regular payroll practices
+and subject to applicable income and employment tax withholding and authorized deductions.
+
+(ii) Provided Executive is entitled to, elects to and remains eligible to continue group health, dental and vision coverage under the Consolidated
+Omnibus Budget Reconciliation Act of 1985, as amended (COBRA), WiSA will continue during the Severance Period to
+contribute toward the cost of such coverage as if Executive were an active employee unless doing so violates applicable law or is inconsistent
+with the coverage arrangement.
+
+(iii) The Company shall pay Executive any bonus compensation otherwise due for the applicable year of termination prorated on a 365-day
+basis to the date of termination of employment in the year following the year to which the bonus compensation relates; provided, however,
+that such bonus shall be paid no earlier than January 1 nor later than March 15 of the year following the year of termination.
+
+(iv) Any and all unvested equity awards in Executives name shall immediately become fully vested and exercisable; provided,
+however, that regardless of the terms of any equity award agreement between the Company and Executive, absent a separate signed
+written agreement between Company and Executive that specifically references this provision of this Agreement, no exercise of an award
+that requires exercise by the Executive shall occur more than six (6) months after such termination and in no event after the expiration
+of such award.
+
+(v) In the event of Executives subsequent death, Company shall continue to pay and/or make available for the remainder of the Severance
+Period the payments and benefits not yet paid or provided pursuant to this Section 8(b), with any amounts other than COBRA continuation
+coverage payable to Executives estate.
+
+(c) Termination
+in the Event of Death. If Executives employment terminates due to Executives death, Executive shall be treated
+as if terminated by the Company without Cause for purposes of this Section 8. Such payments and benefits (other than COBRA continuation
+coverage) shall be made to Executives estate or executor in the event of death.
+
+3
+
+(d) Suspension
+of Payment. Notwithstanding anything herein to the contrary, if Executive is in violation of any provision of Sections 10,
+11, 12 or 13 below, WiSA shall have no obligation to make payment(s) under Section 8(b) of this Agreement if WiSA has determined
+in good faith that such a violation(s) has occurred or is occurring. If it is later established through arbitration or other judicial
+proceeding that no such violation occurred, WiSA shall agree to pay to Executive any such amount withheld from or not paid during such
+period to the extent consistent with Section 409A (Section 409A) of the Internal Revenue Code (the Code).
+
+(e) No
+Mitigation. Executive will be under no obligation to mitigate damages by seeking other employment, and there will be no offset
+against the amounts due Executive under this Agreement, except as specifically provided in Section 8(d) above or for any other
+claims that WiSA may have against Executive and to the extent consistent with Section 409A.
+
+(f) Survival
+of Provisions. The obligations of confidentiality, assignment of inventions, non-competition, non-solicitation and non-disparagement
+under Sections 10, 11, 12 and 13 hereof shall survive the termination of this Agreement for any reason.
+
+9. Change
+in Control. If there is a Change in Control of WiSA, any and all unvested equity awards in Executives name shall immediately
+become fully vested and exercisable; provided, however, that regardless of the terms of any equity award agreement between
+the Company and Executive, absent a separate signed written agreement between Company and Executive that specifically references this
+provision of this Agreement, no exercise of an award that requires exercise by the Executive shall occur more than six (6) months
+after such termination and in no event after the expiration of such award.
+
+10. Confidential
+Information and Assignment of Inventions.
+
+(a) Executive
+will not disclose to a third party or use for his personal benefit confidential information of WiSA. Confidential
+Informationmeans any information used or useful in WiSAs business that is not generally known outside
+of WiSA and that is proprietary to WiSA relating to any aspect of WiSAs existing or reasonably foreseeable business that is disclosed
+to Executive or conceived, discovered or developed by Executive. Confidential Information includes, but is not limited to: product designs
+including drawings and sketches, manufacturing materials, plant layouts, tooling, sales marketing plans or proposals, customer information,
+customer lists, raw material sources, manufacturing processes, price, financial, accounting and cost information, clinical data, administrative
+techniques and documents and information designated by WiSA as Confidential. Executive shall also comply with the terms
+of any Confidentiality Agreement by which WiSA is bound to a third party as well as the Companys Confidential Information and Invention
+Assignment Agreement, if applicable.
+
+4
+
+(b) Executive
+grants to WiSA the exclusive ownership of all reports, drawings, blueprints, data writings and technical information made by Executive
+alone or with others during the term of his employment, whether or not made or prepared in the course of his employment, that relate to
+apparatus, compositions of matter or methods pertaining to WiSA business. Executive acknowledges that all such reports, drawings, blueprints,
+data writings and technical information are the property of WiSA.
+
+(c) Executive
+will promptly disclose to WiSA in writing all inventions and proprietary information that he alone or with others conceives, generates
+or reduces to practice, during or after working hours, while an employee of WiSA and for six (6) months following Executives
+termination of employment with respect to work performed by Executive for WiSA. All such inventions and proprietary information shall
+be the exclusive property of WiSA and are assigned to WiSA. This Agreement shall not apply to any invention for which no equipment, supplies,
+facility or trade secret information of WiSA was used, and that was developed entirely on Executives time, and (i) that does
+not relate (1) directly to the business of WiSA or (2) to WiSAs actual or demonstrably anticipated research or development
+or (ii) that does not result from any work performed by Executive for WiSA.
+
+(d) At
+WiSAs expense, Executive shall give WiSA all assistance it reasonably requires to perfect, protect and use its rights to inventions
+and proprietary information. In particular, but without limitation, Executive will sign all documents, do all things and supply all information
+that WiSA may deem necessary or desirable to (i) transfer or record the transfer of Executives entire right, title and interest
+in inventions and proprietary information and (ii) enable WiSA to obtain patent, copyright or trademark protection for inventions
+anywhere in the world.
+
+11. Non-Competition.
+During the Term, Executive shall not, directly or indirectly, either as an Executive, consultant, agent, principal, partner, stockholder
+(except in a publicly held company), corporate officer, director or in any other individual or representative capacity, engage or participate
+in any business that is in competition in any manner whatsoever with the then current or anticipated business of WiSA.
+
+12. Non-Solicitation.
+During the Term of his employment with WiSA and any Severance Period, and for a period of one (1) year after termination of such
+employment or end of any Severance Period, whichever is later, Executive will not, directly or indirectly, solicit, hire or otherwise
+engage, on his own behalf or on behalf of another person or entity, the services of any person who is an employee of WiSA.
+
+13. Non-Disparagement.
+During and after the termination or expiration of this Agreement, Executive shall not make any negative or disparaging remarks or comments
+(either oral or written) about WiSA, its affiliated or related companies or any of the foregoing entities directors, officers, employees,
+agents, services or products, and WiSA agrees not to make any negative or disparaging remarks or comments (either oral or written) about
+Executive. Notwithstanding the foregoing, each of the parties is entitled accurately to describe their past relationship to potential
+employers, partners or affiliates of Executive or potential partners or affiliates of WiSA.
+
+5
+
+14. Protected
+Disclosures. Under the Defend Trade Secrets Act of 2016, Executive shall not be held criminally or civilly liable under any federal
+or state trade secret law for the disclosure of a trade secret that is: (a) made in confidence to a federal, state or local government
+official, either directly or indirectly, or to an attorney, and solely for the purpose of reporting or investigating a suspected violation
+of law; or (b) in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal. Nothing
+in this Agreement shall prohibit Executive from reporting possible violations of federal or state law or regulation to any governmental
+agency or entity or making other disclosures that are protected under the whistleblower provisions of federal or state law or regulation. Executive
+does not need the prior authorization of WiSA to make any such whistleblower reports or disclosures and is not required to notify WiSA
+that he has made such whistleblower reports or disclosures. Furthermore, nothing in this Agreement prohibits or restricts Executive from
+making other reports protected by law, including filing a charge or complaint with the Equal Employment Opportunity Commission, the National
+Labor Relations Board or a similar agency enforcing federal, state or local laws, and it does not limit Executives ability to communicate
+with any government agency, entity or organization, make disclosures or otherwise participate in any investigation or proceeding that
+may be conducted by any government agency, entity or organization.
+
+15. Arbitration.
+
+(a) To
+the maximum extent permitted by law, any controversy between WiSA and Executive involving the construction or application of any of the
+terms, provisions or conditions of this Agreement or the breach thereof shall be settled by final and binding arbitration by a single
+arbitrator to be held in Santa Clara, California, in accordance with the National Rules for the Resolution of Employment Disputes
+of the American Arbitration Association (AAA Rules) then in effect. The arbitrator selected shall have the authority
+to grant Executive or the Company or both all remedies otherwise available by law, including injunctions.
+
+(b) Notwithstanding
+anything to the contrary in the AAA Rules, the arbitration shall provide (i) for written discovery and depositions adequate to give
+the Parties access to documents and witnesses that are essential to the dispute and (ii) for a written decision by the arbitrator
+that includes the essential findings and conclusions upon which the decision is based. Consistent with applicable law, Executive and the
+Company shall each bear his or its own costs and attorneys fees incurred in conducting the arbitration and, except in such disputes
+where Executive asserts a claim otherwise under a state or federal statute prohibiting discrimination in employment (a Statutory
+Discrimination Claim), or where otherwise required by law, shall split equally the fees and administrative costs charged by
+the arbitrator and AAA. In disputes where Executive asserts a Statutory Discrimination Claim against the Company, or where otherwise required
+by law, Executive shall be required to pay only the AAA filing fee to the extent such filing fee does not exceed the fee to file a complaint
+in state or federal court. The Company shall pay the balance of the arbitrators fees and administrative costs.
+
+(c) The
+decision of the arbitrators will be final, conclusive and binding on the Parties to the arbitration. The prevailing party in the arbitration,
+as determined by the arbitrator, shall be entitled to recover his or its reasonable attorneys fees and costs, including the costs
+or fees charged by the arbitrator and AAA. In disputes where Executive asserts a Statutory Discrimination Claim, reasonable attorneys
+fees shall be awarded by the arbitrator based on the same standard as such fees would be awarded if the Statutory Discrimination Claim
+had been asserted in state or federal court. Judgment may be entered on the arbitrators decision in any court having jurisdiction.
+
+6
+
+16. Certain
+Definitions. For purposes of this Agreement, the following terms will have the meaning set forth below.
+
+(a) Cause.
+Cause means that Executive has: (i) committed an act of dishonesty, fraud or breach of trust involving the business
+of WiSA; (ii) willfully failed to follow any material policy or material instructions of WiSA, his or her supervisor or its Chief
+Executive Officer provided such are lawful and not a violation of public policy; (iii) been indicted for or convicted of any felony;
+(iv) engaged in any gross misconduct, such as sexual harassment, material violations of applicable law or defalcations in the performance
+of or in connection with the Executives duties or employment by WiSA; or (v) otherwise breached material obligations under
+this Agreement.
+
+(b) Change
+in Control. Change in Control means any of the following events:
+(i) the acquisition by any individual, entity or group (a Person) within the meaning of Section 13(d)(3) or
+14(d)(2) of the Securities Exchange Act of 1934 (the Exchange Act) of beneficial ownership (within the meaning
+of Rule 13d-3 promulgated under the Exchange Act) of 50% or more of the then-outstanding shares of Common Stock plus any other outstanding
+shares of stock of the Company entitled to vote in the election of directors (the Outstanding Company Voting Securities);
+provided, however, that the Company and any employee benefit plan (or related trust) sponsored by it shall not be deemed
+to be a Person; or (ii) a change in the composition of the Board such that the individuals who constitute the Board (the Incumbent
+Board) cease for any reason to constitute at least a majority of the Board within any 365-day period (and for this purpose,
+any individual whose election or nomination for election by the Companys shareholders was approved by a vote of at least two-thirds
+(2/3rds) of the directors then comprising the Incumbent Board shall be considered a member of the Incumbent Board); or (iii) the
+consummation of a reorganization, merger, statutory share exchange or consolidation or similar corporate transaction involving the Company
+or any of its subsidiaries or a sale or other disposition of substantially all of the assets of the Company or a material acquisition
+of assets or stock of another entity by the Company or any of its subsidiaries (each, a Business Combination) if:
+(1) the individuals and entities that were the beneficial owners of the Outstanding Company Voting Securities immediately prior to
+such Business Combination do not beneficially own, directly or indirectly, more than 50% of the then-outstanding shares of stock and the
+combined voting power of the then-outstanding voting securities of the company resulting from such Business Combination; or (2) a
+Person beneficially owns, directly or indirectly, 50% or more of the then-outstanding shares of stock of the company resulting from such
+Business Combination; or (3) members of the Incumbent Board do not comprise at least a majority of the members of the board of directors
+of the company resulting from such Business Combination; or (iv) the approval by the shareholders (or in the case of (iv)(1) the
+Board) of the Company of: (1) a complete liquidation or dissolution of the Company; (2) any merger/consolidation/recap in which
+Company not survivor; or (3) upon the Companys insolvency, general assignment for the benefit of creditors or the commencement
+by or against the Company of any action seeking reorganization, arrangement, adjustment, liquidation, dissolution or composition of the
+Companys debts under any law relating to bankruptcy, insolvency or reorganization, or relief of debtors, or seeking appointment
+of a receiver other similar official for the Company or for all or any substantial part of the Companys assets.
+
+7
+
+(c) [Reserved]
+
+(d) Good
+Reason. Good Reason means WiSA, without Executives
+consent: (i) during the Term of his employment at WiSA, requires a material change in the geographic
+location at which Executive must perform services; or (ii) a substantial change in Executives duties and responsibilities;
+or (iii) at any time reduces Executives base compensation following a Change in Control; or (iv) at any time otherwise
+materially breaches its obligations under this Agreement; provided, however, that such termination by the Executive
+shall only be deemed for Good Reason pursuant to the foregoing definition if: (1) the Executive gives WiSA written notice of the
+intent to terminate for Good Reason within ninety (90) days following the first occurrence of the condition(s) that the Executive
+believes constitutes Good Reason, which notice shall describe such condition(s); (2) WiSA fails to remedy such condition(s) within
+thirty (30) days following receipt of the written notice (the Cure Period); and (3) the Executive terminates
+his employment within six (6) months following the end of the Cure Period.
+
+17. Section 409A.
+It is the intention of the parties that no payment or entitlement pursuant to this Agreement will give rise to any adverse tax consequences
+to any person pursuant to Section 409A and this Agreement shall be interpreted, applied and, to the minimum extent necessary, amended
+to achieve that intention. It is further intended that payments hereunder satisfy, to the greatest extent possible, the exemption from
+the application of Section 409A provided under Treasury Regulation Section 1.409A-1(b)(4) (as a short-term deferral).
+To the extent (i) any payments or benefits to which Executive becomes entitled under this Agreement, or under any agreement or plan
+referenced herein, in connection with his termination of employment with WiSA constitute deferred compensation subject to Section 409A
+and (ii) Executive is deemed at the time of such termination of employment to be a specified employee under Section 409A,
+then such payments shall not be made or commence until the earlier of (1) the date that is immediately following the expiration of
+the six (6)-month period measured from the date of Executives separation from service (as such term is at the time
+defined in Treasury Regulations under Section 409A) from WiSA or (2) the date of Executives death following such separation
+from service. Upon the expiration of the applicable deferral period, any payments that would have otherwise been made during that period
+(whether in a single sum or in installments) in the absence of this provision shall be paid to Executive or his beneficiary in one lump
+sum (without interest).
+
+8
+
+Each installment of any payments provided hereunder
+shall constitute separate payments for purposes of Treasury Regulation Section 1.409A-2(b)(2)(iii). Except as otherwise
+expressly provided herein, to the extent any expense reimbursement or the provision of any in-kind benefit under this Agreement is determined
+to be subject to Section 409A, the amount of any such reimbursement or benefit in one calendar year shall not affect any reimbursement
+or benefit in any other taxable year, in no event shall any such reimbursement or benefit be provided after the last day of the calendar
+year following the calendar year in which Executive incurred such expense and in no event shall any right to reimbursement or the provision
+of any in-kind benefit be subject to liquidation or exchange for another benefit.
+
+18. Miscellaneous.
+
+(a) Entire
+Agreement. This Agreement, and any other agreement specifically referenced herein, constitutes the entire agreement between
+the parties with respect to its subject matter, and supersedes, merges and voids all previous agreements, representations and warranties,
+written or oral, between the parties with respect to such subject matter. All other prior employment-related agreement(s) between
+Executive and WiSA are hereby terminated and of no further force or effect. Except as otherwise provided herein to Executives benefit,
+this Agreement shall not amend, modify, supersede or otherwise affect the terms of any equity award agreement(s), stock sale or sale restriction
+agreement(s) and any confidentiality, non-disclosure, non-competition and inventions agreement(s) to which Executive is a party
+with WiSA.
+
+(b) No
+Oral Modifications. This Agreement may only be modified in a writing signed by the Executive and an officer of WiSA expressly
+authorized by WiSA to modify this Agreement.
+
+(c) Personal
+Agreement. This Agreement shall be binding upon and inure to the benefit of WiSA. This Agreement shall be binding upon Executive,
+his heirs and personal and legal representative. This Agreement may not be assigned by Executive.
+
+(d) No
+Waiver. No failure by either party to exercise, and no delay in exercising, any right or remedy under this Agreement will operate
+as a waiver; nor will any single or partial exercise of any right or remedy preclude any other or further exercise of any right or remedy.
+The covenants and agreements set forth herein may be waived only by a written instrument executed by the party waiving compliance. Any
+such waiver shall only be effective in the specific instance and for the specific purpose for which it was given and shall not be deemed
+a waiver of any other provision hereof or of the same breach or default upon any recurrence thereof.
+
+(e) Specific
+Performance. The parties agree that irreparable damage would occur in the event that any of the provisions of this Agreement,
+other than the payment of money for the Executives Term of employment, were not performed in accordance with their specific terms
+or are otherwise breached or threatened to be breached. In the event of any breach or threatened breach, Executive acknowledges that damages
+will be insufficient remedy to WiSA in the event of a violation of Section 10, 11, 12 and/or 13 of this Agreement, and in the event
+of such breach or threatened breach of this Agreement, WiSA shall be entitled to seek injunctive relief, without the necessity of posting
+bond, through a court of competent jurisdiction to enforce the provisions of such Sections in addition to any other rights or remedies
+available to WiSA.
+
+9
+
+(f) Successors
+and Assigns. This Agreement shall inure to the benefit of and be binding upon the Company, its successors and assigns and any
+such successor or assignee shall be deemed substituted for the Company under the terms of this Agreement for all purposes. As used herein,
+successor and assignee shall include any person, firm, corporation or other business entity that at any time,
+whether by purchase, merger or otherwise, directly or indirectly acquires the Company or to which the Company assigns the Agreement by
+operation of law or otherwise.
+
+(g) Survival.
+Notwithstanding any contrary provision of this Agreement, upon termination or expiration of this Agreement for any reason, the covenants
+and obligations set forth in Sections 6, 7, 8 (including the applicability thereto of Sections 3 and 4), 10, 11, 12, 13, 14, 15, 16 and
+17 shall survive any termination of this Agreement or Executives employment hereunder until such covenants and agreements are fully
+satisfied and require no further performance or forbearance, or the rights of a party expire on the specific date by the terms hereof.
+
+(h) Adjustment
+of Restrictions. If any provision of Sections 10, 11, 12 and/or 13 of this Agreement is found by a court or arbitrator to be
+unenforceable under applicable law because one or more provisions are over broad or otherwise not enforceable in the form as set forth
+herein, then the court or arbitrator shall have the power to revise the terms of this Agreement to the extent necessary to make the provisions
+hereof enforceable.
+
+(i) [Reserved]
+
+(j) Counterparts
+and Facsimile Signatures. This Agreement may be executed in two (2) or more counterparts, each of which shall be deemed
+an original but all of which together shall constitute one and the same Agreement. The counterparts of this Agreement and any schedules
+and exhibits hereto, if any, may be executed and delivered by facsimile signature by any of the parties to any other party and the receiving
+party may rely on the receipt of such document so executed and delivered by facsimile as if the original had been received.
+
+(k) Construction.
+The parties have participated jointly in the negotiation and drafting of this Agreement. In the event an ambiguity or question of intent
+or interpretation arises, this Agreement shall be construed as if drafted jointly by both parties, and no presumption or burden of proof
+shall arise favoring or disfavoring any party by virtue of the authorship of any of the provisions of this Agreement.
+
+[SIGNATURE PAGE FOLLOWS]
+
+10
+
+IN
+WITNESS OF THIS AGREEMENT, the parties have signed below.
+
+EXECUTIVE
+
+/s/ Nathaniel Bradley Dated: December 31, 2024
+
+WiSA TECHNOLOGIES, INC.
+
+/s/ Brett Moyer Dated: December 31, 2024
+
+By: Brett Moyer 
+
+Its: Chief Executive Officer 
+
+11
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.5
+<SEQUENCE>7
+<FILENAME>tm252064d1_ex10-5.htm
+<DESCRIPTION>EXHIBIT 10.5
+<TEXT>
+Exhibit 10.5
+
+WiSA
+TECHNOLOGIES, INC.
+
+FORM OF
+INDUCEMENT AWARD AGREEMENT FOR RESTRICTED STOCK UNITS
+
+This INDUCEMENT AWARD
+AGREEMENT FOR RESTRICTED STOCK UNITS (this Agreement) is made by WiSA Technologies, Inc., a Delaware
+corporation (the Company), and the grantee (Grantee) identified on the grant schedule (the Grant
+Schedule) attached hereto as of December 31, 2024.
+
+RECITALS
+
+WHEREAS, the Company desires
+to award Restricted Stock Units with respect to the Companys common stock, par value $0.0001 per share (the Common Stock),
+to the Grantee, pursuant to the terms of this Agreement (the Restricted Stock Units or RSUs),
+as an inducement to the Grantees acceptance of the Companys offer of employment.
+
+NOW, THEREFORE, in consideration
+of the premises and the agreements set forth herein, the parties, intending to be legally bound hereby, agree as follows.
+
+1.Grant.
+The Company hereby grants, as of the Grant Date shown on the Grant Schedule, to the Grantee that number of RSUs equal to the corresponding
+number of shares of Common Stock (the Underlying Shares) shown on the Grant Schedule under Restricted Stock
+Units Granted on the terms and conditions set forth in this Agreement. This award constitutes a non-plan inducement award
+as contemplated by NASDAQ Listing Rule 5635(c)(4) and is therefore not made pursuant to the Companys 2020 Stock Incentive
+Plan (the 2020 Plan) or the Companys 2018 Long-Term Stock Incentive Plan or any other equity compensation
+plan of the Company. Nonetheless, the terms and provisions of the 2020 Plan are hereby incorporated into this Agreement by
+this reference, as though fully set forth herein, as if this award was granted pursuant to the 2020 Plan. Capitalized terms used but not
+defined herein will have the same meaning as defined in the 2020 Plan. A copy of the 2020 Plan has been provided to the Grantee along
+with this Agreement.
+
+2.Vesting.
+Subject to the further provisions of this Agreement, the RSUs will vest as set forth in the Vesting Schedule on the Grant
+Schedule (each date on which RSUs vest being referred to as a Vesting Date); provided, however, that if such Vesting
+Date occurs during either a regularly scheduled or special blackout period of the Company, or as a result of information
+known to Grantee, Grantee is precluded under applicable law from selling Common Stock, vesting shall be deferred until after the expiration
+of such blackout period.
+
+3.Dividends.
+If so provided under Dividend Equivalents on the Grant Schedule, a Grantee shall be credited with dividend equivalents equal
+to the dividends the Grantee would have received if the Grantee had been the actual record owner of the Underlying Shares on each dividend
+record date that occurs on or after the Grant Date and through the date the Grantee receives a settlement pursuant to Section 4 below
+(the Dividend Equivalent). If a dividend on Common Stock is payable wholly or partially in Common Stock, the Dividend
+Equivalent representing that portion of the dividend attributable to the RSUs shall be in the form of additional RSUs, credited to Grantee
+on a one-for-one basis. If a dividend on the Common Stock is payable wholly or partially in cash, the Dividend Equivalent representing
+that portion of the dividend attributable to the RSUs shall also be in the form of cash and a Grantee shall be credited with the right
+to receive cash dividends, without earnings, on settlement pursuant to Section 4 below. If a dividend on Common Stock is payable
+wholly or partially other than in cash or Common Stock, the Board may, in its discretion, provide for such Dividend Equivalents with respect
+to that portion of the dividend attributable to the RSUs as it deems appropriate under the circumstances. Dividend Equivalents shall be
+subject to the same terms and conditions as the RSUs originally awarded pursuant to this Agreement, and they shall vest (or, if applicable,
+be forfeited) as if they had been granted at the same time as the original RSUs. Dividend Equivalents representing the cash portion of
+a dividend on Common Stock shall be settled in cash.
+
+4.Delivery
+of Common Stock or Cash Settlement. With respect to any RSUs that become vested RSUs as of a Vesting Date pursuant to Section 2,
+the Company shall issue and deliver to the Grantee as soon as practicable following the applicable Vesting Date (a) the number of
+shares Underlying Shares equal to the number of RSUs vesting on that date or an amount of cash equal to the Fair Market Value of such
+Underlying Shares as of that date (or such later delivery date, if applicable) and (b) the amount (and in the form) due with respect
+to the Dividend Equivalents applicable to such Underlying Shares. Whether Underlying Shares, or the cash value thereof, shall be issued
+or paid at settlement shall be determined based on the Form of Settlement specified on the Grant Schedule.
+
+In no event
+shall settlement occur later than the fifteenth day of the third month following the close of the year in which RSUs vest.
+
+Any Common Stock required to be issued pursuant
+to this Agreement shall be issued, without issue or transfer tax, by (i) delivering a stock certificate or certificates for such
+shares out of theretofore authorized but unissued shares or treasury shares of its Common Stock as the Company may elect or (ii) issuance
+of shares of its Common Stock in book entry form; provided, however, that the time of such delivery may be postponed by the Company for
+such period as may be required for it with reasonable diligence to comply with any applicable requirements of law.
+
+5.Withholding
+Taxes. The Grantee hereby agrees, as a condition of this award, to provide to the Company or any entity, individual, firm or corporation,
+directly or indirectly, through one or more intermediaries, controlling, controlled by or under common control with the Company (each,
+an Affiliate) employing the Grantee, as applicable) an amount sufficient to satisfy the Companys and/or Affiliates
+obligation to withhold any and all federal, state and local income and employment taxes (the Withholding Amount),
+if any, by (a) authorizing the Company and/or any Affiliate employing the Grantee, as applicable, to withhold the Withholding Amount
+from the Grantees cash compensation or (b) remitting the Withholding Amount to the Company (or an Affiliate employing the
+Grantee, as applicable) in cash; provided, however, that to the extent that the Withholding Amount is not provided by one or a combination
+of such methods, the Company may at its election withhold from the Underlying Shares and Dividend Equivalents that would otherwise be
+delivered that number of shares (and/or cash) having a Fair Market Value on the date of vesting sufficient to eliminate any deficiency
+in the Withholding Amount. Regardless of any action that the Company and/or Affiliate takes with respect to any or all federal, state
+and local income and employment tax withholdings, the Grantee acknowledges that he, and not the Company and/or any Affiliate, has the
+ultimate liability for any such items. Further, if the Grantee becomes subject to tax in more than one jurisdiction between the Grant
+Date and the date of any relevant taxable or tax withholding event, the Grantee acknowledges that the Company and/or Affiliate may be
+required to withhold or account for such tax-related items in more than one jurisdiction.
+
+6.Non-assignability
+of RSUs and Dividend Equivalents. RSUs and Dividend Equivalents shall not be assignable or transferable by the Grantee except by will
+or by the laws of descent and distribution or as permitted by the Board in its discretion pursuant to the terms of the Plan. During the
+life of the Grantee, delivery of shares of Common Stock or payment of cash as settlement of RSUs and Dividend Equivalents shall be made
+only to the Grantee, to a conservator or guardian duly appointed for the Grantee by reason of the Grantees incapacity or to the
+person appointed by the Grantee in a durable power of attorney acceptable to the Companys counsel.
+
+2
+
+7.Compliance
+with Securities Act; Lock-Up Agreement. The Company shall not be obligated to sell or issue any Underlying Shares or other securities
+in settlement of RSUs and Dividend Equivalents hereunder unless the shares of Common Stock or other securities are at that time effectively
+registered or exempt from registration under the Securities Act and applicable state or provincial securities laws. In the event shares
+or other securities shall be issued that shall not be so registered, the Grantee hereby represents, warrants and agrees that the Grantee
+will receive such shares or other securities for investment and not with a view to their resale or distribution, and will execute an appropriate
+investment letter satisfactory to the Company and its counsel. The Grantee further hereby agrees that as a condition to the settlement
+of RSUs and Dividend Equivalents, the Grantee will execute an agreement in a form acceptable to the Company to the effect that the shares
+shall be subject to any underwriters lock-up agreement in connection with a public offering of any securities of the Company that
+may from time to time apply to shares held by officers and employees of the Company, and such agreement or a successor agreement must
+be in full force and effect.
+
+8.Legends.
+The Grantee hereby acknowledges that the stock certificate or certificates (or entries in the case of book entry form) evidencing shares
+of Common Stock or other securities issued pursuant to any settlement of an RSU or Dividend Equivalent hereunder may bear a legend (or
+provide a restriction) setting forth the restrictions on their transferability described in Section 7 hereof, if such restrictions
+are then in effect.
+
+9.Rights
+as Stockholder. The Grantee shall have no rights as a stockholder with respect to any RSUs, Dividend Equivalents or Underlying Shares
+under this Agreement until the date of issuance of a stock certificate (or appropriate entry is made in the case of book entry form) for
+Common Stock and any Dividend Equivalents. Except as provided by Section 3, no adjustment shall be made for any rights for which
+the record date is prior to the date such stock certificate is issued (or appropriate entry is made in the case of book entry form), except
+to the extent the Board so provides upon such terms and conditions it may establish.
+
+10.Applicable
+Policies. In consideration for the grant of this award, the Grantee agrees to be subject to any policies of the Company and its Affiliates
+regarding clawbacks, securities trading, and hedging or pledging of securities that may be in effect from time to time.
+
+11.Delays
+or Omissions. No delay or omission to exercise any right, power or remedy accruing to any party hereto upon any breach
+or default of any party under this Agreement will impair any such right, power or remedy of such party, nor will it be construed to be
+a waiver of any such breach or default, or an acquiescence therein, or of or in any similar breach or default thereafter occurring, nor
+will any waiver of any single breach or default be deemed a waiver of any other breach or default theretofore or thereafter occurring. Any
+waiver, permit, consent or approval of any kind or character by any party of any breach or default under this Agreement, or any waiver
+on the part of any party or any provisions or conditions of this Agreement, must be in a writing signed by such party and will be effective
+only to the extent specifically set forth in such writing.
+
+12.Tax
+Consequences. The RSUs and Dividend Equivalents granted hereunder are intended to avoid the potential adverse tax consequences to
+the Grantee of Section 409A of the Internal Revenue Code and the Board may make such modifications to this Agreement as it deems
+necessary or advisable to avoid such adverse tax consequences. If and to the extent that the RSUs and Dividend Equivalents are subject
+to Section 409A of the Internal Revenue, any payment upon termination of the employment relationship shall be made only upon a separation
+from service under Section 409A of the Internal Revenue Code, and the Grantee may not directly or indirectly designate the
+calendar year of a payment.
+
+3
+
+Notwithstanding the preceding paragraph, nothing
+herein shall be construed as guaranteeing any particular tax treatment with respect to the award evidenced by the Agreement.
+
+13.Right
+of Discharge Preserved. The grant of the award evidenced by this Agreement will not confer upon the Grantee any right to
+continue in service with the Company or any of its subsidiaries or Affiliates.
+
+14.Administration. The
+Grantee acknowledges that the Grantee has received a copy of the 2020 Plan, has read the 2020 Plan and is familiar with its terms, and
+understands that the Board is authorized to interpret this Agreement and the 2020 Plan and to adopt such rules and regulations for
+the administration of this award as it deems appropriate. By accepting this award, the Grantee acknowledges and agrees to accept
+as binding, conclusive, and final all decisions or interpretations of the Board upon any questions arising under this Agreement.
+
+15.Electronic
+Delivery of Documents. The Grantee authorizes the Company to deliver electronically any documentation related to this award
+and any other compensation or benefit plan or arrangement in effect from time to time (including, without limitation, reports, proxy statements
+or other documents that are required to be delivered to participants in such arrangements pursuant to federal or state laws, rules or
+regulations). For this purpose, electronic delivery will include, without limitation, delivery by means of e-mail or e-mail
+notification that such documentation is available on the Companys Intranet site. Upon written request, the Company will
+provide to the Grantee a paper copy of any document also delivered to the Grantee electronically. The authorization described
+in this Section may be revoked by the Grantee at any time by written notice to the Company.
+
+16.General
+Provisions.
+
+(a)Entire
+Agreement. This Agreement, including the terms of the Grant Schedule and 2020 Plan incorporated herein, contains the parties
+entire agreement regarding the grant of RSUs evidenced by this Agreement and merges and supersedes all prior and contemporaneous discussions,
+agreements, and understandings of every nature relating thereto.
+
+(b)Governing
+Law. This Agreement and all claims or causes of action (whether in contract or tort) that may be based upon, arise out of or relate
+to this Agreement or the negotiation, execution or performance of this Agreement shall be governed by, and enforced in accordance with,
+the laws of the State of California, without regard to the application of the principles of conflicts of laws.
+
+(c)Amendment.
+This Agreement may be amended, in whole or in part and in any manner not inconsistent with the provisions of the 2020 Plan, at any time
+and from time to time, by written agreement between the Company and the Grantee; provided, however, that an amendment that does not materially
+diminish the rights of the Grantee hereunder, as they may exist immediately before the effective date of the amendment, shall be effective
+upon written notice of its provisions to the Grantee, to the extent permitted by applicable law.
+
+(d)Binding
+Effect. This Agreement shall inure to the benefit of and be binding upon the parties hereto and their respective heirs, executors,
+administrators, representatives, successors and assigns.
+
+4
+
+(e)Fractional
+RSUs, Underlying Shares and Dividend Equivalents. All fractional Underlying Shares and Dividend Equivalents settled in Common Stock
+resulting from the application of the Vesting Schedule shall be rounded down to the nearest whole share. If cash in lieu of Underlying
+Shares is delivered at settlement, or Dividend Equivalents are settled in cash, the amount paid shall be rounded down to the nearest penny.
+
+(f)Construction.
+The titles of the sections of this Agreement are included for convenience only and shall not be construed as modifying or affecting their
+provisions.
+
+17.Execution.
+Executed copies of this Agreement may be delivered via facsimile, electronic mail (including .pdf or any electronic signature complying
+with the U.S. Federal ESIGN Act of 2000, e.g., www.docusign.com) or other transmission method, and any counterpart so delivered
+shall be deemed to have been duly and validly delivered and be valid and effective for all purposes.
+
+[Signature Page Follows.]
+
+5
+
+In order to indicate your
+acceptance of the award of Restricted Stock Units evidenced by this Agreement subject to the restrictions and upon the terms and conditions
+set forth above, please execute and immediately return to the Company the enclosed duplicate original of this Agreement.
+
+WISA TECHNOLOGIES, INC. 
+
+By: /s/ Brett Moyer 
+
+Name: Brett Moyer 
+
+Title: Chief Executive Officer 
+
+ACCEPTED AND AGREED, 
+
+Intending to be legally bound: 
+
+/s/ Nathaniel Bradley 
+
+Nathaniel Bradley 
+
+6
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>8
+<FILENAME>tm252064d1_ex99-1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+Exhibit 99.1
+
+WiSA Technologies Closes Purchase of Data Vault
+Holdings Assets
+
+and Names Nate Bradley CEO
+
+- Patent protected acoustic and data valuation,
+visualization and monetization technologies successfully acquired include Web 3.0 Sumerian
+crypto anchors, ADIO advertising network, industry first blockchain
+and AI enabled Information Data Exchange 
+
+- WiSA Will Change Name to Datavault Inc. in Mid-January 2025
+-
+
+Beaverton, OR (January 7,
+2025) WiSA Technologies, Inc. (WiSA Technologies, the Company, or WiSA)
+(Nasdaq: WISA), closed its purchase of Datavault intellectual property and information technology assets of privately
+held Data Vault Holdings Inc. (Data Vault Holdings) on December 31, 2024. In conjunction with the
+closing, WiSA issued 40 million shares of restricted common stock, par value $0.0001 per share (the Common Stock),
+to Data Vault Holdings (the Closing Stock Consideration); Nathaniel T. Bradley (Nate)
+was named CEO and Director; and Brett Moyer assumed a new role as CFO while remaining a director. WiSA Technologies plans to change its
+name to Datavault Inc. (Datavault) in mid-January 2025, concurrent with a planned change of its Nasdaq ticker symbol
+to ADIO. The Company will continue to trade under the Nasdaq ticker symbol WISA until such time as the new ticker symbol is announced.
+
+On December 31, 2024, in
+connection with Nate Bradleys appointment as the Companys CEO, Mr. Bradley was granted 1,200,000 units of restricted
+stock of WiSA (the Units) as an inducement material to Mr. Bradleys entering into employment with WiSA. The
+Units were approved by the board of directors of the Company and granted outside of the Companys 2020 Stock Incentive Plan and
+2018 Long-Term Stock Incentive Plan in accordance with Nasdaq Listing Rule 5635(c)(4). In connection with the award of Units, Mr. Bradley
+and the Company have entered into an Inducement Award Agreement for the Units, which agreement contemplates half of the Units vesting
+in equal 3-month installments over a 36-month period beginning March 20, 2025, and the other half of the Units vesting upon the Companys
+aggregate revenue equaling or exceeding $40 million over any trailing 12 calendar month period ending on or prior to the date that is
+5 years from the grant date.
+
+Nate Bradley, CEO of WiSA Technologies
+said, Successfully integrating Datavault and WiSA creates a much larger and more robust company with significant synergies. As
+a public company, we are positioned to grow by acquiring complementary niche technologies, to raise our investment profile and to further
+leverage our core technologies. The strategic opportunities are abundant, and I am thrilled to be leading our transformation.
+
+Brett Moyer, CFO of WiSA Technologies,
+said, Nate is a technology visionary with the experience of successfully launching multiple publicly traded companies. I resoundingly
+welcome him as incoming CEO and director to create value for our shareholders. Datavault has been advancing its technology and strategic
+relationships since its founding six years ago, building value in the process. Now, we have a more diversified portfolio of assets and
+broad reach into multiple markets that are expected to exceed $4 billion in annual sales. Our offerings are gaining traction and now we
+can accelerate our growth plan.
+
+Datavault is a data technology
+and licensing company that enables clients and strategic partners to monetize their Blockchain Data and AI Web 3.0 assets via tokenization,
+data ownership and digital twins offering two primary solutions:
+
+Data Sciences will license High Performance
+Computing (HPC) software applications and Web 3.0 data management serving the biotech research, energy, education, fintech, real estate,
+and healthcare industries, among others.
+
+Acoustic
+Sciences will license spatial and multichannel HD sound transmission, including proprietary
+brands ADIO, WiSA and Sumerian, to customers
+in sports & entertainment, events & venues, restaurants, automotive, finance,
+and other industries.
+
+The Datavault Platform
+
+Datavaults
+software and encryption enables a comprehensive solution for managing and monetizing data in the Web 3.0 environment. It allows
+risk-free licensing of name, image, and likeness (NIL) by securely attaching physical real-world objects to immutable metadata or blockchain
+objects, fostering responsible AI with integrity. Datavault's solutions ensure privacy and credential protection. They are completely
+customizable and offer AI and ML automation, third-party integration, detailed analytics and data, marketing automation and advertising
+monitoring.
+
+The platform creates value through scarcity,
+utility, and encrypted data protection and generates revenue through licensing partnerships that provide detailed analytics, sophisticated
+HPC modeling, digital ownership, tokenization, and advertising, among other means.
+
+Summary of the Asset Purchase
+
+Consideration paid to Data Vault Holdings in exchange for Datavault and ADIO
+intellectual property and information technology assets by WiSA Technologies.
+
+o Closing Stock Consideration issued at closing of the transaction
+
+o $10 million in an unsecured promissory note due 3 years from closing, with 10% of the proceeds of any financings used to pay down
+or pay off the promissory note in the interim
+
+3% royalty on future net revenues from Datavault and ADIO product lines
+
+Restricted Common Stock Distribution to
+Data Vault Holdings Stockholders
+
+In connection with the closing of the asset
+purchase, Data Vault Holdings distributed the Closing Stock Consideration pro rata to its stockholders, excluding 3,999,911 shares of
+Common Stock that are held by Data Vault Holdings.
+
+Nathaniel
+(Nate) Bradley
+
+Nathaniel
+(Nate) Bradley, CEO and Co-founder of Data Vault Holdings, a highly accomplished inventor with over 70 international and U.S. patents
+across diverse fields such as Internet broadcasting, mobile advertising, behavioral healthcare, blockchain, cybersecurity, AI, and data
+science. As CEO and co-founder of Data Vault Holdings Inc., which operates Datavault Inc., Adio LLC, True Luck Inc., and Data Donate Technologies,
+Bradley has developed patented technologies that establish Datavault as a leader in Web 3.0 data monetization. He has also lobbied Congress
+for a Digital Bill of Rights and founded the Intellectual Property Network Inc., offering IP and IT development services globally. Previously,
+Bradley was the inventor and founder of AudioEye (Nasdaq: AEYE), where he pioneered cloud-based assistive technologies, earning recognition
+for his contributions to internet accessibility. His extensive experience includes roles as Chief Technology Officer for Marathon Patent
+Group (currently named Marathon Digital Holdings, Nasdaq: MARA) and involvement in significant acquisitions within the Internet Radio
+industry.
+
+Legal Advisors
+
+Sullivan & Worcester LLP served as
+legal counsel for WiSA Technologies, and Mitchell Silberberg & Knupp LLP served as legal counsel for Data Vault Holdings Inc.
+
+About Data Vault Holdings
+Inc.
+
+Data Vault Holdings Inc. is a technology
+holding company that provides a proprietary, cloud-based platform for the delivery of blockchain objects. Data Vault Holdings Inc. provides
+businesses with the tools to monetize data assets securely over its Information Data Exchange (IDE). The company is in the process
+of finalizing the consolidation of its affiliates Data Donate Technologies, Inc., ADIO LLC, and Datavault Inc. as wholly owned subsidiaries
+under one corporate structure. Learn more about Data Vault Holdings Inc. Datavault Inc. and True Luck, Inc. as wholly owned subsidiaries
+under one corporate structure. Learn more about Data Vault Holdings Inc. at www.datavaultsite.com.
+
+About WiSA Technologies, Inc.
+
+WiSA
+is a leading provider of immersive, wireless sound technology for intelligent devices and next-generation home entertainment systems.
+Working with leading CE brands and manufacturers such as Harman International, a division of Samsung; LG; Hisense; TCL; Bang &
+Olufsen; Platin Audio; and others, the company delivers immersive wireless sound experiences for high-definition content, including movies
+and video, music, sports, gaming/esports, and more. WiSA Technologies, Inc. is a founding member of WiSA (the Wireless Speaker
+and Audio Association) whose mission is to define wireless audio interoperability standards as well as work with leading consumer electronics
+companies, technology providers, retailers, and ecosystem partners to evangelize and market spatial audio technologies driven by WiSA
+Technologies, Inc. The company is headquartered in Beaverton, OR with sales teams in Taiwan, China, Japan, Korea, and California.
+
+Cautionary Note Regarding
+Forward-Looking Statements
+
+This
+press release of WiSA Technologies contains forward-looking statements within the meaning of Section 27A of the Securities Act of
+1933, as amended (the Securities Act), and Section 21E of the Securities Exchange Act of 1934, as amended. These forward-looking
+statements, include, among others, the Companys expectations with respect to the completed asset purchase (the Asset Purchase),
+including statements regarding the benefits of the Asset Purchase, the implied valuation of the Company, the products offered by the Company
+and the markets in which it operates, and the Companys projected future results and market opportunities, as well as information
+with respect to WiSAs future operating results and business strategy. Readers are cautioned not to place undue reliance on these
+forward-looking statements. Actual results may differ materially from those indicated by these forward-looking statements as a result
+of a variety of factors, including, but not limited to: (i) risks and uncertainties impacting WiSAs business including, risks
+related to its current liquidity position and the need to obtain additional financing to support ongoing operations, WiSAs ability
+to continue as a going concern, WiSAs ability to maintain the listing of its common stock on Nasdaq, WiSAs ability to predict
+the timing of design wins entering production and the potential future revenue associated with design wins, WiSAs ability to predict
+its rate of growth, WiSAs ability to predict customer demand for existing and future products and to secure adequate manufacturing
+capacity, consumer demand conditions affecting WiSAs customers end markets, WiSAs ability to hire, retain and motivate
+employees, the effects of competition on WiSAs business, including price competition, technological, regulatory and legal developments,
+developments in the economy and financial markets, and potential harm caused by software defects, computer viruses and development delays,
+(ii) , risks related to WiSAs ability to realize some or all of the anticipated benefits from the Asset Purchase, any risks
+that may adversely affect the business, financial condition and results of operations of WiSA after the completion of the Asset Purchase,
+including but not limited to cybersecurity risks, the potential for AI design and usage errors, risks related to regulatory compliance
+and costs, potential harm caused by data privacy breaches, digital business interruption and geopolitical risks, and (iii) other
+risks as set forth from time to time in WiSAs filings with the U.S. Securities and Exchange Commission. The information in this
+press release is as of the date hereof and neither the Company nor Datavault undertakes any obligation to update such information unless
+required to do so by law. The reader is cautioned not to place under reliance on forward looking statements. The Company does not give
+any assurance that the Company will achieve its expectations.
+
+Investors Contact:
+
+David Barnard, Alliance Advisors Investor
+Relations, 415-433-3777, dbarnard@allianceadvisors.com
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>9
+<FILENAME>wisa-20241231.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>10
+<FILENAME>wisa-20241231_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE
+<TEXT>
+Cover [Abstract] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>11
+<FILENAME>wisa-20241231_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Cover
+
+Dec. 31, 2024
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Dec. 31, 2024
+
+Entity File Number 001-38608
+
+Entity Registrant Name WISA TECHNOLOGIES, INC.
+
+Entity Central Index Key 0001682149
+
+Entity Tax Identification Number 30-1135279
+
+Entity Incorporation, State or Country Code DE
+
+Entity Address, Address Line One 15268 NW Greenbrier Pkwy
+
+Entity Address, City or Town Beaverton
+
+Entity Address, State or Province OR
+
+Entity Address, Postal Zip Code 97006
+
+City Area Code 408
+
+Local Phone Number 627-4716
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, par value $0.0001 per share
+
+Trading Symbol WISA
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>14
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>15
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>18
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://summitwireless.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+tm252064d1_8k.htm 
+wisa-20241231.xsd 
+wisa-20241231_lab.xml 
+wisa-20241231_pre.xml 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>20
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>21
+<FILENAME>0001104659-25-001736-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>22
+<FILENAME>tm252064d1_8k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001682149 
+
+2024-12-31 
+2024-12-31 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0001682149 
+8-K 
+2024-12-31 
+WISA TECHNOLOGIES, INC. 
+DE 
+001-38608 
+30-1135279 
+15268 NW Greenbrier Pkwy 
+Beaverton 
+OR 
+97006 
+408 
+627-4716 
+false 
+false 
+false 
+false 
+Common Stock, par value $0.0001 per share 
+WISA 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

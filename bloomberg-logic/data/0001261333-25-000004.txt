@@ -1,0 +1,1260 @@
+<SEC-DOCUMENT>0001261333-25-000004.txt : 20250117
+<SEC-HEADER>0001261333-25-000004.hdr.sgml : 20250117
+<ACCEPTANCE-DATETIME>20250117161838
+ACCESSION NUMBER:		0001261333-25-000004
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20250115
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250117
+DATE AS OF CHANGE:		20250117
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DOCUSIGN, INC.
+		CENTRAL INDEX KEY:			0001261333
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				912183967
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38465
+		FILM NUMBER:		25538905
+
+	BUSINESS ADDRESS:	
+		STREET 1:		221 MAIN ST., SUITE 1550
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+		BUSINESS PHONE:		415-489-4940
+
+	MAIL ADDRESS:	
+		STREET 1:		221 MAIN ST., SUITE 1550
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOCUSIGN INC
+		DATE OF NAME CHANGE:	20030826
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>docu-20250115.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?docu-20250115
+
+0001261333FALSE00012613332025-01-152025-01-15
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+______________________________________
+
+FORM 8-K
+
+______________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 15, 2025
+
+Commission File Number: 001-38465
+
+______________________________________
+
+DOCUSIGN, INC.
+
+(Exact name of registrant as specified in its charter)
+
+______________________________________
+
+Delaware 91-2183967
+
+(State or Other Jurisdiction of Incorporation) (I.R.S. Employer Identification Number)
+
+221 Main St. Suite 1550 San Francisco California 94105
+
+(Address of Principal Executive Offices) (Zip Code)
+
+(415) 489-4940
+
+(Registrant's Telephone Number, Including Area Code)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol Name of each exchange on which registered
+
+Common Stock, par value $0.0001 per share DOCU The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(e) Amended and Restated Severance and Change in Control Agreements
+
+On January 15, 2025, the Compensation and Leadership Development Committee of the Board of Directors of Docusign, Inc. (the Company) approved the amendment and restatement of the Companys existing Executive Severance and Change in Control Agreements, as amended from time to time (the Existing Executive Severance Agreements, and, as restated, the Restated Executive Severance Agreements) with each of Blake Grayson, Chief Financial Officer; Robert Chatwani, President and General Manager, Growth; and James Shaughnessy, Chief Legal Officer (each a Covered Officer). The Restated Executive Severance Agreements were approved to make permanent the terms of a prior amendment that added certain enhancements in the event of certain qualifying terminations of employment (which enhancement otherwise expired on December 31, 2024). A summary of the prior amendment to the Executive Severance Agreements can be found in the Companys Current Report on Form 8-K, as filed with the Securities Exchange Commission (the SEC) on January 16, 2024. 
+
+The Restated Executive Severance Agreements are not employment contracts and do not specify an employment term, compensation level or other terms and conditions of employment. The Restated Executive Severance Agreements provide for certain severance benefits to each Covered Officer in the event that his employment is terminated under specified circumstances (as set forth in the Restated Executive Severance Agreements), subject to the Covered Officer satisfying certain conditions, including the delivery of a release of all claims in favor of the Company. The Restated Executive Severance Agreements are effective as of the date executed and will amend and restate each Covered Officers Existing Executive Severance Agreement.
+
+Qualifying Termination - Outside of Change in Control Period 
+
+If a Covered Officer experiences either a termination without Cause or a resignation for Good Reason (each, as defined in the Restated Executive Severance Agreements, and either referred to as a Qualifying Termination) outside of the time period commencing 90 days prior to and ending 12 months after a change in control (the Change in Control Period or CIC Period), the Company shall provide the Covered Officer with a payment equal to a number of months of base salary plus the target bonus percentage for the year in which the Qualifying Termination occurs, a number of months of COBRA coverage and a number of months of vesting acceleration of then-outstanding time-based equity awards, each as described in the table below.
+
+Salary
+
+(# of Mos.) Bonus
+
+(%) COBRA
+
+(# of Mos.) Equity Acceleration*
+
+(# of Mos.)
+
+Blake Grayson,
+
+Chief Financial Officer 12
+
+100% 12 12
+
+Robert Chatwani,
+
+President & General Manager, Growth 12 100% 12 12
+
+James Shaughnessy,
+
+Chief Legal Officer 12
+
+100% 12 12
+
+*The Covered Officers then-outstanding equity compensation awards that vest only upon satisfaction of performance criteria (or PSUs) shall vest to the extent provided in the agreement(s) governing such award(s).
+
+Qualifying Termination - During Change in Control Period 
+
+If a Covered Officer experiences a Qualifying Termination during the Change in Control Period, the Company shall provide the Covered Officer with a payment equal to a number of months of base salary plus the target bonus percentage for the year in which the Qualifying Termination occurs, a number of months of COBRA coverage and a number of months of vesting acceleration of then-outstanding time-based equity awards, each as described in the table below.
+
+Salary
+
+(# of Mos.) Bonus
+
+(%) COBRA
+
+(# of Mos.) Equity Acceleration* (%)*
+
+Blake Grayson,
+
+Chief Financial Officer 12
+
+100% 12 100%
+
+Robert Chatwani,
+
+President & General Manager, Growth 12
+
+100% 12 100%
+
+James Shaughnessy,
+
+Chief Legal Officer 12
+
+100% 12 100%
+
+*The Covered Officers then-outstanding PSUs shall vest to the extent provided in the agreement(s) governing such award(s).
+
+The foregoing description of the Restated Executive Severance Agreements is not complete and is qualified in its entirety by reference to the full text of the form of Restated Executive Severance Agreement, which is filed as Exhibit 10.1 hereto.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits:
+
+Exhibit No. Description
+
+10.1 
+
+Form of Amended and Restated Executive Severance and Change in Control Agreement
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Date: January 17, 2025
+
+DOCUSIGN, INC. 
+
+By: /s/ James P. Shaughnessy
+
+James P. Shaughnessy
+
+Chief Legal Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>formofarexecutiveseverance.htm
+<DESCRIPTION>EX-10.1
+<TEXT>
+Document
+
+EXHIBIT 10.1
+
+DOCUSIGN, INC.
+
+Amended and Restated Executive Severance and Change in Control Agreement
+
+This Amended and Restated Executive Severance and Change in Control Agreement (this Agreement) is entered into as of [_______], 2025 (the Effective Date) by and between Docusign, Inc., a Delaware corporation (the Company) and [________] (the Executive), an employee of the Company. This Agreement supersedes and replaces in its entirety Executives Prior Severance Arrangement. In exchange for the Executives execution of this Agreement, the Executive will be eligible to receive certain payments and benefits in the event of Executives qualifying termination of employment, subject to the terms and conditions of this Agreement. Capitalized terms used but not defined herein shall have the meaning ascribed to them in Exhibit A or Exhibit B, as applicable.
+
+1.At-Will Employment. Nothing in this Agreement alters the at-will nature of Executives employment. Executive and the Company remain free to terminate the employment relationship at any time, for any reason, with or without notice. Upon any termination of the employment relationship, Executive will resign from all officer and director positions with the Company and/or any parent, subsidiary or affiliate (unless otherwise requested by the Company).
+
+2.Benefits Upon Qualifying Termination Outside a Change in Control Period. Upon Executives Qualifying Termination outside a Change in Control Period, and subject to the Executives satisfaction of the Payment Conditions and subject to the terms of this Agreement, the Company will provide Executive with the following severance benefits (the payments and benefits pursuant to subsections 2(a) through 2(d), the Outside CIC Severance):
+
+a.Salary Payment. An amount equal to the product of (x) the Executives Monthly Base Salary, multiplied by (y) twelve (12), payable in a single lump-sum in the Companys first regular payroll following the Release Deadline.
+
+b.Bonus Payment. An amount equal to 100% of the Executives Target Bonus, payable in a single lump-sum in the Companys first regular payroll following the Release Deadline.
+
+c.COBRA Benefit. If the Executive participates in the Companys group health insurance plans (major medical, dental and vision) on the date of the Executives Qualifying Termination and timely elects continued coverage under the Consolidated Omnibus Budget Reconciliation Act of 1985 (together with any state law of similar effect, COBRA), the Company will pay the COBRA premiums to continue such coverage (including for the Executive and the Executives eligible dependents who have elected and remain enrolled in such COBRA coverage) for the COBRA Payment Period. For purposes of the foregoing, COBRA Payment Period shall mean the period beginning on the first day following the day that the Executives active employee health coverage ends as the result of Executives Separation, and ending on the earliest to occur of (i) twelve (12) months (the COBRA Multiple), (ii) the expiration of the Executives eligibility for continuation coverage under COBRA, and (C) the first month for which the Executive is eligible for health insurance coverage in connection with new employment or self-employment. Alternatively, the Company may elect to pay Executive a taxable cash payment in lieu of the continued coverage, equal to the amount that the Company would have otherwise paid for the COBRA premiums (based on the premium for the first month of coverage), which payment will be made regardless of whether Executive or Executives eligible dependents elect COBRA continuation coverage and will be paid in monthly installments for the COBRA Payment Period, except that payments shall commence (with any make-up payments) in the Companys first regular payroll following the Release Deadline. Continued health coverage or payment of a taxable cash amount pursuant to the foregoing is referred to as the COBRA Benefit.
+
+d.Equity Vesting Acceleration. Each of theExecutives then-outstanding Company Equity Awards (other than Performance Awards) shall accelerate and become vested and exercisable or settled with respect to the number of shares subject to each such award that would have become vested, in the ordinary course, within the first twelve (12) months following Executives Qualifying Termination. Performance Awards shall be governed by the applicable Company equity plan and the written award agreements governing their grant.
+
+3.Qualifying Termination During a Change in Control Period. Upon Executives Qualifying Termination during a Change in Control Period, and subject to Executives satisfaction of the Payment Conditions and subject to the terms of this Agreement, the Company will provide Executive with the following severance benefits (the payments and benefits pursuant to subsections 3(a) through 3(d), the CIC Severance):
+
+a.Salary Payment. An amount equal to the product of (x) the Executives Monthly Base Salary, multiplied by (y) twelve (12), payable in a single lump-sum in the Companys first regular payroll following the Release Deadline.
+
+b.Bonus Payment. An amount equal to 100% of the Executives Target Bonus, payable in a single lump-sum in the Companys first regular payroll following the Release Deadline.
+
+c.COBRA Benefit. The COBRA Benefit, provided that the COBRA Multiple shall be twelve (12) months.
+
+d.Equity Vesting Acceleration. 
+
+i.Each of theExecutives then-outstanding Company Equity Awards (other than Performance Awards) shall accelerate and become vested and exercisable or settled in full. To permit the foregoing acceleration in the event Executives Qualifying Termination occurs within 90 days prior to a Change in Control, any then-unvested Company Equity Awards will not terminate and will remain outstanding (provided that in no event will any Company Equity Award remain outstanding beyond the expiration of its maximum term) and eligible for acceleration and settlement, as applicable, with respect to the proposed Change in Control. In the event that the proposed Change in Control is not completed during such 90-day period, any unvested Company Equity Awards shall automatically be forfeited effective 90 days following Executives Qualifying Termination. Performance Awards shall be governed by the applicable Company equity plan and the written award agreements governing their grant. 
+
+ii.Notwithstanding the foregoing, if any of Executives then-outstanding Equity Awards are not assumed, continued or substituted in connection with a Change in Control, then the vesting of such Equity Awards will accelerate in full immediately prior to the Change in Control; provided, that any then-outstanding Performance Awards, if any, will be subject to the applicable equity award agreement.
+
+4.Termination for Any Reason. In the event Executives employment is terminated by the Company or by Executive (including due to Executives death or disability), Executive will be paid: (i) any earned but unpaid Base Salary, (ii) other unpaid and then-vested amounts, including any amount payable to Executive under the specific terms of any insurance and health and benefit plans in which Executive participates, unless otherwise specifically provided in this Agreement and (iii) reimbursement for all reasonable and necessary expenses incurred by Executive in connection with Executives performance of services on behalf of the Company in accordance with applicable Company policies and guidelines, in each case as of the effective date of such termination of employment.
+
+5.Payment Conditions. In order to be eligible to receive any of the Outside CIC Severance or the CIC Severance, as applicable, Executive must satisfy the following conditions (collectively, the Payment Conditions):
+
+a.execute and return a general waiver and release of all claims, in a form provided by the Company, and allow such release to become non-revocable prior to the 60th day, or such earlier deadline specified in the Release, following Executives Separation (the Release Deadline);
+
+b.comply with Executives obligations under Executives At-Will Employment, Confidential Information, Invention Assignment and Arbitration Agreement;
+
+c.resign from all officer and director positions with the Company and/or any parent, subsidiary or affiliate (unless otherwise requested by the Company); 
+
+d.return all Company Property to the Company; and
+
+e.The Executive further agrees that, during the twelve (12) month period following his or her cessation of employment, he or she shall not in any way or by any means disparage the Company, the members of the Board or the Companys officers and employees.
+
+6.Clawback/Recoupment. All amounts payable to Executive hereunder shall be subject to recoupment pursuant to the Companys current compensation clawback or recoupment policy, and any additional compensation clawback or recoupment policy or amendments to the current policy adopted by the Board or as required by law during the term of Executives employment with the Company that is applicable generally to executive officers of the Company. No recovery of compensation under such a clawback or recoupment policy will be an event giving rise to a right to resign for Good Reason or constitute a constructive termination without Cause under this Agreement.
+
+7.Section 409A and Section 280G. Executive and the Company understand that payments and benefits under this Agreement may be subject to Section 409A and Section 280G of the Code, each as may be amended or modified from time to time. The parties agree to abide by the Section 409A and Section 280G provisions contained in Exhibit B to this Agreement.
+
+8.Miscellaneous Provisions.
+
+a.Withholding. All payments and benefits under this Agreement will be subject to all applicable deductions and withholdings, including obligations to withhold for federal, state, provincial, foreign and local income and employment taxes. Executives agrees that Executive will be responsible for any applicable taxes of any nature (including any penalties or interest that may apply to such taxes) that the Company reasonably determines apply to any payment made hereunder, that Executives receipt of any benefit hereunder is conditioned on Executives satisfaction of any applicable withholding or similar obligations that apply to such benefit, and that any cash payment owed hereunder will be reduced to satisfy any such withholding or similar obligations that may apply.
+
+b.Complete Agreement. Notwithstanding anything to the contrary herein, this Agreement supersedes any agreement (or portion thereof) concerning similar subject matter dated prior to the Effective Date (including, but not limited to, Executives Prior Severance Arrangement, if any), and by execution of this Agreement both parties agree that any such predecessor agreement (or portion thereof) shall be deemed null and void; provided that, for clarification purposes, this Agreement shall not affect any agreement between the Company and Executive regarding intellectual property matters, non-solicitation or non-competition restrictions or confidential information. The parties further agree that this Agreement does not supersede the provisions of Executives offer letter or employment agreement with the Company which do not address termination or severance benefits or Executives At-Will Employment, Confidential Information, Invention Assignment and Arbitration Agreement.
+
+c.Waiver. No provision of this Agreement may be waived unless the waiver is agreed to in writing and signed by Executive and by an authorized officer of the Company. No waiver by either party of any breach of, or of compliance with, any condition or provision of this Agreement shall be considered a waiver at another time.
+
+d.Successors and Assigns. This Agreement is personal to Executive and will not be assignable by Executive otherwise than by will or the laws of descent and distribution. This Agreement will inure to the benefit of and be binding upon the Company and its successors and assigns. From and after a Change in Control, the term Company when used in this Agreement will also be read to include any entity that actually employs Executive, if different from the Company.
+
+e.Choice of Law. The validity, interpretation, construction and performance of this Agreement shall be governed by the laws of the State of California without reference to conflict of laws provisions, and the parties hereto submit to the exclusive jurisdiction of the state and federal courts of the State of California.
+
+f.Severability. The invalidity or unenforceability of any provision or provisions of this Agreement shall not affect the validity or enforceability of any other provision hereof, which shall remain in full force and effect.
+
+g.Notice. Notices and all other communications contemplated by this Agreement will be in writing and will be deemed to have been duly given when personally delivered or when mailed by U.S. registered or certified mail, return receipt requested and postage prepaid. Mailed notices to Executive shall be addressed to Executive at the home address which Executive most recently communicated to the Company in writing. In the case of the Company, mailed notices shall be addressed to its corporate headquarters, and all notices shall be directed to the attention of the Board.
+
+h.Acknowledgement. By executing this Agreement, Executive acknowledges and agrees that Executive has had the opportunity to consult with Executives own counsel and has read and understands this Agreement, is fully aware of its legal effect, has not acted in reliance upon any representations or promises made by the Company or any other person other than those contained in writing herein.
+
+i.Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together will constitute one and the same instrument, and facsimile and electronic signatures shall be equivalent to original signatures.
+
+[Signature Page to Amended and Restated Executive Severance and Change in Control Agreement Follows]
+
+1
+
+In Witness Whereof, the parties have executed this Agreement as of the date written below.
+
+Docusign, Inc.
+
+By: ____________________________________
+
+Name: ____________________________________
+
+Date: ____________________________________
+
+Executive
+
+By: ____________________________________
+
+Name: ____________________________________
+
+Date: ____________________________________
+
+[Signature Page to Amended and Restated Executive Severance and Change in Control Agreement]
+
+2 
+
+Exhibit A
+
+Definitions
+
+Base Salary shall mean Executives monthly base salary at the rate in effect immediately prior to Executives Separation (ignoring any decrease in base salary that forms the basis for Good Reason, as applicable).
+
+Board means the board of directors of the Company.
+
+Cause shall mean the occurrence of one or more of the following:
+
+i.Executives willful and continued failure to perform the duties and responsibilities of Executives position after there has been delivered to Executive a written demand for performance from the Company which describes the basis for the Companys belief that Executive has not substantially performed Executives duties and provides Executive with thirty (30) days to take corrective action;
+
+ii.any act of personal dishonesty taken by Executive in connection with Executives responsibilities as an employee of the Company with the intention or reasonable expectation that such action may result in substantial personal enrichment of Executive;
+
+iii.Executives conviction of, or plea of nolo contendere to, a felony;
+
+iv.Executives commission of any tortious act, unlawful act or malfeasance which causes or reasonably could cause (for example, if it became publicly known) material harm to the Companys standing, condition or reputation;
+
+v.any material breach by Executive of the provisions of the At-Will Employment, Confidential Information, Invention Assignment and Arbitration Agreement or other improper disclosure of the Companys confidential or proprietary information;
+
+vi.a breach of any fiduciary duty owed to the Company by Executive that has or could reasonably be expected to have a material detrimental effect on the Companys reputation or business;
+
+vii.Executive (A) obstructing or impeding; (B) endeavoring to influence, obstruct or impede, or (C) failing to materially cooperate with, any investigation authorized by the Board or any governmental or self-regulatory entity (an Investigation). However, Executives failure to waive attorney-client privilege relating to communications with Executives own attorney in connection with an Investigation will not constitute Cause; or
+
+viii.a material breach by Executive of any written Company policy or the Companys code of conduct that has been made available to Executive prior to such breach;
+
+provided, however, that the action or conduct described in the clauses above (excluding (iii)) will constitute Cause only if such action or conduct continues after the Company has provided Executive with written notice thereof and thirty (30) days to cure the same if such action or conduct is curable. A determination of Cause shall be made by the Board or the Committee in its sole and absolute discretion.
+
+Change in Control shall mean the occurrence, in a single transaction or in a series of related transactions, of any one or more of the following events; provided, however, to the extent necessary to avoid adverse personal income tax consequences to the Executive in connection with an Award, such transaction also constitutes a change in the ownership or effective control of the Company, or in the ownership of a substantial portion of the Companys assets, as provided in Section 409A(a)(2)(A)(v) of the Code and Treasury Regulations Section 1.409A-3(i)(5) (without regard to any alternative definition thereunder):
+
+(i) any Exchange Act Person becomes the Owner, directly or indirectly, of securities of the Company representing more than 50% of the combined voting power of the Companys then outstanding securities other than by virtue of a merger, consolidation or similar transaction. Notwithstanding the foregoing, a Change in Control will not be deemed to occur (A) on account of the acquisition of securities of the Company directly from the Company, (B) on account of the acquisition of securities of the Company by an investor, any affiliate thereof or any other Exchange Act Person that acquires the Companys securities in a transaction or series of related transactions the primary purpose of which is to obtain financing for the Company through the issuance of equity securities, or (C) solely because the level of Ownership held by any Exchange Act Person (the Subject Person) exceeds the designated percentage threshold of the outstanding voting securities as a result of a repurchase or other acquisition of voting securities by the Company reducing the number of shares outstanding, provided that if a Change in Control would occur (but for the operation of this sentence) as a result of the acquisition of voting securities by the Company, and after such share acquisition, the Subject Person becomes the Owner of any additional voting securities that, assuming the repurchase or other acquisition had not occurred, increases the percentage of the then outstanding voting securities Owned by the Subject Person over the designated percentage threshold, then a Change in Control will be deemed to occur;
+
+(ii) there is consummated a merger, consolidation or similar transaction involving (directly or indirectly) the Company and, immediately after the consummation of such merger, consolidation or similar transaction, the stockholders of the Company immediately prior thereto do not Own, directly or indirectly, either (A) outstanding voting securities representing more than 50% of the combined outstanding voting power of the surviving Entity in such merger, consolidation or similar transaction or (B) more than 50% of the combined outstanding voting power of the parent of the surviving Entity in such merger, consolidation or similar transaction, in each case in substantially the same proportions as their Ownership of the outstanding voting securities of the Company immediately prior to such transaction; or
+
+(iii) there is consummated a sale, lease, exclusive license or other disposition of all or substantially all of the consolidated assets of the Company and its Subsidiaries, other than a sale, lease, license or other disposition of all or substantially all of the consolidated assets of the Company and its Subsidiaries to an Entity, more than 50% of the combined voting power of the voting securities of which are Owned by stockholders of the Company in substantially the same proportions as their Ownership of the outstanding voting securities of the Company immediately prior to such sale, lease, license or other disposition;
+
+Notwithstanding the foregoing definition or any other provision of the Agreement, the term Change in Control will not include a sale of assets, merger or other transaction effected exclusively for the purpose of changing the domicile of the Company.
+
+Capitalized terms used but not defined in the foregoing definition of Change in Control shall have the meaning ascribed to them in the Companys 2018 Equity Incentive Plan.
+
+Change in Control Period shall mean the period beginning 90 days prior to, and ending on the 12- month anniversary of, the effective date of a Change in Control.
+
+Code means the Internal Revenue Code of 1986, as amended, and the Treasury regulations and formal guidance promulgated thereunder.
+
+Committee means the Compensation and Leadership Development Committee of the Board.
+
+Company Equity Awards means all awards for shares of Company common stock granted under any of the Companys equity incentive plans.
+
+Company Property shall mean all material paper and electronic Company documents (and all copies, reproductions or summaries thereof) created and/or received by the Executive during the Executives period of employment with the Company and other material Company materials and property (including Company laptop computers and mobile devices), that the Executive has in the Executives possession or control, including materials of any kind that contain or embody any proprietary or confidential information of the Company (and all copies, reproductions or summaries thereof, in whole or in part). For the avoidance of doubt, Company Property shall not include the Executives personal copies of documents evidencing the Executives hire, termination, compensation, benefits and stock options and any other documentation received as a stockholder of the Company. For purposes of the foregoing definition of Company Property, Company shall include the Company and its parents and subsidiaries.
+
+Good Reasonfor Executives resignation of employment will exist following the occurrence of any of the following without Executives express written consent:
+
+i.a material reduction in Executives duties or responsibilities;
+
+ii.a material reduction in Executives base compensation, unless such reduction is made in connection with a similar action affecting all senior executives; or
+
+iii.a relocation of Executives principal place of employment to a place that increases Executives one-way commute by more than thirty (30) miles as compared to Executives then-current principal place of employment immediately prior to such relocation.
+
+In order to resign for Good Reason, all of the following requirements must be satisfied: (a) Executive must provide written notice to the Board within 90 days after the initial existence of one or more of the conditions set forth above, (b) the Company will have 30 days from receipt of such written notice to cure such condition (and, if it does so, the Executive may withdraw Executives resignation or may resign with no Agreement benefits), and (c) if such condition is not reasonably cured within such period, or the Company advises Executive in writing that it does not intend to cure, Executive must resign from all positions Executive then holds with the Company not later than 30 days after the earlier of the expiration of the Companys cure period or the date that the Company advises Executive in writing that it does not intend to cure. For the purposes of delivery of notice under subsection (a) of this paragraph, a material reduction, or a relocation, that occurs incrementally over a period of time (not to exceed twelve (12) months) shall be deemed to have occurred when such reduction or relocation, in the aggregate, becomes material or meets the applicable threshold, as applicable.
+
+Performance Awards means Company Equity Awards subject to performance-based vesting.
+
+Prior Severance Arrangement means, as applicable, the Executives Executive Severance and Change in Control Agreement, including any and all amendments thereto, previously entered into with, or effected by, the Company.
+
+Qualifying Termination shall mean Executives Separation due to (i) the termination of Executives employment by the Company without Cause or (ii) the Executives resignation for Good Reason. For the avoidance of doubt, in no event will a Separation resulting from (a) the Executives termination for Cause or (b) the Executives death or disability constitute a Qualifying Termination.
+
+Section 409A means Section 409A of the Code and the regulations thereunder.
+
+Separation shall mean a separation from service as defined in the regulations under Section 409A.
+
+Target Bonus shall mean Executives target annual bonus for the performance year in which Executives Separation occurs.
+
+Exhibit B
+
+Section 409A and Section 280G Matters
+
+Section 409A
+
+It is intended that the Agreement shall comply with the requirements of Section 409A of the Code, and any payments hereunder are intended to be exempt from, or if not so exempt, to comply with the requirements of Section 409A of the Code, and this Agreement shall be interpreted, operated and administered accordingly. To the extent that any provision of the Agreement is ambiguous, but a reasonable interpretation of the provision would cause any payment or benefit to comply with or be exempt from the requirements of Section 409A of the Code, Executive and the Company intend the term to be interpreted as such in order to avoid adverse personal tax consequences under Section 409A.
+
+No severance or other payments or benefits otherwise payable to Executive upon a termination of employment under the Agreement or otherwise will be payable until Executive has a separation from service as defined under Treasury Regulation Section 1.409A-l(h), without regard to any alternative definition thereunder.
+
+If the period during which Executive may sign the Release begins in one calendar year and ends in the following calendar year, then no severance payments or benefits that that would constitute deferred compensation within the meaning of Section 409A of the Code will be paid or provided until the later calendar year.
+
+The severance payments and benefits under the Agreement are intended to satisfy the exemptions from application of Section 409A of the Code provided under Treasury Regulations Sections 1.409A l(b)(4), 1.409A-l(b)(5) and 1.409A-l(b)(9). However, if such exemptions are not available and Executive is a specified employee within the meaning of Section 409A of the Code at the time of Executives separation from service, then, solely to the extent necessary to avoid adverse personal tax consequences under Section 409A of the Code, any payments payable under the Agreement on account of a separation from service that would constitute deferred compensation within the meaning of Section 409A of the Code and that would (but for this provision) be payable within 6 months following the date of termination, shall instead be paid on the next business day following the expiration of such six month period or, if earlier, upon Executives death. Each installment payment under the Agreement is a separate payment for purposes of Treasury Regulations Section 1.409A-2(b)(2)(i).
+
+Section 280G
+
+If any payment or benefit (including payments and benefits pursuant to the Agreement) that Executive would receive in connection with a Change in Control from the Company or otherwise (a Transaction Payment) would (i) constitute a parachutepayment within the meaning of Section 280G of the Code, and (ii) but for this sentence, be subject to the excise tax imposed by Section 4999 of the Code (the Excise Tax), then the Company shall cause to be determined, before any amounts of the Transaction Payment are paid to Executive, which of the 
+
+following two alternative forms of payment would result in Executives receipt, on an after-tax basis, of the greater amount of Transaction Payments notwithstanding that all or some portion of the Transaction Payment may be subject to the Excise Tax: (1) payment in full of the entire amount of the Transaction Payments (a Full Payment), or (2) payment of only a portion of the Transaction Payments so that Executive receives the largest payment possible without the imposition of the Excise Tax (a Reduced Payment). For purposes of determining whether to make a Full Payment or a Reduced Payment, the Company shall cause to be taken into account all applicable federal, state, local and foreign income and employment taxes and the Excise Tax (all computed at the highest applicable marginal rate, net of the maximum reduction in federal income taxes which could be obtained from a deduction of such state and local taxes). If a Reduced Payment is made, (x) Executive shall have no rights to any additional payments and/or benefits constituting the forfeited portion of the Full Payment, and (y) reduction in payments and/or benefits will occur in the manner that results in the greatest economic benefit for Executive. If more than one method of reduction will result in the same economic benefit, the items so reduced will be reduced pro rata. Notwithstanding the foregoing, if such reduction would result in any portion of the Transaction Payments being subject to penalties pursuant to Section 409A that would not otherwise be subject to such penalties, then the reduction method shall be modified so as to avoid the imposition of penalties pursuant to Section 409A as follows: (A) Transaction Payments that are contingent on future events (e.g., being terminated without Cause), shall be reduced (or eliminated) before Transaction Payments that are not contingent on future events; and (B) Transaction Payments that are deferred compensation within the meaning of Section 409A shall be reduced (or eliminated) before Transaction Payments that are not deferred compensation within the meaning of Section 409A. In the event that acceleration of vesting of any equity compensation awards is to be reduced, such acceleration of vesting will be cancelled in the reverse order of the date of grant of Executives equity awards. In no event will the Company or any stockholder be liable to Executive for any amounts not paid as a result of the operation of this provision.
+
+The professional firm engaged by the Company for general tax purposes as of the day prior to the effective date of the Change in Control shall make all determinations required to be made under this Exhibit B. If the professional firm so engaged by the Company is serving as accountant or auditor for the individual, entity or group effecting the Change in Control, the Company shall appoint a nationally recognized independent registered public accounting firm to make the determinations required hereunder. The Company shall bear all expenses with respect to the determinations by such professional firm required to be made hereunder.
+
+The professional firm engaged to make the determinations hereunder shall provide its calculations, together with detailed supporting documentation, to the Company and Executive within a reasonable period after the date on which Executives right to a Transaction Payment is triggered or such other time as reasonably requested by the Company or Executive. If the professional firm determines that no Excise Tax is payable with respect to the Transaction Payment, either before or after the application of the Reduced Amount, it shall furnish the Company and Executive with detailed supporting calculations of its determinations that no Excise Tax will be imposed with respect to such Transaction Payment. Any good faith determinations of the professional firm made hereunder shall be final, binding and conclusive upon the Company and Executive.
+
+Notwithstanding the foregoing, if the Company is privately held as of immediately prior to a Change in Control and it is deemed necessary by the Company to avoid any potential imposition of the adverse tax results provided for by Sections 280G and 4999 of the Code, then as a further condition to any payment or benefit provided for in the Agreement or otherwise, the Company may require Executive to submit any payment or benefit provided for in the Agreement or from any other source that the Company reasonably determines may constitute an excess parachute payment (as defined in Section 280G(b)(l) of the Code) for approval by the Companys stockholders prior to the Closing of the Change in Control in the manner required by the terms of Section 280G(b)(5)(B) of the Code, so that no payments or benefits will be deemed to constitute a parachute payment subject to the excise taxes under Sections 280G and 4999 of the Code.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>docu-20250115.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>docu-20250115_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Security Exchange Name 
+Security Exchange Name 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Document Period End Date 
+Document Period End Date 
+
+Cover [Abstract] 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Soliciting Material 
+Soliciting Material 
+
+City Area Code 
+City Area Code 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Document Type 
+Document Type 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+Entity Address, Address Line Two 
+
+Entity Registrant Name 
+Entity Registrant Name
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>docu-20250115_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Cover
+
+Jan. 15, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Jan. 15, 2025
+
+Entity Registrant Name DOCUSIGN, INC.
+
+Entity Central Index Key 0001261333
+
+Amendment Flag false
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-38465
+
+Entity Tax Identification Number 91-2183967
+
+Entity Address, Address Line One 221 Main St.
+
+Entity Address, Address Line Two Suite 1550
+
+Entity Address, City or Town San Francisco
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 94105
+
+City Area Code 415
+
+Local Phone Number 489-4940
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, par value $0.0001 per share
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+Trading Symbol DOCU
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+1 
+23 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://docusign.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+docu-20250115.htm 
+docu-20250115.xsd 
+docu-20250115_lab.xml 
+docu-20250115_pre.xml 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>14
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>15
+<FILENAME>0001261333-25-000004-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>docu-20250115_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001261333 
+
+2025-01-15 
+2025-01-15 
+
+0001261333 
+false 
+8-K 
+2025-01-15 
+001-38465 
+DOCUSIGN, INC. 
+DE 
+91-2183967 
+221 Main St. 
+Suite 1550 
+San Francisco 
+CA 
+94105 
+415 
+489-4940 
+false 
+false 
+false 
+false 
+Common Stock, par value $0.0001 per share 
+DOCU 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

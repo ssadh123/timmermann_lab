@@ -1,0 +1,1281 @@
+<SEC-DOCUMENT>0000950170-25-017473.txt : 20250211
+<SEC-HEADER>0000950170-25-017473.hdr.sgml : 20250211
+<ACCEPTANCE-DATETIME>20250211083745
+ACCESSION NUMBER:		0000950170-25-017473
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		42
+CONFORMED PERIOD OF REPORT:	20250211
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250211
+DATE AS OF CHANGE:		20250211
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aptevo Therapeutics Inc.
+		CENTRAL INDEX KEY:			0001671584
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				811567056
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37746
+		FILM NUMBER:		25607792
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2401 4TH AVE.
+		STREET 2:		SUITE 1050
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98121
+		BUSINESS PHONE:		206-838-0500
+
+	MAIL ADDRESS:	
+		STREET 1:		2401 4TH AVE.
+		STREET 2:		SUITE 1050
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98121
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>apvo-20250211.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?8-K
+
+false000167158400016715842025-02-112025-02-11
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 11, 2025
+
+APTEVO THERAPEUTICS INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware 
+
+001-37746 
+
+81-1567056
+
+(State or Other Jurisdiction
+
+of Incorporation) 
+
+(Commission File Number) 
+
+(IRS Employer
+
+Identification No.)
+
+2401 4th Avenue
+
+Suite 1050 
+
+Seattle, Washington 
+
+98121
+
+(Address of Principal Executive Offices) 
+
+(Zip Code)
+
+Registrants Telephone Number, Including Area Code:(206)838-0500
+
+Not Applicable
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class 
+
+Trading
+
+Symbol(s) 
+
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value 
+
+APVO 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 ( 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 ( 240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 7.01 Regulation FD Disclosure.
+
+On February 11, 2025, Aptevo Therapeutics Inc. ("Aptevo" or the "Company") made available its investor presentation which details the Company's current drug pipeline, including clinical product candidates mipletamig and ALG.APV-527 and preclinical candidates APVO711, APVO603 and APVO442.
+
+A copy of the presentation is attached hereto as Exhibit 99.1 and is incorporated by reference herein.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No. 
+
+Description
+
+99.1 
+
+Investor Presentation
+
+104 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+APTEVO THERAPEUTICS INC.
+
+Date: 
+
+February 11, 2025 
+
+By: 
+
+/s/ Marvin L. White
+
+Marvin L. White
+
+President and Chief Executive Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>apvo-ex99_1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+CONFIDENTIAL 11, February 2025 | Nasdaq: APVO
+
+Forward-Looking Statements This presentation includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical fact, including, without limitation, Aptevo's expectations about the activity, efficacy and safety of its therapeutic candidates and potential use of any such candidates as therapeutics for treatment of disease, statements related to the progress of Aptevos clinical programs, including statements related to the Phase 1b/2 trial initiation for mipletamig, whether the Phase 1b/2 protocol will be successful, whether further study of mipletamig in Phase 1b/2 trial focusing on a targeted patient population will continue to show clinical benefit, whether Aptevos strategy will translate into an improved overall survival rate in acute myeloid leukemia (AML), statements related to the durability of mipletamig and whether its duration of remission results will be indicative of later stage clinical trials, whether the mipletamig data in combination therapy and monotherapy will be indicative of later stage clinical trials, mipletamigs potential for multiple indications, and the timing for its expected data readouts, ALG.APV-527s potential for multiple indications, and the timing for its expected preliminary data, the possibility of meaningful data readouts for ALG.APV-527, whether the diversified pipeline candidates will demonstrate the ability to fight a range of solid malignancies, expectations regarding the effectiveness of its ADAPTIR and ADAPTIR-FLEX platforms, whether Aptevo will continue to have momentum in its business in the future, statements related to Aptevos ability to generate stockholder value, and any other statements containing the words "may," "believes," "expects," "anticipates," "hopes," "intends," "optimism," "potential," "designed," "engineered," "innovative," "innovation," "promising," "plans," "forecasts," estimates, will and similar expressions. Investors are, therefore, cautioned not to place undue reliance on any forward-looking statement. These forward-looking statements are based on Aptevo's current intentions, beliefs, and expectations regarding future events. Aptevo cannot guarantee that any forward-looking statement will be accurate. Investors should realize that if underlying assumptions prove inaccurate or unknown risks or uncertainties materialize, actual results could differ materially from Aptevos expectations. There are several important factors that could cause Aptevo's actual results to differ materially from those indicated by such forward-looking statements, including a deterioration in Aptevo's business or prospects; further assessment of preliminary data or different results from later clinical trials, adverse events and unanticipated problems, adverse developments in clinical development, including unexpected safety issues observed during a clinical trial; the market potential of Aptevos therapeutic candidates; and changes in regulatory, social, macroeconomics and political conditions. For instance, actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including the uncertainties inherent in the results of preliminary data and pre-clinical studies being predictive of the results of later-stage clinical trials, initiation, enrollment and maintenance of patients, and completion of clinical trials, availability and timing of data from ongoing clinical trials, the trial design includes combination therapies that may make it difficult to accurately ascertain the benefits of a product candidate, expectations for the timing and steps required in the regulatory review process, expectations for regulatory approvals, the impact of competitive products, our ability to enter into agreements with strategic partners or raise funds on acceptable terms or at all, and other matters that could affect the availability or commercial potential of the Company's product candidates or business, economic disruptions due to catastrophes or other events, including natural disasters or public health crises such as the coronavirus (referred to as COVID- 19), and geopolitical risks, including the current war between Russian and Ukraine as well as the war between Israel and Hamas and macroeconomic conditions such as economic uncertainty, rising inflation and interest rates, conditions in the banking system and financial markets, including the failure of banks and financial institutions, increased market volatility and decreased consumer confidence. These risks are not exhaustive. Aptevo faces known and unknown risks. Additional risks and factors that may affect results are set forth in Aptevo's filings with the Securities and Exchange Commission, including its Annual Report on Form 10-K for the fiscal year ended December 31, 2023, and its subsequent quarterly reports on Form 10-Q and current reports on Form 8-K. The foregoing sets forth many, but not all, of the factors that could cause actual results to differ from Aptevo's expectations in any forward-looking statement. Any forward-looking statement speaks only as of the date of this presentation, and, except as required by law, Aptevo does not assume any obligation to update any forward-looking statement to reflect new information, events, or circumstances. December 2024 | Nasdaq: APVO
+
+Aptevo Therapeutics: Bispecifics Differentiated by Design Multi-Billion-Dollar Opportunities Assets that specifically target high-value oncology indications in multi-billion-dollar underserved markets Rationally Designed Assets Bispecifics that are engineered for optimal immune engagement delivering enhanced efficacy, safety and precision targeting of tumors while minimizing toxicity Derisked Clinical Candidates Two clinical programs showing strong safety, tolerability, and clinical activity, reducing development risk and increasing the likelihood of regulatory and commercial success Inflection Points Can Drive Stock Price Near-term catalysts include clinical readouts, regulatory milestones, and partnership opportunities setting up potential valuation surges as the Company progresses Long-Term Value Creation & Scalability Modular platform enables efficient expansion into additional tumor types and combination therapies ensuring sustained pipeline growth and strategic partnerships
+
+Combinable with standard of care or other experimental therapies (i.e. radioisotopes, antibody drug conjugates (ADCs), adaptive T cells, checkpoint molecules, other bispecifics) CHO production cell lines used with antibody-like purification Aptevos Differentiated & Diversified Bispecifics Built to Overcome Common Safety Challenges Unique CD3 designed to reduce cytokine release syndrome (CRS) as seen in prior mipletamig clinical results Stimulatory binding domains only function when crosslinked, eliminating systemic off target immune activation, potentially reducing or eliminating toxicities Enhance Tumor-Specific Functions Binding domains used are known to be expressed on tumor or within the tumor microenvironment that localize the bispecific to tumors Reduced affinity CD3 with potential to increase tumor localization (APVO442) Checkpoint inhibitor to block the PD-1/PD-L1 pathways (APVO711) Costimulation via 4-1BB, OX40 or CD40 augment the antitumor response (APVO603, ALG.APV-527, APVO711)
+
+Diversified Pipeline Offers Multiple Opportunities for Partnering *mipletamig combined with standard of care venetoclax + azacitidine in unfit (unable to receive high dose chemotherapy) frontline AML patients **Partnered with Alligator Bioscience CLINICAL PROGRAMS PRE-CLINICAL PROGRAMS PROGRAM (Target) POTENTIAL INDICATION(S) PRECLINICAL PHASE 1 (First-in-Human) PHASE 2 NOTES Mipletamig (Formerly APVO436) (CD3 x CD123) Frontline AML RAINIER Phase 1b/2 frontline AML trial enrolling* Orphan Drug Designation ALG.APV-527** (4-1BB x 5T4) NSCLC, Head & Neck, Colorectal, Pancreatic, Breast, Other Solid Tumors Phase 1 dose escalation part concluding APVO711 (PD-L1 x CD40) Multiple solid tumors Preclinical studies ongoing APVO603 (4-1BB x OX40) Multiple solid tumors IND enabling studies ongoing APVO442 (PSMA x CD3) Prostate Cancer IND enabling studies ongoing
+
+Aptevo is developing multiple molecules capable of targeting hematologic and solid tumor malignancies with large market potential Market Opportunity Select Global Market Opportunities* Size AML/MDS/Other leukemias $6.3B Breast Cancer $32.1B Non-Small Cell Lung Cancer $24.2B Colorectal Cancer $15.8B Head and Neck Cancer $2.8B Pancreatic Cancer $2.7B Cervical Cancer $2.2B * Source: Global Data 2022
+
+Mipletamig (CD3 X CD123 Bispecific) AML, MDS and Other Leukemias The mipletamig results are promising and show that it is well-suited to combine with the venetoclax + azacitidine standard of care regimen. We see a very manageable safety profile and promising efficacy, including duration of remission results. Justin Watts, MD, Associate Professor of Medicine, Division of Hematology, Chief, Leukemia Section, University of Miami/Sylvester Comprehensive Cancer Center
+
+RAINIER Phase 1b/2 Trial: Part 1 Dose Optimization (Ongoing) Cohort 1 Highlights All patients achieved complete remission (CR), continuing efficacy trends seen in prior trials No CRS* was observed One CR patient had no minimal residual disease (MRD-negative status) One patient was positive for the TP53 genetic mutation, which is generally associated with poor prognosis due to chemotherapy resistance, genetic instability, and overall treatment challenges RAINIER Frontline AML Trial Initiated 3Q2024 - Combination Therapy with Venetoclax and Azacitidine in Unfit Newly Diagnosed Patients *Cytokine release syndrome (CRS) RAINIER Protocol Evaluate up to 39 frontline AML patients who are not eligible for intensive induction due to age or other factors across five escalating dose level cohorts Primary Endpoints Evaluate the safety, tolerability, and maximum tolerated dose (MTD) of increasing doses of mipletamig in combination with venetoclax and azacitidine in patients with newly diagnosed AML Determine the optimal phase 2 dose Assess incidence of CRS at each dose level Secondary Endpoint Determine efficacy at increasing doses of mipletamig in combination with venetoclax and azacitidine in patients with newly diagnosed AML 100% of frontline patients achieved remission (CR/CRi) across dose expansion & RAINIER trials to date.
+
+Previous Trial Results Show Compelling Data *CR, CRi, MLFS, PR or SD **In combination with standard of care venetoclax + azacitidine in venetoclax nave patients ***Benchmark Composite References: Aldoss 2019, Maiti 2021, Morsia 2020, Garciaz 2022, Feld 2021 Combination Therapy Superiority Demonstrated compared to Standard of Care 100% of dose expansion and dose optimization trial (to date) Frontline patients achieved remission with mipletamig/ven/aza triplet, compared to 66% for ven/aza doublet therapy 91% of all dose expansion venetoclax nave patients experienced clinical benefit,*, ** including 73% of patients achieving remission with the mipletamig/ven/aza triplet (frontline and relapsed/refractory combined) Results outperformed benchmark composite*** Combination Therapy Superiority Demonstrated compared to other triplet investigational therapy 100% of dose expansion and dose optimization trial (to date) Frontline patients achieved remission with mipletamig/ven/aza triplet, compared to 68% for ven/aza/pivekimab triplet therapy Single Agent Activity Conclusively Demonstrated 49% of patients in dose escalation monotherapy trial experienced clinical benefit* 36% of evaluable patients in dose escalation monotherapy trial experienced significant leukemic blast reduction (17 88% reduction) 100% of dose expansion monotherapy cohort patients experienced clinical benefit (MLFS or SD) One dose expansion combination therapy patient achieved and remained in CR for four months and then sustained remission for four additional months after transitioning from the combo to mipletamig monotherapy
+
+Comparison of Mipletamig Clinical Results to Date Promising frontline patient results in combination with Ven/Aza vs. benchmarks Mipletamig Ven/Aza-Viale-A (1) Pivekimab(2) Phase 1B 3 1B/2 # Patients 7 431 50 CR/CRi 100% 66% 68% CR 86% 37% 54% (1) Frontline benchmark: Viale A registrational trial - DiNardo et al. N Engl J Med 2020;383:617-29 results used to support approval of Venetoclax in combination as frontline Standard of Care for unfit patients (2) Pivekimab sunirine (IMGN632) Phase Ib/II ASH 2023 Developed by Immunogen (acquired by AbbVie in 2024) Note - magrolimab removed as their frontline AML trial has been terminated due to safety concerns Promising monotherapy data from dose escalation vs. Pivekimab dose escalation trial Over 1/3 of evaluable mipletamig monotherapy patients (36%) experienced substantial leukemic blast reduction to a clinical meaningful degree compared to baseline (range of 17% to 88% reduction) Mipletamig Pivekimab CR/CRi 25% (based on selected clinical move forward dose of 12-18mcg) 17% (results from patients receiving RP2D) Key takeaways: Monotherapy results comparable to other clinical trials In combination, mipletamig substantially outperformed Viale-A trial (Ven/Aza combination) and Pivekimab
+
+AML Blast Reduction with Mipletamig: Evidence of Single Agent Activity in the Dose Escalation Study Key Takeaways 1/2 of evaluable monotherapy patients (49%) experienced clinical benefit (CR, CRi, MLFS, PR or SD) (19 of 39 evaluable patients) More than 1/3 of evaluable monotherapy patients (36%) experienced substantial leukemic blast reduction to a clinically meaningful degree compared to baseline (range of 17% to 88% reduction) Conclusion: Results show clinical activity with single agent mipletamig in a heterogenous patient population that would typically not be achieved without the presence of an active drug
+
+ALG.APV-527Multiple Solid Tumor Type Expressing 5T4 ALG.APV-527 is differentiated from other solid tumor-targeting bispecifics because it combines precise tumor specificity (via 5T4 targeting) with controlled immune activation through 4-1BB stimuli. The drug candidate incorporates the innovative design advantages of Aptevos proprietary ADAPTIR platform. These features are designed to improve safety and efficacy and broaden its potential impact across multiple solid tumor types.
+
+ALG.APV-527 Dose Escalation Trial Yields Positive Data Promising data from the ALG.APV-527 multi-center Phase 1 dose escalation trial, were reported as follows: Clinical activity | Signs of clinical activity were observed, 10 of 17 efficacy evaluable patients (59%) have a best overall response to date of stable disease (SD) Safety and tolerability | Treatment was overall well-tolerated, and a maximum tolerated dose has not yet been determined No severe liver toxicity observed, a side effect associated with dose limiting toxicity Pharmacokinetics | ALG.APV-527 could be measured in all patients with serum concentration of ALG.APV-527 consistent with the administered dose and predicted exposure Pharmacodynamics | Biomarker analyses indicate the expression of the targets (4-1BB and 5T4) in tumor biopsies, treatment resulted in increased soluble 4-1BB in blood and an overall increase in number of CD8 T cells in the tumor, confirming biological activity of ALG.APV-527 The longest SD duration was in a breast cancer patient who entered the study with progressive disease, achieved stable disease and remained on study for >11 months. This patient successfully transitioned to a higher dose level twice One colon cancer patient remained on study and in SD for six months One prostate cancer patient in stable disease remains on study for more than four months Data support continued clinical evaluation for the treatment of multiple solid tumors
+
+Preclinical Pipeline & Platforms
+
+Preclinical Pipeline: Novel, Solid Tumor-Targeted, Built for Safety APV0711 APVO603 Diagram Mechanism of Action Dual mechanism of action designed to provide synergistic co-stimulation of CD40 on antigen presenting cells and simultaneously block the PD-1/PD-L1 inhibitory pathway Simultaneously engages two co-stimulatory molecules (4-1BB and OX40) amplifies T cells effector function Engages CD3 on T cells which then directly kill PSMA-expressing prostate tumor cells Unique Design A checkpoint inhibitor with added functionality CD40 only functions when both binding domains are engaged Stimulates pre-activated T cells locally in the tumor Only functions when both binding domains are engaged Low-affinity monospecific CD3 reduces binding to circulating T cells which enables distribution to solid tumors CD3 induces lower levels of cytokines APVO442 4-1BB scFv OX40 scFv PSMA scFv CD3 scFv All potentially combinable with other technologies such as antibody drug conjugates or radioisotopes PD-L1 scFv CD40 scFv
+
+ADAPTIR ADAPTIR-FLEX Drug Targeting Binds up to two targets Binds up to four targets Genetic and Structural Format Single gene that assembles into a homodimer based on an antibody backbone Two genes that assemble into a heterodimer with a knob-in-hole antibody backbone Half-life Contains Immunoglobulin Gamma 1 Fc Demonstrated antibody-like half-life in mice Contains Immunoglobulin Gamma 1 Fc Demonstrated antibody-like half-life in mice Effector Function Fc mutations may be utilized to eliminate binding to Fc Gamma Receptors or to enhance effector function Fc mutations may be utilized to eliminate binding to Fc Gamma Receptors or to enhance effector function Manufacturing Antibody-like manufacturing processes Antibody-like manufacturing processes Current Pipeline Candidates Mipletamig (CD123 x CD3) ALG.APV-527 (4-1BB x 5T4) APVO603 (41BB x OX40) APVO711 (PD-L1 x CD40) APVO442 (PSMA x CD3) Wholly-Owned Proprietary Platforms ADAPTIR ADAPTIR-FLEX
+
+The Company
+
+Experienced & Expert Leadership Extensive R&D, manufacturing, clinical and financial background Senior Management Marvin White, President & CEO Jeff Lamothe, Chief Operating Officer Daphne Taylor, Chief Financial Officer SoYoung Kwon, General Counsel, Business Development & Corporate Affairs Dirk Huebner, MD, Chief Medical Officer Board of Directors John Niederhuber, MD, Chairman Zsolt Harsanyi, Ph.D., Director Barbara Lopez Kunz, Director Daniel Abdun-Nabi, Director Grady Grant, III, Director Marvin White, Director
+
+Aptevo Therapeutics: Bispecifics Differentiated by Design Multi-Billion-Dollar Opportunities Assets that specifically target high-value oncology indications in multi-billion-dollar underserved markets Rationally Designed Assets Bispecifics that are engineered for optimal immune engagement delivering enhanced efficacy, safety and precision targeting of tumors while minimizing toxicity Derisked Clinical Candidates Two clinical programs showing strong safety, tolerability, and clinical activity, reducing development risk and increasing the likelihood of regulatory and commercial success Inflection Points Can Drive Stock Price Near-term catalysts include clinical readouts, regulatory milestones, and partnership opportunities setting up potential valuation surges as the Company progresses Long-Term Value Creation & Scalability Modular platform enables efficient expansion into additional tumor types and combination therapies ensuring sustained pipeline growth and strategic partnerships
+
+Appendix
+
+Novel Bispecific Mipletamig for AML, MDS & Other Leukemias POTENTIAL INDICATIONS Multiple blood cancers, including frontline and relapsed/refractory AML and MDS Combinable with standard of care (venetoclax & azacitidine) with demonstrated improved patient outcomes UNIQUE DESIGN Designed to engage T cells via CD3 binding to specifically kill CD123-expressing tumor cells. CD123 is a compelling target for AML due to its overexpression on leukemic stem cells and AML blasts Our CD3 binding domain is derived from CRIS-7; unique from competitors. Preclinical studies compared to a competitor candidate demonstrated reduced cytokine secretion which has translated into manageable CRS in the clinic Combination of potent microgram dose level and typical CHO manufacturing yield translates into extremely low cost per dose Convenient weekly I.V. dosing in the clinic vs. some competitors delivering by continuous infusion OWNERSHIP Core family patent exclusivity until 2037 Orphan drug designation granted by FDA for AML Wholly-owned by Aptevo Therapeutics
+
+Why We are Targeting CD123 CD123 (an IL3 receptor which creates an anchor for our unique CD3) is an antigen that is overexpressed in AML and MDS cells which makes this a meaningful therapeutic target CD123 is also expressed on leukemic stem cells (LSCs), which are self-renewing, making them resistant to chemotherapy, thus killing of these cells with our CD3 T cell engager (TCE) reduces potential for relapse Clinical data demonstrates that the presence of LSCs is associated with poor overall survival reducing the amount of LSCs can prolong patient survival No other bispecifics approved or in late-stage development targeting CD123 https://pubmed.ncbi.nlm.nih.gov/21933861/, https://journals.sagepub.com/doi/epdf/10.1177/107327480401100216 Overall survival of AML patients according to CD34+CD38low/- CD123+ percentage
+
+Dose Escalation Trial: Safety Results are Compelling and Promising Of the 90 patients treated with mipletamig, only 27% experienced CRS 7% of patients had CRS cases grade 3 or higher Side effects were generally manageable in the clinic Incidence of CRS Dose Escalation Dose Expansion Total # Patients 46 44 90 # # # % All CRS 12 12 24 27 CRS Grade 3 4 2 6 7 The Takeaways CRS = Cytokine release syndrome
+
+Dose Escalation Trial: Efficacy Outperforms Benchmarks *Benchmark Composite References: Aldoss 2019, Maiti 2021, Morsia 2020, Garciaz 2022, Feld 2021. CR: Complete remission, CRi: Complete remission with incomplete hematologic recovery, MLFS: Bone marrow complete remission, SD: Stable disease, CBR: (Clinical benefit rate) consists of CR, CRi, MLFS and SD, Composite CR: Consists of CR, CRi and MLFS 91% clinical benefit rate in patients receiving combination treatment (venetoclax + azacitidine + mipletamig) in venetoclax treatment nave patients This combination outperforms the benchmarks as follows: Mipletamig Benchmark* Composite CR 82% 33-57% CR/CRi 73% 21-46% CR 45% 13-26% Response Type Patient Type All Ven-nave # Patients enrolled 19 12 # Patients evaluable 16 11 CR, n 5 5 CRi, n 3 3 MLFS, n 1 1 SD, n 3 1 Clinical Benefit Rate % 75% 91% Composite CR % 56% 82% CR/CRi % 50% 73% CR % 31% 45% Patients Receiving Combination of Venetoclax + Azacitidine + Mipletamig The Takeaways Data from the dose expansion supports continued development of mipletamig in frontline patients in combination with standard of care venetoclax + azacitidine
+
+100% Remission Among Frontline Patients Across Two Trials 100% composite remission rate and 71% CR rate Nearly double the benchmark for most key outcomes 100% remission rate for patients with TP53 genetic mutation (generally known to have poor prognosis) * all frontline patients dosed in combination with venetoclax and azacitidine Frontline PTs * # pts CR CRi TP53 Mutation Composite Remission Rate CR/CRi CR/CRi Before Cycle 2 CR/MRD- (% of Composite CR/CRi) TP53 Mutated Patients with CR/CRi Dose Expansion # 4 3 1 2 4 3 1 2 Dose Optimization # 3 2 1 1 3 3 2 1 Combined # 7 5 2 3 7 6 3 3 Dose Expansion % 75 100 75 25 100 Dose Optimization % 67 100 100 67 100 Combined % 71 100 86 43 100 Benchmark (Viale-A) % 37 66 43 23 53 Composite Remission = complete remission (CR) and, complete remission with blood markers that have not yet recovered (CRI), Minimum residual disease (MRD), cytokine release syndrome (CRS)
+
+Dose Escalation Trial: Encouraging Duration of Remission (DOR) Multiple patients moved to transplant - 3/11 patients responded sufficiently to move to stem cell transplant receiving stem cell transplant is the treatment option with the best probability for survival and highest benefit to patients Sustained complete remission - Of the patients with responses, one patient remained on study with sustained complete remission for 8 cycles (maximum allowed per protocol) which translated into at least 8 months of response duration Median DOR not reached - The median DOR was not reached, which is clinically meaningful because a substantial number of patients either stayed on treatment or moved to transplant and did not experience a relapse event DOR data adds to a growing body of clinical evidence (safety, tolerability, efficacy and duration of remission) and provides strong support for the further development of mipletamig in combination therapy for patients with AML. Duration of Response, % of patients Median EOS Time, months T T T DOR data adds to a growing body of clinical evidence (safety, tolerability, efficacy and now DOR) and provides strong support for the further development of mipletamig in combination therapy for patients with AML
+
+Monotherapy Trial Laid the Foundation: Evidence of Single Agent Activity in Dose Escalation and Expansion Studies Mipletamig was explored in the dose escalation study as a single agent. Given the evidence of AML blast cell reduction as well as clinical benefit in a heterogenous and difficult to treat patient population along with a favorable safety profile, the 18 mcg dose was chosen for further study in the expansion part of the study and extensively explored in combination with standard of care. Evidence of single agent activity in escalation phase: Approximately 1/2 of evaluable monotherapy patients (49%) experienced clinical benefit (CR, CRi, MLFS, PR or SD) 19 of 39 evaluable patients Over 1/3 of evaluable monotherapy patients (36%) experienced substantial leukemic blast reduction to a clinical meaningful degree compared to baseline (range of 17% to 88% reduction), proving evidence of the pharmacodynamic effect of the drug 2 complete remissions were observed at the 12 mcg and 18 mcg dose levels, which aligned with the two largest percentage reductions in AML blast counts These results show the clinical activity of mipletamig as a single agent in a heterogenous AML patient population Evidence of single agent activity in expansion phase: Of 4 evaluable patients who had AML and were treated with single agent, 1 patient achieved MLFS and 3 achieved SD as their best overall response indicating antileukemic activity (Cohort 3)
+
+Novel Bispecific ALG.APV-527 for Multiple Solid Tumors POTENTIAL INDICATIONS Multiple solid tumor cancers, including lung, breast, head & neck, colorectal, pancreatic, and other solid tumors with significant markets Unique Design Unique mechanism of action allows for targeting of both 4-1BB (co-stimulatory receptor) and 5T4 (tumor antigen) Designed to overcome safety issues of others first-generation 4-1BB agonists by designing ALG.AVP-527 to require 5T4-dependent immune activation Promotes the activity of antigen-primed CD8 T cells by increasing survival and enhancing their ability to kill tumor Designed for combinability with other drugs Ownership Joint 50/50 ownership and co-development agreement with Alligator Bioscience Patent exclusivity until 2038 (+ up to 5 years patent term extension)
+
+Why We are Targeting 4-1BB + 5T4 4-1BB provides attributes to T cells and NK cells that enhance tumor cell killing 4-1BB is one of many costimulatory receptors expressed on tumor infiltrating T cells and NK cells but not on peripheral blood cells, allows for precision targeting of tumor cells 5T4 is an antigen expressed on the tumor indication but NOT highly expressed on normal tissue, further allowing for precision targeting and reducing systemic response Both 4-1BB and 5T4 are pre-clinically and clinically validated 4-1BB Co-Stimulation 4-1BB Co-Stimulation with 5T4 Tumor Antigen Dependency ALG.APV-527
+
+Thank You Aptevo Therapeutics Inc. 2401 4th Avenue, Suite 1050 Seattle, WA 98121 General Inquiries Tel: 206-838-0500 Fax: 206-838-0503 Investor Relations & Communications Miriam Weber Miller Tel: 206-859-6628 Email: ir@apvo.com or Millerm@apvo.com
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>apvo-ex99_1s1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>apvo-ex99_1s2.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>apvo-ex99_1s3.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>apvo-ex99_1s4.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>apvo-ex99_1s5.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>apvo-ex99_1s6.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>apvo-ex99_1s7.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>10
+<FILENAME>apvo-ex99_1s8.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>11
+<FILENAME>apvo-ex99_1s9.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>12
+<FILENAME>apvo-ex99_1s10.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>13
+<FILENAME>apvo-ex99_1s11.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>14
+<FILENAME>apvo-ex99_1s12.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>15
+<FILENAME>apvo-ex99_1s13.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>16
+<FILENAME>apvo-ex99_1s14.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>17
+<FILENAME>apvo-ex99_1s15.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>18
+<FILENAME>apvo-ex99_1s16.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>19
+<FILENAME>apvo-ex99_1s17.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>20
+<FILENAME>apvo-ex99_1s18.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>21
+<FILENAME>apvo-ex99_1s19.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>22
+<FILENAME>apvo-ex99_1s20.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>23
+<FILENAME>apvo-ex99_1s21.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>24
+<FILENAME>apvo-ex99_1s22.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>25
+<FILENAME>apvo-ex99_1s23.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>26
+<FILENAME>apvo-ex99_1s24.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>27
+<FILENAME>apvo-ex99_1s25.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>28
+<FILENAME>apvo-ex99_1s26.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>29
+<FILENAME>apvo-ex99_1s27.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>30
+<FILENAME>apvo-ex99_1s28.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>31
+<FILENAME>apvo-ex99_1s29.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>32
+<FILENAME>apvo-ex99_1s30.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>33
+<FILENAME>apvo-20250211.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT
+<TEXT>
+100000 - Document - Document And Entity Information 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink 
+
+Cover [Abstract] 
+Amendment Flag 
+City Area Code 
+Document Period End Date 
+Document Type 
+Entity Address, Address Line One 
+Entity Address, Address Line Two 
+Entity Address, City or Town 
+Entity Address, Postal Zip Code 
+Entity Address, State or Province 
+Entity Central Index Key 
+Entity Emerging Growth Company 
+Entity File Number 
+Entity Incorporation, State or Country Code 
+Entity Information, Former Legal or Registered Name 
+Entity Registrant Name 
+Entity Tax Identification Number 
+Local Phone Number 
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Tender Offer 
+Title of 12(b) Security 
+Security Exchange Name 
+Soliciting Material 
+Trading Symbol 
+Written Communications
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>35
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Document And Entity Information
+
+Feb. 11, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Feb. 11, 2025
+
+Entity Registrant Name APTEVO THERAPEUTICS INC.
+
+Entity Central Index Key 0001671584
+
+Entity Emerging Growth Company false
+
+Entity File Number 001-37746
+
+Entity Incorporation, State or Country Code DE
+
+Entity Tax Identification Number 81-1567056
+
+Entity Address, Address Line One 2401 4th Avenue
+
+Entity Address, Address Line Two Suite 1050
+
+Entity Address, City or Town Seattle
+
+Entity Address, State or Province WA
+
+Entity Address, Postal Zip Code 98121
+
+City Area Code (206)
+
+Local Phone Number 838-0500
+
+Entity Information, Former Legal or Registered Name Not Applicable
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, $0.001 par value
+
+Trading Symbol APVO
+
+Security Exchange Name NASDAQ
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Former Legal or Registered Name of an entity+ References
+
+No definition available.+ Details
+
+Name: dei_EntityInformationFormerLegalOrRegisteredName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>36
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>37
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>38
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>40
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+24 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+100000 - Document - Document And Entity Information 
+Sheet 
+http://aptevotherapeutics.com/20250211/taxonomy/role/DocumentDocumentAndEntityInformation 
+Document And Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+apvo-20250211.htm 
+apvo-20250211.xsd 
+
+http://xbrl.sec.gov/dei/2024 
+
+false 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>42
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>43
+<FILENAME>0000950170-25-017473-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>44
+<FILENAME>apvo-20250211_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001671584 
+
+2025-02-11 
+2025-02-11 
+
+false 
+0001671584 
+8-K 
+2025-02-11 
+APTEVO THERAPEUTICS INC. 
+DE 
+001-37746 
+81-1567056 
+2401 4th Avenue 
+Suite 1050 
+Seattle 
+WA 
+98121 
+(206) 
+838-0500 
+Not Applicable 
+false 
+false 
+false 
+false 
+Common Stock, $0.001 par value 
+APVO 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,1818 @@
+<SEC-DOCUMENT>0001676238-25-000051.txt : 20250327
+<SEC-HEADER>0001676238-25-000051.hdr.sgml : 20250327
+<ACCEPTANCE-DATETIME>20250327162216
+ACCESSION NUMBER:		0001676238-25-000051
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		17
+CONFORMED PERIOD OF REPORT:	20250326
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Unregistered Sales of Equity Securities
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250327
+DATE AS OF CHANGE:		20250327
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Braze, Inc.
+		CENTRAL INDEX KEY:			0001676238
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				452505271
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41065
+		FILM NUMBER:		25779609
+
+	BUSINESS ADDRESS:	
+		STREET 1:		63 MADISON BUILDING
+		STREET 2:		28 E. 28TH ST., FLOOR 12 MAILROOM
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10016
+		BUSINESS PHONE:		(609) 964-0585
+
+	MAIL ADDRESS:	
+		STREET 1:		63 MADISON BUILDING
+		STREET 2:		28 E. 28TH ST., FLOOR 12 MAILROOM
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10016
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Appboy, Inc.
+		DATE OF NAME CHANGE:	20160602
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>brz-20250326.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?brz-20250326
+
+FALSE000167623800016762382025-03-262025-03-26
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (date of earliest event reported): March 26, 2025
+
+______________________________________________________________
+
+Braze, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+______________________________________________________________
+
+Delaware 
+
+001-41065 
+
+45-2505271
+
+(State or Other Jurisdiction of Incorporation) 
+
+(Commission File Number) 
+
+(I.R.S. Employer Identification No.)
+
+63 Madison Building
+
+28 East 28th Street, Floor 12
+
+New York, New York10016
+
+(Address of principal executive offices, including zip code) 
+
+(609) 964-0585
+
+(Registrant's telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+______________________________________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Class A common stock, par value $0.0001 per share BRZE The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+Item 2.02. Results of Operations and Financial Condition.
+
+On March 27, 2025, Braze, Inc. (the Company) issued a press release announcing its financial results for the quarter and fiscal year ended January 31, 2025. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+Item 3.02. Unregistered Sales of Equity Securities. 
+
+In connection with the acquisition of OfferFit (the Transaction), discussed in Item 7.01 below, the Company agreed to issue approximately 3.80 million (subject to adjustment as described under Item 7.01 below) shares of the Companys Class A Common Stock, par value $0.0001 per share (the Common Stock Consideration), a portion of which are subject to escrows and holdbacks and re-vesting pursuant to the Merger Agreement, based on the portion of Purchase Price (defined below) to be paid in common stock in the Transaction. 
+
+The Common Stock Consideration will be subject to a lock-up for a twelve-month period post-closing, with one half of the total shares of Common Stock Consideration issued to the Sellers (as defined in the Merger Agreement) vesting after six-months, an additional quarter of the total shares of Common Stock Consideration vesting after nine-months, and the last quarter of the total shares of Common Stock Consideration vesting after twelve-months; provided that, with respect to any Seller who (x) owned preferred stock in OfferFit immediately prior to the consummation of the Transaction and (y) is not an officer, director, employee or individual independent contractor engaged by the Company, the Common Stock Consideration will be subject to a lock-up for a four-week period post-closing, with one quarter of the total shares of Common Stock Consideration vesting after each week for four weeks.
+
+The Common Stock Consideration is to be issued as a private placement exempt from registration pursuant to Section 4(a)(2) of the Securities Act of 1933, as amended (the Securities Act), and Rule 506(b) thereunder, as a transaction by an issuer not involving a public offering. Recipients of the Common Stock Consideration will be provided customary resale registration rights with respect to such shares of Common Stock Consideration pursuant to the terms and conditions of the Merger Agreement (defined below) after the closing of the Transaction.
+
+Item 7.01. Regulation FD Disclosure.
+
+On March 26, 2025, the Company entered into an Agreement and Plan of Merger (the Merger Agreement) with OfferFit, Inc., a Delaware corporation (OfferFit), Enzyme Merger Sub I, Inc., a Delaware corporation and a wholly owned subsidiary of the Company (Merger Sub I), Enzyme Merger Sub II, LLC, a Delaware limited liability company and a wholly owned subsidiary of the Company (Merger Sub II and together with Merger Sub I, the Merger Subs) and WT Representative LLC, a Delaware limited liability company solely in its capacity as Sellers representative (the Representative), pursuant to which the Company will acquire all outstanding shares of common stock and preferred stock of OfferFit and all outstanding options and other rights to purchase OfferFit common stock, for $325 million (the Purchase Price) in a combination of cash and Common Stock Consideration. OfferFit provides AI technology to enhance personalization in CRM marketing. 
+
+Consummation of the Transaction is subject to the satisfaction or waiver of customary closing conditions and is expected to occur within the Companys fiscal quarter ended July 31, 2025. 
+
+The Merger Agreement contains customary representations, warranties, covenants, and post-closing indemnification obligations of the parties thereto. 
+
+On March 27, 2025, the Company issued a press release announcing the Transaction. A copy of the press release is attached hereto to Exhibit 99.2 and is incorporated herein by reference. 
+
+The information contained in Items 2.02, 7.01 and 9.01 in this Current Report on Form 8-K, including the accompanying Exhibits 99.1 and 99.2 hereto, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing made by the Company under the Securities Act, or the Exchange Act, regardless of any general incorporation language in such filings, unless expressly incorporated by specific reference in such filing.
+
+Forward-Looking Statements.
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, including but not limited to, statements regarding the expected timing of and benefits from the acquisition of OfferFit by the Company, and the expected performance and capabilities of its products resulting therefrom. These forward-looking statements are based on the current assumptions, expectations and beliefs of the Company, and are subject to substantial risks, uncertainties and changes in circumstances that 
+
+may cause actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. These risks include, among others, the risk that the Transaction may not be completed in a timely manner or at all; any restrictions or limitations imposed by regulatory authorities; the extent to which the Company achieves anticipated financial targets; the impact of management and organizational changes on OfferFits business; the impact on OfferFit employees and the Companys ability to retain key personnel; the Companys effectiveness in integrating the OfferFit platform and operations with its business; and the Companys ability to realize its broader strategic and operating objectives. Further information on potential factors that could affect the Companys results are included in the Companys Quarterly Report on Form 10-Q for the fiscal quarter ended October 31, 2024, filed with the U.S. Securities and Exchange Commission on December 10, 2024, and the other public filings of the Company with the U.S. Securities and Exchange Commission. The forward-looking statements included in this Current Report on Form 8-K represent the views of the Company only as of the date of this filing, and the Company assumes no obligation, and does not intend to update these forward-looking statements, except as required by law.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No. Description 
+
+99.1 Press Release of Braze, Inc., dated March 27, 2025
+
+99.2 Press Release of Braze, Inc., dated March 27, 2025
+
+104 Cover Page Interactive Data (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+BRAZE, INC.
+
+By: /s/Susan Wiseman 
+
+Susan Wiseman
+
+General Counsel
+
+Dated: March 27, 2025
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a20250131-brazeincxfy25ear.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+BRAZE REPORTS FISCAL YEAR AND FOURTH QUARTER 2025 RESULTS
+
+Delivers 26% revenue growth and strong operating leverage in fiscal 2025
+
+Introduces first quarter and full year fiscal 2026 guidance
+
+Furthers agentic AI innovation with agreement to acquire OfferFit, a modern AI decisioning company
+
+NEW YORK -- (BUSINESSWIRE) -- March 27, 2025 -- Braze (Nasdaq: BRZE) the leading customer engagement platform that empowers brands to Be Absolutely EngagingTM, today announced results for its fiscal year ended January 31, 2025.
+
+"Fiscal 2025 was a milestone year for Braze that reinforced our position as the leading Customer Engagement platform through robust customer growth and continued advancements in our product, including meaningful new investments in AI and machine learning. We grew revenue 26% while continuing to drive strong operating leverage, ending the year with three straight quarters of non-GAAP net income profitability, said Bill Magnuson, Cofounder and CEO of Braze. And today, we are also pleased to announce our intent to acquire OfferFit, a sophisticated AI decisioning company focused on deploying reinforcement learning that recommends individualized cross-channel customer journeys at scale. We look forward to bringing our complementary products and teams together to drive the evolution of Customer Engagement.
+
+Fiscal Fourth Quarter 2025 Financial Highlights
+
+Revenue was $160.4 million compared to $131.0 million in the fourth quarter of the fiscal year ended January 31, 2024, up 22.5% year-over year,driven primarily by new customers, upsells, and renewals. 
+
+Subscription revenue in the quarter was $153.9 million compared to $125.9 million in the fourth quarter of the fiscal year ended January 31, 2024, and professional services and other revenue was $6.5 million compared to $5.1 million in the fourth quarter of the fiscal year ended January 31, 2024.
+
+Remaining performance obligations as of January 31, 2025 was $793.1 million, of which $505.2 million is current, which the company defines as less than one year. 
+
+GAAP gross margin was 69.3% compared to 67.2% in the fourth quarter of the fiscal year ended January 31, 2024.
+
+Non-GAAP gross margin was 69.9% compared to 67.9% in the fourth quarter of the fiscal year ended January 31, 2024.
+
+Dollar-based net retention for all customers for the trailing 12 months ended January 31, 2025 and January 31, 2024 was 111% and 117%, respectively; dollar-based net retention for customers with annual recurring revenue (ARR) of $500,000 or more was 114% compared to 120% in the fiscal year ended January 31, 2024.
+
+Total customers increased to 2,296 as of January 31, 2025 from 2,044 as of January 31, 2024; 247 of our customers had ARR of $500,000 or more as of January 31, 2025, compared to 202 customers as of January 31, 2024.
+
+GAAP operating loss was $21.6 million compared to an operating loss of $32.3 million in the fourth quarter of the fiscal year ended January 31, 2024. A primary contributor to the operating loss in the quarter included $27.8 million of stock-based compensation expense.
+
+Non-GAAP operating income was $7.9 million compared to a loss of $7.5 million in the fourth quarter of the fiscal year ended January 31, 2024.
+
+GAAP net loss per share attributable to Braze common stockholders, basic and diluted, of $0.17 based on 102.9 million weighted average shares outstanding in the fourth quarter of fiscal year ended January 31, 2025, compared to GAAP net loss per share attributable to Braze common stockholders, basic and diluted, of $0.29, based on 98.6 million weighted average shares outstanding in the fourth quarter of the fiscal year ended January 31, 2024.
+
+Non-GAAP net income per share attributable to Braze common stockholders, diluted, was $0.12based on 107.0 million weighted average shares outstanding in the fourth quarter of fiscal year ended January 31, 2025, compared to non-GAAP net loss per share attributable to Braze common stockholders, basic and diluted, of $0.04 based on 98.6 million weighted average shares outstanding in the fourth quarter of the fiscal year ended January 31, 2024.
+
+Net cash provided by operating activities was $17.1 millioncompared to net cash provided by operating activities of $3.8 millionin the fourth quarter of the fiscal year ended January 31, 2024.
+
+Free cash flow was $15.2 million compared to $(3.5) million in the fourth quarter of the fiscal year ended January 31, 2024. 
+
+Total cash and cash equivalents, restricted cash, and marketable securities was $514.0 million as of January 31, 2025 compared to $480.0 million as the fiscal year ended January 31, 2024.
+
+Fiscal Year 2025 Financial Highlights
+
+Revenue was $593.4 million compared to $471.8 million in the fiscal year ended January 31, 2024, up 25.8% year-over year,driven primarily by new customers, upsells, and renewals. 
+
+Subscription revenue was $570.3 million compared to $451.1 million in the fiscal year ended January 31, 2024, and professional services and other revenue was $23.1 million compared to $20.7 million in the fiscal year ended January 31, 2024.
+
+GAAP gross margin was 69.1% compared to 68.7% in the fiscal year ended January 31, 2024.
+
+Non-GAAP gross margin was 69.8% compared to 69.5% in the fiscal year ended January 31, 2024.
+
+GAAP operating loss was $122.2 million compared to a loss of $144.7 million in the fiscal year ended January 31, 2024. A primary contributor to the operating loss in the fiscal year included $114.3 million of stock-based compensation expense.
+
+Non-GAAP operating loss was $0.0 million compared to a loss of $39.9 million in the fiscal year ended January 31, 2024.
+
+GAAP net loss per share attributable to Braze common stockholders, basic and diluted, of $1.02 based on 102.2 million weighted average shares outstanding in the fiscal year ended January 31, 2025, compared to GAAP net loss per share attributable to Braze common stockholders, basis and diluted, of $1.32, based on 98.1 million weighted average shares outstanding in the fiscal year ended January 31, 2024. 
+
+Non-GAAP net income per share attributable to Braze common stockholders, diluted, was $0.17 based on 107.0 millionweighted average shares outstanding in the fiscal year ended January 31, 2025, compared to non-GAAP net loss per share attributable to Braze common stockholders, basic and diluted, of $0.25 based on 98.1 million weighted average shares outstanding in the fiscal year ended January 31, 2024.
+
+Net cash provided by operating activities was $36.7 million compared to net cash provided by operating activities of $6.9 million in the fiscal year ended January 31, 2024.
+
+Free cash flow was $19.6 million compared to $(6.5) million in the fiscal year ended January 31, 2024.
+
+Recent Business Highlights
+
+Furthers agentic AI innovation with a definitive agreement to acquire Offerfit, a modern AI decisioning company, for $325 million, in a combination of cash and Braze Class A common stock, subject to standard closing adjustments and conditions.
+
+Notable new business wins and upsells in the quarter included Americas Test Kitchen, Dis-Chem, Dunkin UAE, Kueski, Legal & General, Muvi Cinemas, QDOBA Mexican Eats, Springer Nature, and tonies.
+
+Announced a new strategic partnership and integration with Shopify, enabling enterprise brands to create seamless, personalized customer journeys by combining Shopifys eCommerce capabilities with Braze while driving higher conversions, retention, and lifetime value.
+
+Added new eCommerce features, including pre-defined events from Shopify, pre-built Canvas and Email templates specifically designed for eCommerce and WhatsApp enhancements to help marketers quickly launch high-impact campaigns, boosting conversions and revenue.
+
+Published fifth annual Customer Engagement Report, which combines data from over 2,300 marketing decision makers in 18 countries across CPG, Financial Services, Health & Wellness, Media & Entertainment, Retail & eCommerce, QSR and On-Demand Food/Beverage Industry.
+
+Financial Outlook
+
+Braze is initiating guidance for the fiscal first quarter ending April 30, 2025 and fiscal year ending January 31, 2026. 
+
+Metric 
+
+(in millions, except per share amounts) FY 2026 Q1 Guidance FY 2026 Guidance
+
+Revenue 
+
+$158.0 - 159.0 
+
+$686.0 - 691.0
+
+Non-GAAP operating income 
+
+$0.0 - 1.0 
+
+$25.5 - 29.5
+
+Non-GAAP net income 
+
+$4.5 - 5.5 
+
+$34.0 - 38.0
+
+Non-GAAP net income per share, diluted 
+
+$0.04 - 0.05 
+
+$0.31 - 0.35
+
+Weighted average common shares used in computing non-GAAP net income per share, diluted 
+
+~108.0 
+
+~110.0
+
+Braze has not reconciled its guidance as to non-GAAP operating income (loss), non-GAAP net income or non-GAAP net income per share to their most directly comparable GAAP measure as a result of uncertainty regarding, and the potential variability of, reconciling items such as stock-based compensationexpense specific to equity compensation awards that are directly impacted by unpredictable fluctuations in Brazes stock price. Accordingly, reconciliations are not available without unreasonable effort, although it is important to note that these factors could be material to Brazes results calculated in accordance with GAAP.
+
+Additionally, Braze guidance does not give effect to the companys anticipated acquisition of OfferFit, as such transaction remains subject to achievement of standard closing conditions.
+
+Conference Call Information:
+
+What: Braze Fiscal Year and Fourth Quarter 2025 Financial Results Conference Call 
+
+When: Thursday, March 27th at 4:30 pm EDT / 1:30 pm PDT
+
+Webcast & Supplemental Data: investors.braze.com
+
+Replay: A webcast replay will be available on Brazes investor site at investors.braze.com.
+
+Supplemental and Other Financial Information
+
+Supplemental information, including an accompanying financial presentation and other information can be accessed through Brazes investor website at investors.braze.com. 
+
+Non-GAAP Financial Measures
+
+This press release and the accompanying tables contain the following non-GAAP financial measures: non-GAAP gross profit and margin, non-GAAP sales and marketing expense, non-GAAP research and development expense, non-GAAP general and administrative expense, non-GAAP operating income (loss), non-GAAP operating margin, non-GAAP net income (loss), non-GAAP net income (loss) per share, basic and diluted, and non-GAAP free cash flow. Braze defines non-GAAP gross profit and margin, non-GAAP sales and marketing expense, non-GAAP research and development expense, non-GAAP general and administrative expense, non-GAAP operating income (loss), non-GAAP operating margin, and non-GAAP net income (loss) as the respective GAAP balances, adjusted for stock-based compensation expense, employer taxes related to stock-based compensation, charitable contribution expense, contingent consideration adjustments, acquisition related expense, amortization of intangible assets, and restructuring expense. Prior to the fourth quarter of the fiscal year ended January 31, 2024, Braze did not adjust non-GAAP gross profit and margin, non-GAAP sales and marketing expense, non-GAAP research and development expense, non-GAAP general and administrative expense, non-GAAP operating income (loss), non-GAAP operating margin or non-GAAP net income (loss) for contingent consideration adjustments, because there were no such 
+
+adjustments in prior periods. Braze defines non-GAAP free cash flow as net cash provided by/(used in) operating activities, minus purchases of property and equipment and minus capitalized internal-use software costs. Investors are encouraged to review the reconciliation of these historical non-GAAP financial measures to their most directly comparable GAAP financial measures.
+
+Braze uses this non-GAAP financial information internally in analyzing its financial results and believes that this non-GAAP financial information, when taken collectively with GAAP financial measures, may be helpful to investors because it provides consistency and comparability with past financial performance and assists in comparisons with other companies, some of which use similar non-GAAP financial information to supplement their GAAP results. The non-GAAP financial information is presented for supplemental informational purposes only, and should not be considered a substitute for financial information presented in accordance with generally accepted accounting principles in the United States (GAAP), and may be different from similarly-titled non-GAAP measures used by other companies.
+
+The principal limitation of these non-GAAP financial measures is that they exclude significant expenses that are required by GAAP to be recorded in Brazes financial statements. In addition, they are subject to inherent limitations as they reflect the exercise of judgment by Brazes management about which expenses are excluded or included in determining these non-GAAP financial measures. A reconciliation is provided below in the financial statement tables included below in this press release for each non-GAAP financial measure to the most directly comparable financial measure stated in accordance with GAAP.
+
+Braze encourages investors to review the related GAAP financial measures and the reconciliation of these non-GAAP financial measures to their most directly comparable GAAP financial measures, which it includes in press releases announcing quarterly and fiscal year financial results, including this press release, and not to rely on any single financial measure to evaluate Brazes business.
+
+Definition of Other Business Metrics
+
+Customer: Braze defines a customer, as of period end, as the separate and distinct, ultimate parent-level entity that has an active subscription with Braze to use its products. A single organization could have multiple distinct contracting divisions or subsidiaries, all of which together would be considered a single customer.
+
+Annual Recurring Revenue (ARR): Braze defines ARR as the annualized value of customer subscription contracts, including certain premium professional services that are subject to contractual subscription terms, as of the measurement date, assuming any contract that expires during the next 12 months is renewed on its existing terms (including contracts for which Braze is negotiating a renewal). Brazes calculation of ARR is not adjusted for the impact of any known or projected future events (such as customer cancellations, expansion or contraction of existing customers relationships or price increases or decreases) that may cause any such contract not to be renewed on its existing terms. ARR may decline or fluctuate as a result of a number of factors, including customers satisfaction or dissatisfaction with Brazes products and professional services, pricing, competitive offerings, economic conditions or overall changes in Brazes customers spending levels. ARR should be viewed independently of revenue and does not represent Brazes GAAP revenue on an annualized basis or a forecast of revenue, as it is an operating metric that can be impacted by contract start and end dates and renewal rates.
+
+Dollar-Based Net Retention Rate: Braze calculates dollar-based net retention rate as of a period end by starting with the ARR from a cohort of customers as of 12 months prior to such period-end (the Prior Period ARR). Braze then calculates the ARR from the same cohort of customers as of the end of the current period (the Current Period ARR). Current Period ARR includes any expansion and is net of contraction or attrition over the last 12 months, but excludes ARR from new customers in the current period. Braze then divides the total Current Period ARR by the total Prior Period ARR to arrive at the point-in-time dollar-based net retention rate. Braze then calculates the weighted average point-in-time dollar-based net retention rates as of the last day of each month in the current trailing 12-month period to arrive at the dollar-based net retention rate.
+
+Remaining Performance Obligations: The transaction price allocated to remaining performance obligations represents amounts under non-cancelable contracts expected to be recognized as revenue in future periods, and may be influenced by several factors, including seasonality, the timing of renewals, the timing of service delivery and contract terms. Unbilled portions of the remaining performance obligation are subject to future economic risks including bankruptcies, regulatory changes and other market factors.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, including but not limited to, statements regarding Brazes financial outlook for the first quarter of and the full fiscal year ended January 31, 2026 and the anticipated benefits from the acquisition of OfferFit, Inc. by Braze. These forward-looking statements are based on current expectations, estimates, forecasts and projections. Words such as anticipate, believe, could, estimate, expect, goal, hope, intend, may, might, potential, predict, project, shall, should, target, will and variations of these terms and similar expressions are intended to identify these forward-looking statements, although not all forward-looking statements contain these identifying words. 
+
+Forward-looking statements are based on Brazes current assumptions, expectations and beliefs and are subject to substantial risks, uncertainties, assumptions and changes in circumstances that may cause Brazes actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. These risks include, but are not limited to, risks and uncertainties related to: (1) any restrictions or limitations imposed by regulatory authorities on the acquisition of OfferFit; (2) the extent to which Braze achieves anticipated financial targets; (3) the impact of management and organizational changes on OfferFits business; (4) the impact on OfferFit employees and Brazes ability to retain key personnel; (5) the effectiveness in integrating the OfferFit platform and operations with our business; (6) Brazes ability to realize its broader strategic and operating objectives; (7) unstable market and economic conditions may have serious adverse consequences on Brazes business, financial condition and share price; (8) Brazes recent rapid revenue growth may not be indicative of its future revenue growth; (9) Brazes history of operating losses; (10) Brazes limited operating history at its current scale; (11) Brazes ability to successfully manage its growth; (12) the accuracy of estimates of market opportunity and forecasts of market growth and the impact of global and domestic socioeconomic events on Brazes business; (13) Brazes ability and the ability of its platform to adapt and respond to changing customer or consumer needs, requirements or preferences; (14) Brazes ability to attract new customers and renew existing customers; (15) the competitive markets in which Braze participates and the intense competition that it faces; (16) Brazes ability to adapt and respond effectively to rapidly changing technology, evolving cybersecurity and data privacy risks, evolving industry standards or changing regulations; and (17) Brazes reliance on third-party providers of cloud-based infrastructure; as well as other risks and uncertainties discussed in the Risk Factors section of Brazes Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission (SEC) on December 9, 2024, and other subsequent filings Braze makes with the SEC from time to time, including Brazes Annual Report on Form 10-K for the fiscal year ended January 31, 2025, that will be filed with the SEC. The forward-looking statements included in this press release represent Brazes views only as of the date of this press release and Braze assumes no obligation, and does not intend to update these forward-looking statements, except as required by law.
+
+About Braze
+
+Braze is the leading customer engagement platform that empowers brands to Be Absolutely Engaging. Braze allows any marketer to collect and take action on any amount of data from any source, so they can creatively engage with customers in real time, across channels from one platform. From cross-channel messaging and journey orchestration to Al-powered experimentation and optimization, Braze enables companies to build and maintain absolutely engaging relationships with their customers that foster growth and loyalty. The company has been recognized as a 2024 U.S. News & World Report Best Companies to Work For, 2024 Best Small & Medium Workplaces in Europe by Great Place to Work, 2024 Fortune Best Workplaces for Women by Great Place to Work and was named a Leader by Gartner in the 2024 Magic Quadrant for Multichannel Marketing Hubs and a Strong Performer in The Forrester Wave: Email Marketing Service Providers, Q3 2024. Braze is headquartered in New York with 15 offices across AMER, LATAM, EMEA, and APAC. Learn more at braze.com.
+
+Braze uses its Investor website at investors.braze.com as a means of disclosing material non-public information, announcing upcoming investor conferences and for complying with its disclosure obligations under Regulation FD. Accordingly, you should monitor its investor relations website in addition to following its press releases, blog posts on its website (braze.com), SEC filings and public conference calls and webcasts.
+
+Selected Financial Data
+
+BRAZE, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(in thousands, except per share amounts)
+
+Three Months Ended
+
+January 31, Fiscal Year Ended
+
+January 31,
+
+2025 2024 2025 2024
+
+Revenue $ 160,400 $ 130,957 $ 593,410 $ 471,800 
+
+Cost of revenue (1)(2) 49,313 42,992 183,191 147,527 
+
+Gross Profit 111,087 87,965 410,219 324,273 
+
+Operating expenses: 
+
+Sales and marketing (1)(2)(6) 69,262 63,051 282,316 247,125 
+
+Research and development (1)(2) 33,600 31,114 133,969 119,863 
+
+General and administrative (1)(2)(3)(4)(5)(6)(7) 29,784 26,093 116,093 101,977 
+
+Total operating expenses 132,646 120,258 532,378 468,965 
+
+Loss from operations (21,559) (32,293) (122,159) (144,692) 
+
+Other income, net 5,589 4,354 21,557 16,220 
+
+Loss before provision for income taxes (15,970) (27,939) (100,602) (128,472) 
+
+Provision for income taxes 1,094 639 3,445 1,957 
+
+Net loss (17,064) (28,578) (104,047) (130,429) 
+
+Net income (loss) attributable to redeemable non-controlling interest 128 (301) (304) (1,263) 
+
+Net loss attributable to Braze, Inc. $ (17,192) $ (28,277) $ (103,743) $ (129,166) 
+
+Net loss per share attributable to Braze, Inc. common stockholders, basic and diluted $ (0.17) $ (0.29) $ (1.02) $ (1.32) 
+
+Weighted-average shares used to compute net loss per share attributable to Braze, Inc. common stockholders, basic and diluted 102,918 98,561 102,189 98,096 
+
+(1) Includes stock-based compensation as follows:
+
+Three Months Ended
+
+January 31, Fiscal Year Ended
+
+January 31,
+
+2025 2024 2025 2024
+
+Cost of revenue $ 977 $ 895 $ 4,022 $ 3,585 
+
+Sales and marketing 9,223 7,644 38,168 31,198 
+
+Research and development 10,381 9,711 43,004 38,962 
+
+General and administrative 7,262 5,966 29,067 23,432 
+
+Total stock-based compensation expense $ 27,843 $ 24,216 $ 114,261 $ 97,177 
+
+(2) Includes employer taxes related to stock-based compensation as follows:
+
+Three Months Ended
+
+January 31, Fiscal Year Ended
+
+January 31,
+
+2025 2024 2025 2024
+
+Cost of revenue $ 33 $ 44 $ 189 $ 125 
+
+Sales and marketing 177 238 1,247 847 
+
+Research and development 122 192 1,522 913 
+
+General and administrative 117 104 684 343 
+
+Total employer taxes related to stock-based compensation expense $ 449 $ 578 $ 3,642 $ 2,228 
+
+(3) Includes 1% Pledge charitable donation expense as follows:
+
+Three Months Ended
+
+January 31, Fiscal Year Ended
+
+January 31,
+
+2025 2024 2025 2024
+
+General and administrative $ 1,112 $ 1,371 $ 3,876 $ 3,762 
+
+(4) Includes acquisition related expense as follows:
+
+Three Months Ended
+
+January 31, Fiscal Year Ended
+
+January 31,
+
+2025 2024 2025 2024
+
+General and administrative $ $ $ $ 1,946 
+
+(5) Includes amortization of intangible assets acquired in the acquisition expense as follows:
+
+Three Months Ended
+
+January 31, Fiscal Year Ended
+
+January 31,
+
+2025 2024 2025 2024
+
+General and administrative $ 101 $ 217 $ 560 $ 580 
+
+(6) Includes restructuring related expense as follows:
+
+Three Months Ended
+
+January 31, Fiscal Year Ended
+
+January 31,
+
+2025 2024 2025 2024
+
+Sales and marketing $ $ $ $ 541 
+
+General and administrative 103 
+
+Total restructuring costs $ $ $ $ 644 
+
+(7) Includes adjustment to the fair value of the contingent consideration liability as follows:
+
+Three Months Ended
+
+January 31, Fiscal Year Ended
+
+January 31,
+
+2025 2024 2025 2024
+
+General and administrative $ $ (1,572) $ (223) $ (1,572) 
+
+BRAZE, INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(in thousands, except share and per share amounts)
+
+January 31,
+
+2025 2024
+
+ASSETS 
+
+CURRENT ASSETS: 
+
+Cash and cash equivalents $ 83,062 $ 68,228 
+
+Restricted cash, current 3,373 
+
+Accounts receivable, net of allowance of $2,563 and $2,772 at January 31, 2025 and January 31, 2024, respectively 95,234 92,256 
+
+Marketable securities 430,457 407,898 
+
+Prepaid expenses and other current assets 35,273 29,366 
+
+Total current assets 644,026 601,121 
+
+Restricted cash, noncurrent 530 530 
+
+Property and equipment, net 38,550 29,358 
+
+Operating lease right-of-use assets 76,147 81,163 
+
+Deferred contract costs 76,766 63,661 
+
+Goodwill 28,448 28,448 
+
+Intangible assets, net 3,130 3,690 
+
+Other assets 3,401 2,970 
+
+TOTAL ASSETS $ 870,998 $ 810,941 
+
+LIABILITIES, REDEEMABLE NON-CONTROLLING INTEREST, AND STOCKHOLDERS' EQUITY 
+
+CURRENT LIABILITIES: 
+
+Accounts payable $ 2,150 $ 6,321 
+
+Accrued expenses and other current liabilities 64,189 63,264 
+
+Deferred revenue 239,976 204,269 
+
+Operating lease liabilities, current 18,162 15,585 
+
+Total current liabilities 324,477 289,439 
+
+Operating lease liabilities, noncurrent 69,278 75,027 
+
+Other long-term liabilities 2,494 2,050 
+
+TOTAL LIABILITIES 396,249 366,516 
+
+COMMITMENTS AND CONTINGENCIES (Note 13) 
+
+Redeemable non-controlling interest (Note 4) (112) 192 
+
+STOCKHOLDERS EQUITY 
+
+Class A common stock, $0.0001 par value; 2,000,000,000 and 2,000,000,000 shares authorized as of January 31, 2025 and January 31, 2024, respectively; 87,934,059 and 73,037,015 shares issued and outstanding as of January 31, 2025 and January 31, 2024, respectively 8 7 
+
+Class B common stock, $0.0001 par value; 110,000,000 and 110,000,000 shares authorized as of January 31, 2025 and January 31, 2024, respectively; 16,017,314 and 27,173,408 shares issued and outstanding as of January 31, 2025 and January 31, 2024, respectively 2 3 
+
+Additional paid-in capital 1,062,613 928,494 
+
+Accumulated other comprehensive loss (926) (1,178) 
+
+Accumulated deficit (586,836) (483,093) 
+
+TOTAL STOCKHOLDERS EQUITY 474,861 444,233 
+
+TOTAL LIABILITIES, REDEEMABLE NON-CONTROLLING INTEREST, AND STOCKHOLDERS EQUITY $ 870,998 $ 810,941 
+
+BRAZE, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(in thousands)
+
+Fiscal Year Ended
+
+January 31,
+
+2025 2024
+
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+Net loss (including amounts attributable to redeemable non-controlling interests) $ (104,047) $ (130,429) 
+
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+
+Stock-based compensation 115,140 97,232 
+
+Amortization of deferred contract costs 35,014 29,788 
+
+Depreciation and amortization 10,115 6,963 
+
+Provision for credit losses 2,331 2,020 
+
+Value of common stock donated to charity 3,776 3,762 
+
+(Accretion) amortization of (discount) premium on marketable securities (2,079) (2,077) 
+
+Non-cash foreign exchange (gain) loss (1,033) 460 
+
+Fair value adjustments to contingent consideration (223) (1,572) 
+
+Fixed asset write off 488 146 
+
+Other (152) (495) 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable (5,363) (14,008) 
+
+Prepaid expenses and other current assets (6,629) (3,413) 
+
+Deferred contract costs (48,171) (45,119) 
+
+ROU assets and liabilities 1,939 4,275 
+
+Other assets (29) 229 
+
+Accounts payable (3,912) 3,419 
+
+Accrued expenses and other current liabilities 3,694 20,990 
+
+Deferred revenue 35,887 34,108 
+
+Other long-term liabilities (66) 571 
+
+Net cash provided by operating activities 36,680 6,850 
+
+CASH FLOWS FROM INVESTING ACTIVITIES: 
+
+Cash paid for acquisition, net of cash acquired (16,319) 
+
+Purchases of property and equipment (13,234) (9,761) 
+
+Capitalized internal-use software costs (3,814) (3,574) 
+
+Purchases of marketable securities (217,975) (248,059) 
+
+Maturities of marketable securities 195,353 257,737 
+
+Return of principal on marketable securities 3,200 
+
+Net cash used in investing activities (36,470) (19,976) 
+
+CASH FLOWS FROM FINANCING ACTIVITIES: 
+
+Proceeds from exercise of common stock options 6,906 7,263 
+
+Proceeds from stock associated with employee stock purchase plan 7,705 6,011 
+
+Payments of deferred purchase consideration (2,916) (165) 
+
+Net cash provided by financing activities 11,695 13,109 
+
+Effect of foreign currency exchange rate changes on cash, cash equivalents, and restricted cash (444) (475) 
+
+Net change in cash, cash equivalents, and restricted cash 11,461 (492) 
+
+Cash, cash equivalents, and restricted cash, beginning of period 72,131 72,623 
+
+Cash, cash equivalents, and restricted cash, end of period $ 83,592 $ 72,131 
+
+BRAZE, INC.
+
+U.S. GAAP RECONCILIATION OF NON-GAAP ADJUSTED RESULTS
+
+(in thousands, except per share amounts)
+
+The following tables reconcile each non-GAAP financial measure to its most directly comparable GAAP financial measure:
+
+Reconciliation of GAAP to Non-GAAP Gross Margin Three Months Ended
+
+January 31, Fiscal Year Ended
+
+January 31,
+
+2025 2024 2025 2024
+
+Gross profit $ 111,087 $ 87,965 $ 410,219 $ 324,273 
+
+Plus: 
+
+Stock-based compensation expense 977 895 4,022 3,585 
+
+Employer taxes related to stock-based compensation expense 33 44 189 125 
+
+Non-GAAP gross profit $ 112,097 $ 88,904 $ 414,430 $ 327,983 
+
+GAAP gross margin 69.3 % 67.2 % 69.1 % 68.7 %
+
+Non-GAAP gross margin 69.9 % 67.9 % 69.8 % 69.5 %
+
+Reconciliation of GAAP to Non-GAAP Operating Expenses Three Months Ended
+
+January 31, Fiscal Year Ended
+
+January 31,
+
+2025 2024 2025 2024
+
+GAAP sales and marketing expense $ 69,262 $ 63,051 $ 282,316 $ 247,125 
+
+Less: 
+
+Stock-based compensation expense 9,223 7,644 38,168 31,198 
+
+Employer taxes related to stock-based compensation expense 177 238 1,247 847 
+
+Restructuring expense 541 
+
+Non-GAAP sales and marketing expense $ 59,862 $ 55,169 $ 242,901 $ 214,539 
+
+GAAP research and development expense $ 33,600 $ 31,114 $ 133,969 $ 119,863 
+
+Less: 
+
+Stock-based compensation expense 10,381 9,711 43,004 38,962 
+
+Employer taxes related to stock-based compensation expense 122 192 1,522 913 
+
+Non-GAAP research and development expense $ 23,097 $ 21,211 $ 89,443 $ 79,988 
+
+GAAP general and administrative expense $ 29,784 $ 26,093 $ 116,093 $ 101,977 
+
+Less: 
+
+Stock-based compensation expense 7,262 5,966 29,067 23,432 
+
+Employer taxes related to stock-based compensation expense 117 104 684 343 
+
+1% Pledge charitable contribution expense 1,112 1,371 3,876 3,762 
+
+Acquisition related expense 1,946 
+
+Amortization of intangibles expense 101 217 560 580 
+
+Restructuring expense 103 
+
+Contingent consideration adjustment (1,572) (223) (1,572) 
+
+Non-GAAP general and administrative expense $ 21,192 $ 20,007 $ 82,129 $ 73,383 
+
+Reconciliation of GAAP to Non-GAAP Operating Income (Loss) Three Months Ended
+
+January 31, Fiscal Year Ended
+
+January 31,
+
+2025 2024 2025 2024
+
+Loss from operations $ (21,559) $ (32,293) $ (122,159) $ (144,692) 
+
+Plus: 
+
+Stock-based compensation expense 27,843 24,216 114,261 97,177 
+
+Employer taxes related to stock-based compensation expense 449 578 3,642 2,228 
+
+1% Pledge charitable contribution expense 1,112 1,371 3,876 3,762 
+
+Acquisition related expense 1,946 
+
+Amortization of intangibles expense 101 217 560 580 
+
+Restructuring expense 644 
+
+Contingent consideration adjustment (1,572) (223) (1,572) 
+
+Non-GAAP income (loss) from operations $ 7,946 $ (7,483) $ (43) $ (39,927) 
+
+GAAP operating margin (13.4) % (24.7) % (20.6) % (30.7) %
+
+Non-GAAP operating margin 5.0 % (5.7) % 0.0 % (8.5) %
+
+Reconciliation of GAAP to Non-GAAP Net Income (Loss) Three Months Ended
+
+January 31, Fiscal Year Ended
+
+January 31,
+
+2025 2024 2025 2024
+
+Net loss attributable to Braze, Inc. $ (17,192) (28,277) $ (103,743) $ (129,166) 
+
+Plus: 
+
+Stock-based compensation expense 27,843 24,216 114,261 97,177 
+
+Employer taxes related to stock-based compensation expense 449 578 3,642 2,228 
+
+1% Pledge charitable contribution expense 1,112 1,371 3,876 3,762 
+
+Acquisition related expense 1,946 
+
+Amortization of intangibles expense 101 217 560 580 
+
+Restructuring expense 644 
+
+Contingent consideration adjustment (1,572) (223) (1,572) 
+
+Non-GAAP net income (loss) attributable to Braze, Inc. (1) $ 12,313 $ (3,467) $ 18,373 $ (24,401) 
+
+Non-GAAP net income (loss) per share attributable to Braze, Inc. common stockholders, basic $ 0.12 $ (0.04) $ 0.18 $ (0.25) 
+
+Non-GAAP net income (loss) per share attributable to Braze, Inc. common stockholders, diluted $ 0.12 $ (0.04) $ 0.17 $ (0.25) 
+
+Weighted-average shares used to compute net income (loss) per share attributable to Braze, Inc. common stockholders, basic 102,918 98,561 102,189 98,096 
+
+Weighted-average shares used to compute net income (loss) per share attributable to Braze, Inc. common stockholders, diluted 106,952 98,561 106,971 98,096 
+
+(1) Assumes no non-GAAP tax expenses associated with the non-GAAP adjustment due to the Companys historical non-GAAP net loss position and available deferred tax assets sufficient to offset such non-GAAP tax expense.
+
+Reconciliation of GAAP Cash Flow from Operating Activities to Non-GAAP Free Cash Flow Three Months Ended
+
+January 31, Fiscal Year Ended
+
+January 31,
+
+2025 2024 2025 2024
+
+Net cash provided by operating activities $ 17,083 $ 3,821 $ 36,680 $ 6,850 
+
+Less: 
+
+Purchases of property and equipment (1,087) (6,322) (13,234) (9,761) 
+
+Capitalized internal-use software costs (791) (1,038) (3,814) (3,574) 
+
+Non-GAAP free cash flow $ 15,205 $ (3,539) $ 19,632 $ (6,485) 
+
+Contact Information
+
+Investors:
+
+Christopher Ferris
+
+IR@braze.com
+
+(609) 964-0585
+
+Media:
+
+Katelyn Bryant
+
+Press@braze.com
+
+Source: Braze, Inc.
+
+Braze is a registered trademark of Braze, Inc.
+
+All product and company names herein may be trademarks of their registered owners.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>exhibit992-20250327xtransa.htm
+<DESCRIPTION>EX-99.2
+<TEXT>
+Document
+
+Exhibit 99.2
+
+Braze Announces Agreement to Acquire OfferFit
+
+Braze furthers agentic AI innovation with acquisition of a leading AI decisioning company
+
+NEW YORK, March 27, 2025 Braze (Nasdaq: BRZE), the leading customer engagement platform that empowers brands to Be Absolutely Engaging, today announced that it has entered into a definitive agreement to acquire OfferFit, an AI decisioning company, for $325 million, subject to customary closing adjustments.
+
+AI decisioning agents can autonomously experiment, learn, and deliver highly relevant, personalized experiences. In September 2024, Braze shared its vision for agentic AI in customer engagement, building on its existing artificial intelligence research with the planned development of Project Catalyst. This native AI agent is designed to help brands personalize and optimize experiences with highly relevant Journeys, Content, and Incentives. 
+
+For four years, OfferFit has been building a multi-agent solution that recommends individualized cross-channel customer journeys in partnership with customer engagement solutions like Braze. Already brands have seen improved uplift by using the OfferFit AI technology, for example personalizing over a hundred characteristics within an email to promote new customer signups, or optimizing reactivation campaigns for inactive users. Once closed, Braze will be able to both more deeply integrate the existing sophisticated, multi-agent approach from OfferFit into its broader platform, and also leverage expertise from the OfferFit team alongside current Project Catalyst development to collectively drive more sophisticated experimentation and deliver 1:1 personalization for all aspects of a customer experience.
+
+Exhibit 99.2
+
+At Braze, weve been innovating to help brands take advantage of frontier technology since our founding over a decade ago. From the beginning, our real-time stream processing technology differentiated Braze's modern approach to cross-channel Customer Engagement. Combined with Canvas as an orchestration layer and infused with BrazeAI throughout our stack, Braze is now responsible for the rapid and reliable delivery of trillions of personalized messages each year," said Bill Magnuson, Cofounder and CEO of Braze. And now, with Braze's planned acquisition of OfferFit, our complementary products and teams will come together to define the next chapter of the evolution of Customer Engagement with AI. George, Victor, and I are incredibly excited about a future where reinforcement learning and modern transformer architectures are wielded within the Braze product ecosystem to drive a vision where Agentic AI automatically understands customers in greater depth, engages with them more completely, and strengthens customer relationships through heightened messaging relevance and intelligent optimization.
+
+Like Braze, OfferFit was built to apply advanced technology to the hardest problems that marketers face. Focused on the decisioning layer, OfferFit replaces the manual work of A/B testing with reinforcement learning agents that autonomously experiment and learn optimal actions, said George Khachatryan, Cofounder and CEO of OfferFit. As a long-time technology partner of Braze, we already knew their team, and the synergies of joining forces were clear. As we come together formally, the excitement runs both ways as Victor and I look to leverage Braze's product ecosystem and global scale to enhance the existing OfferFit product, while also augmenting Project Catalyst and BrazeAI overall.
+
+Under the terms of the agreement, Braze will acquire OfferFit for $325 million, in a combination of cash and Braze Class A common stock. Subject to customary closing conditions, the acquisition is expected to close in the fiscal quarter ending July 31, 2025. Goldman Sachs & Co. LLC is acting as financial advisor and Davis Polk & Wardwell LLP is acting as legal advisor to Braze. Atlas Technology Group is acting as financial advisor and Latham & Watkins LLP is acting as legal advisor to OfferFit.
+
+Additional details will be provided during the Braze Fourth Quarter Fiscal Year 2025 Financial Results Conference Call on Thursday, March 27th at 4:30 PM ET / 1:30 PM PT via Webcast available on the Braze investor relations website at investors.braze.com. Further details will also be available when the acquisition closes.
+
+About OfferFit
+
+OfferFits AI Decisioning Engine is a next-generation approach to personalization in CRM marketing. The old ways of personalization use a combination of propensity models, segments, manual A/B tests, and rules. OfferFits AI decisioning agents make 1:1 decisions on the optimal way to market to each individual customer. OfferFit works with top brands in telecom, energy, retail, travel, streaming video, and financial services, among others. Current customers include 
+
+Exhibit 99.2
+
+Brinks Home, Canadian Tire, Chime, Foxtel Group, LATAM Airlines, MetLife, Pizza Express, Trainline, Wyndham Hotels, and Yelp. OfferFit was founded by Victor Kostyuk and George Khachatryan and is headquartered in Boston with team members around the world. Learn more at offerfit.ai.
+
+About Braze
+
+Braze is the leading customer engagement platform that empowers brands to Be Absolutely Engaging. Braze allows any marketer to collect and take action on any amount of data from any source, so they can creatively engage with customers in real time, across channels from one platform. From cross-channel messaging and journey orchestration to Al-powered experimentation and optimization, Braze enables companies to build and maintain absolutely engaging relationships with their customers that foster growth and loyalty. The company has been recognized as a 2024 U.S. News & World Report Best Companies to Work For, 2024 Best Small & Medium Workplaces in Europe by Great Place to Work, 2024 Fortune Best Workplaces for Women by Great Place to Work and was named a Leader by Gartner in the 2024 Magic Quadrant for Multichannel Marketing Hubs and a Strong Performer in The Forrester Wave: Email Marketing Service Providers, Q3 2024. Braze is headquartered in New York with 15 offices across AMER, LATAM, EMEA and APAC. Learn more at braze.com.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, including but not limited to, statements regarding the expected benefits from acquisition of OfferFit by Braze, and the expected performance and capabilities of its products resulting therefrom. These forward-looking statements are based on the current assumptions, expectations and beliefs of Braze, and are subject to substantial risks, uncertainties and changes in circumstances that may cause actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. These risks include, among others, the risk that the transaction may not be completed in a timely manner or at all; any restrictions or limitations imposed by regulatory authorities; the extent to which we achieve anticipated financial targets; the impact of management and organizational changes on OfferFits business; the impact on OfferFit employees and our ability to retain key personnel; our effectiveness in integrating the OfferFit platform and operations with our business; and our ability to realize our broader strategic and operating objectives. Further information on potential factors that could affect Braze results are included in Brazes Quarterly Report on Form 10-Q for the fiscal quarter ended October 31, 2024, filed with the U.S. Securities and Exchange Commission on December 10, 2024, and the other public filings of Braze with the U.S. Securities and Exchange Commission. The forward-looking statements included in this press release represent the views of Braze only as of the date of this press 
+
+Exhibit 99.2
+
+release, and Braze assumes no obligation, and does not intend to update these forward-looking statements, except as required by law.
+
+Braze Media Contact:
+
+Katelyn Bryant
+
+press@braze.com
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>4
+<FILENAME>brz-20250326.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>brz-20250326_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Entity Address, Address Line Three 
+Entity Address, Address Line Three 
+
+Cover [Abstract] 
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Entity Address, Address Line Two 
+Entity Address, Address Line Two 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>brz-20250326_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>braze_primaryxlogoxpurplea.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>image_0.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Cover
+
+Mar. 26, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Mar. 26, 2025
+
+Entity Registrant Name Braze, Inc.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-41065
+
+Entity Tax Identification Number 45-2505271
+
+Entity Address, Address Line One 63 Madison Building
+
+Entity Address, Address Line Two 28 East 28th Street
+
+Entity Address, Address Line Three Floor 12
+
+Entity Address, City or Town New York
+
+Entity Address, State or Province NY
+
+Entity Address, Postal Zip Code 10016
+
+City Area Code 609
+
+Local Phone Number 964-0585
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Class A common stock, par value $0.0001 per share
+
+Trading Symbol BRZE
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+Amendment Flag false
+
+Entity Central Index Key 0001676238
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 3 such as an Office Park+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine3
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>11
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>15
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+1 
+24 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://www.braze.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+brz-20250326.htm 
+brz-20250326.xsd 
+brz-20250326_lab.xml 
+brz-20250326_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>17
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>18
+<FILENAME>0001676238-25-000051-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>19
+<FILENAME>brz-20250326_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001676238 
+
+2025-03-26 
+2025-03-26 
+
+false 
+0001676238 
+8-K 
+2025-03-26 
+Braze, Inc. 
+DE 
+001-41065 
+45-2505271 
+63 Madison Building 
+28 East 28th Street 
+Floor 12 
+New York 
+NY 
+10016 
+609 
+964-0585 
+false 
+false 
+false 
+false 
+Class A common stock, par value $0.0001 per share 
+BRZE 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

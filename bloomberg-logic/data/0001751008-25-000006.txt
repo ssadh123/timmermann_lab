@@ -1,0 +1,1478 @@
+<SEC-DOCUMENT>0001751008-25-000006.txt : 20250212
+<SEC-HEADER>0001751008-25-000006.hdr.sgml : 20250212
+<ACCEPTANCE-DATETIME>20250212160744
+ACCESSION NUMBER:		0001751008-25-000006
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20250212
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250212
+DATE AS OF CHANGE:		20250212
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AppLovin Corp
+		CENTRAL INDEX KEY:			0001751008
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				453264542
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40325
+		FILM NUMBER:		25614839
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1100 PAGE MILL RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304-1047
+		BUSINESS PHONE:		(800) 839-9646
+
+	MAIL ADDRESS:	
+		STREET 1:		1100 PAGE MILL RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304-1047
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Applovin Corp
+		DATE OF NAME CHANGE:	20180823
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>app-20250212.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?app-20250212
+
+FALSE000175100800017510082025-02-122025-02-12
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 12, 2025
+
+AppLovin Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-40325 45-3264542
+
+(State or other jurisdiction
+
+of incorporation) 
+
+(Commission
+
+File Number) (IRS Employer
+
+Identification No.)
+
+1100 Page Mill Road
+
+Palo Alto, California94304
+
+(Address of principal executive offices, including zip code)
+
+(800) 839-9646
+
+(Registrants telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 
+
+240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class 
+
+Trading
+
+Symbol(s) 
+
+Name of each exchange
+
+on which registered
+
+Class A common stock, par value $0.00003 per share APP The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR 240.12b-2). Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02 Results of Operations and Financial Condition
+
+On February 12, 2025, AppLovin Corporation (AppLovin or the Company) issued a press release announcing its financial results for the fourth quarter and full year ended December 31, 2024. A copy of the press release is attached as Exhibit 99.1 to this current report on Form 8-K and is incorporated by reference herein.
+
+The information in this Item 2.02 of this current report on Form 8-K and Exhibit 99.1 attached hereto shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act) or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, regardless of any general incorporation language in such filing.
+
+Item 9.01 Financial Statements and Exhibits
+
+(d) Exhibits: 
+
+Exhibit No. Exhibit Description
+
+99.1 
+
+Press Release, dated February 12, 2025.
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+APPLOVIN CORPORATION
+
+Date: February 12, 2025 /s/ Matthew A. Stumpf 
+
+Matthew A. Stumpf 
+
+Chief Financial Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit991-4q24earningspre.htm
+<DESCRIPTION>PRESS RELEASE, DATED FEBRUARY 12, 2025
+<TEXT>
+Document
+
+Exhibit 99.1
+
+AppLovin Announces Fourth Quarter and Full Year 2024 Financial Results
+
+PALO ALTO February 12, 2025 AppLovin Corporation (NASDAQ: APP) (AppLovin), a leading marketing platform, today announced financial results for the quarter and full year ended December 31, 2024 and posted a letter to its shareholders and a financial update on its Investor Relations website located at https://investors.applovin.com.
+
+Fourth Quarter and Full Year 2024 Financial Highlights:
+
+Quarter Ended 
+
+Year Ended 
+
+(In thousands, except percentages) December 31, December 31, 
+
+2024 2023 % Change 2024 2023 % Change
+
+Advertising Revenue1 $999,487 $576,489 73% $3,224,058 $1,841,762 75%
+
+Apps Revenue 373,292 376,772 (1)% 1,485,190 1,441,325 3%
+
+Total Revenue 1,372,779 953,261 44% 4,709,248 3,283,087 43%
+
+Advertising Adjusted EBITDA 776,699 420,008 85% 2,442,597 1,275,705 91%
+
+Apps Adjusted EBITDA 71,325 56,147 27% 277,008 226,953 22%
+
+Adjusted EBITDA $848,024 $476,155 78% $2,719,605 $1,502,658 81%
+
+Net Income $599,204 $172,233 248% $1,579,776 $356,711 343%
+
+Additional Financial Highlights: 
+
+Net cash from operating activities was $701 million and $2.1 billion, and Free Cash Flow was $695 million and $2.1 billion for the fourth quarter and full year 2024, respectively.
+
+During the fourth quarter and full year 2024, we retired and withheld 1.6 million and 25.7 million of our Class A common stock, for a total cost of $0.5 billion and $2.1 billion, respectively2. At the end of 4Q 2024, we had 340 million shares of our Class A and Class B common stock outstanding.
+
+First Quarter 2025 Financial Guidance Summary3
+
+(In millions, except percentages) 
+
+1Q25
+
+Low 
+
+High
+
+Advertising Revenue $1,030 $1,050
+
+Apps Revenue 325 335
+
+Total Revenue 1,355 1,385
+
+Advertising Adjusted EBITDA 805 825
+
+Apps Adjusted EBITDA 50 60
+
+Total Adjusted EBITDA $855 $885
+
+Total Adjusted EBITDA Margin 63% 64%
+
+1Our core advertising business now represents substantially all of the revenue in this segment and our future focus for the company. As a result, we have renamed our "Software Platform" segment to "Advertising" to better align with the nature of this business.
+
+2Includes repurchased shares as well as withholdings upon net share settlement of vested equity awards. Total cost includes repurchase costs, including commissions and fees, as well
+
+as cash paid in connection with tax withholding and remittance obligations upon net share settlement
+
+3 We have not provided the forward-looking GAAP equivalents for forward-looking non-GAAP metrics, specifically Adjusted EBITDA and Adjusted EBITDA margin, or a GAAP
+
+reconciliation as a result of the uncertainty regarding, and the potential variability of, reconciling items such as stock-based compensation expense. Accordingly, a reconciliation of
+
+these non-GAAP guidance metrics to their corresponding GAAP equivalents is not available without unreasonable effort. However, it is important to note that material changes to
+
+reconciling items could have a significant effect on future GAAP results. We have provided historical reconciliations of GAAP to non-GAAP metrics in tables at the end of this letter.
+
+1
+
+Webcast and Conference Calls
+
+AppLovin will host a webinar today at 2:00 PM PT / 5:00 PM ET, during which management will discuss the Companys fourth quarter and full year 2024 results and provide commentary on its business performance. A question-and-answer session will follow the prepared remarks.
+
+The webinar may be accessed on the Companys investor relations websiteor viawebinar registration. A replay of the webinar will also be available under the Events & Presentations section of our Investor Relations website.
+
+About AppLovin
+
+AppLovin makes technologies that help businesses of every size connect to their ideal customers. The company provides end-to-end software and AI solutions for businesses to reach, monetize and grow their global audiences. For more information about AppLovin, visit: www.applovin.com.
+
+Contacts
+
+Investors
+
+David Hsiao
+
+ir@applovin.com 
+
+Press
+
+Kim Hughes
+
+press@applovin.com
+
+Source: AppLovin Corp.
+
+Forward Looking Statements
+
+This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements generally relate to future events or our future financial or operating performance. In some cases, you can identify forward-looking statements because they contain words such as may, will, should, expect, plan, anticipate, going to, could, intend, target, project, contemplate, believe, estimate, predict, potential, or continue, or the negative of these words or other similar terms or expressions that concern our expectations, strategy, priorities, plans, or intentions. Forward-looking statements in this press release include our expected financial results and guidance, and growth prospects. Our expectations and beliefs regarding these matters may not materialize, and actual results in future periods are subject to risks and uncertainties, including changes in our plans or assumptions, which could cause actual results to differ materially from those projected. These risks include our inability to forecast our business effectively, the macroeconomic environment, fluctuations in our results of operations, our ability to execute on our operational and financial priorities, our ability to scale our Advertising to support new users, the competitive advertising and mobile app ecosystems, and our inability to adapt to emerging technologies and business models. The forward-looking statements contained in this letter are also subject to other risks and uncertainties, including those more fully described in our Quarterly Report on Form 10-Q for the fiscal quarter ended September 30, 2024. Additional information will also be set forth in our Annual Report on Form 10-K for the fiscal year ended December 31, 2024. The forward-looking statements in this letter are based on information available to us as of the date hereof, and we disclaim any obligation to update any forward-looking statements, except as required by law.
+
+2
+
+Non-GAAP Financial Metrics
+
+To supplement our financial information presented in accordance with generally accepted accounting principles in the United States (GAAP), this shareholder letter includes certain financial measures that are not prepared in accordance with GAAP, including Adjusted EBITDA, Adjusted EBITDA margin, and Free Cash Flow. A reconciliation of each such non-GAAP financial measure to the most directly comparable GAAP measure can be found below.
+
+We define Adjusted EBITDA for a particular period as net income (loss) before interest expense and loss on settlement of debt, other income, net (excluding certain recurring items), provision for (benefit from) income taxes, amortization, depreciation and write-offs and as further adjusted for non-operating foreign exchange (gains) losses, stock-based compensation expense, acquisition-related expense, restructuring costs, loss on disposal of long-lived assets, as well as certain other items that we believe are not reflective of our core operating performance. We define Adjusted EBITDA margin as Adjusted EBITDA divided by revenue for the same period. 
+
+We define Free Cash Flow as net cash provided by operating activities less purchases of property and equipment and principal payments on finance leases. We subtract both purchases of property and equipment and payment of finance leases in our calculation of Free Cash Flow because we believe these items represent our ongoing requirements for property and equipment to support our business, regardless of whether we utilize a finance lease to obtain such property or equipment.
+
+We believe that the presentation of these non-GAAP financial measures provides useful information to investors regarding our results of operations and operating performance, as they are similar to measures reported by our public competitors and are regularly used by securities analysts, institutional investors, and other interested parties in analyzing operating performance and prospects. 
+
+Adjusted EBITDA and Adjusted EBITDA margin are key measures we use to assess our financial performance and are also used for internal planning and forecasting purposes. We believe Adjusted EBITDA and Adjusted EBITDA margin are helpful to investors, analysts, and other interested parties because they can assist in providing a more consistent and comparable overview of our operations across our historical financial periods. We use Adjusted EBITDA and Adjusted EBITDA margin in conjunction with GAAP measures as part of our overall assessment of our performance, including the preparation of our annual operating budget and quarterly forecasts, to evaluate the effectiveness of our business strategies, and to communicate with our board of directors concerning our financial performance. We use Free Cash Flow in addition to GAAP measures to help manage our business and prepare budgets and annual planning, and we believe Free Cash Flow provides useful supplemental information to help investors understand underlying trends in our business and our liquidity.
+
+These measures have certain limitations in that they do not include the impact of certain expenses that are reflected in our consolidated statement of operations that are necessary to run our business. Our definitions may differ from the definitions used by other companies and therefore comparability may be limited. In addition, other companies may not publish these or similar metrics. Thus, our non-GAAP financial measures should be considered in addition to, not as substitutes for, or in isolation from, measures prepared in accordance with GAAP.
+
+3
+
+AppLovin Corporation 
+
+Consolidated Balance Sheets
+
+(In thousands, except share and per share data)
+
+(unaudited)
+
+December 31,
+
+2024 December 31,
+
+2023
+
+Assets 
+
+Current assets: 
+
+Cash and cash equivalents $ 741,411 $ 502,152 
+
+Accounts receivable, net 1,414,246 953,810 
+
+Prepaid expenses and other current assets 156,533 160,201 
+
+Total current assets 2,312,190 1,616,163 
+
+Property and equipment, net 160,530 173,331 
+
+Operating lease right-of-use assets 38,069 48,210 
+
+Goodwill 1,803,426 1,842,850 
+
+Intangible assets, net 896,677 1,292,635 
+
+Other assets 658,367 385,998 
+
+Total assets $ 5,869,259 $ 5,359,187 
+
+Liabilities and Stockholders Equity 
+
+Current liabilities: 
+
+Accounts payable $ 563,427 $ 371,702 
+
+Accrued and other current liabilities 409,392 265,256 
+
+Short-term debt 215,000 
+
+Deferred revenue 69,839 78,559 
+
+Operating lease liabilities, current 14,814 13,605 
+
+Total current liabilities 1,057,472 944,122 
+
+Long-term debt 3,508,983 2,905,906 
+
+Operating lease liabilities, non-current 32,608 42,905 
+
+Other non-current liabilities 180,378 209,925 
+
+Total liabilities 4,779,441 4,102,858 
+
+Stockholders equity: 
+
+Preferred stock, $0.00003 par value100,000,000 shares authorized, no shares issued and outstanding as of December 31, 2024 and 2023 
+
+Class A, Class B, and Class C Common stock, $0.00003 par value1,850,000,000 (Class A 1,500,000,000, Class B 200,000,000, Class C 150,000,000) shares authorized, 340,041,739 (Class A 309,353,198, Class B 30,688,541, Class C nil) and 339,886,712 (Class A 268,774,090, Class B 71,112,622, Class C nil) shares issued and outstanding as of December 31, 2024 and 2023, respectively 11 11 
+
+Additional paid-in capital 593,699 2,134,581 
+
+Accumulated other comprehensive loss (103,096) (65,274) 
+
+Retained earnings (Accumulated deficit) 599,204 (812,989) 
+
+Total stockholders equity 1,089,818 1,256,329 
+
+Total liabilities and stockholders equity $ 5,869,259 $ 5,359,187 
+
+4
+
+AppLovin Corporation
+
+Consolidated Statements of Operations
+
+(in thousands, except per share data) 
+
+(unaudited)
+
+Quarter Ended December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+Revenue $ 1,372,779 $ 953,261 $ 4,709,248 $ 3,283,087 
+
+Costs and expenses: 
+
+Cost of revenue 320,452 273,607 1,166,806 1,059,191 
+
+Sales and marketing 214,662 222,963 849,209 830,718 
+
+Research and development 169,480 150,823 638,689 592,386 
+
+General and administrative 60,205 36,354 181,085 152,585 
+
+Total costs and expenses 764,799 683,747 2,835,789 2,634,880 
+
+Income from operations 607,980 269,514 1,873,459 648,207 
+
+Other income (expense): 
+
+Interest expense and loss on settlement of debt (94,199) (71,584) (318,260) (275,665) 
+
+Other income (expense), net 1,343 (19,034) 20,806 8,028 
+
+Total other expense, net (92,856) (90,618) (297,454) (267,637) 
+
+Income before income taxes 515,124 178,896 1,576,005 380,570 
+
+Provision for (benefit from) income taxes (84,080) 6,663 (3,771) 23,859 
+
+Net income 599,204 172,233 1,579,776 356,711 
+
+Net income attributable to AppLovin $ 599,204 $ 172,233 $ 1,579,776 $ 356,711 
+
+Less: Net income attributable to participating securities 150 714 2,717 1,769 
+
+Net income attributable to common stockBasic $ 599,054 $ 171,519 $ 1,577,059 $ 354,942 
+
+Net income attributable to common stockDiluted $ 599,057 $ 171,540 $ 1,577,144 $ 354,993 
+
+Net income per share attributable to Class A and Class B common stockholders: 
+
+Basic $ 1.77 $ 0.51 $ 4.68 $ 1.01 
+
+Diluted $ 1.73 $ 0.49 $ 4.53 $ 0.98 
+
+Weighted average common shares used to compute net income per share attributable to Class A and Class B common stockholders: 
+
+Basic 339,168,374 337,136,956 336,921,483 351,952,187 
+
+Diluted 346,423,848 347,492,545 347,807,555 362,589,246 
+
+5
+
+AppLovin Corporation
+
+Consolidated Statements of Cash Flows 
+
+(in thousands)
+
+(unaudited)
+
+Year Ended December 31,
+
+2024 2023
+
+Operating Activities 
+
+Net income $ 1,579,776 $ 356,711 
+
+Adjustments to reconcile net income to operating activities: 
+
+Amortization, depreciation and write-offs 448,680 489,008 
+
+Stock-based compensation, excluding cash-settled awards 369,367 363,107 
+
+Impairment of investments 27,953 
+
+Loss on settlement of debt 28,375 4,337 
+
+Change in operating right-of-use assets 12,689 17,842 
+
+Amortization of debt issuance costs and discount 5,460 9,363 
+
+Loss on disposal of long-lived assets 1,646 
+
+Other 2,557 1,863 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable (467,028) (261,279) 
+
+Prepaid expenses and other current assets 4,056 (12,280) 
+
+Other assets (189,387) (121,688) 
+
+Accounts payable 189,585 98,574 
+
+Operating lease liabilities (14,106) (18,612) 
+
+Accrued and other liabilities 133,974 92,754 
+
+Deferred revenue (6,633) 13,857 
+
+Net cash provided by operating activities 2,099,011 1,061,510 
+
+Investing Activities 
+
+Purchase of non-marketable equity securities (76,983) (17,934) 
+
+Acquisitions of businesses and intangible assets (25,553) (63,899) 
+
+Purchase of property and equipment (4,776) (4,246) 
+
+Proceeds from sale of assets and other 558 8,250 
+
+Net cash used in investing activities (106,754) (77,829) 
+
+Financing Activities 
+
+Principal repayments of debt (4,225,223) (497,994) 
+
+Payments of withholding taxes related to net share settlement (1,143,525) (246,435) 
+
+Repurchases of common stock (981,297) (1,153,593) 
+
+Payments of deferred acquisition costs (33,903) 
+
+Payments of licensed asset obligation (27,110) 
+
+Payments of debt issuance cost (35,563) (4,655) 
+
+Principal payments of finance leases (20,875) (20,170) 
+
+Proceeds from issuance of debt 4,614,841 395,281 
+
+Proceeds from issuance of common stock upon exercise of stock options and purchase of ESPP shares 41,798 25,788 
+
+Net cash used in financing activities (1,749,844) (1,562,791) 
+
+Effect of foreign exchange rate on cash and cash equivalents (3,154) 778 
+
+Net (decrease) increase in cash and cash equivalents 239,259 (578,332) 
+
+Cash and cash equivalents at beginning of the period 502,152 1,080,484 
+
+Cash and cash equivalents at end of the period $ 741,411 $ 502,152 
+
+6
+
+AppLovin Corporation
+
+Reconciliation of Net Cash Provided By Operating Activities to Free Cash Flow
+
+(in thousands)
+
+The following table provides a reconciliation of net cash provided by operating activities to Free Cash Flow for the periods presented:
+
+Quarter Ended 
+
+Year Ended December 31,
+
+4Q24 4Q23 2024 2023
+
+Net cash provided by operating activities 701,003 343,988 2,099,011 1,061,510 
+
+Less: 
+
+Purchase of property and equipment (490) (244) (4,776) (4,246) 
+
+Principal payments on finance leases (5,351) (3,979) (20,875) (20,170) 
+
+Free Cash Flow $ 695,162 $ 339,765 $ 2,073,360 $ 1,037,094 
+
+Net cash used in investing activities $ (367) $ (6,804) $ (106,754) $ (77,829) 
+
+Net cash used in financing activities $ (523,157) $ (170,524) $ (1,749,844) $ (1,562,791) 
+
+7
+
+AppLovin Corporation
+
+Reconciliation of Net Income to Adjusted EBITDA
+
+(in thousands, except percentages)
+
+The following table provides our Adjusted EBITDA and Adjusted EBITDA Margin and a reconciliation of Net Income to Adjusted EBITDA for the periods presented:
+
+Quarter Ended 
+
+Year Ended December 31,
+
+4Q24 4Q23 2024 2023
+
+Revenue $ 1,372,779 $ 953,261 $ 4,709,248 $ 3,283,087 
+
+Net income $ 599,204 $ 172,233 $ 1,579,776 $ 356,711 
+
+Net Margin 44% 18% 34% 11%
+
+Interest expense and loss on settlement of debt 94,199 71,584 318,260 275,665 
+
+Other income (expense), net (8,302) 18,528 (25,440) (7,831) 
+
+Provision for (benefit from) income taxes (84,080) 6,663 (3,771) 23,859 
+
+Amortization, depreciation and write-offs 127,837 119,111 448,680 489,008 
+
+Loss on disposal of long-lived assets 1,646 
+
+Non-operating foreign exchange loss (gain) 1,450 (65) 291 (1,224) 
+
+Stock-based compensation 100,921 88,049 376,455 363,107 
+
+Acquisition-related expense 5 52 885 1,047 
+
+Restructuring costs 16,790 22,823 2,316 
+
+Total adjustments 248,820 303,922 1,139,829 1,145,947 
+
+Adjusted EBITDA $ 848,024 $ 476,155 $ 2,719,605 $ 1,502,658 
+
+Adjusted EBITDA Margin 62 % 50 % 58 % 46 %
+
+8
+
+AppLovin Corporation
+
+Reconciliation of Segment Adjusted EBITDA to Income Before Taxes
+
+(in thousands, except percentages)
+
+The following table provides selected financial data for our reportable segments for the periods indicated:
+
+Quarter Ended Year Ended December 31,
+
+4Q24 4Q23 2024 2023
+
+Revenue: 
+
+Advertising $ 999,487 $ 576,489 $ 3,224,058 $ 1,841,762 
+
+Apps 373,292 376,772 1,485,190 1,441,325 
+
+Total Revenue $ 1,372,779 $ 953,261 $ 4,709,248 $ 3,283,087 
+
+Segment Adjusted EBITDA: 
+
+Advertising $ 776,699 $ 420,008 $ 2,442,597 $ 1,275,705 
+
+Apps 71,325 56,147 277,008 226,953 
+
+Total Segment Adjusted EBITDA $ 848,024 $ 476,155 $ 2,719,605 $ 1,502,658 
+
+Interest expense and loss on settlement of debt (94,199) (71,584) (318,260) (275,665) 
+
+Other income (expense), net 8,302 (18,528) 25,440 7,831 
+
+Amortization, depreciation and write-offs (127,837) (119,111) (448,680) (489,008) 
+
+Loss on disposal of long-lived assets (1,646) 
+
+Non-operating foreign exchange gain (loss) (1,450) 65 (291) 1,224 
+
+Stock-based compensation (100,921) (88,049) (376,455) (363,107) 
+
+Acquisition-related expense (5) (52) (885) (1,047) 
+
+Restructuring costs (16,790) (22,823) (2,316) 
+
+Income before income taxes $ 515,124 $ 178,896 $ 1,576,005 $ 380,570 
+
+Segment Adjusted EBITDA Margin: 
+
+Advertising 78 % 73 % 76 % 69 %
+
+Apps 19 % 15 % 19 % 16 %
+
+9
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>app-20250212.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover page 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>app-20250212_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Security Exchange Name 
+Security Exchange Name 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Document Period End Date 
+Document Period End Date 
+
+Cover [Abstract] 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Soliciting Material 
+Soliciting Material 
+
+City Area Code 
+City Area Code 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Document Type 
+Document Type 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Registrant Name 
+Entity Registrant Name
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>app-20250212_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover page
+
+Feb. 12, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 12, 2025
+
+Entity Registrant Name AppLovin Corporation
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-40325
+
+Entity Tax Identification Number 45-3264542
+
+Entity Address, Address Line One 1100 Page Mill Road
+
+Entity Address, City or Town Palo Alto
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 94304
+
+City Area Code 800
+
+Local Phone Number 839-9646
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Class A common stock, par value $0.00003 per share
+
+Trading Symbol APP
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+Amendment Flag false
+
+Entity Central Index Key 0001751008
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover page 
+Sheet 
+http://www.applovin.com/role/Coverpage 
+Cover page 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+app-20250212.htm 
+app-20250212.xsd 
+app-20250212_lab.xml 
+app-20250212_pre.xml 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>14
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>15
+<FILENAME>0001751008-25-000006-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>app-20250212_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001751008 
+
+2025-02-12 
+2025-02-12 
+
+false 
+0001751008 
+8-K 
+2025-02-12 
+AppLovin Corporation 
+DE 
+001-40325 
+45-3264542 
+1100 Page Mill Road 
+Palo Alto 
+CA 
+94304 
+800 
+839-9646 
+false 
+false 
+false 
+false 
+Class A common stock, par value $0.00003 per share 
+APP 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

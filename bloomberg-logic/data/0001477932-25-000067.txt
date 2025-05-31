@@ -1,0 +1,1360 @@
+<SEC-DOCUMENT>0001477932-25-000067.txt : 20250106
+<SEC-HEADER>0001477932-25-000067.hdr.sgml : 20250106
+<ACCEPTANCE-DATETIME>20250106160220
+ACCESSION NUMBER:		0001477932-25-000067
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		17
+CONFORMED PERIOD OF REPORT:	20241121
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Material Impairments
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250106
+DATE AS OF CHANGE:		20250106
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Everything Blockchain, Inc.
+		CENTRAL INDEX KEY:			0001730869
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				821091922
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56142
+		FILM NUMBER:		25510992
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3027 US HIGHWAY 17
+		CITY:			FLEMING ISLAND
+		STATE:			FL
+		ZIP:			32003
+		BUSINESS PHONE:		321-802-2474
+
+	MAIL ADDRESS:	
+		STREET 1:		3027 US HIGHWAY 17
+		CITY:			FLEMING ISLAND
+		STATE:			FL
+		ZIP:			32003
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	OBITX, Inc.
+		DATE OF NAME CHANGE:	20180208
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ebi_8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?ebi_8k.htm
+
+0001730869falsefalse00017308692024-11-212024-11-21iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) off The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 21, 2024
+
+Commission File Number: 000-56142
+
+Everything Blockchain, Inc.
+
+(Exact name of registrant as specified in charter)
+
+Florida 
+
+82-1091922
+
+(State or other jurisdiction of incorporation) 
+
+(IRS Employer Identification No.)
+
+12574 Flagler Center Blvd, Suite 101
+
+Jacksonville, FL 
+
+32258
+
+(Address of principal executive offices) 
+
+(Zip Code)
+
+(904) 454-2111
+
+Registrants telephone number, including area code 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a -12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d -2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e -4(c))
+
+Signature Page to Asset Purchase Agreement 
+
+As used in this report, the terms Company, our company, us, Everything Blockchain, we and our refer to Everything Blockchain, Inc. unless the context requires otherwise.
+
+Item 1.01. Entry into a Material Definitive Agreement
+
+On November 22, 2024, Everything Blockchain Inc (the Company) entered into an agreement with DataRock Technologies, Inc., (DataRock), a Texas Corporation. The principle of DataRock is Craig T. Stevens, a former member of the Companys Board of Directors. In addition, Mr. Stevens was the holder of a senior secured promissory note with the Company, where the Company had defaulted in owing $1,302,956. Under the agreement, DataRock acquired certain company assets for $3,300,000. Payment of $3,300,000 included 1) the outstanding balance of the senior secured promissory note, 2) the assumption of $1,148,802 of the Companys vendor debt, 3) prepaid royalties of $250,000, 4) the assumption of $654,935 in accrued payroll, benefits, and bonuses, and 5) $193,306.93 to be paid via a 2.5% royalty fee from sales generated from the assets sold. 
+
+The Company transferred to DataRock its EBControl and BuildDB software solutions under the agreement.
+
+Item 2.06. Material Impairments
+
+Based upon this agreement, the Company will impair its Goodwill and intangible assets associated with EBControl and BuildDB, which the Company expects to be approximately $20 million. The Company is currently working with its auditors to address this impairment which will be reflected on the financials in the next Form 10Q.
+
+Item 9.01 Financial Statements and Exhibits. 
+
+d) The following exhibit is being filed herewith:
+
+Exhibit No. 
+
+Exhibit Description
+
+1.1 
+
+Asset Purchase Agreement
+
+104 
+
+Cover Page Interactive Data File (formatted as Inline XBRL)
+
+2
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+EVERYTHING BLOCKCHAIN, INC. 
+
+Date: January 6, 2025 
+
+By: 
+
+/s/ Arthur Rozenberg 
+
+Arthur Rozenberg 
+
+Chief Executive Officer 
+
+3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.1
+<SEQUENCE>2
+<FILENAME>ebi_ex11.htm
+<DESCRIPTION>ASSET PURCHASE AGREEMENT
+<TEXT>
+ebi_ex11.htm
+
+EXHIBIT 1.1
+
+ASSET PURCHASE AGREEMENT
+
+THIS ASSET PURCHASE AGREEMENT (Agreement) is dated as of November 21, 2024, by and among Everything Blockchain, Inc., a Florida corporation (Seller), and DataRock Technologies, Inc., a Texas corporation (Buyer).1
+
+PURCHASE AND SALE
+
+Description of Assets to Be Acquired. Upon the terms and subject to the conditions set forth in this Agreement, at the Closing, Seller agrees to irrevocably convey, sell, transfer, assign and deliver to Buyer, and Buyer shall purchase from Seller, all right, title and interest that Seller owns in and to the following enumerated assets (collectively, the Assets):
+
+Intellectual Property. All of Sellers worldwide right, title, and interest in and to Sellers Cntrol Zero Trust Data Encryption Solution (formerly EB Control), DataStoneDB Database Management System (formerly BuildDB) (collectively, the Technology), including:
+
+i. 
+
+all patent rights, including U.S. and foreign patents, relating to the Technology, the patents and patent applications set forth on Schedule 1 hereto, and all issuances, divisions, continuations, continuations-in-part, reissues, extensions, reexaminations, and renewals thereof (the Patents);
+
+ii. 
+
+all registered and unregistered trademarks, service marks, trade names, product names, service names, logos, and any abbreviations or variations thereof, relating to the Technology, the trademark registrations and applications set forth on Schedule 1 hereto, and all issuances, extensions, and renewals thereof (the Trademarks), together with the goodwill of the business connected with the use of, and symbolized by, the Trademarks[; provided that, with respect to the United States intent-to-use trademark applications set forth on Schedule 1 hereto, the transfer of such applications accompanies, pursuant to the Asset Purchase Agreement, the transfer of Sellers business, or that portion of the business to which the trademark pertains, and that business is ongoing and existing];
+
+iii. 
+
+all original works of authorship relating to the Technology, the copyright registrations set forth on Schedule 1 hereto and all issuances, extensions, and renewals thereof (the Copyrights);
+
+iv. 
+
+the object code, source code, documentation, and programmer notes for the Technology;
+
+v. 
+
+all usernames, passwords, and two-factor authentication details for any accounts or services used in the development, hosting, maintenance, and deployment of the Technology, including, but not limited to, hosting services (e.g., AWS, Azure), version services controls (e.g., GitHub and Bitbucket), build and deployment pipelines (e.g., Jenkins and GitLab CI), any third-party application programming interfaces or service integrations, and any internal development or testing environments;
+
+_____________________________ 
+
+1Note to Draft: This draft assumes this is a simultaneous sign/close transaction. Seller will need to obtain appropriate board and shareholder resolutions for signing. 
+
+1
+
+vi. 
+
+the website located at www.datastone.ai, including all programming, code, graphics and content;
+
+vii. 
+
+any other proprietary rights or intellectual property rights relating to any of the foregoing;
+
+viii. 
+
+all rights of any kind whatsoever of Seller accruing under any of the foregoing provided by applicable law of any jurisdiction, by international treaties and conventions, and otherwise throughout the world;
+
+ix. 
+
+any and all royalties, fees, income, payments, and other proceeds now or hereafter due or payable with respect to any and all of the foregoing; and
+
+x. 
+
+any and all claims and causes of action with respect to any of the foregoing, whether accruing before, on, or after the date hereof, including all rights to and claims for damages, restitution, and injunctive and other legal and equitable relief for past, present, and future infringement, dilution, misappropriation, violation, misuse, breach, or default, with the right but no obligation to sue for such legal and equitable relief and to collect, or otherwise recover, any such damages (all of the foregoing in this Section 1.1(a), collectively, the Intellectual Property).
+
+Receivable. Sellers receivable from Mercury, Inc. relating to an employee redemption credit refund in the amount of $158,961.89, which is expected to net the Seller $135,117.61 after processing fees (the Receivable);
+
+Contracts Related to Technology. Sellers contracts related to Technology as set forth on Schedule 2.
+
+Other Assets. All of Sellers rights under warranties, indemnities, and all similar rights against third parties to the extent arising under or related to any Assets.
+
+Excluded Assets. Notwithstanding the provisions of Section 1.1, Seller is not selling, and Buyer is not purchasing, any assets other than those listed or described in Section 1.1, and without limiting the generality of the foregoing, the Assets shall expressly exclude the following, all of which will be retained by Seller (collectively, the Excluded Assets):
+
+all of Sellers cash, cash equivalents and bank accounts other than the Receivable;
+
+Sellers corporate books and records of internal corporate proceedings, tax records, work papers and books and records that Seller is required by law to retain;
+
+2
+
+all accounting records (including records relating to taxes) and internal reports relating to the business activities of Seller that are not Assets;
+
+(a) 
+
+any of Sellers insurance policies and rights, claims or causes of action thereunder;
+
+all attorneyclient privileged communications, work product or other similar materials of Seller and its subsidiaries;
+
+Sellers rights under this Agreement and all other agreements executed and delivered in connection herewith; and
+
+all claims, actions, causes of action, choses in action, rights of recovery and rights of set-off of any kind relating to the Excluded Assets or the Excluded Liabilities, whether choate or inchoate, known or unknown, asserted or not asserted, or contingent or noncontingent and whether or not liquidated.
+
+Assumption of Certain Obligations. Buyer shall, pursuant to this Agreement, assume the sole responsibility and agree to pay, perform and discharge when due the following (collectively, the Assumed Liabilities):
+
+all obligations and liabilities accruing, arising out of or relating to the ownership or use of the Assets from and after the Closing, but solely to the extent that such liabilities and obligations do not arise from any event, circumstance, or condition occurring or existing before the Closing; and
+
+Taxes relating to the operation of the Assets with respect to or attributable to a tax period (or portion thereof) beginning after the Closing Date.
+
+Excluded Liabilities
+
+Buyer shall have no responsibility, liability or obligation arising out of this Agreement for any liabilities of Seller, matured, unmatured, liquidated or unliquidated, fixed or contingent, or known or unknown other than the Assumed Liabilities (collectively, Excluded Liabilities).
+
+Instruments of Transfer
+
+The sale, assignment, transfer, conveyance and delivery of the Assets shall be made by such bills of sale, intellectual property assignments and other recordable instruments of assignment, transfer and conveyance as Buyer shall reasonably request. Seller shall reasonably assist Buyer, at Sellers cost and expense, to evidence, record and perfect any required assignments and to perfect, obtain, maintain, enforce, and defend the rights assigned. Seller will also reasonably cooperate with Buyer to transfer ownership and control of the Domain Names with the applicable domain name registrar.
+
+Consideration
+
+Upon the terms and subject to the conditions contained in this Agreement, in consideration for the Assets and in full payment therefore, Buyer will pay Seller $3,300,000 (the Purchase Price). The Purchase Price will be paid by (i) having Seller forgive that certain senior secured convertible promissory note dated September 7, 2023, between Epic Industry Corp. (Epic) and Seller (the Note), which was previously acquired by Buyer from Epic; the current outstanding balance on the Note is $1,302,956.07, (ii) Buyer assuming $1,148,802 of Sellers vendor debt, which includes a prepaid royalty of $250,000 paid by Alamo City Engineering Services Inc. to Seller as part of an OEM License Agreement, and Buyer assuming $654,935 of accrued payroll, benefits and bonuses (collectively, the Assumed Indebtedness as set forth on Schedule 3), and (iii) the remaining amount, of $193,306.93 will come from a royalty of 2.5% (the Royalties) of Net Invoice Amounts on any of Buyers sales relating to the Technology.
+
+3
+
+Calculation of Royalties. The Royalties owed Seller shall be calculated on a monthly basis (the Royalty Period) and shall be payable no later than fifteen (15) days after the last day of the Royalty Period covered by such payment, except that the first Royalty Period may be short depending on the Closing Date.
+
+Royalty Statement. For each Royalty Period, Buyer shall provide Seller, contemporaneously with the applicable Royalty payment, with a written Royalty statement in a Microsoft Excel document (the Royalty Statement). Such Royalty Statement shall be certified as accurate by a duly authorized officer of Buyer reciting, on a country-by-country basis, the stock number, item, units sold, description, quantity shipped, gross invoice amount, and amount billed customers less discounts, allowances and returns for each Buyers product relating to the Technology. Such Royalty Statements shall be furnished to Seller regardless of whether any Buyer products were sold during the Royalty Period or whether any actual Royalty was owed.
+
+Definition of Net Invoice Amounts. Net Invoice Amounts shall mean amounts billed or billable by Buyer for gross sales (the gross invoice amount billed or billable to customers) for Buyers products relating to the Technology, less taxes (such as sales, use, and value-added tax), shipping charges, quantity trade discounts actually shown on the invoice and, further, less any bona fide returns as supported by credit memoranda actually issued to end users.
+
+REPRESENTATIONS AND WARRANTIES
+
+Representations of Buyer. Buyer hereby represents to Seller that the following representations are true and complete as of the Closing Date:
+
+Organization; Authorization. Buyer is a corporation duly organized, validly existing and in good standing under the laws of Delaware. Buyer has full corporate power and authority to enter into this Agreement, to perform its obligations hereunder and to consummate the transactions contemplated hereby. Buyer has taken all necessary and appropriate corporate action with respect to the execution and delivery of this Agreement and this Agreement constitutes its valid and binding obligation enforceable in accordance with its terms except as limited by applicable bankruptcy, insolvency, moratorium, reorganization or other laws affecting creditors rights and remedies generally.
+
+Compliance with Other Instruments. Its execution and delivery of this Agreement, the consummation of the transactions contemplated hereby and the compliance with the terms hereof and thereof by it do not, or as of the Closing will not, conflict with or result in a breach of any terms of, or constitute a default under, its Certificate of Incorporation or Bylaws, or any material agreement, obligation or instrument to which it is a party or by which it is bound.
+
+Brokers. No broker, finder or investment banker is entitled to any brokerage, finders or other fee or commission in connection with the transactions contemplated by this Agreement based upon arrangements or agreements made by or on behalf of Buyer (or its officers, directors, managers, employees or agents).
+
+4
+
+No Other Representations or Warranties. Seller acknowledges and agrees that, except as set forth in this Agreement or any other agreement contemplated hereby, neither Buyer nor any of its managers, directors, officers, affiliates or representatives makes any representation or warranty of any kind, either express or implied, with respect to Buyer, the transactions contemplated hereby or the subject matter of this Agreement.
+
+Representations of Seller. Seller hereby represents and warrants to Buyer that the following representations are true and complete as of the date of this Agreement and will be true and complete as of the Closing Date:
+
+Organization; Authorization. Seller is duly incorporated, validly existing and in good standing under the laws of the State of Florida and has the requisite power and authority to own, lease and operate its properties and assets and to carry on its business as now being conducted. Seller has full corporate power and authority to enter into this Agreement, to perform its obligations hereunder and to consummate the transactions contemplated hereby. Seller has taken all necessary and appropriate corporate action with respect to the execution and delivery of this Agreement and this Agreement constitutes its valid and binding obligation enforceable in accordance with its terms except as limited by applicable bankruptcy, insolvency, moratorium, reorganization or other laws affecting creditors rights and remedies generally.
+
+Brokers. No broker, finder or investment banker is entitled to any brokerage, finders or other fee or commission in connection with the transactions contemplated by this Agreement based upon arrangements or agreements made by or on behalf of Seller (or its officers, directors, managers, employees or agents).
+
+Valid Title. Seller has, and Seller will transfer or cause to be transferred to Buyer in accordance with this Agreement, good, valid and marketable title to the Assets, and upon the consummation of the transactions contemplated hereby, Buyer will acquire good and marketable title to all of the Assets, free and clear of any charge, claim, pledge, equitable interest, lien, security interest, restriction of any kind, or other encumbrance (collectively, Encumbrances) except for (i) statutory liens for current taxes not yet due or delinquent (or which may be paid without interest or penalties) or the validity or amount of which is being contested in good faith by appropriate proceedings and (ii) mechanics, carriers, workers, repairers and other similar liens arising or incurred in the ordinary course of business relating to obligations as to which there is no default on the part of Seller for a period greater than 60 days, or the validity or amount of which is being contested in good faith by appropriate proceedings, or pledges, deposits or other liens securing the performance of bids, trade contracts, leases or statutory obligations (including workers compensation, unemployment insurance or other social security legislation) (collectively, Permitted Encumbrances). No affiliate of Seller has any right, title or interest in, to or under the Assets.
+
+Indebtedness; Undisclosed Liabilities. Except for the Assumed Indebtedness, there are no debts, liabilities or obligations which any of the Assets are subject, liquidated, unliquidated, accrued, absolute, contingent or otherwise.
+
+Taxes. All taxes, including without limitation, income, property, sales, use, franchise, added value, withholding, and social security taxes, imposed by the United States, any state, municipality, other local government or other subdivision or instrumentality of the United States, or any foreign country or any state or other government thereof, or any other taxing authority, that are due or payable by Seller with respect to the Assets, and all interest and penalties thereon and that would result in the imposition of an Encumbrance (other than Permitted Encumbrances) on any of the Assets or against Buyer, other than taxes that are not yet due and payable, have been paid in full, all tax returns required to be filed in connection therewith have been accurately prepared and duly and timely filed and all deposits required by law to be made by Seller with respect to employees withholding taxes have been duly made. Seller acknowledges that it has relied on its own tax advisors for the advice regarding the tax consequences of the transactions contemplated by this Agreement and has not received tax advice with respect thereto from Buyer or any of its officers, employees, or agents. Seller is not a party to or bound by any tax sharing agreements or similar arrangements (including indemnity arrangements) that will be binding on Buyer after the Closing. None of the transactions contemplated hereby are subject to withholding under Section 1445 of the Code or otherwise. Seller has not entered into or participated in any reportable transaction within the meaning of Treasury Regulation Section 1.60114(b).
+
+5
+
+Compliance With Law. Seller is in compliance with all applicable federal, state and local laws, statutes, licensing requirements, rules and regulations, and judicial or administrative decisions applicable to the Assets, except as would not reasonably be expected to be material to Seller. There is no order issued, or to the best of Sellers knowledge, investigation or proceeding pending or threatened, or written notice served with respect to any violation of any law, ordinance, order, writ, decree, rule or regulation issued by any federal, state, local or foreign court or governmental agency or instrumentality applicable to the Assets.
+
+Intellectual Property. Seller is the sole and exclusive owner of the Intellectual Property and no governmental registration of any of the Intellectual Property listed on Schedule 1 has lapsed, expired or been cancelled, abandoned, opposed or been the subject of a reexamination request. Schedule 1 contains a true and complete list of all of Sellers registrations and pending registration applications relating to the Technology. The execution and delivery of this Agreement will convey to and vest in Buyer good and marketable title to Sellers rights in the Intellectual Property free and clear of Encumbrances (other than Permitted Encumbrances) or otherwise provide Buyer with rights to use and exploit the Intellectual Property to the same extent enjoyed by Seller as of immediately prior to Closing. Seller has taken reasonable measures to protect the Intellectual Property from use by any other person or entity.
+
+There have been no claims or litigation challenging the ownership, scope, validity or enforceability of any of the Intellectual Property;
+
+There are no instances where it has been held, claimed or alleged, whether directly or indirectly, that any Intellectual Property or its use by Seller infringes or may infringe upon or is in violation of any of the intellectual property rights of a third party; and
+
+There are no instances where it has been held, claimed or alleged, whether directly or indirectly, that any activity of a third party infringes or may infringe upon or is in violation of any of the Intellectual Property.
+
+Litigation. There is no claim, litigation, action, suit or proceeding, administrative or judicial, pending or, to the best of Sellers knowledge, threatened against Seller involving any of the Assets, at law or in equity, before any federal, state, local or foreign court or regulatory agency, or other governmental or arbitral authority, including, without limitation, any unfair labor practice or grievance proceedings or otherwise, which could have a material adverse effect on (i) the consummation of the transactionscontemplated by this Agreement or (ii) any of the Assets. To the best of Sellers knowledge, there is no basis upon which such claim, litigation, action, suit or proceeding could be brought or initiated.
+
+6
+
+No Conflict or Default. Neither the execution and delivery of this Agreement, nor compliance with the terms and provisions hereof, including without limitation, the consummation of the transactions contemplated hereby, will violate any statute, regulation or ordinance of any governmental authority, or conflict with or result in the breach of any agreement, deed, contract, mortgage, indenture, writ, order, decree, legal obligation or instrument related to the Assets to which Seller is a party or by which it or any of the Assets are or may be bound, or constitute a default (or an event which, with the lapse of time or the giving of notice, or both, would constitute a default) thereunder, or result in the creation or imposition of any Encumbrance, or restriction of any nature whatsoever with respect to any of the Assets, or give to others any interest or rights, including rights of termination, acceleration or cancellation in or with respect to any of the Assets. Seller warrants and indemnifies Buyer against any breach of this clause.
+
+Third Party Consents. No consent, approval, or authorization of any third party on the part of Seller is required in connection with the transfer to Buyer of the rights of Seller under any of the Contracts or in connection with the consummation of the transactions contemplated hereunder, other than those consents, approvals and authorization of any third party, that if not obtained, would not reasonably be expected to be material to Buyer. Seller warrants and indemnifies Buyer against any breach of this clause.
+
+No Other Representations or Warranties. Buyer acknowledges and agrees that, except as set forth in this Agreement or any other agreement contemplated hereby, neither Seller nor any of its managers, directors, officers, affiliates or representatives makes any representation or warranty of any kind, either express or implied, with respect to Seller, the transactions contemplated hereby or the subject matter of this Agreement. Seller indemnifies Buyer against any breach of the representations and warranties set forth in this Agreement.
+
+ADDITIONAL AGREEMENTS
+
+Consents
+
+Seller shall use all necessary efforts to apply for or otherwise seek and obtain all consents and approvals required to be obtained by it for the consummation of the transactions contemplated hereby. Notwithstanding anything herein to the contrary, neither this Agreement nor any other document related to the consummation of the transactions contemplated by this Agreement shall constitute a sale, assignment, assumption, transfer, conveyance or delivery or an attempted sale, assignment, assumption, transfer, conveyance or delivery of the Assets for which a consent has not been obtained, and following the Closing, Seller shall use all necessary efforts to obtain any such consents as promptly as practicable. Pending the obtaining of such consents, Buyer and Seller shall cooperate with each other in any reasonable and lawful arrangements proposed by Buyer that (i) provide to Buyer the benefits of use of the applicable Asset for its term (or any right or benefit arising thereunder, including the enforcement for the benefit of Buyer of any and all rights of Seller against a third party thereunder) and (ii) provide that Buyer will bear the liabilities of the applicable Asset for its term. Once a consent for the sale, assignment, assumption, transfer, conveyance and delivery of an applicable Asset is obtained, Seller shall promptly assign, transfer, convey and deliver such Asset to Buyer, and, Buyer shall assume such liabilities with respect to such Asset from and after the date of assignment to Buyer pursuant to a specialpurpose assignment and assumption agreement substantially similar in terms to those of the Assignment and Assumption Agreement (which specialpurpose agreement the parties shall prepare, execute and deliver in good faith at the time of such transfer, all at no additional cost to Buyer). Seller warrants and indemnifies Buyer against any breach of this clause.
+
+7
+
+All Necessary Efforts. If applicable, Seller shall use all necessary efforts to effectuate the transactions contemplated hereby and to fulfill and cause to be fulfilled the conditions to Closing under this Agreement. 
+
+Expenses. All costs and expenses incurred in connection with this Agreement and the transactions contemplated hereby, including fees of any finders or brokers or investment bankers, attorneys and accountants retained by such party, shall be paid by the party incurring such expense, except that the costs of obtaining third-party consents for the transfer of the Assets shall be borne by the Seller.
+
+Covenants Against Disclosure. From and after the Closing, each party shall, and shall cause its respective controlled affiliates to, hold, and shall direct its or their respective directors, officers, employees, consultants, counsel, accountants, and other agents (Representatives) to hold, in confidence any and all information, whether written or oral, concerning the Assets, except to the extent that at the time of disclosure such information: (a) is generally available to and known by the public through no fault of such party, any of its affiliates, or their respective Representatives; or (b) is lawfully acquired by such party, any of its affiliates, or their respective Representatives from and after the Closing from sources which are not prohibited from disclosing such information by a legal, contractual, or fiduciary obligation. If any party or any of its affiliates or their respective Representatives are compelled to disclose any information by law, except for public reporting requirements of the Securities and Exchange Commission, such party shall promptly notify the other party hereto in writing and shall disclose only that portion of such information which is legally required to be disclosed. Each party shall use reasonable best efforts to obtain as promptly as possible an appropriate protective order or other reasonable assurance that confidential treatment will be accorded such information. Neither party to this Agreement shall make any public announcement regarding this Agreement or the transactions contemplated hereby prior without the prior written consent of the other party hereto.
+
+Further Assurances. Following the Closing, each of the parties hereto shall, and shall cause their respective controlled affiliates to, execute and deliver such additional documents, instruments, conveyances, and assurances and take such further actions as may be reasonably required to carry out the provisions hereof and give effect to the transactions contemplated by this Agreement.
+
+CLOSING AND CONDITIONS PRECEDENT
+
+Closing. The closing of the purchase and sale of the Assets (the Closing) shall take place remotely on the date hereof. The Closing Date shall mean the date hereof.
+
+Seller Closing Deliverables. At the Closing:
+
+Third Party Consents; Approvals and Assignments. Seller shall provide a comprehensive list of all required third-party consents, approvals and assignments necessary for the transfer of all of Sellers interest in the Assets. Seller shall then have delivered to Buyer duly executed copies of all such third-party consents, approvals and assignments, in form and substance reasonably satisfactory to Buyer.
+
+8
+
+NonForeign Status Affidavit. Seller shall deliver to Buyer a properly executed affidavit prepared in accordance with Treasury Regulations Section 1.14452(b) certifying Sellers nonforeign status, no later than five (5) business days prior to the Closing.
+
+Secretary Certificate. The Secretary of Seller shall have executed and delivered to Buyer a certificate certifying the resolutions of the Board of Directors of Seller approving this Agreement and the transactions contemplated hereby.
+
+Other Agreements. Seller shall execute and deliver to Buyer such Bills of Sale, Assignment and Assumption Agreements, and Assignments of Intellectual Property as Buyer may reasonably request.
+
+SURVIVAL; INDEMNIFICATION
+
+Survival of Representations, Warranties and Agreements. Notwithstanding any investigation conducted at any time with regard thereto by or on behalf of either party, all representations, warranties, covenants and agreements of each party in this Agreement shall survive the execution, delivery and performance of this Agreement. All covenants and agreements set forth in this Agreement shall survive until fully performed or fulfilled. The obligations of indemnity provided herein with respect to the representations and warranties set forth in Article II shall terminate twenty-four (24) months after the Closing.
+
+Seller Indemnification. Seller hereby agrees to indemnify and hold harmless Buyer and its controlled affiliates and its and their respective equity holders, trustees, officers, managers, directors, employees, successors and assigns (collectively, Buyer Indemnitees) against any and all losses, liabilities, damages, demands, claims, suits, actions, judgments or causes of action, assessments, costs and expenses, including, without limitation, interest, penalties, reasonable and documented attorneys fees, any and all reasonable and documented expenses incurred in investigating, preparing or defending against any litigation, commenced or threatened, or any claim whatsoever, and any and all amounts paid in settlement of any claim or litigation (collectively, Damages), in each case, to the extent such amounts are awarded and paid or payable to a third party, asserted against, resulting to, imposed upon, or incurred or suffered by Buyer, directly or indirectly, as a result of or arising from any of the following (the Seller Claims):
+
+any inaccuracy in or breach of any of the representations and warranties made by Seller in this Agreement;
+
+the Excluded Liabilities;
+
+any breach, noncompliance or nonperformance of any covenant or obligation of Seller set forth in this Agreement; or
+
+any fraud, intentional misrepresentation, willful misconduct or gross negligence on the part of Seller in respect of any of the representations and warranties of Seller contained in this Agreement.
+
+9
+
+Buyer Indemnification. Buyer hereby agrees to indemnify and hold harmless Seller and its affiliates and its and their respective equity holders, trustees, officers, managers, directors, employees, successors and assigns (collectively, Seller Indemnitees) against any and all Damages, in each case, to the extent such amounts are awarded and paid or payable to a third party, asserted against, resulting to, imposed upon, or incurred or suffered by Seller, directly or indirectly, as a result of or arising from any of the following (the Buyer Claims and together with the Seller Claims, the Claims):
+
+any inaccuracy in or breach of any of the representations and warranties made by Buyer in this Agreement;
+
+any breach, noncompliance or nonperformance of any covenant or obligation of Buyer set forth in this Agreement; or
+
+the Assumed Liabilities, except to the extent that such Assumed Liabilities arises from or is a result of any fraud, intentional misrepresentation, gross negligence and willful misconduct by or on behalf of the Seller.
+
+Procedure for Indemnification with Respect to ThirdParty Claims
+
+Sellers and Buyers obligation to indemnify the Buyer Indemnitees and Seller Indemnitees, respectively, under this Article V for any Claims is conditioned on the Buyer Indemnitee or Seller Indemnitee, as the case may be, seeking such indemnification (the Indemnified Party) promptly notifying Seller or Buyer, as the case may be (the Indemnifying Party), permitting the Indemnifying Party to control the defense and settlement of the Claim. Within thirty (30) days after receipt by an Indemnified Party of written notice of the commencement of any action or the assertion of any claim or liability by a third party (each, a Third Party Claim), against which such Third Party Claim the Indemnifying Party is, or may be, required under Sections 5.2 or 5.3, as the case may be, to indemnify the Indemnified Party, Indemnified Party will, if a claim thereon is to be made against Indemnified Party, notify Indemnifying Party in writing of the commencement or assertion thereof (the ThirdParty Claim Notice) and provide Indemnifying Party a reasonable description of such Third Party Claim, together with a copy of all papers served with respect thereto (if any). Indemnifying Party shall have the right, but not obligation, to contest and conduct the defense of such Third Party Claim in consultation with, and with the reasonable input of, the Indemnified Party and with counsel reasonably acceptable to Indemnified Party by giving written notice to Indemnified Party of its election to do so within ten (10) business days of the receipt of the ThirdParty Claim Notice; provided, however, that the Indemnifying Party may not settle or compromise any claim, action or proceeding without the prior written consent of the Indemnified Party to the extent such proposed settlement or compromise (i) contains any admission of any wrongdoing or acknowledgment of liability on behalf of the Indemnified Party, (ii) contains any admission of any criminal liability on behalf of the Indemnified Party, (iii) does not contain an unconditional release of the Indemnified Party and its affiliates from all liability arising out of such thirdparty claim, (iv) encumbers any assets of the Indemnified Party or any affiliate thereof, (v) contains or results in any restriction, interference or condition that would apply to the Indemnified Party or its affiliates or that otherwise involves equitable relief, or (vi) may materially and adversely affect the Indemnified Party; provided further that the Indemnified Party may, at its option and at its own expense, participate in the investigation, contesting, defense or settlement of any Third Party Claim through representatives and counsel of its own choosing, cost and expense. Subject to the limitations set forth in this Section 5.4, Indemnified Party shall have the right to defend a Third Party Claim, and Indemnifying Party shall be liable for the fees and expenses of counsel employed by the Indemnifying Party, (w) for any period during which the Indemnifying Party has failed (or is not permitted) to assume the defense thereof, (x) if Indemnified Party reasonably concludes, upon advice of counsel, that Indemnified Party has one or more defenses that are inconsistent with one or more of those available to Indemnified Party in respect of such third party claim, (y) such Third Party Claim seeks or is reasonably likely to result in equitable relief or (z) such Third Party Claims alleges criminal or quasicriminal charges. If Indemnified Party is conducting the defense of a Third Party Claim in accordance with this Section 5.4, Indemnified Party shall not settle or compromise such Third Party Claim without the prior written consent of Indemnifying Party, which shall not be unreasonably withheld. Failure of Indemnified Party to give the ThirdParty Claim Notice to Indemnifying Party within the thirty (30)day period required hereunder shall not affect Indemnified Partys rights to indemnification hereunder, except if (and then only to the extent that) Indemnifying Party incurs additional expenses or Indemnifying Partys defense of such claim is actually prejudiced by reason of such failure to give timely notice.
+
+10
+
+Procedure for Indemnification with Respect to NonThird Party Claims. In the event that the Indemnified Party asserts the existence of a claim giving rise to Damages (but excluding claims resulting from the assertion of liability by third parties), it shall give written notice to the Indemnifying Party. Such written notice shall state that it is being given pursuant to this Section 5.5, specify the nature and amount of the claim asserted and indicate the date on which such assertion shall be deemed accepted and the amount of the claim deemed a valid claim (such date to be established in accordance with the next sentence). If the Indemnifying Party, within sixty (60) days after the mailing of notice by the Indemnified Party, shall not give written notice to the Indemnified Party announcing its intent to contest such assertion of the Indemnified Party, such assertion shall be deemed accepted and the amount of claim shall be deemed a valid claim. In the event, however, that the Indemnifying Party contests the assertion of a claim by giving such written notice to the Indemnified Party within said period, then the parties shall act in good faith to reach agreement regarding such claim. In the event that any ongoing dispute shall arise with respect to any such claim, the prevailing party shall be entitled to reimbursement of costs and expenses incurred in connection with such dispute arbitration including attorney fees.
+
+Limitation of Seller Indemnification Obligation.
+
+The maximum liability of Seller for indemnification claims under Section 5.2 shall be equal to the Purchase Price; provided, that, such maximum not apply to any claim for indemnification to the extent such claim arises from or is a result of (i) any Excluded Liability or (ii) any fraud, intentional misrepresentation, gross negligence and willful misconduct by or on behalf of the Seller.
+
+The Indemnified Parties shall use commercially reasonable efforts to recover under insurance policies or indemnity, contribution or other similar agreements for any Damages. The amount of any Damages payable under this Article V by an Indemnifying Party shall be reduced by any amounts actually recovered by the Indemnified Party from insurance policies, indemnity, contribution or other similar agreements, net of the following: (i) costs and expenses (including taxes) incurred by such Indemnified Party or its affiliates and its and their respective representatives in procuring such recovery; (ii) any increases in premiums or premium adjustments to the extent attributable to such recovery (applicable to any past, present or future premiums); and (iii) deductibles and other amounts incurred in connection with such recovery.
+
+The Indemnified Parties shall use commercially reasonable efforts to mitigate Damages indemnifiable under this Article V.
+
+11
+
+Cumulative Remedies. The rights and remedies provided in this Article V are cumulative and are in addition to and not in substitution for any other rights and remedies available at law or in equity or otherwise.
+
+GENERAL PROVISIONS. Notice. All notices and other communications hereunder shall be in writing and shall be deemed given (a) on the same day if delivered personally, (b) one business day after being sent via a reputable overnight courier service, (c) three (3) business days after being mailed by registered or certified mail (return receipt requested), or (d) on the same day if sent by facsimile, confirmation received, or email, with a read receipt or delivery confirmation, to the parties at the following addresses, facsimile numbers and email addresses (or at such other address or number for a party as shall be specified by like notice):
+
+If to Buyer, to:
+
+DataRock Technologies, Inc.
+
+101 Kendalia Circle
+
+Spring Branch, TX 78070
+
+Email: craig.stephens@aces.biz
+
+Attn: Craig Stephens
+
+If to Seller, to:
+
+Everything Blockchain, Inc.
+
+[___]
+
+[___]
+
+Email:
+
+Attn:
+
+Entire Agreement. This Agreement and the schedules hereto, and the documents referred to herein, embody the entire agreement and understanding of the parties hereto with respect to the subject matter hereof, and shall supersede all prior and contemporaneous agreements and understandings, oral or written, relative to said subject matter.
+
+Binding Effect; Assignment. This Agreement and the various rights and obligations arising hereunder shall inure to the benefit of and be binding upon Seller, its successors and assigns, and Buyer and its successors and assigns, provided that neither party may assign its rights or obligations under this Agreement without the prior written consent of the other party.
+
+Captions. The Article and Section headings of this Agreement are inserted for convenience only and shall not constitute a part of this Agreement in construing or interpreting any provision hereof.
+
+12
+
+Amendment; Waiver. This Agreement may not be changed, amended, terminated, augmented, rescinded or discharged (other than by performance), in whole or in part, except by a writing executed by the parties hereto, and no waiver of any of the provisions or conditions of this Agreement or any of the rights of a party hereto shall be effective or binding unless such waiver shall be in writing and signed by the party claimed to have given or consented thereto. Except to the extent that a party hereto may have otherwise agreed in writing, no waiver by that party of any condition of this Agreement or breach by the other party of any of its obligations or representations hereunder or thereunder shall be deemed to be a waiver of any other condition or subsequent or prior breach of the same or any other obligation or representation by the other party, nor shall any forbearance by the first party to seek a remedy for any noncompliance or breach by the other party be deemed to be a waiver by the first party of its rights and remedies with respect to such noncompliance or breach.
+
+Acknowledgements. Each party executing this Agreement acknowledges that such party has read this Agreement thoroughly, and understands the legal effect of each provision hereof, and that such party has executed this Agreement freely and voluntarily, without duress or undue influence. Each party acknowledges such partys right to make an independent determination of all matters set forth herein, and such partys right to consult with an independent attorney prior to executing this Agreement.
+
+Counterparts. This Agreement may be executed simultaneously in multiple counterparts, each of which shall be deemed an original, but all of which taken together shall constitute one and the same instrument.
+
+Severability. If one or more provisions of this Agreement are held to be unenforceable under applicable law, such provision shall be modified or excluded from this Agreement to the minimum extent necessary so that the balance of this Agreement shall remain in full force and effect and enforceable. The parties also agree to use best efforts to amend this Agreement so that its effect remains as close as possible to the original intent of the parties.
+
+Governing Law. This Agreement shall in all respects be construed in accordance with and governed by the laws of the State of [Delaware], as applied to contracts entered into and to be performed solely within the state, solely between residents of the state.
+
+Jurisdiction. The parties hereto agree that any lawsuit, action, or other legal or administrative proceeding (collectively, Proceeding) seeking to interpret or enforce any provision of, relating to, or arising out of or in connection with this Agreement or the transactions contemplated hereby shall be brought exclusively in the Delaware Chancery Court or, if such court shall not have or declines jurisdiction, any federal court or other Delaware state court, in each case, located in New Castle County in the State of Delaware (collectively, the Chosen Courts), and each of the parties hereby irrevocably consents and submits to the exclusive jurisdiction of such Chosen Courts (and of the appropriate appellate courts therefrom) in any such Proceeding and irrevocably waives, to the fullest extent permitted by applicable law, any objection that it may now or hereafter have to the laying of the venue of any such Proceeding in any such Chosen Court or that any such Proceeding brought in any such Chosen Court has been brought in an inconvenient forum. Process in any such Proceeding may be served on any party anywhere in the world, whether within or without the jurisdiction of any such court. Without limiting the foregoing, each party agrees that service of process on such party as provided in Section 6.1 shall be deemed effective service of process on such party.
+
+13
+
+Waiver of Jury Trial. Each party hereto knowingly, voluntarily, and intentionally waives any right it may have to a trial by jury with respect to any litigation (including, but not limited to, any claims, crossclaims, counterclaims, or third party claims) arising out of, under, or in connection with this Agreement or between the parties to this Agreement, their affiliates, subsidiaries, successors, or assigns and irrespective of whether such litigation arises out of this Agreement, by statute, or as a matter of tort law and the parties hereto expressly consent to a nonjury trial in the event of any of the forgoing.
+
+Specific Performance. The parties agree that irreparable damage would occur in the event that any of the provisions of this Agreement were not performed in accordance with their specific terms or were otherwise breached. It is accordingly agreed that the parties shall be entitled to an injunction or injunctions to prevent actual or threatened breaches of this Agreement and to enforce specifically the terms and provisions hereof in any court of the United States or any state or foreign jurisdiction having jurisdiction, this being in addition to any other remedy to which they are entitled at law or in equity. The parties waive, in connection with any action for specific performance or injunctive relief, the defense of adequacy of remedies at law and any requirement under law to post a bond or other security as a prerequisite to obtaining equitable relief.
+
+Fees and Expenses. Each of the parties will bear its own expenses in connection with the negotiation and the consummation of the transactions contemplated by this Agreement.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the day and year first above written.
+
+BUYER:
+
+DATAROCK TECHNOLOGIES, INC. 
+
+By: 
+
+Name: 
+
+Title: 
+
+Seller:
+
+EVERYTHING BLOCKCHAIN, INC.
+
+By: 
+
+Name: 
+
+Title: 
+
+14
+
+Schedule 1
+
+Intellectual Property
+
+Patents
+
+15
+
+Schedule 2
+
+Contracts Related to Technology
+
+1) 
+
+OEM License Agreement between Vengar Technologies LLC and Alamo City Engineering Services Inc. dated October 28, 2021
+
+2) 
+
+Marketing Agreement between Vengar Technologies LLC and Leopard Capital Consulting, Ltd dated January 6, 2022
+
+3) 
+
+Exclusive Representation Agreement between EBI International, Inc. and Al-Rushaid Technologies dated November 4, 2022
+
+4) 
+
+Master Reseller Agreement between EBI International, Inc. and Lai Fu Trading Co., Ltd dated March 22, 2024
+
+5) 
+
+Master Reseller Agreement between Everything Blockchain, Inc. and BlackLake Security, LLC dated March 31, 2024
+
+16
+
+Schedule 3
+
+Assumed Indebtedness
+
+Assumed Liabilities 
+
+D Schaeffer 
+
+89,864 
+
+Paul Polansky 
+
+94,566 
+
+Bridgery 
+
+9,555 
+
+Bright Shift 
+
+37,262 
+
+Cyber Consulting Group 
+
+50,000 
+
+CyberRisk Alliance 
+
+274,577 
+
+Tangible Security 
+
+108,234 
+
+K Clark 
+
+12,500 
+
+K Jones 
+
+32,500 
+
+Dataark Systems (Cedric Harris) 
+
+30,000 
+
+TMA 
+
+124,756 
+
+W Jacobs 
+
+2,860 
+
+Deferred revenue - ACES 
+
+250,000 
+
+ACES - Gartner 
+
+32,127 
+
+Blue Cross Blue Shield 
+
+18,151 
+
+B Hart expense report 
+
+3,214 
+
+B Regan expense report 
+
+1,224 
+
+S Quidley expense report 
+
+1,512 
+
+Deferred Payroll 
+
+286,833 
+
+Deferred Bonuses 
+
+344,000 
+
+Total Assumed Liabilities 
+
+1,803,736 
+
+17
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>ebi-20241121.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA
+<TEXT>
+000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>ebi-20241121_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE
+<TEXT>
+Cover [Abstract] 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Document Type 
+
+Amendment Flag 
+
+Entity Emerging Growth Company 
+
+Document Period End Date 
+
+Entity File Number 
+
+Entity Incorporation State Country Code 
+
+Entity Tax Identification Number 
+
+Entity Address Address Line 1 
+
+Entity Address Address Line 2 
+
+Entity Address City Or Town 
+
+Entity Address State Or Province 
+
+Entity Address Postal Zip Code 
+
+City Area Code 
+
+Local Phone Number 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre Commencement Tender Offer 
+
+Pre Commencement Issuer Tender Offer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.CAL
+<SEQUENCE>5
+<FILENAME>ebi-20241121_cal.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>ebi-20241121_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>7
+<FILENAME>ebi-20241121_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>ebi_ex11img4.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Cover
+
+Nov. 21, 2024
+
+Cover [Abstract] 
+
+Entity Registrant Name Everything Blockchain, Inc.
+
+Entity Central Index Key 0001730869
+
+Document Type 8-K
+
+Amendment Flag false
+
+Entity Emerging Growth Company false
+
+Document Period End Date Nov. 21, 2024
+
+Entity File Number 000-56142
+
+Entity Incorporation State Country Code FL
+
+Entity Tax Identification Number 82-1091922
+
+Entity Address Address Line 1 12574 Flagler Center Blvd
+
+Entity Address Address Line 2 Suite 101
+
+Entity Address City Or Town Jacksonville
+
+Entity Address State Or Province FL
+
+Entity Address Postal Zip Code 32258
+
+City Area Code 904
+
+Local Phone Number 454-2111
+
+Written Communications false
+
+Soliciting Material false
+
+Pre Commencement Tender Offer false
+
+Pre Commencement Issuer Tender Offer false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>11
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>15
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+1 
+20 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+000001 - Document - Cover 
+Sheet 
+http://ebi.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+ebi-20241121.xsd 
+ebi-20241121_cal.xml 
+ebi-20241121_def.xml 
+ebi-20241121_lab.xml 
+ebi-20241121_pre.xml 
+ebi_8k.htm 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+true
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>18
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>19
+<FILENAME>0001477932-25-000067-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>20
+<FILENAME>ebi_8k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001730869 
+
+2024-11-21 
+2024-11-21 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+0001730869 
+false 
+false 
+8-K 
+2024-11-21 
+000-56142 
+Everything Blockchain, Inc. 
+FL 
+82-1091922 
+12574 Flagler Center Blvd 
+Suite 101 
+Jacksonville 
+FL 
+32258 
+904 
+454-2111 
+false 
+false 
+false 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

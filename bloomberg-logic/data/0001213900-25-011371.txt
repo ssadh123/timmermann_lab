@@ -1,0 +1,2297 @@
+<SEC-DOCUMENT>0001213900-25-011371.txt : 20250207
+<SEC-HEADER>0001213900-25-011371.hdr.sgml : 20250207
+<ACCEPTANCE-DATETIME>20250207165343
+ACCESSION NUMBER:		0001213900-25-011371
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		16
+CONFORMED PERIOD OF REPORT:	20250207
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Unregistered Sales of Equity Securities
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250207
+DATE AS OF CHANGE:		20250207
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rumble Inc.
+		CENTRAL INDEX KEY:			0001830081
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				851087461
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40079
+		FILM NUMBER:		25602637
+
+	BUSINESS ADDRESS:	
+		STREET 1:		110 EAST 59TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-938-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		110 EAST 59TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CF Acquisition Corp. VI
+		DATE OF NAME CHANGE:	20201027
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ea0230278-8k_rumble.htm
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+false000183008100018300812025-02-072025-02-070001830081RUM:ClassCommonStockParValue0.0001PerShareMember2025-02-072025-02-070001830081RUM:RedeemableWarrantsEachWholeWarrantExercisableForOneShareOfClassCommonStockAtExercisePriceOf11.50PerShareMember2025-02-072025-02-07iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED
+STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT
+REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+Date of report (Date of earliest event reported):
+February 7, 2025
+
+Rumble Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-40079 85-1087461
+
+(State or other jurisdiction
+
+of incorporation) (Commission File Number) (I.R.S. Employer
+
+Identification Number)
+
+444 Gulf of Mexico Dr
+
+Longboat Key, FL34228
+
+(Address of principal executive offices, including zip code)
+
+Registrants telephone number, including
+area code: (941) 210-0196
+
+(Former name or former address, if changed since
+last report)
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b)
+of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Class A common stock, par value $0.0001 per share RUM The Nasdaq Global Market
+
+Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share RUMBW The Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. 
+
+Introductory
+Note
+
+On December 20, 2024, Rumble Inc., a Delaware corporation (Rumble
+or the Company), entered into a Transaction Agreement (the Transaction Agreement), by and between the Company
+and Tether Investments S.A. de C.V. (as successor in interest to Tether Investments Limited) (Tether), pursuant to which,
+subject to the terms and conditions of the Transaction Agreement, Tether agreed to make a strategic investment in the Company of $775
+million, consisting of 103,333,333 newly issued shares of the Companys Class A Common Stock, par value $0.0001 per share (Common
+Stock), at a price of $7.50 per share (the Investment). The Company used a portion of the proceeds from the Investment
+to fund a self tender offer (the Offer and together with the Investment, the Transaction) to purchase up to
+70 million shares of its outstanding Common Stock at the same price ($7.50 per share) as the Investment.
+
+The Offer expired at 5:00 p.m., New York City time, on February 4,
+2025. Based on the final count by the depositary for the Offer, 70,061,168 shares of Common Stock were validly and successfully tendered
+and not properly withdrawn. Pursuant to the terms of the Offer, Rumble accepted for purchase 70,000,000 shares of Common Stock on a pro-rata
+basis, except for tenders of odd lots, which were accepted in full, for a total cost of $525 million, excluding fees and expenses related
+to the Offer. On February 7, 2025, the Company and Tether closed the Investment (the Closing), and the Company issued and
+sold 103,333,333 shares of Common Stock to Tether for the purchase price described above. The Company used a portion of the funds received
+from the Investment to pay for the shares accepted for purchase in the Offer.
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+Pursuant to the Transaction Agreement, at the Closing, the Company
+and Tether entered into a registration rights agreement (the Registration Rights Agreement) to provide Tether with customary
+registration rights, including the obligation for the Company to file a registration statement on Form S-3 to register the resale of Tethers
+shares of Common Stock and to provide Tether with certain customary demand and piggyback registration rights. The foregoing description
+of the Registration Rights Agreement does not purport to be complete and is qualified in its entirety by reference to the Registration
+Rights Agreement, a copy of which is attached as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+Item 3.02.Unregistered Sales
+of Equity Securities.
+
+The information set forth in the Introductory
+Note above related to the Investment is hereby incorporated into this Item 3.02. The Company is relying on the exemption from the registration
+requirements of the Securities Act of 1933, as amended (the Securities Act), afforded by Section 4(a)(2) thereof. The Investor
+represented that it is an accredited investor as defined in Rule 501(a) of Regulation D under the Securities Act.
+
+Item 5.02 Departure of Directors or Certain Officers; Election of
+Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+As previously reported, Michael Ellis resigned as General Counsel and
+Corporate Secretary of the Company, effective upon the close of business on February 7, 2025 (the Separation Date), to pursue
+a position in government. In connection with Mr. Ellis resignation, in recognition of his significant contributions to the Company,
+the Compensation Committee of the Board of Directors of the Company determined to provide Mr. Ellis with the following payment and
+benefits: (i) a one-time cash bonus payment of $1,000,000, to be paid on the Separation Date; (ii) accelerated vesting of all of Mr. Ellis
+stock options and restricted stock units outstanding as of the Separation Date; and (iii) an extension of the post-termination exercise
+period of Mr. Elliss stock options until the earlier of the fifth anniversary of the Separation Date and the original expiration
+date of the stock options.
+
+Item 8.01. Other Events
+
+On February 7, 2025, the Company issued a
+press release announcing the closing of the Transaction. A copy of the press release is attached as Exhibit 99.1 to this Current Report
+on Form 8-K and is incorporated herein by reference.
+
+- 1 -
+
+Forward-Looking Statements
+
+Certain statements in this Form 8-K (and the Exhibits hereto) constitute
+forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995. Statements contained
+in this Form 8-K (and the Exhibits hereto) that are not historical facts are forward-looking statements and include, for example, statements
+regarding the Companys (we or our) expectations or beliefs regarding our proposed transaction with
+Tether, the use of the proceeds therefrom and the acceleration of our expansion into cryptocurrency. Certain of these forward-looking
+statements can be identified by using words such as anticipates, believes, intends, estimates,
+targets, expects, endeavors, forecasts, well underway, could,
+will, may, future, likely, on track to deliver, on a trajectory,
+continues to, looks forward to, is primed to, plans, projects, assumes,
+should or other similar expressions. Such forward-looking statements involve known and unknown risks and uncertainties,
+and our actual results could differ materially from future results expressed or implied in these forward-looking statements. The forward-looking
+statements included in this Form 8-K are based on our current beliefs and expectations of our management as of the date of this Form 8-K.
+These statements are not guarantees or indicative of future performance. Important assumptions and other important factors that could
+cause actual results to differ materially from those forward-looking statements include the risk that we may be unable to derive additional
+benefits from the relationship with Tether, including increased advertising revenue, cloud revenue, and expansion into cryptocurrency
+payments; the risk that stockholder litigation in connection with the Transaction may result in significant costs of defense, indemnification
+and liability; risks inherent with our increasing affiliation with crypto assets, including volatility, as well as regulatory and reputational
+risks; the risks of implementing a new treasury diversification strategy; our ability to grow and manage future growth profitably over
+time, maintain relationships with customers, compete within our industry and retain key employees; the possibility that we may be adversely
+impacted by economic, business, and/or competitive factors; our limited operating history makes it difficult to evaluate our business
+and prospects; our recent and rapid growth may not be indicative of future performance; we may not continue to grow or maintain our active
+user base, and may not be able to achieve or maintain profitability; risks relating to our ability to attract new advertisers, or the
+potential loss of existing advertisers or the reduction of or failure by existing advertisers to maintain or increase their advertising
+budgets; Rumble Cloud, our cloud services business, may not achieve success and, as a result, our business, financial condition and results
+of operations could be adversely affected; negative media campaigns may adversely impact our financial performance, results of operations,
+and relationships with our business partners, including content creators and advertisers; spam activity, including inauthentic and fraudulent
+user activity, if undetected, may contribute, from time to time, to some amount of overstatement of our performance indicators; we collect,
+store, and process large amounts of user video content and personal information of our users and subscribers and, if our security measures
+are breached, our sites and applications may be perceived as not being secure, traffic and advertisers may curtail or stop viewing our
+content or using our services, our business and operating results could be harmed, and we could face governmental investigations and legal
+claims from users and subscribers; we may fail to comply with applicable privacy laws; we are subject to cybersecurity risks and interruptions
+or failures in our information technology systems and, notwithstanding our efforts to enhance our protection from such risks, a cyber
+incident could occur and result in information theft, data corruption, operational disruption and/or financial loss; we may be found to
+have infringed on the intellectual property of others, which could expose us to substantial losses or restrict our operations; we may
+face liability for hosting a variety of tortious or unlawful materials uploaded by third parties, notwithstanding the liability protections
+of Section 230 of the Communications Decency Act of 1996; we may face negative publicity for removing, or declining to remove, certain
+content, regardless of whether such content violated any law; paid endorsements by our content creators may expose us to regulatory risk,
+liability, and compliance costs, and, as a result, may adversely affect our business, financial condition and results of operations; our
+traffic growth, engagement, and monetization depend upon effective operation within and compatibility with operating systems, networks,
+devices, web browsers and standards, including mobile operating systems, networks, and standards that we do not control; our business
+depends on continued and unimpeded access to our content and services on the internet and, if we or those who engage with our content
+experience disruptions in internet service, or if internet service providers are able to block, degrade or charge for access to our content
+and services, we could incur additional expenses and the loss of traffic and advertisers; we face significant market competition, and
+if we are unable to compete effectively with our competitors for traffic and advertising spend, our business and operating results could
+be harmed; we rely on data from third parties to calculate certain of our performance metrics and real or perceived inaccuracies in such
+metrics may harm our reputation and negatively affect our business; changes to our existing content and services could fail to attract
+traffic and advertisers or fail to generate revenue; we derive the majority of our revenue from advertising and the failure to attract
+new advertisers, the loss of existing advertisers, or the reduction of or failure by existing advertisers to maintain or increase their
+advertising budgets would adversely affect our business; we depend on third-party vendors, including internet service providers, advertising
+networks, and data centers, to provide core services; hosting and delivery costs may increase unexpectedly; we have offered and intend
+to continue to offer incentives, including economic incentives, to content creators to join our platform, and these arrangements may involve
+fixed payment obligations that are not contingent on actual revenue or performance metrics generated by the applicable content creator
+but rather are based on our modeled financial projections for that creator, which if not satisfied may adversely impact our financial
+performance, results of operations and liquidity; we may be unable to develop or maintain effective internal controls; potential diversion
+of management's attention and consumption of resources as a result of acquisitions of other companies and success in integrating and otherwise
+achieving the benefits of recent and potential acquisitions; we may fail to maintain adequate operational and financial resources or raise
+additional capital or generate sufficient cash flows; changes in tax rates, changes in tax treatment of companies engaged in e-commerce,
+the adoption of new tax legislation, or exposure to additional tax liabilities may adversely impact our financial results; compliance
+obligations imposed by new privacy laws, laws regulating social media platforms and online speech in certain jurisdictions in which we
+operate, or industry practices may adversely affect our business; and those additional risks, uncertainties and factors described in more
+detail under the caption Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2023, and in our
+other filings with the Securities and Exchange Commission (the SEC). We do not intend, and, except as required by law, we
+undertake no obligation, to update any of our forward-looking statements after the issuance of this Form 8-K to reflect any future events
+or circumstances. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements.
+
+- 2 -
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+10.1 Registration Rights Agreement, dated February 7, 2025, by and between Rumble Inc. and Tether Investments S.A. de C.V.
+
+99.1 Press Release, dated February 7, 2025.
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+- 3 -
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: February 7, 2025 By: /s/ Brandon Alexandroff
+
+Name: Brandon Alexandroff
+
+Title: Chief Financial Officer
+
+- 4 -
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>ea023027801ex10-1_rumble.htm
+<DESCRIPTION>REGISTRATION RIGHTS AGREEMENT, DATED FEBRUARY 7, 2025, BY AND BETWEEN RUMBLE INC. AND TETHER INVESTMENTS S.A. DE C.V
+<TEXT>
+Exhibit 10.1
+
+Execution Version
+
+REGISTRATION RIGHTS AGREEMENT 
+
+THIS REGISTRATION RIGHTS AGREEMENT (this Agreement),
+dated as of February 7, 2025, is made and entered into by and between Rumble Inc., a Delaware corporation (the Company),
+and Tether Investments S.A. de C.V. (as successor in interest to Tether Investments Limited) (the Investor).
+
+RECITALS 
+
+WHEREAS, the Company is party to that certain
+Amended and Restated Registration Rights Agreement, dated as of September 16, 2022, by and among the Company, CFAC Holdings VI, LLC, a
+Delaware limited liability company, and certain other stockholders of the Company party thereto (the September 2022 Registration
+Rights Agreement);
+
+WHEREAS, concurrently with the execution
+of this Agreement, the Company and the Investor have entered into the Transaction Agreement, pursuant to which, among other matters, (a)
+the Company has agreed to issue and sell to the Investor, and the Investor has agreed to purchase, 103,333,333 newly issued shares of
+the Companys Class A common stock, par value $0.0001 per share (the Common Stock), at a price of $7.50
+per share, without interest, net to the Company in cash (the Issuance) and (b) the Company has agreed to commence
+a tender offer to purchase up to 70,000,000 shares of Common Stock at a price of $7.50 per share, without interest, net to the seller
+in cash;
+
+WHEREAS, as contemplated by the Transaction
+Agreement, the Company and the Investor desire to enter into this Agreement in order to provide the Holders (as defined below) with certain
+registration rights with respect to certain securities of the Company, as set forth in this Agreement.
+
+NOW, THEREFORE, in consideration
+of the representations, covenants and agreements contained herein, and certain other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the parties hereto, intending to be legally bound, hereby agree as follows:
+
+ARTICLE I 
+
+DEFINITIONS
+
+1.1 Definitions. The terms defined in this
+Article I shall, for all purposes of this Agreement, have the respective meanings set forth below:
+
+Adverse Disclosure
+shall mean any public disclosure of material non-public information, which disclosure, in the good faith judgment of the Board, after
+consultation with the executive officers of and counsel to the Company, (i) would be required to be made in any Registration Statement
+or Prospectus in order for the applicable Registration Statement or Prospectus not to contain any untrue statement of a material fact
+or omit to state a material fact necessary to make the statements contained therein (in the case of any prospectus and any preliminary
+prospectus, in the light of the circumstances under which they were made) not misleading, (ii) would not be required to be made at such
+time if the Registration Statement were not being filed, and (iii) the Company has a bona fide business purpose for not making such information
+public.
+
+Agreement shall have
+the meaning given in the Preamble.
+
+Block Trade means an
+offering and/or sale of Registrable Securities by any Holder on a block trade or underwritten basis (whether firm commitment or otherwise)
+without substantial marketing efforts prior to pricing, including, without limitation, a same day trade, overnight trade or similar transaction.
+
+Board shall mean the
+Board of Directors of the Company.
+
+Business Combination Agreement
+shall mean the Business Combination Agreement, dated as of December 1, 2021, by and between the Company and Rumble Canada, Inc. (formerly
+known as Rumble Inc.), a corporation formed under the laws of the Province of Ontario, Canada, as amended by the Amendment thereto, dated
+as of August 24, 2022.
+
+Class C Common Stock
+shall mean the Companys Class C common stock, par value $0.0001 per share.
+
+Closing shall mean
+the closing of the Issuance.
+
+Company shall have
+the meaning given in the Preamble.
+
+Common Stock shall
+have the meaning given in the Recitals hereto.
+
+Company Shelf Takedown Notice
+shall have the meaning given in subsection 2.1.3.
+
+Demand Registration
+shall have the meaning given in subsection 2.2.1.
+
+Demanding Holders shall
+have the meaning given in subsection 2.2.1.
+
+Effectiveness Deadline
+shall have the meaning given in subsection 2.1.1.
+
+Exchange Act shall
+mean the Securities Exchange Act of 1934, as it may be amended from time to time.
+
+ExchangeCo Shares means
+exchangeable shares in the capital of 1000045728 Ontario Inc., which shares are (a) issued in tandem with shares of Class
+C Common Stock and (b) exchangeable for shares of Common Stock.
+
+Existing Registration Rights Holders
+shall mean the parties to the September 2022 Registration Rights Agreement (other than the Company).
+
+Form S-1 Shelf shall
+have the meaning given in subsection 2.1.1.
+
+Form S-3 Shelf shall
+have the meaning given in subsection 2.1.1.
+
+Fully Diluted Basis
+shall mean, as of any time of determination, all issued and outstanding shares of Common Stock as of such time, assuming for purposes
+of the calculation that all outstanding ExchangeCo shares have been exchanged for shares of Common Stock (with a concomitant redemption
+of shares of Class C Common Stock).
+
+Holders shall mean
+the Investor, and its successors and assigns, and any person or entity who hereafter becomes a party to this Agreement pursuant to Section
+5.2; provided, that upon any Holder (or any such person or entity) ceasing to hold Registrable Securities, they shall cease to be
+a Holder.
+
+Issuance shall have
+the meaning given in the Recitals hereto.
+
+Maximum Number of Securities
+shall have the meaning given in subsection 2.2.4.
+
+Misstatement shall
+mean an untrue statement of a material fact or an omission to state a material fact required to be stated in a Registration Statement
+or Prospectus, or necessary to make the statements in a Registration Statement or Prospectus (in the case of any prospectus and any preliminary
+prospectus, in the light of the circumstances under which they were made) not misleading.
+
+Permitted Transferees
+shall mean (a) any person or entity to whom a Holder of Registrable Securities is permitted to transfer such Registrable Securities pursuant
+to (i) the Transaction Agreement or this Agreement or (ii) any other applicable agreement between such Holder and the Company, and (b)
+any transferee thereafter of any person or entity referenced in the preceding clause (a).
+
+- 2 -
+
+Piggyback Registration
+shall have the meaning given in subsection 2.3.1.
+
+Pro Rata shall mean,
+in the context of a Registration involving multiple Holders of Registrable Securities or holders of Common Stock, as applicable, the percentage
+derived by dividing (x) the aggregate number of Registrable Securities and/or shares of Common Stock proposed to be sold by such participant
+in such Registration by (y) the aggregate number of Registrable Securities and/or shares of Common Stock proposed to be sold by all participants
+in such Registration.
+
+Prospectus shall mean
+the prospectus included in any Registration Statement, as supplemented by any and all prospectus supplements and as amended by any and
+all post-effective amendments and including all material incorporated by reference in such prospectus.
+
+Registrable Security
+shall mean (a) the shares of Common Stock issued to the Investor pursuant to the Issuance, (b) to the extent not included within the preceding
+clause (a), any outstanding shares of Common Stock or any other equity security (including the shares of Common Stock issued or issuable
+upon the exercise of any other equity security) of the Company held by a Holder as of the Closing, and (c) any other equity security of
+the Company issued or issuable with respect to any share of Common Stock described in the foregoing clauses (a) through (b) by way of
+a stock dividend or stock split or in connection with a combination of shares, recapitalization, merger, consolidation or reorganization;
+provided, however, that, as to any particular Registrable Securities, such securities shall cease to be Registrable Securities
+when: (i) a Registration Statement with respect to the sale of such securities shall have become effective under the Securities Act and
+such securities shall have been sold, transferred, disposed of or exchanged in accordance with such Registration Statement (except any
+transfer to a Permitted Transferee); (ii) such securities shall have ceased to be outstanding; (iii) such securities shall have been sold
+without registration pursuant to Rule 144; or (iv) such securities shall have been sold to, or through, a broker, dealer or underwriter
+in a public distribution or other public securities transaction. Notwithstanding the foregoing, when the term Registrable Security
+is used herein in the express context of Company securities owned by the Existing Registration Rights Holders, Registrable Security
+shall have the meaning given to such term in the September 2022 Registration Rights Agreement.
+
+Registration shall
+mean a registration effected by preparing and filing a registration statement or similar document in compliance with the requirements
+of the Securities Act, and the applicable rules and regulations promulgated thereunder, and such registration statement becoming effective.
+
+Registration Expenses
+shall mean the out-of-pocket expenses of a Registration, including, without limitation, the following:
+
+(A) all registration and filing fees
+(including fees with respect to filings required to be made with the Financial Industry Regulatory Authority, Inc.) and any securities
+exchange on which the Common Stock is then listed;
+
+(B) fees and expenses of compliance with
+securities or blue sky laws (including reasonable fees and disbursements of counsel for the Underwriters in connection with blue sky qualifications
+of Registrable Securities);
+
+(C) printing, messenger, telephone and
+delivery expenses;
+
+(D) reasonable fees and disbursements
+of counsel for the Company;
+
+(E) reasonable fees and disbursements
+of all independent registered public accountants of the Company incurred specifically in connection with such Registration; and
+
+- 3 -
+
+(F) reasonable fees and expenses of one
+(1) legal counsel selected by the majority-in-interest of the Demanding Holders initiating a Shelf Underwritten Offering or a Demand Registration
+to be registered for offer and sale in the applicable Registration.
+
+Registration Statement
+shall mean any registration statement that covers the Registrable Securities pursuant to the provisions of this Agreement, including the
+Prospectus included in such registration statement, amendments (including post-effective amendments) and supplements to such registration
+statement, and all exhibits to and all material incorporated by reference in such registration statement.
+
+Removed Shares shall
+have the meaning given in Section 2.6.
+
+Requesting Holder shall
+have the meaning given in subsection 2.2.1.
+
+Restricted Securities
+shall have the meaning given in subsection 3.6.1.
+
+Rule 144 shall mean
+Rule 144 promulgated under the Securities Act, or any successor rule promulgated thereafter by the SEC.
+
+Rule 415 shall have
+the meaning given in subsection 2.1.1.
+
+SEC shall mean the
+United States Securities and Exchange Commission.
+
+SEC Guidance means
+(i) any publicly-available written or oral guidance of the SEC staff, or any comments, requirements or requests of the SEC staff whether
+formally or informally or publicly or privately and (ii) the Securities Act.
+
+Securities Act shall
+mean the Securities Act of 1933, as amended from time to time.
+
+September 2022 Registration Rights Agreement
+shall have the meaning given in the Recitals hereto.
+
+Shelf Takedown Notice
+shall have the meaning given in subsection 2.1.3.
+
+Shelf Underwritten Offering
+shall have the meaning given in subsection 2.1.3.
+
+Transaction Agreement
+shall mean the Transaction Agreement, dated as of the date hereof, by and between the Company and the Investor.
+
+Underwriter shall mean
+a securities dealer who purchases any Registrable Securities as principal in an Underwritten Offering and not as part of such dealers
+market-making activities.
+
+Underwritten Registration
+or Underwritten Offering shall mean a Registration in which securities of the Company are sold to an Underwriter
+in a firm commitment underwriting for distribution to the public.
+
+- 4 -
+
+ARTICLE II 
+
+REGISTRATIONS
+
+2.1 Shelf Registration.
+
+2.1.1 Initial Registration. The
+Company shall, as soon as practicable but no later than the date that is 15 days immediately after the closing of the Issuance, file a
+Registration Statement under the Securities Act to permit the public resale of all the Registrable Securities held by the Holders from
+time to time as permitted by Rule 415 under the Securities Act (or any successor or similar provision adopted by the SEC then in effect)
+(Rule 415) on the terms and conditions specified in this subsection 2.1.1 and shall use its reasonable
+best efforts to cause such Registration Statement to be declared effective as soon as practicable after the filing thereof, but in no
+event later than the earlier of (i) sixty (60) calendar days following the filling thereof (or 90 calendar days following the filing thereof
+if the SEC notifies the Company that it will review the Registration Statement), and (ii) the second (2nd) business day
+after the date the Company is notified (orally or in writing, whichever is earlier) by the SEC that the Registration Statement will not
+be reviewed or will not be subject to further review (such earlier date, the Effectiveness Deadline).
+The Registration Statement filed with the SEC pursuant to this subsection 2.1.1 shall be a shelf registration statement on Form
+S-3 (a Form S-3 Shelf) or, if Form S-3 is not then available to the Company, on Form S-1 (a Form
+S-1 Shelf) or such other form of registration statement as is then available to effect a registration for resale of such
+Registrable Securities, covering such Registrable Securities, and shall contain a Prospectus in such form as to permit any Holder to sell
+such Registrable Securities pursuant to Rule 415 at any time beginning on the effective date for such Registration Statement. A Registration
+Statement filed pursuant to this subsection 2.1.1 shall provide for the resale pursuant to any method or combination of methods
+legally available to, and requested by, the Holders. The Company shall cause such Registration Statement filed pursuant to this subsection
+2.1.1 to remain effective, and to be supplemented and amended to the extent necessary to ensure that such Registration Statement is
+available or, if not available, that another Registration Statement is available, for the resale of all the Registrable Securities held
+by the Holders until all such Registrable Securities have ceased to be Registrable Securities. As soon as practicable following the effective
+date of a Registration Statement filed pursuant to this subsection 2.1.1, but in any event within one (1) business day of such
+date, the Company shall notify the Holders of the effectiveness of such Registration Statement. When effective, a Registration Statement
+filed pursuant to this subsection 2.1.1 (including the documents incorporated therein by reference) will comply as to form in all
+material respects with all applicable requirements of the Securities Act and the Exchange Act and will not contain an untrue statement
+of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading
+(in the case of any Prospectus contained in such Registration Statement, in the light of the circumstances under which such statement
+is made).
+
+2.1.2 Form S-3 Shelf. If the Company
+files a Form S-3 Shelf and thereafter the Company becomes ineligible to use Form S-3 for secondary sales, the Company shall use its best
+efforts to file a Form S-1 Shelf as promptly as practicable (but in any event, within ten (10) calendar days) to replace the shelf registration
+statement that is a Form S-3 Shelf and have the Form S-1 Shelf declared effective as promptly as practicable and to cause such Form S-1
+Shelf to remain effective, and to be supplemented and amended to the extent necessary to ensure that such Registration Statement is available
+or, if not available, that another Registration Statement is available, for the resale of all the Registrable Securities held by the Holders
+until all such Registrable Securities have ceased to be Registrable Securities.
+
+2.1.3 Shelf Takedown. At any time
+and from time to time following the effectiveness of the shelf registration statement required by subsection 2.1.1 or 2.1.2,
+any Holder may request to sell all or a portion of their Registrable Securities in an underwritten offering that is registered pursuant
+to such shelf registration statement, including a Block Trade (a Shelf Underwritten Offering) provided that
+such Holder(s) (a) reasonably expect aggregate gross proceeds in excess of $35,000,000 from such Shelf Underwritten Offering or (b) reasonably
+expect to sell all of the Registrable Securities held by such Holder in such Shelf Underwritten Offering but in no event less than $10,000,000.
+All requests for a Shelf Underwritten Offering shall be made by giving written notice to the Company (the Shelf Takedown
+Notice). Each Shelf Takedown Notice shall specify the approximate number of Registrable Securities proposed to be sold
+in the Shelf Underwritten Offering and the expected price range (net of underwriting discounts and commissions) of such Shelf Underwritten
+Offering. Within five (5) business days after receipt of any Shelf Takedown Notice that is not a Block Trade, the Company shall give written
+notice of such requested Shelf Underwritten Offering to all other Holders of Registrable Securities (the Company Shelf Takedown
+Notice) and, subject to reductions consistent with the Pro Rata calculations in Section 2.2.4, shall use commercially
+reasonable efforts to include in such Shelf Underwritten Offering all Registrable Securities with respect to which the Company has received
+written requests for inclusion therein, within five (5) days after sending the Company Shelf Takedown Notice. The Company shall enter
+into an underwriting agreement in a form as is customary in Underwritten Offerings of securities by the Company with the managing Underwriter
+or Underwriters selected by the initiating Holders after consultation with the Company and shall take all such other reasonable actions
+as are requested by the managing Underwriter or Underwriters in order to expedite or facilitate the disposition of such Registrable Securities.
+In connection with any Shelf Underwritten Offering contemplated by this subsection 2.1.3, subject to Section 3.3 and Article
+IV, the underwriting agreement into which each Holder and the Company shall enter shall contain such representations, covenants, indemnities
+and other rights and obligations of the Company and the selling stockholders as are customary in underwritten offerings of securities
+by the Company. Notwithstanding anything to the contrary set forth in this subsection 2.1.3
+or subsection 2.2.1, a request by any Holder(s) for a Shelf Underwritten Offering pursuant to this subsection 2.1.3 shall
+count as a Demand Registration for purposes of the limitations on the number of Demand Registrations set forth in the last sentence of
+subsection 2.2.1 for so long as the Registrable Securities requested to be sold in such Shelf Underwritten Offering by such
+Holder(s) pursuant to this subsection 2.2.1 (after giving effect to any to reductions consistent with the Pro Rata calculations
+in Section 2.2.4) have actually been sold in connection therewith.
+
+- 5 -
+
+2.1.4 Holder Information Required
+for Participation in Shelf Registration. At least ten (10) business days prior to the first anticipated filing date of a Registration
+Statement pursuant to this Article II, the Company shall notify each Holder in writing of the anticipated filing of such Registration
+Statement (which may be by email), and request from each Holder all information reasonably necessary about the Holder to include such
+Holders Registrable Securities in such Registration Statement. Notwithstanding anything else in this Agreement, the Company shall
+not be obligated to include such Holders Registrable Securities to the extent the Company has not received such information, and
+received any other reasonably requested agreements or certificates, on or prior to the third (3rd) business day prior to the first anticipated
+filing date of a Registration Statement pursuant to this Article II.
+
+2.2 Demand Registration.
+
+2.2.1 Request for Registration.
+Subject to the provisions of subsection 2.2.4 and Section 2.4 hereof and provided that the Company does not have an effective
+Registration Statement pursuant to subsection 2.1.1 outstanding covering the Registrable Securities, the Holders holding at least
+a majority in interest of the then-outstanding number of Registrable Securities held by the Holders (for purposes of this subsection
+2.2, the Demanding Holders), may make a written demand for Registration of all or part of their Registrable
+Securities, which written demand shall describe the amount and type of securities to be included in such Registration and the intended
+method(s) of distribution thereof (such written demand a Demand Registration). The Company shall, within ten
+(10) days of the Companys receipt of the Demand Registration, notify, in writing, all other Holders of Registrable Securities of
+such demand, and each Holder of Registrable Securities who thereafter wishes to include all or a portion of such Holders Registrable
+Securities in a Registration pursuant to a Demand Registration (each such Holder that includes all or a portion of such Holders
+Registrable Securities in such Registration, a Requesting Holder) shall so notify the Company, in writing,
+within five (5) days after the receipt by the Holder of the notice from the Company. Upon receipt by the Company of any such written notification
+from a Requesting Holder(s) to the Company, such Requesting Holder(s) shall be entitled to have their Registrable Securities included
+in a Registration pursuant to a Demand Registration and the Company shall effect, as soon thereafter as practicable, the Registration
+of all Registrable Securities requested by the Demanding Holder(s) and Requesting Holder(s) pursuant to such Demand Registration, but
+not more than forty five (45) days immediately after the Companys receipt of the Demand Registration. Under no circumstances shall
+the Company be obligated to effect more than an aggregate of eight (8) Registrations pursuant to a Demand Registration by the Holders
+under this subsection 2.2.1 with respect to any or all Registrable Securities held by such Holders; provided, however,
+that a Registration pursuant to a Demand Registration shall not be counted for such purposes unless a Registration Statement that may
+be available at such time has become effective and all of the Registrable Securities requested by the Requesting Holders and the Demanding
+Holders to be registered on behalf of the Requesting Holders and the Demanding Holders in such Registration Statement have been sold,
+in accordance with Section 3.1 of this Agreement.
+
+2.2.2 Effective Registration.
+Notwithstanding the provisions of subsection 2.2.1 above or any other part of this Agreement, a Registration pursuant to a Demand
+Registration shall not count as a Registration unless and until (i) the Registration Statement filed with the SEC with respect to a Registration
+pursuant to a Demand Registration has been declared effective by the SEC and (ii) the Company has complied with all of its obligations
+under this Agreement with respect thereto; provided, further, that if, after such Registration Statement has been declared
+effective, an offering of Registrable Securities in a Registration pursuant to a Demand Registration is subsequently interfered with by
+any stop order or injunction of the SEC, federal or state court or any other governmental agency, the Registration Statement with respect
+to such Registration shall be deemed not to have been declared effective, unless and until, (a) such stop order or injunction is removed,
+rescinded or otherwise terminated, and (b) a majority-in-interest of the Demanding Holders initiating such Demand Registration thereafter
+affirmatively elect to continue with such Registration and accordingly notify the Company in writing, but in no event later than five
+(5) days, of such election; and provided, further, that the Company shall not be obligated or required to file another Registration
+Statement until the Registration Statement that has been previously filed with respect to a Registration pursuant to a Demand Registration
+becomes effective or is subsequently terminated.
+
+- 6 -
+
+2.2.3 Underwritten Offering. Subject
+to the provisions of subsection 2.2.4 and Section 2.4 hereof, if a majority-in-interest of the Demanding Holders so advise
+the Company as part of their Demand Registration that the offering of the Registrable Securities pursuant to such Demand Registration
+shall be in the form of an Underwritten Offering, then the right of such Demanding Holder or Requesting Holder (if any) to include its
+Registrable Securities in such Registration shall be conditioned upon such Holders participation in such Underwritten Offering
+and the inclusion of such Holders Registrable Securities in such Underwritten Offering to the extent provided herein. All such
+Holders proposing to distribute their Registrable Securities through an Underwritten Offering under this subsection 2.2.3 shall
+enter into an underwriting agreement in customary form with the Underwriter(s) selected for such Underwritten Offering by the majority-in-interest
+of the Demanding Holders initiating the Demand Registration, which Underwriter(s) shall be reasonably satisfactory to the Company.
+
+2.2.4 Reduction of Underwritten Offering.
+If the managing Underwriter or Underwriters in an Underwritten Registration, in good faith, advises the Company, the Demanding Holders
+and the Requesting Holders (if any) in writing that the dollar amount or number of Registrable Securities that the Demanding Holders and
+the Requesting Holders (if any) desire to sell, taken together with all other Common Stock or other equity securities that the Company
+desires to sell and the shares of Common Stock, if any, as to which a Registration has been requested pursuant to separate written contractual
+piggy-back registration rights held by any other stockholders who desire to sell, exceeds the maximum dollar amount or maximum number
+of equity securities that can be sold in the Underwritten Offering without adversely affecting the proposed offering price, the timing,
+the distribution method, or the probability of success of such offering (such maximum dollar amount or maximum number of such securities,
+as applicable, the Maximum Number of Securities), then the Company shall include in such Underwritten Offering,
+as follows: (i) first, the Registrable Securities of the Demanding Holders and the Requesting Holders which can be sold without exceeding
+the Maximum Number of Securities (it being understood and agreed that the number of Registrable Securities included in any Registration
+pursuant to this clause (i) shall be calculated on a Pro Rata basis as among the Holders); (ii) second, to the extent that the Maximum
+Number of Securities has not been reached under the foregoing clause (i), any of the Existing Registration Rights Holders exercising their
+right to register their Registrable Securities pursuant to the September 2022 Registration Rights Agreement, (it being understood and
+agreed that the number of Registrable Securities included in any Registration pursuant to this clause (ii) shall be calculated on a Pro
+Rata basis as among the Existing Registration Rights Holders exercising their contractual rights to participate in such Registration);
+(iii) third, to the extent that the Maximum Number of Securities has not been reached under the foregoing clause (i) and (ii), Common
+Stock or other equity securities that the Company desires to sell, which can be sold without exceeding the Maximum Number of Securities;
+and (iv) fourth, to the extent that the Maximum Number of Securities has not been reached under the foregoing clauses (i), (ii) and (iii),
+Common Stock or other equity securities of other persons or entities that the Company is obligated to register in a Registration pursuant
+to separate written contractual arrangements with such persons and that can be sold without exceeding the Maximum Number of Securities.
+
+2.2.5 Demand Registration Withdrawal.
+Any of the Demanding Holders initiating a Demand Registration or any of the Requesting Holders (if any), pursuant to a Registration under
+subsection 2.2.1 shall have the right to withdraw from a Registration pursuant to such Demand Registration or a Shelf Underwritten
+Offering pursuant to subsection 2.1.3 for any or no reason whatsoever upon written notification to the Company and the Underwriter
+or Underwriters (if any) of their intention to withdraw from such Registration at least one (1) business day prior to the effectiveness
+of the Registration Statement filed with the SEC with respect to the Registration of their Registrable Securities pursuant to such Demand
+Registration (or in the case of an Underwritten Registration pursuant to Rule 415, at least five (5) business days prior to the time of
+pricing of the applicable offering). Notwithstanding anything to the contrary in this Agreement, the Company shall be responsible for
+the Registration Expenses incurred in connection with a Registration pursuant to a Demand Registration or a Shelf Underwritten Offering
+prior to its withdrawal under this subsection 2.2.5.
+
+- 7 -
+
+2.3 Piggyback Registration.
+
+2.3.1 Piggyback Rights. If the
+Company proposes to file a Registration Statement under the Securities Act with respect to an offering of equity securities, or securities
+or other obligations exercisable or exchangeable for, or convertible into, equity securities, for its own account or for the account of
+stockholders of the Company (or by the Company and by the stockholders of the Company including, without limitation, pursuant to Section
+2.2 hereof), other than a Registration Statement (i) filed in connection with any employee stock option or other benefit plan, (ii)
+for a rights offering or an exchange offer or offering of securities solely to the Companys existing stockholders, (iii) for an
+offering of debt that is convertible into equity securities of the Company or (iv) for a dividend reinvestment plan, then the Company
+shall give written notice of such proposed filing to all of the Holders of Registrable Securities as soon as practicable but not less
+than ten (10) days before the anticipated filing date of such Registration Statement, which notice shall (A) describe the amount and type
+of securities to be included in such offering, the intended method(s) of distribution, and the name of the proposed managing Underwriter
+or Underwriters, if any, in such offering, and (B) offer to all of the Holders of Registrable Securities the opportunity to register the
+sale of such number of Registrable Securities as such Holders may request in writing within five (5) days after receipt of such written
+notice (such Registration a Piggyback Registration). The Company shall, in good faith, cause such Registrable
+Securities to be included in such Piggyback Registration and shall use its best efforts to cause the managing Underwriter or Underwriters
+of a proposed Underwritten Offering to permit the Registrable Securities requested by the Holders pursuant to this subsection 2.3.1
+to be included in a Piggyback Registration on the same terms and conditions as any similar securities of the Company included in such
+Registration and to permit the sale or other disposition of such Registrable Securities in accordance with the intended method(s) of distribution
+thereof. All such Holders proposing to distribute their Registrable Securities through an Underwritten Offering under this subsection
+2.3.1 shall enter into an underwriting agreement in customary form with the Underwriter(s) selected for such Underwritten Offering
+by the Company.
+
+2.3.2 Reduction of Piggyback Registration.
+If the managing Underwriter or Underwriters in an Underwritten Registration that is to be a Piggyback Registration, in good faith, advises
+the Company and the Holders of Registrable Securities participating in the Piggyback Registration in writing that the dollar amount or
+number of shares of Common Stock that the Company desires to sell, taken together with (i) the shares of Common Stock, if any, as to which
+Registration has been demanded pursuant to separate written contractual arrangements with persons or entities other than the Holders of
+Registrable Securities hereunder (ii) the Registrable Securities as to which registration has been requested pursuant to Section 2.3
+hereof, and (iii) the shares of Common Stock, if any, as to which Registration has been requested pursuant to separate written contractual
+piggy-back registration rights of other stockholders of the Company, exceeds the Maximum Number of Securities, then:
+
+(a) If the Registration is undertaken for
+the Companys account, the Company shall include in any such Registration (A) first, the shares of Common Stock or other equity
+securities that the Company desires to sell, which can be sold without exceeding the Maximum Number of Securities; (B) second, to the
+extent that the Maximum Number of Securities has not been reached under the foregoing clause (A), the Registrable Securities of (i) Holders
+exercising their rights to register their Registrable Securities pursuant to subsection 2.3.1 hereof and (ii) the Existing Registration
+Rights Holders exercising their right to register their Registrable Securities pursuant to the September 2022 Registration Rights Agreement,
+in each case, which can be sold without exceeding the Maximum Number of Securities (it being understood and agreed that the number of
+Registrable Securities included in any Registration pursuant to this clause (B) shall be calculated on a Pro Rata basis as among the Holders
+and the Existing Registration Rights Holders who are exercising their contractual rights to participate in such Registration); and (C)
+third, to the extent that the Maximum Number of Securities has not been reached under the foregoing clauses (A) and (B), the shares of
+Common Stock, if any, as to which Registration has been requested or demanded pursuant to written contractual piggy-back registration
+rights of other stockholders of the Company, which can be sold without exceeding the Maximum Number of Securities;
+
+- 8 -
+
+(b) If the Registration is pursuant to
+a request by persons or entities other than the Holders of Registrable Securities, then the Company shall include in any such Registration
+(A) first, the shares of Common Stock or other equity securities, if any, of such requesting persons or entities, other than the Holders
+of Registrable Securities, which can be sold without exceeding the Maximum Number of Securities; (B) second, to the extent that the Maximum
+Number of Securities has not been reached under the foregoing clause (A), the Registrable Securities of Holders exercising their rights
+to register their Registrable Securities pursuant to subsection 2.3.1, Pro Rata, which can be sold without exceeding the Maximum
+Number of Securities; (C) third, to the extent that the Maximum Number of Securities has not been reached under the foregoing clauses
+(A) and (B), the shares of Common Stock or other equity securities that the Company desires to sell, which can be sold without exceeding
+the Maximum Number of Securities; and (D) fourth, to the extent that the Maximum Number of Securities has not been reached under the foregoing
+clauses (A), (B) and (C), the shares of Common Stock or other equity securities for the account of other persons or entities that the
+Company is obligated to register pursuant to separate written contractual arrangements with such persons or entities, which can be sold
+without exceeding the Maximum Number of Securities.
+
+2.3.3 Piggyback Registration Withdrawal.
+Any Holder of Registrable Securities shall have the right to withdraw from a Piggyback Registration for any or no reason whatsoever upon
+written notification to the Company and the Underwriter or Underwriters (if any) of his, her or its intention to withdraw from such Piggyback
+Registration prior to the effectiveness of the Registration Statement filed with the SEC with respect to such Piggyback Registration (or
+in the case of an Underwritten Registration pursuant to Rule 415, at least five (5) business days prior to the time of pricing of the
+applicable offering). The Company (whether on its own good faith determination or as the result of a request for withdrawal by persons
+pursuant to separate written contractual obligations) may withdraw a Registration Statement filed with the SEC in connection with a Piggyback
+Registration at any time prior to the effectiveness of such Registration Statement. Notwithstanding anything to the contrary in this Agreement,
+the Company shall be responsible for the Registration Expenses incurred in connection with the Piggyback Registration prior to its withdrawal
+under this subsection 2.3.3.
+
+2.3.4 Unlimited Piggyback Registration
+Rights. For purposes of clarity, any Registration effected pursuant to Section 2.3 hereof shall not be counted as a Registration
+pursuant to a Demand Registration effected under Section 2.2 hereof or a Shelf Underwritten Offering effected under subsection
+2.1.3.
+
+2.4 Restrictions on Registration Rights.
+If (A) during the period starting with the date sixty (60) days prior to the Companys good faith estimate of the date of the filing
+of, and ending on a date ninety (90) days after the effective date of, a Company initiated Registration and provided that the Company
+has delivered written notice to the Holders prior to receipt of a Shelf Underwritten Offering pursuant to subsection 2.1.3 or a
+Demand Registration pursuant to subsection 2.2.1 and it continues to actively employ, in good faith, all reasonable efforts to
+cause the applicable Registration Statement to become effective; (B) the Holders have requested a Shelf Underwritten Offering or an Underwritten
+Registration, as applicable, and the Company and the Holders are unable to obtain the commitment of underwriters to firmly underwrite
+the offer; or (C) in the good faith judgment of the Board such Shelf Underwritten Offering or Registration would be materially detrimental
+to the Company and the Board concludes as a result that it is essential to defer such Shelf Underwritten Offering or the filing of such
+Registration Statement at such time, as applicable, then in each case the Company shall furnish to such Holders a certificate signed by
+the Chairman of the Board or the Chief Executive Officer stating that, in the good faith judgment of the Board, it would be materially
+detrimental to the Company for such Shelf Underwritten Offering to be commenced or such Registration Statement to be filed, as applicable,
+in the near future and that it is therefore essential to defer such Shelf Underwritten Offering or the filing of such Registration Statement,
+as applicable. In such event, the Company shall have the right to defer such offering or filing for a period of not more than sixty (60)
+days; provided, however, that the Company shall not defer its obligation in this manner more than twice in any 12-month
+period, or for an aggregate period of more than ninety (90) days in any twelve month period (the Aggregate Blocking Period).
+
+- 9 -
+
+2.5 Block Trades. Notwithstanding any other
+provision of this Article II, but subject to Sections 2.4 and 3.4, if the Holders desire to effect a Block Trade, the Holders
+shall provide written notice to the Company at least five (5) business days prior to the date such Block Trade will commence. As expeditiously
+as possible, the Company shall use its reasonable best efforts to facilitate such Block Trade. The Holders shall use reasonable best efforts
+to work with the Company and the Underwriter(s) (including by disclosing the maximum number of Registrable Securities proposed to be the
+subject of such Block Trade) in order to facilitate preparation of the Registration Statement, Prospectus and other offering documentation
+related to the Block Trade and any related due diligence and comfort procedures.
+
+2.6 Rule 415; Removal. If at any time the
+SEC takes the position that the offering of some or all of the Registrable Securities in a Registration Statement on Form S-3 filed pursuant
+to this Article II is not eligible to be made on a delayed or continuous basis under the provisions of Rule 415 under the Securities
+Act (provided, however, the Company shall be obligated to use diligent efforts to advocate with the SEC for the registration of all of
+the Registrable Securities in accordance with the SEC Guidance, including without limitation, Compliance and Disclosure Interpretation
+612.09) or requires a Holder to be named as an underwriter, the Company shall (i) promptly notify each holder of Registrable
+Securities thereof (or in the case of the SEC requiring a Holder to be named as an underwriter, the applicable Holders)
+and (ii) use reasonable best efforts to persuade the SEC that the offering contemplated by such Registration Statement is a valid secondary
+offering and not an offering by or on behalf of the issuer as defined in Rule 415 and that none of the applicable Holders
+is an underwriter. The Holders shall have the right to select one legal counsel designated by the holders of a majority
+of the Registrable Securities held by the Holders, and subject to such Registration Statement, each such legal counsel shall have the
+review and oversee any registration or matters pursuant to this Section 2.6, including participation in any meetings or discussions
+with the SEC regarding the SECs position and to comment on any written submission made to the SEC with respect thereto. No such
+written submission with respect to this matter shall be made to the SEC to which the applicable set of Holders counsel reasonably
+objects. In the event that, despite the Companys reasonable best efforts and compliance with the terms of this Section 2.6,
+the SEC refuses to alter its position, the Company shall, at the applicable Holder(s) option, (i) remove from such Registration
+Statement such portion of the Registrable Securities (the Removed Shares) and/or (ii) agree to such restrictions
+and limitations on the registration and resale of the Registrable Securities as the SEC may require to assure the Companys compliance
+with the requirements of Rule 415; provided, however, that the Company shall only be required to include such Holders
+Registrable Securities in the Registration Statement if the Holder agrees to be named as an underwriter in such Registration
+Statement. In the event of a share removal pursuant to this Section 2.6, the Company shall give the applicable Holders at least
+five (5) days prior written notice along with the calculations as to such Holders allotment. Any removal of shares of the applicable
+Holders (who, for the avoidance of doubt, shall solely consist of those Holders the SEC is requiring to be named as an underwriter)
+pursuant to this Section 2.6 shall be allocated between the applicable Holders on a pro rata basis based on the aggregate amount
+of Registrable Securities held by such applicable Holders. In the event of a share removal of some or all Holders pursuant to this Section
+2.6, the Company shall promptly register the resale of any Removed Shares pursuant to subsection 2.1.2 hereof and in no event
+shall the filing of such Registration Statement on Form S-1 or subsequent Registration Statement on Form S-3 filed pursuant to the terms
+of subsection 2.1.2 be counted as a Demand Registration hereunder. Until such time as the Company has registered all of the Removed
+Shares for resale pursuant to Rule 415 on an effective Registration Statement, the Company shall not be able to defer the filing of a
+Registration Statement pursuant to Section 2.4 hereof.
+
+ARTICLE III 
+
+CERTAIN PROCEDURES
+
+3.1 General Procedures. If the Company is
+required to effect the Registration of Registrable Securities, the Company shall use its best efforts to effect such Registration to permit
+the sale of such Registrable Securities in accordance with the intended plan of distribution thereof, and pursuant thereto the Company
+shall, as expeditiously as possible:
+
+3.1.1 prepare and file with the SEC as
+soon as practicable a Registration Statement with respect to such Registrable Securities and use its reasonable best efforts to cause
+such Registration Statement to become effective and remain effective until all Registrable Securities covered by such Registration Statement
+have been sold;
+
+- 10 -
+
+3.1.2 prepare and file with the SEC such
+amendments and post-effective amendments to the Registration Statement, and such supplements to the Prospectus, as may be reasonably requested
+by any Holder with Registrable Securities registered on such Registration Statement or any Underwriter of Registrable Securities or as
+may be required by the rules, regulations or instructions applicable to the registration form used by the Company or by the Securities
+Act or rules and regulations thereunder to keep the Registration Statement effective until all Registrable Securities covered by such
+Registration Statement are sold in accordance with the intended plan of distribution set forth in such Registration Statement or supplement
+to the Prospectus;
+
+3.1.3 prior to filing a Registration
+Statement or Prospectus, or any amendment or supplement thereto, furnish without charge to the Underwriters, if any, and each Holder of
+Registrable Securities included in such Registration, and each such Holders legal counsel, copies of such Registration Statement
+as proposed to be filed, each amendment and supplement to such Registration Statement (in each case including all exhibits thereto and
+documents incorporated by reference therein), the Prospectus included in such Registration Statement (including each preliminary Prospectus),
+and such other documents as the Underwriters and each Holder of Registrable Securities included in such Registration or the legal counsel
+for any such Holders may request in order to facilitate the disposition of the Registrable Securities owned by such Holders;
+
+3.1.4 prior to any public offering of
+Registrable Securities, use its reasonable best efforts to (i) register or qualify the Registrable Securities covered by the Registration
+Statement under such securities or blue sky laws of such jurisdictions in the United States as any Holder of Registrable
+Securities included in such Registration Statement (in light of their intended plan of distribution) may request and (ii) take such action
+necessary to cause such Registrable Securities covered by the Registration Statement to be registered with or approved by such other governmental
+authorities as may be necessary by virtue of the business and operations of the Company and do any and all other acts and things that
+may be necessary or advisable to enable the Holders of Registrable Securities included in such Registration Statement to consummate the
+disposition of such Registrable Securities in such jurisdictions; provided, however, that the Company shall not be required
+to qualify generally to do business in any jurisdiction where it would not otherwise be required to qualify or take any action to which
+it would be subject to general service of process or taxation in any such jurisdiction where it is not then otherwise so subject;
+
+3.1.5 cause all such Registrable Securities
+to be listed on each securities exchange or automated quotation system on which similar securities issued by the Company are then listed;
+
+3.1.6 provide a transfer agent or warrant
+agent, as applicable, and registrar for all such Registrable Securities no later than the effective date of such Registration Statement;
+
+3.1.7 advise each seller of such Registrable
+Securities, promptly after it shall receive notice or obtain knowledge thereof, of the issuance of any stop order by the SEC suspending
+the effectiveness of such Registration Statement or the initiation or threatening of any proceeding for such purpose and promptly use
+its reasonable best efforts to prevent the issuance of any stop order or to obtain its withdrawal if such stop order should be issued;
+
+3.1.8 at least five (5) days prior to
+the filing of any Registration Statement or Prospectus or any amendment or supplement to such Registration Statement or Prospectus, furnish
+a copy thereof to each seller of such Registrable Securities and its counsel, including, without limitation, providing copies promptly
+upon receipt of any comment letters received with respect to any such Registration Statement or Prospectus;
+
+- 11 -
+
+3.1.9 notify the Holders at any time
+when a Prospectus relating to such Registration Statement is required to be delivered under the Securities Act, of the happening of any
+event as a result of which the Prospectus included in such Registration Statement, as then in effect, includes a Misstatement, and then
+to correct such Misstatement as set forth in Section 3.4 hereof;
+
+3.1.10 permit a representative of the
+Holders (such representative to be selected by a majority of the participating Holders), the Underwriter(s), if any, and any attorney(s)
+or accountant(s) retained by such Holders or Underwriter(s) to participate, at each such persons own expense, in the preparation
+of the Registration Statement, and cause the Companys officers, directors and employees to supply all information reasonably requested
+by any such representative(s), Underwriter, attorney(s) or accountant(s) in connection with the Registration; provided, however,
+that such representative(s) or Underwriter enters into a confidentiality agreement, in form and substance reasonably satisfactory to the
+Company, prior to the release or disclosure of any such information; and provided further, the Company may not include the name
+of any Holder or Underwriter or any information regarding any Holder or Underwriter in any Registration Statement or Prospectus, any amendment
+or supplement to such Registration Statement or Prospectus, any document that is to be incorporated by reference into such Registration
+Statement or Prospectus, or any response to any comment letter, without the prior written consent of such Holder or Underwriter and providing
+each such Holder or Underwriter a reasonable amount of time to review and comment on such applicable document, which comments the Company
+shall include unless contrary to applicable law;
+
+3.1.11 obtain a comfort
+letter from the Companys independent registered public accountants in the event of an Underwritten Registration, in customary form
+and covering such matters of the type customarily covered by comfort letters as the managing Underwriter(s) may reasonably
+request, and reasonably satisfactory to a majority-in-interest of the participating Holders;
+
+3.1.12 on the date the Registrable Securities
+are delivered for sale pursuant to such Registration, obtain an opinion and a negative assurance letter, each dated such date, of counsel
+representing the Company for the purposes of such Registration, addressed to the Holders, the placement agent or sales agent, if any,
+and the Underwriter(s), if any, covering such legal matters with respect to the Registration in respect of which such opinion is being
+given as the Underwriter(s), placement agent(s) or sales agent(s) may reasonably request and as are customarily included in such opinions
+and negative assurance letters, and reasonably satisfactory to a majority in interest of the participating Holders;
+
+3.1.13 in the event of any Underwritten
+Offering, enter into and perform its obligations under an underwriting agreement, in usual and customary form, with the managing Underwriter
+of such offering;
+
+3.1.14 make available to its security
+holders, as soon as reasonably practicable, an earnings statement covering the period of at least twelve (12) months beginning with the
+first day of the Companys first full calendar quarter after the effective date of the Registration Statement which satisfies the
+provisions of Section 11(a) of the Securities Act and Rule 158 thereunder (or any successor rule promulgated thereafter by the
+SEC);
+
+3.1.15 if the Registration involves the
+Registration of Registrable Securities involving gross proceeds in excess of $50,000,000, use its reasonable efforts to make available
+senior executives of the Company to participate in customary road show presentations that may be reasonably requested by
+the Underwriter(s) in any Underwritten Offering; and
+
+3.1.16 otherwise, in good faith, cooperate
+reasonably with, and take such customary actions as may reasonably be requested by the Holders, in connection with such Registration.
+
+3.2 Registration Expenses. Except as otherwise
+provided herein, the Registration Expenses of all Registrations shall be borne by the Company. It is acknowledged by the Holders that
+the Holders shall bear all incremental selling expenses relating to the sale of Registrable Securities, such as Underwriters commissions
+and discounts, brokerage fees, Underwriter marketing costs and, other than as set forth in the definition of Registration Expenses,
+all reasonable fees and expenses of any legal counsel representing the Holders.
+
+- 12 -
+
+3.3 Requirements for Participation in Underwritten
+Offerings. No person may participate in any Underwritten Offering for equity securities of the Company pursuant to a Registration
+initiated by the Company hereunder unless such person (i) agrees to sell such persons securities on the basis provided in any underwriting
+arrangements approved by the Company and (ii) completes and executes all customary questionnaires, powers of attorney, indemnities, lock-up
+agreements, underwriting agreements and other customary documents as may be reasonably required under the terms of such underwriting arrangements.
+
+3.4 Suspension of Sales; Adverse Disclosure.
+Upon receipt of written notice from the Company that a Registration Statement or Prospectus contains a Misstatement, each of the Holders
+shall forthwith discontinue disposition of Registrable Securities until it has received copies of a supplemented or amended Prospectus
+correcting the Misstatement (it being understood that the Company hereby covenants to prepare and file such supplement or amendment as
+soon as practicable after the time of such notice), or until it is advised in writing by the Company that the use of the Prospectus may
+be resumed. If the filing, initial effectiveness or continued use of a Registration Statement in respect of any Registration at any time
+would require the Company to make an Adverse Disclosure or would require the inclusion in such Registration Statement of financial statements
+that are unavailable to the Company for reasons beyond the Companys control, the Company may, upon giving prompt written notice
+of such action to the Holders, delay the filing or initial effectiveness of, or suspend use of, such Registration Statement for the shortest
+period of time, but in no event more than forty-five (45) days, determined in good faith by the Company to be necessary for such purpose.
+In the event the Company exercises its rights under the preceding sentence, the Holders agree to suspend, immediately upon their receipt
+of the notice referred to above, their use of the Prospectus relating to any Registration in connection with any sale or offer to sell
+Registrable Securities. The Company shall immediately notify the Holders of the expiration of any period during which it exercised its
+rights under this Section 3.4.
+
+3.5 Reporting Obligations; Legend Removal.
+
+3.5.1 As
+long as any Holder shall own Registrable Securities, the Company, at all times while it shall be a reporting company under the Exchange
+Act, covenants to file timely (or obtain extensions in respect thereof and file within the applicable grace period) all reports required
+to be filed by the Company after the date hereof pursuant to Sections 13(a) or 15(d) of the Exchange Act. The Company further
+covenants that it shall take such further action as any Holder may reasonably request, all to the extent required from time to time to
+enable such Holder to sell the shares of Common Stock held by such Holder without registration under the Securities Act within the limitation
+of the exemptions provided by Rule 144, including providing any legal opinions. Upon the request of any Holder, the Company shall deliver
+to such Holder a written statement as to whether it has complied with such requirements and, if not, the specifics thereof.
+
+3.5.2 Upon
+request of a Holder, the Company shall promptly cause any legend affixed to any Registrable Securities to be removed from any certificate
+for any Registrable Securities to the extent that such legend is no longer required under the Securities Act and applicable state laws,
+including by providing any opinion of counsel that may be required by the transfer agent to effect such removal.
+
+3.6 Limitations on Registration Rights.
+Notwithstanding any other provision herein to the contrary, no Holder may exercise any of its rights under Article II at any time
+when such Holder beneficially owns less than 2% of the outstanding shares of Common Stock calculated on a Fully Diluted Basis.
+
+ARTICLE IV 
+
+INDEMNIFICATION AND CONTRIBUTION
+
+4.1 Indemnification.
+
+4.1.1 The Company agrees to indemnify,
+to the extent permitted by law, each Holder of Registrable Securities, its officers and directors and each person who controls such Holder
+(within the meaning of the Securities Act) against all losses, claims, damages, liabilities and expenses (including attorneys fees)
+caused by any untrue or alleged untrue statement of material fact contained in any Registration Statement, Prospectus or preliminary Prospectus
+or any amendment thereof or supplement thereto or any omission or alleged omission of a material fact required to be stated therein or
+necessary to make the statements therein not misleading, except insofar as the same are caused by or contained in any information furnished
+in writing to the Company by such Holder expressly for use therein. The Company shall indemnify the Underwriters, their officers and directors
+and each person who controls such Underwriters (within the meaning of the Securities Act) to the same extent as provided in the foregoing
+with respect to the indemnification of the Holder.
+
+- 13 -
+
+4.1.2 In connection with any Registration
+Statement in which a Holder of Registrable Securities is participating, such Holder shall furnish to the Company in writing such information
+and affidavits as the Company reasonably requests for use in connection with any such Registration Statement or Prospectus and, to the
+extent permitted by law, shall indemnify the Company, its directors and officers and agents and each person who controls the Company (within
+the meaning of the Securities Act) against any losses, claims, damages, liabilities and expenses (including without limitation reasonable
+attorneys fees) resulting from any untrue statement of material fact contained in the Registration Statement, Prospectus or preliminary
+Prospectus or any amendment thereof or supplement thereto or any omission of a material fact required to be stated therein or necessary
+to make the statements therein not misleading, but only to the extent that such untrue statement or omission is contained in any information
+or affidavit so furnished in writing by such Holder expressly for use therein; provided, however, that the obligation to
+indemnify shall be several, not joint and several, among such Holders of Registrable Securities, and the liability of each such Holder
+of Registrable Securities shall be in proportion to and limited to the net proceeds received by such Holder from the sale of Registrable
+Securities pursuant to such Registration Statement. The Holders of Registrable Securities shall indemnify the Underwriters, their officers,
+directors and each person who controls such Underwriters (within the meaning of the Securities Act) to the same extent as provided in
+the foregoing with respect to indemnification of the Company.
+
+4.1.3 Any person entitled to indemnification
+herein shall (i) give prompt written notice to the indemnifying party of any claim with respect to which it seeks indemnification (provided
+that the failure to give prompt notice shall not impair any persons right to indemnification hereunder to the extent such failure
+has not materially prejudiced the indemnifying party) and (ii) permit such indemnifying party to assume the defense of such claim with
+counsel reasonably satisfactory to the indemnified party if the indemnifying party provides notice of such to the indemnified party within
+30 days of the indemnifying partys receipt of notice of such claim. After notice from the indemnifying party to the indemnified
+party of its election to assume the defense, the indemnifying party will not be liable to the indemnified party for any other legal expenses
+except as provided below and except for the reasonable costs of investigation subsequently incurred by the indemnified party in connection
+with the defense. The indemnified party will have the right to employ its own counsel in any such action, but the fees, expenses and other
+charges of such counsel will be at the expense of such indemnified party unless (1) the employment of counsel by the indemnified party
+has been authorized in writing by the indemnifying party, (2) the indemnified party has reasonably concluded (based on advice of counsel)
+that there may be legal defenses available to it or other indemnified parties that are different from or in addition to those available
+to the indemnifying party, (3) a conflict or potential conflict exists (based on advice of counsel to the indemnified party) between the
+indemnified party and the indemnifying party (in which case the indemnifying party will not have the right to direct the defense of such
+action on behalf of the indemnified party) or (4) the indemnifying party has not in fact employed counsel to assume the defense of such
+action or counsel reasonably satisfactory to the indemnified party, in each case, within a reasonable time after receiving notice of the
+commencement of the action; in each of which cases the reasonable fees, disbursements and other charges of counsel will be at the expense
+of the indemnifying party or parties. It is understood that the indemnifying party or parties shall not, in connection with any proceeding
+or related proceedings in the same jurisdiction, be liable for the reasonable fees, disbursements and other charges of more than one separate
+firm admitted to practice in such jurisdiction (plus local counsel) at any one time for all such indemnified party or parties. If such
+defense is assumed, the indemnifying party shall not be subject to any liability for any settlement made by the indemnified party without
+its consent (but such consent shall not be unreasonably withheld). No indemnifying party shall, without the consent of the indemnified
+party, settle or compromise or consent to the entry of any judgment in any pending or threatened claim, action or proceeding relating
+to the matters contemplated by this Section 4 (whether or not any indemnified party is a party thereto), unless such settlement, compromise
+or consent (1) includes an express and unconditional release of each indemnified party, in form and substance reasonably satisfactory
+to such indemnified party, from all liability arising out of such litigation, investigation, proceeding or claim and (2) does not include
+a statement as to or an admission of fault, culpability or a failure to act by or on behalf of any indemnified party.
+
+- 14 -
+
+4.1.4 The indemnification provided for
+under this Agreement shall remain in full force and effect regardless of any investigation made by or on behalf of the indemnified party
+or any officer, director or controlling person of such indemnified party and shall survive the transfer of securities. The Company and
+each Holder of Registrable Securities participating in an offering also agrees to make such provisions as are reasonably requested by
+any indemnified party for contribution to such party in the event the Companys or such Holders indemnification is unavailable
+for any reason.
+
+4.1.5 If the indemnification provided
+under Section 4.1 hereof from the indemnifying party is unavailable or insufficient to hold harmless an indemnified party in respect
+of any losses, claims, damages, liabilities and expenses referred to herein, then the indemnifying party, in lieu of indemnifying the
+indemnified party, shall contribute to the amount paid or payable by the indemnified party as a result of such losses, claims, damages,
+liabilities and expenses in such proportion as is appropriate to reflect the relative fault of the indemnifying party and the indemnified
+party, as well as any other relevant equitable considerations. The relative fault of the indemnifying party and indemnified party shall
+be determined by reference to, among other things, whether any action in question, including any untrue or alleged untrue statement of
+a material fact or omission or alleged omission to state a material fact, was made by, or relates to information supplied by, such indemnifying
+party or indemnified party, and the indemnifying partys and indemnified partys relative intent, knowledge, access to information
+and opportunity to correct or prevent such action; provided, however, that the liability of any Holder under this subsection
+4.1.5 shall be limited to the amount of the net proceeds received by such Holder in such offering giving rise to such liability. The
+amount paid or payable by a party as a result of the losses or other liabilities referred to above shall be deemed to include, subject
+to the limitations set forth in subsections 4.1.1, 4.1.2 and 4.1.3 above, any legal or other fees, charges or expenses
+reasonably incurred by such party in connection with any investigation or proceeding. The parties hereto agree that it would not be just
+and equitable if contribution pursuant to this subsection 4.1.5 were determined by pro rata allocation or by any other method of
+allocation, which does not take account of the equitable considerations referred to in this subsection 4.1.5. No person guilty
+of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution pursuant
+to this subsection 4.1.5 from any person who was not guilty of such fraudulent misrepresentation.
+
+ARTICLE V 
+
+MISCELLANEOUS
+
+5.1 Notices. Any notice or communication
+under this Agreement must be in writing and given by (i) deposit in the United States mail, addressed to the party to be notified, postage
+prepaid and registered or certified with return receipt requested, (ii) delivery in person or by courier service providing evidence of
+delivery, or (iii) transmission by hand delivery, electronic mail or facsimile. Each notice or communication that is mailed, delivered,
+or transmitted in the manner described above shall be deemed sufficiently given, served, sent, and received, in the case of mailed notices,
+on the third business day following the date on which it is mailed and, in the case of notices delivered by courier service, hand delivery,
+electronic mail or facsimile, at such time as it is delivered to the addressee (with the delivery receipt or the affidavit of messenger)
+or at such time as delivery is refused by the addressee upon presentation. Any notice or communication under this Agreement must be addressed,
+if to the Company, 444 Gulf of Mexico Dr., Longboat Key, FL 34228, Attention: Chief Financial Officer, and, if to any Holder, at such
+Holders address or contact information as set forth in the Companys books and records. Any party may change its address
+for notice at any time and from time to time by written notice to the other parties hereto, and such change of address shall become effective
+thirty (30) days after delivery of such notice as provided in this Section 5.1.
+
+- 15 -
+
+5.2 Assignment; No Third Party Beneficiaries.
+
+5.2.1 This Agreement and the rights,
+duties and obligations of the Company and the Holders of Registrable Securities, as the case may be, hereunder may not be assigned or
+delegated by the Company or the Holders of Registrable Securities, as the case may be, in whole or in part, except in connection with
+a transfer of Registrable Securities by such Holder to a Permitted Transferee but only if such Permitted Transferee agrees to become bound
+by the transfer restrictions set forth in this Agreement, provided that any Holder may assign its rights hereunder to an affiliate of
+such Holder.
+
+5.2.2 This Agreement and the provisions
+hereof shall be binding upon and shall inure to the benefit of each of the parties and its successors and the permitted assigns of the
+Holders, which shall include Permitted Transferees.
+
+5.2.3 This Agreement shall not confer
+any rights or benefits on any persons that are not parties hereto, other than as expressly set forth in this Agreement, including Section
+4.1 and Section 5.2 hereof.
+
+5.2.4 No assignment by any party hereto
+of such partys rights, duties and obligations hereunder shall be binding upon or obligate the Company unless and until the Company
+shall have received (i) written notice of such assignment as provided in Section 5.1 hereof and (ii) the written agreement of the
+assignee, in a form reasonably satisfactory to the Company, to be bound by the terms and provisions of this Agreement (which may be accomplished
+by an addendum or certificate of joinder to this Agreement). Any transfer or assignment made other than as provided in this Section
+5.2 shall be null and void.
+
+5.3 Counterparts. This Agreement may be
+executed in multiple counterparts (including facsimile or PDF counterparts), each of which shall be deemed an original, and all of which
+together shall constitute the same instrument, but only one of which need be produced.
+
+5.4 Governing Law; Venue. NOTWITHSTANDING
+THE PLACE WHERE THIS AGREEMENT MAY BE EXECUTED BY ANY OF THE PARTIES HERETO, THE PARTIES EXPRESSLY AGREE THAT (I) THIS AGREEMENT SHALL
+BE GOVERNED BY AND CONSTRUED UNDER THE LAWS OF THE STATE OF NEW YORK AS APPLIED TO AGREEMENTS AMONG NEW YORK RESIDENTS ENTERED INTO AND
+TO BE PERFORMED ENTIRELY WITHIN NEW YORK, WITHOUT REGARD TO THE CONFLICT OF LAW PROVISIONS OF SUCH JURISDICTION AND (II) THE VENUE FOR
+ANY ACTION TAKEN WITH RESPECT TO THIS AGREEMENT SHALL BE ANY STATE OR FEDERAL COURT IN NEW YORK COUNTY IN THE STATE OF NEW YORK.
+
+5.5 Amendments and Modifications. Upon the
+written consent of the Company and the Holders of at least a majority in interest of the Registrable Securities at the time in question,
+compliance with any of the provisions, covenants and conditions set forth in this Agreement may be waived, or any of such provisions,
+covenants or conditions may be amended or modified; provided, however, that notwithstanding the foregoing, any amendment
+hereto or waiver hereof that adversely affects one Holder or group of affiliated Holders, solely in its capacity as a holder of the shares
+of capital stock of the Company, in a manner that is materially different from the other Holders (in such capacity) shall require the
+consent of the Holder or group of affiliated Holders so affected. No course of dealing between any Holder or the Company and any other
+party hereto or any failure or delay on the part of a Holder or the Company in exercising any rights or remedies under this Agreement
+shall operate as a waiver of any rights or remedies of any Holder or the Company. No single or partial exercise of any rights or remedies
+under this Agreement by a party shall operate as a waiver or preclude the exercise of any other rights or remedies hereunder or thereunder
+by such party.
+
+5.7 Term. This Agreement shall terminate
+upon the date as of which (A) all of the Registrable Securities have been sold pursuant to a Registration Statement (but in no event prior
+to the applicable period referred to in Section 4(a)(3) of the Securities Act and Rule 174 thereunder (or any successor rule promulgated
+thereafter by the SEC)) or (B) with respect to any Holder, such Holder ceasing to hold Registrable Securities.
+
+[Signature Page Follows]
+
+- 16 -
+
+IN WITNESS WHEREOF, the undersigned have
+caused this Registration Rights Agreement to be executed as of the date first written above.
+
+COMPANY:
+
+RUMBLE INC. 
+
+By: /s/ Christopher
+Pavlovski 
+
+Name: Christopher Pavlovski
+
+Title: Chief Executive Officer 
+
+[Signature Page to Registration Rights Agreement]
+
+IN WITNESS WHEREOF,
+the undersigned have caused this Registration Rights Agreement to be executed as of the date first written above.
+
+INVESTOR:
+
+TETHER
+INVESTMENTS S.A. DE C.V. (AS SUCCESSOR IN INTEREST TO TETHER INVESTMENTS LIMITED)
+
+By: /s/ Giancarlo
+Devasini
+
+Name: Giancarlo Devasini 
+
+Title: Sole Administrator 
+
+[Signature Page to Registration Rights Agreement]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>ea023027801ex99-1_rumble.htm
+<DESCRIPTION>PRESS RELEASE, DATED FEBRUARY 7, 2025
+<TEXT>
+Exhibit 99.1
+
+Rumble Closes $775 Million Strategic Investment
+from Tether and Related Tender Offer
+
+LONGBOAT KEY, Fla., Feb. 7, 2025 -- Rumble (NASDAQ:
+RUM) (Rumble or the Company), the video-sharing platform and cloud services provider, today announced the
+Company has closed its strategic investment of $775 million from Tether ($USDT) (Tether), the largest company in the digital
+assets industry and the most widely used dollar stablecoin across the world with more than 400 million users. Over the last few years,
+Tether has become one of the most recognized symbols for financial inclusion.
+
+Final Transaction Details:
+
+As part of the transaction Tether purchased 103,333,333
+shares of Rumble Class A Common Stock at a price per share of $7.50, totaling $775 million in gross proceeds to Rumble. The Company will
+use $250 million of the proceeds, after transaction expenses, to support growth initiatives.
+
+As part of the closing of the transaction, the
+Company has successfully completed the previously announced tender offer to purchase up to 70,000,000 shares of its Class A common stock.
+The tender offer expired at 5:00 p.m., Eastern Time, on February 4, 2025.
+
+As of the expiration, 70,061,168 shares had been
+validly and successfully tendered and not properly withdrawn from the tender offer. Rumble subsequently accepted 70,000,000 shares for
+purchase, on a pro-rata basis, except for tenders of odd lots, which have been accepted in full, for a total of $525 million, excluding
+fees and expenses related to the tender offer. The depositary will promptly pay for the shares accepted for purchase and will return all
+other shares tendered and not purchased.
+
+Rumbles existing Board and governance structure,
+including Chris Pavlovskis super-majority voting control, remains unchanged.
+
+Advisors
+
+Cantor Fitzgerald & Co. acted as dealer manager
+for Rumble. Oppenheimer & Co. served as capital markets advisor to Rumble, and Willkie Farr & Gallagher LLP served as legal counsel
+to Rumble. McDermott Will & Emery LLP served as legal counsel to Tether. DLA Piper LLP (US) served as legal counsel to Cantor Fitzgerald
+& Co.
+
+ABOUT RUMBLE
+
+Rumble is a high-growth video platform and cloud
+services provider that is creating an independent infrastructure. Rumbles mission is to restore the internet to its roots by making
+it free and open once again. For more information, visit: corp.rumble.com.
+
+ABOUT TETHER
+
+Tether is a pioneer in the field of stablecoin
+technology, driven by an aim to revolutionize the global financial landscape. With a mission to provide accessible and efficient financial,
+communication, artificial intelligence, and energy infrastructure. Tether enables greater financial inclusion, and communication resilience,
+fosters economic growth, and empowers individuals and businesses alike.
+
+As the creator of the largest, most transparent,
+and liquid stablecoin in the industry, Tether is dedicated to building sustainable and resilient infrastructure for the benefit of underserved
+communities. By leveraging cutting-edge blockchain and peer-to-peer technology, it is committed to bridging the gap between traditional
+financial systems and the potential of decentralized finance.
+
+Forward-Looking Statements
+
+Certain statements in this press release constitute
+forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995. Statements contained
+in this press release that are not historical facts are forward-looking statements and include, for example, statements regarding our
+expectations or beliefs regarding our proposed transaction with Tether. Certain of these forward-looking statements can be identified
+by using words such as anticipates, believes, intends, estimates, targets,
+expects, endeavors, forecasts, well underway, could, will,
+may, future, likely, on track to deliver, on a trajectory, continues
+to, looks forward to, is primed to, plans, projects, assumes,
+should or other similar expressions. Such forward-looking statements involve known and unknown risks and uncertainties,
+and our actual results could differ materially from future results expressed or implied in these forward-looking statements. The forward-looking
+statements included in this release are based on our current beliefs and expectations of our management as of the date of this release.
+These statements are not guarantees or indicative of future performance. Important assumptions and other important factors that could
+cause actual results to differ materially from those forward-looking statements include the risk that we may be unable to derive additional
+benefits from the relationship with Tether, including increased advertising revenue, cloud revenue, and expansion into cryptocurrency
+payments; the risk that stockholder litigation in connection with the transactions may result in significant costs of defense, indemnification
+and liability; risks inherent with our increasing affiliation with crypto assets, including volatility; as well as regulatory and reputational
+risks; the risks of implementing a new treasury diversification strategy; our ability to grow and manage future growth profitably over
+time, maintain relationships with customers, compete within our industry and retain key employees; the possibility that we may be adversely
+impacted by economic, business, and/or competitive factors; our limited operating history makes it difficult to evaluate our business
+and prospects; our recent and rapid growth may not be indicative of future performance; we may not continue to grow or maintain our active
+user base, and may not be able to achieve or maintain profitability; risks relating to our ability to attract new advertisers, or the
+potential loss of existing advertisers or the reduction of or failure by existing advertisers to maintain or increase their advertising
+budgets; Rumble Cloud, our recently launched cloud services business, may not achieve success and, as a result, our business, financial
+condition and results of operations could be adversely affected; negative media campaigns may adversely impact our financial performance,
+results of operations, and relationships with our business partners, including content creators and advertisers; spam activity, including
+inauthentic and fraudulent user activity, if undetected, may contribute, from time to time, to some amount of overstatement of our performance
+indicators; we collect, store, and process large amounts of user video content and personal information of our users and subscribers and,
+if our security measures are breached, our sites and applications may be perceived as not being secure, traffic and advertisers may curtail
+or stop viewing our content or using our services, our business and operating results could be harmed, and we could face governmental
+investigations and legal claims from users and subscribers; we may fail to comply with applicable privacy laws; we are subject to cybersecurity
+risks and interruptions or failures in our information technology systems and, notwithstanding our efforts to enhance our protection from
+such risks, a cyber incident could occur and result in information theft, data corruption, operational disruption and/or financial loss;
+we may be found to have infringed on the intellectual property of others, which could expose us to substantial losses or restrict our
+operations; we may face liability for hosting a variety of tortious or unlawful materials uploaded by third parties, notwithstanding the
+liability protections of Section 230 of the Communications Decency Act of 1996; we may face negative publicity for removing, or declining
+to remove, certain content, regardless of whether such content violated any law; paid endorsements by our content creators may expose
+us to regulatory risk, liability, and compliance costs, and, as a result, may adversely affect our business, financial condition and results
+of operations; our traffic growth, engagement, and monetization depend upon effective operation within and compatibility with operating
+systems, networks, devices, web browsers and standards, including mobile operating systems, networks, and standards that we do not control;
+our business depends on continued and unimpeded access to our content and services on the internet and, if we or those who engage with
+our content experience disruptions in internet service, or if internet service providers are able to block, degrade or charge for access
+to our content and services, we could incur additional expenses and the loss of traffic and advertisers; we face significant market competition,
+and if we are unable to compete effectively with our competitors for traffic and advertising spend, our business and operating results
+could be harmed; we rely on data from third parties to calculate certain of our performance metrics and real or perceived inaccuracies
+in such metrics may harm our reputation and negatively affect our business; changes to our existing content and services could fail to
+attract traffic and advertisers or fail to generate revenue; we derive the majority of our revenue from advertising and the failure to
+attract new advertisers, the loss of existing advertisers, or the reduction of or failure by existing advertisers to maintain or increase
+their advertising budgets would adversely affect our business; we depend on third-party vendors, including internet service providers,
+advertising networks, and data centers, to provide core services; hosting and delivery costs may increase unexpectedly; we have offered
+and intend to continue to offer incentives, including economic incentives, to content creators to join our platform, and these arrangements
+may involve fixed payment obligations that are not contingent on actual revenue or performance metrics generated by the applicable content
+creator but rather are based on our modeled financial projections for that creator, which if not satisfied may adversely impact our financial
+performance, results of operations and liquidity; we may be unable to develop or maintain effective internal controls; potential diversion
+of managements attention and consumption of resources as a result of acquisitions of other companies and success in integrating
+and otherwise achieving the benefits of recent and potential acquisitions; we may fail to maintain adequate operational and financial
+resources or raise additional capital or generate sufficient cash flows; changes in tax rates, changes in tax treatment of companies engaged
+in e-commerce, the adoption of new tax legislation, or exposure to additional tax liabilities may adversely impact our financial results;
+compliance obligations imposed by new privacy laws, laws regulating social media platforms and online speech in certain jurisdictions
+in which we operate, or industry practices may adversely affect our business; and those additional risks, uncertainties and factors described
+in more detail under the caption Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2023, and
+in our other filings with the Securities and Exchange Commission (the SEC). We do not intend, and, except as required by
+law, we undertake no obligation, to update any of our forward-looking statements after the issuance of this release to reflect any future
+events or circumstances. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking
+statements. Rumble on Social Media Investors and others should note that we announce material financial and operational information to
+our investors using our investor relations website (investors.rumble.com), press releases, SEC filings and public conference calls and
+webcasts. We also intend to use certain social media accounts as a means of disclosing information about us and our services and for complying
+with our disclosure obligations under Regulation FD: the @rumblevideo X (formerly Twitter) account (x.com/rumblevideo), the @gamingonrumble
+X (formerly Twitter) account (x.com/gamingonrumble), the @rumble TRUTH Social account (truthsocial.com/@rumble), the @chrispavlovski X
+(formerly Twitter) account (x.com/chrispavlovski), and the @chris TRUTH Social account (truthsocial.com/@chris), which Chris Pavlovski,
+our Chairman and Chief Executive Officer, also uses as a means for personal communications and observations. The information we post through
+these social media channels may be deemed material. Accordingly, investors should monitor these social media channels in addition to following
+our press releases, SEC filings and public conference calls and webcasts. The social media channels that we intend to use as a means of
+disclosing the information described above may be updated from time to time as listed on our investor relations website.
+
+For investor inquiries, please contact:
+
+Rumble IR
+
+Shannon Devine
+
+MZ Group, MZ North America
+
+203-741-8811
+
+investors@rumble.com
+
+Rumble PR
+
+press@rumble.com
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>4
+<FILENAME>rum-20250207.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>5
+<FILENAME>rum-20250207_def.xml
+<DESCRIPTION>XBRL DEFINITION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>6
+<FILENAME>rum-20250207_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Class of Stock [Axis] 
+
+Class A common stock, par value $0.0001 per share 
+
+Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share 
+
+Statement [Table] 
+
+Statement [Line Items] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>7
+<FILENAME>rum-20250207_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 07, 2025
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Feb. 07, 2025
+
+Entity File Number 001-40079
+
+Entity Registrant Name Rumble Inc.
+
+Entity Central Index Key 0001830081
+
+Entity Tax Identification Number 85-1087461
+
+Entity Incorporation, State or Country Code DE
+
+Entity Address, Address Line One 444 Gulf of Mexico Dr
+
+Entity Address, City or Town Longboat Key
+
+Entity Address, State or Province FL
+
+Entity Address, Postal Zip Code 34228
+
+City Area Code 941
+
+Local Phone Number 210-0196
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company true
+
+Elected Not To Use the Extended Transition Period false
+
+Class A common stock, par value $0.0001 per share 
+
+Title of 12(b) Security Class A common stock, par value $0.0001 per share
+
+Trading Symbol RUM
+
+Security Exchange Name NASDAQ
+
+Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share 
+
+Title of 12(b) Security Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share
+
+Trading Symbol RUMBW
+
+Security Exchange Name NASDAQ
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 7A
+
+-Section B
+
+-Subsection 2
+
++ Details
+
+Name: dei_EntityExTransitionPeriod
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=RUM_ClassCommonStockParValue0.0001PerShareMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=RUM_RedeemableWarrantsEachWholeWarrantExercisableForOneShareOfClassCommonStockAtExercisePriceOf11.50PerShareMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>10
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+3 
+23 
+1 
+false 
+2 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://rumble.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+ea0230278-8k_rumble.htm 
+rum-20250207.xsd 
+rum-20250207_def.xml 
+rum-20250207_lab.xml 
+rum-20250207_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>16
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>17
+<FILENAME>0001213900-25-011371-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>18
+<FILENAME>ea0230278-8k_rumble_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001830081 
+
+2025-02-07 
+2025-02-07 
+
+0001830081 
+
+RUM:ClassCommonStockParValue0.0001PerShareMember 
+
+2025-02-07 
+2025-02-07 
+
+0001830081 
+
+RUM:RedeemableWarrantsEachWholeWarrantExercisableForOneShareOfClassCommonStockAtExercisePriceOf11.50PerShareMember 
+
+2025-02-07 
+2025-02-07 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0001830081 
+8-K 
+2025-02-07 
+Rumble Inc. 
+DE 
+001-40079 
+85-1087461 
+444 Gulf of Mexico Dr 
+Longboat Key 
+FL 
+34228 
+941 
+210-0196 
+false 
+false 
+false 
+false 
+Class A common stock, par value $0.0001 per share 
+RUM 
+NASDAQ 
+Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share 
+RUMBW 
+NASDAQ 
+true 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

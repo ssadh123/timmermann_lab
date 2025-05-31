@@ -1,0 +1,2961 @@
+<SEC-DOCUMENT>0001521332-25-000006.txt : 20250206
+<SEC-HEADER>0001521332-25-000006.hdr.sgml : 20250206
+<ACCEPTANCE-DATETIME>20250206065219
+ACCESSION NUMBER:		0001521332-25-000006
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		17
+CONFORMED PERIOD OF REPORT:	20250206
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250206
+DATE AS OF CHANGE:		20250206
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aptiv PLC
+		CENTRAL INDEX KEY:			0001521332
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			Y9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35346
+		FILM NUMBER:		25595392
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SPITALSTRASSE 5
+		CITY:			SCHAFFHAUSEN
+		STATE:			V8
+		ZIP:			8200
+		BUSINESS PHONE:		41-52-580-96-00
+
+	MAIL ADDRESS:	
+		STREET 1:		SPITALSTRASSE 5
+		CITY:			SCHAFFHAUSEN
+		STATE:			V8
+		ZIP:			8200
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Delphi Automotive PLC
+		DATE OF NAME CHANGE:	20110520
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>aptv-20250206.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?aptv-20250206
+
+0001521332false00015213322025-02-062025-02-060001521332aptv:EurodenominatedSeniorNotes1.600Due2028Member2025-02-062025-02-060001521332aptv:SeniorNotes4.35Due2029Member2025-02-062025-02-060001521332aptv:SeniorNotes4.650Due2029Member2025-02-062025-02-060001521332aptv:SeniorNotes3250Due2032Member2025-02-062025-02-060001521332aptv:SeniorNotes5.150Due2034Member2025-02-062025-02-060001521332aptv:EuroDenominatedSeniorNotes4.250Due2036Member2025-02-062025-02-060001521332aptv:SeniorNotes4.400Due2046Member2025-02-062025-02-060001521332aptv:SeniorNotes5.40Due2049Member2025-02-062025-02-060001521332aptv:SeniorNotes310Due2051Member2025-02-062025-02-060001521332aptv:SeniorNotes4150Due2052Member2025-02-062025-02-060001521332aptv:SeniorNotes5.750Due2054Member2025-02-062025-02-060001521332aptv:FixedToFixedResetRateJuniorNotes6.875Due2054Member2025-02-062025-02-06
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+________________________________________________________________________________________________________________________
+
+FORM 8-K
+
+________________________________________________________________________________________________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+
+February 6, 2025
+
+________________________________________________________________________________________________________________________
+
+Aptiv PLC
+
+(Exact name of registrant as specified in its charter)
+
+________________________________________________________________________________________________________________________
+
+Jersey 001-35346 98-1824200
+
+(State or other jurisdiction
+
+of incorporation) (Commission
+
+File Number) (IRS Employer
+
+Identification No.)
+
+Spitalstrasse 5
+
+8200Schaffhausen, Switzerland
+
++4152580 96 00
+
+(Address of Principal Executive Offices, Including Zip Code)
+
+(Registrants Telephone Number, Including Area Code) 
+
+(Former Name or Former Address, if Changed Since Last Report) N/A
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading symbol(s) Name of each exchange on which registered
+
+Ordinary Shares. $0.01 par value per share APTV New York Stock Exchange
+
+1.600% Senior Notes due 2028 APTV New York Stock Exchange
+
+4.350% Senior Notes due 2029 APTV New York Stock Exchange
+
+4.650% Senior Notes due 2029 APTV New York Stock Exchange
+
+3.250% Senior Notes due 2032 APTV New York Stock Exchange
+
+5.150% Senior Notes due 2034 APTV New York Stock Exchange
+
+4.250% Senior Notes due 2036 APTV New York Stock Exchange
+
+4.400% Senior Notes due 2046 APTV New York Stock Exchange
+
+5.400% Senior Notes due 2049 APTV New York Stock Exchange
+
+3.100% Senior Notes due 2051 APTV New York Stock Exchange
+
+4.150% Senior Notes due 2052 APTV New York Stock Exchange
+
+5.750% Senior Notes due 2054 APTV New York Stock Exchange
+
+6.875% Fixed-to-Fixed Reset Rate 
+
+Junior Subordinated Notes due 2054 APTV New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+2
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On February 6, 2025, Aptiv PLC (the Company) issued a press release reporting its financial results for the fourth quarter and year ended December 31, 2024. A copy of the press release is attached as an exhibit and is incorporated herein by reference. The press release and teleconference visual presentation are available on the Companys website at aptiv.com.
+
+Item 7.01 Regulation FD Disclosure.
+
+In connection with the Company's previously announced planned spin-off of its Electrical Distribution Systems business, effective the first quarter of 2025 the Company is realigning its business into three reportable operating segments: Electrical Distribution Systems, Engineered Components Group and Advanced Safety and User Experience.
+
+To assist investors who may want to consider the effects of these segment reporting changes on Aptivs historical results, the Company is furnishing herewith as Exhibit 99.2 unaudited supplemental recast financial information for each quarter of and for the years ended December 31, 2024 and 2023, that reflects the segment changes described above. The changes to Aptivs segment reporting will be reflected in Aptivs financial statements commencing with the first Quarterly Report of 2025 on Form 10-Q.
+
+The information in this Form 8-K, including Exhibit 99.1 and Exhibit 99.2, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934 (the Exchange Act) or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933 or the Exchange Act.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit 
+
+Number Description
+
+99.1 
+
+Press Release Dated February 6, 2025
+
+99.2 Unaudited Supplemental Summary Financial Information
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+3
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: 
+
+February 6, 2025 APTIV PLC
+
+By: /s/ Varun Laroyia
+
+Varun Laroyia
+
+Executive Vice President and Chief Financial Officer
+
+4
+
+EXHIBIT INDEX
+
+Exhibit 
+
+Number Description
+
+99.1 
+
+Press Release Dated February 6, 2025
+
+99.2 
+
+Unaudited Supplemental Summary Financial Information
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+5
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>aptv2024ex991.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+Document
+
+Exhibit 99.1
+
+Aptiv Reports Fourth Quarter 2024 Financial Results
+
+Record Full Year Earnings Driven by Strong Operating Performance
+
+SCHAFFHAUSEN - Aptiv PLC (NYSE: APTV), a global technology company focused on making the world safer, greener and more connected, today reported fourth quarter 2024 U.S. GAAP earnings of $1.14 per diluted share. Excluding special items, fourth quarter earnings totaled $1.75 per diluted share.
+
+Fourth Quarter Financial Highlights Include:
+
+U.S. GAAP revenue of $4.9 billion, consistent with the prior year period
+
+Revenue decreased 1% adjusted for currency exchange and commodity movements, compared to AWM1 of (4)%
+
+U.S. GAAP net income of $268 million, U.S. GAAP net income margin of 5.5%; U.S. GAAP diluted earnings per share of $1.14
+
+Excluding special items, diluted earnings per share of $1.75
+
+U.S. GAAP operating income of $479 million, U.S. GAAP operating income margin of 9.8% 
+
+Adjusted Operating Income of $623 million; Adjusted Operating Income margin of 12.7%; Adjusted EBITDA of $811 million; Adjusted EBITDA margin of 16.5%
+
+Generated $1,060 million of cash from operations
+
+Full Year 2024 Financial Highlights Include:
+
+U.S. GAAP revenue of $19.7 billion, a decrease of 2%
+
+Revenue decreased 2% adjusted for currency exchange and commodity movements, compared to AWM1 of (3)%
+
+U.S. GAAP net income of $1,787 million, U.S. GAAP net income margin of 9.1%; U.S. GAAP diluted earnings per share of $6.96
+
+Excluding special items, diluted earnings per share of $6.26
+
+U.S. GAAP operating income of $1,842 million, U.S. GAAP operating income margin of 9.3%
+
+Adjusted Operating Income of $2,366 million; Adjusted Operating Income margin of 12.0%; Adjusted EBITDA of $3,097 million; Adjusted EBITDA margin of 15.7%
+
+Generated $2,446 million of cash from operations
+
+Funded $4.1 billion in share repurchases
+
+1 Represents global vehicle production weighted to the geographic regions in which the Company generates its revenue (AWM).
+
+Our full-year results validate our proven track record of operational excellence and the strength of Aptivs product portfolio, said Kevin Clark, chairman and chief executive officer. The company delivered record operating cash flow and strong earnings growth with 140 basis points of operating margin expansion year-over-year, reflecting continued cost discipline and solid execution. We also finished the year with record fourth quarter new business awards, resulting in our third consecutive year of $30+ billion bookings. Looking ahead, as we navigate a dynamic market environment, we will remain focused on enabling our customers as they transition to a more feature-rich, software-defined future. This year also marks a major milestone in Aptivs evolution, as we execute on the separation of our Electrical Distribution Systems business, which will create two independent companies better positioned to address the evolving needs of our customers and further capitalize on market opportunities. With these strategic actions and continued commercial momentum, we are confident in our ability to drive further long-term growth and deliver significant value to all of our stakeholders.
+
+Fourth Quarter 2024 Results
+
+For the three months ended December 31, 2024, the Company reported U.S. GAAP revenue of $4.9 billion, consistent with the prior year period. Adjusted for currency exchange and commodity movements, revenue decreased by 1% in the fourth quarter. This reflects declines of 8%in Europe, partially offset by growth of 3% in North America, 3% in Asia, which includes 4% in China, and flatgrowth in South America, our smallest region.
+
+The Company reported fourth quarter 2024 U.S. GAAP net income of $268 million, earnings of $1.14 per diluted share and net income margin of 5.5%, compared to $905 million, $3.22 per diluted share and 18.4% in the prior year period. Fourth quarter Adjusted Net Income, a non-GAAP financial measure defined below, totaled $411 million, or $1.75 per diluted share, compared to $395 million, or $1.40 per diluted share in the prior year period.
+
+Fourth quarter U.S. GAAP operating income was $479 million, compared to $355 million in the prior year period. The Company reported fourth quarter Adjusted Operating Income, a non-GAAP financial measure defined below, of $623 million, compared to $600 million in the prior year period. Adjusted Operating Income margin was 12.7%, compared to 12.2% in the prior year period, primarily reflecting improved operating performance, including the benefits of cost reduction initiatives. Depreciation and amortization expense totaled $245 million, compared to $246 million in the prior year period.
+
+Interest expense for the fourth quarter totaled $107 million, an increase from $71 million in the prior year period.
+
+Tax expense in the fourth quarter of 2024 was $64 million, resulting in an effective tax rate of approximately 18%. Tax benefit in the fourth quarter of 2023 was $680 million, which primarily reflects the recognition of a deferred tax benefit of approximately $723 million as a result of transactions entered into as part of a reorganization of the Companys corporate entity structure.
+
+The Company generated net cash flow from operating activities of $1,060 million in fourth quarter, compared to $624 million in the prior year period.
+
+Full Year 2024 Results
+
+For the year ended December 31, 2024, the Company reported U.S. GAAP revenue of $19.7 billion, a decrease of 2% from the prior year. Adjusted for currency exchange and commodity movements, revenue 
+
+2
+
+decreased by 2% in 2024. This reflects declines of 4% in Europe, 1% in North America and 9% in South America, our smallest region, partially offset by growth of 1% in Asia, which includes 2% in China. 
+
+The Company reported full year 2024 U.S. GAAP net income of $1,787 million, earnings of $6.96 per diluted share and net income margin of 9.1%, compared to $2,909 million, $10.39 per diluted share and 14.5% in the prior year. Full year 2024 Adjusted Net Income totaled $1,607 million, or $6.26 per diluted share, compared to $1,376 million, or $4.86 per diluted share, in the prior year.
+
+Full year 2024 U.S. GAAP operating income was $1,842 million, compared to $1,559 million in the prior year. The Company reported full year Adjusted Operating Income of $2,366 million, compared to $2,127 million in the prior year. Adjusted Operating Income margin was 12.0%, compared to 10.6% in the prior year, primarily reflecting improved operating performance, including the benefits of cost reduction initiatives. Depreciation and amortization expense totaled $964 million, an increase from $912 million in the prior year.
+
+Interest expense for full year 2024 totaled $337 million, as compared to $285 million in the prior year, which primarily reflects the impacts of debt transactions in the third quarter of 2024 in part to finance our $3.0 billion accelerated share repurchase program.
+
+Tax expense for full year 2024 was $223 million, resulting in an effective tax rate of approximately 10%. Tax benefit for full year 2023 was $1,928 million, which primarily reflects the recognition of a deferred tax benefit of approximately $2.1 billion as a result of transactions entered into as part of a reorganization of the Companys corporate entity structure.
+
+The Company generated net cash flow from operating activities of $2,446 million in 2024, compared to $1,896 million in the prior year. As of December 31, 2024, the Company had cash and cash equivalents of $1.6 billion and total available liquidity of $3.6 billion.
+
+Reconciliations of Adjusted Revenue Growth, Adjusted Operating Income, Adjusted EBITDA, Adjusted Net Income, Adjusted Net Income Per Share and Cash Flow Before Financing, which are non-GAAP measures, to the most directly comparable financial measures, respectively, calculated and presented in accordance with accounting principles generally accepted in the United States (GAAP) are provided in the attached supplemental schedules.
+
+Share Repurchase Program
+
+During 2024, the Company repurchased 44.4 million shares for approximately $3.35 billion, including shares repurchased under the terms of the Companys Accelerated Share Repurchase Program, which will be completed by the second quarter of 2025.
+
+As of December 31, 2024, $2.5 billion remained available for future share repurchases under the existing $5.0 billion authorization. All repurchased shares were retired.
+
+Planned Spin-off of Electrical Distribution Systems Business
+
+As previously announced on January 22, 2025, Aptiv intends to execute a tax-free spin-off of its Electrical Distribution Systems business into a new, independent publicly traded company, creating two highly focused public companies strategically positioned to drive incremental value for customers, shareholders and employees. The transaction is expected to be completed by March 31, 2026. 
+
+In connection with the planned spin-off of the Companys Electrical Distribution Systems business, in the first quarter of 2025 Aptiv is realigning its business into three reportable operating segments: Electrical Distribution 
+
+3
+
+Systems, Engineered Components Group and Advanced Safety and User Experience. The changes to Aptivs segment reporting will be reflected in Aptivs financial statements commencing with the first Quarterly Report on Form 10-Q of 2025.
+
+Q1 and Full Year 2025 Outlook
+
+The Companys first quarter and full year 2025 financial guidance is as follows:
+
+(in millions, except per share amounts) Q1 2025 (1) Full Year 2025 (1)
+
+Net sales $4,635 - $4,835 $19,600 - $20,400
+
+U.S. GAAP net income $215 - $255 $1,180 - $1,320
+
+U.S. GAAP net income margin 4.6% - 5.3% 6.0% - 6.5%
+
+U.S. GAAP operating income $360 - $410 $1,855 - $2,035
+
+U.S. GAAP operating income margin 7.8% - 8.5% 9.5% - 10.0%
+
+Adjusted EBITDA $685 - $735 $3,095 - $3,275
+
+Adjusted EBITDA margin 14.8% - 15.2% 15.8% - 16.1%
+
+Adjusted operating income $495 - $545 $2,330 - $2,510
+
+Adjusted operating income margin 10.7% - 11.3% 11.9% - 12.3%
+
+U.S. GAAP diluted net income per share $0.90 - $1.10 $5.25 - $5.85
+
+Adjusted net income per share (2) $1.40 - $1.60 $7.00 - $7.60
+
+Cash flow from operations $2,100
+
+Capital expenditures $880
+
+U.S. GAAP effective tax rate ~17.5%
+
+Adjusted effective tax rate ~17.5%
+
+(1) The Companys financial guidance does not reflect the potential impacts of recent U.S. tariffs imposed or threatened to be imposed on China, Canada and Mexico and other countries as well as any retaliatory actions that may be taken by such countries.
+
+(2) The Companys first quarter and full year 2025 financial guidance includes approximately $0.05 and $0.30, respectively, per diluted share for the anticipated equity losses to be recognized by Aptiv from the performance of the Motional autonomous driving joint venture.
+
+Conference Call and Webcast
+
+The Company will host a conference call to discuss these results at 8:00 a.m. (ET) today, which is accessible by dialing +1.800.239.9838 (US) or +1.323.794.2423 (international) or through a webcast at ir.aptiv.com. The conference ID number is 1176930. A slide presentation will accompany the prepared remarks and has been posted on the investor relations section of the Companys website. A replay will be available two hours following the conference call.
+
+Use of Non-GAAP Financial Information
+
+This press release contains information about Aptivs financial results which are not presented in accordance with GAAP. Specifically, Adjusted Revenue Growth, Adjusted Operating Income, Adjusted EBITDA, Adjusted Net Income, Adjusted Net Income Per Share and Cash Flow Before Financing are non-GAAP financial measures. Adjusted Revenue Growth represents the year-over-year change in reported net sales relative to the comparable period, excluding the impact on net sales from currency exchange, commodity movements, acquisitions, 
+
+4
+
+divestitures and other transactions. Adjusted Operating Income represents net income before interest expense, other income (expense), net, income tax (expense) benefit, equity income (loss), net of tax, amortization, restructuring, other acquisition and portfolio project costs, (which includes costs incurred to integrate acquired businesses and to plan and execute product portfolio transformation actions, including business and product acquisitions and divestitures), asset impairments and other related charges, compensation expense related to acquisitions and gains (losses) on business divestitures and other transactions. Adjusted Operating Income margin is defined as Adjusted Operating Income as a percentage of net sales. Adjusted EBITDA represents net income before depreciation and amortization (including asset impairments), interest expense, income tax (expense) benefit, other income (expense), net, equity income (loss), net of tax, restructuring and other special items.
+
+Adjusted Net Income represents net income attributable to Aptiv before amortization, restructuring and other special items, including the tax impact thereon. Adjusted Net Income Per Share represents Adjusted Net Income divided by the Weighted Average Number of Diluted Shares Outstanding for the period. Cash Flow Before Financing represents cash provided by (used in) operating activities plus cash provided by (used in) investing activities, adjusted for the purchase price of business acquisitions and other transactions, the cost of significant technology investments and net proceeds from the divestiture of discontinued operations and other significant businesses.
+
+Management believes the non-GAAP financial measures used in this press release are useful to both management and investors in their analysis of the Companys financial position, results of operations and liquidity. In particular, management believes Adjusted Revenue Growth, Adjusted Operating Income, Adjusted EBITDA, Adjusted Net Income, Adjusted Net Income Per Share and Cash Flow Before Financing are useful measures in assessing the Companys ongoing financial performance that, when reconciled to the corresponding GAAP measure, provide improved comparability between periods through the exclusion of certain items that management believes are not indicative of the Companys core operating performance and that may obscure underlying business results and trends. Management also uses these non-GAAP financial measures for internal planning and forecasting purposes.
+
+Such non-GAAP financial measures are reconciled to the most directly comparable GAAP financial measures in the attached supplemental schedules at the end of this press release. Non-GAAP measures should not be considered in isolation or as a substitute for our reported results prepared in accordance with GAAP and, as calculated, may not be comparable to other similarly titled measures of other companies.
+
+About Aptiv
+
+Aptiv is a global technology company focused on making the world safer, greener and more connected. Visit aptiv.com.
+
+Forward-Looking Statements
+
+This press release, as well as other statements made by Aptiv PLC (the Company), contain forward-looking statements that reflect, when made, the Companys current views with respect to current events, certain investments and acquisitions and financial performance. Such forward-looking statements are subject to many risks, uncertainties and factors relating to the Companys operations and business environment, which may cause the actual results of the Company to be materially different from any future results. All statements that address future operating, financial or business performance or the Companys strategies or expectations are forward-looking 
+
+5
+
+statements. Factors that could cause actual results to differ materially from these forward-looking statements are discussed under the captions Risk Factors and Managements Discussion and Analysis of Financial Condition and Results of Operations in the Companys filings with the Securities and Exchange Commission. New risks and uncertainties arise from time to time, and it is impossible for us to predict these events or how they may affect the Company. It should be remembered that the price of the ordinary shares and any income from them can go down as well as up. The Company disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events and/or otherwise, except as may be required by law.
+
+# # #
+
+6
+
+APTIV PLC
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(Unaudited)
+
+Three Months Ended Year Ended
+
+December 31, December 31,
+
+2024 2023 2024 2023
+
+(in millions, except per share amounts)
+
+Net sales $ 4,907 $ 4,919 $ 19,713 $ 20,051 
+
+Operating expenses: 
+
+Cost of sales 3,945 3,997 16,002 16,612 
+
+Selling, general and administrative 363 381 1,465 1,436 
+
+Amortization 52 56 211 233 
+
+Restructuring 68 130 193 211 
+
+Total operating expenses 4,428 4,564 17,871 18,492 
+
+Operating income 479 355 1,842 1,559 
+
+Interest expense (107) (71) (337) (285) 
+
+Other income, net 11 27 41 63 
+
+Net (loss) gain on equity method transactions (36) 605 
+
+Income before income taxes and equity loss 347 311 2,151 1,337 
+
+Income tax (expense) benefit (64) 680 (223) 1,928 
+
+Income before equity loss 283 991 1,928 3,265 
+
+Equity loss, net of tax (8) (72) (118) (299) 
+
+Net income 275 919 1,810 2,966 
+
+Net income attributable to noncontrolling interest 6 13 24 28 
+
+Net income (loss) attributable to redeemable noncontrolling interest 1 1 (1) 
+
+Net income attributable to Aptiv 268 905 1,787 2,938 
+
+Mandatory convertible preferred share dividends (29) 
+
+Net income attributable to ordinary shareholders $ 268 $ 905 $ 1,787 $ 2,909 
+
+Diluted net income per share: 
+
+Diluted net income per share attributable to ordinary shareholders $ 1.14 $ 3.22 $ 6.96 $ 10.39 
+
+Weighted average number of diluted shares outstanding 235.46 281.21 256.66 282.88 
+
+7
+
+APTIV PLC
+
+CONSOLIDATED BALANCE SHEETS
+
+(Unaudited)
+
+December 31,
+
+2024 December 31,
+
+2023
+
+(in millions)
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents $ 1,573 $ 1,640 
+
+Restricted cash 1 
+
+Accounts receivable, net 3,261 3,546 
+
+Inventories 2,320 2,365 
+
+Other current assets 671 696 
+
+Total current assets 7,826 8,247 
+
+Long-term assets: 
+
+Property, net 3,698 3,785 
+
+Operating lease right-of-use assets 495 540 
+
+Investments in affiliates 1,433 1,443 
+
+Intangible assets, net 2,140 2,399 
+
+Goodwill 5,024 5,151 
+
+Other long-term assets 2,842 2,862 
+
+Total long-term assets 15,632 16,180 
+
+Total assets $ 23,458 $ 24,427 
+
+LIABILITIES, REDEEMABLE NONCONTROLLING INTEREST AND SHAREHOLDERS EQUITY 
+
+Current liabilities: 
+
+Short-term debt $ 509 $ 9 
+
+Accounts payable 2,870 3,151 
+
+Accrued liabilities 1,752 1,648 
+
+Total current liabilities 5,131 4,808 
+
+Long-term liabilities: 
+
+Long-term debt 7,843 6,204 
+
+Pension benefit obligations 374 417 
+
+Long-term operating lease liabilities 412 453 
+
+Other long-term liabilities 613 701 
+
+Total long-term liabilities 9,242 7,775 
+
+Total liabilities 14,373 12,583 
+
+Commitments and contingencies 
+
+Redeemable noncontrolling interest 92 99 
+
+Total Aptiv shareholders equity 8,796 11,548 
+
+Noncontrolling interest 197 197 
+
+Total shareholders equity 8,993 11,745 
+
+Total liabilities, redeemable noncontrolling interest and shareholders equity $ 23,458 $ 24,427 
+
+8
+
+APTIV PLC
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(Unaudited)
+
+Year Ended December 31,
+
+2024 2023
+
+(in millions)
+
+Cash flows from operating activities: 
+
+Net income $ 1,810 $ 2,966 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation and amortization 964 912 
+
+Restructuring expense, net of cash paid (45) 83 
+
+Deferred income taxes (34) (2,164) 
+
+Loss from equity method investments, net of dividends received 130 304 
+
+Loss on extinguishment of debt 15 1 
+
+Net gain on equity method transactions (605) 
+
+Other, net 182 170 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable, net 285 (112) 
+
+Inventories 45 (20) 
+
+Accounts payable (210) 4 
+
+Other, net (59) (215) 
+
+Pension contributions (32) (33) 
+
+Net cash provided by operating activities 2,446 1,896 
+
+Cash flows from investing activities: 
+
+Capital expenditures (830) (906) 
+
+Proceeds from sale of property 6 4 
+
+Proceeds from business divestitures, net of cash sold (17) 
+
+Cost of business acquisitions and other transactions, net of cash acquired (83) 
+
+Proceeds from sale of technology investments 
+
+Cost of technology investments (121) (6) 
+
+Proceeds from the sale of equity method investment 448 
+
+Purchase of short-term investments (748) 
+
+Redemption of short-term investments 740 
+
+Settlement of derivatives (2) 6 
+
+Net cash used in investing activities (507) (1,002) 
+
+Cash flows from financing activities: 
+
+Increase (decrease) in other short and long-term debt, net 702 (332) 
+
+Repayment of senior notes (1,440) 
+
+Proceeds from issuance of senior notes, net of issuance costs 2,920 
+
+Proceeds from bridge loan, net of issuance costs 2,483 
+
+Repayment of bridge loan (2,500) 
+
+Equity related transaction costs (3) 
+
+Contingent consideration payments (10) 
+
+Dividend payments of consolidated affiliates to minority shareholders (2) 
+
+Repurchase of ordinary shares (4,104) (398) 
+
+Distribution of mandatory convertible preferred share cash dividends (32) 
+
+Taxes withheld and paid on employees restricted share awards (23) (33) 
+
+Net cash used in financing activities (1,965) (807) 
+
+Effect of exchange rate fluctuations on cash, cash equivalents and restricted cash (40) (2) 
+
+(Decrease) increase in cash, cash equivalents and restricted cash (66) 85 
+
+Cash, cash equivalents and restricted cash at beginning of the year 1,640 1,555 
+
+Cash, cash equivalents and restricted cash at end of the year $ 1,574 $ 1,640 
+
+9
+
+APTIV PLC
+
+FOOTNOTES
+
+(Unaudited)
+
+1. Segment Summary
+
+Three Months Ended Year Ended
+
+December 31, December 31,
+
+2024 2023 % 2024 2023 %
+
+(in millions) (in millions) 
+
+Net Sales 
+
+Signal and Power Solutions $ 3,541 $ 3,574 (1)% $ 13,983 $ 14,404 (3)%
+
+Advanced Safety and User Experience 1,381 1,356 2% 5,791 5,695 2%
+
+Eliminations and Other (a) (15) (11) (61) (48) 
+
+Net Sales $ 4,907 $ 4,919 $ 19,713 $ 20,051 
+
+Adjusted Operating Income 
+
+Signal and Power Solutions $ 430 $ 459 (6)% $ 1,652 $ 1,676 (1)%
+
+Advanced Safety and User Experience 193 141 37% 714 451 58%
+
+Adjusted Operating Income $ 623 $ 600 $ 2,366 $ 2,127 
+
+(a) 
+
+Eliminations and Other includes the elimination of inter-segment transactions. 
+
+2. Weighted Average Number of Diluted Shares Outstanding
+
+The following table illustrates the weighted average shares outstanding used in calculating basic and diluted net income per share attributable to ordinary shareholders for the three months and years ended December 31, 2024 and 2023:
+
+Three Months Ended Year Ended
+
+December 31, December 31,
+
+2024 2023 2024 2023
+
+(in millions, except per share data)
+
+Weighted average ordinary shares outstanding, basic 235.04 280.95 256.38 276.92 
+
+Dilutive shares related to RSUs 0.42 0.26 0.28 0.17 
+
+Weighted average MCPS Converted Shares 5.79 
+
+Weighted average ordinary shares outstanding, including dilutive shares 235.46 281.21 256.66 282.88 
+
+Net income per share attributable to ordinary shareholders: 
+
+Basic $ 1.14 $ 3.22 $ 6.97 $ 10.50 
+
+Diluted $ 1.14 $ 3.22 $ 6.96 $ 10.39 
+
+10
+
+APTIV PLC
+
+RECONCILIATION OF NON-GAAP MEASURES
+
+(Unaudited)
+
+In this press release the Company has provided information regarding certain non-GAAP financial measures, including Adjusted Revenue Growth, Adjusted Operating Income, Adjusted EBITDA, Adjusted Net Income, Adjusted Net Income Per Share and Cash Flow Before Financing. Such non-GAAP financial measures are reconciled to their closest GAAP financial measure in the following schedules.
+
+Adjusted Revenue Growth: Adjusted Revenue Growth is presented as a supplemental measure of the Companys financial performance which management believes is useful to investors in assessing the Companys ongoing financial performance that, when reconciled to the corresponding U.S. GAAP measure, provides improved comparability between periods through the exclusion of certain items that management believes are not indicative of the Companys core operating performance and which may obscure underlying business results and trends. Our management utilizes Adjusted Revenue Growth in its financial decision making process, to evaluate performance of the Company and for internal reporting, planning and forecasting purposes. Adjusted Revenue Growth is defined as the year-over-year change in reported net sales relative to the comparable period, excluding the impact on net sales from currency exchange, commodity movements, acquisitions, divestitures and other transactions. Not all companies use identical calculations of Adjusted Revenue Growth, therefore this presentation may not be comparable to other similarly titled measures of other companies.
+
+Three Months Ended December 31, 2024
+
+Reported net sales % change %
+
+Less: foreign currency exchange and commodities 1 %
+
+Adjusted revenue growth (1) %
+
+Year Ended December 31, 2024
+
+Reported net sales % change (2) %
+
+Less: foreign currency exchange and commodities %
+
+Adjusted revenue growth (2) %
+
+11
+
+Adjusted Operating Income: Adjusted Operating Income is presented as a supplemental measure of the Companys financial performance which management believes is useful to investors in assessing the Companys ongoing financial performance that, when reconciled to the corresponding U.S. GAAP measure, provides improved comparability between periods through the exclusion of certain items that management believes are not indicative of the Companys core operating performance and which may obscure underlying business results and trends. Our management utilizes Adjusted Operating Income in its financial decision making process, to evaluate performance of the Company and for internal reporting, planning and forecasting purposes. Management also utilizes Adjusted Operating Income as the key performance measure of segment income or loss and for planning and forecasting purposes to allocate resources to our segments, as management also believes this measure is most reflective of the operational profitability or loss of our operating segments. Adjusted Operating Income is defined as net income before interest expense, other income (expense), net, income tax (expense) benefit, equity income (loss), net of tax, amortization, restructuring and other special items. Not all companies use identical calculations of Adjusted Operating Income, therefore this presentation may not be comparable to other similarly titled measures of other companies. Operating income margin represents Operating income as a percentage of net sales, and Adjusted Operating Income margin represents Adjusted Operating Income as a percentage of net sales.
+
+Consolidated Adjusted Operating Income 
+
+Three Months Ended Year Ended
+
+December 31, December 31,
+
+2024 2023 2024 2023
+
+($ in millions)
+
+$ Margin $ Margin $ Margin $ Margin
+
+Net income attributable to ordinary shareholders $ 268 5.5 % $ 905 18.4 % $ 1,787 9.1 % $ 2,909 14.5 %
+
+Mandatory convertible preferred share dividends 29 
+
+Net income attributable to Aptiv $ 268 5.5 % $ 905 18.4 % $ 1,787 9.1 % $ 2,938 14.7 %
+
+Interest expense 107 71 337 285 
+
+Other income, net (11) (27) (41) (63) 
+
+Net loss (gain) on equity method transactions 36 (605) 
+
+Income tax expense (benefit) 64 (680) 223 (1,928) 
+
+Equity loss, net of tax 8 72 118 299 
+
+Net income attributable to noncontrolling interest 6 13 24 28 
+
+Net income (loss) attributable to redeemable noncontrolling interest 1 1 (1) 
+
+Operating income $ 479 9.8 % $ 355 7.2 % $ 1,842 9.3 % $ 1,559 7.8 %
+
+Amortization 52 56 211 233 
+
+Restructuring 68 130 193 211 
+
+Other acquisition and portfolio project costs 14 35 80 80 
+
+Asset impairments 5 18 22 18 
+
+Compensation expense related to acquisitions 5 6 18 26 
+
+Adjusted operating income $ 623 12.7 % $ 600 12.2 % $ 2,366 12.0 % $ 2,127 10.6 %
+
+12
+
+Segment Adjusted Operating Income 
+
+(in millions) 
+
+Three Months Ended December 31, 2024 Signal and Power Solutions Advanced Safety and User Experience Total
+
+Operating income $ 337 $ 142 $ 479 
+
+Amortization 29 23 52 
+
+Restructuring 51 17 68 
+
+Other acquisition and portfolio project costs 8 6 14 
+
+Asset impairments 5 5 
+
+Compensation expense related to acquisitions 5 5 
+
+Adjusted operating income $ 430 $ 193 $ 623 
+
+Depreciation and amortization (a) $ 171 $ 74 $ 245 
+
+Three Months Ended December 31, 2023 Signal and Power Solutions Advanced Safety and User Experience Total
+
+Operating income $ 325 $ 30 $ 355 
+
+Amortization 33 23 56 
+
+Restructuring 60 70 130 
+
+Other acquisition and portfolio project costs 26 9 35 
+
+Asset impairments 15 3 18 
+
+Compensation expense related to acquisitions 6 6 
+
+Adjusted operating income $ 459 $ 141 $ 600 
+
+Depreciation and amortization (a) $ 174 $ 72 $ 246 
+
+Year Ended December 31, 2024 Signal and Power Solutions Advanced Safety and User Experience Total
+
+Operating income $ 1,329 $ 513 $ 1,842 
+
+Amortization 122 89 211 
+
+Restructuring 140 53 193 
+
+Other acquisition and portfolio project costs 53 27 80 
+
+Asset impairments 8 14 22 
+
+Compensation expense related to acquisitions 18 18 
+
+Adjusted operating income $ 1,652 $ 714 $ 2,366 
+
+Depreciation and amortization (a) $ 664 $ 300 $ 964 
+
+Year Ended December 31, 2023 Signal and Power Solutions Advanced Safety and User Experience Total
+
+Operating income $ 1,379 $ 180 $ 1,559 
+
+Amortization 140 93 233 
+
+Restructuring 82 129 211 
+
+Other acquisition and portfolio project costs 60 20 80 
+
+Asset impairments 15 3 18 
+
+Compensation expense related to acquisitions 26 26 
+
+Adjusted operating income $ 1,676 $ 451 $ 2,127 
+
+Depreciation and amortization (a) $ 638 $ 274 $ 912 
+
+(a) 
+
+Includes asset impairments.
+
+13
+
+Adjusted EBITDA: Adjusted EBITDA is presented as a supplemental measure of the Companys financial performance which management believes is useful to investors in assessing the Companys ongoing financial performance that, when reconciled to the corresponding U.S. GAAP measure, provides improved comparability between periods through the exclusion of certain items that management believes are not indicative of the Companys core operating performance and which may obscure underlying business results and trends. Our management utilizes Adjusted EBITDA in its financial decision making process, to evaluate performance of the Company and for internal reporting, planning and forecasting purposes. Adjusted EBITDA is defined as net income before depreciation and amortization (including asset impairments), interest expense, income tax (expense) benefit, other income (expense), net, equity income (loss), net of tax, restructuring and other special items. Not all companies use identical calculations of Adjusted EBITDA, therefore this presentation may not be comparable to other similarly titled measures of other companies.
+
+Three Months Ended Year Ended
+
+December 31, December 31,
+
+2024 2023 2024 2023
+
+(in millions) 
+
+Net income attributable to ordinary shareholders $ 268 $ 905 $ 1,787 $ 2,909 
+
+Mandatory convertible preferred share dividends 29 
+
+Net income attributable to Aptiv $ 268 $ 905 $ 1,787 $ 2,938 
+
+Interest expense 107 71 337 285 
+
+Income tax expense (benefit) 64 (680) 223 (1,928) 
+
+Net income attributable to noncontrolling interest 6 13 24 28 
+
+Net income (loss) attributable to redeemable noncontrolling interest 1 1 (1) 
+
+Depreciation and amortization 245 246 964 912 
+
+EBITDA $ 691 $ 556 $ 3,334 $ 2,235 
+
+Other income, net (11) (27) (41) (63) 
+
+Net loss (gain) on equity method transactions 36 (605) 
+
+Equity loss, net of tax 8 72 118 299 
+
+Restructuring 68 130 193 211 
+
+Other acquisition and portfolio project costs 14 35 80 80 
+
+Compensation expense related to acquisitions 5 6 18 26 
+
+Adjusted EBITDA $ 811 $ 772 $ 3,097 $ 2,788 
+
+14
+
+Adjusted Net Income and Adjusted Net Income Per Share: Adjusted Net Income and Adjusted Net Income Per Share, which are non-GAAP measures, are presented as supplemental measures of the Companys financial performance which management believes are useful to investors in assessing the Companys ongoing financial performance that, when reconciled to the corresponding U.S. GAAP measure, provide improved comparability between periods through the exclusion of certain items that management believes are not indicative of the Companys core operating performance and which may obscure underlying business results and trends. Management utilizes Adjusted Net Income and Adjusted Net Income Per Share in its financial decision making process, to evaluate performance of the Company and for internal reporting, planning and forecasting purposes. Adjusted Net Income is defined as net income attributable to Aptiv before amortization, restructuring and other special items, including the tax impact thereon. Adjusted Net Income Per Share is defined as Adjusted Net Income divided by the Weighted Average Number of Diluted Shares Outstanding, for the period. Not all companies use identical calculations of Adjusted Net Income and Adjusted Net Income Per Share, therefore this presentation may not be comparable to other similarly titled measures of other companies.
+
+Three Months Ended Year Ended
+
+December 31, December 31,
+
+2024 2023 2024 2023
+
+(in millions, except per share amounts)
+
+Net income attributable to ordinary shareholders $ 268 $ 905 $ 1,787 $ 2,909 
+
+Mandatory convertible preferred share dividends (a) 29 
+
+Net income attributable to Aptiv $ 268 $ 905 $ 1,787 $ 2,938 
+
+Adjusting items: 
+
+Amortization 52 56 211 233 
+
+Restructuring 68 130 193 211 
+
+Other acquisition and portfolio project costs 14 35 80 80 
+
+Asset impairments 5 18 22 18 
+
+Compensation expense related to acquisitions 5 6 18 26 
+
+Debt extinguishment costs 3 1 15 1 
+
+Costs associated with acquisitions and other transactions 4 
+
+Impairment of equity investments without readily determinable fair value 18 
+
+Loss on change in fair value of publicly traded equity securities 3 6 
+
+Net loss (gain) on equity method transactions 36 (605) 
+
+Tax impact of intercompany transfers of intellectual property and other related transactions (b) (723) (2,082) 
+
+Tax impact of adjusting items (c) (40) (33) (117) (77) 
+
+Adjusted net income attributable to Aptiv $ 411 $ 395 $ 1,607 $ 1,376 
+
+Weighted average number of diluted shares outstanding (a) 235.46 281.21 256.66 282.88 
+
+Diluted net income per share attributable to ordinary shareholders $ 1.14 $ 3.22 $ 6.96 $ 10.39 
+
+Adjusted net income per share $ 1.75 $ 1.40 $ 6.26 $ 4.86 
+
+(a) 
+
+On June 15, 2023, each outstanding share of the Companys 5.50% Mandatory Convertible Preferred Shares (the MCPS) converted into 1.0754 ordinary shares of the Company. For purposes of calculating Adjusted Net Income Per Share, the Company has excluded the impact of the MCPS dividends for the year ended December 31, 2023 and assumed the if converted method of share dilution as the assumed conversion of the MCPS into ordinary shares on a weighted average basis was more dilutive to net income per share than the impact of the MCPS dividends (method already applied for U.S. GAAP purposes of calculating the weighted average number of diluted shares outstanding).
+
+(b) In response to the OECDs Pillar Two Directive, the Company initiated changes to its corporate entity structure, including intercompany transfers of certain intellectual property to one of its subsidiaries in Switzerland during the second half of 2023. Furthermore, during the third quarter, the Companys Swiss subsidiary was granted a ten year tax incentive, beginning in 2024. The measurement of certain deferred tax assets and associated income tax benefits resulting from these transactions was impacted by tax legislation in Switzerland enacted in the fourth quarter of 2023, which increased the statutory income tax rate, resulting in additional deferred tax benefit impacts, net of valuation allowances. These adjustments represent the total income tax benefits recorded as a result of these transactions during the three months and year ended December 31, 2023.
+
+(c) Represents the income tax impacts of the adjustments made for amortization, restructuring and other special items by calculating the income tax impact of these items using the appropriate tax rate for the jurisdiction where the charges were incurred.
+
+15
+
+Cash Flow Before Financing: Cash Flow Before Financing is presented as a supplemental measure of the Companys liquidity which is consistent with the basis and manner in which management presents financial information for the purpose of making internal operating decisions, evaluating its liquidity and determining appropriate capital allocation strategies. Management believes this measure is useful to investors to understand how the Companys core operating activities generate and use cash. Cash Flow Before Financing is defined as cash provided by (used in) operating activities plus cash provided by (used in) investing activities, adjusted for the purchase price of business acquisitions and other transactions, the cost of significant technology investments and net proceeds from the divestiture of discontinued operations and other significant businesses. Not all companies use identical calculations of Cash Flow Before Financing, therefore this presentation may not be comparable to other similarly titled measures of other companies. The calculation of Cash Flow Before Financing does not reflect cash used to service debt, pay dividends or repurchase shares and, therefore, does not necessarily reflect funds available for investment or other discretionary uses.
+
+Three Months Ended Year Ended
+
+December 31, December 31,
+
+2024 2023 2024 2023
+
+(in millions)
+
+Cash flows from operating activities: 
+
+Net income $ 275 $ 919 $ 1,810 $ 2,966 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation and amortization 245 246 964 912 
+
+Restructuring expense, net of cash paid 20 79 (45) 83 
+
+Working capital 451 173 120 (128) 
+
+Pension contributions (11) (13) (32) (33) 
+
+Increase in deferred income tax assets from intercompany transfers of intellectual property and other related transactions (723) (2,082) 
+
+Net loss (gain) on equity method transactions 36 (605) 
+
+Other, net 44 (57) 234 178 
+
+Net cash provided by operating activities 1,060 624 2,446 1,896 
+
+Cash flows from investing activities: 
+
+Capital expenditures (166) (203) (830) (906) 
+
+Proceeds from business divestitures, net of cash sold (17) 
+
+Cost of business acquisitions and other transactions, net of cash acquired (83) 
+
+Cost of technology investments (5) (121) (6) 
+
+Proceeds from sale of equity method investments 448 
+
+Purchase of short-term investments (748) 
+
+Redemption of short-term investments 740 740 
+
+Settlement of derivatives (2) 6 
+
+Other, net 3 1 6 4 
+
+Net cash provided by (used in) investing activities 577 (207) (507) (1,002) 
+
+Adjusting items: 
+
+Adjustment for the cost of business acquisitions and other transactions, net 83 
+
+Adjustment for cost of significant technology investments 4 121 4 
+
+Adjustment for proceeds from sale of equity method investment (448) 
+
+Cash flow before financing $ 1,637 $ 421 $ 1,612 $ 981 
+
+16
+
+Financial Guidance: The reconciliation of the forward-looking non-GAAP financial measures provided in the Companys financial guidance to the most comparable forward-looking GAAP measure is as follows:
+
+Estimated Q1 Estimated Full Year
+
+2025 (a) 2025 (a)
+
+($ in millions)
+
+Adjusted Operating Income $ Margin (b) $ Margin (b)
+
+Net income attributable to Aptiv $ 235 5.0 % $ 1,250 6.3 %
+
+Interest expense 95 365 
+
+Other income, net (5) (20) 
+
+Income tax expense 50 280 
+
+Equity loss, net of tax 10 50 
+
+Net income attributable to noncontrolling interest (c) 20 
+
+Operating income $ 385 8.1 % $ 1,945 9.7 %
+
+Amortization 50 210 
+
+Restructuring 60 175 
+
+Other acquisition and portfolio project costs 20 70 
+
+Compensation expense related to acquisitions 5 20 
+
+Adjusted operating income $ 520 11.0 % $ 2,420 12.1 %
+
+Adjusted EBITDA 
+
+Net income attributable to Aptiv $ 235 5.0 % $ 1,250 6.3 %
+
+Interest expense 95 365 
+
+Income tax expense 50 280 
+
+Net income attributable to noncontrolling interest (c) 20 
+
+Depreciation and amortization 240 975 
+
+EBITDA $ 620 13.1 % $ 2,890 14.5 %
+
+Other income, net (5) (20) 
+
+Equity loss, net of tax 10 50 
+
+Restructuring 60 175 
+
+Other acquisition and portfolio project costs 20 70 
+
+Compensation expense related to acquisitions 5 20 
+
+Adjusted EBITDA $ 710 15.0 % $ 3,185 15.9 %
+
+(a) 
+
+Prepared at the estimated mid-point of the Companys financial guidance range.
+
+(b) Represents net income attributable to Aptiv, operating income, Adjusted Operating Income, EBITDA and Adjusted EBITDA, respectively, as a percentage of estimated net sales.
+
+(c) 
+
+Includes portion attributable to redeemable noncontrolling interest.
+
+17
+
+Estimated Q1 Estimated Full Year
+
+2025 (a) 2025 (a)
+
+Adjusted Net Income Per Share ($ and shares in millions, except per share amounts)
+
+Net income attributable to Aptiv $ 235 $ 1,250 
+
+Adjusting items: 
+
+Amortization 50 210 
+
+Restructuring 60 175 
+
+Other acquisition and portfolio project costs 20 70 
+
+Compensation expense related to acquisitions 5 20 
+
+Tax impact of adjusting items (25) (85) 
+
+Adjusted net income attributable to Aptiv $ 345 $ 1,640 
+
+Weighted average number of diluted shares outstanding 233.00 225.00 
+
+Diluted net income per share attributable to ordinary shareholders $ 1.00 $ 5.55 
+
+Adjusted net income per share $ 1.50 $ 7.30 
+
+(a) 
+
+Prepared at the estimated mid-point of the Companys financial guidance range.
+
+Investor Contact:
+
+Jane Wu
+
++1.617.603.7941
+
+jane.wu@aptiv.com
+
+18
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>aptv2024ex992.htm
+<DESCRIPTION>EXHIBIT 99.2
+<TEXT>
+Document
+
+Exhibit 99.2
+
+RECAST OF OPERATING SEGMENTS
+
+(Unaudited)
+
+Beginning in the first quarter of 2025, Aptiv PLC (Aptiv or the Company) is realigning its business into three reportable operating segments: Electrical Distribution Systems, Engineered Components Group and Advanced Safety and User Experience. 
+
+To assist investors who may want to consider the effects of these segment reporting changes on Aptivs historical results, unaudited recast segment financial information for each quarter of fiscal years 2023 and 2024 and for the fiscal years ended December 31, 2023 and 2024 are shown below. The changes to Aptivs segment reporting will be reflected in Aptivs financial statements commencing with the first Quarterly Report of 2025 on Form 10-Q.
+
+Year Ended December 31, 2024
+
+First Quarter Second Quarter Third Quarter Fourth Quarter Total
+
+(in millions)
+
+Net Sales 
+
+Electrical Distribution Systems $ 2,081 $ 2,065 $ 2,035 $ 2,128 $ 8,309 
+
+Engineered Components Group 1,596 1,626 1,582 1,580 6,384 
+
+Advanced Safety and User Experience 1,429 1,554 1,427 1,381 5,791 
+
+Eliminations and Other (a) (205) (194) (190) (182) (771) 
+
+Net Sales $ 4,901 $ 5,051 $ 4,854 $ 4,907 $ 19,713 
+
+Adjusted Operating Income 
+
+Electrical Distribution Systems $ 136 $ 138 $ 125 $ 180 $ 579 
+
+Engineered Components Group 253 298 272 250 1,073 
+
+Advanced Safety and User Experience 155 170 196 193 714 
+
+Adjusted Operating Income $ 544 $ 606 $ 593 $ 623 $ 2,366 
+
+Year Ended December 31, 2023
+
+First Quarter Second Quarter Third Quarter Fourth Quarter Total
+
+(in millions)
+
+Net Sales 
+
+Electrical Distribution Systems $ 2,111 $ 2,278 $ 2,259 $ 2,184 $ 8,832 
+
+Engineered Components Group 1,559 1,622 1,652 1,582 6,415
+
+Advanced Safety and User Experience 1,366 1,532 1,441 1,356 5,695
+
+Eliminations and Other (a) (218) (232) (238) (203) (891) 
+
+Net Sales $ 4,818 $ 5,200 $ 5,114 $ 4,919 $ 20,051 
+
+Adjusted Operating Income 
+
+Electrical Distribution Systems $ 141 $ 152 $ 173 $ 201 $ 667 
+
+Engineered Components Group 233 240 278 258 1,009
+
+Advanced Safety and User Experience 63 138 109 141 451
+
+Adjusted Operating Income $ 437 $ 530 $ 560 $ 600 $ 2,127 
+
+(a) 
+
+Eliminations and Other includes the elimination of inter-segment transactions. 
+
+1
+
+RECONCILIATION OF NON-GAAP MEASURES
+
+(Unaudited)
+
+Adjusted Operating Income represents a non-GAAP financial measure, which is reconciled to its closest GAAP financial measure in the following schedules.
+
+Consolidated Adjusted Operating Income 
+
+Year Ended December 31, 2024
+
+First Quarter Second Quarter Third Quarter Fourth Quarter Total
+
+($ in millions)
+
+Net income attributable to Aptiv $ 218 $ 938 $ 363 $ 268 $ 1,787 
+
+Interest expense 65 64 101 107 337 
+
+Other income, net (15) (10) (5) (11) (41) 
+
+Net (gain) loss on equity method transactions (641) 36 (605) 
+
+Income tax expense 76 51 32 64 223 
+
+Equity loss, net of tax 69 34 7 8 118 
+
+Net income attributable to noncontrolling interest 6 5 7 6 24 
+
+Net (loss) income attributable to redeemable noncontrolling interest (2) 1 (1) 
+
+Operating income $ 419 $ 441 $ 503 $ 479 $ 1,842 
+
+Amortization 54 52 53 52 211 
+
+Restructuring 39 70 16 68 193 
+
+Other acquisition and portfolio project costs 28 25 13 14 80 
+
+Asset impairments 14 3 5 22 
+
+Compensation expense related to acquisitions 4 4 5 5 18 
+
+Adjusted operating income $ 544 $ 606 $ 593 $ 623 $ 2,366 
+
+Year Ended December 31, 2023
+
+First Quarter Second Quarter Third Quarter Fourth Quarter Total
+
+($ in millions)
+
+Net income attributable to Aptiv $ 162 $ 242 $ 1,629 $ 905 $ 2,938 
+
+Interest expense 67 72 75 71 285 
+
+Other expense (income), net 1 (11) (26) (27) (63) 
+
+Income tax expense (benefit) 34 30 (1,312) (680) (1,928) 
+
+Equity loss, net of tax 82 73 72 72 299 
+
+Net income attributable to noncontrolling interest 3 4 8 13 28 
+
+Net (loss) income attributable to redeemable noncontrolling interest (1) 1 
+
+Operating income $ 348 $ 410 $ 446 $ 355 $ 1,559 
+
+Amortization 59 59 59 56 233 
+
+Restructuring 11 42 28 130 211 
+
+Other acquisition and portfolio project costs 14 11 20 35 80 
+
+Asset impairments 18 18 
+
+Compensation expense related to acquisitions 5 8 7 6 26 
+
+Adjusted operating income $ 437 $ 530 $ 560 $ 600 $ 2,127 
+
+2
+
+Segment Adjusted Operating Income 
+
+(in millions) 
+
+Three Months Ended March 31, 2024 Electrical Distribution Systems Engineered Components Group Advanced Safety and User Experience Total
+
+Operating income $ 109 $ 208 $ 102 $ 419 
+
+Amortization 1 30 23 54 
+
+Restructuring 15 7 17 39 
+
+Other acquisition and portfolio project costs 11 8 9 28 
+
+Compensation expense related to acquisitions 4 4 
+
+Adjusted operating income $ 136 $ 253 $ 155 $ 544 
+
+Depreciation and amortization (a) $ 58 $ 103 $ 69 $ 230 
+
+Three Months Ended June 30, 2024 Electrical Distribution Systems Engineered Components Group Advanced Safety and User Experience Total
+
+Operating income $ 94 $ 240 $ 107 $ 441 
+
+Amortization 31 21 52 
+
+Restructuring 35 19 16 70 
+
+Other acquisition and portfolio project costs 9 8 8 25 
+
+Asset impairments 14 14 
+
+Compensation expense related to acquisitions 4 4 
+
+Adjusted operating income $ 138 $ 298 $ 170 $ 606 
+
+Depreciation and amortization (a) $ 56 $ 106 $ 86 $ 248 
+
+Three Months Ended September 30, 2024 Electrical Distribution Systems Engineered Components Group Advanced Safety and User Experience Total
+
+Operating income $ 110 $ 231 $ 162 $ 503 
+
+Amortization 31 22 53 
+
+Restructuring 10 3 3 16 
+
+Other acquisition and portfolio project costs 5 4 4 13 
+
+Asset impairments 3 3 
+
+Compensation expense related to acquisitions 5 5 
+
+Adjusted operating income $ 125 $ 272 $ 196 $ 593 
+
+Depreciation and amortization (a) $ 59 $ 111 $ 71 $ 241 
+
+Three Months Ended December 31, 2024 Electrical Distribution Systems Engineered Components Group Advanced Safety and User Experience Total
+
+Operating income $ 133 $ 204 $ 142 $ 479 
+
+Amortization 1 28 23 52 
+
+Restructuring 41 10 17 68 
+
+Other acquisition and portfolio project costs 5 3 6 14 
+
+Asset impairments 5 5 
+
+Compensation expense related to acquisitions 5 5 
+
+Adjusted operating income $ 180 $ 250 $ 193 $ 623 
+
+Depreciation and amortization (a) $ 62 $ 109 $ 74 $ 245 
+
+(a) 
+
+Includes asset impairments.
+
+3
+
+Segment Adjusted Operating Income 
+
+(in millions) 
+
+Three Months Ended March 31, 2023 Electrical Distribution Systems Engineered Components Group Advanced Safety and User Experience Total
+
+Operating income $ 131 $ 188 $ 29 $ 348 
+
+Amortization 4 32 23 59 
+
+Restructuring 3 4 4 11 
+
+Other acquisition and portfolio project costs 3 9 2 14 
+
+Compensation expense related to acquisitions 5 5 
+
+Adjusted operating income $ 141 $ 233 $ 63 $ 437 
+
+Depreciation and amortization (a) $ 48 $ 101 $ 67 $ 216 
+
+Three Months Ended June 30, 2023 Electrical Distribution Systems Engineered Components Group Advanced Safety and User Experience Total
+
+Operating income $ 143 $ 197 $ 70 $ 410 
+
+Amortization 4 32 23 59 
+
+Restructuring 8 34 42 
+
+Other acquisition and portfolio project costs 5 3 3 11 
+
+Compensation expense related to acquisitions 8 8 
+
+Adjusted operating income $ 152 $ 240 $ 138 $ 530 
+
+Depreciation and amortization (a) $ 50 $ 105 $ 69 $ 224 
+
+Three Months Ended September 30, 2023 Electrical Distribution Systems Engineered Components Group Advanced Safety and User Experience Total
+
+Operating income $ 160 $ 235 $ 51 $ 446 
+
+Amortization 3 32 24 59 
+
+Restructuring 2 5 21 28 
+
+Other acquisition and portfolio project costs 8 6 6 20 
+
+Compensation expense related to acquisitions 7 7 
+
+Adjusted operating income $ 173 $ 278 $ 109 $ 560 
+
+Depreciation and amortization (a) $ 53 $ 107 $ 66 $ 226 
+
+Three Months Ended December 31, 2023 Electrical Distribution Systems Engineered Components Group Advanced Safety and User Experience Total
+
+Operating income $ 130 $ 195 $ 30 $ 355 
+
+Amortization 1 32 23 56 
+
+Restructuring 43 17 70 130 
+
+Other acquisition and portfolio project costs 14 12 9 35 
+
+Asset impairments 13 2 3 18 
+
+Compensation expense related to acquisitions 6 6 
+
+Adjusted operating income $ 201 $ 258 $ 141 $ 600 
+
+Depreciation and amortization (a) $ 27 $ 147 $ 72 $ 246 
+
+(a) 
+
+Includes asset impairments.
+
+4
+
+Segment Adjusted Operating Income 
+
+(in millions) 
+
+Year Ended December 31, 2024 Electrical Distribution Systems Engineered Components Group Advanced Safety and User Experience Total
+
+Operating income $ 446 $ 883 $ 513 $ 1,842 
+
+Amortization 2 120 89 211 
+
+Restructuring 101 39 53 193 
+
+Other acquisition and portfolio project costs 30 23 27 80 
+
+Asset impairments 8 14 22 
+
+Compensation expense related to acquisitions 18 18 
+
+Adjusted operating income $ 579 $ 1,073 $ 714 $ 2,366 
+
+Depreciation and amortization (a) $ 235 $ 429 $ 300 $ 964 
+
+Year Ended December 31, 2023 Electrical Distribution Systems Engineered Components Group Advanced Safety and User Experience Total
+
+Operating income $ 564 $ 815 $ 180 $ 1,559 
+
+Amortization 12 128 93 233 
+
+Restructuring 48 34 129 211 
+
+Other acquisition and portfolio project costs 30 30 20 80 
+
+Asset impairments 13 2 3 18 
+
+Compensation expense related to acquisitions 26 26 
+
+Adjusted operating income $ 667 $ 1,009 $ 451 $ 2,127 
+
+Depreciation and amortization (a) $ 178 $ 460 $ 274 $ 912 
+
+(a) 
+
+Includes asset impairments.
+
+5
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>4
+<FILENAME>aptv-20250206.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Document and Entity Information 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>5
+<FILENAME>aptv-20250206_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>6
+<FILENAME>aptv-20250206_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Senior Notes, 5.40% Due 2049 [Member] 
+Senior Notes, 5.40% Due 2049 [Member] 
+Senior Notes, 5.40% Due 2049 [Member] 
+
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Senior Notes, 5.150% Due 2034 
+Senior Notes, 5.150% Due 2034 [Member] 
+Senior Notes, 5.150% Due 2034 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Senior Notes, 4.150% due 2052 
+Senior Notes, 4.150% due 2052 [Member] 
+Senior Notes, 4.150% due 2052 
+
+Senior Notes, 4.650% Due 2029 
+Senior Notes, 4.650% Due 2029 [Member] 
+Senior Notes, 4.650% Due 2029 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Senior Notes, 5.750% Due 2054 
+Senior Notes, 5.750% Due 2054 [Member] 
+Senior Notes, 5.750% Due 2054 
+
+Cover page. 
+Cover [Abstract] 
+
+Senior Notes, 4.400% Due 2046 [Member] 
+Senior Notes, 4.400% Due 2046 [Member] 
+Senior Notes, 4.400% Due 2046 
+
+Debt Instrument [Axis] 
+Debt Instrument [Axis] 
+
+City Area Code 
+City Area Code 
+
+Senior Notes, 3.250% due 2032 
+Senior Notes, 3.250% due 2032 [Member] 
+Senior Notes, 3.250% due 2032 
+
+Entity Information, Former Legal or Registered Name 
+Entity Information, Former Legal or Registered Name 
+
+Fixed-to-Fixed Reset Rate Junior Notes, 6.875% due 2054 
+Fixed-to-Fixed Reset Rate Junior Notes, 6.875% due 2054 [Member] 
+Fixed-to-Fixed Reset Rate Junior Notes, 6.875% due 2054 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Trading Symbol 
+Trading Symbol 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+
+Senior Notes, 3.10% Due 2051 
+Senior Notes, 3.10% Due 2051 [Member] 
+Senior Notes, 3.10% Due 2051 
+
+Entity Address, Country 
+Entity Address, Country 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Euro-denominated Senior Notes, 1.600% Due 2028 [Member] 
+Euro-denominated Senior Notes, 1.600% Due 2028 [Member] 
+Euro-denominated Senior Notes, 1.600% Due 2028 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Document Information [Line Items] 
+Document Information [Line Items] 
+
+Schedule of Title of 12(b) Security [Table] 
+Document Information [Table] 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Debt Instrument, Name [Domain] 
+Debt Instrument, Name [Domain] 
+
+Country Region 
+Country Region 
+
+Senior Notes, 4.35% Due 2029 [Member] 
+Senior Notes, 4.35% Due 2029 [Member] 
+Senior Notes, 4.35% Due 2029 [Member] 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+Euro-denominated Senior Notes, 4.250% Due 2036 
+Euro-denominated Senior Notes, 4.250% Due 2036 [Member] 
+Euro-denominated Senior Notes, 4.250% Due 2036 
+
+Document Period End Date 
+Document Period End Date 
+
+Document Type 
+Document Type
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>7
+<FILENAME>aptv-20250206_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>aptivlogoa21a.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Document and Entity Information
+
+Feb. 06, 2025
+
+Document Information [Line Items] 
+
+Title of 12(b) Security Ordinary Shares. $0.01 par value per share
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Entity Address, Postal Zip Code 8200
+
+City Area Code 52
+
+Country Region 41
+
+Document Type 8-K
+
+Document Period End Date Feb. 06, 2025
+
+Entity Registrant Name Aptiv PLC
+
+Entity Central Index Key 0001521332
+
+Amendment Flag false
+
+Entity Incorporation, State or Country Code Y9
+
+Entity File Number 001-35346
+
+Entity Tax Identification Number 98-1824200
+
+Entity Address, Address Line One Spitalstrasse 5
+
+Entity Address, City or Town Schaffhausen
+
+Entity Address, Postal Zip Code 8200
+
+Entity Address, Country CH
+
+City Area Code 52
+
+Country Region 41
+
+Local Phone Number 580 96 00
+
+Entity Information, Former Legal or Registered Name N/A
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Ordinary Shares. $0.01 par value per share
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Entity Emerging Growth Company false
+
+Euro-denominated Senior Notes, 1.600% Due 2028 [Member] 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 1.600% Senior Notes due 2028
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Title of 12(b) Security 1.600% Senior Notes due 2028
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Senior Notes, 4.35% Due 2029 [Member] 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 4.350% Senior Notes due 2029
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Title of 12(b) Security 4.350% Senior Notes due 2029
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Senior Notes, 4.400% Due 2046 [Member] 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 4.400% Senior Notes due 2046
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Title of 12(b) Security 4.400% Senior Notes due 2046
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Senior Notes, 5.40% Due 2049 [Member] 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 5.400% Senior Notes due 2049
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Title of 12(b) Security 5.400% Senior Notes due 2049
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Senior Notes, 3.10% Due 2051 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 3.100% Senior Notes due 2051
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Title of 12(b) Security 3.100% Senior Notes due 2051
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Senior Notes, 3.250% due 2032 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 3.250% Senior Notes due 2032
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Title of 12(b) Security 3.250% Senior Notes due 2032
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Senior Notes, 4.150% due 2052 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 4.150% Senior Notes due 2052
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Title of 12(b) Security 4.150% Senior Notes due 2052
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Senior Notes, 4.650% Due 2029 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 4.650% Senior Notes due 2029
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Title of 12(b) Security 4.650% Senior Notes due 2029
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Senior Notes, 5.150% Due 2034 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 5.150% Senior Notes due 2034
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Title of 12(b) Security 5.150% Senior Notes due 2034
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Senior Notes, 5.750% Due 2054 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 5.750% Senior Notes due 2054
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Title of 12(b) Security 5.750% Senior Notes due 2054
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Fixed-to-Fixed Reset Rate Junior Notes, 6.875% due 2054 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 6.875% Fixed-to-Fixed Reset Rate Junior Subordinated Notes due 2054
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Title of 12(b) Security 6.875% Fixed-to-Fixed Reset Rate Junior Subordinated Notes due 2054
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Euro-denominated Senior Notes, 4.250% Due 2036 
+
+Document Information [Line Items] 
+
+Title of 12(b) Security 4.250% Senior Notes due 2036
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+Title of 12(b) Security 4.250% Senior Notes due 2036
+
+Trading Symbol APTV
+
+Security Exchange Name NYSE
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Region code of country+ References
+
+No definition available.+ Details
+
+Name: dei_CountryRegion
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentInformationLineItems
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+ISO 3166-1 alpha-2 country code.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCountry
+
+Namespace Prefix: dei_
+
+Data Type: dei:countryCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Former Legal or Registered Name of an entity+ References
+
+No definition available.+ Details
+
+Name: dei_EntityInformationFormerLegalOrRegisteredName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_DebtInstrumentAxis=aptv_EurodenominatedSeniorNotes1.600Due2028Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_DebtInstrumentAxis=aptv_SeniorNotes4.35Due2029Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_DebtInstrumentAxis=aptv_SeniorNotes4.400Due2046Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_DebtInstrumentAxis=aptv_SeniorNotes5.40Due2049Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_DebtInstrumentAxis=aptv_SeniorNotes310Due2051Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_DebtInstrumentAxis=aptv_SeniorNotes3250Due2032Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_DebtInstrumentAxis=aptv_SeniorNotes4150Due2052Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_DebtInstrumentAxis=aptv_SeniorNotes4.650Due2029Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_DebtInstrumentAxis=aptv_SeniorNotes5.150Due2034Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_DebtInstrumentAxis=aptv_SeniorNotes5.750Due2054Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_DebtInstrumentAxis=aptv_FixedToFixedResetRateJuniorNotes6.875Due2054Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_DebtInstrumentAxis=aptv_EuroDenominatedSeniorNotes4.250Due2036Member
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>11
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>15
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+13 
+24 
+1 
+false 
+12 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Document and Entity Information 
+Sheet 
+http://www.aptiv.com/role/DocumentandEntityInformation 
+Document and Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+aptv-20250206.htm 
+aptv-20250206.xsd 
+aptv-20250206_def.xml 
+aptv-20250206_lab.xml 
+aptv-20250206_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>17
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>18
+<FILENAME>0001521332-25-000006-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>19
+<FILENAME>aptv-20250206_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001521332 
+
+2025-02-06 
+2025-02-06 
+
+0001521332 
+
+aptv:EurodenominatedSeniorNotes1.600Due2028Member 
+
+2025-02-06 
+2025-02-06 
+
+0001521332 
+
+aptv:SeniorNotes4.35Due2029Member 
+
+2025-02-06 
+2025-02-06 
+
+0001521332 
+
+aptv:SeniorNotes4.650Due2029Member 
+
+2025-02-06 
+2025-02-06 
+
+0001521332 
+
+aptv:SeniorNotes3250Due2032Member 
+
+2025-02-06 
+2025-02-06 
+
+0001521332 
+
+aptv:SeniorNotes5.150Due2034Member 
+
+2025-02-06 
+2025-02-06 
+
+0001521332 
+
+aptv:EuroDenominatedSeniorNotes4.250Due2036Member 
+
+2025-02-06 
+2025-02-06 
+
+0001521332 
+
+aptv:SeniorNotes4.400Due2046Member 
+
+2025-02-06 
+2025-02-06 
+
+0001521332 
+
+aptv:SeniorNotes5.40Due2049Member 
+
+2025-02-06 
+2025-02-06 
+
+0001521332 
+
+aptv:SeniorNotes310Due2051Member 
+
+2025-02-06 
+2025-02-06 
+
+0001521332 
+
+aptv:SeniorNotes4150Due2052Member 
+
+2025-02-06 
+2025-02-06 
+
+0001521332 
+
+aptv:SeniorNotes5.750Due2054Member 
+
+2025-02-06 
+2025-02-06 
+
+0001521332 
+
+aptv:FixedToFixedResetRateJuniorNotes6.875Due2054Member 
+
+2025-02-06 
+2025-02-06 
+
+0001521332 
+false 
+8-K 
+2025-02-06 
+Aptiv PLC 
+Y9 
+001-35346 
+98-1824200 
+Spitalstrasse 5 
+8200 
+Schaffhausen 
+CH 
+41 
+52 
+580 96 00 
+N/A 
+false 
+false 
+false 
+false 
+Ordinary Shares. $0.01 par value per share 
+APTV 
+NYSE 
+1.600% Senior Notes due 2028 
+APTV 
+NYSE 
+4.350% Senior Notes due 2029 
+APTV 
+NYSE 
+4.650% Senior Notes due 2029 
+APTV 
+NYSE 
+3.250% Senior Notes due 2032 
+APTV 
+NYSE 
+5.150% Senior Notes due 2034 
+APTV 
+NYSE 
+4.250% Senior Notes due 2036 
+APTV 
+NYSE 
+4.400% Senior Notes due 2046 
+APTV 
+NYSE 
+5.400% Senior Notes due 2049 
+APTV 
+NYSE 
+3.100% Senior Notes due 2051 
+APTV 
+NYSE 
+4.150% Senior Notes due 2052 
+APTV 
+NYSE 
+5.750% Senior Notes due 2054 
+APTV 
+NYSE 
+6.875% Fixed-to-Fixed Reset Rate Junior Subordinated Notes due 2054 
+APTV 
+NYSE 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

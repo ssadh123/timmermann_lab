@@ -1,0 +1,1589 @@
+<SEC-DOCUMENT>0001031308-25-000001.txt : 20250226
+<SEC-HEADER>0001031308-25-000001.hdr.sgml : 20250226
+<ACCEPTANCE-DATETIME>20250226070537
+ACCESSION NUMBER:		0001031308-25-000001
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		16
+CONFORMED PERIOD OF REPORT:	20250226
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250226
+DATE AS OF CHANGE:		20250226
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BENTLEY SYSTEMS INC
+		CENTRAL INDEX KEY:			0001031308
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				953936623
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39548
+		FILM NUMBER:		25666128
+
+	BUSINESS ADDRESS:	
+		STREET 1:		685 STOCKTON DRIVE
+		CITY:			EXTON
+		STATE:			PA
+		ZIP:			19341
+		BUSINESS PHONE:		6104585000
+
+	MAIL ADDRESS:	
+		STREET 1:		685 STOCKTON DRIVE
+		CITY:			EXTON
+		STATE:			PA
+		ZIP:			19341
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>bsy-20250226.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?bsy-20250226
+
+0001031308FALSE00010313082025-02-262025-02-26
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+___________________________________
+
+FORM 8-K
+
+___________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):February 26, 2025
+
+___________________________________
+
+BENTLEY SYSTEMS, INCORPORATED
+
+(Exact name of registrant as specified in its charter)
+
+___________________________________
+
+Delaware 001-39548 
+
+95-3936623
+
+(State or other jurisdiction of incorporation) 
+
+(Commission File Number) 
+
+(IRS Employer Identification No.)
+
+685 Stockton Drive 
+
+Exton, Pennsylvania 
+
+19341
+
+(Address of principal executive offices) 
+
+(Zip Code)
+
+Registrants telephone number, including area code:(610) 458-5000
+
+___________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol Name of each exchange on which registered
+
+Class B Common Stock, $0.01 Par Value BSY 
+
+The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On February 26, 2025, Bentley Systems, Incorporated (the Company) issued a press release announcing its financial results for the three months and year ended December 31, 2024. A copy of the release is furnished as Exhibit 99.1 and incorporated by reference herein. Exhibit 99.2 sets forth the reasons the Company believes that presentation of the non-GAAP financial measures contained in the press release provides useful information to investors regarding the Companys results of operations and financial condition. To the extent material, Exhibit 99.2 also discloses the additional purposes, if any, for which the Companys management uses these non-GAAP financial measures. Reconciliations of these non-GAAP financial measures to their most directly comparable GAAP financial measures are included in the press release itself.
+
+The information in this Item 2.02 of this Current Report on Form 8-K, including Exhibit 99.1 and Exhibit 99.2, is being furnished and shall not be deemed filed for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act) or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference in any filing under the Exchange Act or the Securities Act of 1933, as amended, regardless of the general incorporation language of such filing, except as shall be expressly set forth by specific reference in such filing.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit No. 
+
+Description
+
+99.1 
+
+Press release dated February 26, 2025
+
+99.2 
+
+Explanation of Non-GAAP and Other Financial Measures
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Bentley Systems, Incorporated
+
+Date: February 26, 2025 
+
+By: 
+
+/s/ WERNER ANDRE
+
+Name: 
+
+Werner Andre
+
+Title: 
+
+Chief Financial Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a24q4exhibit991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Exhibit 99.1
+
+Bentley Systems Announces Fourth Quarter and Full Year 2024 Results and 2025 Financial Outlook
+
+Increases Quarterly Dividend
+
+EXTON, PA February 26, 2025 Bentley Systems, Incorporated (Nasdaq: BSY), the infrastructure engineering software company, today announced results for the quarter ended December 31, 2024 and its financial outlook for 2025.
+
+Fourth Quarter 2024 Results
+
+Total revenues were $349.8 million, up 12.6% or 13.2% on a constant currency basis, year-over-year;
+
+Subscriptions revenues were $315.6 million, up 15.8% or 16.4% on a constant currency basis, year-over-year;
+
+Annualized Recurring Revenues (ARR) were $1,283.3 million as of December 31, 2024, compared to $1,174.8 million as of December 31, 2023, representing a constant currency ARR growth rate of 12%;
+
+Last twelve-month recurring revenues dollar-based net retention rate was 110%, compared to 109% for the same period last year;
+
+Operating income margin was 17.6%, compared to 12.2% for the same period last year;
+
+Adjusted operating income inclusive of stock-based compensation expense (Adjusted OI w/SBC)margin was 21.5%, compared to 24.0% for the same period last year;
+
+Net income per diluted share was $0.16, compared to $0.54 for the same period last year;
+
+Adjusted net income per diluted share (Adjusted EPS) was $0.21, compared to $0.20 for the same period last year; and
+
+Cash flows from operations was $81.6 million, compared to $87.1 million for the same period last year.
+
+Full Year 2024 Results
+
+Total revenues were $1,353.1 million, up 10.1% or 10.3% on a constant currency basis over 2023;
+
+Subscriptions revenues were $1,223.4 million, up 13.2% or 13.4% on a constant currency basis over 2023;
+
+Operating income margin was 22.3%, compared to 18.8% for 2023;
+
+Adjusted OI w/SBCmargin was 27.5%, compared to 26.4% for 2023;
+
+Net income per diluted share was $0.72, compared to $1.00 for 2023;
+
+Adjusted EPS was $1.07, compared to $0.91 for 2023; and
+
+Cash flows from operations was $435.3 million, compared to $416.7 million for 2023.
+
+Executive Chair Greg Bentley said, 24Q4 concluded a commendably satisfactory year in which every quarter improved operationally, even net of the persisting declines in Cohesive and China. I congratulate BSYs management on appreciably surpassing 2024s internal objectives for new business, while achieving our annual operating margin improvement target.
+
+Stepping back (in keeping with my new role) upon 24Q4s occasioning of our fifth yearend as a public company, it is gratifying to benchmark against stockholder priorities the compounding effects of BSYs consistently sustained growth. Since our 2020 IPO we have set the pace to double over five years with minimal share dilution our subscription revenues, operating margin dollars (AOI inclusive of SBC), and FREE cash flow (FCF less SBC). Most importantly, I am confident that our next-generation management team will maintain or improve upon such compounding over the succeeding five years, and beyond.
+
+CEO Nicholas Cumins said, Our year-over-year ARR growth on a constant-currency basis was 12% in 24Q4 (12.5% excluding China). The global demand environment remains robust across sectors and geographies, and our users continue to be optimistic about end market conditions. We entered this year well aligned with their priorities and well positioned to continue our strong performance in 2025 and beyond.
+
+With the recent addition of James Lee as Chief Operating Officer, who has responsibility for commercial programs and growth initiatives such as Bentley Asset Analytics, and the broader scope of Chief Technology Officer Julien Moutte now including product development, we are strongly positioned to capture the many growth opportunities that we have opened up with infrastructure AI, building on our companys heritage of technology innovation and industry leadership.
+
+CFO Werner Andre said, We are pleased with our finish to a solid year of financial performance, delivering resilient ARR growth, our anticipated annual margin expansion, and continued above expectations free cash flow conversion. We also continued to improve the quality of our revenues, now 91% recurring after the years 13% growth in subscription revenues, while professional services revenues declined to 6% of total revenues mainly due to a lower volume in Cohesives MAXIMO (non-Bentley software) related work.
+
+Our 2025 outlook is consistent with our 2024 results and our sustained execution and expectation of annual double-digit ARR growth, 100 basis-points expansion of adjusted operating income with SBC margin, and directly efficient free cash flow conversion. Our capital allocation will also stay the course, as we undertake to buy back shares to offset dilution from stockbased compensation and to annually raise our modest dividend.
+
+2025 Financial Outlook
+
+The Company is sharing the following financial outlook for the full year 2025:
+
+Total revenues in the range of $1,461 million to $1,490 million, or $1,481 million to $1,510 million in constant currency;
+
+Subscriptions revenues growth rate of 10.5% to 12.5% in constant currency;
+
+Perpetual licenses revenues growth rate approximately flat in constant currency;
+
+Services revenues growth rate approximately flat in constant currency;
+
+Constant currency ARR growth rate (business performance, including programmatic acquisitions) of 10.5% to 12.5%;
+
+Adjusted OI w/SBC margin of approximately 28.5% (representing annual improvement of 100 bps);
+
+Effective tax rate of approximately 21%;
+
+Free cash flows in the range of $415 million to $455 million; and
+
+Capital expenditures of approximately $20 million.
+
+The 2025 outlook information provided above includes non-GAAP financial measures management uses in measuring performance and liquidity. The Company is unable to reconcile these forward-looking non-GAAP measures to GAAP without unreasonable efforts because it is not possible to predict with a reasonable degree of certainty the actual impact of certain items and unanticipated events, including stockbased compensation charges, amortization of acquired intangible assets, realignment expenses, and other items, which would be included in GAAP results. The impact of such items and unanticipated events could be potentially significant.
+
+The 2025 outlook is forward-looking, subject to significant business, economic, regulatory, and competitive uncertainties and contingencies, many of which are beyond the control of the Company and its management, and based upon assumptions with respect to future decisions, which are subject to change. Actual results may vary and those variations may be material. As such, our results may not fall within the ranges contained in this outlook. The Company uses these forward-looking measures to evaluate its ongoing operations and for internal planning and forecasting purposes.
+
+Increased Quarterly Cash Dividend
+
+On February 20, 2025, the Companys Board of Directors increased by one cent the Companys regular quarterly dividend effective from the first quarter of 2025 and declared a $0.07 per share dividend for the first quarter of 2025. The cash dividend is payable on March 27, 2025 to all stockholders of record of Class A and Class B common stock as of the close of business on March 19, 2025.
+
+Call Details
+
+Bentley Systems will host a live Zoom video webinar on February 26, 2025 at 8:15 a.m. EST to discuss results for its fourth quarter ended December 31, 2024.
+
+Those wishing to participate should access the live Zoom video webinar of the event through a direct registration link at https://us06web.zoom.us/webinar/register/WN_5K_2h7LgRcqAyS8VUbUO2Q#/registration. Alternatively, the event can be accessed from the Events & Presentations page on Bentley Systems Investor Relations website at https://investors.bentley.com. In addition, a replay and transcript will be available after the conclusion of the live event on Bentley Systems Investor Relations website for one year.
+
+Non-GAAP Financial Measures
+
+In this press release, we sometimes refer to financial measures that are not presented in accordance with U.S. generally accepted accounting principles (GAAP). Certain of these measures are considered non-GAAP financial measures under the United States Securities and Exchange Commission (SEC) regulations. Those rules require the supplemental explanations and reconciliations that are in Bentley Systems Form 8-K (Quarterly Earnings Release) furnished to the SEC.
+
+Forward-Looking Statements
+
+This press release includes forward-looking statements regarding the future results of operations and financial condition, business strategy, and plans and objectives for future operations of Bentley Systems, Incorporated (the Company, we, us, and words of similar import). All such statements contained in this press release, other than statements of historical facts, are forward-looking statements. The words believe, may, will, estimate, continue, anticipate, intend, expect, and similar expressions are intended to identify forward-looking statements. We have based these forward-looking statements largely on our current expectations, projections, and assumptions about future events and financial trends that we believe may affect our financial condition, results of operations, business strategy, short-term and long-term business operations and objectives, and financial needs. These forward-looking statements are subject to a number of risks, uncertainties and assumptions, and there are a significant number of factors that could cause actual results to differ materially from statements made in this press release including: adverse changes in global economic and/or political conditions; the impact of current and future sanctions, embargoes and other similar laws at the state and/or federal level that impose restrictions on our counterparties or upon our ability to operate our business within the subject jurisdictions; political, economic, regulatory and public health and safety risks and uncertainties in the countries and regions in which we operate; failure to retain personnel necessary for the operation of our business or those that we acquire; failure to effectively manage succession; changes in the industries in which our accounts operate; the competitive environment in which we operate; the quality of our products; our ability to develop and market new products to address our accounts rapidly changing technological needs; changes in capital markets and our ability to access financing on terms satisfactory to us or at all; the impact of changing or uncertain interest rates on us and on the industries we serve; our ability to integrate acquired businesses successfully; and our ability to identify and consummate future investments and/or acquisitions on terms satisfactory to us or at all.
+
+Further information on potential factors that could affect the financial results of the Company are included in the Companys Form 10K and subsequent Form 10Qs, which are on file with the SEC. The Company disclaims any obligation to update the forward-looking statements provided to reflect events that occur or circumstances that exist after the date on which they were made.
+
+About Bentley Systems
+
+Around the world, infrastructure professionals rely on software from Bentley Systems to help them design, build, and operate better and more resilient infrastructure for transportation, water, energy, cities, and more. Founded in 1984 by engineers for engineers, Bentley is the partner of choice for engineering firms and owner-operators worldwide, with software that spans engineering disciplines, industry sectors, and all phases of the infrastructure lifecycle. Through our digital twin solutions, we help infrastructure professionals unlock the value of their data to transform project delivery and asset performance.
+
+2025 Bentley Systems, Incorporated. Bentley, the Bentley logo, and Cohesive are either registered or unregistered trademarks or service marks of Bentley Systems, Incorporated or one of its direct or indirect wholly owned subsidiaries. All other brands and product names are trademarks of their respective owners.
+
+For more information, contact:
+
+Investors: Eric Boyer, IR@bentley.com
+
+BENTLEY SYSTEMS, INCORPORATED
+
+Consolidated Balance Sheets
+
+(in thousands)
+
+(unaudited)
+
+December 31,
+
+2024 2023
+
+Assets 
+
+Current assets: 
+
+Cash and cash equivalents $ 64,009 $ 68,412 
+
+Accounts receivable 322,862 302,501 
+
+Allowance for doubtful accounts (8,395) (8,965) 
+
+Prepaid income taxes 13,066 12,812 
+
+Prepaid and other current assets 50,531 44,797 
+
+Total current assets 442,073 419,557 
+
+Property and equipment, net 33,798 40,100 
+
+Operating lease right-of-use assets 32,303 38,476 
+
+Intangible assets, net 213,959 248,787 
+
+Goodwill 2,367,179 2,269,336 
+
+Investments 25,764 23,480 
+
+Deferred income taxes 198,286 212,831 
+
+Other assets 86,445 67,283 
+
+Total assets $ 3,399,807 $ 3,319,850 
+
+Liabilities and Equity 
+
+Current liabilities: 
+
+Accounts payable $ 16,479 $ 18,094 
+
+Accruals and other current liabilities 536,417 457,348 
+
+Deferred revenues 245,729 253,785 
+
+Operating lease liabilities 11,656 11,645 
+
+Income taxes payable 4,053 9,491 
+
+Current portion of long-term debt 10,000 
+
+Total current liabilities 814,334 760,363 
+
+Long-term debt 1,388,088 1,518,403 
+
+Deferred compensation plan liabilities 96,684 88,181 
+
+Long-term operating lease liabilities 26,894 30,626 
+
+Deferred revenues 16,641 15,862 
+
+Deferred income taxes 8,612 9,718 
+
+Income taxes payable 3,615 7,337 
+
+Other liabilities 3,819 5,378 
+
+Total liabilities 2,358,687 2,435,868 
+
+Equity: 
+
+Common stock 3,020 2,963 
+
+Additional paid-in capital 1,217,986 1,127,234 
+
+Accumulated other comprehensive loss (104,078) (84,987) 
+
+Accumulated deficit (75,941) (161,932) 
+
+Total Bentley Systems stockholders equity 1,040,987 883,278 
+
+Noncontrolling interest 133 704 
+
+Total equity 1,041,120 883,982 
+
+Total liabilities and equity $ 3,399,807 $ 3,319,850 
+
+BENTLEY SYSTEMS, INCORPORATED
+
+Consolidated Statements of Operations
+
+(in thousands, except share and per share data)
+
+(unaudited)
+
+Three Months Ended Year Ended
+
+December 31, December 31,
+
+2024 2023 2024 2023
+
+Revenues: 
+
+Subscriptions $ 315,590 $ 272,468 $ 1,223,362 $ 1,080,307 
+
+Perpetual licenses 14,312 12,886 45,961 46,038 
+
+Subscriptions and licenses 329,902 285,354 1,269,323 1,126,345 
+
+Services 19,920 25,287 83,772 102,068 
+
+Total revenues 349,822 310,641 1,353,095 1,228,413 
+
+Cost of revenues: 
+
+Cost of subscriptions and licenses 46,470 45,231 173,340 169,406 
+
+Cost of services 21,442 22,566 84,427 96,677 
+
+Total cost of revenues 67,912 67,797 257,767 266,083 
+
+Gross profit 281,910 242,844 1,095,328 962,330 
+
+Operating expense (income): 
+
+Research and development 77,099 71,237 281,247 274,619 
+
+Selling and marketing 78,722 64,074 255,177 224,336 
+
+General and administrative 57,679 51,995 210,374 180,738 
+
+Deferred compensation plan (1,283) 8,817 12,382 13,580 
+
+Amortization of purchased intangibles 8,281 8,948 33,998 38,515 
+
+Total operating expenses 220,498 205,071 793,178 731,788 
+
+Income from operations 61,412 37,773 302,150 230,542 
+
+Interest expense, net (5,755) (9,170) (22,044) (39,793) 
+
+Other income (expense), net 8,619 (14,429) 12,949 (7,222) 
+
+Income before income taxes 64,276 14,174 293,055 183,527 
+
+(Provision) benefit for income taxes (14,627) 165,348 (58,726) 143,241 
+
+Equity in net income of investees, net of tax 90 63 104 19 
+
+Net income 49,739 179,585 234,433 326,787 
+
+Less: Net income (loss) attributable to noncontrolling interest (354) (354) 
+
+Net income attributable to Bentley Systems $ 50,093 $ 179,585 $ 234,787 $ 326,787 
+
+Net income per share attributable to Bentley Systems stockholders: 
+
+Basic $ 0.16 $ 0.57 $ 0.75 $ 1.05 
+
+Diluted $ 0.16 $ 0.54 $ 0.72 $ 1.00 
+
+Weighted average shares: 
+
+Basic 315,035,554 313,526,604 314,886,615 312,358,823 
+
+Diluted 333,874,529 333,418,588 333,774,167 332,503,633 
+
+BENTLEY SYSTEMS, INCORPORATED
+
+Consolidated Statements of Cash Flows
+
+(in thousands)
+
+(unaudited)
+
+Year Ended
+
+December 31,
+
+2024 2023
+
+Cash flows from operating activities: 
+
+Net income $ 234,433 $ 326,787 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation, amortization, and impairment 64,608 71,861 
+
+Deferred income taxes 12,571 (198,878) 
+
+Stock-based compensation expense 74,417 72,972 
+
+Deferred compensation plan 12,382 13,580 
+
+Amortization of deferred debt issuance costs 7,338 7,291 
+
+Change in fair value of derivative (10) 5,038 
+
+Foreign currency remeasurement gain (785) (452) 
+
+Other 7,794 21,047 
+
+Changes in assets and liabilities, net of effect from acquisitions: 
+
+Accounts receivable (32,064) (5,180) 
+
+Prepaid and other assets (6,006) 4,112 
+
+Accounts payable, accruals, and other liabilities 74,953 68,733 
+
+Deferred revenues (1,789) 19,933 
+
+Income taxes payable, net of prepaid income taxes (12,550) 9,852 
+
+Net cash provided by operating activities 435,292 416,696 
+
+Cash flows from investing activities: 
+
+Purchases of property and equipment and investment in capitalized software (14,046) (25,002) 
+
+Acquisitions, net of cash acquired (130,407) (26,023) 
+
+Purchases of investments (1,435) (11,602) 
+
+Proceeds from investments 2,123 
+
+Other 2,621 
+
+Net cash used in investing activities (143,267) (60,504) 
+
+Cash flows from financing activities: 
+
+Proceeds from credit facilities 517,643 588,154 
+
+Payments of credit facilities (474,356) (841,723) 
+
+Payments of debt issuance costs (6,184) 
+
+Repayments of term loan (190,000) (5,000) 
+
+Payments of contingent and non-contingent consideration (3,022) (4,324) 
+
+Payments of dividends (72,115) (58,756) 
+
+Proceeds from stock purchases under employee stock purchase plan 11,228 9,988 
+
+Proceeds from exercise of stock options 4,007 11,715 
+
+Payments for shares acquired including shares withheld for taxes (12,504) (58,937) 
+
+Repurchases of Class B common stock under approved program (64,359) 
+
+Other (188) (191) 
+
+Net cash used in financing activities (289,850) (359,074) 
+
+Effect of exchange rate changes on cash and cash equivalents (6,578) (390) 
+
+Decrease in cash and cash equivalents (4,403) (3,272) 
+
+Cash and cash equivalents, beginning of year 68,412 71,684 
+
+Cash and cash equivalents, end of year $ 64,009 $ 68,412 
+
+BENTLEY SYSTEMS, INCORPORATED
+
+Reconciliation of GAAP to Non-GAAP Financial Measures
+
+(in thousands, except share and per share data)
+
+(unaudited)
+
+Reconciliation of operating income to Adjusted OI w/SBC and to Adjusted operating income:
+
+Three Months Ended Year Ended
+
+December 31, December 31,
+
+2024 2023 2024 2023
+
+Operating income $ 61,412 $ 37,773 $ 302,150 $ 230,542 
+
+Amortization of purchased intangibles 11,520 12,181 46,679 51,219 
+
+Deferred compensation plan (1,283) 8,817 12,382 13,580 
+
+Acquisition expenses 3,440 2,588 10,222 17,866 
+
+Realignment (income) expenses (29) 13,270 789 11,470 
+
+Adjusted OI w/SBC 75,060 74,629 372,222 324,677 
+
+Stock-based compensation expense 16,417 16,563 73,505 71,470 
+
+Adjusted operating income $ 91,477 $ 91,192 $ 445,727 $ 396,147 
+
+Reconciliation of net income attributable to Bentley Systems to Adjusted net income:
+
+Three Months Ended Year Ended
+
+December 31, December 31,
+
+2024 2023 2024 2023
+
+$ 
+
+EPS(1) $ 
+
+EPS(1) $ 
+
+EPS(1) $ 
+
+EPS(1)
+
+Net income attributable to Bentley Systems $ 50,093 $ 0.16 $ 179,585 $ 0.54 $ 234,787 $ 0.72 $ 326,787 $ 1.00 
+
+Non-GAAP adjustments, prior to income taxes: 
+
+Amortization of purchased intangibles 11,520 0.03 12,181 0.04 46,679 0.14 51,219 0.15 
+
+Stock-based compensation expense 16,417 0.05 16,563 0.05 73,505 0.22 71,470 0.21 
+
+Deferred compensation plan (1,283) 8,817 0.03 12,382 0.04 13,580 0.04 
+
+Acquisition expenses 3,440 0.01 2,588 0.01 10,222 0.03 17,866 0.05 
+
+Realignment (income) expenses (29) 13,270 0.04 789 11,470 0.03 
+
+Other (income) expense, net (8,619) (0.03) 14,429 0.04 (12,949) (0.04) 7,222 0.02 
+
+Total non-GAAP adjustments, prior to income taxes 21,446 0.06 67,848 0.20 130,628 0.39 172,827 0.52 
+
+Income tax effect of non-GAAP adjustments (2,775) (0.01) (12,333) (0.04) (14,375) (0.04) (31,636) (0.10) 
+
+Tax benefit related to internal restructuring (170,784) (0.51) (170,784) (0.51) 
+
+Equity in net income of investees, net of tax (90) (63) (104) (19) 
+
+Adjusted net income(2) $ 68,674 $ 0.21 $ 64,253 $ 0.20 $ 350,936 $ 1.07 $ 297,175 $ 0.91 
+
+Adjusted diluted weighted average shares 333,874,529 333,418,588 333,774,167 332,503,633
+
+(1)Adjusted EPS was computed independently for each reconciling item presented; therefore, the sum of Adjusted EPS for each line item may not equal total Adjusted EPS due to rounding.
+
+(2)Adjusted EPS numerator includes $1,717 for the three months ended December 31, 2024 and 2023, and $6,880 and $6,874 for the years ended December 31, 2024 and 2023, respectively, related to interest expense, net of tax, attributable to the convertible senior notes using the ifconverted method.
+
+Reconciliation of cash flow from operations to Adjusted EBITDA:
+
+Three Months Ended Year Ended
+
+December 31, December 31,
+
+2024 2023 2024 2023
+
+Cash flow from operations $ 81,632 $ 87,053 $ 435,292 $ 416,696 
+
+Cash interest 5,072 8,019 17,202 37,389 
+
+Cash taxes 24,503 13,728 57,526 42,431 
+
+Cash deferred compensation plan distributions 2,436 2,125 
+
+Cash acquisition expenses 2,951 1,632 8,522 21,409 
+
+Cash realignment costs 162 268 12,768 268 
+
+Changes in operating assets and liabilities (14,351) (10,232) (59,069) (94,726) 
+
+Other(1) (2,089) (2,383) (9,309) (8,803) 
+
+Adjusted EBITDA $ 97,880 $ 98,085 $ 465,368 $ 416,789 
+
+(1) Includes receipts related to interest rate swap.
+
+Reconciliation of total revenues and subscriptions revenues to total revenues and subscriptions revenues in constant currency:
+
+Three Months Ended December 31, 2024 Three Months Ended December 31, 2023
+
+Actual Impact of Foreign Exchange at 2023 Rates Constant Currency Actual Impact of Foreign Exchange at 2023 Rates Constant Currency
+
+Total revenues $ 349,822 $ 1,737 $ 351,559 $ 310,641 $ (28) $ 310,613 
+
+Subscriptions revenues $ 315,590 $ 1,598 $ 317,188 $ 272,468 $ 65 $ 272,533 
+
+Year Ended December 31, 2024 Year Ended December 31, 2023
+
+Actual Impact of Foreign Exchange at 2023 Rates Constant Currency Actual Impact of Foreign Exchange at 2023 Rates Constant Currency
+
+Total revenues $ 1,353,095 $ 846 $ 1,353,941 $ 1,228,413 $ (1,042) $ 1,227,371 
+
+Subscriptions revenues $ 1,223,362 $ 814 $ 1,224,176 $ 1,080,307 $ (977) $ 1,079,330
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>a24q4exhibit992.htm
+<DESCRIPTION>EX-99.2
+<TEXT>
+Document
+
+Exhibit 99.2
+
+Explanation of Non-GAAP and Other Financial Measures
+
+This Exhibit 99.2 to the accompanying Current Report on Form 8-K for Bentley Systems, Incorporated (Bentley Systems, the Company, we, our, and words of similar import) sets forth the reasons we believe that presentation of financial measures not in accordance with GAAP contained in this press release filed as Exhibit 99.1 to the Current Report on Form 8-K provides useful information to investors regarding our results of operations, financial condition, and liquidity. To the extent material, this Exhibit also discloses the additional purposes, if any, for which our management uses these nonGAAP financial measures. Reconciliations between these nonGAAP financial measures to their most directly comparable GAAP financial measures are included in this press release itself. NonGAAP financial information should be considered in addition to, not as a substitute for, or in isolation from, the financial information prepared in accordance with GAAP, including operating income, net income, diluted net income per share attributable to Bentley Systems stockholders, cash flow from operations or other measures of performance or liquidity, and should be read in conjunction with the financial statements included in our Annual Report on Form 10K to be filed with the United States Securities and Exchange Commission.
+
+Our nonGAAP and other financial measures may vary significantly from period to period for reasons unrelated to our operating performance and may differ from similarly titled measures presented by other companies.
+
+Constant currency
+
+Constant currency and constant currency growth rates are non-GAAP financial measures that present our results of operations excluding the estimated effects of foreign currency exchange rate fluctuations. A significant amount of our operations is conducted in foreign currencies. As a result, the comparability of the financial results reported in U.S. dollars is affected by changes in foreign currency exchange rates. We use constant currency and constant currency growth rates to evaluate the underlying performance of the business, and we believe it is helpful for investors to present operating results on a comparable basis period over period to evaluate its underlying performance.
+
+In reporting periodoverperiod results, except for ARR as discussed further below, we calculate the effects of foreign currency fluctuations and constant currency information by translating current and prior period results on a transactional basis to our reporting currency using prior period average foreign currency exchange rates in which the transactions occurred.
+
+Recurring revenues
+
+Recurring revenues are the basis for our other revenue-related key business metrics. We believe this measure is useful in evaluating our ability to consistently retain and grow our revenues from accounts with revenues in the prior period (existing accounts).
+
+Recurring revenues are subscriptions revenues that recur monthly, quarterly, or annually with specific or automatic renewal clauses and professional services revenues in which the underlying contract is based on a fixed fee and contains automatic annual renewal provisions.
+
+Annualized recurring revenues (ARR)
+
+ARR is a key business metric that we believe is useful in evaluating the scale and growth of our business as well as to assist in the evaluation of underlying trends in our business. Furthermore, we believe ARR, considered in connection with our last twelvemonth recurring revenues dollarbased net retention rate, is a leading indicator of revenue growth.
+
+ARR is defined as the sum of the annualized value of our portfolio of contracts that produce recurring revenues as of the last day of the reporting period, and the annualized value of the last three months of recognized revenues for our contractually recurring consumptionbased software subscriptions with consumption measurement durations of less than one year, calculated using the spot foreign currency exchange rates. We believe that the last three months of recognized revenues, on an annualized basis, for our recurring software subscriptions with consumption measurement period durations of less than one year is a reasonable estimate of the annual revenues, given our consistently high retention rate and stability of usage under such subscriptions.
+
+Constant currency ARR growth rate is the growth rate of ARR measured on a constant currency basis. In reporting periodoverperiod ARR growth rates in constant currency, we calculate constant currency growth rates by translating current and prior period ARR on a transactional basis to our reporting currency using current year budget exchange rates. Constant currency ARR growth rate from business performance excludes the ARR onboarding of our platform acquisitions and includes the impact from the ARR onboarding of programmatic acquisitions, which generally are immaterial, individually and in the aggregate. We believe these ARR growth rates are important metrics indicating the scale and growth of our business.
+
+Last twelvemonth recurring revenues dollarbased net retention rate
+
+Last twelvemonth recurring revenues dollarbased net retention rate is a key business metric that we believe is useful in evaluating our ability to consistently retain and grow our recurring revenues.
+
+Last twelvemonth recurring revenues dollarbased net retention rate is calculated, using the average exchange rates for the prior period, as follows: the recurring revenues for the current period, including any growth or reductions from existing accounts, but excluding recurring revenues from any new accounts added during the current period, divided by the total recurring revenues from all accounts during the prior period. A period is defined as any trailing twelve months. Related to our platform acquisitions, recurring revenues into new accounts will be captured as existing accounts starting with the second anniversary of the acquisition when such data conforms to the calculation methodology. This may cause variability in the comparison.
+
+Adjusted operating income inclusive of stock-based compensation expense (Adjusted OI w/SBC)
+
+Adjusted OI w/SBC is a non-GAAP financial measure and is used to measure the operational strength and performance of our business, as well as to assist in the evaluation of underlying trends in our business.
+
+Adjusted OI w/SBC is our primary performance measure, which excludes certain expenses and charges, including the non-cash amortization expense resulting from the acquisition of intangible assets, as we believe these may not be indicative of the Companys core business operating results. We intentionally include stock-based compensation expense in this measure as we believe it better captures the economic costs of our business.
+
+Management uses this non-GAAP financial measure to understand and compare operating results across accounting periods, for internal budgeting and forecasting purposes, to evaluate financial performance, and in our comparison of our financial results to those of other companies. It is also a significant performance measure in certain of our executive incentive compensation programs.
+
+Adjusted OI w/SBC is defined as operating income adjusted for the following: amortization of purchased intangibles, expense (income) relating to deferred compensation plan liabilities, acquisition expenses, and realignment expenses (income), for the respective periods.
+
+Adjusted OI w/SBC margin is calculated by dividing Adjusted OI w/SBC by total revenues.
+
+Adjusted operating income
+
+Adjusted operating income is a non-GAAP financial measure that we believe is useful to investors in making comparisons to other companies, although this measure may not be directly comparable to similar measures used by other companies.
+
+Adjusted operating income is defined as operating income adjusted for the following: amortization of purchased intangibles, expense (income) relating to deferred compensation plan liabilities, acquisition expenses, realignment expenses (income), and stockbased compensation expense, for the respective periods.
+
+Adjusted net income and Adjusted EPS
+
+Adjusted net income and Adjusted EPS are non-GAAP financial measures presenting the earnings generated by our ongoing operations that we believe is useful to investors in making meaningful comparisons to other companies, although these measures may not be directly comparable to similar measures used by other companies, and period-over-period comparisons.
+
+Adjusted net income is defined as net income attributable to Bentley Systems adjusted for the following: amortization of purchased intangibles, stockbased compensation expense, expense (income) relating to deferred compensation plan liabilities, acquisition expenses, realignment expenses (income), other nonoperating (income) expense, net, the tax effect of the above adjustments to net income, and equity in net (income) losses of investees, net of tax, for the respective periods. The income tax effect of nonGAAP adjustments was determined using the applicable rates in the taxing jurisdictions in which income or expense occurred, and represent both current and deferred income tax expense or benefit based on the nature of the nonGAAP adjustments, including the tax effects of noncash stockbased compensation expense.
+
+Adjusted EPS is calculated as Adjusted net income, less net income attributable to Bentley Systems allocated to participating securities, plus interest expense, net of tax, attributable to the convertible senior notes using the ifconverted method, if applicable, (numerator) divided by Adjusted diluted weighted average shares (denominator). Adjusted diluted weighted average shares is calculated by adding incremental shares related to the dilutive effect of convertible senior notes using the ifconverted method, if applicable, to diluted weighted average shares.
+
+Adjusted EBITDA
+
+Adjusted EBITDA is our liquidity measure in the context of conversion of Adjusted EBITDA to cash flow from operations (i.e., the ratio of GAAP cash flow from operations to Adjusted EBITDA). We believe this non-GAAP financial measure provides a meaningful measure of liquidity and a useful basis for assessing our ability to repay debt, make strategic acquisitions and investments, and return capital to investors.
+
+Adjusted EBITDA is defined as cash flow from operations adjusted for the following: cash interest, cash taxes, cash deferred compensation plan distributions, cash acquisition expenses, cash realignment costs, changes in operating assets and liabilities, and other cash items (such as those related to our interest rate swap). From time to time, we may exclude from Adjusted EBITDA the impact of certain cash receipts or payments that affect period-to-period comparability.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>4
+<FILENAME>bsy-20250226.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>bsy-20250226_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>bsy-20250226_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>bentleylogo_blkxcompletea.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 26, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 26, 2025
+
+Entity Registrant Name BENTLEY SYSTEMS, INCORPORATED
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-39548
+
+Entity Tax Identification Number 95-3936623
+
+Entity Address, Address Line One 685 Stockton Drive
+
+Entity Address, City or Town Exton
+
+Entity Address, State or Province PA
+
+Entity Address, Postal Zip Code 19341
+
+City Area Code 610
+
+Local Phone Number 458-5000
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Class B Common Stock, $0.01 Par Value
+
+Trading Symbol BSY
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+Entity Central Index Key 0001031308
+
+Amendment Flag false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>10
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://www.bentley.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+bsy-20250226.htm 
+bsy-20250226.xsd 
+bsy-20250226_lab.xml 
+bsy-20250226_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>16
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>17
+<FILENAME>0001031308-25-000001-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>18
+<FILENAME>bsy-20250226_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001031308 
+
+2025-02-26 
+2025-02-26 
+
+0001031308 
+false 
+8-K 
+2025-02-26 
+BENTLEY SYSTEMS, INCORPORATED 
+DE 
+001-39548 
+95-3936623 
+685 Stockton Drive 
+Exton 
+PA 
+19341 
+610 
+458-5000 
+false 
+false 
+false 
+false 
+Class B Common Stock, $0.01 Par Value 
+BSY 
+NASDAQ 
+false 
+2025-02-26
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,2279 @@
+<SEC-DOCUMENT>0000950170-25-009487.txt : 20250128
+<SEC-HEADER>0000950170-25-009487.hdr.sgml : 20250128
+<ACCEPTANCE-DATETIME>20250128083016
+ACCESSION NUMBER:		0000950170-25-009487
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		48
+CONFORMED PERIOD OF REPORT:	20250128
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250128
+DATE AS OF CHANGE:		20250128
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGILYSYS INC
+		CENTRAL INDEX KEY:			0000078749
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				340907152
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-05734
+		FILM NUMBER:		25561062
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3655 BROOKSIDE PARKWAY
+		STREET 2:		SUITE 300
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30022
+		BUSINESS PHONE:		7708107800
+
+	MAIL ADDRESS:	
+		STREET 1:		3655 BROOKSIDE PARKWAY
+		STREET 2:		SUITE 300
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PIONEER STANDARD ELECTRONICS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>agys-20250128.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?8-K
+
+0000078749false00000787492025-01-282025-01-28
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 28, 2025
+
+AGILYSYS, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+Delaware 
+
+000-5734 
+
+34-0907152
+
+(State or Other Jurisdiction
+
+of Incorporation) 
+
+(Commission File Number) 
+
+(IRS Employer
+
+Identification No.)
+
+3655 Brookside Parkway
+
+Suite 300 
+
+Alpharetta, Georgia 
+
+30022
+
+(Address of Principal Executive Offices) 
+
+(Zip Code)
+
+Registrants Telephone Number, Including Area Code:770810-7800
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class 
+
+Trading
+
+Symbol(s) 
+
+Name of each exchange on which registered
+
+Common Stock, without par value 
+
+AGYS 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 ( 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 ( 240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 7.01 Regulation FD Disclosure.
+
+Agilysys, Inc. (the Company) may use a slide presentation, in whole or in part, from time to time in presentation to investors, analysts and others. A copy of the slide presentation is furnished as Exhibit 99.1 to this Current Report on Form 8-K and incorporated by reference herein. A copy of the slide presentation is also available on the Companys website at www.agilysys.com.
+
+The information contained in this Item 7.01 as well as in Exhibit 99.1 is furnished and shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that section, and such information shall not be deemed to be incorporated by reference into any of the Companys filings under the Securities Act of 1933, as amended, or the Exchange Act.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(c) Exhibits
+
+The following item is furnished as an exhibit to this current report on Form 8-K:
+
+Exhibit Number 
+
+Description
+
+99.1 
+
+Agilysys, Inc. January 2025 investor presentation.
+
+104 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AGILYSYS, INC.
+
+Date: 
+
+January 28, 2025 
+
+By: 
+
+/s/ William David Wood III
+
+William David Wood III
+
+Chief Financial Officer
+
+(Principal Financial Officer)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>agys-ex99_1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+INVESTOR PRESENTATION Q3 Fiscal Year 2025
+
+Forward-looking Statements & Non-GAAP Financial Information Forward-Looking Language This presentation contains forward-looking statements within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements can be identified by words such as: anticipate, intend, plan, goal, seek, believe, project, estimate, expect, strategy, future, likely, may, should, will and similar references to future periods. Examples of forward-looking statements include, among others, our revenue, subscription revenue and Adjusted EBITDA guidance for the 2024 fiscal year and statements we make regarding expected property management room growth. Forward-looking statements are neither historical facts nor assurances of future performance. Instead, they are based only on our current beliefs, expectations and assumptions regarding the future of our business, future plans and strategies, projections, anticipated events and trends, the economy and other future conditions. Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks and changes in circumstances that are difficult to predict and many of which are outside of our control. Our actual results and financial condition may differ materially from those indicated in the forward-looking statements. Therefore, you should not rely on any of these forward-looking statements. Important factors that could cause our actual results and financial condition to differ materially from those indicated in the forward-looking statements include, among others, the impact macroeconomic factors may have on the overall business environment, our ability to achieve our fiscal 2025 guidance, future revenue growth, the company's ability maintain sales levels, the Company's ability to integrate Book4Time and realize future synergies, and the risks described in the Companys filings with the Securities and Exchange Commission, including the Companys reports on Form 10-K and Form 10-Q. Additionally, references to "record" financial and business levels in this document refer only to the time period after Agilysys made the transformation to an entirely hospitality focused software solutions company in FY2014. . Any forward-looking statement made by us in this press release is based only on information currently available to us and speaks only as of the date on which it is made. We undertake no obligation to publicly update any forward-looking statement that may be made from time to time, whether written or oral, whether as a result of new information, future developments or otherwise. Use of Non-GAAP Financial Information To supplement the unaudited consolidated financial statements presented in accordance with U.S. GAAP in this press release, certain non-GAAP financial measures as defined by the SEC rules are used. These non-GAAP financial measures include EBITDA, Adjusted EBITDA, adjusted net income, adjusted basic earnings per share, adjusted diluted earnings per share and free cash flow. Management believes that such information can enhance investors understanding of the Companys ongoing operations.
+
+Thank You For your partnership and your business Our Mission Helping Our Customers Improve Employee & Guest Experiences, With Dedication To Past, Present & Future Customer Investments In Our Products And Services.
+
+Agilysys Defining Strategy Pillars
+
+100% Hospitality Focused - Why It Matters FUNCTIONAL DEPTH
+
+Obsessively Customer-Centric - Why It Matters
+
+Core Product Focus & Innovation Driven - Why It Matters
+
+State Of The Art Cloud-native & On-premise Options - Why It Matters
+
+End-To-End Comprehensive Solution Offerings - Why It Matters GUEST JOURNEY COMMON PROFILE
+
+Agilysys Hospitality Product Suite IN-VENUE RESERVATIONS IN-VENUEAMENITIES SURVEYS PAYMENTS PRE-ARRIVAL ANALYTICS &RE-ENGAGE TRIP BOOKING IN-VENUE DINING BACK OF HOUSEOPTIMIZATION TRIP PLANNING Food & Beverage Hospitality & Leisure Inventory &Procurement Document Management 3rd Party Solution Integration With Modern Restful APIs 
+
+Agilysys Global Presence Principal Location Country with Installation Reseller Santa Barbara, CA Seattle, WA Las Vegas, NV Alpharetta, GA Windsor, UK Hong Kong Manila, Philippines Singapore Kuala Lumpur, Malaysia Chennai, India Shenzhen, China Australia Toronto, ON Publicly Traded - NASDAQ: AGYS Corporate Headquarters Alpharetta, Georgia North America Offices Las Vegas, Nevada Santa Barbara, California Bellevue, Washington Toronto, Ontario EMEA Office United Kingdom Dubai, UAE APAC Offices Hong Kong Malaysia Philippines Singapore China Australia Demonstration Centers Las Vegas, Nevada India Development Center Chennai, India Dubai, UAE
+
+Global Customers Managed Foodservice Gaming Hotels, Resorts & Cruise International
+
+Total Addressable Market - TAM POS Core $2.7B $73m Tier 2 Core $2.5B $11m PMS Core $2.1B $26m Other Add On $8.7B $55m Total TAM $16B $178M* ARR *Exit rate ARR quarter ended Dec 31, 2024. 45% ARR* 18% ARR* 12% ARR* 25% ARR*
+
+*Data is as of the trailing twelve months ended December 31, 2024. Subscription Revenue as a % of Recurring Revenue* Subscription Revenue YOY Growth Rate Total Revenue YOY Growth* Recurring Revenue as a % of Total Revenue* 16% 61% 60% 36% Agilysys Revenue Overview
+
+We Provide Industry Leading Hospitality Solutions Lodging Solutions Food and Beverage Solutions 55% of Revenue 25% of Revenue 5% of Revenue INVENTORY & PROCUREMENT 6% of Revenue DOCUMENT MANAGEMENT PROPERTY MANAGEMENT POINT-OF-SALE Note: Revenue contribution figures represent percentage for the trailing twelve months ended December 31, 2024 and include an allocation of total revenue (excluding services) amounts to our 4 core product groupings and payment software related revenue. Region 92% of Revenue North America 8% of Revenue APAC Plus EMEA Allocation of Revenue 9% of Revenue Payment Revenue Cross Functional
+
+Existing Customer Greenspace - Average Products FY Exit Rate
+
+Property Management Room Growth Opportunity Less than 300,000 rooms under PMS management today Should reach about 900,000 rooms under management in 3 years with combined current growth momentum in PMS and Marriott rooms Expected to add a majority of the Marriott U.S. and Canada Luxury, Premium and Select Service rooms (min. 450,000)
+
+$273M ANNUAL REVENUE 18% ADJUSTED EBITDA AS % OF REVENUE 38% YEAR OVER YEAR GROWTH* REVENUE Adjusted EBITDA SUBSCRIPTION REVENUE *Inclusive of Book4Time Subscription Revenue FY25 Annual Guidance
+
+FINANCIAL OVERVIEW
+
+Share Price (01/24/25) $92.24 Diluted Shares Outstanding 28.2M Diluted Market Capitalization $2,605.6M Cash (as of 12/31/24) $60.8M Debt (as of 12/31/24) $60.9M Enterprise Value $2,605.7M Revenue $263.6M Gross Profit $165.2M Adjusted EBITDA^ $50.0M Earnings per Share $0.79 EV/Revenue 9.9x EV/Gross Profit 15.8x Recurring Revenue* As % of Total Revenue 61% Subscription Revenue* As % of Recurring Revenue 60% Services Revenue* As % of Total Revenue 23% Subscription Revenue Growth Y/Y* 36% New Customer Count* 58 Financial Metrics and Valuation* Business Metrics (as of 12/31/24) Evolving Business, Evolving P&L ^Non-GAAP measure, see reconciliation on slide 31. *Trailing twelve months ended December 31, 2024.
+
+Strong Balance Sheet Consolidated Balance Sheet (in thousands) December 31, 2024 March 31, 2024 Cash, Cash Equivalents and Marketable Securities $60,761 $144,891 Other Current Assets 70,449 44,046 Long-Term Assets 312,651 161,493 Total Assets $443,861 $350,430 Current Liabilities $114,950 $89,371 Other Liabilities 72,120 24,582 Total Liabilities 187,070 113,953 Shareholders Equity 256,791 236,477 Total Liabilities and Shareholders Equity $443,861 $350,430
+
+Revenue Growth ($M) FY25 FY21 FY22 FY23 AGYS FY24 FY20
+
+Recurring Revenue ($M) FY25 FY21 FY22 FY23 FY24 FY20
+
+Recurring Revenue Growth ($M) FY20 FY21 FY22 FY23 FY24 FY25
+
+Historical Financial Results All numbers in thousands. ^ Non-GAAP measure, see reconciliation beginning on slide 31. *Trailing twelve months ended December 31, 2024.
+
+Book4Time Strategic Acquisition $150M all cash transaction at ~9x revenue multiple closed August 2024 Current market leader in spa software solutions Expanded Agilysys customer base of ~4,500 customers by 30%+ Only 10% customer overlap Strengthen product penetration in large global brands Strategic advantage in competitive ecosystem deals
+
+APPENDIX
+
+Agilysys Omnichannel POS Solution Payments Mobile App & APIs Marketing & Upsell Mobile / Web Analytics Kiosk Digital Menus/Ordering Dining Reservations Point-of-Sale Inventory & Procurement
+
+Agilysys Lodging Ecosystem Staff Task Management & 2-Way Guest Communication: Payments: Online Booking: Sales & Catering: Document Management: Business Analytics: Marketing & Upsell: Central Reservations: Activities: Check-In/Out: Point-of-Sale & Retail:
+
+Non-GAAP Reconciliation *Trailing twelve months ended December 31, 2024.
+
+Non-GAAP Reconciliation
+
+Non-GAAP Reconciliation *Trailing twelve months ended December 31, 2024.
+
+Cash Flow *Trailing twelve months ended December 31, 2024.
+
+Jessica Hennessy Senior Director Corporate Strategy and Investor Relations (770) 810-6116 InvestorRelations@agilysys.com
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>agys-ex99_1.pdf
+<DESCRIPTION>PDF COURTESY COPY
+<TEXT>
+INVESTOR PRESENTATION
+
+Q3 Fiscal Year 2025
+
+Forward-looking Statements & Non-GAAP Financial Information
+Forward-Looking Language
+This presentation contains "forward-looking statements" within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995.
+Forward-looking statements can be identified by words such as: "anticipate," "intend," "plan," "goal," "seek," "believe," "project," "estimate," "expect," "strategy," "future,"
+"likely," "may," "should," "will" and similar references to future periods. Examples of forward-looking statements include, among others, our revenue, subscription
+revenue and Adjusted EBITDA guidance for the 2024 fiscal year and statements we make regarding expected property management room growth.
+
+Forward-looking statements are neither historical facts nor assurances of future performance. Instead, they are based only on our current beliefs, expectations and
+assumptions regarding the future of our business, future plans and strategies, projections, anticipated events and trends, the economy and other future conditions.
+Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks and changes in circumstances that are difficult to predict and
+many of which are outside of our control. Our actual results and financial condition may differ materially from those indicated in the forward-looking statements.
+Therefore, you should not rely on any of these forward-looking statements. Important factors that could cause our actual results and financial condition to differ
+materially from those indicated in the forward-looking statements include, among others, the impact macroeconomic factors may have on the overall business
+environment, our ability to achieve our fiscal 2025 guidance, future revenue growth, the company's ability maintain sales levels, the Company's ability to integrate
+Book4Time and realize future synergies, and the risks described in the Company's filings with the Securities and Exchange Commission, including the Company's
+reports on Form 10-K and Form 10-Q. Additionally, references to "record" financial and business levels in this document refer only to the time period after Agilysys made
+the transformation to an entirely hospitality focused software solutions company in FY2014. .
+Any forward-looking statement made by us in this press release is based only on information currently available to us and speaks only as of the date on which it is
+made. We undertake no obligation to publicly update any forward-looking statement that may be made from time to time, whether written or oral, whether as a result of
+new information, future developments or otherwise.
+Use of Non-GAAP Financial Information
+To supplement the unaudited consolidated financial statements presented in accordance with U.S. GAAP in this press release, certain non-GAAP financial measures as
+defined by the SEC rules are used. These non-GAAP financial measures include EBITDA, Adjusted EBITDA, adjusted net income, adjusted basic earnings per share,
+adjusted diluted earnings per share and free cash flow. Management believes that such information can enhance investors' understanding of the Company's ongoing
+operations.
+
+2
+Agilysys Private
+
+Our Mission
+
+Thank You
+
+For your partnership and
+your
+Helpingbusiness
+Our Customers Improve Employee & Guest Experiences, With
+Dedication To Past, Present & Future Customer Investments
+In Our Products And Services.
+
+3
+Agilysys Private
+
+Agilysys Defining Strategy Pillars
+
+4
+Agilysys Private
+
+100% Hospitality Focused - Why It Matters
+
+FUNCTIONAL DEPTH
+
+5
+Agilysys Private
+
+Obsessively Customer-Centric - Why It Matters
+
+6
+Agilysys Private
+
+Core Product Focus & Innovation Driven - Why It Matters
+
+7
+Agilysys Private
+
+State Of The Art Cloud-native & On-premise Options - Why It Matters
+
+8
+Agilysys Private
+
+End-To-End Comprehensive Solution Offerings - Why It Matters
+COMMON PROFILE
+
+GUEST JOURNEY
+
+9
+Agilysys Private
+
+Agilysys Hospitality Product Suite
+S&
+TIC E
+Y
+AL GAG
+AN -EN
+RE
+
+TRIP PLANNING
+
+SURVEYS
+
+Hospitality
+& Leisure
+
+PREAR
+RIV
+AL
+
+Inventory &
+Procurement
+
+IN-VENUE
+ERVATIONS
+RES
+
+Food &
+Beverage
+
+TRIP BOOKING
+
+Document
+Management
+
+PA
+
+YM
+
+EN
+
+TS
+
+IN-VENUE
+DINING
+
+BACK OF
+HOUSE
+OPTIMIZATION
+
+E
+N U ES
+E
+I N- V N I T I
+AME
+
+3rd Party Solution Integration With Modern Restful APIs
+10
+Agilysys Private
+
+Agilysys Global Presence
+
+Publicly Traded - NASDAQ: AGYS
+Corporate Headquarters
+* Alpharetta, Georgia
+
+North America Offices
+*
+*
+*
+*
+
+Windsor, UK
+Seattle, WA
+
+EMEA Office
+
+Toronto, ON
+
+* United Kingdom
+* Dubai, UAE
+
+Las Vegas, NV
+Santa Barbara, CA
+
+Las Vegas, Nevada
+Santa Barbara, California
+Bellevue, Washington
+Toronto, Ontario
+
+Alpharetta, GA
+Shenzhen, China
+
+Hong Kong
+
+Dubai, UAE
+Manila, Philippines
+
+Chennai, India
+Kuala Lumpur, Malaysia
+Singapore
+
+Australia
+
+APAC Offices
+*
+*
+*
+*
+*
+*
+
+Hong Kong
+Malaysia
+Philippines
+Singapore
+China
+Australia
+
+Principal Location
+
+Demonstration Centers
+
+Country with Installation
+
+* Las Vegas, Nevada
+
+Reseller
+
+India Development Center
+* Chennai, India
+Agilysys Private
+
+11
+
+Global Customers
+
+Gaming
+
+Managed Foodservice
+
+Hotels, Resorts
+& Cruise
+
+International
+
+12
+Agilysys Private
+
+Total Addressable Market - TAM
+
+$2.7B
+
+$2.1B
+
+POS Core
+
+PMS Core
+
+$73m
+
+45% ARR*
+
+$26m
+
+$16B
+
+18% ARR*
+
+Total TAM
+
+$8.7B
+
+$2.5B
+
+Other Add On
+
+Tier 2 Core
+$11m
+
+$55m
+
+12% ARR*
+
+25% ARR*
+$178M*
+ARR
+
+*Exit rate ARR quarter ended Dec 31, 2024.
+
+13
+Agilysys Private
+
+Agilysys Revenue Overview
+
+16%
+
+61%
+
+Total
+Revenue YOY
+Growth*
+
+Recurring Revenue
+as a % of Total
+Revenue*
+
+60%
+
+36%
+
+Subscription
+Revenue as a % of
+Recurring Revenue*
+
+Subscription
+Revenue YOY
+Growth Rate
+
+*Data is as of the trailing twelve months ended December 31, 2024.
+
+We Provide Industry Leading Hospitality Solutions
+Allocation of
+Revenue
+
+POINT-OF-SALE
+
+55
+
+Lodging Solutions
+PROPERTY
+MANAGEMENT
+
+%
+
+of Revenue
+
+Food and Beverage Solutions
+
+25%
+of Revenue
+
+5%
+
+92%
+of Revenue
+
+Payment
+Revenue
+
+9%
+
+of Revenue
+INVENTORY &
+PROCUREMENT
+
+Cross Functional
+of Revenue
+
+6%
+
+DOCUMENT
+MANAGEMENT
+
+of Revenue
+
+8%
+
+Region
+North America
+
+of Revenue
+
+APAC Plus EMEA
+Note: Revenue contribution figures represent percentage for the trailing twelve months ended December 31, 2024 and include an
+allocation of total revenue (excluding services) amounts to our 4 core product groupings and payment software related revenue.
+
+15
+
+Agilysys Private
+
+Existing Customer Greenspace - Average Products FY Exit Rate
+2.5
+
+2.25
+
+2
+
+1.75
+
+1.5
+
+1.25
+
+1
+FY2021
+
+FY2022
+
+FY2023
+
+FY2024
+
+Products Per Customer
+
+16
+Agilysys Private
+
+Property Management Room Growth Opportunity
+Less than 300,000 rooms under PMS management
+today
+
+Expected to add a majority of the Marriott U.S. and
+Canada Luxury, Premium and Select Service rooms
+(min. 450,000)
+
+Should reach about 900,000 rooms under
+management in 3 years with combined current
+growth momentum in PMS and Marriott rooms
+17
+Agilysys Private
+
+FY25 Annual Guidance
+
+$273M
+ANNUAL
+REVENUE
+
+18%
+ADJUSTED
+EBITDA
+AS % OF
+REVENUE
+
+38% YEAR
+OVER YEAR
+GROWTH*
+
+REVENUE
+
+Adjusted EBITDA
+
+SUBSCRIPTION REVENUE
+*Inclusive of Book4Time Subscription Revenue
+
+18
+Agilysys Private
+
+FINANCIAL OVERVIEW
+
+Evolving Business, Evolving P&L
+Business Metrics (as of 12/31/24)
+
+Financial Metrics and Valuation*
+
+Recurring Revenue*
+As % of Total Revenue
+
+61%
+
+Share Price (01/24/25)
+
+$92.24
+
+Diluted Shares Outstanding
+
+28.2M
+
+Subscription Revenue*
+As % of Recurring Revenue
+
+60%
+
+Services Revenue*
+As % of Total Revenue
+
+23%
+
+Subscription Revenue Growth Y/Y*
+
+36%
+
+New Customer Count*
+
+58
+
+Diluted Market Capitalization
+
+$2,605.6M
+
+Cash (as of 12/31/24)
+
+$60.8M
+
+Debt (as of 12/31/24)
+
+$60.9M
+
+Enterprise Value
+
+$2,605.7M
+
+Revenue
+
+$263.6M
+
+Gross Profit
+
+$165.2M
+
+Adjusted EBITDA^
+Earnings per Share
+
+EV/Revenue
+EV/Gross Profit
+^Non-GAAP measure, see reconciliation on slide 31.
+*Trailing twelve months ended December 31, 2024.
+
+$50.0M
+$0.79
+
+9.9x
+15.8x
+20
+Agilysys Private
+
+Strong Balance Sheet
+Consolidated Balance Sheet (in thousands)
+December 31, 2024
+
+March 31, 2024
+
+$60,761
+
+$144,891
+
+70,449
+
+44,046
+
+312,651
+
+161,493
+
+Total Assets
+
+$443,861
+
+$350,430
+
+Current Liabilities
+
+$114,950
+
+$89,371
+
+Other Liabilities
+
+72,120
+
+24,582
+
+Total Liabilities
+
+187,070
+
+113,953
+
+Shareholders' Equity
+
+256,791
+
+236,477
+
+$443,861
+
+$350,430
+
+Cash, Cash Equivalents and Marketable Securities
+Other Current Assets
+Long-Term Assets
+
+Total Liabilities and Shareholders' Equity
+
+21
+Agilysys Private
+
+Revenue Growth ($M)
+
+AGYS
+
+75
+70
+
+65
+60
+55
+
+50
+45
+40
+35
+30
+25
+Sept Dec Mar Jun Sept Dec Mar Jun Sept Dec Mar Jun Sept Dec Mar Jun Sept Dec Mar Jun Sept Dec
+CY19 CY19 CY20 CY20 CY20 CY20 CY21 CY21 CY21 CY21 CY22 CY22 CY22 CY22 CY23 CY23 CY23 CY23 CY24 CY24 CY24 CY24
+
+FY20
+
+FY21
+
+FY22
+
+FY23
+
+FY24
+
+FY25
+
+22
+Agilysys Private
+
+Recurring Revenue ($M)
+50.0
+
+Subscription
+
+Maintenance
+
+45.0
+40.0
+35.0
+30.0
+25.0
+20.0
+15.0
+
+10.0
+5.0
+Sept Dec Mar
+Jun Sept Dec Mar
+Jun Sept Dec Mar
+Jun Sept Dec Mar
+Jun Sept Dec Mar
+Jun Sept Dec
+CY19 CY19 CY20 CY20 CY20 CY20 CY21 CY21 CY21 CY21 CY22 CY22 CY22 CY22 CY23 CY23 CY23 CY23 CY24 CY24 CY24 CY24
+
+FY20
+
+FY21
+
+FY22
+
+FY23
+
+FY24
+
+FY25
+
+23
+Agilysys Private
+
+Recurring Revenue Growth ($M)
+Subscription Revenue
+
+Maintenance Revenue
+
+30.0
+28.0
+26.0
+24.0
+22.0
+20.0
+18.0
+16.0
+14.0
+
+12.0
+10.0
+8.0
+
+6.0
+4.0
+2.0
+Sep
+CY19
+
+Dec
+CY19
+
+FY20
+
+Mar
+CY20
+
+Jun
+CY20
+
+Sep
+CY20
+
+Dec
+CY20
+
+FY21
+
+Mar
+CY21
+
+Jun
+CY21
+
+Sep
+CY21
+
+Dec
+CY21
+
+FY22
+
+Mar
+CY22
+
+Jun
+CY22
+
+Sep
+CY22
+
+Dec
+CY22
+
+FY23
+
+Mar
+CY23
+
+Jun
+CY23
+
+Sep
+CY23
+
+Dec
+CY23
+
+FY24
+
+Mar
+CY24
+
+Jun
+CY24
+
+Sep
+CY24
+
+Dec
+CY24
+
+FY25
+
+24
+Agilysys Private
+
+Historical Financial Results
+GAAP Diluted EPS
+
+Revenue - GAAP
+$275,000
+$265,000
+$255,000
+$245,000
+$235,000
+$225,000
+$215,000
+$205,000
+$195,000
+$185,000
+$175,000
+$165,000
+$155,000
+$145,000
+$135,000
+$125,000
+
+$3.75
+
+$3.17
+
+$3.00
+$2.25
+$1.50
+
+$0.79
+$0.75
+
+FY22
+
+FY23
+
+FY24
+
+$-
+
+TTM*
+
+FY22
+
+FY23
+
+FY24
+
+TTM*
+
+Adjusted Diluted Earnings per Share - Non-GAAP^
+
+Adjusted EBITDA - Non-GAAP^
+$1.40
+
+$50,000
+
+$1.30
+$45,000
+
+$1.20
+
+$40,000
+
+$1.10
+$1.00
+
+$35,000
+
+$0.90
+
+$30,000
+
+$0.80
+
+$0.70
+$25,000
+
+$0.60
+
+$20,000
+
+$0.50
+
+FY22
+
+FY23
+
+FY24
+
+TTM*
+
+FY22
+
+All numbers in thousands.
+^ Non-GAAP measure, see reconciliation beginning on slide 31.
+*Trailing twelve months ended December 31, 2024.
+
+FY23
+
+FY24
+
+TTM*
+
+25
+Agilysys Private
+
+Book4Time Strategic Acquisition
+Expanded Agilysys customer base of
+~4,500 customers by 30%+
+Only 10% customer overlap
+
+Current market leader in spa
+software solutions
+
+$150M all cash transaction
+at ~9x revenue multiple
+closed August 2024
+
+Strategic advantage in
+competitive ecosystem deals
+
+Strengthen product penetration
+in large global brands
+
+26
+Agilysys Private
+
+APPENDIX
+
+Agilysys Omnichannel POS Solution
+Kiosk
+
+Digital Menus/Ordering
+
+Dining Reservations
+
+Mobile / Web
+
+Marketing & Upsell
+
+Point-of-Sale
+Payments
+
+Mobile App & APIs
+
+Inventory & Procurement
+
+Analytics
+29
+Agilysys Private
+
+Agilysys Lodging Ecosystem
+Central Reservations:
+Staff Task Management &
+2-Way Guest Communication:
+Activities:
+
+Check-In/Out:
+
+Payments:
+
+Online Booking:
+
+Sales & Catering:
+Point-of-Sale & Retail:
+
+Document Management:
+
+Business Analytics:
+
+Marketing & Upsell:
+
+30
+Agilysys Private
+
+Non-GAAP Reconciliation
+
+*Trailing twelve months ended December 31, 2024.
+
+31
+Agilysys Private
+
+Non-GAAP Reconciliation
+
+32
+Agilysys Private
+
+Non-GAAP Reconciliation
+
+*Trailing twelve months ended December 31, 2024.
+
+33
+Agilysys Private
+
+Cash Flow
+
+*Trailing twelve months ended December 31, 2024.
+
+34
+Agilysys Private
+
+CONTACT
+
+Jessica Hennessy
+Senior Director Corporate Strategy and
+Investor Relations
+(770) 810-6116
+InvestorRelations@agilysys.com
+
+35
+Agilysys Private
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>agys-ex99_1s1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>agys-ex99_1s2.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>agys-ex99_1s3.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>agys-ex99_1s4.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>agys-ex99_1s5.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>agys-ex99_1s6.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>10
+<FILENAME>agys-ex99_1s7.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>11
+<FILENAME>agys-ex99_1s8.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>12
+<FILENAME>agys-ex99_1s9.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>13
+<FILENAME>agys-ex99_1s10.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>14
+<FILENAME>agys-ex99_1s11.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>15
+<FILENAME>agys-ex99_1s12.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>16
+<FILENAME>agys-ex99_1s13.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>17
+<FILENAME>agys-ex99_1s14.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>18
+<FILENAME>agys-ex99_1s15.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>19
+<FILENAME>agys-ex99_1s16.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>20
+<FILENAME>agys-ex99_1s17.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>21
+<FILENAME>agys-ex99_1s18.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>22
+<FILENAME>agys-ex99_1s19.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>23
+<FILENAME>agys-ex99_1s20.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>24
+<FILENAME>agys-ex99_1s21.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>25
+<FILENAME>agys-ex99_1s22.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>26
+<FILENAME>agys-ex99_1s23.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>27
+<FILENAME>agys-ex99_1s24.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>28
+<FILENAME>agys-ex99_1s25.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>29
+<FILENAME>agys-ex99_1s26.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>30
+<FILENAME>agys-ex99_1s27.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>31
+<FILENAME>agys-ex99_1s28.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>32
+<FILENAME>agys-ex99_1s29.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>33
+<FILENAME>agys-ex99_1s30.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>34
+<FILENAME>agys-ex99_1s31.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>35
+<FILENAME>agys-ex99_1s32.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>36
+<FILENAME>agys-ex99_1s33.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>37
+<FILENAME>agys-ex99_1s34.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>38
+<FILENAME>agys-ex99_1s35.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>39
+<FILENAME>agys-20250128.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT
+<TEXT>
+100000 - Document - Document And Entity Information 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink 
+
+Cover [Abstract] 
+Amendment Flag 
+City Area Code 
+Document Period End Date 
+Document Type 
+Entity Address, Address Line One 
+Entity Address, Address Line Two 
+Entity Address, City or Town 
+Entity Address, Postal Zip Code 
+Entity Address, State or Province 
+Entity Central Index Key 
+Entity Emerging Growth Company 
+Entity File Number 
+Entity Incorporation, State or Country Code 
+Entity Registrant Name 
+Entity Tax Identification Number 
+Local Phone Number 
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Tender Offer 
+Title of 12(b) Security 
+Security Exchange Name 
+Soliciting Material 
+Trading Symbol 
+Written Communications
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>41
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Document And Entity Information
+
+Jan. 28, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Jan. 28, 2025
+
+Entity Registrant Name AGILYSYS, INC.
+
+Entity Central Index Key 0000078749
+
+Entity Emerging Growth Company false
+
+Entity File Number 000-5734
+
+Entity Incorporation, State or Country Code DE
+
+Entity Tax Identification Number 34-0907152
+
+Entity Address, Address Line One 3655 Brookside Parkway
+
+Entity Address, Address Line Two Suite 300
+
+Entity Address, City or Town Alpharetta
+
+Entity Address, State or Province GA
+
+Entity Address, Postal Zip Code 30022
+
+City Area Code 770
+
+Local Phone Number 810-7800
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, without par value
+
+Trading Symbol AGYS
+
+Security Exchange Name NASDAQ
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>42
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>43
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>44
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>46
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+1 
+23 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+100000 - Document - Document And Entity Information 
+Sheet 
+http://www.agilysys.com/20250128/taxonomy/role/DocumentDocumentAndEntityInformation 
+Document And Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+agys-20250128.htm 
+agys-20250128.xsd 
+
+http://xbrl.sec.gov/dei/2024 
+
+false 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>48
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>49
+<FILENAME>0000950170-25-009487-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>50
+<FILENAME>agys-20250128_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0000078749 
+
+2025-01-28 
+2025-01-28 
+
+0000078749 
+false 
+8-K 
+2025-01-28 
+AGILYSYS, INC. 
+DE 
+000-5734 
+34-0907152 
+3655 Brookside Parkway 
+Suite 300 
+Alpharetta 
+GA 
+30022 
+770 
+810-7800 
+false 
+false 
+false 
+false 
+Common Stock, without par value 
+AGYS 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

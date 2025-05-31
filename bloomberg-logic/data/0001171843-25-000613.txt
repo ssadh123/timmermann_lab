@@ -1,0 +1,1597 @@
+<SEC-DOCUMENT>0001171843-25-000613.txt : 20250204
+<SEC-HEADER>0001171843-25-000613.hdr.sgml : 20250204
+<ACCEPTANCE-DATETIME>20250204161055
+ACCESSION NUMBER:		0001171843-25-000613
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250204
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250204
+DATE AS OF CHANGE:		20250204
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VARONIS SYSTEMS INC
+		CENTRAL INDEX KEY:			0001361113
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				571222280
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36324
+		FILM NUMBER:		25588247
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1250 BROADWAY, 31ST FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		877-292-8767
+
+	MAIL ADDRESS:	
+		STREET 1:		1250 BROADWAY, 31ST FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f8k_020425.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?Form 8-K
+
+0001361113False00013611132025-02-042025-02-04iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+_________________
+
+FORM 8-K
+
+_________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 4, 2025
+
+_______________________________
+
+VARONIS SYSTEMS, INC.
+
+(Exact name of registrant as specified in its charter)
+
+_______________________________
+
+Delaware 001-36324 57-1222280
+
+(State or Other Jurisdiction of Incorporation) (Commission File Number) (I.R.S. Employer Identification No.)
+
+1250 Broadway, 28th Floor
+
+New York, New York10001
+
+(Address of Principal Executive Offices) (Zip Code)
+
+(877) 292-8767
+
+(Registrant's telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+_______________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Common Stock, par value $0.001 per share VRNS The NASDAQ Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company,indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02. Results of Operations and Financial Condition.
+
+On February 4, 2025, Varonis Systems, Inc. issued a press release announcing its financial results for the fourth quarter and full-year ended December 31, 2024. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+The information in this Report, including the press release, is furnished only, is not "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, and is not incorporated by reference into any filing under the Securities Act of 1933, as amended, regardless of any general incorporation language in such a filing, except as expressly set forth by specific reference in that filing.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit Number Description
+
+99.1 Varonis Announces Fourth Quarter 2024 and Full-Year 2024 Financial Results
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+VARONIS SYSTEMS, INC.
+
+Date: February 4, 2025 By: /s/ Guy Melamed 
+
+Name: Guy Melamed
+
+Title: Chief Financial Officer and Chief Operating Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exh_991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+EdgarFiling
+
+EXHIBIT 99.1
+
+Varonis Announces Fourth Quarter 2024 and Full-Year 2024 Financial Results
+
+Annual recurring revenues grew 18% year-over-year
+
+SaaS ARR as a percentage of total ARR was approximately 53%
+
+Year-to-date cash from operations generated $115.2 million vs. $59.4 million last year
+
+Year-to-date free cash flow generated $108.5 million vs. $54.3 million last year
+
+NEW YORK, Feb. 04, 2025 (GLOBE NEWSWIRE) -- Varonis Systems, Inc. (Nasdaq: VRNS), a leader in data security, today announced financial results for the fourth quarter and full-year ended December 31, 2024.
+
+Yaki Faitelson, Varonis CEO, said, "We are excited by the approximately 50% increase in ARR from new customers, which was driven by the simplicity of SaaS and MDDR as well as customer interest in utilizing Generative AI raising awareness for our solution. We look forward to continuing our momentum and completing our SaaS transition in 2025, which will unlock many more benefits as we capture our massive opportunity.
+
+Guy Melamed, Varonis CFO & COO, added, For the first time in company history, SaaS represents a majority of ARR as we finished the fourth quarter with 53% of total company ARR coming from SaaS. This demand positions the company for another year of strong ARR growth and continued improvement in free cash flow generation, while we make strategic investments aimed at supporting our goal of returning to more than 20% ARR growth.
+
+Financial Summary for the Fourth Quarter Ended December 31, 2024
+
+Total revenues were $158.5 million, compared with $154.1 million in the fourth quarter of 2023.
+
+SaaS revenues were $72.2 million, compared with $23.0 million in the fourth quarter of 2023.
+
+Term license subscription revenues were $66.8 million, compared with $106.2 million in the fourth quarter of 2023.
+
+Maintenance and services revenues were $19.5 million, compared with $24.9 million in the fourth quarter of 2023.
+
+GAAP operating loss was ($17.6) million, compared to GAAP operating loss of ($5.2) million in the fourth quarter of 2023.
+
+Non-GAAP operating income was $15.3 million, compared to non-GAAP operating income of $27.2 million in the fourth quarter of 2023.
+
+Financial Summary for the Year Ended December 31, 2024
+
+Total revenues were $551.0 million, compared with $499.2 million in 2023.
+
+SaaS revenues were $208.8 million, compared with $44.4 million in 2023.
+
+Term license subscription revenues were $254.2 million, compared with $356.5 million in 2023.
+
+Maintenance and services revenues were $87.9 million, compared with $98.3 million in 2023.
+
+GAAP operating loss was ($117.7) million, compared to GAAP operating loss of ($117.2) million in 2023.
+
+Non-GAAP operating income was $15.9 million, compared to non-GAAP operating income of $28.7 million in 2023.
+
+The tables at the end of this press release include a reconciliation of GAAP operating income (loss) to non-GAAP operating income (loss) and GAAP net income (loss) to non-GAAP net income (loss) for the three and twelve months ended December 31, 2024 and 2023. An explanation of these measures is included below under the heading "Non-GAAP Financial Measures and Key Performance Indicators."
+
+Key Performance Indicators and Recent Business Highlights
+
+Annual recurring revenues, or ARR, was $641.9 million as of the end of the fourth quarter, up 18% year-over-year.
+
+As of December 31, 2024, the Company had $1.2 billion in cash and cash equivalents, short-term deposits and short-term and long-term marketable securities.
+
+During the twelve months ended December 31, 2024, the Company generated $115.2 million of cash from operations, compared to $59.4 million generated in the prior year period.
+
+During the twelve months ended December 31, 2024, the Company generated $108.5 million of free cash flow, compared to $54.3 million generated in the prior year period.
+
+Announced expansion of IaaS security coverage to Google Cloud, bringing the company's proven data-centric approach to Google Cloud storage and data warehouses.
+
+Expanded coverage to discover and classify critical data, remove exposures, and detect threats on the Databricks Data Intelligence Platform.
+
+Broadened coverage to continuously discover and classify data and resolve issues related to data risk and overexposure within ServiceNow.
+
+An explanation of ARR is included below under the heading "Non-GAAP Financial Measures and Key Performance Indicators." In addition, the tables at the end of this press release include a reconciliation of net cash provided by operating activities to non-GAAP free cash flow. An explanation of this measure is also included below under the heading "Non-GAAP Financial Measures and Key Performance Indicators."
+
+Financial Outlook
+
+For the first quarter of 2025, the Company expects:
+
+Revenues of $130.0 million to $135.0 million, or year-over-year growth of 14% to 18%.
+
+Non-GAAP operating loss of ($14.0) million to ($11.0) million.
+
+Non-GAAP net loss per diluted share in the range of ($0.06) to ($0.04), based on 113.6 million diluted shares outstanding.
+
+For full year 2025, the Company expects:
+
+ARR of $737.0 million to $745.0 million, or year-over-year growth of 15% to 16%.
+
+Net cash provided by operating activities of $132.0 million to $139.0 million.
+
+Free cash flow of $120.0 million to $125.0 million.
+
+Revenues of $610.0 million to $625.0 million, or year-over-year growth of 11% to 13%.
+
+Non-GAAP operating income of $0.5 million to $10.5 million.
+
+Non-GAAP net income per diluted share in the range of $0.13 to $0.17, based on 137.5 million diluted shares outstanding.
+
+Actual results may differ materially from the Companys Financial Outlook as a result of, among other things, the factors described below under Forward-Looking Statements.
+
+Conference Call and Webcast
+
+Varonis will host a conference call today, Tuesday, February 4, 2025, at 4:30 p.m. Eastern Time, to discuss the Company's fourth quarter 2024 and full-year 2024 financial results. To access this call, dial 877-425-9470 (domestic) or 201-389-0878 (international). The passcode is 13750890. A replay of this conference call will be available through February 11, 2025 at 844-512-2921 (domestic) or 412-317-6671 (international). The replay passcode is 13750890. A live webcast of this conference call will be available on the "Investors" page of the Company's website (www.varonis.com), and a replay will be archived on the website as well.
+
+Non-GAAP Financial Measures and Key Performance Indicators
+
+Varonis believes that the use of non-GAAP operating income (loss) and non-GAAP net income (loss) is helpful to our investors. These measures, which the Company refers to as our non-GAAP financial measures, are not prepared in accordance with GAAP.
+
+Non-GAAP operating income (loss) is calculated as operating income (loss) excluding (i) stock-based compensation expense, (ii) payroll tax expense related to stock-based compensation, and (iii) amortization of acquired intangible assets and acquisition-related expenses.
+
+Non-GAAP net income (loss) is calculated as net income (loss) excluding (i) stock-based compensation expense, (ii) payroll tax expense related to stock-based compensation, (iii) amortization of acquired intangible assets and acquisition-related expenses, (iv) foreign exchange gains (losses) which include exchange rate differences on lease contracts as a result of the implementation of ASC 842 and (v) amortization of debt issuance costs.
+
+The Company believes that the exclusion of these expenses provides a more meaningful comparison of our operational performance from period to period and offers investors and management greater visibility to the underlying performance of our business. Specifically:
+
+Stock-based compensation expenses utilize varying available valuation methodologies, subjective assumptions and a variety of equity instruments that can impact a company's non-cash expenses;
+
+Payroll taxes are tied to the exercise or vesting of underlying equity awards and the price of our common stock at the time of vesting or exercise, factors which may vary from period to period;
+
+Acquired intangible assets are valued at the time of acquisition and are amortized over an estimated useful life after the acquisition, and acquisition-related expenses are unrelated to current operations and neither are comparable to the prior period nor predictive of future results;
+
+The Company incurs foreign exchange gains or losses from the revaluation of its significant operating lease liabilities in foreign currencies as well as other assets and liabilities denominated in non-U.S. dollars, which may vary from period to period; and
+
+Amortization of debt issuance costs, which relate to the Companys convertible senior notes issued in 2020 and 2024, are a non-cash item.
+
+Free cash flow is calculated as net cash provided by or used in operating activities less purchases of property and equipment. We believe that free cash flow is a useful indicator of liquidity that provides information to management and investors about the amount of cash provided by or used in our operations that, after the investments in property and equipment, can be used for strategic initiatives.
+
+Each of our non-GAAP financial measures is an important tool for financial and operational decision making and for evaluating our own operating results over different periods of time. The non-GAAP financial measures do not represent our financial performance under U.S. GAAP and should not be considered as alternatives to operating income (loss) or net income (loss) or any other performance measures derived in accordance with GAAP. Non-GAAP financial measures may not provide information that is directly comparable to that provided by other companies in our industry, as other companies in our industry may calculate non-GAAP financial results differently, particularly related to non-recurring, unusual items. In addition, there are limitations in using non-GAAP financial measures because the non-GAAP financial measures are not prepared in accordance with GAAP, and exclude expenses that may have a material impact on our reported financial results. Further, stock-based compensation expense and payroll tax expense related to stock-based compensation have been, and will continue to be for the foreseeable future, significant recurring expenses in our business and an important part of the compensation provided to our employees. Also, the amortization of intangible assets are expected recurring expenses over the estimated useful life of the underlying intangible asset and acquisition-related expenses will be incurred to the extent acquisitions are made in the future. Additionally, foreign exchange rates may fluctuate from one period to another, and the Company does not estimate movements in foreign currencies. Finally, the amortization of debt issuance costs are expected recurring expenses until the maturity of the senior notes in 2029.
+
+The presentation of non-GAAP financial information is not meant to be considered in isolation or as a substitute for the directly comparable financial measures prepared in accordance with GAAP. Varonis urges investors to review the reconciliation of our non-GAAP financial measures to the comparable GAAP financial measures included below, and not to rely on any single financial measures to evaluate our business.
+
+A reconciliation for non-GAAP operating income (loss) and non-GAAP net income (loss) referred to in our Financial Outlook is not provided because, as forward-looking statements, such reconciliation is not available without unreasonable effort due to the high variability, complexity, and difficulty of estimating certain items such as charges to stock-based compensation expense and currency fluctuations which could have an impact on our consolidated results. The Company believes the information provided is useful to investors because it can be considered in the context of the Companys historical disclosures of this measure.
+
+ARR is a key performance indicator defined as the annualized value of active SaaS contracts, term-based subscription license contracts, and maintenance contracts in effect at the end of that period. SaaS contracts, term-based subscription license contracts, and maintenance contracts are annualized by dividing the total contract value by the number of days in the term and multiplying the result by 365. The annualized value of contracts is a legal and contractual determination made by assessing the contractual terms with our customers. The annualized value of maintenance contracts is not determined by reference to historical revenues, deferred revenues or any other GAAP financial measure over any period. ARR is not a forecast of future revenues, which can be impacted by contract start and end dates and renewal rates.
+
+Forward-Looking Statements
+
+This press release contains, and statements made during the above referenced conference call will contain, "forward-looking" statements, which are subject to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, including regarding the Company's growth rate and its expectations regarding future revenues, operating income or loss or earnings or loss per share. These statements are not guarantees of future performance but are based on management's expectations as of the date of this press release and assumptions that are inherently subject to uncertainties, risks and changes in circumstances that are difficult to predict. Forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause actual results, performance or achievements to be materially different from any future results, performance or achievements. Important factors that could cause actual results to differ materially from those expressed or implied by these forward-looking statements include the following: the impact of potential information technology, cybersecurity or data security breaches; risks associated with anticipated growth in Varonis addressable market; general economic and industry conditions, such as foreign currency exchange rate fluctuations and expenditure trends for data and cybersecurity solutions; Varonis ability to predict the timing and rate of subscription renewals and their impact on the Companys future revenues and operating results; risks associated with international operations; the impact of global conflicts on the budgets of our clients and on economic conditions generally; competitive factors, including increased sales cycle time, changes in the competitive environment, pricing changes and increased competition; the risk that Varonis may not be able to attract or retain employees, including sales personnel and engineers; Varonis ability to build and expand its direct sales efforts and reseller distribution channels; risks associated with the closing of large transactions, including Varonis ability to close large transactions consistently on a quarterly basis; new product introductions and Varonis ability to develop and deliver innovative products; Varonis ability to provide high-quality service and support offerings; the expansion of cloud-delivered services; and risks associated with our convertible notes and capped-call transactions. These and other important risk factors are described more fully in Varonis reports and other documents filed with the Securities and Exchange Commission and could cause actual results to vary from expectations. All information provided in this press release and in the conference call is as of the date hereof, and Varonis undertakes no duty to update or revise this information, whether as a result of new information, new developments or otherwise, except as required by law.
+
+About Varonis
+
+Varonis (Nasdaq: VRNS) is a leader in data security, fighting a different battle than conventional cybersecurity companies. Our cloud-native Data Security Platform continuously discovers and classifies critical data, removes exposures, and detects advanced threats with AI-powered automation.
+
+Thousands of organizations worldwide trust Varonis to defend their data wherever it lives across SaaS, IaaS, and hybrid cloud environments. Customers use Varonis to automate a wide range of security outcomes, including data security posture management (DSPM), data classification, data access governance (DAG), data detection and response (DDR), data loss prevention (DLP), and insider risk management.
+
+Varonis protects data first, not last. Learn more at www.varonis.com.
+
+Investor Relations Contact:
+
+Tim Perz
+
+Varonis Systems, Inc.
+
+646-640-2112
+
+investors@varonis.com 
+
+News Media Contact:
+
+Rachel Hunt
+
+Varonis Systems, Inc.
+
+877-292-8767 (ext. 1598)
+
+pr@varonis.com 
+
+Varonis Systems, Inc.
+
+Consolidated Statements of Operations
+
+(in thousands, except for share and per share data)
+
+Three Months Ended
+
+December 31, Twelve Months Ended
+
+December 31,
+
+2024 2023 2024 2023
+
+Unaudited Unaudited 
+
+Revenues: 
+
+Term license subscriptions $ 66,781 $ 106,184 $ 254,241 $ 356,490 
+
+SaaS 72,206 22,980 208,781 44,417 
+
+Maintenance and services 19,527 24,935 87,928 98,253 
+
+Total revenues 158,514 154,099 550,950 499,160 
+
+Cost of revenues 26,055 19,347 93,847 71,751 
+
+Gross profit 132,459 134,752 457,103 427,409 
+
+Operating expenses: 
+
+Research and development 50,546 48,144 196,765 183,838 
+
+Sales and marketing 76,123 70,569 288,769 277,893 
+
+General and administrative 23,342 21,283 89,220 82,901 
+
+Total operating expenses 150,011 139,996 574,754 544,632 
+
+Operating loss (17,552 ) (5,244 ) (117,651 ) (117,223 )
+
+Financial income, net 7,605 5,433 34,644 30,305 
+
+Income (loss) before income taxes (9,947 ) 189 (83,007 ) (86,918 )
+
+Income taxes (3,047 ) (1,087 ) (12,758 ) (13,998 )
+
+Net loss $ (12,994 ) $ (898 ) $ (95,765 ) $ (100,916 )
+
+Net loss per share of common stock, basic and diluted $ (0.12 ) $ (0.01 ) $ (0.86 ) $ (0.92 )
+
+Weighted average number of shares used in computing net loss per share of common stock, basic and diluted 112,488,376 109,007,859 111,660,541 109,141,894 
+
+Stock-based compensation expense for the three and twelve months endedDecember 31, 2024 and 2023 is included in the Consolidated Statements of Operations as follows (in thousands):
+
+Three Months Ended
+
+December 31, Twelve Months Ended
+
+December 31,
+
+2024 2023 2024 2023
+
+Unaudited Unaudited 
+
+Cost of revenues $ 1,175 $ 1,275 $ 5,192 $ 7,221
+
+Research and development 10,709 11,199 41,766 48,679
+
+Sales and marketing 10,509 10,186 41,494 48,047
+
+General and administrative 10,176 8,983 38,230 35,872
+
+$ 32,569 $ 31,643 $ 126,682 $ 139,819
+
+Payroll tax expense related to stock-based compensation for the three and twelve months endedDecember 31, 2024 and 2023 is included in the Consolidated Statements of Operations as follows (in thousands):
+
+Three Months Ended
+
+December 31, Twelve Months Ended
+
+December 31,
+
+2024 2023 2024 2023
+
+Unaudited Unaudited 
+
+Cost of revenues $ 6 $ 20 $ 637 $ 405
+
+Research and development 38 133 604 365
+
+Sales and marketing 146 152 3,196 1,972
+
+General and administrative 16 32 1,181 518
+
+$ 206 $ 337 $ 5,618 $ 3,260
+
+Amortization of acquired intangibles and acquisition-related expenses for the three and twelve months endedDecember 31, 2024 and 2023 is included in the Consolidated Statements of Operations as follows (in thousands):
+
+Three Months Ended
+
+December 31, Twelve Months Ended
+
+December 31,
+
+2024 2023 2024 2023
+
+Unaudited Unaudited 
+
+Cost of revenues $ 119 $ 381 $ 1,263 $ 1,525
+
+Research and development 128 1,363
+
+Sales and marketing 
+
+General and administrative 
+
+$ 119 $ 509 $ 1,263 $ 2,888
+
+Varonis Systems, Inc.
+
+Consolidated Balance Sheets
+
+(in thousands)
+
+December 31, 2024 December 31, 2023
+
+Unaudited 
+
+Assets 
+
+Current assets: 
+
+Cash and cash equivalents $ 185,585 $ 230,740 
+
+Marketable securities 343,383 253,175 
+
+Short-term deposits 39,450 49,800 
+
+Trade receivables, net 192,832 169,116 
+
+Prepaid expenses and other short-term assets 116,824 64,326 
+
+Total current assets 878,074 767,157 
+
+Long-term assets: 
+
+Long-term marketable securities 658,896 211,063 
+
+Operating lease right-of-use assets 45,593 51,838 
+
+Property and equipment, net 30,795 33,964 
+
+Intangible assets, net 1,263 
+
+Goodwill 23,135 23,135 
+
+Other assets 27,782 15,490 
+
+Total long-term assets 786,201 336,753 
+
+Total assets $ 1,664,275 $ 1,103,910 
+
+Liabilities and stockholders equity 
+
+Current liabilities: 
+
+Trade payables $ 4,313 $ 672 
+
+Accrued expenses and other short-term liabilities 164,930 125,057 
+
+Convertible senior notes, net 250,529 
+
+Deferred revenues 290,113 181,049 
+
+Total current liabilities 709,885 306,778 
+
+Long-term liabilities: 
+
+Convertible senior notes, net 450,243 250,477 
+
+Operating lease liabilities 42,789 51,313 
+
+Deferred revenues 2,211 886 
+
+Other liabilities 3,491 4,808 
+
+Total long-term liabilities 498,734 307,484 
+
+Stockholders equity: 
+
+Share capital 
+
+Common stock 113 109 
+
+Accumulated other comprehensive income (loss) 2,676 (8,649 )
+
+Additional paid-in capital 1,193,022 1,142,578 
+
+Accumulated deficit (740,155 ) (644,390 )
+
+Total stockholders equity 455,656 489,648 
+
+Total liabilities and stockholders equity $ 1,664,275 $ 1,103,910 
+
+Varonis Systems, Inc.
+
+Consolidated Statements of Cash Flows
+
+(in thousands)
+
+Twelve Months Ended
+
+December 31,
+
+2024 2023
+
+Unaudited 
+
+Cash flows from operating activities: 
+
+Net loss $ (95,765 ) $ (100,916 )
+
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+
+Depreciation and amortization 11,126 11,703 
+
+Stock-based compensation 126,682 139,819 
+
+Amortization of deferred commissions 54,392 53,072 
+
+Non-cash operating lease costs 9,526 9,468 
+
+Amortization of debt issuance costs 2,144 1,514 
+
+Amortization of premium and accretion of discount on marketable securities, net (12,690 ) (9,354 )
+
+Acquired in-process research and development 6,653 
+
+Changes in assets and liabilities: 
+
+Trade receivables (23,716 ) (33,137 )
+
+Prepaid expenses and other short-term assets (35,332 ) (21,459 )
+
+Deferred commissions (59,820 ) (53,505 )
+
+Other long-term assets 347 (577 )
+
+Trade payables 3,641 (2,290 )
+
+Accrued expenses and other short-term liabilities 17,317 (5,278 )
+
+Deferred revenues 110,389 69,882 
+
+Other long-term liabilities 306 474 
+
+Net cash provided by operating activities 115,200 59,416 
+
+Cash flows from investing activities: 
+
+Proceeds from maturities of marketable securities 308,840 301,350 
+
+Proceeds from sales of marketable securities 111,552 
+
+Investment in marketable securities (949,841 ) (517,948 )
+
+Proceeds from short-term and long-term deposits 34,795 214,444 
+
+Investment in short-term and long-term deposits (24,254 ) (135,823 )
+
+Purchase of in-process research and development (6,653 ) 
+
+Purchases of property and equipment (6,694 ) (5,099 )
+
+Net cash used in investing activities (532,255 ) (143,076 )
+
+Cash flows from financing activities: 
+
+Proceeds from issuance of convertible senior notes, net of issuance costs 449,635 
+
+Purchases of capped calls (55,522 ) 
+
+Proceeds from employee stock plans 16,082 11,537 
+
+Taxes paid related to net share settlement of equity awards (38,295 ) (21,415 )
+
+Repurchase of common stock (43,522 )
+
+Net cash provided by (used in) financing activities 371,900 (53,400 )
+
+Decrease in cash and cash equivalents (45,155 ) (137,060 )
+
+Cash and cash equivalents at beginning of period 230,740 367,800 
+
+Cash and cash equivalents at end of period $ 185,585 $ 230,740 
+
+Varonis Systems, Inc.
+
+Reconciliation of GAAP Measures to non-GAAP
+
+(in thousands, except share and per share data)
+
+Three Months Ended
+
+December 31, Twelve Months Ended
+
+December 31,
+
+2024 2023 2024 2023
+
+Unaudited Unaudited
+
+Reconciliation to non-GAAP operating income: 
+
+GAAP operating loss $ (17,552 ) $ (5,244 ) $ (117,651 ) $ (117,223 )
+
+Add back: 
+
+Stock-based compensation expense 32,569 31,643 126,682 139,819 
+
+Payroll tax expenses related to stock-based compensation 206 337 5,618 3,260 
+
+Amortization of acquired intangible assets and acquisition-related expenses 119 509 1,263 2,888 
+
+Non-GAAP operating income $ 15,342 $ 27,245 $ 15,912 $ 28,744 
+
+Reconciliation to non-GAAP net income: 
+
+GAAP net loss $ (12,994 ) $ (898 ) $ (95,765 ) $ (100,916 )
+
+Add back: 
+
+Stock-based compensation expense 32,569 31,643 126,682 139,819 
+
+Payroll tax expenses related to stock-based compensation 206 337 5,618 3,260 
+
+Amortization of acquired intangible assets and acquisition-related expenses 119 509 1,263 2,888 
+
+Foreign exchange rate differences, net 3,129 2,290 827 (916 )
+
+Amortization of debt issuance costs 880 381 2,144 1,514 
+
+Non-GAAP net income $ 23,909 $ 34,262 $ 40,769 $ 45,649 
+
+GAAP weighted average number of shares used in computing net loss per share of common stock - basic and diluted 112,488,376 109,007,859 111,660,541 109,141,894 
+
+Non-GAAP weighted average number of shares used in computing net income per share of common stock - basic 112,488,376 109,007,859 111,660,541 109,141,894 
+
+Non-GAAP weighted average number of shares used in computing net income per share of common stock - diluted 135,097,388 126,061,869 130,278,825 126,585,777 
+
+GAAP net loss per share of common stock - basic and diluted $ (0.12 ) $ (0.01 ) $ (0.86 ) $ (0.92 )
+
+Non-GAAP net income per share of common stock - basic $ 0.21 $ 0.31 $ 0.37 $ 0.42 
+
+Non-GAAP net income per share of common stock - diluted $ 0.18 $ 0.27 $ 0.31 $ 0.36 
+
+Varonis Systems, Inc.
+
+Reconciliation of GAAP Measures to non-GAAP
+
+(in millions)
+
+Twelve Months Ended
+
+December 31,
+
+2024 2023
+
+Unaudited
+
+Reconciliation to non-GAAP free cash flow: 
+
+Net cash provided by operating activities $ 115.2 $ 59.4 
+
+Purchases of property and equipment (6.7 ) (5.1 )
+
+Free cash flow $ 108.5 $ 54.3 
+
+Varonis Systems, Inc.
+
+Reconciliation of GAAP Measures to non-GAAP
+
+(in millions)
+
+Twelve Months Ended
+
+December 31, 2025
+
+Low High
+
+Reconciliation to non-GAAP free cash flow: 
+
+Net cash provided by operating activities $ 132.0 $ 139.0 
+
+Purchases of property and equipment (12.0 ) (14.0 )
+
+Free cash flow $ 120.0 $ 125.0
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>gnw-20190101.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>4
+<FILENAME>gnw-20190101_def.xml
+<DESCRIPTION>XBRL DEFINITION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>gnw-20190101_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Cover [Abstract] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>gnw-20190101_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 04, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Feb. 04, 2025
+
+Entity File Number 001-36324
+
+Entity Registrant Name VARONIS SYSTEMS, INC.
+
+Entity Central Index Key 0001361113
+
+Entity Tax Identification Number 57-1222280
+
+Entity Incorporation, State or Country Code DE
+
+Entity Address, Address Line One 1250 Broadway, 28th Floor
+
+Entity Address, City or Town New York
+
+Entity Address, State or Province NY
+
+Entity Address, Postal Zip Code 10001
+
+City Area Code 877
+
+Local Phone Number 292-8767
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, par value $0.001 per share
+
+Trading Symbol VRNS
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Section 14a
+
+-Number 240
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://globenewswire.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+f8k_020425.htm 
+gnw-20190101.xsd 
+gnw-20190101_def.xml 
+gnw-20190101_lab.xml 
+gnw-20190101_pre.xml 
+
+http://xbrl.sec.gov/dei/2023 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001171843-25-000613-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>f8k_020425_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001361113 
+
+2025-02-04 
+2025-02-04 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+0001361113 
+false 
+8-K 
+2025-02-04 
+VARONIS SYSTEMS, INC. 
+DE 
+001-36324 
+57-1222280 
+1250 Broadway, 28th Floor 
+New York 
+NY 
+10001 
+877 
+292-8767 
+false 
+false 
+false 
+false 
+Common Stock, par value $0.001 per share 
+VRNS 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

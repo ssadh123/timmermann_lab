@@ -1,0 +1,1025 @@
+<SEC-DOCUMENT>0001326732-25-000005.txt : 20250213
+<SEC-HEADER>0001326732-25-000005.hdr.sgml : 20250213
+<ACCEPTANCE-DATETIME>20250213080020
+ACCESSION NUMBER:		0001326732-25-000005
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250207
+ITEM INFORMATION:		Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250213
+DATE AS OF CHANGE:		20250213
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Xencor Inc
+		CENTRAL INDEX KEY:			0001326732
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				201622502
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36182
+		FILM NUMBER:		25617254
+
+	BUSINESS ADDRESS:	
+		STREET 1:		465 N. HALSTEAD ST.
+		STREET 2:		SUITE 200
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91107
+		BUSINESS PHONE:		626-305-5900
+
+	MAIL ADDRESS:	
+		STREET 1:		465 N. HALSTEAD ST.
+		STREET 2:		SUITE 200
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91107
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>xncr-20250207.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?xncr-20250207
+
+FALSE000132673200013267322025-02-072025-02-07
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+___________________________________________________
+
+FORM 8-K
+
+___________________________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):February 7, 2025
+
+___________________________________________________
+
+XENCOR, INC.
+
+(Exact name of registrant as specified in its charter)
+
+___________________________________________________
+
+Delaware 001-36182 20-1622502
+
+(State or Other Jurisdiction of 
+
+Incorporation) 
+
+(Commission 
+
+File Number) 
+
+(IRS Employer 
+
+Identification Number)
+
+465 North Halstead Street, Suite 200
+
+Pasadena, California 
+
+91107
+
+(Address of Principal Executive Offices) 
+
+(Zip Code)
+
+(626)305-5900
+
+(Registrants telephone number, including area code)
+
+(Former name or former address, if changed since last report)
+
+___________________________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+o Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class Trading Symbol(s) Name of Each Exchange on Which Registered
+
+Common Stock, par value $0.01 per share XNCR Nasdaq Global Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 4.02 NonReliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review.
+
+(a) On February 11, 2025, the Audit Committee of the Board of Directors (the Audit Committee) of Xencor, Inc. (the Company), after consultation with the Companys management and RSM US LLP, the Companys independent registered public accounting firm (RSM) concluded that the following financial statements should no longer be relied upon because of errors in such financial statements as addressed in FASB ASC Topic 250, Accounting Changes and Error Corrections: (i) the Companys audited consolidated financial statements for the fiscal year ended December 31, 2023, contained in its Annual Report on Form 10-K for the year ended December 31, 2023, originally filed with the Securities and Exchange Commission (the SEC) on February 29, 2024 (the 2023 Form 10-K); (ii) the Companys unaudited consolidated financial statements for the three months ended March 31, 2024, contained in its Quarterly Report on Form 10-Q for the quarter ended March 31, 2024, originally filed with the SEC on May 9, 2024 (the Q1 Form 10-Q); (iii) the Companys unaudited consolidated financial statements for the three and six months ended June 30, 2024, contained in its Quarterly Report on Form 10-Q for the quarter ended June 30, 2024, originally filed with the SEC on August 8, 2024 (the Q2 Form 10Q); and (iv) the Companys unaudited consolidated financial statements for the three and nine months ended September 30, 2024, contained in its Quarterly Report on Form 10-Q for the quarter ended September 30, 2024, originally filed with the SEC on November 6, 2024 (the Q3 Form 10-Q and, together with the 2023 Form 10-K, the Q1 Form 10-Q and the Q2 Form 10-Q, the Prior Filings). In addition, the Audit Committee concluded that managements report on the effectiveness of internal control over financial reporting as of December 31, 2023, and RSMs report on the consolidated balance sheets as of December 31, 2023, the related consolidated statements of income (loss), comprehensive income (loss), stockholders equity and cash flows for the year ended December 31, 2023, and the related notes to the consolidated financial statements, as well as RSMs report on the effectiveness of internal control over financial reporting as of December 31, 2023, should no longer be relied upon.
+
+The Audit Committee reached its conclusion based on the following:
+
+OMERS Life Sciences Royalty
+
+In the financial statements included in the Prior Filings (collectively, the Affected Financial Statements), the Company accounted for a royalty transaction with OMERS Life Sciences entered into by the Company in November 2023 (the Royalty Transaction), as deferred income. Management has subsequently determined that the Royalty Transaction should be accounted for as debt in the Affected Financial Statements. The estimated impact of this error on the consolidated balance sheet for the year ended December 31, 2023 was that accounts receivable was understated by $12.4 million, deferred income was overstated by $156.9 million, debt was understated by $168.5 million, and shareholders equity was understated by $0.8 million; the estimated impact on the consolidated statement of income (loss) for the year ended December 31, 2023 was that revenue was understated by $6.3 million and interest expense was understated by $5.5 million; and the estimated impact on the consolidated statement of cash flows for the year ended December 31, 2023 is that cash flow provided by operating activities was overstated by $163.0 million, while cash flow provided by financing activities was understated by the same amount. Management further determined that the Company had a material weakness in its internal control over financial reporting related to this matter. 
+
+Taxes
+
+In addition, the Companys management became aware of a misstatement related to the Companys treatment of research and development expenses under Section 174 of the Internal Revenue Code of 1986, as amended, whereby the Company understated the amount of research and experimental expenses that should have been capitalized for tax purposes in the year ended December 31, 2023, as reported in certain of the Prior Filings, and therefore identified an uncertain tax position estimated to be $5.6 million owed for the year ended December 31, 2023. In addition, the Company became aware of a misstatement related to its state tax obligations. The Company evaluated its taxable presence and estimates that it understated its state income tax expense by approximately $2.2 million, net of the federal benefit, for the year ended December 31, 2023. These amounts exclude any interest and penalties. The estimated impact on the consolidated balance sheet for the year ended December 31, 2023 was that uncertain tax position payable was understated by $7.7 million, income tax payable was understated by $0.1 million and shareholders equity was overstated by $7.8 million. Management further determined that the Company had a material weakness in its internal control over financial reporting related to this matter.
+
+These matters will have no impact on the Companys cash, cash equivalents and marketable debt securities as reported in the Prior Filings.
+
+The Company has determined to restate the Affected Financial Statements to address the foregoing and will prepare amendments to each of the Prior Filings that include the restated financial statements (collectively, the Amendments). The Companys remediation plans with respect to the material weaknesses described above will be included in the Amendments.
+
+Additionally, as the Company is restating the Affected Financial Statements, the Company may make immaterial adjustments in the Affected Financial Statements. The restatement of the Affected Financial Statements is not anticipated to have a material impact on the Companys future business or operations. However, the Companys internal review is ongoing and the Company may identify further required changes to previously reported amounts or control findings. There can be no assurance that the actual effects of the restatement will be only as described above.
+
+The Company is diligently pursuing completion of the restatements and intends to file the Amendments prior to the filing of the Companys Annual Report on Form 10-K for the fiscal year ended December 31, 2024.
+
+The Audit Committee discussed the matters described in this Item 4.02(a) with RSM. 
+
+(b) On February 7, 2024, the Company was advised by, and received notice from, RSM that disclosure should be made and action should be taken to prevent future reliance on (i) the Reports of Independent Registered Public Accounting Firm, dated February 28, 2024, relating to the Companys internal control over financial reporting and consolidated financial statements for the year ended December 31, 2023, and (ii) the completed interim reviews for the interim periods ended March 31, 2024, June 30, 2024 and September 30, 2024, and that RSM has recalled its reports, dated February 28, 2024, on the Companys 2023 internal control over financial reporting and the 2023 financial statements. The Audit Committee discussed with RSM the matters disclosed in this Item 4.02(b). 
+
+RSM was provided a copy of the disclosures made in this Current Report on Form 8-K and was requested by the Company to furnish the Company, as promptly as possible, a letter addressed to the SEC stating whether RSM agrees with the statements made by the Company in response to this Item 4.02 and, if not, stating the respects in which it does not agree. A copy of the letter from RSM is attached as Exhibit 7.1 to this Current Report on Form 8-K.
+
+Forward-Looking Statements
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the federal securities laws, including, without limitation, statements regarding the Companys expectations and preliminary estimates of the impact of the restatement on the Companys Affected Financial Statements and the Prior Filings; the scope of the restatement and the controls and procedures deficiencies; the timing of the completion of the restatement and the filing of the Amendments; plans to remediate the deficiencies, including the material weaknesses, with respect to the Companys internal control over financial reporting and disclosure controls and procedures; the impact of these matters on the Companys performance and outlook; expectations concerning the Companys performance and financial outlook; and any statements or assumptions underlying any of the foregoing. You can identify forwardlooking statements by the fact that they do not relate strictly to historical or current facts. These statements may include words such as if, anticipate, estimate, expect, project, plan, intend, believe, may, will, should, likely and other words and terms of similar meaning in connection with any discussion of the timing or nature of future events. We cannot assure you that future developments affecting us will be those that we have anticipated. Important risks and uncertainties that could cause actual results to differ materially from our expectations include, among others, risks related to the timely and correct completion of the restatement and the Amendments; identification of errors in our financial reporting in the future that require us to restate previously issued financial statements, which may subject us to unanticipated costs or regulatory penalties and could cause investors to lose confidence in the accuracy and completeness of our financial statements; the risk that additional information may become known prior to the expected filing with the SEC of the periodic reports described herein or that other subsequent events may occur that would require the Company to make additional adjustments to its financial statements or delay the filing of the corrected or future periodic reports with the SEC; risks related to changes in the effects of the restatement on the Prior Filings or financial results; risks related to higher than expected charges after completing the restatement process; risks related to our ability to implement and maintain effective internal control over financial reporting in the future, which may adversely affect the accuracy and timeliness of our financial reporting; risks related to changes to accounting rules or regulations; risks related to fluctuations in our tax obligations and effective tax rate and realization of our deferred tax assets, including net operating loss carryforwards, which may result in volatility of our results of operations; risks related to the Companys plans to remediate any control and procedures deficiencies; risks related to the timing and results of the Companys review of the effectiveness of internal control over financial reporting and related disclosure controls and procedures; risks related to the application of accounting or tax principles in an unanticipated manner risks related to our 
+
+dependence on key personnel and any changes in our ability to retain key personnel; as well as those risks and uncertainties disclosed under the sections entitled Risk Factors and Managements Discussion and Analysis of Financial Condition and Results of Operations in the Prior Filings, and similar disclosures in subsequent reports filed with the SEC, including the Amendments which are or will be available on our investor relations website at https://investors.xencor.com/financials-and-filings and on the SECs website at www.sec.gov. Any forward-looking statement made by us in this Current Report on Form 8-K speaks only as of the date on which we make it. We undertake no obligation to publicly update any forward-looking statement, whether as a result of new information, future developments or otherwise, except as may be required by any applicable securities laws. 
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d)Exhibits.
+
+Exhibit No. Description
+
+7.1 
+
+Letter from RSM US LLP, dated February 13, 2025.
+
+104 Cover Page Interactive Data File, formatted in Inline Extensible Business Reporting Language (iXBRL).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: February 13, 2025 XENCOR, INC.
+
+By: /s/ Celia Eckert
+
+Celia Eckert
+
+General Counsel & Corporate Secretary
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-7.1
+<SEQUENCE>2
+<FILENAME>xencor8-krsmresponse_fin.htm
+<DESCRIPTION>EX-7.1
+<TEXT>
+xencor8-krsmresponse_fin
+
+44 Montgomery St Suite 3900 San Francisco, CA 94104 T +1 415 848 5300 F +1 415 848 5353 www.rsmus.com February 13, 2025 Securities and Exchange Commission Washington, D.C. 20549 Commissioners: We have read Xencor, Inc.s statements included under Item 4.02(b) of its Form 8-K filed on February 13, 2025, and we agree with such statements regarding communications from our firm.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>xncr-20250207.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>xncr-20250207_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>xncr-20250207_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>xencor8-krsmresponse_fin001.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 07, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 07, 2025
+
+Entity Registrant Name XENCOR, INC.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-36182
+
+Entity Tax Identification Number 20-1622502
+
+Entity Address, Address Line One 465 North Halstead Street, Suite 200
+
+Entity Address, City or Town Pasadena
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 91107
+
+City Area Code (626)
+
+Local Phone Number 305-5900
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, par value $0.01 per share
+
+Trading Symbol XNCR
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+Amendment Flag false
+
+Entity Central Index Key 0001326732
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://www.xencor.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+xncr-20250207.htm 
+xncr-20250207.xsd 
+xncr-20250207_lab.xml 
+xncr-20250207_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001326732-25-000005-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>xncr-20250207_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001326732 
+
+2025-02-07 
+2025-02-07 
+
+false 
+0001326732 
+8-K 
+2025-02-07 
+XENCOR, INC. 
+DE 
+001-36182 
+20-1622502 
+465 North Halstead Street, Suite 200 
+Pasadena 
+CA 
+91107 
+(626) 
+305-5900 
+false 
+false 
+false 
+false 
+Common Stock, par value $0.01 per share 
+XNCR 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

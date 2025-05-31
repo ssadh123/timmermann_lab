@@ -1,0 +1,1187 @@
+<SEC-DOCUMENT>0001213900-25-031330.txt : 20250414
+<SEC-HEADER>0001213900-25-031330.hdr.sgml : 20250414
+<ACCEPTANCE-DATETIME>20250414092219
+ACCESSION NUMBER:		0001213900-25-031330
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20250414
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250414
+DATE AS OF CHANGE:		20250414
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ondas Holdings Inc.
+		CENTRAL INDEX KEY:			0001646188
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39761
+		FILM NUMBER:		25834365
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 MARINA PARK DRIVE
+		STREET 2:		UNIT 1410
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02210
+		BUSINESS PHONE:		6314187044
+
+	MAIL ADDRESS:	
+		STREET 1:		1 MARINA PARK DRIVE
+		STREET 2:		UNIT 1410
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02210
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ZEV VENTURES INC.
+		DATE OF NAME CHANGE:	20150624
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ea0238131-8k_ondas.htm
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+false000164618800016461882025-04-142025-04-14iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities
+Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+April 14, 2025
+
+Ondas Holdings Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Nevada 001-39761 47-2615102
+
+(State or other jurisdiction
+
+of incorporation) (Commission File Number) (IRS Employer
+
+Identification No.)
+
+One Marina Park Drive, Suite 1410, Boston,
+MA02210
+
+(Address of principal executive offices) (Zip Code)
+
+Registrants telephone number, including
+area code (888) 350-9994
+
+N/A
+
+(Former name or former address, if changed since
+last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol Name of each exchange on which registered
+
+Common Stock par value $0.0001 ONDS The Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by checkmark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. 
+
+Item
+8.01. Other Events
+
+On April 14, 2025, Ondas Holdings
+Inc. issued a press release announcing that the IEEE 802.16t Direct Peer-to-Peer protocol
+has been selected by the Association of American Railroads as the new standard for Next Generation head-of-train /
+end-of-train communications or NGHE Gen4. A copy of the press release is attached as Exhibit 99.1
+and incorporated herein by reference.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit No. Description
+
+99.1 Press Release, dated April 14, 2025.
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+1
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: April 14, 2025 ONDAS HOLDINGS INC.
+
+By: /s/ Eric A. Brock
+
+Eric A. Brock
+
+Chief Executive Officer
+
+2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ea023813101ex99-1_ondas.htm
+<DESCRIPTION>PRESS RELEASE, DATED APRIL 14, 2025
+<TEXT>
+Exhibit 99.1
+
+Association of American Railroads Selects dot16
+Protocol Pioneered by Ondas Networks for Next-Generation HOT-EOT (NGHE) Communications 
+
+Ondas Networks Has Led the Development of the
+IEEE 802.16t (dot16) Wireless Standard in Close Collaboration with Industry
+
+Ondas Networks Estimates 70,000 Systems Will
+Need to be Upgraded in the North American Rail Infrastructure
+
+The IEEE 802.16t DDP Protocol Enables Enhanced
+Safety and Operational Efficiencies for Train Telemetry Supporting the Operation of Longer Trains
+
+SUNNYVALE,
+CA / April 14, 2025 /Ondas
+Holdings Inc. (NASDAQ: ONDS) (Ondas
+or the Company), a leading provider of private industrial wireless networks and commercial drone and automated data solutions,
+announced today that the IEEE 802.16t Direct Peer-to-Peer (DPP) protocol has been selected by the Association of American
+Railroads (AAR) as the new standard for Next Generation head-of-train / end-of-train (HOT-EOT) communications
+or NGHE Gen4. This new protocol for train telemetry operations enables new safety and operational improvements to existing
+HOT-EOT applications.
+
+Operating longer trains presents certain technical
+challenges, including maintaining consistent communication between the head and end of the train, ensuring real-time data transmission
+for safety monitoring, and managing increased signal interference over extended distances. The adoption of the IEEE 802.16t DDP protocol
+addresses these issues by providing a more robust and reliable communication framework. This protocol enhances over-the-air security,
+reduces latency, and supports seamless data exchange, thereby improving operational efficiency and safety in train telemetry systems.
+
+Ondas Networks is proud to have played
+a central role in the development of the 802.16t standard, said Markus Nottelmann, CEO of Ondas Networks. The AARs
+adoption of this standard for NGHE applications is a major milestone for the freight rail industry. It enables a smooth migration from
+legacy HOT-EOT systems to next-generation NGHE capabilities all while introducing substantial improvements in safety and operational
+efficiency.
+
+Ondas Networks has been a leading force in the
+development of the IEEE 802.16t (dot16t) industrial wireless standard since 2020. Purpose-built for private industrial networks,
+802.16t is an open, interoperable technology specifically engineered for mission-critical industries such as railroads.
+
+Ondas Networks believes there is a significant
+installed base of legacy NGHE systems within the North American rail infrastructure which will be upgraded to the new NGHE Gen4 requirements.
+The Company estimated that the installed base includes 25,000+ locomotives in the freight rail sector fleet that will require HOT upgrades,
+and that the current installed base of associated EOT devices is approximately 45,000 units. Ondas expects to generate development revenue
+as soon as the second half of 2025 in order to support product introduction and NGHE upgrades beginning in 2026.
+
+As railroads increasingly rely on digital
+infrastructure, we believe the 802.16t technology will serve as the wireless backbone of future communication systems, added Nottelmann.
+This is just the beginning. We look forward to supporting the broader adoption of 802.16t across other critical rail and industrial
+applications.
+
+Ondas Networks previously conducted demonstrations
+of 802.16t DPP technology at MxV Rail, a subsidiary of the Association of American Railroads (AAR), which conducts advanced testing of
+railway equipment for member railroads. Ondas Networks supplies railroads with a portfolio of software-defined radios which conform to
+the 802.16t protocol.
+
+About Ondas Holdings Inc. 
+
+Ondas Holdings Inc. (Ondas) is a leading
+provider of private wireless data solutions via Ondas Networks Inc. (Ondas Networks) and commercial drone solutions through
+Ondas Autonomous Systems Inc. via its wholly-owned subsidiaries American Robotics, Inc. (American Robotics or AR)
+and Airobotics LTD (Airobotics), which we operate as a separate business unit called Ondas Autonomous Systems.
+
+Ondas Networks is a developer of proprietary,
+software-based wireless broadband technology for large established and emerging commercial and government markets. Ondas Networks standards-based
+(802.16t), multi-patented, software-defined radio FullMAX platform enables Mission-Critical IoT (MC-IoT) applications by overcoming the
+bandwidth limitations of todays legacy private licensed wireless networks. Ondas Networks customer end markets include railroads, utilities,
+oil and gas, transportation, aviation (including drone operators) and government entities whose demands span a wide range of mission critical
+applications.
+
+Ondas Autonomous Systems Inc. (OAS) specializes
+in designing, developing, and marketing autonomous drone solutions via its two advanced drone platforms: the Optimus System, the worlds
+first FAA-certified small UAS (sUAS) for aerial security and data capture, and the Iron Drone Raider, a counter-drone system designed
+to combat hostile drones. Both platforms are highly automated, AI-powered, and capable of continuous, remote operation for critical defense,
+infrastructure, industrial, and government applications. American Robotics and Airobotics have achieved industry-leading regulatory milestones,
+including the first-ever FAA Type Certification for the Optimus System and the first drone system approved by the FAA for automated beyond-visual-line-of-sight
+(BVLOS) operations without an on-site human operator.
+
+Ondas Networks, American Robotics and Airobotics
+together provide users in defense, homeland security, public safety and other critical industrial and government security and infrastructure
+markets with improved connectivity, situational awareness and data collection and information processing capabilities.
+
+For additional information on Ondas Holdings,
+visit www.ondas.com or follow Ondas Holdings on X and LinkedIn.
+For additional information on Ondas Networks, visit www.ondasnetworks.com or follow Ondas
+Networks on X and LinkedIn. For additional information on American
+Robotics, visit www.american-robotics.com or follow American Robotics on X
+and LinkedIn. For additional information on Airobotics, visit www.airoboticsdrones.com
+or follow Airobotics on X and LinkedIn. For additional information
+on Ondas Autonomous Systems, follow us on LinkedIn.
+
+Information on our websites and social media platforms
+is not incorporated by reference in this release or in any of our filings with the U.S. Securities and Exchange Commission.
+
+Forward-Looking Statements 
+
+Statements made in this release that are not statements
+of historical or current facts are forward-looking statements within the meaning of the Private Securities Litigation Reform
+Act of 1995. We caution readers that forward-looking statements are predictions based on our current expectations about future events.
+These forward-looking statements are not guarantees of future performance and are subject to risks, uncertainties and assumptions that
+are difficult to predict. Our actual results, performance, or achievements could differ materially from those expressed or implied by
+the forward-looking statements as a result of a number of factors, including the risks discussed under the heading Risk Factors
+discussed under the caption Item 1A. Risk Factors in Part I of our most recent Annual Report on Form 10-K or any updates discussed
+under the caption Item 1A. Risk Factors in Part II of our Quarterly Reports on Form 10-Q and in our other filings with the
+SEC. We undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future
+events or otherwise that occur after that date, except as required by law. 
+
+Contacts 
+
+IR Contact for Ondas Holdings Inc.
+
+888-657-2377
+
+ir@ondas.com
+
+Media Contact for Ondas
+
+Escalate PR
+
+ondas@escalatepr.com
+
+Preston Grimes
+
+Marketing Manager, Ondas Holdings Inc.
+
+Preston.grimes@ondas.com
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>onds-20250414.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>onds-20250414_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Cover [Abstract] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>onds-20250414_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Cover
+
+Apr. 14, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Apr. 14, 2025
+
+Entity File Number 001-39761
+
+Entity Registrant Name Ondas Holdings Inc.
+
+Entity Central Index Key 0001646188
+
+Entity Tax Identification Number 47-2615102
+
+Entity Incorporation, State or Country Code NV
+
+Entity Address, Address Line One One Marina Park Drive
+
+Entity Address, Address Line Two Suite 1410
+
+Entity Address, City or Town Boston
+
+Entity Address, State or Province MA
+
+Entity Address, Postal Zip Code 02210
+
+City Area Code 888
+
+Local Phone Number 350-9994
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock par value $0.0001
+
+Trading Symbol ONDS
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>8
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+1 
+23 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://ondas.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+ea0238131-8k_ondas.htm 
+onds-20250414.xsd 
+onds-20250414_lab.xml 
+onds-20250414_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>14
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>15
+<FILENAME>0001213900-25-031330-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>ea0238131-8k_ondas_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001646188 
+
+2025-04-14 
+2025-04-14 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0001646188 
+8-K 
+2025-04-14 
+Ondas Holdings Inc. 
+NV 
+001-39761 
+47-2615102 
+One Marina Park Drive 
+Suite 1410 
+Boston 
+MA 
+02210 
+888 
+350-9994 
+false 
+false 
+false 
+false 
+Common Stock par value $0.0001 
+ONDS 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

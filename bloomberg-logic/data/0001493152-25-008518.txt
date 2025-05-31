@@ -1,0 +1,1298 @@
+<SEC-DOCUMENT>0001493152-25-008518.txt : 20250227
+<SEC-HEADER>0001493152-25-008518.hdr.sgml : 20250227
+<ACCEPTANCE-DATETIME>20250227161533
+ACCESSION NUMBER:		0001493152-25-008518
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250227
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250227
+DATE AS OF CHANGE:		20250227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BullFrog AI Holdings, Inc.
+		CENTRAL INDEX KEY:			0001829247
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				844786155
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41600
+		FILM NUMBER:		25679001
+
+	BUSINESS ADDRESS:	
+		STREET 1:		325 ELLINGTON BLVD.
+		STREET 2:		UNIT 317
+		CITY:			GAITHERSBURG
+		STATE:			MD
+		ZIP:			20878
+		BUSINESS PHONE:		3013672055
+
+	MAIL ADDRESS:	
+		STREET 1:		325 ELLINGTON BLVD.
+		STREET 2:		UNIT 317
+		CITY:			GAITHERSBURG
+		STATE:			MD
+		ZIP:			20878
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8-k.htm
+<TEXT>
+xml version='1.0' encoding='ASCII'?
+
+false000182924700018292472025-02-272025-02-270001829247BFRG:CommonStockParValue0.00001PerShareMember2025-02-272025-02-270001829247BFRG:TradeableWarrantsMember2025-02-272025-02-27iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+DC 20549
+
+FORM
+8-K
+
+CURRENT
+REPORT
+
+Pursuant
+to Section 13 or 15(d) of the
+
+Securities
+Exchange Act of 1934
+
+Date
+of Report (Date of earliest event reported): February 27, 2025
+
+BULLFROG
+AI HOLDINGS, INC.
+
+(Exact
+name of Registrant as specified in its charter)
+
+Nevada 001-41600 84-4786155
+
+(State
+or other jurisdiction of incorporation) 
+
+(Commission
+
+File
+Number) 
+
+(I.R.S.
+Employer
+
+Identification
+No.)
+
+325
+Ellington Blvd, Unit 317
+
+Gaithersburg,
+MD20878
+
+(Address
+of principal executive offices) (Zip Code)
+
+Registrants
+telephone number, including area code: (240)658-6710
+
+Not
+Applicable
+
+(Former
+name or former address, if changed since last report)
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2. below):
+
+Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+Title
+of each class Trading
+Symbol(s) Name
+of each exchange on which registered
+
+Common
+Stock, par value $0.00001 per share BFRG 
+
+The
+Nasdaq Stock Market LLC
+
+(The
+Nasdaq Capital Market)
+
+Tradeable
+Warrants BFRGW 
+
+The
+Nasdaq Stock Market LLC
+
+(The
+Nasdaq Capital Market)
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging
+growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item
+8.01 Other Events.
+
+On
+February 27, 2025, Bullfrog AI Holdings, Inc. issued a press release announcing its entry into a collaboration agreement with Eleison
+Pharmaceuticals Inc. A copy of the press release is attached hereto and incorporated herein by reference in its entirety as Exhibit 99.1.
+
+Item
+9.01 Financial Statements and Exhibits.
+
+(d) 
+
+Exhibits.
+
+The
+following exhibit is being furnished herein:
+
+99.1 Press release, dated February 27, 2025
+
+104 Cover Page Interactive Data File (formatted as Inline
+XBRL)
+
+SIGNATURE
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+Date:
+February 27, 2025 Bullfrog
+AI Holdings, Inc.
+
+By: 
+
+/s/
+Vininder Singh
+
+Name: Vininder
+Singh
+
+Title: Chief
+Executive Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ex99-1.htm
+<TEXT>
+Exhibit
+99.1
+
+BullFrog
+AI and Eleison Pharmaceuticals Enter Agreement to Collaborate to Optimize Pivotal Phase 3 Trial
+
+Eleison
+to leverage BullFrog Data NetworksTM to enhance patient clustering and safety analysis in glufosfamide clinical trials
+
+GAITHERSBURG,
+Md., Feb. 27, 2025 (GLOBE NEWSWIRE) BullFrog AI Holdings, Inc. (NASDAQ: BFRG; BFRGW) (BullFrog AI or the
+Company), a technology-enabled drug development company using artificial intelligence (AI) and machine learning to enable
+the successful development of pharmaceuticals and biologics, today announced its entry into a collaboration agreement with Eleison Pharmaceuticals
+Inc. (Eleison), a Phase 3 oncology company focused on novel chemotherapeutic treatments for rare cancers. Under the terms
+of the agreement, Bullfrog AI will provide access to its BullFrog Data Networks AI solution to enhance clinical trial efficiency
+and patient insights. Financial terms of the collaboration were not disclosed.
+
+The
+integration of artificial intelligence in clinical trials represents a transformative shift in how pharmaceutical companies can de-risk
+drug development and optimize patient outcomes, said Vin Singh, CEO of BullFrog AI. We are thrilled to partner with Eleison
+to apply our bfLEAP AI technology, which has the potential to refine patient selection, improve trial efficiency, and ultimately
+accelerate the path to market for life-saving therapies.
+
+Through
+this collaboration, BullFrog AI will apply its proprietary BullFrog Data Networks solution, powered by the bfLEAP
+platform, to analyze clinical data from Eleisons ongoing Phase 3 trial and previous clinical studies of glufosfamide, an investigational
+treatment for pancreatic cancer. The platform will evaluate the current trajectory of the trial with respect to safety signals, extract
+predictive biomarkers for efficacy and safety performance from prior studies to support future trial design, and provide data-driven
+insights to optimize Eleisons planned clinical trials for inhaled lipid-complexed cisplatin (ILC) and dibromodulcitol (DBD). These
+insights are expected to streamline trial efficiency and improve decision-making for Eleisons broader oncology pipeline.
+
+Glufosfamide
+is a third-generation alkylating agent designed for greater specificity and tumor uptake, with reduced systemic toxicities and side effects.
+It is currently being evaluated by Eleison in a pivotal Phase 3 international randomized clinical trial, for the second-line treatment
+of patients with pancreatic cancer. Although pancreatic cancer is among the rarer cancer types, it is the third leading cause of death
+by cancer in the United States. More than 67,000 Americans and 510,000 people worldwide are diagnosed with pancreatic cancer annually.
+Few therapeutic options exist to treat the disease and five-year survival rates are typically less than 5%. Eleison expects to complete
+this ongoing Phase 3 trial in 2027.
+
+Our
+collaboration with BullFrog AI underscores our commitment to innovation in drug development, said Edwin Thomas, CEO of Eleison.
+By leveraging AI-powered analytics, we aim to generate deeper insights into patient responses and safety trends, which will not
+only benefit our glufosfamide program but also inform the strategic direction of our broader oncology pipeline.
+
+About
+BullFrog AI
+
+BullFrog
+AI leverages Artificial Intelligence and machine learning to advance drug discovery and development. Through collaborations with leading
+research institutions, BullFrog AI uses causal AI in combination with its proprietary bfLEAP platform to analyze complex biological
+data, aiming to streamline therapeutics development and reduce failure rates in clinical trials.
+
+For
+more information visit BullFrog AI at: https://bullfrogai.com
+
+About
+Eleison Pharmaceuticals
+
+Eleisons
+mission is to acquire and develop drug candidates with existing and significant safety and efficacy data; and ultimately to obtain regulatory
+approval and commercialize new therapeutics for patients with life-threatening cancers. In addition to its glufosfamide program, the
+Company has two other programs in late-stage clinical development; ILC in development for small cell lung cancer and pediatric osteosarcoma,
+and DBD for brain cancers. The Company has entered into development and marketing partnerships with leading pharmaceutical companies
+in China, S. Korea, and Israel. Eleison was founded in 2009 and is headquartered in Princeton, NJ. Additional information about Eleison
+can be found at our website www.eleison-pharma.com.
+
+Safe
+Harbor Statement
+
+This
+press release contains forward-looking statements. We base these forward-looking statements on our expectations and projections about
+future events, which we derive from the information currently available to us. Such forward-looking statements relate to future events
+or our future performance, including: our financial performance and projections; our growth in revenue and earnings; and our business
+prospects and opportunities. You can identify forward-looking statements by those that are not historical in nature, particularly those
+that use terminology such as may, should, could, will, expects,
+anticipates, contemplates, estimates, believes, plans, projected,
+predicts, potential, or hopes or the negative of these or similar terms. In evaluating these
+forward-looking statements, you should consider various factors, including: our ability to change the direction of the Company; our ability
+to keep pace with new technology and changing market needs; and the competitive environment of our business. These and other factors
+may cause our actual results to differ materially from any forward-looking statement. Forward-looking statements are only predictions.
+The forward-looking events discussed in this press release and other statements made from time to time by us or our representatives,
+may not occur, and actual events and results may differ materially and are subject to risks, uncertainties, and assumptions about us.
+We are not obligated to publicly update or revise any forward-looking statement, whether as a result of uncertainties and assumptions,
+the forward-looking events discussed in this press release and other statements made from time to time by us or our representatives might
+not occur.
+
+Contact:
+
+Dave
+Gentry
+
+RedChip
+Companies, Inc.
+
+1-407-644-4256
+
+BFRG@redchip.com
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>bfrg-20250227.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>4
+<FILENAME>bfrg-20250227_def.xml
+<DESCRIPTION>XBRL DEFINITION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>5
+<FILENAME>bfrg-20250227_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Class of Stock [Axis] 
+
+Common Stock, par value $0.00001 per share 
+
+Tradeable Warrants 
+
+Statement [Table] 
+
+Statement [Line Items] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>bfrg-20250227_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 27, 2025
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Feb. 27, 2025
+
+Entity File Number 001-41600
+
+Entity Registrant Name BULLFROG
+AI HOLDINGS, INC.
+
+Entity Central Index Key 0001829247
+
+Entity Tax Identification Number 84-4786155
+
+Entity Incorporation, State or Country Code NV
+
+Entity Address, Address Line One 325
+Ellington Blvd
+
+Entity Address, Address Line Two Unit 317
+
+Entity Address, City or Town Gaithersburg
+
+Entity Address, State or Province MD
+
+Entity Address, Postal Zip Code 20878
+
+City Area Code (240)
+
+Local Phone Number 658-6710
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company true
+
+Elected Not To Use the Extended Transition Period false
+
+Common Stock, par value $0.00001 per share 
+
+Title of 12(b) Security Common
+Stock, par value $0.00001 per share
+
+Trading Symbol BFRG
+
+Security Exchange Name NASDAQ
+
+Tradeable Warrants 
+
+Title of 12(b) Security Tradeable
+Warrants
+
+Trading Symbol BFRGW
+
+Security Exchange Name NASDAQ
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 7A
+
+-Section B
+
+-Subsection 2
+
++ Details
+
+Name: dei_EntityExTransitionPeriod
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=BFRG_CommonStockParValue0.00001PerShareMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=BFRG_TradeableWarrantsMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+3 
+24 
+1 
+false 
+2 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://bullfrogai.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+bfrg-20250227.xsd 
+bfrg-20250227_def.xml 
+bfrg-20250227_lab.xml 
+bfrg-20250227_pre.xml 
+form8-k.htm 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001493152-25-008518-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>form8-k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001829247 
+
+2025-02-27 
+2025-02-27 
+
+0001829247 
+
+BFRG:CommonStockParValue0.00001PerShareMember 
+
+2025-02-27 
+2025-02-27 
+
+0001829247 
+
+BFRG:TradeableWarrantsMember 
+
+2025-02-27 
+2025-02-27 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0001829247 
+8-K 
+2025-02-27 
+BULLFROG AI HOLDINGS, INC. 
+NV 
+001-41600 
+84-4786155 
+325 Ellington Blvd 
+Unit 317 
+Gaithersburg 
+MD 
+20878 
+(240) 
+658-6710 
+false 
+false 
+false 
+false 
+Common Stock, par value $0.00001 per share 
+BFRG 
+NASDAQ 
+Tradeable Warrants 
+BFRGW 
+NASDAQ 
+true 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

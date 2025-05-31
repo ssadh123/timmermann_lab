@@ -1,0 +1,1350 @@
+<SEC-DOCUMENT>0001477932-25-001557.txt : 20250310
+<SEC-HEADER>0001477932-25-001557.hdr.sgml : 20250310
+<ACCEPTANCE-DATETIME>20250307182926
+ACCESSION NUMBER:		0001477932-25-001557
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		16
+CONFORMED PERIOD OF REPORT:	20250214
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250310
+DATE AS OF CHANGE:		20250307
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Business Warrior Corp
+		CENTRAL INDEX KEY:			0001830503
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				901901168
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-265471
+		FILM NUMBER:		25721619
+
+	BUSINESS ADDRESS:	
+		STREET 1:		455 E PEBBLE RD #230912
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89123-0912
+		BUSINESS PHONE:		855-294-2900
+
+	MAIL ADDRESS:	
+		STREET 1:		455 E PEBBLE RD #230912
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89123-0912
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Business Warrior
+		DATE OF NAME CHANGE:	20201029
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>bzwr_8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?bzwr_8k.htm
+
+0001830503false00018305032025-02-142025-02-14iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+FORM8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 14, 2025
+
+BUSINESS WARRIOR CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+Wyoming 
+
+333-265471 
+
+90-1901168
+
+(State of Incorporation) 
+
+(Commission File Number) 
+
+(IRS Employer ID No.)
+
+455 E Pebble Road, #230912,Las Vegas, NV89123-0912
+
+(Address of Principal Executive Offices)
+
+(855) 294-2900
+
+(Registrants Telephone Number including Area Code)
+
+_______________________________________________
+
+(Former name or address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+On February 14, 2025, Business Warrior Corporation (Business Warrior or the Company) entered into an Exclusive License Agreement (the Agreement) with an Exclusive Licensee. (the Licensee), pursuant to which Business Warrior granted the Licensee the exclusive right to market, sell, and distribute the Companys proprietary financial technology platform, PayPlan, along with associated marketing services and legacy software, within the United States.
+
+Under the terms of the Agreement, the Licensee will assume Business Warriors current customers and pay Business Warrior a license fee equal to Business Warriors employee and technology costs plus 30% of the Licensees Net Margin derived from the Licensed Products each month. Business Warrior also received an initial fee of $200,000. The Agreement is for an initial term of twelve (12) months, with automatic renewal for up to two additional twelve-month terms unless either party provides at least sixty (60) days' notice of termination. Additionally, the Licensee has a right of first refusal for licensing opportunities outside of the United States.
+
+This agreement will allow the Company to focus on growing revenues by scaling its PayPlan product, getting current with its financial reporting with the SEC, and achieving compliance with SEC Rule 15c2-11 to facilitate the resumption of public quotations of its securities.
+
+Business Warrior retains ownership of all intellectual property associated with PayPlan and related products. The Agreement allows the Licensee to sublicense the Licensed Products on a Software-as-a-Service (SaaS) basis. Furthermore, the Agreement includes provisions regarding confidentiality, compliance, financial reporting, and a buyback option whereby Business Warrior may repurchase the license after six months under specified conditions.
+
+Item 9.01 Financial Statements and Exhibits.
+
+Exhibit No. 
+
+Description
+
+99.1 
+
+License Agreement
+
+104 
+
+Cover page interactive data file (embedded within the Inline XBRL document)
+
+2
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+BUSINESS WARRIOR CORPORATION 
+
+a Wyoming corporation 
+
+Date: March 7, 2025 
+
+By: 
+
+/s/ Rhett Doolittle 
+
+Name: 
+
+Rhett Doolittle 
+
+Title: 
+
+Chief Executive Officer and Director (Principal Executive Officer)(Principal Financial and Accounting Officer) 
+
+3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>bzwr_ex991.htm
+<DESCRIPTION>LICENSE AGREEMENT
+<TEXT>
+bzwr_ex991.htm
+
+EXHIBIT 99.1
+
+LICENSE & ROYALTY AGREEMENT
+
+THIS AGREEMENT made this 14th day of February 2025 (the Effective Date) by and between [ ]., a corporation organized and existing under the laws of the state of Wyoming, (hereinafter the Licensee) and BUSINESS WARRIOR CORPORATION., a company organized and existing under the laws of the state of Wyoming (hereinafter referred to as Licensor).
+
+WHEREAS, Licensor is the owner and inventor of the products set forth on Exhibit A.
+
+WHEREAS, Licensor and Licensee wish to enter this Agreement so Licensee can market, sell and distribute the Licensed Products on behalf of Licensor; and with the Licensors assistance.
+
+NOW,THEREFORE, in consideration of the mutual covenants and obligations contained herein, the sufficiency of which are hereby acknowledge, Licensor and Licensee (hereafter collectively referred to as the Parties) agree as follows:
+
+Article I. DEFINITIONS
+
+Section1.01 Licensed Products.The Licensed Products are those products listed on Exhibit A attached hereto.
+
+Section1.02 Licensed Territory.The Licensed Territory is the United States. Licensee shall have a right of first refusal for any licensing opportunities for the Licensed Products in territories outside of the United States. Licensor shall provide written notice to Licensee of any such opportunities, and Licensee shall have thirty (30) days from receipt of such notice to exercise its right of first refusal by providing written notice to Licensor.
+
+Section1.03 Net Margin.Net Margin shall mean gross revenue less direct costs directly attributable to generating such revenue, and Employee and Technology Costs (as defined in Section 3.02).
+
+Section1.04 Term. The Term of this Agreement shall be for a period of twelve (12) months from the Effective Date, subject to Licensee's compliance with all terms and conditions of this Agreement. The Term of the Agreement shall automatically renew for 2 successive twelve-month terms after the initial term provided neither party provides the other with at least sixty (60) days prior written notice to terminate the Agreement for any reason or no reason at all.
+
+Article II. GRANT OF LICENSE
+
+Section2.01 License. Licensor grants to Licensee the exclusive license for the Term to market, sell and distribute the Licensed Products.
+
+Section2.02 Trademarks and Copyrights.Trademarks and Copyrights. Licensor hereby grants to Licensee, during the Term of this Agreement, a non-exclusive license to use Licensor's trademarks and copyrights associated with the Licensed Products within the Licensed Territory. Licensee shall use such trademarks and copyrights solely in connection with the marketing, sale, and distribution of the Licensed Products as specified in this Agreement. Licensee acknowledges that all rights, title, and interest in and to Licensor's trademarks and copyrights remain with Licensor. Licensee agrees not to challenge or contest Licensor's ownership or the validity of any of Licensor's trademarks or copyrights. Upon termination or expiration of this Agreement, Licensee shall immediately cease all use of Licensor's trademarks and copyrights and shall not thereafter use any marks or copyrights that are confusingly similar thereto.
+
+1
+
+Section2.03 Exclusivity. The Licensor may not enter into any new agreements with any other party for the license or sublicense of the Licensed Products, and all existing license or sublicense agreements entered into prior to the execution of this agreement shall be assigned to Licensee.
+
+Section2.04 Sublicense.The Licensee shall have the right to sublicense the Licensed Products to end users on a Software as a Service (SaaS) basis, in the same manner as Licensor has previously licensed and marketed the Licensed Products.
+
+Section2.05 Best EffortsDuring the Term, Licensee shall exercise reasonable best efforts (a) to market, sell, manage, and distribute the Licensed Products in a professional manner in order to preserve and enhance Licensor's goodwill associated with the Licensed Products and (b) to maximize the Sales of the Licensed Products. Licensee shall market, sell, manage and distribute the Licensed Products in accordance with all applicable laws and regulations and in compliance with any regulatory agency that has jurisdiction over such matters while preserving the integrity of the intellectual property associated with the Licensed Products.
+
+Section2.06 Assignment. Licensee shall be able to assign this License Agreement to another entity that has the financial capability to meet the obligations set forth herein with the written consent of Licensor which shall not unreasonably be withheld.
+
+Article III. FINANCIAL ARRANGEMENTS
+
+Section3.01 Royalty. Licensee shall pay to Licensor a royalty equal to 30% Licensee's Net Margin derived from the Licensed Products in the Licensed Territory each month during the Term. Licensee shall provide Licensor with statements on the thirtieth (30th) day after the end of each calendar month during the Term and after the effective date of any termination or expiration of this Agreement, reporting the Net Margin including a schedule of revenue collected for the month reported and a computation of the Royalty due.
+
+Section3.02 Employee and Technology Costs. Licensee shall pay the Employee and Technology Costs as set forth on Schedule 3.02.
+
+Section3.03 Marketing Support. Licensee and Licensor shall confer and agree on a marketing budget to be provided by Licensee and Licensor shall assist in the implementation thereof.
+
+Section3.04 Initial Fee. Licensee shall pay Licensor an initial fee of $200,000 on the execution hereof.
+
+2
+
+Section3.05 Books and Records.Licensee agrees that it will keep during the Term and for three years thereafter correct and complete books and records regarding the sales, promotion and distribution of the Licensed Products and Gross Margin. Such books and records shall be in sufficient detail to established complete compliance by Licensee with all terms and conditions of this Agreement. Both Licensor and its authorized representatives shall have the right to inspect, copy and audit at any reasonable time during and after the Term such books and records or other documents. The inspection or audit shall be paid for by Licensor. In the event that the inspection or audit shows that Licensee has under reported the Gross Margin and/or the royalty payments by ten percent (10%) or more for any given period, then Licensee shall pay to Licensor within any given period, then Licensee shall pay to Licensor within sixty (60) days after receipt of the inspection or audit, the deficiency in royalty payment plus interest thereof at the rate if five percent (5%) per annum from the due date to the date of payment.
+
+Article IV. PROPERTY RIGHTS
+
+Section4.01 Ownership of Intellectual Property. Licensor shall retain all rights, title, and interest in and to all intellectual property associated with the Licensed Products, including but not limited to patents, trademarks, copyrights, trade secrets, source code, and any other proprietary rights. Licensee acknowledges that it acquires no ownership rights in the intellectual property through this Agreement, except for the limited rights expressly granted herein. Licensee agrees not to take any action that would impair Licensor's ownership of the intellectual property or any related rights. Upon termination or expiration of this Agreement, all rights granted to Licensee under this Agreement shall immediately cease, and Licensee shall promptly return or destroy any materials containing Licensor's intellectual property as directed by Licensor. Notwithstanding the foregoing, Licensee may use the name and trademarks of Licensor in connection with the sale of the Licensed Products consistent with Section 2.02.
+
+Section4.02 Intellectual Property Rights. Licensee shall not challenge or otherwise contest the validity, ownership or enforceability of any trademarks or copyrights related to the Licensed Products or any designs or design features related thereto, or any subsequent registrations or applications for registration of the Licensed Products or of designs or design features related thereto, and/or Licensor's exclusive right to use and register the Licensed Products and the designs and design features related thereto outside of the Licensed Territory. Licensee shall not directly or indirectly apply for or attempt to register for itself or others any of the Licensed Products and/or any designs or design features related thereto outside the Licensed Territory. If Licensor wishes to obtain additional trademark or similar protection for the Licensed Products or for the designs or design features related thereto in the Licensed Territory, Licensee shall fully cooperate with Licensor, at Licensor's cost, providing such documents and information and performing such acts as are reasonably requested by Licensor.
+
+Section4.03 Derivative Works. Any derivative works created by Licensee based on the Licensed Products or any part thereof, including but not limited to modifications, enhancements, adaptations, or translations, shall be the sole property of Licensor. Licensee hereby assigns and agrees to assign to Licensor all rights, title, and interest in and to any such derivative works, including any associated intellectual property rights. Licensee shall, at Licensors request and expense, execute any documents necessary to effectuate such assignment. Licensee acknowledges that it shall not have any rights to use, distribute, or exploit derivative works independently of this Agreement. Upon termination or expiration of this Agreement, Licensee shall immediately cease all use of and return to Licensor any materials related to such derivative works.
+
+3
+
+Article V. DEFAULT
+
+Section5.01 Events of Default. The following shall constitute events of Default (each an Event of Default):
+
+(a) Failure of licensee to pay Employee and Technology Costs when due.
+
+(b) Failure to pay Royalty when due.
+
+(c) Any violation of the covenants in Article IV.
+
+(d) Any breaches of the representations and warranties contained herein.
+
+Section5.02 Cure Period. Upon a Party receiving written notice of an Event of Default, such defaulting Party shall have 5 calendar days to cure such default. Should the defaulting Party failure to cure the default in such timeframe, the non-defaulting Party may seek any and all remedies available at law or equity. Notwithstanding the forgoing, should Licensee fail to pay Employee and Technology Costs when due and fail to cure such default within 5 calendar days, whether or not Licensee has received written notice of such Event of Default, Licensor may immediately terminate this License Agreement.
+
+Article VI. TERMINATION
+
+Section6.01 Termination
+
+(a) Either Party may terminate this License Agreement due to an uncured Event of Default.
+
+(b) Licensee may terminate this License for any reason upon 30 days written notice to Licensor. In such case, Licensee shall not be entitled to the benefits of Section 6.03.
+
+(c) If the Licensee makes any assignment of assets or business for the benefit of creditors, or if a trustee or receiver is appointed to administer or conduct its business or affairs, or if Licensee becomes insolvent, or if it is adjudged in any legal proceeding to be either voluntary or involuntary bankrupt, then all rights granted herein shall forthwith cease and terminate without prior written notice or legal action by the Licensor.
+
+Section6.02 Licensor Remedies Upon Termination. In the event of any termination of this Agreement:
+
+(a) Licensee shall cease all further use of the Licensed Product, or any portion thereof, in all forms and on all media and computer memory, and Licensee shall immediately, at Licensors sole discretion: (a) surrender and deliver the Licensed Product and all Copies thereof to Licensor; or (b) destroy all Copies of Licensed Product, including backup and archival copies, and provide satisfactory evidence of such destruction to Licensor within one (1) month following termination. Regardless of the election made by Licensor under this Section, Licensee shall provide a written certification to Licensor by an officer of the Licensee that such return or destruction has occurred in accordance with this Section;
+
+4
+
+(b) Licensee shall pay all outstanding fees and amounts due and payable to Licensor as of the date of termination;
+
+(c) Licensor may cease performance of any or all of Licensor's obligations under this Agreement, without liability to Licensee;
+
+(d) Where such termination is the result of a breach or threatened breach of this Agreement by Licensee, Licensor may apply for and obtain injunctive relief against the breach or threatened breach; and
+
+(e) Licensee shall promptly return to Licensor all of Licensors Confidential Information.
+
+Section6.03 Licensor Buyback. At any time after six months from the Effective Date if the Licensor is current in its reporting with the Securities and Exchange Commission and has a current Form 211 on file with FINRA, Licensor may terminate this License Agreement by providing 60 days written notice and by issuing a number of shares of Licensor common stock equal to Initial Fee plus any Royalty payments paid to Licensor, in a minimum amount of $300,000 worth of common stock. Notwithstanding the foregoing, (i) the number of shares to be issued shall not exceed 4.99% of the total issued and outstanding shares of Licensor common stock calculated after issuance. The value of such shares shall be based on the average closing price for the 20 trading days prior to issuance. Additionally, Licensee shall be entitled to a twenty-five percent (25%) equity interest in the Licensor to be issued in the form of Preferred Stock. For the avoidance of doubt and as an example, at the time of the license buyback, if the Licensor is valued at $1,000,000, Licensee shall be entitled to $250,000 worth of Preferred Stock.
+
+Article VII. Representations and Warranties 
+
+Section 7.01 Licensor Representations and Warranties
+
+Licensor represents and warrants to Licensee as follows:
+
+(a) Authority: Licensor has full right, power, and authority to enter into this Agreement and fully perform its obligations hereunder. Licensor is duly organized, validly existing, and in good standing under the laws of the jurisdiction of its formation and has full power and authority to grant the licenses and rights granted in this Agreement.
+
+(b) No Conflicts: Licensor has not granted, and during the Term will not grant, any licenses or other rights under or to the Licensed Products that would conflict with or otherwise affect the licenses granted to Licensee under this Agreement. Additionally, the execution, delivery, and performance of this Agreement by Licensor does not and will not cause a breach of any applicable laws or any agreement to which Licensor is a party.
+
+(c) Non-Infringement: To the best of Licensor's knowledge, the Licensed Products and the exercise of the rights licensed hereunder will not infringe upon any intellectual property rights of any third party. Licensor has not received any notice, claim, or demand alleging that the Licensed Products or the exercise of any rights under this Agreement violate any third party's intellectual property rights.
+
+5
+
+Section 7.02 Licensee Representations and Warranties
+
+Licensee represents and warrants to Licensor as follows:
+
+(a) Authority: Licensee has full right, power, and authority to enter into this Agreement and fully perform its obligations hereunder. Licensee is duly organized, validly existing, and in good standing under the laws of the jurisdiction of its formation and has full power and authority to utilize the Licensed Products as contemplated in this Agreement.
+
+(b) Compliance with Laws: Licensee shall comply with all applicable laws, regulations, and industry standards in the marketing, sale, and distribution of the Licensed Products, and shall obtain and maintain all necessary permits, licenses, and approvals required for its operations.
+
+(c) Non-Infringement: To the best of Licensee's knowledge, Licensee's marketing, sale, and distribution of the Licensed Products will not infringe upon any intellectual property rights of any third party. Licensee has not received any notice, claim, or demand alleging that its operations or the exercise of any rights under this Agreement violate any third party's intellectual property rights.
+
+(d) Financial Capacity: Licensee has the financial capacity to fulfill its financial obligations under this Agreement, including the payment of royalties and any other amounts due to Licensor.
+
+(e) No Conflicts: The execution, delivery, and performance of this Agreement by Licensee does not and will not cause a breach of any applicable laws or any agreement to which Licensee is a party, nor will it require any consent, approval, or authorization of any third party.
+
+(f) No Pending Litigation: There are no actions, suits, or proceedings pending or, to the knowledge of Licensee, threatened against or affecting Licensee before any court or administrative body which could impair Licensee's ability to perform its obligations under this Agreement.
+
+Article VIII. INDEMNIFICATION
+
+Section8.01 Indemnification.
+
+(a) Licensee shall indemnify Licensor during and after the term hereof against all third party claims, liabilities (including settlements entered into in good faith with Licensees' consent, not to be unreasonably withheld) and expenses (including reasonable attorneys' fees) arising out of Licensee's activities hereunder or out of any defect (whether obvious or hidden and whether or not present in any sample approved by Licensor) in a Licensed Product or arising from personal injury or any infringement of any rights of any other person by the manufacture, sale, possession of use of Licensed Products or their failure to comply with applicable laws, regulations, and standards. The parties indemnified hereunder shall include Licensor and its subsidiaries and their officers, directors, employees and agents.
+
+6
+
+(b) Licensor shall indemnify Licensee during and after the term hereof against all third party claims, liabilities (including settlements entered into in good faith with Licensors consent, not to be unreasonably withheld) and expenses (including reasonable attorneys' fees) arising out of Licensor's activities hereunder or out of any defect (whether obvious or hidden and whether or not present in any sample approved by Licensee) in a Licensed Product or arising from personal injury or any infringement of any rights of any other person by the manufacture, sale, possession of use of Licensed Products or their failure to comply with applicable laws, regulations, and standards. The parties indemnified hereunder shall include Licensee and its subsidiaries and their officers, directors, employees and agents.
+
+Article IX. GENERAL PROVISIONS
+
+Section9.01 Relationship of Parties. The relationship between the parties is only that of Licensor and Licensee. Licensee is not the agent or legal representative of Licensor and has no right or authority to bind Licensor in any way.
+
+Section9.02 Confidentiality. For purposes of this Agreement, "Confidential Information" shall mean any information disclosed by one party (the "Disclosing Party") to the other party (the "Receiving Party"), that is designated as confidential or would be understood to be confidential by the nature of the information or the circumstances of disclosure. Confidential Information includes, but is not limited to, business plans, customer data, product designs, marketing strategies, financial information, and trade secrets.
+
+(a) Obligations of Confidentiality. Both parties agree to keep the Confidential Information confidential and not to disclose it to any third party without prior written consent of the Disclosing Party. The Receiving Party shall protect the Confidential Information with the same degree of care it uses to protect its own confidential information, which in no case shall be less than reasonable care.
+
+(b) Duration. The confidentiality obligations set forth in this Section 9.02 shall remain in effect during the Term of this Agreement and for a period of three (3) years thereafter.
+
+(c) Permitted Use and Disclosure. The Receiving Party may use the Confidential Information only for the purposes of fulfilling its obligations under this Agreement. Disclosure of Confidential Information is permitted to the extent required by law, provided that the Receiving Party gives the Disclosing Party prompt notice of such requirement.
+
+(d) Confidential Information shall not include information that (i) was already known to the Receiving Party without restriction on use or disclosure prior to receipt of the Disclosing Party, (ii) is or becomes publicly available through no wrongful act of the Receiving Party, (iii) is rightfully received from a third party who is not under any obligation of confidentiality, or (iv) is independently developed by the Receiving Party without use of or reference to Disclosing Party's Confidential Information.
+
+7
+
+Section9.03 Governing Law and Venue. This Agreement shall be governed by the Laws of the State of New York and is to be construed and is to take effect as an agreement made in the State of New York, United States of America, and its parties hereto agree to submit to the Jurisdiction of the courts of the State of New York.
+
+Section9.04 Waiver. The Waiver by either party of the party's breach of any provision of this Agreement shall not be deemed a waiver or a continuing waiver of the same or other provision of this Agreement unless such waiver is in writing.
+
+Section9.05 Severability.If any provision, or part thereof, of this Agreement is judicially declared invalid, void, or enforceable, each and every other provision, or part thereof, nevertheless shall continue in full force and effect.
+
+Section9.06 Attorney's Fees.In the event a dispute arises regarding this Agreement, the prevailing party shall be entitled to its reasonable attorney's fees and expenses incurred in addition to any other relief to which it is entitled.
+
+Section9.07 Notice. The parties agree that all written notices and statements required to be given under the terms of this Agreement and all payments provided for herein will be deemed to have been duly given on the day following mailing by an air courier service providing next day delivery to the respective party at the following address:
+
+If to the Licensee: 
+
+If to the Licensor:
+
+Business Warrior Corporation 
+
+Attn: Rhett Doolittle
+
+455 E Pebble Road
+
+#230912
+
+Las Vegas, NV 89123-0912
+
+From time to time, as required for proper operations under this Agreement, the parties may designate persons to whom correspondence shall be addressed. Each party is required to notify the other party in the above manner of any change of address.
+
+Section9.08 Entire Agreement. This Agreement and the Exhibits attached hereto constitute the entire agreement between the parties regarding the subject matter hereof, and supersede all prior or contemporaneous understanding or agreements, whether oral or written. This Agreement shall be modified or amended only by writing and signed by both Licensor and Licensee.
+
+[SIGNATURE PAGE FOLLOWS]
+
+8
+
+IN WITNESS WHEREOF, the parties have, through their duly authorized representatives, executed this Agreement as of the Effective Date.
+
+LICENSOR
+
+BUSINESS WARRIOR CORPORATION 
+
+LICENSEE
+
+[ ] 
+
+By: 
+
+/s/ Rhett Doolittle 
+
+By: 
+
+/s/ 
+
+Name: 
+
+Rhett Doolittle 
+
+Name: 
+
+Title: 
+
+CEO 
+
+Title: 
+
+Authorized Signatory 
+
+9
+
+EXHIBIT A
+
+PayPlan software: loan origination, loan management and servicing - see below for the full definition.
+
+Marketing services: paid media management, search engine optimization, design services, analytics
+
+Legacy software: [_________________________________________]
+
+1. 
+
+Definition of PayPlan Software:PayPlan Software refers to the proprietary financialtechnology platformdeveloped, owned, and maintained by Business Warrior Corporation(BZWR), including loan origination, loan management, and loan servicing functionalities, along with all associated tools, databases, integrations, and user interfaces.
+
+The PayPlan Software is a fully integrated, end-to-end lending platform, enabling financial institutions, lenders, and service providers to efficiently originate, process, manage, and service loans while ensuring regulatory compliance, borrower engagement, and automation of financial workflows.
+
+2. 
+
+Core Functionalities of PayPlan Software:The PayPlan Software comprises three primaryfunctional modules.
+
+a. 
+
+Loan Origination System (LOS
+
+i. 
+
+The Loan Origination System (LOS) is responsible for the automated intake,assessment, and approvalof loan applications. Key features include:
+
+ii. 
+
+Application Processing Digital borrower application submission via web and mobile interfaces.
+
+iii. 
+
+Credit Decisioning & Risk Assessment machine-driven underwriting, credit score retrieval, and risk modeling.
+
+iv. 
+
+Automated Loan Structuring Configurable loan terms, rates, and repayment schedules based on risk analysis.
+
+v. 
+
+Third-Party Integrations Connects with credit bureaus, KYC/AML services, and fraud detection APIs.
+
+vi. 
+
+E-Signature & Document Management Secure contract execution and storage.
+
+b. 
+
+Loan Management System (LMS)
+
+i. 
+
+The Loan Management System (LMS) is responsible for ongoing loanadministration, performance tracking, and borrower engagement. Key features include:
+
+1. 
+
+Automated Payment Processing Supports ACH, debit card, and alternative payment methods for scheduled and on-demand payments.
+
+2. 
+
+Interest & Fee Calculations Dynamic calculation of interest accrual, late fees, and penalties.
+
+3. 
+
+Borrower Portal & Self-Service Tools Online access for borrowers to view statements, make payments, request modifications, and chat with support.
+
+4. 
+
+Delinquency & Collections Management Automated reminders, collection workflow tracking, and integration with third-party collection agencies.
+
+c. 
+
+Loan Servicing System (LSS)
+
+10
+
+i. 
+
+The Loan Servicing System (LSS) facilitates full lifecycle loan managementfrom origination to closure, with tools to handle modifications, defaults, andinvestor servicing. Key features include:
+
+1. 
+
+Amortization & Loan Modification Handles interest recalculations, loan term adjustments, and deferments.
+
+2. 
+
+Charge-Off & Recovery Management Automates the charge-off process and post-default recovery tracking.
+
+3. 
+
+[_________________________________________]
+
+4. 
+
+[_________________________________________]
+
+5. 
+
+Bankruptcy & Legal Case Tracking Tools for managing loans in litigation or borrower bankruptcy proceedings.
+
+3. 
+
+PayPlan Software Components and Supporting Systems
+
+a. 
+
+Data & Analytics System
+
+i. 
+
+Borrower Risk Scoring Engine Predictive analytics for borrower segmentation and risk profiling.
+
+ii. 
+
+Portfolio Performance Dashboard Real-time monitoring of lender performance metrics and KPIs
+
+iii. 
+
+Custom Report Builder Exportable financial, compliance, and risk reports tailored to lender needs.
+
+b. 
+
+API & Integration Suite
+
+i. 
+
+[_________________________________________]
+
+ii. 
+
+[_________________________________________]
+
+iii. 
+
+[_________________________________________]
+
+iv. 
+
+[_________________________________________]
+
+v. 
+
+[_________________________________________].
+
+vi. 
+
+[_________________________________________]
+
+4. 
+
+Ownership & Licensing Rights
+
+a. 
+
+Retention of Ownership BZWR retains full ownershipof all proprietary rights, including source code, trademarks, patents, and business processes associated with the PayPlan Software.
+
+b. 
+
+Scope of License The Licensee (SLDX) only receives the right to use, market, and generate revenue from the software within the licensed term and territory but does not receive any ownership rights
+
+c. 
+
+No Sublicensing Without Approval The Licensee may not sublicense, resell, or modify the PayPlan Software without prior written consent from BZWR
+
+11
+
+SCHEDULE 3.02
+
+12
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>bzwr-20250214.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA
+<TEXT>
+000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>bzwr-20250214_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE
+<TEXT>
+Cover [Abstract] 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Document Type 
+
+Amendment Flag 
+
+Entity Emerging Growth Company 
+
+Document Period End Date 
+
+Entity Ex Transition Period 
+
+Entity File Number 
+
+Entity Incorporation State Country Code 
+
+Entity Tax Identification Number 
+
+Entity Address Address Line 1 
+
+Entity Address Address Line 2 
+
+Entity Address City Or Town 
+
+Entity Address State Or Province 
+
+Entity Address Postal Zip Code 
+
+City Area Code 
+
+Local Phone Number 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre Commencement Tender Offer 
+
+Pre Commencement Issuer Tender Offer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.CAL
+<SEQUENCE>5
+<FILENAME>bzwr-20250214_cal.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>6
+<FILENAME>bzwr-20250214_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.DEF
+<SEQUENCE>7
+<FILENAME>bzwr-20250214_def.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>9
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 14, 2025
+
+Cover [Abstract] 
+
+Entity Registrant Name BUSINESS WARRIOR CORPORATION
+
+Entity Central Index Key 0001830503
+
+Document Type 8-K
+
+Amendment Flag false
+
+Entity Emerging Growth Company true
+
+Document Period End Date Feb. 14, 2025
+
+Entity Ex Transition Period false
+
+Entity File Number 333-265471
+
+Entity Incorporation State Country Code WY
+
+Entity Tax Identification Number 90-1901168
+
+Entity Address Address Line 1 455 E Pebble Road
+
+Entity Address Address Line 2 #230912
+
+Entity Address City Or Town Las Vegas
+
+Entity Address State Or Province NV
+
+Entity Address Postal Zip Code 89123-0912
+
+City Area Code 855
+
+Local Phone Number 294-2900
+
+Written Communications false
+
+Soliciting Material false
+
+Pre Commencement Tender Offer false
+
+Pre Commencement Issuer Tender Offer false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 7A
+
+-Section B
+
+-Subsection 2
+
++ Details
+
+Name: dei_EntityExTransitionPeriod
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>10
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>12
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+21 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+000001 - Document - Cover 
+Sheet 
+http://bzwr.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+bzwr-20250214.xsd 
+bzwr-20250214_cal.xml 
+bzwr-20250214_def.xml 
+bzwr-20250214_lab.xml 
+bzwr-20250214_pre.xml 
+bzwr_8k.htm 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+true
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>16
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>17
+<FILENAME>0001477932-25-001557-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>18
+<FILENAME>bzwr_8k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001830503 
+
+2025-02-14 
+2025-02-14 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+0001830503 
+false 
+8-K 
+2025-02-14 
+BUSINESS WARRIOR CORPORATION 
+WY 
+333-265471 
+90-1901168 
+455 E Pebble Road 
+#230912 
+Las Vegas 
+NV 
+89123-0912 
+855 
+294-2900 
+false 
+false 
+false 
+false 
+true 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,1206 @@
+<SEC-DOCUMENT>0000950170-25-047219.txt : 20250331
+<SEC-HEADER>0000950170-25-047219.hdr.sgml : 20250331
+<ACCEPTANCE-DATETIME>20250331080008
+ACCESSION NUMBER:		0000950170-25-047219
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		12
+CONFORMED PERIOD OF REPORT:	20250331
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20250331
+DATE AS OF CHANGE:		20250331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICROSTRATEGY Inc
+		CENTRAL INDEX KEY:			0001050446
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		EIN:				510323571
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42509
+		FILM NUMBER:		25788973
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1850 TOWERS CRESCENT PLAZA
+		CITY:			TYSONS CORNER
+		STATE:			VA
+		ZIP:			22182
+		BUSINESS PHONE:		703-848-8600
+
+	MAIL ADDRESS:	
+		STREET 1:		1850 TOWERS CRESCENT PLAZA
+		CITY:			TYSONS CORNER
+		STATE:			VA
+		ZIP:			22182
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MICROSTRATEGY INC
+		DATE OF NAME CHANGE:	19971126
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>mstr-20250331.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?8-K
+
+false0001050446MICROSTRATEGY Inc0001050446us-gaap:CommonClassAMember2025-03-312025-03-310001050446mstr:EightPointZeroZeroPercentSeriesAPerpetualStrikePreferredStockMember2025-03-312025-03-3100010504462025-03-312025-03-310001050446mstr:TenPointZeroZeroPercentSeriesAPerpetualStrikePreferredStockMember2025-03-312025-03-31
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported): March 31, 2025
+
+MICROSTRATEGY INCORPORATED 
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 
+
+001-42509 
+
+51-0323571
+
+(State or other jurisdiction
+
+of incorporation) 
+
+(Commission
+
+File Number) 
+
+(I.R.S. Employer
+
+Identification No.)
+
+1850 Towers Crescent Plaza
+
+Tysons Corner, Virginia 
+
+22182
+
+(Address of principal executive offices) 
+
+(Zip Code)
+
+Registrants telephone number, including area code: (703)848-8600
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class 
+
+Trading
+
+Symbol 
+
+Name of Each Exchange
+
+on which Registered
+
+Class A common stock, par value $0.001 per share 
+
+MSTR 
+
+The Nasdaq Global Select Market
+
+8.00% Series A Perpetual Strike Preferred Stock, $0.001 par value per share 
+
+STRK 
+
+The Nasdaq Global Select Market
+
+10.00% Series A Perpetual Strife Preferred Stock, $0.001 par value per share 
+
+STRF 
+
+The Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 8.01 Other Events.
+
+ATM Updates
+
+On March 31, 2025, MicroStrategy Incorporated d/b/a Strategy (Strategy or the Company) announced updates with respect to its at-the-market offering programs:
+
+ATM Program Summary 
+
+During Period
+
+March 24, 2025 to March 30, 2025 
+
+As of
+
+March 30, 2025
+
+Shares Sold 
+
+Net Proceeds(1) 
+
+Available for
+
+Issuance and Sale
+
+Common ATM 
+
+3,645,528 MSTR Shares 
+
+$1.20 billion 
+
+$2.37 billion of MSTR Shares
+
+Securities Offered: Class A Common Stock, $0.001 par value per share (MSTR Shares) 
+
+Size: $21 billion 
+
+Established: October 30, 2024 
+
+STRK ATM 
+
+213,807 STRK Shares 
+
+$18.52 million 
+
+$20.97 billion of STRK Shares
+
+Securities Offered: 8.00% series A perpetual strike preferred stock, $0.001 par value per share (STRK Shares) 
+
+Size: $21 billion 
+
+Established: March 10, 2025 
+
+Total 
+
+$1.22 billion 
+
+(1) Net proceeds are presented net of sales commission.
+
+STRF Perpetual Preferred Stock
+
+As previously disclosed, on March 25, 2025, the Company completed its previously announced public offering of 8,500,000 shares of its 10.00% Series A Perpetual Strife Preferred Stock (the STRF Offering) at a public offering price of $85.00 per share. The Company expects the net proceeds from the STRF Offering to be approximately $711.2 million, after deducting the underwriting discounts and commissions and the Companys estimated offering expense.
+
+BTC Update
+
+On March 31, 2025, Strategy announced updates with respect to its bitcoin holdings:
+
+During Period March 24, 2025 to March 30, 2025 
+
+As of March 30, 2025
+
+BTC
+
+Acquired (1) 
+
+Aggregate
+
+Purchase
+
+Price (2) 
+
+Average
+
+Purchase
+
+Price (2) 
+
+Aggregate
+
+BTC
+
+Holdings 
+
+Aggregate
+
+Purchase
+
+Price (2) 
+
+Average
+
+Purchase
+
+Price (2)
+
+22,048 
+
+$ 
+
+1.92 billion 
+
+$ 
+
+86,969 
+
+528,185 
+
+$ 
+
+35.63 billion 
+
+$ 
+
+67,458
+
+(1) The bitcoin purchases were made using proceeds from the Common ATM, STRK ATM and STRF Offering.
+
+(2) Aggregate and average purchase prices are inclusive of fees and expenses.
+
+Item 7.01 Regulation FD Disclosure.
+
+Strategy Dashboard
+
+The Company also maintains a dashboard on its website (www.strategy.com) as a disclosure channel for providing broad, non-exclusionary distribution of information regarding the Company to the public, including information regarding market prices of its outstanding securities, bitcoin purchases and holdings, certain KPI metrics and other supplemental information, and as one means of disclosing non-public information in compliance with its disclosure obligations under Regulation FD. Investors and others are encouraged to regularly review the information that the Company makes public via the website dashboard.
+
+Furnished Information
+
+The information disclosed pursuant to Item 7.01 in this Current Report on Form 8-K shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: March 31, 2025 
+
+MicroStrategy Incorporated
+
+(Registrant)
+
+By: 
+
+/s/ W. Ming Shao
+
+Name: 
+
+W. Ming Shao
+
+Title: 
+
+Executive Vice President & General Counsel
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>img7181611_0.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>mstr-20250331.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT
+<TEXT>
+100000 - Document - Document and Entity Information 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+Entity Incorporation State Country Code 
+Entity Incorporation State Country Code 
+Entity Central Index Key 
+Entity Central Index Key 
+Entity Address, State or Province 
+Entity Address, State or Province 
+Cover [Abstract] 
+Cover [Abstract] 
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+Amendment Flag 
+Amendment Flag 
+Class of Stock [Domain] 
+Class of Stock [Domain] 
+Entity Address, City or Town 
+Entity Address, City or Town 
+Document Type 
+Document Type 
+Security 12b Title 
+Security 12b Title 
+Soliciting Material 
+Soliciting Material 
+Document Period End Date 
+Document Period End Date 
+Common Class A [Member] 
+Class A Common Stock [Member] 
+Trading Symbol 
+Trading Symbol 
+Pre Commencement Tender Offer 
+Pre Commencement Tender Offer 
+Security Exchange Name 
+Security Exchange Name 
+Class of Stock [Axis] 
+Class of Stock [Axis] 
+Written Communications 
+Written Communications 
+Pre Commencement Issuer Tender Offer 
+Pre Commencement Issuer Tender Offer 
+8.00% Series A Perpetual Strike Preferred Stock [Member] 
+Eight Point Zero Zero Percent Series A Perpetual Strike Preferred Stock [Member] 
+Eight point zero zero percent series a perpetual strike preferred stock. 
+Entity Registrant Name 
+Entity Registrant Name 
+Entity Emerging Growth Company 
+Entity Emerging Growth Company 
+Document And Entity Information [Table] 
+Document And Entity Information [Table] 
+Entity File Number 
+Entity File Number 
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+City Area Code 
+City Area Code 
+Local Phone Number 
+Local Phone Number 
+Ten Point Zero Zero Percent Series A Perpetual Strike Preferred Stock [Member] 
+10.00% series A perpetual strike preferred stock. 
+10.00% Series A Perpetual Strike Preferred Stock [Member] 
+Document And Entity Information [Line Items] 
+Document And Entity Information [Line Items]
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>5
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Document and Entity Information
+
+Mar. 31, 2025
+
+Document And Entity Information [Line Items] 
+
+Entity Registrant Name MICROSTRATEGY Inc
+
+Amendment Flag false
+
+Entity Central Index Key 0001050446
+
+Document Type 8-K
+
+Document Period End Date Mar. 31, 2025
+
+Entity Incorporation State Country Code DE
+
+Entity File Number 001-42509
+
+Entity Tax Identification Number 51-0323571
+
+Entity Address, Address Line One 1850 Towers Crescent Plaza
+
+Entity Address, City or Town Tysons Corner
+
+Entity Address, State or Province VA
+
+Entity Address, Postal Zip Code 22182
+
+City Area Code (703)
+
+Local Phone Number 848-8600
+
+Written Communications false
+
+Soliciting Material false
+
+Pre Commencement Tender Offer false
+
+Pre Commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+Class A Common Stock [Member] 
+
+Document And Entity Information [Line Items] 
+
+Security 12b Title Class A common stock, par value $0.001 per share
+
+Trading Symbol MSTR
+
+Security Exchange Name NASDAQ
+
+8.00% Series A Perpetual Strike Preferred Stock [Member] 
+
+Document And Entity Information [Line Items] 
+
+Security 12b Title 8.00% Series A Perpetual Strike Preferred Stock, $0.001 par value per share
+
+Trading Symbol STRK
+
+Security Exchange Name NASDAQ
+
+10.00% Series A Perpetual Strike Preferred Stock [Member] 
+
+Document And Entity Information [Line Items] 
+
+Security 12b Title 10.00% Series A Perpetual Strife Preferred Stock, $0.001 par value per share
+
+Trading Symbol STRF
+
+Security Exchange Name NASDAQ
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- References
+
+No definition available.+ Details
+
+Name: mstr_DocumentAndEntityInformationLineItems
+
+Namespace Prefix: mstr_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=us-gaap_CommonClassAMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=mstr_EightPointZeroZeroPercentSeriesAPerpetualStrikePreferredStockMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type: 
+
+X
+
+- Details
+
+Name: us-gaap_StatementClassOfStockAxis=mstr_TenPointZeroZeroPercentSeriesAPerpetualStrikePreferredStockMember
+
+Namespace Prefix: 
+
+Data Type: na
+
+Balance Type: 
+
+Period Type:
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>6
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>7
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+4 
+22 
+1 
+false 
+3 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+100000 - Document - Document and Entity Information 
+Sheet 
+http://www.microstrategy.com/20250331/taxonomy/role/Role_DocumentDocumentAndEntityInformation 
+Document and Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+mstr-20250331.htm 
+mstr-20250331.xsd 
+
+img7181611_0.jpg 
+
+http://xbrl.sec.gov/dei/2024 
+
+false 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>13
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>14
+<FILENAME>0000950170-25-047219-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>15
+<FILENAME>mstr-20250331_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001050446 
+
+us-gaap:CommonClassAMember 
+
+2025-03-31 
+2025-03-31 
+
+0001050446 
+
+mstr:EightPointZeroZeroPercentSeriesAPerpetualStrikePreferredStockMember 
+
+2025-03-31 
+2025-03-31 
+
+0001050446 
+
+2025-03-31 
+2025-03-31 
+
+0001050446 
+
+mstr:TenPointZeroZeroPercentSeriesAPerpetualStrikePreferredStockMember 
+
+2025-03-31 
+2025-03-31 
+
+false 
+0001050446 
+MICROSTRATEGY Inc 
+8-K 
+2025-03-31 
+DE 
+001-42509 
+51-0323571 
+1850 Towers Crescent Plaza 
+Tysons Corner 
+VA 
+22182 
+(703) 
+848-8600 
+false 
+false 
+false 
+false 
+Class A common stock, par value $0.001 per share 
+MSTR 
+NASDAQ 
+8.00% Series A Perpetual Strike Preferred Stock, $0.001 par value per share 
+STRK 
+NASDAQ 
+10.00% Series A Perpetual Strife Preferred Stock, $0.001 par value per share 
+STRF 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

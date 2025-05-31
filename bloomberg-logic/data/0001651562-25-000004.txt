@@ -1,0 +1,1534 @@
+<SEC-DOCUMENT>0001651562-25-000004.txt : 20250130
+<SEC-HEADER>0001651562-25-000004.hdr.sgml : 20250130
+<ACCEPTANCE-DATETIME>20250130083243
+ACCESSION NUMBER:		0001651562-25-000004
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250130
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250130
+DATE AS OF CHANGE:		20250130
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Coursera, Inc.
+		CENTRAL INDEX KEY:			0001651562
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				453560292
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40275
+		FILM NUMBER:		25571262
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2440 WEST EL CAMINO REAL
+		CITY:			MOUNTAIN VIEW
+		STATE:			CA
+		ZIP:			94040
+		BUSINESS PHONE:		6509639884
+
+	MAIL ADDRESS:	
+		STREET 1:		2440 WEST EL CAMINO REAL
+		CITY:			MOUNTAIN VIEW
+		STATE:			CA
+		ZIP:			94040
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>cour-20250130.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?cour-20250130
+
+0001651562FALSE00016515622025-01-302025-01-30
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+__________________________________________________
+
+FORM 8-K
+
+__________________________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 30, 2025
+
+__________________________________________________
+
+COURSERA, INC.
+
+(Exact name of Registrant as Specified in Its Charter)
+
+__________________________________________________
+
+Delaware 001-40275 45-3560292
+
+(State or Other Jurisdiction
+
+of Incorporation) (Commission File Number) (IRS Employer
+
+Identification No.)
+
+2440 West El Camino Real, Suite 500
+
+Mountain View, California 94040
+
+(Address of Principal Executive Offices) (Zip Code)
+
+Registrants Telephone Number, Including Area Code:(650)963-9884
+
+Not Applicable 
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+__________________________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+o Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading
+
+Symbol(s) Name of each exchange on which registered
+
+Common Stock, $0.00001 par value per share COUR New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 ( 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 ( 240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On January 30, 2025, Coursera, Inc. (the Company) issued a press release announcing its financial results for the quarter and year ended December 31, 2024. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K. 
+
+The information under Item 2.02 of this Current Report on Form 8-K, including Exhibit 99.1 hereto, shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liability of that section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information contained herein and in Exhibit 99.1 shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, whether made before or after the date hereof, regardless of any general incorporation language in such filing, except as shall be expressly set forth by specific reference in such filing.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d)Exhibits.
+
+Exhibit
+
+No. Description 
+
+99.1 
+
+Press release announcing Courseras fourth quarter and year ended 2024 financial results 
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document) 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+COURSERA, INC.
+
+Date: January 30, 2025 By: /s/ Michele M. Meyers
+
+Michele M. Meyers
+
+Vice President, Accounting and Chief Accounting Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>cour-20241231xexx991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Earnings Release
+
+Q4 and Full Year 2024 
+
+Exhibit 99.1
+
+Coursera Reports Fourth Quarter and Full Year 2024 Financial Results
+
+Delivered full year revenue of $695 million
+
+Reported full year net cash provided by operating activities of $95 million; Free Cash Flow of $59 million
+
+Announced appointment of Greg Hart as President and CEO, effective February 3, 2025
+
+January 30, 2025, 8:30 AM Eastern Time
+
+MOUNTAIN VIEW, Calif. (BUSINESS WIRE) Coursera, Inc. (NYSE: COUR) today announced financial results for its fourth quarter and full year ended December 31, 2024.
+
+We made significant strides throughout 2024 in expanding our content catalog, launching new entry-level Professional Certificates, generative AI courses, and healthcare micro-credentials designed to meet the needs of learners and customers, said Coursera CEO Jeff Maggioncalda. Together with our partners, we are laying the foundation for a new era of online learning with role-based pathways and enhanced platform experiences that equip learners and institutions with mission-critical skills.
+
+Financial Highlights for Fourth Quarter 2024
+
+Total revenue was $179.2 million, up 6% from $168.9 million a year ago.
+
+Gross profit was $95.5 million or 53% of revenue, compared to $89.3 million and consistent with 53% of revenue a year ago. Non-GAAP gross profit was $97.5 million or 54% of revenue, compared to $91.2 million and consistent with 54% of revenue a year ago. 
+
+Net loss was $(21.6) million or (12.1)% of revenue, compared to $(20.4) million or (12.1)% of revenue a year ago. Non-GAAP net income was $13.3 million or 7.4% of revenue, compared to $9.5 million or 5.6% of revenue a year ago. 
+
+Net loss per share was $(0.14), compared to $(0.13) a year ago. Non-GAAP net income per share was $0.08, compared to $0.06 a year ago.
+
+Adjusted EBITDA was $9.5 million or 5.3% of revenue, compared to $5.7 million or 3.4% of revenue a year ago.
+
+Net cash provided by operating activities was $19.2 million, compared to $11.6 million a year ago. Free Cash Flow was $7.4 million, compared to $5.7 million a year ago.
+
+Financial Highlights for Full Year 2024
+
+Total revenue was $694.7 million, up 9% from $635.8 million in the prior year.
+
+Gross profit was $371.4 million or 53% of revenue, compared to $329.8 million or 52% of revenue in the prior year. Non-GAAP gross profit was $379.6 million or 55% of revenue, compared to $337.5 million or 53% of revenue in the prior year. 
+
+Net loss was $(79.5) million or (11.4)% of revenue, compared to $(116.6) million or (18.3)% of revenue in the prior year. Non-GAAP net income was $55.6 million or 8.0% of revenue, compared to $1.8 million or 0.3% of revenue in the prior year.
+
+Net loss per share was $(0.51), compared to $(0.77) in the prior year. Non-GAAP net income per share was $0.34, compared to $0.01 in the prior year.
+
+Adjusted EBITDA was $41.5 million or 6.0% of revenue, compared to $(10.0) million or (1.6)% of revenue in the prior year.
+
+Net cash provided by operating activities was $95.4 million, compared to $29.6 million in the prior year. Free Cash Flow was $59.3 million, compared to $7.9 million in the prior year.
+
+1
+
+Earnings Release
+
+Q4 and Full Year 2024
+
+Over the course of 2024, we drove sustainable growth and continued to demonstrate the strong financial and operating leverage in our model, said Ken Hahn, Courseras CFO. As a result of our efforts, we delivered our first full year of positive Adjusted EBITDA and generated more than $59 million of Free Cash Flow, while investing to bolster our return to higher growth.
+
+For more information regarding the non-GAAP financial measures discussed in this press release, please see Non-GAAP Financial Measures and Reconciliation of GAAP to Non-GAAP Financial Measures below.
+
+Operating Segment Highlights for Fourth Quarter 2024
+
+Consumer revenue was $101.7 million, up 5% from a year ago on solid demand for our Coursera Plus subscription offering. Segment gross profit was $54.9 million, or 54% of Consumer revenue, compared to 53% a year ago. We added six million new registered learners during the quarter for a total of 168 million.
+
+Enterprise revenue was $62.3 million, up 7% from a year ago driven by our business and campus verticals. The total number of Paid Enterprise Customers increased to 1,612, up 18% from a year ago. Segment gross profit was $42.6 million and remained at 68% of Enterprise revenue, consistent with a year ago. Our Net Retention Rate for Paid Enterprise Customers was 87%.
+
+Degrees revenue was $15.2 million, up 14% from a year ago on scaling of recent programs. Segment gross margin was 100% of Degrees revenue as there is no content cost attributable to the Degrees segment. The total number of Degrees Students reached 26,700, up 22% from a year ago.
+
+All key business metrics are as of December 31, 2024. For more information regarding the metrics discussed in this press release, please see "Key Business Metrics Definitions" below.
+
+Content, Customer, and Platform Highlights
+
+Content and Credentials:
+
+Added nearly 40 new titles to our catalog of entry-level Professional Certificates in 2024, including ten recent launches from Dell Technologies, Microsoft, Xbox, and more.
+
+Launched more than 450 generative AI courses this year, including popular recent offerings from DeepLearning.AI, Google, Google Cloud, and IBM, as industry leaders meet the growing global demand to develop and showcase generative AI skills and expertise.
+
+Expanded our healthcare micro-credentials with the addition of Johns Hopkins Medical Office Manager and National Academy of Sports Medicine (NASM) Personal Fitness Trainer entry-level Professional Certificates.
+
+Enterprise Customers:
+
+Coursera for Business launched new and expanded upskilling programs focused on digital, AI, and human skills with Banco Santander (Spain), Canara Bank (India), Grupo Bancolombia (Colombia), and Schneider Electric (France).
+
+Coursera for Government broadened its partnership with the Higher Education Commission (HEC) Pakistan, with a program goal of equipping up to 120,000 students across approximately 200 universities with in-demand skills over the next two years.
+
+Coursera for Campus expanded its partnership with iPeople Inc. (Ayala Group), tripling the number of students earning academic credit for industry micro-credentials and advancing GenAI skills development across all institutions.
+
+Learning Platform: 
+
+Enabled AI-powered translations for learners speaking Dari, Hungarian, and Pashto, broadening global access and ending the year with up to 24 languages in nearly 5,000 courses, Specializations, and Professional Certificates. 
+
+Expanded our credit recommendation initiative, receiving American Council on Education (ACE) credit recommendations for two professional certificates from Microsoft, as well as European Credit Transfer and Accumulation System (ECTS) credit recommendations for seven certificates from IBM.
+
+Launched a career-based discovery experience initially in North America to help learners start and advance their careers with recognized credentials for in-demand roles to better meet the needs of a rapidly evolving job market.
+
+2
+
+Earnings Release
+
+Q4 and Full Year 2024
+
+Highlights reflect developments since September 30, 2024 through todays announcement. For additional information on these developments, see the Coursera Blog at blog.coursera.org. 
+
+Leadership Transition
+
+As announced in a separate release on January 29, 2025, Jeff Maggioncalda will retire as President and Chief Executive Officer of Coursera, and as a Member of the Board, following seven years of dedicated leadership. Greg Hart has been named President and CEO, and Member of the Board, effective February 3, 2025. In consideration of the leadership transition, the Company intends to provide more detailed full year 2025 outlook in the coming months.
+
+Financial Outlook
+
+First quarter 2025:
+
+Revenue in the range of $173 to $177 million
+
+Adjusted EBITDA in the range of $8 to $12 million
+
+Full year 2025:
+
+Positive overall top-line revenue growth
+
+Annual Adjusted EBITDA Margin improvement
+
+Further details on full year 2025 outlook will be provided in the coming months
+
+Actual results may differ materially from Courseras Financial Outlook as a result of, among other things, the factors described under Special Note on Forward-Looking Statements below. 
+
+A reconciliation of our non-GAAP guidance measure (Adjusted EBITDA) to the corresponding GAAP guidance measure is not available on a forward-looking basis without unreasonable effort due to the uncertainty regarding, and the potential variability of, expenses that may be incurred in the future. Stock-based compensation expense-related charges, including employer payroll tax-related items on employee stock transactions, are impacted by the timing of employee stock transactions, the future fair market value of our common stock, and our future hiring and retention needs, all of which are difficult to predict and subject to constant change. We have provided a reconciliation of GAAP to non-GAAP financial measures in the financial statement tables for our historical non-GAAP financial results included in this press release.
+
+Conference Call Details
+
+As previously announced, Coursera will hold a conference call today, January 30, 2025, at 2:00 p.m. Pacific Time (5:00 p.m. Eastern Time). The call will include a discussion of fourth quarter and full year 2024 performance as well as the leadership transition.
+
+A live, audio-only webcast of the conference call and earnings release materials will be available to the public on our Investor Relations page at investor.coursera.com. For those unable to listen to the broadcast live, an archived replay will be accessible in the same location for one year. 
+
+Disclosure Information
+
+In compliance with disclosure obligations under Regulation FD, Coursera announces material information to the public through a variety of means, including filings with the Securities and Exchange Commission (SEC), press releases, company blog posts, public conference calls, and webcasts, as well as via Courseras investor relations website. 
+
+About Coursera
+
+Coursera was launched in 2012 by Andrew Ng and Daphne Koller with a mission to provide universal access to world-class learning. It is now one of the largest online learning platforms in the world, with 168 million registered learners as of December 31, 2024. Coursera partners with over 350 leading universities and industry leaders to offer a broad catalog of content and credentials, including courses, Specializations, Professional Certificates, and degrees. Courseras platform innovations enable instructors to deliver scalable, personalized, and verified learning experiences to their learners. Institutions worldwide rely on Coursera to upskill and reskill their employees, citizens, and students in high-demand fields such as GenAI, data science, technology, and business. Coursera is a Delaware public benefit corporation and a B Corp.
+
+3
+
+Earnings Release
+
+Q4 and Full Year 2024
+
+Contacts
+
+For investors: Cam Carey, ir@coursera.org
+
+For media: Arunav Sinha, press@coursera.org
+
+# # #
+
+Key Business Metrics Definitions
+
+Registered Learners 
+
+We count the total number of registered learners at the end of each period. For purposes of determining our registered learner count, we treat each customer account that registers with a unique email as a registered learner and adjust for any spam, test accounts, and cancellations. Our registered learner count is not intended as a measure of active engagement. New registered learners are individuals that register in a particular period.
+
+Paid Enterprise Customers 
+
+We count the total number of Paid Enterprise Customers that are active on our platform at the end of each period. For purposes of determining our customer count, we treat each customer account that has a corresponding contract as a unique customer, and a single organization with multiple divisions, segments, or subsidiaries may be counted as multiple customers. We define a Paid Enterprise Customer as a customer who purchases Coursera via our direct sales force. For purposes of determining our Paid Enterprise Customer count, we exclude our Enterprise customers who do not purchase Coursera via our direct sales force, including organizations engaging on our platform through our Coursera for Teams offering or through our channel partners.
+
+Net Retention Rate (NRR) for Paid Enterprise Customers
+
+We calculate annual recurring revenue (ARR) by annualizing each customers monthly recurring revenue (MRR) for the most recent month at period end. We calculate Net Retention Rate for a period by starting with the ARR from all Paid Enterprise Customers as of the 12 months prior to such period end, or Prior Period ARR. We then calculate the ARR from these same Paid Enterprise Customers as of the current period end, or Current Period ARR. Current Period ARR includes expansion within Paid Enterprise Customers and is net of contraction or attrition over the trailing 12 months but excludes revenue from new Paid Enterprise Customers in the current period. We then divide the total Current Period ARR by the total Prior Period ARR to arrive at our Net Retention Rate for Paid Enterprise Customers.
+
+Number of Degrees Students 
+
+We count the total number of Degrees students for each period. For purposes of determining our Degrees student count, we include all the students that are matriculated in a degree program and who are enrolled in one or more courses in such a degree program during the period, including students enrolled within any wind-down or teach-out periods of any existing programs. If a degree term spans multiple quarters, the student is counted as active in all quarters of the degree term. For purposes of determining our Degrees student count, we do not include students who are matriculated in the degree but are not enrolled in a course in that period.
+
+Non-GAAP Financial Measures
+
+In addition to financial information presented in accordance with GAAP, this press release includes non-GAAP gross profit, non-GAAP net income, non-GAAP net income per share, Adjusted EBITDA, Adjusted EBITDA Margin, and Free Cash Flow, each of which is a non-GAAP financial measure. These are key measures used by our management to help us analyze our financial results, establish budgets and operational goals for managing our business, evaluate our performance, and make strategic decisions. Accordingly, we believe that these non-GAAP financial measures provide useful information to investors and others in understanding and evaluating our operating results in the same manner as our management and board of directors. In addition, we believe these measures are useful for period-to-period comparisons of our business. We also believe that the presentation of these non-GAAP financial measures provides an additional tool for investors to use in comparing our core business and results of operations over multiple periods with other companies in our industry, many of which present similar non-GAAP financial measures to investors, and to analyze our cash performance. However, the non-GAAP financial measures presented may not be comparable to similarly titled measures reported by other companies due to differences in the way that these measures are calculated. These non-GAAP financial measures are presented for supplemental informational purposes only and should not be considered as a substitute for or in isolation from financial information presented in accordance with GAAP. These non-GAAP financial measures have limitations as analytical tools. 
+
+4
+
+Earnings Release
+
+Q4 and Full Year 2024
+
+Non-GAAP Gross Profit, Non-GAAP Net Income, and Non-GAAP Net Income Per Share
+
+We define non-GAAP gross profit and non-GAAP net income as GAAP gross profit and GAAP net loss excluding: (1) stock-based compensation expense; (2) amortization of stock-based compensation expense capitalized as internal-use software costs; (3) payroll tax expense related to stock-based compensation; (4) merger and acquisition (M&A) related transaction costs; (5) costs and settlement (gains) losses related to significant and non-recurring legal matters, net of insurance recoveries; and (6) restructuring related charges. Non-GAAP net income per share is calculated by dividing non-GAAP net income by the diluted weighted average shares of common stock outstanding. 
+
+Adjusted EBITDA and Adjusted EBITDA Margin 
+
+We define Adjusted EBITDA as our GAAP net loss excluding: (1) depreciation and amortization; (2) interest income, net; (3) income tax (benefit) expense; (4) other expense (income), net; (5) stock-based compensation expense; (6) payroll tax expense related to stock-based compensation; (7) M&A related transaction costs; (8) costs and settlement (gains) losses related to significant and non-recurring legal matters, net of insurance recoveries; and (9) restructuring related charges. We define Adjusted EBITDA Margin as Adjusted EBITDA divided by revenue.
+
+Free Cash Flow 
+
+We define Free Cash Flow as net cash provided by operating activities, less purchases of property, equipment, and software, capitalized internal-use software costs, and purchases of content assets as we consider these capital expenditures necessary to support our ongoing operations. Current and prior period Free Cash Flow amounts reported herein reflect the previously disclosed change to our definition of Free Cash Flow to include purchases of content assets.
+
+We believe the presentation of these adjusted operating results provides useful supplemental information to investors and facilitates the analysis and comparison of our operating results across reporting periods. 
+
+Reconciliations of these non-GAAP financial measures to the most directly comparable GAAP financial measures are included in the Appendix.
+
+Special Note on Forward-Looking Statements
+
+This press release contains forward-looking statements that involve substantial risks and uncertainties. Any statements contained in this press release that are not statements of historical facts may be deemed to be forward-looking statements. In some cases, you can identify forward-looking statements by terms such as: accelerate, anticipate, believe, can, continue, could, demand, design, estimate, expand, expect, intend, may, might, mission, need, objective, ongoing, outlook, plan, potential, predict, project, should, target, will, would, or the negative of these terms, or other comparable terminology intended to identify statements about the future. These forward-looking statements include, but are not limited to, statements regarding: financial and operating leverage in our model; investing to bolster return to higher growth; our mission to provide universal access to world-class learning; the demand for online learning; anticipated features and benefits of our customer and educator partner relationships and our content and platform offerings; the anticipated utility of our non-GAAP financial measures; anticipated growth rates; our leadership transition; and our financial outlook, future financial and operational performance, and expectations, among others. These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause our actual results, levels of activity, performance, or achievements to be materially different from the information expressed or implied by these forward-looking statements. These risks and uncertainties include, but are not limited to, the following: our ability to attract, engage, and retain learners; our ability to increase sales of our offerings; our limited operating history; the relative nascency of online learning solutions and generative AI; risks related to market acceptance and demand for our offerings; our ability to maintain and expand our existing educator partner relationships and to develop new partnerships; our dependence on our educator partners content; risks related to our AI innovations and AI generally; our ability to compete effectively; adverse impacts on our business and financial condition due to macroeconomic or market conditions; our ability to manage our growth; regulatory and/or policy matters or changes impacting us or our educator partners; risks related to intellectual property; cybersecurity and privacy risks and regulations; potential disruptions to our platform; risks related to operations, regulatory, economic, and geopolitical conditions; current and future legal proceedings; the impact of actions to improve operational efficiencies and operating costs; our history of net losses and ability to achieve or sustain profitability; natural disasters, public health crises or other catastrophic events; our status as a certified B Corp; and risks and uncertainties discussed in our most recently filed periodic reports on Forms 10-K and 10-Q and subsequent filings and as detailed from time to time in our SEC filings. You should not rely upon forward-looking statements as predictions of future events. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee that the future results, levels of activity, performance, or events and circumstances reflected in the forward-looking statements will be achieved or occur. Moreover, neither we nor any other person assumes responsibility for the accuracy and completeness of the forward-looking statements. Such forward-looking statements relate only to events as of the date of this press release. We undertake no obligation to update any forward-looking statements except to the extent required by law.
+
+5
+
+Earnings Release
+
+Q4 and Full Year 2024
+
+Coursera Inc. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited) 
+
+(In thousands, except shares and per share data) 
+
+Three Months Ended December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+Revenue $ 179,180 $ 168,880 $ 694,674 $ 635,764 
+
+Cost of revenue(1) 83,672 79,551 323,261 305,993 
+
+Gross profit 95,508 89,329 371,413 329,771 
+
+Operating expenses: 
+
+Research and development(1) 32,122 37,366 132,048 160,077 
+
+Sales and marketing(1) 60,227 58,106 234,908 222,771 
+
+General and administrative(1) 26,860 22,416 108,734 98,325 
+
+Restructuring related charges(1) 6,797 8,942 (5,806) 
+
+Total operating expenses 126,006 117,888 484,632 475,367 
+
+Loss from operations (30,498) (28,559) (113,219) (145,596) 
+
+Other income (expense): 
+
+Interest income, net 8,489 9,298 36,726 34,432 
+
+Other (expense) income, net (1,921) 212 (2,008) (19) 
+
+Loss before income taxes (23,930) (19,049) (78,501) (111,183) 
+
+Income tax (benefit) expense (2,319) 1,308 1,029 5,371 
+
+Net loss $ (21,611) $ (20,357) $ (79,530) $ (116,554) 
+
+Net loss per sharebasic and diluted $ (0.14) $ (0.13) $ (0.51) $ (0.77) 
+
+Weighted average shares used in computing net loss per sharebasic and diluted 159,179,499 153,690,451 157,370,977 150,957,814
+
+(1)Includes stock-based compensation expense as follows:
+
+Three Months Ended December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+Cost of revenue $ 694 $ 563 $ 2,657 $ 2,593 
+
+Research and development 9,786 11,568 41,846 49,931 
+
+Sales and marketing 5,905 7,964 28,104 31,299 
+
+General and administrative 8,559 7,572 35,477 31,352 
+
+Restructuring related charges (5,605) 
+
+Total stock-based compensation expense $ 24,944 $ 27,667 $ 108,084 $ 109,570 
+
+6
+
+Earnings Release
+
+Q4 and Full Year 2024
+
+Coursera Inc. 
+
+CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited) 
+
+(In thousands)
+
+December 31, 2024 December 31, 2023
+
+Assets 
+
+Current assets: 
+
+Cash and cash equivalents $ 726,125 $ 656,321 
+
+Marketable securities 65,746 
+
+Accounts receivable, net 59,685 67,418 
+
+Deferred costs, net 24,667 26,387 
+
+Prepaid expenses and other current assets 20,177 16,614 
+
+Total current assets 830,654 832,486 
+
+Property, equipment, and software, net 36,899 30,408 
+
+Operating lease right-of-use assets 2,967 4,739 
+
+Intangible assets, net 24,521 11,720 
+
+Other assets 35,233 41,180 
+
+Total assets $ 930,274 $ 920,533 
+
+Liabilities and Stockholders Equity 
+
+Current liabilities: 
+
+Educator partners payable $ 101,869 $ 101,041 
+
+Other accounts payable and accrued expenses 21,375 23,456 
+
+Accrued compensation and benefits 31,627 22,281 
+
+Operating lease liabilities, current 43 6,557 
+
+Deferred revenue, current 159,741 137,229 
+
+Other current liabilities 12,818 7,696 
+
+Total current liabilities 327,473 298,260 
+
+Operating lease liabilities, non-current 3,021 39 
+
+Deferred revenue, non-current 1,555 2,861 
+
+Other liabilities 805 3,179 
+
+Total liabilities 332,854 304,339 
+
+Stockholders equity: 
+
+Common stock 2 2 
+
+Additional paid-in capital 1,506,654 1,459,964 
+
+Treasury stock, at cost (49,029) (63,154) 
+
+Accumulated other comprehensive income 59 
+
+Accumulated deficit (860,207) (780,677) 
+
+Total stockholders equity 597,420 616,194 
+
+Total liabilities and stockholders equity $ 930,274 $ 920,533 
+
+7
+
+Earnings Release
+
+Q4 and Full Year 2024
+
+Coursera Inc. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited) 
+
+(In thousands) 
+
+Year Ended December 31,
+
+2024 2023
+
+Cash flows from operating activities: 
+
+Net loss $ (79,530) $ (116,554) 
+
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+
+Depreciation and amortization 25,082 22,270 
+
+Stock-based compensation expense 108,084 109,570 
+
+Accretion of marketable securities (235) (13,811) 
+
+Impairment losses 2,226 3,062 
+
+Other 788 1,496 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable, net 7,210 (14,763) 
+
+Prepaid expenses and other assets 2,472 (17,003) 
+
+Operating lease right-of-use assets 4,810 4,868 
+
+Accounts payable and accrued expenses (2,321) 33,971 
+
+Accrued compensation and other liabilities 12,138 3,073 
+
+Operating lease liabilities (6,569) (7,853) 
+
+Deferred revenue 21,206 21,313 
+
+Net cash provided by operating activities 95,361 29,639 
+
+Cash flows from investing activities: 
+
+Purchases of marketable securities (121,756) 
+
+Proceeds from maturities of marketable securities 66,000 530,000 
+
+Purchases of property, equipment, and software (1,585) (1,147) 
+
+Capitalized internal-use software costs (17,219) (15,254) 
+
+Purchase of minority interest (1,701) 
+
+Purchases of content assets (17,295) (5,344) 
+
+Net cash provided by investing activities 29,901 384,798 
+
+Cash flows from financing activities: 
+
+Proceeds from exercise of stock options 9,377 27,315 
+
+Proceeds from employee stock purchase plan 5,644 6,031 
+
+Payments for repurchases of common stock (36,705) (58,453) 
+
+Payments for tax withholding on vesting of restricted stock units (33,260) (54,122) 
+
+Net cash used in financing activities (54,944) (79,229) 
+
+Net increase in cash, cash equivalents, and restricted cash 70,318 335,208 
+
+Cash, cash equivalents, and restricted cashBeginning of period 658,086 322,878 
+
+Cash, cash equivalents, and restricted cashEnd of period $ 728,404 $ 658,086 
+
+8
+
+Earnings Release
+
+Q4 and Full Year 2024
+
+Coursera Inc. 
+
+RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES (Unaudited) 
+
+(In thousands, except share and per share data) 
+
+Three Months Ended December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+Gross profit $ 95,508 $ 89,329 $ 371,413 $ 329,771 
+
+Stock-based compensation expense 694 563 2,657 2,593 
+
+Amortization of stock-based compensation capitalized as internal-use software costs 1,275 1,328 5,473 5,039 
+
+Payroll tax expense related to stock-based compensation 8 15 89 115 
+
+Non-GAAP gross profit $ 97,485 $ 91,235 $ 379,632 $ 337,518 
+
+Three Months Ended December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+Net loss $ (21,611) $ (20,357) $ (79,530) $ (116,554) 
+
+Stock-based compensation expense 24,944 27,667 108,084 115,175 
+
+Amortization of stock-based compensation capitalized as internal-use software costs 1,275 1,328 5,473 5,039 
+
+Payroll tax expense related to stock-based compensation 218 815 2,991 3,957 
+
+M&A related transaction costs 3,369 
+
+Significant and non-recurring legal matters 1,657 6,258 
+
+Restructuring related charges 6,797 8,942 (5,806) 
+
+Non-GAAP net income $ 13,280 $ 9,453 $ 55,587 $ 1,811 
+
+Weighted-average shares used in computing net loss per sharebasic 159,179,499 153,690,451 157,370,977 150,957,814
+
+Effect of dilutive securities 3,802,517 15,238,006 7,050,544 15,626,795
+
+Weighted-average shares used in computing non-GAAP net income per sharediluted 162,982,016 168,928,457 164,421,521 166,584,609
+
+Net loss per sharebasic and diluted $ (0.14) $ (0.13) $ (0.51) $ (0.77) 
+
+Non-GAAP net income per sharediluted $ 0.08 $ 0.06 $ 0.34 $ 0.01 
+
+9
+
+Earnings Release
+
+Q4 and Full Year 2024
+
+Three Months Ended December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+Net loss $ (21,611) $ (20,357) $ (79,530) $ (116,554) 
+
+Depreciation and amortization 6,350 5,768 25,082 22,270 
+
+Interest income, net (8,489) (9,298) (36,726) (34,432) 
+
+Income tax (benefit) expense (2,319) 1,308 1,029 5,371 
+
+Other expense (income), net 1,921 (212) 2,008 19 
+
+Stock-based compensation expense 24,944 27,667 108,084 115,175 
+
+Payroll tax expense related to stock-based compensation 218 815 2,991 3,957 
+
+M&A related transaction costs 3,369 
+
+Significant and non-recurring legal matters 1,657 6,258 
+
+Restructuring related charges 6,797 8,942 (5,806) 
+
+Adjusted EBITDA $ 9,468 $ 5,691 $ 41,507 $ (10,000) 
+
+Net loss margin (12) % (12) % (11) % (18) %
+
+Adjusted EBITDA Margin 5 % 3 % 6 % (2) %
+
+Three Months Ended December 31, Year Ended December 31,
+
+2024 2023 2024 2023
+
+Net cash provided by operating activities(2) $ 19,215 $ 11,568 $ 95,361 $ 29,639 
+
+Less: purchases of property, equipment, and software (1,081) (121) (1,585) (1,147) 
+
+Less: capitalized internal-use software costs (3,640) (3,791) (17,219) (15,254) 
+
+Less: purchases of content assets (7,113) (1,966) (17,295) (5,344) 
+
+Free Cash Flow $ 7,381 $ 5,690 $ 59,262 $ 7,894 
+
+(2)Includes cash payments for restructuring related charges made during the three months and years ended December 31, 2024 and 2023 of $2.7 million, $0, $4.8 million, and $5.1 million, respectively.
+
+10
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>cour-20250130.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Document And Entity Information 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>cour-20250130_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover [Abstract] 
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>cour-20250130_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>a8ka.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.24.4
+
+Document And Entity Information
+
+Jan. 30, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Jan. 30, 2025
+
+Entity Registrant Name COURSERA, INC.
+
+Entity File Number 001-40275
+
+Entity Incorporation, State or Country Code DE
+
+Entity Tax Identification Number 45-3560292
+
+Entity Address, Address Line One 2440 West El Camino Real, Suite 500
+
+Entity Address, City or Town Mountain View
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 94040
+
+City Area Code (650)
+
+Local Phone Number 963-9884
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, $0.00001 par value per share
+
+Trading Symbol COUR
+
+Security Exchange Name NYSE
+
+Entity Central Index Key 0001651562
+
+Amendment Flag false
+
+Entity Emerging Growth Company false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.24.4 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Document And Entity Information 
+Sheet 
+http://www.coursera.org/role/DocumentAndEntityInformation 
+Document And Entity Information 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+cour-20250130.htm 
+cour-20250130.xsd 
+cour-20250130_lab.xml 
+cour-20250130_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001651562-25-000004-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>cour-20250130_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001651562 
+
+2025-01-30 
+2025-01-30 
+
+0001651562 
+false 
+8-K 
+2025-01-30 
+COURSERA, INC. 
+DE 
+001-40275 
+45-3560292 
+2440 West El Camino Real, Suite 500 
+Mountain View 
+CA 
+94040 
+(650) 
+963-9884 
+false 
+false 
+false 
+false 
+Common Stock, $0.00001 par value per share 
+COUR 
+NYSE 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

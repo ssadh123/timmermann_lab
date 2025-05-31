@@ -1,0 +1,1657 @@
+<SEC-DOCUMENT>0001384905-25-000008.txt : 20250220
+<SEC-HEADER>0001384905-25-000008.hdr.sgml : 20250220
+<ACCEPTANCE-DATETIME>20250220165713
+ACCESSION NUMBER:		0001384905-25-000008
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250220
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250220
+DATE AS OF CHANGE:		20250220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RingCentral, Inc.
+		CENTRAL INDEX KEY:			0001384905
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				943322844
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36089
+		FILM NUMBER:		25646410
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 DAVIS DRIVE
+		CITY:			BELMONT
+		STATE:			CA
+		ZIP:			94002
+		BUSINESS PHONE:		650-472-4100
+
+	MAIL ADDRESS:	
+		STREET 1:		20 DAVIS DRIVE
+		CITY:			BELMONT
+		STATE:			CA
+		ZIP:			94002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RingCentral Inc
+		DATE OF NAME CHANGE:	20070103
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>rng-20250220.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?rng-20250220
+
+0001384905false00013849052024-02-202024-02-20
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+______________________
+
+FORM 8-K
+
+______________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 20, 2025
+
+______________________
+
+RINGCENTRAL, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 001-36089 94-3322844
+
+(State or other jurisdiction
+
+of incorporation) (Commission
+
+File Number) (IRS Employer
+
+Identification No.)
+
+20 Davis Drive, Belmont, CA94002
+
+(Address of principal executive offices) (Zip Code)
+
+Registrants telephone number, including area code: (650) 472-4100
+
+(Former name or former address, if changed since last report)
+
+______________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Class A Common Stock RNG New York Stock Exchange
+
+par value $0.0001 
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 ( 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 ( 240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02. Results of Operations and Financial Condition.
+
+The information in Item 2.02 of this Current Report is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934 (the Exchange Act), or otherwise subject to the liabilities of that Section. The information in this Current Report shall not be incorporated by reference in any filing under the Securities Act of 1933 or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+On February 20, 2025, the Company issued a press release regarding its financial results for its fiscal quarter ended December 31, 2024. The full text of the Companys press release is furnished herewith as Exhibit 99.1.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+Exhibit 
+
+Description
+
+99.1 Press release dated February 20, 2025
+
+104 Cover Page Interactive Data File (formatted as inline XBRL).
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: February 20, 2025 
+
+RINGCENTRAL, INC.
+
+By: /s/ Abhey Lamba
+
+Name: Abhey Lamba
+
+Title: 
+
+Chief Financial Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>rng-20241231x8kxex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Exhibit 99.1
+
+RingCentral Announces Fourth Quarter and Fiscal Year 2024 Results 
+
+Q4 2024 revenue and operating margin above guidance range with record cash flow
+
+Exceeded $50 million ARR from new products
+
+Kira Makagon promoted to President and Chief Operating Officer
+
+Belmont, Calif. February 20, 2025 RingCentral, Inc. (NYSE:RNG), a global leader in AI-powered trusted business communications for companies of all sizes, today announced financial results for the fourth quarter and fiscal year ended December 31, 2024.
+
+"We had a good fourth quarter, capping a strong year, said Vlad Shmunis, RingCentral's founder and CEO. Our new AI-powered products are gaining steam, and today we unveiled RingCentral AI Receptionist, or AIR, which we believe will deliver tremendous value to businesses everywhere. Building on our history of industry-leading innovations, AIR is a generative AI phone agent that is seamlessly integrated into the phone system. It acts as a true digital employee that enables our customers to do more with less. AIR is another growth vector for RingCentral and further builds out our multi-product portfolio.
+
+"Driving growth while expanding profitability remains a top priority," said Abhey Lamba, RingCentral's CFO. "In 2024, we achieved GAAP operating profitability for the first time, as we remain disciplined on spend and significantly lowered stock based compensation. Looking forward, we are focused on delivering further operating efficiencies, and expect to generate almost $600 million of operating cash flow in 2025."
+
+Financial Results for the Fourth Quarter 2024
+
+Revenue: Total revenue was $615 million for the fourth quarter of 2024, up from $571 million in the fourth quarter of 2023, representing 8% year-over-year growth. Adjusted for constant currency, total revenue rose 7%. Subscriptions revenue of $590 million increased 8% year over year and accounted for 96% of total revenue. Adjusted for constant currency, subscriptions revenue rose 8%.
+
+Operating Income (Loss): GAAP operating income was $16 million, compared to ($45) million in the same period last year. Non-GAAP operating income was $131 million, or 21.3% of total revenue, compared to $117 million, or 20.5% of total revenue, in the same period last year. 
+
+Adjusted EBITDA: Adjusted EBITDA was $153 million, or 24.9% of total revenue, compared to $138 million, or 24.2% of total revenue, in the same period last year.
+
+Net Income (Loss) Per Share: GAAP net loss per share was ($0.08), compared to ($0.50) in the same period last year. Diluted non-GAAP net income per share was $0.98, compared to $0.86 per share in the same period last year. The fourth quarters of 2024 and 2023 reflected a 22.5% non-GAAP tax rate.
+
+Cash Flow: Net cash provided by operating activities for the fourth quarter of 2024 was $133 million, or 21.6% of total revenue, compared to $114 million, or 19.9% of total revenue, for the fourth quarter of 2023. Free cash flow for the fourth quarter of 2024 was $112 million, or 18.2% of total revenue. This includes cash paid for interest of $6 million, and restructuring and other payments of $6 million. For comparison, free cash flow for the fourth quarter of 2023 was $94 million, which included cash paid for interest of $6 million, restructuring and other payments of $14 million, and cash received from certain strategic partners of $17 million.
+
+Cash and Cash Equivalents: Total cash and cash equivalents at the end of the fourth quarter of 2024 was $243 million. Our cash balance reflects the repurchase of $77 million in shares during the fourth quarter of 2024 under the plans previously authorized by our Board. Our board recently increased our share repurchase authorization by $100 million, and we currently have approximately $270 million remaining on our total authorization.
+
+Financial Results for the Full Year 2024 
+
+Revenue: Total revenue was $2.400 billion for 2024, up from $2.202 billionin 2023, representing 9% growth. Adjusted for constant currency, total revenue rose 9%. Subscriptions revenue of $2.297 billion increased 9% and accounted for over 95% of total revenue. Adjusted for constant currency, subscriptions revenue rose 9%.
+
+Operating Income (Loss): GAAP operating income was $3 million in 2024, compared to ($199) million in 2023. Non-GAAP operating income was $504 million, or 21.0% of total revenue, compared to $420 million, or 19.1% of total revenue, in 2023.
+
+Adjusted EBITDA: Adjusted EBITDA for 2024 was $590 million in 2024, or 24.6% of total revenue, compared to $503 million, or 22.8% of total revenue, for 2023.
+
+Net Income (Loss) Per Share: GAAP net loss per share was ($0.63) in 2024, compared to ($1.74) in 2023. Diluted non-GAAP net income per share was $3.70, compared to $3.23 per share in 2023. Both fiscal year 2024 and 2023 reflected a 22.5% non-GAAP tax rate.
+
+Cash Flow: Net cash provided by operating activities for 2024 was a record $483 million, or 20.1% of total revenue, compared to $400 million, or 18.1% of total revenue, for 2023. Free cash flow for 2024 was $403 million, or 16.8% of total revenue. This includes cash paid for interest of $59 million, and restructuring and other payments of $28 million, and cash received from certain strategic partners of $25 million. For comparison, free cash flow for 2023 was $324 million, which included cash paid for interest of $17 million, restructuring and other payments of $35 million, and cash received from certain strategic partners of $50 million. Since 2021, free cash flow has grown at a 72% compound annual rate. 
+
+Management Update
+
+Today we announced that Kira Makagon, Chief Innovation Officer and CMO, has been promoted to President and Chief Operating Officer, effective today. Makagon will now be responsible for the Companys product and technology organization, direct and channel sales, customer success, marketing, and operations organizations. 
+
+Vlad Shmunis, RingCentrals Founder, Chairman, and CEO, said, Kiras visionary leadership at RingCentral spans over a decade, spearheading our product innovation and establishing our brand as an industry leader. Kiras proven track record of building high-performing teams and her deep understanding of our customers' evolving needs make her the ideal leader to accelerate our next phase of growth and product innovation. Her expanded role will be pivotal in strengthening our market leadership and creating lasting value for our customers, while scaling our organization and profitable growth.
+
+Please see our separate press release for additional information. 
+
+Business Highlights
+
+Annualized Exit Monthly Recurring Subscriptions (ARR) increased 7% year-over-year to $2.489 billion. Adjusted for constant currency, ARR rose 8%.
+
+Enterprise ARR increased 7% year-over-year to $1.073 billion. Adjusted for constant currency, Enterprise ARR rose 7%.
+
+Won over 30 deals that were over $1 million in total contract value in the fourth quarter of 2024.
+
+RingEX & RingCX selected by Genpact, a global advanced technology services and solutions company with 125,000 employees in 30+ countries, to enable tighter collaboration and for RingCentral's licensed availability across all 22 telecom circles in India. 
+
+Product Highlights
+
+Launched AI Receptionist (AIR), an AI phone agent that uses generative AI to automatically answer customer questions and transfer callers to the right place, much like traditional full-time receptionists. Unlike contact center intelligent virtual agents (IVAs), which are complex and costly to deploy, RingCentral AIR allows any business with any budget to instantly deploy our AI call automation solution to transform their business. 
+
+BT, which serves over one million UK business customers, launched Cloud Work RingCX, powered by RingCentral. 
+
+Introduced Studio, a powerful new capability within RingCentral Events for streaming branded events, alongside a new feature called AI Clips for generating automated event highlights. 
+
+RingCX earned multiple industry recognitions, including CRN's 2024 Product of the Year and Leader status in the 2025 Aragon Research Globe.
+
+People Highlights
+
+Opened a new state-of-the-art office in Bangalore, highlighting India as a key area for the company's regional growth, and aligns with RingCentral's PAN-India license for availability in 22 telecom circles from the Department of Telecommunications.
+
+Amy Guggenheim Shenkan appointed to RingCentral's Board of Directors. She has over 30 years of leadership experience at companies such as McKinsey, GE, and Wells Fargo.
+
+Financial Outlook
+
+Full Year 2025 Guidance:
+
+Subscriptions revenue growth range of 5% to 7% year-over-year on a reported basis, or 6% to 8% on a constant currency basis.
+
+Total revenue growth range of 4% to 6% year-over-year on a reported basis, or 5% to 7% on a constant currency basis.
+
+GAAP operating margin range of 4.5% to 5.2%.
+
+Non-GAAP operating margin of approximately 22.5%, up approximately 150 basis points year over year. 
+
+Non-GAAP EPS range of $4.13 to $4.27 based on 93.5 to 94.5 million fully diluted shares.
+
+Share-based compensation range of $300 to $310 million
+
+Free cash flow of approximately $500to $510 million, growth of approximately 25% at the midpoint.
+
+First Quarter 2025 Guidance: 
+
+Subscriptions revenue range of $587 to $592 million, representing year-over-year growth of 5% to 6%, or 6% to 7% on a constant currency basis.
+
+Total revenue of $607 to $612 million, representing year-over-year growth of 4% to 5% on a reported and constant currency basis.
+
+GAAP operating margin range of 0.6% to 1.7%.
+
+Non-GAAP operating margin of 21.0% to 21.5%.
+
+Non-GAAP EPS of $0.93 to $0.97 based on 93.0 to 93.5 million fully diluted shares.
+
+Share-based compensation range of $81 to $84 million.
+
+For a reconciliation of our forecasted non-GAAP operating margin and free cash flow, see Reconciliation of Forecasted Operating Margin GAAP Measures to Non-GAAP Measures. We have not reconciled our forecasted non-GAAP EPS to its respective forecasted GAAP measure because we do not provide guidance on it. We do not provide guidance on forecasted GAAP EPS because of the inherent uncertainty and complexity involved in forecasting the intercompany remeasurement gain (loss), gain (loss) associated with investments, gain (loss) on early debt conversions, and provision (benefit) from income taxes, which could be significant reconciling items between the non-GAAP and respective GAAP measures. The intercompany remeasurement gain (loss) is affected by the movement in various exchange rates relative to the U.S. Dollar, which is difficult to predict and subject to constant change. We do not provide guidance on gain (loss) associated with investments as it is based on future share prices, which are difficult to predict and subject to inherent uncertainties. We do not provide guidance on gain (loss) on debt early conversions as it is based on future conversion requests, future share prices, and interest rates, which are difficult to predict and are subject to inherent uncertainties. We do not provide guidance on forecasted GAAP tax rates as we do not forecast discrete tax items as they are difficult to predict. The provision (benefit) from income taxes, excluding discrete items, is expected to have an immaterial impact to our GAAP EPS. We utilized a projected long-term tax rate in our computation of the non-GAAP income tax provision. For fiscal 2025, we have determined the projected non-GAAP tax rate to be 22.5%. Accordingly, a reconciliation of the non-GAAP financial measure guidance to the corresponding GAAP measure is not available without unreasonable effort.
+
+Conference Call Details: 
+
+What: RingCentral financial results for the fourth quarter and fiscal year 2024 and outlook for the first quarter and fiscal year 2025. 
+
+When: February 20, 2025 at 2:00 PM PT (5:00 PM ET).
+
+Dial-in: 1-888-349-0093 from the United States; 1-412-317-5201 internationally
+
+Webcast:RingCentral Q4 2024 Earnings Webcast (live and replay).
+
+Replay: Following the completion of the call through 11:59 PM Eastern Time on February 27, 2025, a telephone replay will also be available by dialing 1-844-512-2921 from the United States or 1-412-317-6671 internationally with recording access code 10195940.
+
+Investor Presentation Details
+
+An investor presentation providing additional information and analysis can be found at http://ir.ringcentral.com/.
+
+About RingCentral
+
+RingCentral is a leading provider of AI-powered cloud business communications, contact center, video and hybrid event solutions. RingCentral empowers businesses with conversation intelligence, and unlocks rich customer and employee interactions to provide insights and improved business outcomes. With decades of expertise in reliable and secure cloud communications, RingCentral has earned the trust of millions of customers and thousands of partners worldwide. Visit ringcentral.com to learn more.
+
+2025 RingCentral, Inc. All rights reserved. RingCentral, RingCentral Contact Center and the RingCentral logo are trademarks of RingCentral, Inc.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements, including but not limited to, statements regarding our future financial results, our GAAP and non-GAAP guidance, the results of the pace of our innovation and our partner networks, our expectations regarding our profitability and our non-GAAP free cash flow, our expectations around the contribution of our new products, our estimates and expectations regarding third parties, and our ability to execute and lead in the UCaaS digital transformation market, our expectations around the demand for our products and the growth of the markets in which we compete. Forward-looking statements are subject to known and unknown risks and uncertainties, and are based on assumptions that may prove to be incorrect, which could cause actual results to differ materially from those expected or implied by the forward-looking statements. Among the 
+
+important factors that could cause actual results to differ materially from those in any forward-looking statements are: our ability to attract new customers and grow at our expected rate of growth; our ability to add and retain larger and enterprise customers and enter new geographies and markets; our ability to continue to release, and gain customer acceptance of, new and improved versions of our services; our ability to compete successfully against existing and new competitors; our ability to enter into and maintain relationships with channel partners and strategic partners; our ability to realize the anticipated benefits of our strategic relationships; our ability to successfully and timely integrate, and realize the benefits of any significant acquisition we may make; our ability to manage our expenses and growth; and general market, political, economic, and business conditions, as well as those risks and uncertainties included under the captions Risk Factors and Managements Discussion and Analysis of Financial Condition and Results of Operations, in our most recent Form 10-K and Form 10-Q filed with the Securities and Exchange Commission, and in other filings we make with the Securities and Exchange Commission from time to time.
+
+All forward-looking statements in this press release are based on information available to RingCentral as of the date hereof, and we undertake no obligation to update these forward-looking statements, to review or confirm analysts expectations, or to provide interim reports or updates on the progress of the current financial quarter.
+
+Non-GAAP Financial Measures
+
+Our reported financial results and financial outlook include certain Non-GAAP financial measures, including Non-GAAP subscriptions gross margin, Non-GAAP other gross margin, Non-GAAP operating margin, Non-GAAP income (loss) from operations, Non-GAAP adjusted EBITDA, Non-GAAP net income (loss), Non-GAAP net income (loss) per diluted share, Non-GAAP free cash flow, Non-GAAP free cash flow margin, and constant currency revenue. Non-GAAP subscriptions gross margin is defined as Non-GAAP subscriptions gross profit divided by GAAP subscriptions revenue. Non-GAAP other gross margin is defined as Non-GAAP other gross profit divided by GAAP other revenue. Non-GAAP income (loss) from operations is defined as GAAP income (loss) from operations excluding share-based compensation which includes related employer payroll taxes, amortization of acquisition intangibles, third-party relocation costs tied to the conflict between Russia and Ukraine and other costs including acquisition-related transaction costs and retention payments, certain litigation-related costs, impairment charges related to abandoned internal-use software, change in fair-value of contingent consideration, net impact of amended agreements with strategic partners, and restructuring costs. Non-GAAP operating margin is defined as Non-GAAP income (loss) from operations divided by total GAAP revenue. Non-GAAP adjusted EBITDA is defined as Non-GAAP income (loss) from operations excluding depreciation and amortization. Non-GAAP net income (loss) is defined as GAAP net income (loss) excluding share-based compensation which includes related employer payroll taxes, amortization of acquisition intangibles, third-party relocation costs tied to the conflict between Russia and Ukraine and other costs including acquisition-related transaction costs and retention payments, certain litigation-related costs, impairment charges related to abandoned internal-use software, change in fair-value of contingent consideration, net impact of amended agreements with strategic partners, restructuring costs, non-cash interest expense associated with amortization of debt discount and issuance costs related to our long term debt, loss (gain) associated with investments, loss (gain) on early extinguishment of debt, intercompany remeasurement gains or losses, and the related income tax effect of these adjustments.
+
+Non-GAAP free cash flow is defined as GAAP net cash provided by (used in) operating activities adjusted for capital expenditures including purchases of property and equipment and capitalized internal-use software. We believe information regarding Non-GAAP free cash flow provides useful information to investors in understanding and evaluating the strength of liquidity and available cash. Non-GAAP free cash flow margin is defined as Non-GAAP free cash flow divided by total GAAP revenues.
+
+We have included Non-GAAP subscriptions gross margin, Non-GAAP other gross margin, Non-GAAP operating margin, Non-GAAP income (loss) from operations, Non-GAAP adjusted EBITDA, Non-GAAP net income (loss), Non-GAAP net income (loss) per diluted share, Non-GAAP free cash flow, Non-GAAP free cash flow margin, and constant currency revenue in this press release because they are key measures used by us to understand and evaluate our operating performance and trends, to prepare and approve our annual budget, and to develop short and long-term operational plans. In particular, the exclusion of certain expenses and cash flow items in calculating Non-
+
+GAAP subscriptions gross margin, Non-GAAP other gross margin, Non-GAAP operating margin, Non-GAAP income (loss) from operations, Non-GAAP adjusted EBITDA, Non-GAAP net income (loss), Non-GAAP net income (loss) per diluted share, Non-GAAP free cash flow, and Non-GAAP free cash flow margin provide useful measure for period-to-period comparisons of our business.
+
+We have provided certain revenue-related information adjusted for constant currency to provide a framework for assessing how our underlying business performed excluding the effect of foreign currency rate fluctuations. To present this information, current period results in currencies other than United States dollars are converted into United States dollars at the average exchange rate prevailing for the period being compared to for growth rate calculations presented, rather than the actual exchange rates in effect during that period.
+
+Although Non-GAAP subscriptions gross margin, Non-GAAP other gross margin, Non-GAAP operating margin, Non-GAAP income (loss) from operations, Non-GAAP adjusted EBITDA, Non-GAAP net income (loss), Non-GAAP net income (loss) per diluted share, Non-GAAP free cash flow, Non-GAAP free cash flow margin, and constant currency revenue are frequently used by investors in their evaluations of companies, these non-GAAP financial measures have limitations as analytical tools and should not be considered in isolation or as a substitute for financial information presented in accordance with GAAP. Because of these limitations, these non-GAAP financial measures should be considered alongside other financial performance measures.
+
+Reconciliations of our non-GAAP financial measures to their most directly comparable GAAP measures has been provided in the financial statement tables included in this press release.
+
+Other Measures
+
+Our reported results also include our annualized exit monthly recurring subscriptions (ARR), mid-market and enterprise ARR and enterprise ARR, including on a constant currency basis, as well as net monthly subscriptions dollar retention rate. To present ARR on a constant currency basis, ARR in currencies other than United States dollars are converted into United States dollars at the closing exchange rate prevailing for the period being compared to for growth rate calculations presented, rather than the closing exchange rates for the current period. We define our ARR as our monthly recurring subscriptions (MRR) multiplied by 12. Our MRR equals the monthly value of all customer recurring charges contracted at the end of a given month. We believe this metric is a leading indicator of our anticipated subscriptions revenue. We calculate mid-market and enterprise ARR in the same manner as we calculate our ARR, except that only customer subscriptions from customers generating $25,000 or more in annual recurring revenue are included. We calculate enterprise ARR in the same manner as we calculate our ARR, except that only customer subscriptions from customers generating $100,000 or more in annual recurring revenue are included. We define our Net Monthly Subscription Dollar Retention Rate as (i) one plus (ii) the quotient of Dollar Net Change divided by Average Monthly Recurring Subscriptions. We calculate dollar net change as the quotient of (i) the difference of our monthly recurring subscriptions at the end of a period minus our monthly recurring subscriptions at the beginning of a period minus our monthly recurring subscriptions at the end of the period from new customers we added during the period, (ii) all divided by the number of months in the period. We define our average monthly recurring subscriptions as the average of the monthly recurring subscriptions at the beginning and end of the measurement period.
+
+Investor Relations Contact:
+
+Will Wong, RingCentral
+
+ir@ringcentral.com
+
+Media Contact:
+
+Mariana Leventis, RingCentral
+
+Mariana.Leventis@ringcentral.com 
+
+TABLE 1
+
+RINGCENTRAL, INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(Unaudited, in thousands)
+
+December 31, 2024 December 31, 2023
+
+Assets 
+
+Current assets 
+
+Cash and cash equivalents $ 242,811 $ 222,195 
+
+Accounts receivable, net 386,252 364,438 
+
+Deferred and prepaid sales commission costs 182,615 184,620 
+
+Prepaid expenses and other current assets 59,444 77,396 
+
+Total current assets 871,122 848,649 
+
+Property and equipment, net 180,650 184,390 
+
+Operating lease right-of-use assets 46,463 42,989 
+
+Deferred and prepaid sales commission costs, non-current 325,198 395,724 
+
+Goodwill 82,986 67,370 
+
+Acquired intangibles, net 258,526 393,767 
+
+Other assets 14,928 12,024 
+
+Total assets $ 1,779,873 $ 1,944,913 
+
+Liabilities, Temporary Equity, and Stockholders Deficit 
+
+Current liabilities 
+
+Accounts payable $ 21,866 $ 53,295 
+
+Accrued liabilities 283,799 325,632 
+
+Current portion of long-term debt, net 181,252 20,000 
+
+Deferred revenue 261,882 233,619 
+
+Total current liabilities 748,799 632,546 
+
+Long-term debt, net 1,347,881 1,525,482 
+
+Operating lease liabilities 29,733 28,178 
+
+Other long-term liabilities 4,930 61,827 
+
+Total liabilities 2,131,343 2,248,033 
+
+Temporary equity 
+
+Series A convertible preferred stock 199,449 199,449 
+
+Stockholders deficit 
+
+Common stock 9 9 
+
+Additional paid-in capital 1,215,377 1,204,781 
+
+Accumulated other comprehensive loss (8,881) (8,223) 
+
+Accumulated deficit (1,757,424) (1,699,136) 
+
+Total stockholders deficit $ (550,919) $ (502,569) 
+
+Total liabilities, temporary equity and stockholders deficit $ 1,779,873 $ 1,944,913 
+
+TABLE 2
+
+RINGCENTRAL, INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(Unaudited, in thousands, except per share data)
+
+Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+2024 2023 2024 2023
+
+Revenues 
+
+Subscriptions $ 589,677 $ 547,373 $ 2,297,192 $ 2,100,329 
+
+Other 24,835 23,898 103,203 102,100 
+
+Total revenues 614,512 571,271 2,400,395 2,202,429 
+
+Cost of revenues 
+
+Subscriptions 150,673 143,386 593,294 557,050 
+
+Other 27,501 26,838 112,213 107,241 
+
+Total cost of revenues 178,174 170,224 705,507 664,291 
+
+Gross profit 436,338 401,047 1,694,888 1,538,138 
+
+Operating expenses 
+
+Research and development 84,901 84,886 329,323 335,851 
+
+Sales and marketing 277,255 272,628 1,096,448 1,068,050 
+
+General and administrative 58,545 88,576 266,447 333,048 
+
+Total operating expenses 420,701 446,090 1,692,218 1,736,949 
+
+Income (loss) from operations 15,637 (45,043) 2,670 (198,811) 
+
+Other income (expense), net 
+
+Interest expense (16,327) (16,505) (64,995) (35,997) 
+
+Other income (expense) 2,280 16,442 15,100 77,963 
+
+Other income (expense), net (14,047) (63) (49,895) 41,966 
+
+Loss before income taxes 1,590 (45,106) (47,225) (156,845) 
+
+Provision for income taxes 8,778 2,137 11,063 8,395 
+
+Net loss $ (7,188) $ (47,243) $ (58,288) $ (165,240) 
+
+Net loss per common share 
+
+Basic and diluted $ (0.08) $ (0.50) $ (0.63) $ (1.74) 
+
+Weighted-average number of shares used in computing net loss per share 
+
+Basic and diluted 90,678 94,018 92,110 94,912 
+
+TABLE 3
+
+RINGCENTRAL, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(Unaudited, in thousands)
+
+Year Ended December 31,
+
+2024 2023
+
+Cash flows from operating activities 
+
+Net loss $ (58,288) $ (165,240) 
+
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+
+Depreciation and amortization 222,609 233,940 
+
+Share-based compensation 339,059 426,679 
+
+Unrealized loss on investments 1,506 
+
+Amortization of deferred and prepaid sales commission costs 162,552 138,134 
+
+Amortization of debt discount and issuance costs 4,272 4,566 
+
+Gain on early extinguishment of debt (53,400) 
+
+Reduction of operating lease right-of-use assets 20,723 20,469 
+
+Provision for bad debt 8,667 6,852 
+
+Other (8,428) 1,486 
+
+Changes in assets and liabilities: 
+
+Accounts receivable (30,481) (57,819) 
+
+Deferred and prepaid sales commission costs (130,730) (156,734) 
+
+Prepaid expenses and other assets 19,811 14,492 
+
+Accounts payable (29,793) (21,213) 
+
+Accrued and other liabilities (37,433) 9,101 
+
+Deferred revenue 19,592 17,681 
+
+Operating lease liabilities (18,856) (20,838) 
+
+Net cash provided by operating activities 483,276 399,662 
+
+Cash flows from investing activities 
+
+Purchases of property and equipment (24,994) (23,513) 
+
+Capitalized internal-use software (55,534) (52,227) 
+
+Cash paid for business combination, net of cash acquired (26,291) (14,709) 
+
+Purchases of intangible assets and long-term investments (2,540) 
+
+Net cash used in investing activities (109,359) (90,449) 
+
+Cash flows from financing activities 
+
+Proceeds from issuance of stock in connection with stock plans 16,693 16,687 
+
+Payments for taxes related to net share settlement of equity awards (5,965) (9,062) 
+
+Payments for repurchase of common stock, including excise tax (322,356) (311,088) 
+
+Proceeds from issuance of long-term debt, net of issuance costs 785,749 
+
+Payments for the repurchase of convertible notes (820,960) 
+
+Payments for fees on long-term debt (4,851) 
+
+Repayments of principal on term loan (20,000) (10,000) 
+
+Repayment of financing obligations (4,257) (5,777) 
+
+Payment for contingent consideration (10,345) (3,567) 
+
+Net cash used in financing activities (351,081) (358,018) 
+
+Effect of exchange rate changes (2,220) 1,016 
+
+Net increase (decrease) in cash, cash equivalents, and restricted cash 20,616 (47,789) 
+
+Cash, cash equivalents, and restricted cash 
+
+Beginning of year 222,195 269,984 
+
+End of year $ 242,811 $ 222,195 
+
+TABLE 4
+
+RINGCENTRAL, INC.
+
+RECONCILIATION OF OPERATING INCOME (LOSS)
+
+GAAP MEASURES TO NON-GAAP MEASURES
+
+(Unaudited, in thousands)
+
+Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+2024 2023 2024 2023
+
+Revenues 
+
+Subscriptions $ 589,677 $ 547,373 $ 2,297,192 $ 2,100,329 
+
+Other 24,835 23,898 103,203 102,100 
+
+Total revenues 614,512 571,271 2,400,395 2,202,429 
+
+Cost of revenues reconciliation 
+
+GAAP Subscriptions cost of revenues 150,673 143,386 593,294 557,050 
+
+Share-based compensation (5,619) (7,206) (23,647) (28,302) 
+
+Amortization of acquired intangibles (31,307) (37,136) (130,535) (147,460) 
+
+Third-party relocation and other costs (129) (31) (178) (136) 
+
+Restructuring costs (62) (181) (634) (818) 
+
+Non-GAAP Subscriptions cost of revenues 113,556 98,832 438,300 380,334 
+
+GAAP Other cost of revenues 27,501 26,838 112,213 107,241 
+
+Share-based compensation (1,796) (2,374) (7,791) (9,266) 
+
+Amortization of acquired intangibles (86) (22) (151) (88) 
+
+Restructuring costs 48 (700) (58) 
+
+Non-GAAP Other cost of revenues 25,667 24,442 103,571 97,829 
+
+Gross profit and gross margin reconciliation 
+
+Non-GAAP Subscriptions 80.7 % 81.9 % 80.9 % 81.9 %
+
+Non-GAAP Other (3.4) % (2.3) % (0.4) % 4.2 %
+
+Non-GAAP Gross profit 77.3 % 78.4 % 77.4 % 78.3 %
+
+Operating expenses reconciliation 
+
+GAAP Research and development 84,901 84,886 329,323 335,851 
+
+Share-based compensation (19,218) (23,869) (78,862) (95,673) 
+
+Third-party relocation and other costs (3,229) (899) (5,506) (5,863) 
+
+Restructuring costs (386) (176) (3,215) (4,457) 
+
+Non-GAAP Research and development 62,068 59,942 241,740 229,858 
+
+As a % of total revenues non-GAAP 10.1 % 10.5 % 10.1 % 10.4 %
+
+GAAP Sales and marketing 277,255 272,628 1,096,448 1,068,050 
+
+Share-based compensation (33,322) (37,232) (137,350) (154,295) 
+
+Amortization of acquired intangibles (2,055) (995) (5,853) (3,524) 
+
+Third-party relocation and other costs (14) (332) (115) 
+
+Restructuring costs (1,246) (3,665) (5,885) (8,758) 
+
+Non-GAAP Sales and marketing 240,632 230,722 947,028 901,358 
+
+As a % of total revenues non-GAAP 39.2 % 40.4 % 39.5 % 40.9 %
+
+GAAP General and administrative 58,545 88,576 266,447 333,048 
+
+Share-based compensation (21,624) (42,692) (98,998) (146,550) 
+
+Third-party relocation and other costs 4,860 (2,094) 169 (7,411) 
+
+Restructuring costs (363) (3,421) (2,201) (6,277) 
+
+Non-GAAP General and administrative 41,418 40,369 165,417 172,810 
+
+As a % of total revenues non-GAAP 6.7 % 7.1 % 6.9 % 7.8 %
+
+Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+2024 2023 2024 2023
+
+Income (loss) from operations reconciliation 
+
+GAAP income (loss) from operations 15,637 (45,043) 2,670 (198,811) 
+
+Share-based compensation 81,579 113,373 346,648 434,086 
+
+Amortization of acquired intangibles 33,448 38,153 136,539 151,072 
+
+Third-party relocation and other costs (1,502) 3,038 5,847 13,525 
+
+Restructuring costs 2,009 7,443 12,635 20,368 
+
+Non-GAAP Income from operations 131,171 116,964 504,339 420,240 
+
+Non-GAAP Operating margin 21.3 % 20.5 % 21.0 % 19.1 %
+
+Depreciation and amortization 21,604 21,064 86,070 82,868 
+
+Non-GAAP Adjusted EBITDA 152,775 138,028 590,409 503,108 
+
+As a % of total revenues non-GAAP 24.9 % 24.2 % 24.6 % 22.8 %
+
+TABLE 5
+
+RINGCENTRAL, INC.
+
+RECONCILIATION OF NET INCOME (LOSS)
+
+GAAP MEASURES TO NON-GAAP MEASURES
+
+(In thousands, except per share data) (Unaudited)
+
+Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+2024 2023 2024 2023
+
+Net income (loss) income reconciliation 
+
+GAAP net loss $ (7,188) $ (47,243) $ (58,288) $ (165,240) 
+
+Share-based compensation 81,579 113,373 346,648 434,086 
+
+Amortization of acquired intangibles 33,448 38,153 136,539 151,072 
+
+Third-party relocation and other costs, net (4,806) 3,038 (5,155) 3,016 
+
+Restructuring costs 2,009 7,443 12,635 20,368 
+
+Amortization of debt discount and issuance costs 1,160 1,101 4,272 4,566 
+
+Loss associated with investments 458 1,745 
+
+Gain on early extinguishment of debt (10,510) (53,401) 
+
+Intercompany remeasurement loss (gain) 2,474 (428) 3,294 (1,645) 
+
+Income tax expense effects (17,649) (21,952) (90,517) (82,271) 
+
+Non-GAAP net income $ 91,027 $ 82,975 $ 349,886 $ 312,296 
+
+Reconciliation between GAAP and non-GAAP weighted average shares used in computing basic and diluted net income (loss) per common share: 
+
+Weighted average number of shares used in 
+
+computing basic net loss per share 90,678 94,018 92,110 94,912 
+
+Effect of dilutive securities 2,567 1,989 2,373 1,714 
+
+Non-GAAP weighted average shares used in 
+
+computing non-GAAP diluted net income per share 93,245 96,007 94,483 96,626 
+
+Diluted net (loss) income per share 
+
+GAAP net loss per share $ (0.08) $ (0.50) $ (0.63) $ (1.74) 
+
+Non-GAAP net income per share $ 0.98 $ 0.86 $ 3.70 $ 3.23 
+
+TABLE 6
+
+RINGCENTRAL, INC.
+
+RECONCILIATION OF CASH FLOWS FROM OPERATING ACTIVITIES
+
+GAAP MEASURES TO NON-GAAP FREE CASH FLOW MEASURES
+
+(Unaudited, in thousands)
+
+Three Months Ended
+
+December 31, Year Ended
+
+December 31,
+
+2024 2023 2024 2023
+
+Net cash provided by operating activities $ 132,882 $ 113,844 $ 483,276 $ 399,662 
+
+Capitalized expenditures (21,053) (19,984) (80,528) (75,740) 
+
+Non-GAAP free cash flow $ 111,829 $ 93,860 $ 402,748 $ 323,922 
+
+Non-GAAP free cash flow margin 18.2 % 16.4 % 16.8 % 14.7 %
+
+TABLE 7
+
+RINGCENTRAL, INC.
+
+RECONCILIATION OF FORECASTED OPERATING MARGIN AND FREE CASH FLOW
+
+GAAP MEASURES TO NON-GAAP MEASURES
+
+(Unaudited, in millions)
+
+Q1 2025 FY 2025
+
+Low Range High Range Low Range High Range
+
+GAAP income from operations 3 10 112 133 
+
+GAAP operating margin 0.6 % 1.7 % 4.5 % 5.2 %
+
+Share-based compensation 84 81 310 300 
+
+Amortization of acquired intangibles 35 35 135 135 
+
+Restructuring costs 6 6 6 6 
+
+Non-GAAP income from operations 127 131 562 573 
+
+Non-GAAP operating margin 21.0 % 21.5 % 22.5 % 22.5 %
+
+FY 2025
+
+Low Range High Range
+
+GAAP net cash provided by operating activities $ 585 $ 595 
+
+Capitalized expenditures (85) (85) 
+
+Non-GAAP free cash flow $ 500 $ 510
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>rng-20250220.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Document and Entity Information Document 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>rng-20250220_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover [Abstract] 
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>rng-20250220_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>ringcentrallogocolora.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Document and Entity Information Document
+
+Feb. 20, 2024
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 20, 2025
+
+Entity Registrant Name RINGCENTRAL, INC.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-36089
+
+Entity Tax Identification Number 94-3322844
+
+Entity Address, Address Line One 20 Davis Drive
+
+Entity Address, City or Town Belmont
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 94002
+
+City Area Code 650
+
+Local Phone Number 472-4100
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Entity Emerging Growth Company false
+
+Title of 12(b) Security Class A Common Stock
+
+Trading Symbol RNG
+
+Security Exchange Name NYSE
+
+Entity Central Index Key 0001384905
+
+Amendment Flag false
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+22 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Document and Entity Information Document 
+Sheet 
+http://ringcentral.com/role/DocumentandEntityInformationDocument 
+Document and Entity Information Document 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+rng-20250220.htm 
+rng-20250220.xsd 
+rng-20250220_lab.xml 
+rng-20250220_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001384905-25-000008-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>rng-20250220_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001384905 
+
+2024-02-20 
+2024-02-20 
+
+0001384905 
+false 
+8-K 
+2025-02-20 
+RINGCENTRAL, INC. 
+DE 
+001-36089 
+94-3322844 
+20 Davis Drive 
+Belmont 
+CA 
+94002 
+650 
+472-4100 
+false 
+false 
+false 
+false 
+Class A Common Stock 
+RNG 
+NYSE 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

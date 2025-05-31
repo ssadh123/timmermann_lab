@@ -1,0 +1,1557 @@
+<SEC-DOCUMENT>0001736297-25-000001.txt : 20250210
+<SEC-HEADER>0001736297-25-000001.hdr.sgml : 20250210
+<ACCEPTANCE-DATETIME>20250210161301
+ACCESSION NUMBER:		0001736297-25-000001
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20250210
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250210
+DATE AS OF CHANGE:		20250210
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Astera Labs, Inc.
+		CENTRAL INDEX KEY:			0001736297
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				823437062
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41979
+		FILM NUMBER:		25605884
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2901 TASMAN DR. SUITE 205
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		408-242-7319
+
+	MAIL ADDRESS:	
+		STREET 1:		2901 TASMAN DR. SUITE 205
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>alab-20250210.htm
+<DESCRIPTION>8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?alab-20250210
+
+false000173629700017362972025-02-102025-02-10
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 8-K
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) 
+
+of the Securities Exchange Act of 1934 
+
+Date of Report (Date of earliest event reported): February 10, 2025
+
+Astera Labs, Inc.
+
+(Exact name of registrant as specified in its charter) 
+
+Delaware 001-41979 82-3437062
+
+(State or other jurisdiction
+
+of incorporation) 
+
+(Commission
+
+File Number) 
+
+(IRS Employer
+
+Identification No.)
+
+2901 Tasman Drive, Suite 205
+
+Santa Clara, CA95054
+
+(Address of principal executive offices) (Zip Code) 
+
+Registrants telephone number, including area code: (408) 766-3806
+
+Not applicable 
+
+(Former name or former address, if changed since last report.) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of
+
+each class 
+
+Trading
+
+Symbol 
+
+Name of each exchange
+
+on which registered
+
+Common Stock, par value $0.0001 per share ALAB 
+
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (240.12b-2 of this chapter). 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Item 2.02 Results of Operations and Financial Condition 
+
+On February 10, 2025, Astera Labs, Inc. (the "Company") issued a press release regarding its financial results for the quarter and year ended December 31, 2024. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K. 
+
+The information in Item 2.02 of this Current Report on Form 8-K, including the accompanying Exhibit 99.1, is intended to be furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits. 
+
+Exhibit No. Description of Exhibit
+
+99.1 
+
+Press release issued by Astera Labs, Inc. dated February 10, 2025.
+
+104 Cover Page Interactive Data File (Cover page XBRL tags are embedded within the Inline XBRL document)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+Date: February 10, 2025 Astera Labs, Inc.
+
+By: /s/ Michael Tate 
+
+Name: Michael Tate
+
+Title: Chief Financial Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>q424exhibit991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+Document
+
+Exhibit 99.1
+
+IR CONTACT: Leslie Green
+
+leslie.green@asteralabs.com
+
+Astera Labs Announces Financial Results for the Fourth Quarter of Fiscal Year 2024
+
+Record quarterly revenue of $141.1 million, up 25% QoQ and up 179% YoY 
+
+Fiscal 2024 record revenue of $396.3 million, up 242% versus the prior year 
+
+Ramping across diverse set of customers and platforms with four product families in fiscal 2025 
+
+SANTA CLARA, CA, U.S. February 10, 2025 Astera Labs, Inc. (Nasdaq: ALAB), a global leader in semiconductor-based connectivity solutions for cloud and AI infrastructure, today announced preliminary financial results for the fourth quarter and full fiscal year 2024, ended December 31, 2024.
+
+Astera Labs delivered strong Q4 results, with revenue growing 25% versus the previous quarter, and capped off a stellar 2024 with 242% revenue growth year-over-year, said Jitendra Mohan, Astera Labs Chief Executive Officer. "The revenue growth in 2024 was largely driven by Aries PCIe Retimer products, with Taurus Smart Cable Modules for Ethernet coming in strongly in Q4. We expect 2025 to be a breakout year as we enter a new phase of growth driven by revenue from all four of our product families to support a diverse set of customers and platforms. This includes our flagship Scorpio Fabric products for head-node PCIe connectivity and backend AI accelerator scale-up clustering."
+
+Fourth Quarter of Fiscal 2024 Financial Highlights 
+
+GAAP Financial Results: 
+
+Revenue of $141.1 million, up 25% sequentially and up 179% year-over-year
+
+GAAP gross margin of 74.0% 
+
+GAAP operating income of $0.1 million
+
+GAAP operating margin of 0.1%
+
+GAAP net income of $24.7 million
+
+GAAP diluted net earnings per share of $0.14
+
+Non-GAAP Financial Results (excluding the impact of stock-based compensation expense and the income tax effects of non-GAAP adjustments):
+
+Non-GAAP gross margin of 74.1% 
+
+Non-GAAP operating income of $48.4 million
+
+Non-GAAP operating margin of 34.3%
+
+Non-GAAP net income of $66.5 million
+
+Non-GAAP diluted earnings per share of $0.37
+
+Full Year Fiscal 2024 Financial Highlights 
+
+GAAP Financial Results: 
+
+Revenue of $396.3 million, up 242% year-over-year
+
+GAAP gross margin of 76.4% 
+
+GAAP operating loss of $116.1 million
+
+GAAP operating margin of (29.3%)
+
+GAAP net loss of $83.4 million
+
+GAAP diluted net loss per share of $0.64
+
+Non-GAAP and Non-GAAP Financial Results (excluding the impact of stock-based compensation expense and the income tax effects of non-GAAP adjustments):
+
+Non-GAAP gross margin of 76.6% 
+
+Non-GAAP operating income of $119.6 million
+
+Non-GAAP operating margin of 30.2%
+
+Non-GAAP net income of $143.3 million
+
+Pro forma non-GAAP diluted earnings per share of $0.84
+
+Full Year Fiscal 2024 Business Highlights 
+
+Introduced new portfolio of Scorpio Smart Fabric Switches purpose-built for AI infrastructure at cloud-scale. The Scorpio Smart Fabric Switch family features two application-specific product lines with a multi-generational roadmap, including the P-Series for GPU-to-CPU/NIC/SSD PCIe Gen 6 connectivity and the X-Series for platform-specific, back-end AI accelerator clustering. Scorpio is currently shipping in pre-production quantities.
+
+Joined the Ultra Accelerator Link Consortium as a promoting member on the Board of Directors. UALink technology will be used to enable efficient high-speed scale-up connectivity between AI accelerators within large and growing cluster sizes for AI workloads. Astera Labs is well positioned to quickly contribute to this new and compelling industry initiative to develop and advance UALink technology.
+
+Demonstrated the industrys first end-to-end PCIe optical connectivity link to provide extended reach for larger, disaggregated GPU clusters. PCIe over optics expands Astera Labs widely deployed and field-tested Aries family of Smart DSP retimers and Smart Cable Modules (SCMs) to deliver robust PCIe and CXL connectivity in chip-to-chip, box-to-box, and rack-to-rack topologies throughout the data center.
+
+Expanded the widely deployed and field-tested Aries PCIe/CXL Smart DSP Retimer portfolio with the introduction and initial shipment of Aries 6 Retimers, the industrys lowest power PCIe 6.x/CXL 3.x Retimer solution, to achieve higher bandwidth and extended reach across complex AI and compute topologies. 
+
+Shipped Aries PCIe/CXL Smart Cable Modules for Active Electrical Cable applications to enable multi-rack GPU clustering and low-latency memory fabric connectivity within AI infrastructure. The solution drives seven meters of reach over flexible copper cables to seamlessly and affordably interconnect clusters of GPUs across rack enclosures.
+
+Showcased the first public demonstration of end-to-end interoperability between a PCIe 6.x Switch and a PCIe 6.x SSD at DesignCon 2025. The PCIe 6.x link-up was between an Astera Labs Scorpio P-Series Fabric Switch and Microns PCIe 6.x SSDs and showcased remarkable sequential read speeds exceeding 26GB/s. 
+
+First Quarter of Fiscal 2025 Financial Outlook
+
+Based on current business trends and conditions, Astera Labs estimates the following:
+
+GAAP Financial Outlook:
+
+Revenue within a range of $151 million to $155 million
+
+GAAP gross margin of approximately 74%
+
+GAAP operating expenses within a range of approximately $113 million to $114 million 
+
+GAAP tax expense of approximately $3 million 
+
+GAAP diluted earnings per share within a range of approximately $0.03 to $0.04 on weighted-average diluted shares outstanding of approximately 180 million
+
+Non-GAAP Financial Outlook (excluding the impact of approximately $47 million of stock-based compensation and including approximately $3 million of additional income taxes):
+
+Non-GAAP gross margin of approximately 74% 
+
+Non-GAAP operating expenses within a range of approximately $66 million to $67 million
+
+Non-GAAP tax rate of approximately 10%
+
+Non-GAAP diluted earnings per share within a range of approximately $0.28 to $0.29 on non-GAAP weighted-average diluted shares outstanding of approximately 180 million
+
+Earnings Webcast and Conference Call
+
+Astera Labs will host a conference call to review its financial results for the fourth quarter and full year of fiscal 2024 and to discuss our financial outlook today at 1:30 p.m. Pacific Time. Interested parties may join the conference call by dialing 1-800-715-9871 and using conference ID 5908687. The call will also be webcast and can be accessed at the Astera Labs website at https://ir.asteralabs.com/. The webcast will be recorded and available for replay on the companys website for the next six months. 
+
+Discussion of Non-GAAP Financial Measures
+
+We use certain non-GAAP financial measures to supplement the performance measures in our consolidated financial statements, which are presented in accordance with GAAP. A reconciliation of these non-GAAP measures to the closest GAAP measure can be found later in this release. These non-GAAP financial measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP operating income (loss), non-GAAP operating margin, non-GAAP tax rate, non-GAAP net income (loss), non-GAAP diluted earnings (loss) per share, and non-GAAP weighted-average share count. We use these non-GAAP financial measures for financial and operational decision-making and as a means to assist us in evaluating period-to-period comparisons. By excluding certain items that may not be indicative of our recurring core operating results, we believe that, non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP operating income (loss), non-GAAP operating margin, non-GAAP tax rate, non-GAAP net income (loss), non-GAAP pro forma diluted earnings (loss) per share, and non-GAAP pro forma weighted-average share count provide meaningful supplemental information regarding our performance. Accordingly, we believe these non-GAAP financial measures are useful to investors and others because they allow for additional information with respect to financial measures used by management in its financial and operational decision-making and they may be used by our institutional investors and the analyst community to help them analyze the health of our business. However, there are a number of limitations related to the use of non-GAAP financial measures, and these non-GAAP measures should be considered in addition to, not as a substitute for or in isolation from, our financial results prepared in accordance with GAAP. Other companies, including companies in our industry, may calculate these non-GAAP financial measures differently or not at all, which reduces their usefulness as comparative measures. No reconciliation is provided with respect to the forward-looking non-GAAP financial measures included in our non-GAAP financial outlook, as the GAAP measures are not accessible on a forward-looking basis. As a result, we cannot reliably predict all necessary components or their impact to reconcile such financial measures without unreasonable effort. The events necessitating a non-GAAP adjustment are inherently unpredictable and may have a significant impact on our future GAAP financial results.
+
+We adjust the following items from one or more of our non-GAAP financial measures: 
+
+Stock-based compensation expense 
+
+We exclude stock-based compensation expense, which is a non-cash expense, from certain of our non-GAAP financial measures because we believe that excluding this item provides meaningful supplemental information regarding operational performance. In particular, companies calculate non-cash stock-based compensation expense using a variety of valuation methodologies and subjective assumptions. Moreover, stock-based compensation expense is a non-cash charge that can vary significantly from period to period for reasons that are unrelated to our core operating performance, and therefore excluding this item provides investors and other users of our financial information with information that allows meaningful comparisons of our business performance across periods.
+
+Employer payroll taxes related to stock-based compensation resulting from our IPO 
+
+We exclude employer payroll taxes related to the time-based vesting and net settlement of restricted stock units in connection with our initial public offering (the IPO), because this does not correlate to the operation of our business. We believe that 
+
+excluding this item provides meaningful supplemental information regarding operational performance given the amount of employer payroll tax-related items on employee stock transactions was immaterial prior to our IPO.
+
+Income tax effect
+
+This represents the impact of the non-GAAP adjustments on an after-tax basis and one-off discrete tax adjustments that are unrelated to our core operating performance in connection with the presentation of non-GAAP net income (loss) and non-GAAP net income (loss) per diluted share. This approach is designed to enhance investors ability to understand the impact of our non-GAAP tax expense on our current operations, provide improved modeling accuracy, and substantially reduce fluctuations caused by GAAP to non-GAAP adjustments.
+
+Non-GAAP pro forma weighted-average shares to compute non-GAAP pro forma net income (loss) per share 
+
+We present non-GAAP pro forma weighted-average shares, assuming our redeemable convertible preferred stock is converted from the beginning of each respective periods presented, to provide meaningful supplemental information regarding EPS trend on a consistent basis. All of our outstanding redeemable preferred stock converted into the equivalent number of shares of common stock in connection with our IPO.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This press release contains forward-looking statements based on Astera Labs' current expectations. The words "believe", "estimate", "expect", "intend", may, "anticipate", "plan", "project", "will", and similar phrases as they relate to Astera Labs are intended to identify such forward-looking statements. These forward-looking statements reflect the current views and assumptions of Astera Labs and are subject to various risks and uncertainties that could cause actual results to differ materially from expectations. These forward-looking statements include but are not limited to, statements regarding our future operating results, financial position and guidance, including for the first quarter of fiscal 2025, our business strategy and plans, our objectives for future operations, our development or delivery of new or enhanced products and anticipated results of those products for our customers, our competitive positioning, including to meet the connectivity market opportunity in the future and initiative to advance UALink technology, technological capabilities and plans, our plans to add R&D talent and strategic IP blocks, and macroeconomic trends in cloud and AI infrastructure. A variety of risks and factors that are beyond our control could cause actual results to differ materially from those in the forward-looking statements including, without limitation: the competitive and cyclical nature of the semiconductor industry; the concentration of our customer base; the changes in demand for AI; the macroeconomic environment; risks that demand and the supply chain may be adversely affected, including by the imposition of tariffs by the United States and any corresponding retaliatory tariffs, changes in political policies, military conflict (such as between Russia/Ukraine and Israel/Hamas), terrorism, sanctions or other geopolitical events globally (including conflict between Taiwan and China); quarterly fluctuations in revenues and operating results; difficulties developing new products that achieve market acceptance; risks associated with managing international activities (including trade barriers, particularly with respect to China); absence of long-term commitments from customers; risks that Astera Labs may not be able to manage strains associated with its growth; credit risks associated with its accounts receivable; stock price volatility; information technology risks, including cyber-attacks against Astera Labs' products and its networks; and other risks and uncertainties that are detailed under the caption Risk Factors and elsewhere in our Annual Report on 10-K that will be filed with the Securities and Exchange Commission (the SEC) and in Quarterly Reports on Form 10-Q filed with the SEC and the other SEC filings and reports Astera Labs may make from time to time. Moreover, we operate in a very competitive and rapidly changing environment, and new risks may emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor(s) may cause actual results or outcomes to differ materially from those contained in any forward-looking statements we may make. Accordingly, you should not rely on any of the forward-looking statements. Astera Labs 
+
+disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise, except as required by law.
+
+About Astera Labs 
+
+Our PCIe, CXL and Ethernet semiconductor-based connectivity solutions are purpose-built to unleash the full potential of accelerated computing at cloud-scale. Inspired by trusted partnerships with hyperscalers and the data center ecosystem, we are an innovation leader of products that are customizable, interoperable, and reliable. Discover how we are transforming AI and modern data-driven applications at www.asteralabs.com. 
+
+ASTERA LABS, INC. 
+
+CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
+
+(In thousands)
+
+December 31,
+
+2024 December 31,
+
+2023 
+
+Assets 
+
+Current assets 
+
+Cash and cash equivalents $ 79,551 $ 45,098 
+
+Marketable securities 834,750 104,215 
+
+Accounts receivable, net 38,811 8,335 
+
+Inventory 43,215 24,095 
+
+Prepaid expenses and other current assets 16,652 4,064 
+
+Total current assets 1,012,979 185,807 
+
+Property and equipment, net 35,651 4,712 
+
+Other assets 5,878 5,773 
+
+Total assets $ 1,054,508 $ 196,292 
+
+Liabilities, Redeemable Convertible Preferred Stock and Stockholders Equity (Deficit) 
+
+Current liabilities 
+
+Accounts payable $ 26,918 $ 6,337 
+
+Accrued expenses and other current liabilities 59,624 28,742 
+
+Total current liabilities 86,542 35,079 
+
+Other liabilities 3,167 3,787 
+
+Total liabilities 89,709 38,866 
+
+Commitments and contingencies 
+
+Redeemable convertible preferred stock - 255,127 
+
+Stockholders equity (deficit) 
+
+Common stock 16 4 
+
+Additional paid-in capital 1,173,153 27,411 
+
+Accumulated other comprehensive income 426 259 
+
+Accumulated deficit (208,796) (125,375) 
+
+Total stockholders equity (deficit) 964,799 (97,701) 
+
+Total liabilities, redeemable convertible preferred stock and stockholders equity (deficit) $ 1,054,508 $ 196,292 
+
+ASTERA LABS, INC. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+
+(In thousands, except per share amounts)
+
+Three Months Ended Years Ended
+
+December 31,
+
+2024 September 30,
+
+2024 December 31,
+
+2023 December 31,
+
+2024 December 31,
+
+2023
+
+Revenue $ 141,096 $ 113,086 $ 50,514 $ 396,290 $ 115,794 
+
+Cost of revenue 36,648 25,209 11,489 93,591 35,967 
+
+Gross profit 104,448 87,877 39,025 302,699 79,827 
+
+Operating expenses 
+
+Research and development 56,524 50,659 19,654 200,830 73,407 
+
+Sales and marketing 22,818 23,248 4,995 123,652 19,992 
+
+General and administrative 24,962 22,866 5,356 94,283 15,925 
+
+Total operating expenses 104,304 96,773 30,005 418,765 109,324 
+
+Operating income (loss) 144 (8,896) 9,020 (116,066) (29,497) 
+
+Interest income 10,558 10,912 1,674 34,288 6,549 
+
+Income (loss) before income taxes 10,702 2,016 10,694 (81,778) (22,948) 
+
+Income tax (benefit) provision (14,011) 9,609 (3,631) 1,643 3,309 
+
+Net income (loss) $ 24,713 $ (7,593) $ 14,325 $ (83,421) $ (26,257) 
+
+Net income (loss) per share attributable to common stockholders: 
+
+Basic $ 0.15 $ (0.05) $ $ (0.64) $ (0.71) 
+
+Diluted $ 0.14 $ (0.05) $ $ (0.64) $ (0.71) 
+
+Weighted-average shares used in calculating net income (loss) per share attributable to common stockholders: 
+
+Basic 159,895 156,831 38,627 131,262 37,131
+
+Diluted 177,559 156,831 47,636 131,262 37,131
+
+ASTERA LABS, INC. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited) 
+
+(In thousands)
+
+Years Ended December 31,
+
+2024 2023
+
+Cash flows from operating activities 
+
+Net loss $ (83,421) $ (26,257) 
+
+Adjustments to reconcile net loss to net cash provided by (used in) operating activities 
+
+Stock-based compensation 234,588 10,679 
+
+Depreciation 3,154 1,781 
+
+Non-cash operating lease expense 2,428 1,232 
+
+Warrants contra revenue 1,395 805 
+
+Inventory write-downs 168 10,343 
+
+Accretion of discounts on marketable securities (8,341) (1,624) 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable, net (30,480) 2,386 
+
+Inventory (19,287) (5,564) 
+
+Prepaid expenses and other assets (13,031) (720) 
+
+Accounts payable 20,887 (4,264) 
+
+Accrued expenses and other liabilities 31,018 (167) 
+
+Operating lease liability (2,402) (1,346) 
+
+Net cash provided by (used in) operating activities 136,676 (12,716) 
+
+Cash flows from investing activities 
+
+Purchases of property and equipment (34,245) (2,761) 
+
+Purchases of marketable securities (930,575) (126,225) 
+
+Sales and maturities of marketable securities 208,665 111,214 
+
+Other investing activities (1,413) 
+
+Net cash used in investing activities (757,568) (17,772) 
+
+Cash flows from financing activities 
+
+Proceeds from issuance of common stock in connection with initial public offering, net of underwriting discounts and commissions 672,198 
+
+Payment of deferred offering costs (4,801) (1,407) 
+
+Proceeds from exercises of stock options 5,458 1,115 
+
+Proceeds from employee stock purchase plan 4,160 
+
+Tax withholding related to net share settlements of restricted stock units (20,111) 
+
+Repurchase of common stock upon termination (1,066) (210) 
+
+Net cash provided by (used in) financing activities 655,838 (502) 
+
+Net increase (decrease) in cash, cash equivalents, and restricted cash 34,946 (30,990) 
+
+Cash, cash equivalents, and restricted cash 
+
+Beginning of the period 45,098 76,088 
+
+End of the period $ 80,044 $ 45,098 
+
+ASTERA LABS, INC. 
+
+RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES (Unaudited)
+
+(In thousands, except percentages and per share amounts)
+
+Three Months Ended Years Ended 
+
+December 31,
+
+2024 September 30,
+
+2024 December 31,
+
+2023 December 31,
+
+2024 December 31,
+
+2023 
+
+GAAP gross profit $ 104,448 $ 87,877 $ 39,025 $ 302,699 $ 79,827 
+
+Stock-basedcompensationexpense upon IPO (1) 516 
+
+Stock-based compensation expense 131 102 8 329 24 
+
+Non-GAAP gross profit $ 104,579 $ 87,979 $ 39,033 $ 303,544 $ 79,851 
+
+GAAP gross margin 74.0 % 77.7 % 77.3 % 76.4 % 68.9 % 
+
+Stock-basedcompensationexpense upon IPO (1) 0.1 
+
+Stock-based compensation expense 0.1 0.1 0.1 0.1 
+
+Non-GAAP gross margin 74.1 % 77.8 % 77.3 % 76.6 % 69.0 % 
+
+GAAP operating income (loss) $ 144 $ (8,896) $ 9,020 $ (116,066) $ (29,497) 
+
+Stock-basedcompensationexpense upon IPO (1) 88,873 
+
+Stock-based compensation expense 48,218 45,535 3,299 145,715 10,679 
+
+Employer payroll tax related to stock-based compensation from IPO (2) 1,072 
+
+Non-GAAP operating income (loss) $ 48,362 $ 36,639 $ 12,319 $ 119,594 $ (18,818) 
+
+GAAP operating margin 0.1 % (7.9) % 17.9 % (29.3) % (25.5) % 
+
+Stock-basedcompensationexpense upon IPO (1) 22.4 
+
+Stock-based compensation expense 34.2 40.3 6.5 36.8 9.2 
+
+Employer payroll tax related to stock-based compensation from IPO (2) 0.3 
+
+Non-GAAP operating margin 34.3 % 32.4 % 24.4 % 30.2 % (16.3) % 
+
+GAAP net income (loss) $ 24,713 $ (7,593) $ 14,325 $ (83,421) $ (26,257) 
+
+Stock-basedcompensationexpense upon IPO (1) 88,873 
+
+Stock-based compensation expense 48,218 45,535 3,299 145,715 10,679 
+
+Employer payroll tax related to stock-based compensation from IPO (2) 1,072 
+
+Income tax effect (3) (6,439) 2,340 (8,910) 
+
+Non-GAAP net income (loss) $ 66,492 $ 40,282 $ 17,624 $ 143,329 $ (15,578) 
+
+Net income (loss) per share attributable to common stockholders: 
+
+GAAP - basic $ 0.15 $ (0.05) $ $ (0.64) $ (0.71) 
+
+GAAP - diluted $ 0.14 $ (0.05) $ $ (0.64) $ (0.71) 
+
+Non-GAAP pro forma - diluted $ 0.37 $ 0.23 $ 0.12 $ 0.84 $ (0.12) 
+
+Weighted average shares used to compute net income (loss) per share attributable to common stockholders: 
+
+GAAP - basic 159,895 156,831 38,627 131,262 37,131 
+
+GAAP - diluted 177,559 156,831 47,636 131,262 37,131 
+
+Non-GAAP pro forma - diluted (4) 177,559 173,832 138,527 168,913 128,022 ____________________
+
+(1) Stock-based compensation expense recognized in connection with the time-based vesting and settlement of RSUs that had previously met the time-based vesting condition and for which the liquidity event vesting condition was satisfied in connection with our IPO.
+
+(2) Employer payroll taxes related to the time-based vesting and settlement of RSUs, that had previously met the time-based vesting condition and for which the liquidity event vesting condition was satisfied in connection with our IPO.
+
+(3) Income tax effect is calculated based on the tax laws in the jurisdictions in which we operate and is calculated to exclude the impact of stock-based compensation expense and one-off discrete tax adjustments that are unrelated to our core operating performance. For the three months ended December 31, 2024 and September 30, 2024, the non-GAAP tax benefit rate was 13% and tax expense rate of 15%, respectively. The adjustments for the three months ended December 31, 2023 were not material. For the years ended December 31, 2024, the non-GAAP tax expense rate was 7% compared to a tax benefit rate of 27% for the year ended December 31, 2023. 
+
+(4) We present the non-GAAP pro forma weighted average shares to provide meaningful supplemental information of comparable shares for each periods presented. The non-GAAP pro forma weighted average shares is calculated as follows: 
+
+Three Months Ended Years Ended 
+
+December 31,
+
+2024 September 30,
+
+2024 December 31,
+
+2023 December 31,
+
+2024 December 31,
+
+2023 
+
+Shares used to compute GAAP net income (loss) per share attributable to common stockholders - diluted 177,559 156,831 47,636 131,262 37,131 
+
+Weighted average effect of the assumed conversion of redeemable convertible preferred stock from the beginning of the periods 90,891 19,165 90,891 
+
+Effect of dilutive equivalent shares 17,001 18,486 
+
+Shares used to compute non-GAAP pro forma net income (loss) per share- diluted 177,559 173,832 138,527 168,913 128,022 
+
+ASTERA LABS, INC. 
+
+SUPPLEMENTAL FINANCIAL INFORMATION 
+
+STOCK-BASED COMPENSATION EXPENSE (Unaudited)
+
+(In thousands)
+
+Three Months Ended Years Ended 
+
+December 31,
+
+2024 September 30,
+
+2024 December 31,
+
+2023 December 31,
+
+2024 December 31,
+
+2023 
+
+Cost of revenue $ 131 $ 102 $ 8 $ 845 $ 24 
+
+Research and development 18,808 14,641 2,303 76,427 7,360 
+
+Sales and marketing 14,671 16,200 681 95,887 2,067 
+
+General and administrative 14,608 14,592 307 61,429 1,228 
+
+Total stock-based compensation expense (1) $ 48,218 $ 45,535 $ 3,299 $ 234,588 $ 10,679 
+
+____________________
+
+(1) Stock-based compensation expense recognized during the year ended December 31, 2024 included $88.9 million of cumulative stock-based compensation expense related to the time-based vesting and settlement of RSUs that had previously met the time-based vesting condition and for which the liquidity event vesting condition was satisfied in connection with our IPO.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>3
+<FILENAME>alab-20250210.xsd
+<DESCRIPTION>XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+<TEXT>
+0000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>4
+<FILENAME>alab-20250210_lab.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+<TEXT>
+Entity Incorporation, State or Country Code 
+Entity Incorporation, State or Country Code 
+
+Entity Central Index Key 
+Entity Central Index Key 
+
+Entity File Number 
+Entity File Number 
+
+Entity Address, State or Province 
+Entity Address, State or Province 
+
+Security Exchange Name 
+Security Exchange Name 
+
+Pre-commencement Issuer Tender Offer 
+Pre-commencement Issuer Tender Offer 
+
+Entity Ex Transition Period 
+Entity Ex Transition Period 
+
+Entity Address, Address Line One 
+Entity Address, Address Line One 
+
+Entity Address, City or Town 
+Entity Address, City or Town 
+
+Soliciting Material 
+Soliciting Material 
+
+Entity Address, Postal Zip Code 
+Entity Address, Postal Zip Code 
+
+Cover [Abstract] 
+
+Written Communications 
+Written Communications 
+
+Entity Address, Address Line Two 
+Entity Address, Address Line Two 
+
+Local Phone Number 
+Local Phone Number 
+
+Title of 12(b) Security 
+Title of 12(b) Security 
+
+City Area Code 
+City Area Code 
+
+Document Period End Date 
+Document Period End Date 
+
+Amendment Flag 
+Amendment Flag 
+
+Entity Tax Identification Number 
+Entity Tax Identification Number 
+
+Trading Symbol 
+Trading Symbol 
+
+Entity Registrant Name 
+Entity Registrant Name 
+
+Pre-commencement Tender Offer 
+Pre-commencement Tender Offer 
+
+Document Type 
+Document Type 
+
+Entity Emerging Growth Company 
+Entity Emerging Growth Company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>5
+<FILENAME>alab-20250210_pre.xml
+<DESCRIPTION>XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>asteralabs.jpg
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>8
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.0.1
+
+Cover
+
+Feb. 10, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Document Period End Date Feb. 10, 2025
+
+Entity Registrant Name Astera Labs, Inc.
+
+Entity Incorporation, State or Country Code DE
+
+Entity File Number 001-41979
+
+Entity Tax Identification Number 82-3437062
+
+Entity Address, Address Line One 2901 Tasman Drive
+
+Entity Address, Address Line Two Suite 205
+
+Entity Address, City or Town Santa Clara
+
+Entity Address, State or Province CA
+
+Entity Address, Postal Zip Code 95054
+
+City Area Code 408
+
+Local Phone Number 766-3806
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, par value $0.0001 per share
+
+Trading Symbol ALAB
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company true
+
+Entity Ex Transition Period false
+
+Amendment Flag false
+
+Entity Central Index Key 0001736297
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 7A
+
+-Section B
+
+-Subsection 2
+
++ Details
+
+Name: dei_EntityExTransitionPeriod
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>9
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>10
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>11
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>13
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.0.1 
+
+html 
+1 
+24 
+1 
+false 
+0 
+0 
+false 
+0 
+
+false 
+false 
+R1.htm 
+0000001 - Document - Cover 
+Sheet 
+http://asteralabs.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+alab-20250210.htm 
+alab-20250210.xsd 
+alab-20250210_lab.xml 
+alab-20250210_pre.xml 
+
+http://xbrl.sec.gov/dei/2024 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>15
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>16
+<FILENAME>0001736297-25-000001-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>17
+<FILENAME>alab-20250210_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0001736297 
+
+2025-02-10 
+2025-02-10 
+
+false 
+0001736297 
+8-K 
+2025-02-10 
+Astera Labs, Inc. 
+DE 
+001-41979 
+82-3437062 
+2901 Tasman Drive 
+Suite 205 
+Santa Clara 
+CA 
+95054 
+408 
+766-3806 
+false 
+false 
+false 
+false 
+Common Stock, par value $0.0001 per share 
+ALAB 
+NASDAQ 
+true 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

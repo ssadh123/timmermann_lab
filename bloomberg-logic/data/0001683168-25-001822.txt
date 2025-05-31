@@ -1,0 +1,1290 @@
+<SEC-DOCUMENT>0001683168-25-001822.txt : 20250324
+<SEC-HEADER>0001683168-25-001822.hdr.sgml : 20250324
+<ACCEPTANCE-DATETIME>20250324123438
+ACCESSION NUMBER:		0001683168-25-001822
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		33
+CONFORMED PERIOD OF REPORT:	20250321
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20250324
+DATE AS OF CHANGE:		20250324
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONSUMER PORTFOLIO SERVICES, INC.
+		CENTRAL INDEX KEY:			0000889609
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				330459135
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14116
+		FILM NUMBER:		25763356
+
+	BUSINESS ADDRESS:	
+		STREET 1:		19500 JAMBOREE ROAD
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92612
+		BUSINESS PHONE:		9497536800
+
+	MAIL ADDRESS:	
+		STREET 1:		19500 JAMBOREE ROAD
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92612
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONSUMER PORTFOLIO SERVICES INC
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>cps_8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+xml version='1.0' encoding='ASCII'?CONSUMER PORTFOLIO SERVICES, INC. 8-K
+
+false000088960900008896092025-03-212025-03-21iso4217:USDxbrli:sharesiso4217:USDxbrli:shares
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON DC 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported)
+March 21, 2025
+
+CONSUMER PORTFOLIO SERVICES, INC. 
+
+(Exact Name of Registrant as Specified in Charter) 
+
+california 1-11416 33-0459135
+
+(State or Other Jurisdiction
+
+of Incorporation) 
+
+(Commission
+
+File Number) 
+
+(IRS Employer
+
+Identification No.)
+
+3800 Howard Hughes Pkwy, Suite 1400, Las Vegas, NV89169 
+
+(Address of Principal Executive Offices) (Zip Code) 
+
+Registrant's telephone number, including area code
+(949) 753-6800
+
+Not Applicable 
+
+(Former name or former address, if changed since last report) 
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.
+below):
+
+Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+
+Common Stock, no par value CPSS The Nasdaq Stock Market LLC (Global Market)
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (240.12b-2 of this chapter).
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. 
+
+ITEM 7.01. REGULATION FD DISCLOSURE.
+
+We are today making available one presentation consisting of 19 slides.
+A copy is attached as an exhibit. Although the exhibit is an update of similar presentations made available from time to time as an exhibit
+to a report on Form 8-K, we are not undertaking to update further any of the information that is contained in the attached presentation.
+The same presentation furnished as an exhibit to this report will be made available on our website, at this address:
+
+http://ir.consumerportfolio.com/events-and-presentations/presentations
+
+We routinely post important information, including news releases and
+reports to the U.S. Securities and Exchange Commission, on our website.
+
+The information furnished in this report shall not be deemed filed
+for purposes of Section 18 of the Securities Exchange Act of 1934, as amended.
+
+ITEM 9.01. FINANCIAL STATEMENTS AND EXHIBITS.
+
+Neither financial statements nor pro forma
+financial information are filed with this report.
+
+(d) Exhibits
+
+One exhibit is attached:
+
+99.1 Company Summary as of December 31, 2024
+
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange
+Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+CONSUMER PORTFOLIO SERVICES, INC.
+
+Dated: March 24, 2025 By: /s/ Denesh Bharwani 
+
+Denesh Bharwani
+
+Executive Vice President and Chief Financial Officer
+
+Signing on behalf of the registrant
+
+2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.SCH
+<SEQUENCE>2
+<FILENAME>cpss-20250321.xsd
+<DESCRIPTION>XBRL SCHEMA FILE
+<TEXT>
+00000001 - Document - Cover 
+link:presentationLink 
+link:calculationLink 
+link:definitionLink
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.LAB
+<SEQUENCE>3
+<FILENAME>cpss-20250321_lab.xml
+<DESCRIPTION>XBRL LABEL FILE
+<TEXT>
+Cover [Abstract] 
+
+Document Type 
+
+Amendment Flag 
+
+Amendment Description 
+
+Document Registration Statement 
+
+Document Annual Report 
+
+Document Quarterly Report 
+
+Document Transition Report 
+
+Document Shell Company Report 
+
+Document Shell Company Event Date 
+
+Document Period Start Date 
+
+Document Period End Date 
+
+Document Fiscal Period Focus 
+
+Document Fiscal Year Focus 
+
+Current Fiscal Year End Date 
+
+Entity File Number 
+
+Entity Registrant Name 
+
+Entity Central Index Key 
+
+Entity Primary SIC Number 
+
+Entity Tax Identification Number 
+
+Entity Incorporation, State or Country Code 
+
+Entity Address, Address Line One 
+
+Entity Address, Address Line Two 
+
+Entity Address, Address Line Three 
+
+Entity Address, City or Town 
+
+Entity Address, State or Province 
+
+Entity Address, Country 
+
+Entity Address, Postal Zip Code 
+
+Country Region 
+
+City Area Code 
+
+Local Phone Number 
+
+Extension 
+
+Written Communications 
+
+Soliciting Material 
+
+Pre-commencement Tender Offer 
+
+Pre-commencement Issuer Tender Offer 
+
+Title of 12(b) Security 
+
+No Trading Symbol Flag 
+
+Trading Symbol 
+
+Security Exchange Name 
+
+Title of 12(g) Security 
+
+Security Reporting Obligation 
+
+Annual Information Form 
+
+Audited Annual Financial Statements 
+
+Entity Well-known Seasoned Issuer 
+
+Entity Voluntary Filers 
+
+Entity Current Reporting Status 
+
+Entity Interactive Data Current 
+
+Entity Filer Category 
+
+Entity Small Business 
+
+Entity Emerging Growth Company 
+
+Elected Not To Use the Extended Transition Period 
+
+Document Accounting Standard 
+
+Other Reporting Standard Item Number 
+
+Entity Shell Company 
+
+Entity Public Float 
+
+Entity Bankruptcy Proceedings, Reporting Current 
+
+Entity Common Stock, Shares Outstanding 
+
+Documents Incorporated by Reference [Text Block] 
+
+Entity Information, Former Legal or Registered Name
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-101.PRE
+<SEQUENCE>4
+<FILENAME>cpss-20250321_pre.xml
+<DESCRIPTION>XBRL PRESENTATION FILE
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>5
+<FILENAME>cps_ex9901.htm
+<DESCRIPTION>COMPANY SUMMARY AS OF DECEMBER 31, 2024
+<TEXT>
+Exhibit 99.1
+
+The Subprime Source Since 1991 December 2024 Investor Presentation
+
+SAFE HARBOR STATEMENT Forward - looking statements in this presentation include the Companys expectations of growth and the Company's recorded figures representing allowances for remaining expected lifetime credit losses, its estimates of fair value (most significantly for its receivables accounted for at fair value), its provision for credit losses, its entries offsetting the preceding, and figures derived from any of the preceding. In each case, such figures are forward - looking statements because they are dependent on the Companys estimates of losses to be incurred in the future. The accuracy of such statements may be adversely affected by various factors, which include the following: possible increased delinquencies; repossessions and losses on retail installment contracts; incorrect prepayment speed and/or discount rate assumptions; possible unavailability of qualified personnel, which could adversely affect the Companys ability to service its portfolio; possible increases in the rate of consumer bankruptcy filings, which could adversely affect the Companys rights to collect payments from its portfolio; other changes in government regulations affecting consumer credit; possible declines in the market price for used vehicles, which could adversely affect the Companys realization upon repossessed vehicles; economic conditions in geographic areas in which the Company's business is concentrated; and our ability to generate sufficient operating and financing cash flows. Any or all of such factors also may affect the Companys future financial results, as to which there can be no assurance. Any implication that the results of the most recently completed quarter are indicative of future results is disclaimed, and the reader should draw no such inference. Factors such as those identified above in relation to losses to be incurred in the future may affect future performance. 2
+
+COMPANY OVERVIEW Consumer Portfolio Services specializes in purchasing and servicing automobile contracts originated by licensed motor vehicle dealers in the sale of new and used automobiles, light trucks and passenger vans. Through our purchases, we provide indirect financing to dealers for sub - prime customers. We serve as an alternative source of financing for dealers, allowing sales to customers who otherwise might not be able to obtain financing. $3.6 Billion Managed Portfolio (1) NASDAQ Listed: CPSS Average Management Tenure is 24 Years - 300+ Combined Years at CPS HQ in Las Vegas, NV Operating Branches in NV, CA, IL, VA and FL 933 Employees (1) 9,100 Daily Applications Received from Dealers (1) Established in 1991. IPO 1992 53 Consecutive Profitable Quarters (1) 103 ABS Deals to Date (1) As of December 31, 2024 3
+
+THE CPS ADVANTAGE Repo - Skip Scorecard Deficiency Scorecard Dealer Scorecard Asset Scorecard Collection Behavior Scorecard Extension Scorecard Applicant Scorecard Deal Scorecard Early Payment Default Scorecard Originations Servicing (Collection) Servicing (Recovery) Asset & Dealers CPS is a leader in Machine Learning (ML) and Artificial Intelligence (AI). Industry leading disciplined modeling framework: Linear/Logistic Regression, Neural Network, Decision Tree, Ensemble Model, Time Series, Machine Learning, Random Forest Continuous model training and recalibration Proprietary Modeling and Scorecards Instant Credit Decisions Leads CPS to Higher Quality Loans Risk Department Led by Industry Veterans Decades of Historical Performance Data Shape our Models 4
+
+LEADERSHIP Charles Brad Bradley CEO, Chairman of the Board CEO since 1992 Chairman of the Board since 2001 33 years at CPS Mike Lavin President, COO, CLO President since 2022 COO since 2019. CLO since 2014 23 Years at CPS Danny Bharwani CFO CFO since 2022 27 years at CPS CPS senior management team consists of 13 executives that are led by Brad, Mike and Danny. Each has significant industry experience and, on average, 24 years with CPS. Combined, senior management has over 300 years of auto lending experience just at CPS . 5
+
+MARKET $1.5 trillion auto loans outstanding at Q3 2024 (1) ~15% of auto financings in Q3 2024 were sub - prime (1) Large Total Addressable Market (TAM) Capital - intensive Highly regulated industry High Barrier to Entry Few dominant players Compete on rates and fees Small, Fragmented Market Dynamics Footprint Powered by Bing GeoNames, Microsoft, TomTom (1) According to Experian Automotive (2) As of December 31, 2024 6 6% 8% 10% 5% 5% Highest volume originating states for CPS (2) Contracts purchased in 47 states (2)
+
+PRODUCT OFFERING Meta 14.42% $102,634 3% Preferred 16.27% $89,288 17% Super Alpha 18.59% $83,131 21% Alpha Plus 20.90% $81,510 23% Alpha 22.15% $63,142 26% Standard 24.01% $60,076 7% Mercury / Delta 24.91% $56,737 2% First Time Buyer 24.34% $49,788 2% Overall 20.11% $25,298 $22,535 $20,379 $16,314 $14,518 $14,039 $21,931 $74,655 583 569 560 576 586 572 585 576 100% % of Purchases Avg. Yield Program (1) Avg. Amount Financed $24,828 $26,270 Avg. Annual Household Income Avg. Time on Job (years) 8.9 7.2 5.8 5.0 4.2 3.4 3.9 2.7 5.1 Avg. FICO 665 (1) Under the CPS programs for contracts purchased for the twelve months ended December 31, 2024. 7
+
+ORIGINATION CHARACTERISTICS 100.0% 105.0% 110.0% 115.0% 120.0% 125.0% 130.0% Loan to Value 8.5% 9.0% 9.5% 10.0% 10.5% 11.0% 11.5% 12.0% Payment to Income 590 585 580 575 570 565 560 555 550 545 FICO 0.0% 5.0% 10.0% 15.0% 20.0% 25.0% APR $0 $5,000 $10,000 $15,000 $20,000 $25,000 Amount Financed 67.0 67.5 68.0 68.5 69.0 69.5 70.0 70.5 Original Term 8
+
+DEMAND FOR OUR LENDING PROGRAMS 0 500,000 1,000,000 1,500,000 2,000,000 2,500,000 3,000,000 3,500,000 Applications vs. Funded Loans Approved Applications 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 Applications Contracts Funded 52% Average Approval Rate 13,100 Approved Dealer Network Strong Demand for our Lending Programs Auto Decisioning Proprietary AI Driven Scorecard Selective Funding Answers Within Seconds to Dealers 9
+
+WHO IS OUR CUSTOMER? CPS Customer 42 Years Old on Average 5 Years Average Job Time 7 Years Average Length at Residence 9 Years Credit History on Average 24.0% Homeowners 10.6% Average Payment to Income $75,000 Average Household Income 34.3% Average Debt to Income 10 Amounts for CPS programs for contracts purchased for the twelve months ended, December 31, 2024.
+
+WHAT DO OUR CUSTOMERS DRIVE? Certified Pre - Owned, 18% Pre - Owned, 73% VEHICLE TYPE New, 9% Factory Franchised, 72% ORIGINATING DEALERSHIP Independent, 28% Domestic, 48% 11 Charts show data for CPS programs for contracts purchased for the twelve months ended December 31, 2024. Imports , 52% VEHICLE MAKE
+
+11 
+
+PORTFOLIO PERFORMANCE Data shown is CNL performance by origination quarter, and as of December 31, 2024. 12 22.00% 20.00% 18.00% 16.00% 14.00% 12.00% 10.00% 8.00% 6.00% 4.00% 2.00% 0.00% CNL Percentage 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59 61 63 65 67 69 71 73 75 77 79 81 83 Months Seasoned 2016 - Q1 2018 - Q2 2020 - Q3 2022 - Q4 2016 - Q2 2018 - Q3 2020 - Q4 2023 - Q1 2016 - Q3 2018 - Q4 2021 - Q1 2023 - Q2 2016 - Q4 2019 - Q1 2021 - Q2 2023 - Q3 2017 - Q1 2019 - Q2 2021 - Q3 2023 - Q4 2017 - Q2 2019 - Q3 2021 - Q4 2024 - Q1 2017 - Q3 2019 - Q4 2022 - Q1 2024 - Q2 2017 - Q4 2020 - Q1 2022 - Q2 2024 - Q3 2018 - Q1 2020 - Q2 2022 - Q3 2024 - Q4
+
+ECONOMIC MODEL Interest Income 2024 (1) 2023 (1) 11.4% 11.3% Mark to Fin. Recs. at FV Servicing and Other Income Interest Expense Net Interest Margin Provision for Credit Losses Core Operating Expenses 0.6% 0.8% 0.2% 0.4% (6.1%) (5.4%) 6.1% 7.0% 0.1% 0.2% (5.4%) (5.9%) Quarter Ended (1) December 31, December 30, Pretax Return on Assets 0.9% 1.3% (1) Statement of Operations nine months ended, as a percentage of the average managed portfolio at December 31, 2024. Percentages may not add due to rounding. 13
+
+SUMMARY BALANCE SHEET December 31, 2024 December 31, 2023 Assets Cash $ $ Restricted cash Finance receivables, net of allowance 6.2 119.3 24.7 Finance receivables, measured at fair value 2,722.7 Deferred tax assets, net 3.7 Other assets 11.7 125.7 5.0 3,313.8 1.0 36.7 27.2 3,493.9 $ 2,903.7 $ Liabilities Accounts payable and accrued expenses $ 62.5 $ Warehouse lines of credit 234.0 Residual interest financing 49.9 Securitization trust debt 2,265.4 Subordinated renewable notes 70.1 410.9 99.2 2,594.4 26.5 17.2 2,629.0 Shareholders' equity 3,201.1 292.8 274.7 3,493.9 $ 2,903.7 $ Summary Balance Sheet ($ in millions) (1) (1) Numbers may not add due to rounding . 14
+
+SUMMARY STATEMENT OF OPERATIONS (1) Numbers may not add due to rounding. Interest income Mark to finance receivables at fair value $ 98.2 $ 83.3 5.0 Other income 2.1 6.0 2.7 Total Revenues 105.3 92.0 Employee costs 23.9 23.2 General and administrative 22.3 20.2 Interest 52.5 40.3 Provision for credit losses (0.7) (1.6) Total Expenses 98.0 82.1 Pretax income 7.3 Income tax expense 2.2 9.9 2.7 Net income 5.1 $ 7.2 $ EPS (fully diluted) 0.21 $ 0.29 $ Summary Statement of Operations ($ in millions) (1) Three Months Ended December 31, December 31, 2024 2023 15
+
+SELECTED FINANCIAL DATA ($ in millions) December 31, 2024 December 31, 2023 Auto contract purchases 457.8 Total portfolio 3,491.0 Risk - adjusted margin (1) 53.5 $ $ $ Core operating expenses (2) $ Amount 46.2 $ % of avg. managed portfolio 5.4% $ 301.8 $ 2,970.1 $ 53.3 $ 43.5 5.9% Pretax return on managed assets (3) 0.9% 1.3% Total delinquencies and repo inventory (30+ days past due) As a % of total owned portfolio 14.85% 14.55% Annualized net charge - offs As a % of total owned portfolio 8.02% 7.74% Three Months Ended Total expenses less provision for credit losses and interest expense. (1) Revenues less interest expense and provision for credit losses. (2) (3) Equal to annualized pretax income as a percentage of the average managed portfolio . 16
+
+SHAREHOLDER VALUE Continuous Improvements to Shareholder Value NASDAQ Listed Stock - Ticker Symbol: CPSS $0 $5,000 $10,000 $15,000 $20,000 $25,000 $30,000 $35,000 $40,000 Dec - 17 Mar - 18 Jun - 18 Sep - 18 Dec - 18 Mar - 19 Jun - 19 Sep - 19 Dec - 19 Mar - 20 Jun - 20 Sep - 20 Dec - 20 Mar - 21 Jun - 21 Sep - 21 Dec - 21 Mar - 22 Jun - 22 Sep - 22 Dec - 22 Mar - 23 Jun - 23 Sep - 23 Dec - 23 Mar - 24 Jun - 24 Sep - 24 Dec - 24 $0.00 $1.00 $2.00 $3.00 $4.00 $5.00 $7.00 $6.00 $8.00 $9.00 $10.00 $11.00 $12.00 $13.00 $14.00 $15.00 Pre - tax Income $ in Thousands - Left Axis Book Value per Share in $ - Right Axis 17
+
+INVESTMENT OUTLOOK Continuous Growth Strong macroeconomic factors AI - driven Originations Scorecard Strong Fundamentals 3.3 million applications in 2024 $1.68 billion in sub - prime auto contracts funded in 2024 Managed portfolio is at largest amount in company history Raised Wtd. Avg APRs in originations from 17.72% in Dec 2022 to 20.11% in December 2024 Favorable demand for used vehicles New vehicle pricing increase and increasing sales despite rising interest rates Improves efficiency and customer satisfaction Upcoming AI Scorecard Refresh (refresh every 18 - 24 months) Industry leading technology in all facets of our business Decreased leverage on the portfolio puts CPS in a position to grow faster than competitors Increasing shareholder equity - highest in company history Decreasing core operating expenses, while portfolio grows Investor Relations Contact Tom Colton and Alec Wilson Gateway Group, Inc. Phone: 949 - 574 - 3860 Email: CPSS@gateway - grp.com 18
+
+REFERENCE TO PUBLIC REPORTS Any person considering an investment in securities issued by CPS is urged to review the materials filed by CPS with the U.S. Securities and Exchange Commission ("Commission"). Such materials may be found by inquiring of the Commissions EDGAR search page www.sec.gov/edgar/searchedgar/companysearch.html using CPS's ticker symbol, which is "CPSS." Risk factors that should be considered are described in Item 1A, Risk Factors," of CPSs most recent annual report on Form 10 - K and subsequent reports on Form 10 - Q, which reports are on file with the Commission and available for review at the Commission's website. Such description of risk factors is incorporated herein by reference. 19
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>image_020.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>image_021.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>image_022.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>image_023.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>10
+<FILENAME>image_024.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>11
+<FILENAME>image_025.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>12
+<FILENAME>image_026.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>13
+<FILENAME>image_027.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>14
+<FILENAME>image_028.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>15
+<FILENAME>image_029.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>16
+<FILENAME>image_030.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>17
+<FILENAME>image_031.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>18
+<FILENAME>image_032.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>19
+<FILENAME>image_033.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>20
+<FILENAME>image_034.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>21
+<FILENAME>image_035.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>22
+<FILENAME>image_036.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>23
+<FILENAME>image_037.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>24
+<FILENAME>image_038.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>26
+<FILENAME>R1.htm
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+/* Do Not Remove This Comment */
+function toggleNextSibling (e) {
+if (e.nextSibling.style.display=='none') {
+e.nextSibling.style.display='block';
+} else { e.nextSibling.style.display='none'; }
+}v3.25.1
+
+Cover
+
+Mar. 21, 2025
+
+Cover [Abstract] 
+
+Document Type 8-K
+
+Amendment Flag false
+
+Document Period End Date Mar. 21, 2025
+
+Entity File Number 1-11416
+
+Entity Registrant Name CONSUMER PORTFOLIO SERVICES, INC.
+
+Entity Central Index Key 0000889609
+
+Entity Tax Identification Number 33-0459135
+
+Entity Incorporation, State or Country Code CA
+
+Entity Address, Address Line One 3800 Howard Hughes Pkwy
+
+Entity Address, Address Line Two Suite 1400
+
+Entity Address, City or Town Las Vegas
+
+Entity Address, State or Province NV
+
+Entity Address, Postal Zip Code 89169
+
+City Area Code 949
+
+Local Phone Number 753-6800
+
+Written Communications false
+
+Soliciting Material false
+
+Pre-commencement Tender Offer false
+
+Pre-commencement Issuer Tender Offer false
+
+Title of 12(b) Security Common Stock, no par value
+
+Trading Symbol CPSS
+
+Security Exchange Name NASDAQ
+
+Entity Emerging Growth Company false
+
+Entity Information, Former Legal or Registered Name Not Applicable
+
+X
+
+- Definition
+
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.+ References
+
+No definition available.+ Details
+
+Name: dei_AmendmentFlag
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Area code of city+ References
+
+No definition available.+ Details
+
+Name: dei_CityAreaCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Cover page.+ References
+
+No definition available.+ Details
+
+Name: dei_CoverAbstract
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:stringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentPeriodEndDate
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:dateItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.+ References
+
+No definition available.+ Details
+
+Name: dei_DocumentType
+
+Namespace Prefix: dei_
+
+Data Type: dei:submissionTypeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 1 such as Attn, Building Name, Street Name+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine1
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Address Line 2 such as Street or Suite number+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressAddressLine2
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the City or Town+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressCityOrTown
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Code for the postal or zip code+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressPostalZipCode
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the state or province.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityAddressStateOrProvince
+
+Namespace Prefix: dei_
+
+Data Type: dei:stateOrProvinceItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityCentralIndexKey
+
+Namespace Prefix: dei_
+
+Data Type: dei:centralIndexKeyItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Indicate if registrant meets the emerging growth company criteria.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityEmergingGrowthCompany
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityFileNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:fileNumberItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Two-character EDGAR code representing the state or country of incorporation.+ References
+
+No definition available.+ Details
+
+Name: dei_EntityIncorporationStateCountryCode
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarStateCountryItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Former Legal or Registered Name of an entity+ References
+
+No definition available.+ Details
+
+Name: dei_EntityInformationFormerLegalOrRegisteredName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityRegistrantName
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b-2
+
++ Details
+
+Name: dei_EntityTaxIdentificationNumber
+
+Namespace Prefix: dei_
+
+Data Type: dei:employerIdItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Local phone number for entity.+ References
+
+No definition available.+ Details
+
+Name: dei_LocalPhoneNumber
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:normalizedStringItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 13e
+
+-Subsection 4c
+
++ Details
+
+Name: dei_PreCommencementIssuerTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14d
+
+-Subsection 2b
+
++ Details
+
+Name: dei_PreCommencementTenderOffer
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Title of a 12(b) registered security.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection b
+
++ Details
+
+Name: dei_Security12bTitle
+
+Namespace Prefix: dei_
+
+Data Type: dei:securityTitleItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Name of the Exchange on which a security is registered.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 12
+
+-Subsection d1-1
+
++ Details
+
+Name: dei_SecurityExchangeName
+
+Namespace Prefix: dei_
+
+Data Type: dei:edgarExchangeCodeItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Exchange Act
+
+-Number 240
+
+-Section 14a
+
+-Subsection 12
+
++ Details
+
+Name: dei_SolicitingMaterial
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Trading symbol of an instrument as listed on an exchange.+ References
+
+No definition available.+ Details
+
+Name: dei_TradingSymbol
+
+Namespace Prefix: dei_
+
+Data Type: dei:tradingSymbolItemType
+
+Balance Type: na
+
+Period Type: duration
+
+X
+
+- Definition
+
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.+ References
+
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+
+-Publisher SEC
+
+-Name Securities Act
+
+-Number 230
+
+-Section 425
+
++ Details
+
+Name: dei_WrittenCommunications
+
+Namespace Prefix: dei_
+
+Data Type: xbrli:booleanItemType
+
+Balance Type: na
+
+Period Type: duration
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EXCEL
+<SEQUENCE>27
+<FILENAME>Financial_Report.xlsx
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>28
+<FILENAME>Show.js
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>29
+<FILENAME>report.css
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>31
+<FILENAME>FilingSummary.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+3.25.1 
+
+html 
+1 
+24 
+1 
+false 
+0 
+0 
+false 
+3 
+
+false 
+false 
+R1.htm 
+00000001 - Document - Cover 
+Sheet 
+http://consumerportfolio.com/role/Cover 
+Cover 
+Cover 
+1 
+
+false 
+false 
+All Reports 
+Book 
+All Reports 
+
+cps_8k.htm 
+cpss-20250321.xsd 
+cpss-20250321_lab.xml 
+cpss-20250321_pre.xml 
+
+http://xbrl.sec.gov/dei/2025 
+
+true 
+false
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>JSON
+<SEQUENCE>33
+<FILENAME>MetaLinks.json
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>ZIP
+<SEQUENCE>34
+<FILENAME>0001683168-25-001822-xbrl.zip
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>35
+<FILENAME>cps_8k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+0000889609 
+
+2025-03-21 
+2025-03-21 
+
+iso4217:USD 
+
+shares 
+
+iso4217:USD 
+
+shares 
+
+false 
+0000889609 
+8-K 
+2025-03-21 
+CONSUMER PORTFOLIO SERVICES, INC. 
+CA 
+1-11416 
+33-0459135 
+3800 Howard Hughes Pkwy 
+Suite 1400 
+Las Vegas 
+NV 
+89169 
+949 
+753-6800 
+Not Applicable 
+false 
+false 
+false 
+false 
+Common Stock, no par value 
+CPSS 
+NASDAQ 
+false
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
